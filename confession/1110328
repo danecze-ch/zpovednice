@@ -1,0 +1,212 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+Zpověď č.1110328, vloženo 15.10.2019 23: _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+41:22                                    _s_t_r_á_n_k_a_]
+Programovací jazyk
+Ahoj,
+psal jsem sem už před nějakou dobou a teď sem píši znovu, protože jsem zjistil,
+že je tu vcelku dost lidí, kteří se pohybují v těchto oblastech :D. Můj problém
+je ten, že neustále přecházím z jednoho jazyka na druhý a nikdy ani nezačnu
+pracovat na nějakém svém větším projektu. Přijde mi, že je těch programovacích
+jazyků, všemožných frameworků jako šupek a každý je jiný a lepší v něčem jiném.
+Navíc názory programátorů se velmi často velmi liší, což ještě víc znesnadňuje
+prvotní výběr. Co ale 100% vím je to, že mě nejvíc láká programování té nižší
+úrovně - C/C++, Assembler, Arduino atd. Nedávno jsem si na Udemy taky našel
+vcelku dobře vypadající tutoriál na programování mikrokontroléru Atmel 8051.
+Tak uvidím, jak mi to půjde. Tohle nižší programování ale zřejmě bude celkem
+oříšek, a tak se chci věnovat i něčemu jinému mimo to. V dnešní době asi nejvíc
+valí vývoj webu - nejvíce pracovních nabídek = po škole se můžu snadněji dostat
+mezi již pracující programátory. A tak mě napadlo naučit se na dobrou úroveň
+HTML, CSS + Bootstrap, SQL, trošku JS a teď chybí už jen ta nejtěžší volba a to
+je serverový jazyk. Na výběr mám klasicky buď Javu, C#, Node.js nebo PHP. PHP
+je podle některých sice prasárna, ale jelikož je můj primární cíl zájem v tom
+low levelu a je z těch ostatních jednoznačně nejjednodušší na naučení, tak mi
+PHP přijde jako nejlepší volba.
+ Labužník [Muž]19  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+17.10.2019 06:44:19
+Sta67:
+Pracuji v embedded vývoji bezmála 20 let, na mnoha platformách a z toho 8051
+byla jen jednou okrajově.
+Ignorujete totiž fakt, že v uplatnění vývojáře nehraje roli počet vyrobených
+kusů, ale počet RŮZNÝCH aplikací a v tom je 8051 jaksi mimo.
+MIFARE je dost speciální použití - je tam potřeba trochu rozumný procesor
+kvůli počítání, není to jen identifikace, ale není tam nějaký ARM ne kvůli
+výrobní ceně (ta by snad byla i pro malé jádro podobná) ale snad jen kvůli
+tomu, že za ARM se platí licence.
+S id náramky, svíčkami atp. bych si vůbec tak jistý nebyl, že je tam 8051 (k
+čemu by tam byla? Stačí mnohem jednodušší kontrolér).
+V každém případě programováním hřbitovních svíček se tazatel neuživí a o tom
+byl dotaz - z tohoto pohledu je dnes 8051 dost hodně mimo.
+Kromě toho, když se naučí nějakou modernější architekturu, tak instrukční sadu
+pro 8051 zvládne za odpoledne kdykoliv to bude potřebovat (jakože nejspíš
+nikdy).
+ mcc
+16.10.2019 17:20:19
+Za tu dobu, co se tady rozhoduješ který jazyk si vybrat jsi už mohl jeden
+umět...
+
+Já osobně neznám žádného programátora, který by uměl jen jeden jediný jazyk.
+Já sám se za programátora ani nepovažuji a znám jich aspoň 5...
+
+To samé čeká i tebe, pokud se tím chceš živit. Navíc bych řekl, že se ty
+jazyky zas až tak moc neliší. Trochu se liší ty objektové od neobjektových,
+svá specifika mají interpretované jazyky, ale jinak je to plus minus stejný...
+
+
+SQL samozřejmě není jazyk, ve kterém by se dalo něco naprogramovat, SQL je na
+ovládání databází - a protože většina programů s nějakou tou databází
+komunikuje, budeš se ho muset naučit taky.
+
+Céčko by měl podle mě aspoň trochu umět každý...pokud chceš dělat hardware,
+tak se tomu nevyhneš.
+
+Assembler bych se určitě na začátku neučil - jednak - ono se vlastně není moc
+co učit, a jednak - je to nepřenositelné. Každý procesor má jiný kód, a než ty
+se dostaneš k nějaké reálné práci, budeš se to stejně učit znovu.
+
+Navíc - asembler se dá naučit také tak, že si necháš program v céčku přeložit
+do asembleru - každý překladač to umí - a podívat se, jak to vypadá.
+
+
+Už to tu někdo psal - je úplně jedno, jaký jazyk si vybereš, hlavně se už
+nějaký nauč. Umět (programovat) znamená, že se o jazyk vlastně vůbec nestaráš.
+A naučíš se to jen tím, že budeš něco dělat...
+ _M_i_c_h_a_l_-_2_2_2 [Muž]44 [Kategorie]
+16.10.2019 16:45:55
+Labužník: Znáš přísloví Devatero řemesel, desátá bída? Naučit se jednu věc
+pořádně je práce na plný úvazek. Chceš-li být dobrý, neuč se devět různých
+řemesel naráz. Když náhodou budeš u svého jednočipu potřebovat pokročilé
+webové rozhraní, najmeš si na to profesionála.
+ _S_t_a_6_7 [Muž]28 [Kategorie]
+16.10.2019 16:26:40
+Se syntaxí v C/C++ problém nemám a myslím, že ty nejtěžší začátečnické bariéry
+jsem už překonal. Do budoucna je pro mě tedy jasná volba C a C++ pro low
+level. Jen hledám i nějakou bokovku a PHP mi díky své jednoduchosti přišlo
+velmi vhodné.
+ Labužník
+16.10.2019 16:22:28
+timtim: to co chci dělat jsem psal, tak nevím, proč se ptáš. A z hlediska času
+jsem právě vybral PHP - není složité a práce je pro něj habaděj. Někteří sice
+píšou, že od PHP odcházejí, ale PHP je pořád na 80% webů. PHP se neučím proto,
+abych se naučil programovat, ale z důvodu, že právě není tak těžké a tvorba
+webu je snad v dnešní době nejžádanější. Naučit se pořádně programovat můžu
+právě v tom C/C++. Udělat si například Hada nebo Tetris je dobrý nápad.
+Zkoušel jsem už i Javu nebo C#, ale znám pár lidí co pracují ve firmách, ale
+nemají ani ponětí jak programovat v Assembleru nebo ruční spojový seznam v C.
+Takový programátoři jsou stejní lepiči kodu, jako "programátoři" v PHP.
+ Labužník
+16.10.2019 16:10:39
+mcc: Klony 8051 jsou vůbec nejpoužívanější čipy na světě. Prodeje se počítají
+v desítkách miliard kusů! Jen MiFare založeném na 8051 se prodalo deset
+miliard! Používají se hlavně kvůli ceně. Stojí pár centů, a dnes je najdete
+třeba ve vstupenkách, čipech na otevírání dveří, identifikačních náramcích,
+hřbitovních svíčkách, baterkách, přívěscích a podobných věcech.
+ _S_t_a_6_7 [Muž]28 [Kategorie]
+16.10.2019 15:59:03
+Podle mě by ses měl primárně naučit programovat a je celkem jedno v čem.
+Jelikož si to budeš studovat sám, doporučil bych na začátek Javu, ta má celkem
+jednoznačnou syntax a nemá moc edge casů, takže se v tom jen tak neztratíš.
+Taky tě donutí definovat si typy, což je pro začátečníka lepší. No a v
+neposlední řadě si můžeš zadarmo stáhnout Netbeans, což mi pro začátečníka
+přijde jako pěkný a přehledný rozhraní.
+
+Nejlépe si najdi nějaký cíl, co tě zajímá a ten si naprogramuj. Mně když bylo
+kolem patnácti, tak jsem udělal třeba program co vyřešil sudoku nebo piškvorky
+s "UI", který mě skoro vždycky porazili. Pak během střední už i třeba šachy co
+přemýšleli pár tahů dopředu nebo se snažil naprogramovat nějaký hry - např.
+učitel na informatiku řekl, že v hodině můžeme hrát jen to, co si sami
+naprogramujeme, tak jsem udělal bulánky. Nebo mě třeba štvalo hledání min, že
+občas ty situace nebyly jednoznačné, tak jsem si udělal svoje hledání min,
+který takové situace detekoval a vyhodnotil... atd.
+
+A až budeš umět programovat, tak si budeš moct vybrat kterejkoli jazyk nebo
+framework, podle toho co budeš chtít dělat.
+ _l_i_b_i_k [Muž]34 [Kategorie]
+16.10.2019 14:18:39
+Říkáš že neustále přecházíš z jednoho jazyka na druhý a nepíšeš proč.
+Pak že mikrokontroléry budou oříšek a že chceš ještě něco navíc? Jak na to
+vezmeš čas?
+Měl by sis uvědomit že jazyk je jen nástroj a zvolit si co chceš opravdu
+dělat, co je cíl. Weby? Kiosky? Auta?
+Pračky?
+ _t_i_m_t_i_m [Muž]31 [Kategorie]
+16.10.2019 12:24:03
+Ty jo php se ted dost zbavujem a dost veci se prepisuje do javy. Ja delam
+glavne devops a pisu ted dost v golangu a ma to neco do sebe. Navic je to
+jazyk vhodny jak na low-level programovani tak se v nem pisou ruzny apicka
+apod.
+
+Firzen: napsat ze sql dnes umi kazdej trouba muze jen clovek, kterej tak
+maximalne umi select * from users ;). Navrhnout dobre relacni bazi a napsat
+dotazy tak aby bezely efektivne je obcas skutecna veda
+[Smajlík]
+ Psoug
+16.10.2019 08:21:52
+python, golang; U nas PHP taky ficelo, ale konecne ho opustili i ti
+nejzarputilejsi.
+Jeden presel na F#, dva na golang. Dikybohu za to!
+ lol
+16.10.2019 01:21:05
+C++ a Python zna dneska kazdy, takze i ty se je budes muset naucit.
+ dsadsfasdf
+16.10.2019 00:38:30
+Těžko radit, co tě bude víc bavit. Snad jen, nesoustřeď se tolik na volbu
+programovacího jazyka, ale věnuj se také obecně algoritmům, návrhu projektu
+atp. Programovací jazyk je jenon nástroj.
+A co se týká embedded, tak na 8051 se vykašli, je to skoro 40 let stará
+architektura a dnes se občas používá snad už jen ze setrvačnosti.
+ mcc
+16.10.2019 00:26:50
+Pokud se nemůžeš rozhodnout, který jazyk si vybrat, může to být znakem, že by
+ti vyhovovalo být spíše teoretikem. Ale pokud jsi na VŠ tak by jsi na to možná
+už přišel sám. Pro kariéru programátora bych možná doporučil ten JavaScript a
+Node.JS. Výhodou by bylo, že by ses učil jen jeden jazyk. Je vážně dobré se
+specializovat. A lidí, co umí JS skutečně dobře není příliš mnoho. Oproti tomu
+HTML, CSS a SQL umí každý trouba, na to bych se vykašlal, pokud rád řešíš
+složitější úlohy.
+
+Jinak Java už je tak nějak za zenitem. Spíš bych se naučil Kotlin nebo
+Clojure, pokud chceš jít cestou JVM.
+ _F_i_r_z_e_n [Muž]28 [Kategorie]
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ] _II_nn_tt_ee_rr_nn_ee_tt_oo_vv_?é_ _RR_?á_dd_ii_oo_ _SS_ee_zz_nn_aa_mm_kk_aa_ _vv_yy_ss_?í_ll_?á_ _ii_nn_zz_ee_rr_?á_tt_yy_ _ss_ _nn_?á_mm_ii_ _ss_ee
+ OPIŠ BEZPEČNOSTNÍ KOD: _ss_ee_zz_nn_?á_mm_?í_tt_ee_..
+ [Captcha]              _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+

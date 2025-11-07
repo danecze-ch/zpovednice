@@ -1,0 +1,130 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+   Otázky - Vzkazy č.1106438, vloženo _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+   31.08.2019 17:42:37                _s_t_r_á_n_k_a_]
+   Notebook po startu nereaguje na nic
+   Notebook Acer Extensa 2036 mi po zmáčknutí startovací klávesy nasartuje,
+   Objeví se na chvíli logo Acer, potom se logo ztratí, zčerná obrazovka a
+   jen v levém horním rohu bliká kurzor. Nereaguje na žádnou klávesu, akorát
+   po zmáčknutí některé, nezjistil jsem které ty klávesy pískají při
+   zmáčknutí a to je tak asi všechno. Startovací klávesou jde vypnout,
+   zapnout ale výsledek po restartu je stále stejný. Tak vůbec nevím kde je
+   problém, jestli je špatný celý notebook nebo jenom software? Jestli to
+   jde zkusit spravit doma nebo musí do servisu anebo zrovna do odpadu po
+   vymontování harddisku samozřejmě. Vůbec nevím co ten můj počítač vlastně
+   čeká. Dotaz Vám píšu z cizího počítače, protože ten můj nejde vůbec. Tak
+   děkuji za tipy, ideálně návody jak to spravit.
+    Acer2036 [Muž]66  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+02.09.2019 01:08:08
+Asi ceka na rok 2036.
+ lol
+31.08.2019 21:39:12
+Tak to je už pro mne složité. Hlavně že mi počítač jde a servisáci by mi to
+měli udělat na počkání, když je to otázka minuty. Já bych nad tím musel
+experimentovat a hloubat, nebyla by to pro mne otázka minuty ale asi tak
+otázka hodiny a to ještě s nejistým výsledkem.
+ Acer2036
+31.08.2019 20:31:23
+Acer: Nastavit to jde, je to otázka minuty, ale přesný návod ti nedám (každý
+BIOS je trošku jiný). V podstatě se potřebuješ dostat do BIOSu, v něm najít
+nastavení bootovací sekvence a nastavit, aby počítač bootoval z pevného disku.
+V podstatě potřebuješ počítači říct, že má zavádět operační systém rovnou z
+pevného disku a nekoukat na jiná média.
+ _C_u_m_s_p_r_i_t_e [Muž]34 [Kategorie]
+31.08.2019 19:40:27
+Dík všem. Tak už jedu na svém notebooku. Závada byla jednoduchá, jak psal
+Cumsprite, kterému obzvlášť děkuji.
+
+Koupil jsem si microSD, dosud jsem k zálohování dat používal flash disk a bylo
+to otravné a nešetrné ke konektorům, pořád zandávat a vyndávat flash disk, z
+konektoru vyčnívala, hrozilo mechanické poškození a tak jsem si koupil
+microSD.
+
+Rád bych ji v notebooku nechával napořád ale asi to chce nějak nastavit aby to
+šlo mít v notebooku nastálo a nedělalo mi to při dalším startu to co teď. Tak
+jestli by to šlo nějak nastavit hned pomocí nějakého jednoduchého návodu,
+uvítal bych. Jsem docela počítačový negramota. Umím dobře surfovat za pomoci
+prohlížeče, uživatelsky word a excel, umím přijat a odeslat poštu z Outlook a
+to je tak asi všechno. S každou prkotinou chodím do comp servisu, jenže ten
+bude k dispozici až v pondělí, pokud na mne budou mít čas.
+
+A ještě pro Azathoth: Ani jsem si neuvědomil že je notebook tak starý.
+Používám každý den, HW pokaždé bez problému, vždy se řešil jenom SW. Takže to
+takový křáp jak píšeš zase není, když vydržel 15 roků a dalších 15 možná ještě
+vydrží:)
+
+Vyšlo najevo že vinna byla špatně nastavena microSD, za to Acer nemůže.
+ Acer2036
+31.08.2019 19:39:55
+Pokud jsi běžný uživatel, jediné co zvládneš, podivat se, zda nemáš v NTB CD,
+DVD nebo flash, něco víc pro tebe bude španělská vesnice. Záchranou pro tebe
+může být uvedené fórum, pokud bude mít někdo s tebou svatou trpělivost.
+_h_t_t_p_s_:_/_/_p_c_-_h_e_l_p_._c_n_e_w_s_._c_z_/
+ _M_i_c_h_4_l_d [Muž]27 [Kategorie]
+31.08.2019 19:10:46
+to je skoro 15 let starej notebook a i v době kdy byl novej to byl křáp. vyhoď
+to a kup si jinej.
+ _A_z_a_t_h_o_t_h [Muž]27 [Kategorie]
+31.08.2019 18:42:47
+Zkus, jestli se dostaneš alespoň do biosu. Je potřeba hned po startu rychle
+mačkat příslušnou klávesu, ale je to notebook od notebooků různé (nejčastěji
+F2, ale může to klidně být F8, Esc, Del... ).
+
+Kontrolní otázka: Nemáš v notebooku připojenou nějakou flashku? Pokud ano,
+zkus ji odpojit. Můžeš tam mít blbě nastavenou bootovací sekvenci a může se ti
+to snažit bootovat z té flashky.
+ _C_u_m_s_p_r_i_t_e [Muž]34 [Kategorie]
+31.08.2019 18:24:25
+To spravit neumíš. Vada je zřejmě v SW, který je nahrán v ROMce nebo na disku.
+Musíš počítač dát opravit někomu, kdo ví jak.
+ _B_e_e_r_0_1 [Muž]93 [Kategorie]
+31.08.2019 18:18:27
+Podivej se do biosu jestli to vidi pamet a pevny disk, nejspis odeslo jedno z
+toho.
+ newbie789d
+31.08.2019 17:44:48
+Tak ho nezapínaj.
+[Smajlík]       [Muž]36 [Kategorie]
+ _F_a_j_n_š_m_e_k_e_r_1_9_8_9
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+

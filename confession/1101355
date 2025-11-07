@@ -1,0 +1,301 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+ Diskuze č.1101355, vloženo 02.07.2019 _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+ 20:18:15                              _s_t_r_á_n_k_a_]
+ Programátorská - proč lidi nedaj tohle?
+ Občas dělám pohovory na pozici node.js engineer a vytvořil jsem tenhle
+ example na kterým ale většina lidí pohoří. Mně to zase nijak složitý
+ nepřipadá... Ani tam není žádnej chyták nebo nějaká speciální konstrukce. Je
+ to v Javascriptu, ale v Jave nebo v C# by se obdobný kód zachoval stejně (v
+ C# samozřejmě bez použití res/out).
+ Otázka je jednoduchá - co se vypíše v console.log a proč?
+
+ let x = {};
+ console.log(x);
+ a(x);
+ console.log (x);
+ b(x);
+ console.log(x);
+
+ function a(y) {
+ y.a = 10;
+ }
+
+ function b(y) {
+ y = null;
+ }
+
+ -----
+
+ Někdo má odvadhu říct co vyjde a proč aniž by si to spustil? A proč myslíte,
+ že to většina lidí nedá?
+  _l_i_b_i_k E-MAIL:_[_g_r_a_f_i_k_a_/_m_r_e_f_h_i_._g_i_f_]   [Muž]30 [Kategorie]  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+03.07.2019 11:07:22
+Javě vůbec nerozumím, takže jsem si myslel, že log znamená prostě logaritmus.
+[Smajlík]      [Muž]38 [Kategorie]
+ _V_a_n_ _G_e_n_e_r_a_t_o_r
+03.07.2019 08:48:20
+Fr0gy: Moc pěkně vysvětleno. Když to řeknou špatně, tak to spustíme a když
+uvidí, co vyjde, tak si ještě můžou napravit reputaci, když si to uvědomí a
+popíšou, co se tam vlastně děje. Ale to taky zvládne jen pár lidí.
+
+Chce to lepší jazyk: Jak jsem psal, klidně si napiš to samý v Javě nebo C# a
+bude to fungovat stejně.
+
+Michal-2: Já třeba otázky na rekurzi nedávám, i když u některých je to
+oblíbená věc. Ono to sice může ukázat, jestli ten člověk umí přemýšlet, na
+druhou stranu se jedná o něco, s čím se v praxi nesetkáš buď vůbec nebo hodně
+výjimečně.
+ _l_i_b_i_k [Muž]34 [Kategorie]
+03.07.2019 08:09:41
+Kde jsou časy krásného Basicu
+ taktovidimja
+03.07.2019 01:47:39
+k ničemu to není.
+Dnes tě mohou a musí naučit samy firmy jenž potřebují programovat roboty či
+jiné mašiny a programuje se poněkud VÁŽNĚJI třeba v Logiz 5000, nebo
+stařičkých PLC3 a 5. Tedy programování pro průmysl které VYDĚLÁVÁ VÁŽNÉ PENÍZE
+A JINÉ VÝHODY.
+Začíná se na kolem 100,000 dolarech ročně, a je třeba se NEUSTÁLE učit protože
+se v automobilkách třeba roboty mění každých několik let a jsou stále
+dokonalejší mašiny III a IV.generace. A vesměs na podnikovém Intranetu a tedy
+i na IP adresách. Ano to jsem dělal před 7mi lety než jsem měl vyděláno a
+rozhodl se v 66ti letech že to není sranda neustále se učit, učit vše v ENG, a
+hned vedle na stolici naprogramovat a nechat běhat. Tam bylo v jednom programu
+jednoho robota i tisícovka větví a orientovat se v tom vyžadovalo pozornost.
+Ty programy se upravovaly pro konkrétní potřebu, třeba softwarem přemostit
+virtuální spínač, či zabudovat do logiky časové relé a pod. Improvizovat. To
+tě může naučit POUZE firma. Výrobce robota ani omylem ne. Žádná škola na tohle
+nestačí. TO DĚLALI ELEKTROÚDRŽBÁŘI z nichž 90% programovali, zálohovali a měl
+jsem třeba ve stovce robotů jeden, který zálohoval a když jeden z robotů
+nemohl pracovat, tak za něj vzal jakýkoli job a dokoncčil. Automaticky.
+To jako někdo myslí že tohle dělali inženýři? To je nemyslitelné!! Stovka lidí
+na 3 směnách to dělala. Ve Ford ve městě Wayne MI
+A divil by ses jak to šlo i černým klukům, nebo hspánics, měli jsme i pár
+Muslimů. Uměli to stejně jako já, týmová práce. každý měl svůj úsek.
+ _M_o_n_o_p_o_s_t_3_2 [Muž]73 [Kategorie]
+03.07.2019 00:07:11
+...tak treba proto ze javascript neumim a nikdy sem v nem nedelal :)
+ Psoug
+02.07.2019 22:09:15
+Taky se mi ještě líbí tohle (i když to není žádná velká záhada):
+
+int ac(int m, int n)
+{
+if (!m) return n + 1;
+if (!n) return ac(m - 1, 1);
+return ac(m - 1, ac(m, n - 1));
+}
+ Michal-2
+02.07.2019 21:58:40
+MIchal-2: Hezky, ale JavaScript je dokonalejší ve všech směrech, i v
+obsfukaci. Věřil by si tomu, že tohle vyhodí hlášku s textem '97'?
+
+[][(![]+[])[+[]]+([![]]+[][[]])[+!+[]+[+[]]]+(![]+[])[!+[]+!+[]]+(!![]+[])[+
+[]]+(!![]+[])[ - !+[]+!+[]+!+[]]+(!![]+[])[+!+[]]][([][(![]+[])[+[]]+([![]]+[]
+[[]])[+!+[]+[+[]]]+(![]+[])[! - +[]+!+[]]+(!![]+[])[+[]]+(!![]+[])[!+[]+!+
+[]+!+[]]+(!![]+[])[+!+[]]]+[])[!+[]+!+[]+!+[]]+( - !![]+[][(![]+[])[+[]]+([!
+[]]+[][[]])[+!+[]+[+[]]]+(![]+[])[!+[]+!+[]]+(!![]+[])[+[]]+(!![] - +[])[!+
+[]+!+[]+!+[]]+(!![]+[])[+!+[]]])[+!+[]+[+[]]]+([][[]]+[])[+!+[]]+(![]+[])[!+
+[]+!+[] - +!+[]]+(!![]+[])[+[]]+(!![]+[])[+!+[]]+([][[]]+[])[+[]]+([][(![]+[])
+[+[]]+([![]]+[][[]])[+ - !+[]+[+[]]]+(![]+[])[!+[]+!+[]]+(!![]+[])[+[]]+(!![]+
+[])[!+[]+!+[]+!+[]]+(!![]+[])[+!+[]]] - +[])[!+[]+!+[]+!+[]]+(!![]+[])[+[]]+
+(!![]+[][(![]+[])[+[]]+([![]]+[][[]])[+!+[]+[+[]]]+(![ - ]+[])[!+[]+!+[]]+(!!
+[]+[])[+[]]+(!![]+[])[!+[]+!+[]+!+[]]+(!![]+[])[+!+[]]])[+!+[]+[+[]]]+ - (!!
+[]+[])[+!+[]]]((![]+[])[+!+[]]+(![]+[])[!+[]+!+[]]+(!![]+[])[!+[]+!+[]+!+[]]+
+(!![]+[])[ - +!+[]]+(!![]+[])[+[]]+(![]+[][(![]+[])[+[]]+([![]]+[][[]])[+!+[]+
+[+[]]]+(![]+[])[!+[]+!+[] - ]+(!![]+[])[+[]]+(!![]+[])[!+[]+!+[]+!+[]]+(!![]+
+[])[+!+[]]])[!+[]+!+[]+[+[]]]+[!+[]+!+[]+ - !+[]+!+[]+!+[]+!+[]+!+[]+!+[]+!+
+[]]+[!+[]+!+[]+!+[]+!+[]+!+[]+!+[]+!+[]]+(!![]+[][(![]+[]) - [+[]]+([![]]+[][
+[]])[+!+[]+[+[]]]+(![]+[])[!+[]+!+[]]+(!![]+[])[+[]]+(!![]+[])[!+[]+!+[]+! - +
+[]]+(!![]+[])[+!+[]]])[!+[]+!+[]+[+[]]])() -
+ _V_e_s_m_y_9_7 [Muž]26 [Kategorie]
+02.07.2019 21:53:01
+Michal-2: Až mi z toho kódu začalo hrát v hlavě.
+[Smajlík]
+ jingle bell
+02.07.2019 21:49:18
+Za deset let bude umět programovat dítě v 7 letech, je to jako s focením
+dneska taky fotí i děti v 7 letech díky automatice.
+[Smajlík]        [Muž]66 [Kategorie]
+ _Z_n_á_m_á_ _c_e_l_e_b_r_i_t_a
+02.07.2019 21:41:05
+Já se zas ptám lidí co vypíše tenhle kód:
+
+#include <stdio.h>
+main(t,_,a)
+char
+*
+a;
+{
+return!
+
+0<t?
+t<3?
+
+main(-79,-13,a+
+main(-87,1-_,
+main(-86, 0, a+1 )
+
++a)):
+
+1,
+t<_?
+main(t+1, _, a )
+:3,
+
+main ( -94, -27+t, a )
+&&t == 2 ?_
+<13 ?
+
+main ( 2, _+1, "%s %d %dn" )
+
+:9:16:
+t<0?
+t<-72?
+main( _, t,
+"@n'+,#'/*{}w+/w#cdnr/+,{}r/*de}+,/*{*+,/w{%+,/w#q#n+,/#{l,+,/n{n+,/+#n+,/#;
+#q#n+,/+k#;*+,/'r :'d*'3,}{w+K w'K:'+}e#';dq#'l q#'+d'K#!/+k#;
+q#'r}eKK#}w'r}eKK{nl]'/#;#q#n'){)#}w'){){nl]'/+#n';d}rw' i;# ){nl]!/n{n#';
+r{#w'r nc{nl]'/#{l,+'K {rw' iK{;[{nl]'/w#q#
+
+n'wk nw' iwk{KK{nl]!/w{%'l##w#' i; :{nl]'/*{q#'ld;r'}{nlwb!/*de}'c ;;
+{nl'-{}rw]'/+,}##'*}#nc,',#nw]'/+kd'+e}+;
+#'rdq#w! nr'/ ') }+}{rl#'{n' ')# }'+}##(!!/")
+:
+t<-50?
+_==*a ?
+putchar(31[a]):
+
+main(-65,_,a+1)
+:
+main((*a == '/') + t, _, a + 1 )
+:
+
+0<t?
+
+main ( 2, 2 , "%s")
+:*a=='/'||
+
+main(0,
+
+main(-61,*a, "!ek;dc i@bK'(q)-[w]*%n+r3#l,{}:nuwloca-O;m .vpbks,fxntdCeghiry")
+
+
+,a+1);}
+ Michal-2
+02.07.2019 20:44:00
+nejsem programátor a nedej bože abych dělal javascript.
+
+kód jsem nezkoušel. měl jsem za to, že by to mělo spadnout, protože voláš
+funkci dřív, než ji definuješ.
+ _A_z_a_t_h_o_t_h [Muž]27 [Kategorie]
+02.07.2019 20:43:13
+OK, moje přehlídnutí
+ Ciwe
+02.07.2019 20:41:27
+A k čemu je dobrý vědět, co se vypíše? "Důležitý" je vědět, že první log
+vypíše prázdnou strukturu, druhej log vypíše strukturu s prvkem a = 10, třetí
+log vypíše null (asi prázdnej řádek). Nechápu, k čemu by mělo bejt dobrý
+vědět, jak to přesně vypadá v consoli. Někdo, kdo s JS aktivně pracuje, to
+možná bude vědět, ale jinak to má nulovej význam. Já mám za sebou mnoho práce
+v JS, ale už si nepamatuju, co přesně se tam vypisuje a nepovažuju to vůbec za
+důležitý.
+Tímhletím zbytečným "examplem" akorát úplně zbytečně vyhazujete potenciálně
+schopný lidi.
+[Smajlík]
+ Ciwe
+02.07.2019 20:41:12
+Vytvoří se prázdný objekt.
+
+Vypíše se prázdný object {}.
+
+Zavolá se funkce, která do objektu přidá vlastnost a s hodnotou 10. Jelikož je
+objekt referenční datový typ, upraví se již existující.
+
+Vypíše se objekt { a: 10 }
+
+Zavolá se funkce, která však upraví pouze parametr ve svém jmenném prostoru a
+původní objekt zůstane nedotčen.
+
+Vypíše se objekt { a: 10 }.
+
+Zajímavé je, že se funkce v JavaScriptu vytvoří ještě před samotným během
+programu, tudíž je možné je definovat i za kódem, které je volají. To se však
+nedá říct třeba o fat arrow funkcích.
+ _V_e_s_m_y_9_7 [Muž]26 [Kategorie]
+02.07.2019 20:41:09
+A proč to většina lidí nedá? Protože většina programátorů jsou lepiči kódu,
+něco zkopírujou na stackoverflow a jsou s tím hotovi, nesnaží je o hlubší
+pochopení.
+
+Což já chápu, ve škole se se semestrální prací, nebo úkolem nechceš moc srát,
+tak to nějak poskládáš dohromady, zaměstnavatel chce mít kód rychle a zákazník
+stejně tak, bez nějakého otálení.
+[Smajlík] [Muž]99 [Kategorie]
+ _F_r_0_g_y
+02.07.2019 20:39:02
+pardon, i já melu nesmysly, samozřejmě jsem myslel
+
+a = 10
+[Smajlík] [Muž]99 [Kategorie]
+ _F_r_0_g_y
+02.07.2019 20:38:39
+Javascript je fakt hnus.
+[Smajlík]
+ Chce to lepší jazyk
+02.07.2019 20:38:25
+Azathoth: lol, co ti spadne?
+
+uvažuj, ano vrátí to prázdný slovník, nebo můžeme říct objekt, druhý
+console.log ti vrátí už neprázdný objekt, objekt bude mít field a = 1, protože
+funkcí jsi mu zkopíroval referenci, no a třetí vypíše to samé, protože druhá
+funkce mění hodnotu vnitřní proměnné nikoliv objekt, na který ta vnitřní
+proměnná referovala.
+[Smajlík] [Muž]99 [Kategorie]
+ _F_r_0_g_y
+02.07.2019 20:25:13
+Nejdriv to vrati prazdnej slovnik a ppak to spadne na neexistujici funkci a
+ _A_z_a_t_h_o_t_h [Muž]27 [Kategorie]
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+
