@@ -1,0 +1,208 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+   Otázky - Vzkazy č.1113290, vloženo _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+   19.11.2019 19:19:03                _s_t_r_á_n_k_a_]
+   IT znalci? Menší otázka.
+   Začal jsem se před pár sekundami zajímat o stopování na internetu a jsem
+   úplný začátečník.
+   Například když já se připojím na tento server prostřednictvím mé WiFi,
+   tak můj počítač komunikuje s mojí WiFi a ta pod nějakou adresou odešle
+   nějaký signál na tento server a podle toho signálu se pak dohledá jaký
+   zařízení tu WiFi využilo?
+    LojzaZlejda [Muž]18  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+21.11.2019 18:37:25
+lol: přesně tak
+[Smajlík]
+ tricet7
+21.11.2019 11:50:07
+To, co pises, je zavadejici a matouci.
+Takhle to nefunguje.
+ lol
+20.11.2019 09:19:33
+Denny: jen pro presnost - router nema se zdrojovym portem nic moc co
+spolecnyho (pokud nedela port translation). Zdrojovej port dostane aplikace
+pridelena od operacniho systemu na kterem bezi. Cilove porty jsou znamy a
+nekdy se taktez prekladaji pomoci lokalni databaze (na limuxu treba existuje
+soubor /etc/services).
+ Psoug
+20.11.2019 08:52:28
+neboj oni si te najdou zamestnavaji nejlepsi z nejlepsich
+ jofi78
+20.11.2019 05:12:29
+Za prvé ti musí nějaký poskytoval internetu poskytnout IP adresu. Přes ni se
+připojuje celá tvoje domácnost do internetu.
+
+Já mám např. 94.113.165.71. Těhle adres je max. 4 miliardy. Původní tvůrci
+internetu si mysleli, že to je fůra adres, které vystačí až do skonání věků,
+ale s rozvojem internetu se ukázalo, že to až taková fůra adres není, proto už
+se nedělá to, že se firmě přidělí třeba tisíc adres (protože má tisíc
+počítačů), ale jen jedna. Stejně tak i každá domácnost má navenek jen jednu IP
+adresu, přestože má více počítačů, mobilů, chytrých televizí atd.
+
+Uvnitř podniků a domácností používají lokální adresy, které slouží pouze pro
+komunikaci počítačů uvnitř podniku a uvnitř domácností, tyhle adresy jsou
+obvykle 192.168.něco.něco.
+
+Takže tvůj router si od tvého poskytovatele internetu vezme adresu třeba
+94.113.165.71 a všem zařízením u tebe doma přidělí router lokální IP adresy,
+např. 192.168.1.1 až 192.168.1.10.
+
+Řekněme, že tvůj mobil dostane třeba IP adresu 192.168.1.5 (při přidělování
+adres je u prdele, jestli je zařízení připojeno kabelem nebo přes Wifi,
+zařízení je vždy adresováno tímhle jedním číslem)
+
+Když tvůj mobil zažádá o nějakou internetovou stránku, tak je postup
+následující:
+
+Mobil 192.168.1.5 žádá router o stránku zpovednice.cz.
+Router si najde IP adresu zpovednice, která je 81.95.107.207, port je 443
+Router si píše do poznámového bloku - mobil žádá o stránku zpovednice.cz,
+přidělí požadavku číslo portu 50001
+Router odešle žádost o stránku na server 81.95.107.207, jako návratovou adresu
+uvede 94.113.165.71, port 50001
+
+Váš stolní PC mezitím odešle žádost o jinou stránku, např. seznam.cz:
+PC 192.168.1.6 žádá router o stránku seznam.cz.
+Router si najde IP adresu seznamu, která je 77.75.75.172, port je 443
+Router si píše do poznámového bloku -stolní PC žádá o stránku seznam.cz,
+přidělí požadavku číslo portu 50002
+Router odešle žádost o stránku na server 77.75.75.172, jako návratovou adresu
+uvede 94.113.165.71, port 50002
+
+Router i uživatel si jdou mezitím zakouřit....
+
+Najednou se routeru vrací nějaká data. Data na tvůj router dorazila díky tomu,
+že adresa 94.113.165.71 je celosvětově unikátní. Adresu 94.113.165.71 má pouze
+tenhle konkrétní router.
+
+A teď ten router na ty příchozí data kouká a říká si "Adresát jsem já, ale co
+s tím kurva mám dělat?", "Ha, já mám vlastně ten poznámkový blok!"
+
+Koukne se, jaký je tam cílový port, řekněme, že tam je 50002. Koukne se a
+vidí, že je chtěl stolní PC. Takže v tom paketu původního adresáta
+94.113.165.71 (sebe) přepíše adresou 192.168.1.6 (stolní PC) a tenhle paket
+odešle do lokální sítě.
+
+Lokální síť už sama ví, jestli adresát je na Wifi nebo na kabelu a data tam
+odpovídajícím způsobem odešle. Adresát stránku přijme a zobrazí.
+
+Takže si všimni, že serverům jako zpovednice a seznam přijde pouze adresa
+reprezentující celý podnik nebo celou domácnost a není z toho vůbec vidět,
+jestli původní žadatel o stránku byl připojený přes Wifi
+ Denny
+20.11.2019 01:40:56
+Asi by sis mel nejdriv precist neco o technologiich sitove komunikace PC.
+Asi zacit tim, co je to signal, k jake vrstve OSI modelu patri, co je to OSI
+model, co je to wifi, router, dns, tcp/ip, http, www, topologie site, packet,
+packet loss, kodovani,...
+
+Ale mamlas jako Ty to stejne nepochopi, protoze si o tom neprecte nic a nebude
+se to snazit pochopit...
+[Smajlík]
+ Tricet7
+19.11.2019 23:08:51
+Neni to tak uplne jednoduche jak to vypada.
+
+Kazde zarizeni ma nejakou svoji ip adresu. Tyse deli na tzv. verejne (tj.
+treba adresa zpovednice 81.95.107.207), tedy takove ktere jsou v internetu
+dohledatelne a Jedinecne. A dale existuji tzv. privatni adresy ktere zacinaji
+treba 10.0.0.x, 192.168.1.x apod. ktere jsou pouzity uvnitr lokalnich siti a
+ruzne organizace, domacnosti apod muzou mit uplne stejne adresy. Aby takova
+privatni ip adresa mohla komunikovat s verejnou ip v internetu, musi nekde v
+siti existovat bod kterej tuto privatni adresu prelozi na nejakou verejnou,
+takovemu bodu se vetsinou rika gateway a procesu prekladu z privatnich ip na
+verejne NAT (z anglickeho network adress translation - preklad sitovych adres)
+V drtive vetsine je to tak ze mas treba desitky i stovky privatnich ip adres
+ktere jsou prekladany na jednu dve verejne ip adresy. Napriklad na sidlisti
+budou mit vsechny domacnosti ip adresu privatniho rozsahu a ta se bude
+prekladat na jednu verejnou ktera bude viditelna z internetu. Z toho plyne ze
+zpovednice.cz nedokaze jednoduse rozlisit zda si ji prohlizis ty nebo jeden z
+Tvych x desitek sousedu. K tomu je potreba zaznam prave z one gateway kde je
+uvedeno (a vetsinou neni :)) jak, kdy a jakym zpusobem se prelozila jaka
+privatni adresa na tu ci onu verejnou.
+
+Tohle je hodne zjednodusenej popis, mohli bychom se bavit dal o nejakem otisku
+Tveho prohlizece, tcp portech apod.
+[Smajlík]
+ Psoug
+19.11.2019 21:59:08
+Záleží na tom, jestli máš přidělenou svoji vlastní veřejnou IP adresu, potom
+to zjistit lze bez problémů (ale normální člověk zjistí jen toho operátora, co
+ti IP adresu poskytl, policie se ho ovšem může zeptat, komu přesně).
+
+Pokud využíváš sdílenou IP adresu, tak to podle mě úplně jednoduše zjistit
+nejde.
+
+Na druhou stranu - zákon ukládá všem poskytovatelům internetu monitorovat a
+archivovat síťový provoz (alespoň do budoucna, nevím, jestli už i teď, ale asi
+ano, v nějaké míře).
+ _M_i_c_h_a_l_-_2_2_2 [Muž]44 [Kategorie]
+19.11.2019 20:18:43
+Tvůj počítač v podstatě pošle data tvému wifi-routeru. Ten je pak pod svojí IP
+adresou pošle do světa (do internetu). Pomocí hustodémonsky krutopřísného
+mechanismu data dosáhnou svého cíle (serveru Zpovědnice) a ten pošle odpověď,
+která se pomocí stejně hustodémonsky krutopřísného mechanismu dostane ke tvému
+wifi routeru. Ten ta data přepinkne tvému počítači.
+ _C_u_m_s_p_r_i_t_e [Muž]34 [Kategorie]
+19.11.2019 19:30:27
+"můj počítač komunikuje s mojí WiFi"
+
+Zkus si nejdřív vyhledat co je to vlastně Wifi.
+[Smajlík]
+ Google čeká
+19.11.2019 19:29:50
+V zásadě ano. Aby sis mohl přečíst nějakou zpověď zde, musíš odeslat požadavek
+na server Zpovědnice. Ten mimo jiné obsahuje adresu cíle (tedy serveru
+Zpovědnice) a adresu odesílatele (aby Zpovědnice věděla, kam má tebou
+požadovanou zpověď zaslat.
+
+V každém místě na internetu (a je jedno, jestli je to na tvé wifi nebo u
+Zpovědnice) se ví odkud co jde a kam.
+ _V_e_s_m_y_9_7 [Muž]26 [Kategorie]
+19.11.2019 19:21:22
+Jdeš na to moc složitě. Nejjednoduší je lidi poslouchat. Neví to a vykecají na
+sebe skoro všechno. Dvě tři drobnosti a najdeš je na FB, twitteru, instáči. A
+to mluvim jako někdo, kdo má praxi.
+ _Š_í_l_e_n_ý_ _b_e_r_s_e_r_k [Muž]35 [Kategorie]
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _pp_?ř_ee_ss_ _ss_mm_ss_ _oo_dd_ _99_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+

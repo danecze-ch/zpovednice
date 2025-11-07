@@ -1,0 +1,189 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+   Otázky - Vzkazy č.1111411, vloženo _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+   28.10.2019 17:26:02                _s_t_r_á_n_k_a_]
+   Problém s MS Office
+   Neví někdo náhodou, co mám udělat, aby mi při otvírání MS Office
+   neskákalo neustále na plochu tohle okno? https://tinyurl.com/y3e32q23
+
+   Když chci otevřít Word nebo si v něm něco uložit, objeví se to tam jen
+   asi 10x, takže 10x kliknu na OK a je to v pohodě, ale když chci otevřít
+   Excel, hádám, že méně než 50x se to nikdy nezobrazí.
+
+   Jednou mě OS nutil si tam cosi aktualizovat a od té doby to tam pořád
+   skáče. Předtím jsem to v životě neviděla. Nechci ale přijít o žádná data
+   a ani o MS Office a nevím, co mám dělat. Kód pro zakoupený MS Office lze
+   použít jen jednou, takže jej nemohu znovu instalovat a na černo to dělat
+   nebudu, protože to neumím. Potřebuji teď něco dělat v Excelu a mám strach
+   ho otevřít, protože se zase tohoto okna jen tak nezbavím.
+
+   Budu ráda za každou pro mě srozumitelnou a užitečnou radu.
+    Aninka [Žena]  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+29.10.2019 17:58:06
+Vypadá, že tam máš nějaký poškozený soubor, nebo ti chybí nějaká knihovna,
+nebo to používá nějakou knihovnu, která není kompatibilní s tvojí verzí office
+nebo windowsů.
+
+Zkusil bych dvě věci:
+1) Opravu instalace office. V ovládacích panelech přejdi do menu, kde se
+odisntalovávají programy. Klikni na Officy a klikni na "změnit". Pokud máš
+trošku novější officy, mělo by ti to nabídnout opravu. Viz _h_t_t_p_s_:_/_/_i_b_b_._c_o_/
+_Z_m_1_y_b_c_4_ 
+
+2) Pokud tohle nepomůže, zkusil bych kontrolu integrity systémových souborů.
+Spusť si příkazový řádek jako správce a nech projet dva příkazy:
+DISM /Online /Cleanup-Image /RestoreHealth
+sfc /scannow
+ _C_u_m_s_p_r_i_t_e [Muž]34 [Kategorie]
+28.10.2019 23:23:03
+No tak to raději budu klikat dvě hodiny na jedno okno, než aby to někdo na
+dálku zkoumal takhle přímo. :D To já bych si právě spíš představovala, že mi
+sem někdo napíše, klikni tam a tam a pak udělej to a to. Ale to chci asi moc,
+když nikdo neví, o co jde no...
+ Aninka
+28.10.2019 22:41:02
+Aninka: Tak konečně sbal a dotáhni ven Honzu, ten to jistě dá dohromady. :,)
+[Smajlík]      [Muž]33 [Kategorie]
+ _*_P_r_a_g_m_a_t_i_x_ _I_*
+28.10.2019 21:47:58
+Teamviewer je vynikající nástroj pro sdílení obrazovky počítače resp. umožnění
+technické podpory. Aby někdo nemusel třeba po telefonu diktovat "stiskni F7 a
+vytvoř adresář" a "teď to rozbal do adresáře /radio" a "co že ti to píše?",
+tak mu pomocí přiděleného ID umožníte přístup na PC, aby se v tom hrabal sám.
+Na displeji vidíte, co dělá. Jakmile session ukončíte, už se k Vám do stroje
+znovu nedostane, teprve až mu to povolíte dalším ID.
+
+Kdyby TV nebylo, tak už jsem dávno všechny své mašiny zahodil, neb by byly
+nepoužitelné...
+[Smajlík] [Muž]58 [Kategorie]
+ _K_v_i_d_o_9_9
+28.10.2019 19:25:06
+Jak jednoduché: Jak jako?
+ Aninka
+28.10.2019 19:23:22
+Najdi si instalačku tvojí verze Office a oprav to.
+[Smajlík]
+ Jak jednoduché
+28.10.2019 19:07:57
+MS-fanousek: Co to je? :D A jaký přístup? Ještě mi vyloupíš všechny účty.
+
+Pragmatix: No já tady žádného takového neznám a moc jako nechci, aby se mi v
+tom hrabali. Ale asi máš pravdu, že už se to nikdy nevyřeší.
+ Aninka
+28.10.2019 19:01:31
+Na tvé/ženské problémy s počítači existuje jediné správné řešení - zavolat
+chlapa, co se v tom vyzná. Do té doby ti to bohužel bude blbnout.
+[Smajlík]      [Muž]33 [Kategorie]
+ _*_P_r_a_g_m_a_t_i_x_ _I_*
+28.10.2019 19:00:11
+Já tě normálně zabiju :-D :-D
+Až to budeš mít doma, tak tam spusť teamviewer a pošli mi na mail přístup
+ _M_S_-_f_a_n_o_u_s_e_k [Muž]50 [Kategorie]
+28.10.2019 18:58:01
+Jenže já jsem to zrovna dnes odvezla jinam. A mně to pořád jde, ale až po
+odklikání toho okna.
+[Smajlík]
+ Aninka
+28.10.2019 18:55:47
+Aninka: neboj jednou ti zmizí všechno :-D
+
+Hele jednu věc můžeš zkusit. Zkus pustit instalaci, jako poprvé, jestli ti to
+nabídne opravu instalace.
+ _M_S_-_f_a_n_o_u_s_e_k [Muž]50 [Kategorie]
+28.10.2019 18:47:09
+MS-fanoušek: No jo, ale já nevím, co s tím mám dělat. Ok, tak já si to 50x
+odkliknu, nějakou trpělivost ještě mám, ale já se spíš bojím, že jednou to
+nezmizí vůbec...
+[Smajlík]
+ Aninka
+28.10.2019 18:40:43
+Aninka: když budu mít ten noťas před sebou, tak to během hodinky vyřeším. A
+stejně tak i většina techniků.
+Takhle na dálku to budeme řešit celej večer a výsledek nejistej. To nedává
+smysl.
+ _M_S_-_f_a_n_o_u_s_e_k [Muž]50 [Kategorie]
+28.10.2019 18:32:48
+MS-fanousek: Tam bude zase chlap, který mi bude připomínat, že jsem si tam
+minule neprodloužila záruku a bude mi něco takového vnucovat znovu. A zase
+bude dělat chytrého. A ještě tam uvidí tisíc fotek s Putinem. A to jako fakt
+není nějaké jednoduché řešení? Ještě mi tam schválně odinstaluje ty Officy a
+řekne, že si to musím koupit znovu.
+[Smajlík]
+ Aninka
+28.10.2019 18:29:08
+Aninka: hoď to do servisu
+ _M_S_-_f_a_n_o_u_s_e_k [Muž]50 [Kategorie]
+28.10.2019 18:18:10
+Vesmy97: Nic tam navíc nebylo, jen cesta k tomu souboru s tou příponou a pak
+ještě číslo té chyby. To jsem nevěděla, jestli mohu zveřejňovat. Jinak tam nic
+nebylo. A registry se bojím nějak mazat nebo s nimi něco dělat, protože se v
+nich nevyznám.
+ Aninka
+28.10.2019 18:15:03
+Zkusil bych stáhnout CCleaner a vyčistit registry. V ideálním případě by v té
+chybové hlášce měl být název nějakého programu/knihovny, který je nějakým
+způsobem nekonzistentní (např. byl nekorektně smazán a ne kompletně
+odinstalován). Ale pokud si to nesmazala až na fotce, tak tak máš jen C: .dll,
+což teda nevím.
+ _V_e_s_m_y_9_7 [Muž]26 [Kategorie]
+28.10.2019 17:35:01
+MS-fanousek: No ale jak to mám reinstalovat, když ten kód se nedá použít
+vícekrát? Navíc jsem si ho teď asi odvezla k někomu jinému, takže ho ani nemám
+po ruce. Já už jsem s tím měla dříve problém, protože jsem si ho asi omylem
+koupila dvakrát (jednou byl v ceně a podruhé jsem si ho asi koupila nebo já už
+nevím, to je u mě běžné), takže už tehdy jsem tam nemohla zadat ten kód
+podruhé, protože už jsem to tam měla. A teď po té aktualizaci se to nedá
+otevřít, dokud milionkrát neodklikám to okno, tak nevím, jak se toho zbavit,
+aby se mi neztratilo nic jiného. Nechci ani instalovat žádné alternativy, chci
+se jen zbavit tohohle. Ten Word už tak odklikávám dobrý měsíc, ale na ten
+Excel moc nemám nervy, protože to už je fakt moc.
+ Aninka
+28.10.2019 17:31:06
+Doporučil bych ti nainstalovat si libre office.
+Jinak tahle hláška je na reinstalaci office. Něco si tam poškodily
+ _M_S_-_f_a_n_o_u_s_e_k [Muž]50 [Kategorie]
+28.10.2019 17:27:15
+_h_t_t_p_s_:_/_/_t_i_n_y_u_r_l_._c_o_m_/_y_3_e_3_2_q_2_3
+ Aninka
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ] _II_nn_tt_ee_rr_nn_ee_tt_oo_vv_?é_ _RR_?á_dd_ii_oo_ _SS_ee_zz_nn_aa_mm_kk_aa_ _vv_yy_ss_?í_ll_?á_ _ii_nn_zz_ee_rr_?á_tt_yy_ _ss_ _nn_?á_mm_ii_ _ss_ee
+ OPIŠ BEZPEČNOSTNÍ KOD: _ss_ee_zz_nn_?á_mm_?í_tt_ee_..
+ [Captcha]              _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+

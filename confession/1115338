@@ -1,0 +1,169 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+   Otázky - Vzkazy č.1115338, vloženo _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+   12.12.2019 19:15:51                _s_t_r_á_n_k_a_]
+   Matematika
+   1) rozloha řas se po každých 90 minutách zdvojnásobí, na počátku byla
+   hladina 3cm2, jaká je rozloha za 6 hodin?
+
+   2)a1=sin x, a2= sin(x+&#960;/2), a3=sin (x+&#960;/2)
+   &#960;(pí)
+   3) Arit. posloupnost 65+59+53+...+(-7)+(-13)+(-19) zjistění
+   Děkuji za minulé vyřešení úloh, prosím o pomoc ještě s těmito.
+    POL12368 [Muž]18  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+14.12.2019 20:44:27
+1) start: 3cm2,
+90minut ... 6cm2
+180min ... 12cm2
+270min ... 24cm2
+360min ... 48cm2
+
+2) a1=sin x
+a2 = sin ( x + pi/4) = ( sin x + cos x ) * 1/sqrt(2)
+a3 = sin ( x + pi/2) = cos x
+
+a3-a2 = a2 - a1
+upravim a dosadim:
+
+a3+a1 = 2* a2
+
+cos x + sin x = sqrt(2)*( sin x + cos x)
+
+(sin x + cos x)*[1- sqrt(2)] = 0
+
+Konstanta bude vzdy konstantou, rovnici prevedu na:
+
+sin x = - cos x
+x = 3*pi/4 + k*pi , kde k=0,1,2,3,... viz periodicita sin a cos
+nebo ve stupnich
+x= 135 + k*180
+
+3) a1=65 , an=-19 , krok=6 -> (a1-an)/k + 1=15=PocetClenu
+Pocet Sum = (a1-an)/2k = 7
+
+Vypocet sum:
+suma1=a1+an , podobne
+suma2=a2+an-1
+...
+celkem 7 sum, plati suma1=suma2-suma3= ... =suma7
+
+Stredni prvek ( lichy pocet clenu posloupnosti ) as=(a1+an)/2
+Pro sudy: as=0
+
+Vzorecek:
+
+CelkovySoucet = suma1*PocetSum+as
+
+tj.
+
+CS = (a1+an)*(a1-an)/2k + as
+ takhle
+12.12.2019 23:29:19
+To jo, jen si hezky namahej hlavičku. Počkej až z tý matiky proletíš, jen pro
+to, že sis nechal všechno vypočítat tady.
+[Smajlík]       [Muž]25 [Kategorie]
+ _N_e_n_á_v_i_d_í_m_ _ž_e_n_y
+12.12.2019 21:33:37
+Pol1236: Popravdě tady jsem se zasekl. Ale našel jsem něco na netu:
+_h_t_t_p_s_:_/_/_f_o_r_u_m_._m_a_t_e_m_a_t_i_k_a_._c_z_/_v_i_e_w_t_o_p_i_c_._p_h_p_?_i_d_=_1_2_0_9_9_ 
+
+Je třeba užít součtové vzorce, jak tam píší. Tenhle: sin (x+y) = sin(x)*cos(y)
++ cos(x)*sin(y) :
+
+Takže:
+a1 = sin (x);
+
+a2 = (x+pí/4) = sin(x)*[sqrt 2 /(2)] + cos(x)*[sqrt 2 /(2)] = [sqrt 2 /(2)]*
+[sin(x)+cos(x)] = [sin(x)+cos(x)] / sqrt 2
+
+a3 = sin(x)*0 + cos(x)*1 = cos(x)
+
+A pak analogicky a2-a1 = a3-a2 ... jak je tam uvedeno, zase na stejném
+principu.
+ _Z_a_t_r_a_c_e_n_á_ _E_x_i_s_t_e_n_c_e [Muž]24 [Kategorie]
+12.12.2019 20:18:17
+Zatracená Existence: Co kdyby se změnilo takhle a2? a1=sin x, a2= sin(x+pí/4),
+a3=sin (x+pí/2)
+ Pol1236
+12.12.2019 20:10:09
+Pol1236: V tom případě platí úplně ten samý princip, který byl v prvním
+příkladu, až teda na to, že a2 = a3. Reálně kdybys mi to takhle podal, řekl
+bych ti, že to nemá řešení. Potřebuješ 3 rozdílné a1, a2, a3. Chyba je už v
+zadání, tyto 3 čísla nemůžou být po sobě jdoucí.
+
+_h_t_t_p_s_:_/_/_b_i_t_._l_y_/_3_4_e_p_C_y_c_ 
+
+Pokud zadáme za x = 0, tak nám vyjde a1 = 0; a2 = 1; a3 = 1. To jen
+demonstračně.
+ _Z_a_t_r_a_c_e_n_á_ _E_x_i_s_t_e_n_c_e [Muž]24 [Kategorie]
+12.12.2019 19:50:23
+Zatracená Existence: tyto 3 po sobě jdoucí musí tvořit aritmetickou
+posloupnost
+ Pol1236
+12.12.2019 19:40:04
+POL1236: Žádné vztahy mezi čísly a1, a2, a3? Možná jsem teď mimo, ale to chceš
+3x výsledek z rovnice o 2 neznámých? To si to "x" můžu ale vymyslet.
+
+Mimochodem a2 = a3.
+ _Z_a_t_r_a_c_e_n_á_ _E_x_i_s_t_e_n_c_e [Muž]24 [Kategorie]
+12.12.2019 19:30:20
+Zatracená Existence: Zadání je: a1=sin x, a2= sin(x+pí/2), a3=sin (x+pí/2)
+určení čísla x
+ POL1236
+12.12.2019 19:27:18
+3 * 2 * 2 * 2 * 2 = 48 cm2 ? 90 minut = 1,5 hodiny, to se vejde 4x do 6 hodin
+
+U dvojky nevím, co chceš. Jaké je zadání?
+
+65 - 6 = 59 - 6 = 53 - 6 ...
+ _Z_a_t_r_a_c_e_n_á_ _E_x_i_s_t_e_n_c_e [Muž]24 [Kategorie]
+12.12.2019 19:25:20
+1) 48cm2
+[Smajlík]             [Muž]27 [Kategorie]
+ _L_a_z_y_T_o_w_n_R_o_b_b_i_e_R_o_t_t_e_n
+12.12.2019 19:24:33
+Tohle není web pro doučování matematiky z pomocné školy.
+[Smajlík]
+ Nebo jo
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ] _II_nn_tt_ee_rr_nn_ee_tt_oo_vv_?é_ _RR_?á_dd_ii_oo_ _SS_ee_zz_nn_aa_mm_kk_aa_ _vv_yy_ss_?í_ll_?á_ _ii_nn_zz_ee_rr_?á_tt_yy_ _ss_ _nn_?á_mm_ii_ _ss_ee
+ OPIŠ BEZPEČNOSTNÍ KOD: _ss_ee_zz_nn_?á_mm_?í_tt_ee_..
+ [Captcha]              _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+
