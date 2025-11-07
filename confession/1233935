@@ -1,0 +1,489 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+Zpověď č.1233935, vloženo 02.05.2024 17: _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+34:12                                    _s_t_r_á_n_k_a_]
+Jsou ajťáci gatekeepeři?
+Setkal jsem se s tím mnohokrát. Když jsem před lety se svým bývalým spolužákem
+konzultoval, že bych možná rád do IT, v podstatě mi to vylíčil, s podporou,
+tak, že pokud nemám doktorát a chci bejt k něčemu, nemá smysl se hlásit dřív,
+než vymyslím appku, co bude mít aspoň 100 tisíc stažení, či projekt, který
+doložitelně nějaké firmě ušetřil velké peníze.
+
+V podobném duchu jsem dostával rady od ajťáků i později. Kompletně se
+obestavěli aurou geniality a že běžný smrtelník nemá šanci se tam dostat, a
+trvalo roky, než jsem překročil stín tímto získaného impostor syndromu, a začal
+poptávat práci, kterou jsem nakonec získal, abych zjistil, že ty nároky jsou
+brutálně níže, že ostatní se tam dostali podobně a že celá ta aura geniality je
+jedna velká elitářská lež. Jako kdyby se ti lidé snažili co nejvíc lidí
+nenápadně odradit, aby si sami uchovali iluzi nenahraditelnosti.
+
+Je to tak? Jsou všichni, kromě juniorů, v IT gatekeepeři?
+ JižZaměstnán [Muž]29  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+06.05.2024 21:59:04
+Tak to je genialni diskuse,
+tady se krasne ukazuje, ze wut ma zkusenosti pouze s lowperformance
+srackospolecnostma a v zivote se nedostal do seriozniho moderniho projektu.
+Dost mozna
+delal pro statni spravu nebo prehistoricky moloch typu ceska sporitelna, do
+googlu by nezvladnul ani prvni kolo, uz jenom kvuli jeho demenci a
+vseznalkovstvi a absolutne besnesitelne narcisticke osobnosti.
+Na nej presne pasuje pisnicka Borecek od Bow wave...
+
+Libik je evidentne inteligentni sectely a vzdelany extremne trpelivy clovek a
+na rozdil od wuta nepise nesmysly a svoje domnenky.
+
+Musim se fakt smat...
+
+Diky libiku za zajimave informace a pohled, to co pises mi naprosto dava
+smysl.
+[Smajlík]
+ Tricet11
+06.05.2024 20:32:26
+libik
+
+Já se jednoduše neztotožňuju s nějaký "high/low performing" a s měřením
+chybovosti. Když to řeknu na rovinu, tak chybovost pro nás není KPI.
+
+To co jedeme nejčastěji my je tzv rapid development. Někdy se tomu říká Rapid
+Application Development (RAD).
+
+Když ti to vysvětlim na SpaceX a Elonu Muskovi. Prostě staví iterativně
+prototypy a je uplně jedno, že mu to bouchá pod rukama, protože ví, že touhle
+metodou se do cíle dostane mnohem rychleji, než když bude 10 let plánovat 10
+let stavět a pak to po 20 letech možná poletí a možná ne.
+
+To samé v SW. Startuju POC na tradičním monolitu. Do SQL klidně vylejeme JSON.
+
+
+Když se to akcionářům líbí, tak MVP dělíme na modulární monolit, kdy se
+odděluje FE, identity server, DB, zbavujeme se JSONů, dáme alespoň unit testy
+na klíčovou infrastrukturu a staví se do samostatných appek long running
+tasky, dělaj se API, WebSockety, MQ (tomu říkaj češi mikroservisy, ale
+mikroservisy to nejsou, jsou to modulární monolity),
+
+Pokud se to líbí, tak to pustíme jako RC ven mezi lidi, kde řešíme disaster
+recovery, děláme především benchmarky namísto toho, abychom zabředli do testů,
+a pak řešíme úzký hrdla a zlepšujeme co je třeba.
+
+Je nám jedno, jestli projekt dobublá do mikroservis nebo až k serverless. Z
+tohohle pohledu jsme pro tebe možná "low performing", protože ti nesedíme do
+tvých tabulek, ale nás tvoje tabulky nezajímají, my máme jedinou tabulku a to
+je nastartovat maximálně rychle cashflow a pak onanovat z peněz co vyděláme a
+ne donekonečna dotovat z vlastní kapsy procesy na procesy a tabulky na
+tabulky.
+
+Jinak CI/CD může být za pár minut na serverless někde v cloudu, ale rozhodně
+ne na modulárním monolitu na on-premise v housingu, kde je CI/CD vážné
+bezpečnostní riziko, co se musí zase řešit v papírech, abys dostal
+certifikaci. Tam to může bejt klidně měsíc práce se zapojením právníků namísto
+tvých 10 minut. Záleží co děláš. Pokud šmudláš banky, tak tam ti to asi stačí,
+ale když děláš něco pořádnýho, tak na to můžeš dojet.
+[Smajlík] [Muž]36 [Kategorie]
+ _w_u_t
+04.05.2024 22:27:03
+wut: Korporát typu Google vs korporát typu Česká spořitelna je nebe a dudy.
+
+High-performing i low-performing týmy najdeš jak v korporátech, tak ve
+startupech.
+
+Většina současných korporátů jsou low-performing. U startupů je to jak kdy.
+
+High-performing týmy nejenže mají míň chyb a incidentů, ale ještě ke všemu
+dodávají rychleji a lépe. A i malej startup o pár lidech může dnes bez
+problémů být high-performing. Překvapivě týmy co mají automatické testy, code-
+review a vývojáři si sami managují infrastrukturu, tak toho dodají víc než ty
+low-performing co přece jedou tzv. "na rychlost" a to se snaží dosáhnout
+nízkou kvalitou vývoje (tj. třeba nepíšou automatické testy nebo jsou líný si
+nastavit CI/CD ačkoli třeba v Heroku je to otázka 10 minut).
+
+Jedním ze základních ukazatelů jsou Dora metriky: https://cloud.google.com/
+blog/products/devops-sre/using-the-four-keys-to-measure-your-devo - ps-
+performance -
+
+High-performing týmy deployují do produkce několikrát za den, když uděláš
+novej kód a dáš ho na code review tak do hodiny je to na produkci, když ti
+cokoli spadne/nefunguje tak do hodiny je to opravený, chybovost (tj. ne nutně
+incident, ale že je potřeba ještě něco dodělat s čím se nepočítalo) je 0-15%
+
+Abys byl takhle schopen fungovat, tak to implikuje high-performance celého
+týmu. Ono na pozadí musí dobře fungovat spousta věcí v celém týmu, jinak se to
+rozsype.
+ _l_i_b_i_k [Muž]34 [Kategorie]
+04.05.2024 14:08:28
+libik
+
+Já myslim, že ti uplně uniká pointa toho, co dělají korporáty ala google a co
+dělaj startupy.
+
+Korporát je o tom, že primárně udržuješ existující infrastrukturu a existující
+produkt.
+Startup je o tom, že tvoříš něco, co neexistuje.
+
+...
+
+Korporát nezačíná nový produkt na zelené louce, ale polyká startupy a aplikuje
+na ně svoje udržovací pravidla, aby produkt udrželi na trhu.
+
+...
+
+Pokud děláš v korporátu, kde údržba je priorita, máš na produktu slušný
+cashflow a víš, že si můžeš dovolit vychovávat lidi pro údržbu, tak je tvuj
+přístup ok.
+
+Ale ve startupu nemáš čas na to, aby si se zabejval lidma, tam se zabejváš
+produktem a tak jedeš podle strategie "najímáme lidi rychle, propouštíme je
+ještě rychleji". Protože to je nejefektivnější cesta, jak rychle vybudovat
+profesionální tým, co dokáže dostat produkt na trh, trh získat a pak můžeš
+celou firmu prodat korporátu, co už bude jen dělat údržbu.
+
+...
+
+Startup nemusí být nutně mikrofirma bez peněz a s pár nadšencema, ale dost
+často to jsou precizně zafinancované týmy s budgetem ve vyšších desítkách
+milionů.
+
+...
+
+A představa, že se dělaj chyby v kódu, máš čas na TDD, schvalovací řízení PR,
+CI/CD a podobný kraviny, tak tam odtud proudí minimum fatálních chyb.
+
+Největší chyby stojí paradoxně na tom, že nějakej manažírek nezaplatil někde
+fakturu, další šmudla neobnovit SSL certifikát, při převozu on-premise železa
+na housing se překliknul v DNS a dal tam blbou IP a takhle bych mohl
+pokračovat dál...
+
+...
+
+Nemysli si, že v korporátech nemizí lidi a na každýho tam maj čas a náladu. I
+korporáty propouští lidi, se kterýma je moc práce a to kolikrát rychleji, než
+si myslíš, ale velmi potichu, protože o humbuk tam nikdo nestojí...
+[Smajlík] [Muž]36 [Kategorie]
+ _w_u_t
+04.05.2024 10:19:12
+wut: Prakticky všechno co jsi napsal funguje v high-performing týmech přesně
+naopak.
+
+Blameless postmortem nastupuje po vyhození toho lempla, co nás dostal do
+sraček. Pak vždycky začínáme: "no nebudeme se už vracet k těm, co tu
+nejsou..." :D :D :D
+--------
+Low-performing tým způsob fungování :). Překvapivě mají lowperforming týmy
+daleko více incidentů než high-performing týmy, kteří hledají příčinu a ne
+toho, koho chtějí vyhodit.
+
+Pokud dojde k incidentu, takřka nikdy za to nemůže jeden člověk. Dělají se
+code-reviewčka, nastavují se různá práva, máš automatické testy v CI/CD,
+integrační testy, do toho vstupuje QA oddělení. Pokud dojde k chybě jde
+obvykle o problém na několika úrovních, ten člověk co to způsobil (tj. něco
+odklikl, udělal nějakou změnu kódu) už jen ukázal na problémy celého
+vývojového cyklu
+
+Jinak úkoly a odpovědnosti máš mít vždy jasně rozložený. Takový to že všichni
+dělaj všechno a nikdo vlastně nic, a pak si přehazujete kdo za co může, tak to
+je totální kravina.
+Pak jeden dostane padáka a bádá se, cože vlastně tenhle člověk dělal a nikdo
+ani pořádně neví proč tam byl...
+-------
+To jsem nikde netvrdil :). Můj nadřízený v bývalé firmě předtím dělal
+Engineering Managera v Googlu a participoval při nastavování kompetencí (spolu
+s jedním Principal Engineerem, co předtím dělal Principal Engineera v
+Amazonu). Vím tedy zprostředkovaně jak to funguje v Googlu a Amazonu (protože
+podle jejich zkušeností to nastavovali i u nás) a tam máš naopak kompetence na
+svém "levlu" a roli (tj. třeba senior software engineer) velmi jasně
+specifikovány a každý půl rok se dělá Performance Evaluation, který podle těch
+kompetencí velmi podrobně hodnotí tvůj výkon.
+
+A představa, že se něco posere jen tak samo, tak to se stává opravdu málokdy.
+Většina chyb má vždy zcela jasnou příčinu a konkrétního viníka...
+Smajlík wut
+---------
+Ne, většina chyb ukazuje na špatné fungování celého vývojového procesu. Za to
+nese dlouhodobou odpovědnost primárně Domain leader, co má celou doménu na
+starost. Ale zase vždy v kontextu, většinou to není tak jednoduché, aby
+stačilo říct "stal se incident, je špatný ten a ten Domain leader, vyhodíme ho
+a problém zázračně zmizí".
+ _l_i_b_i_k [Muž]34 [Kategorie]
+03.05.2024 21:44:01
+"blameless postmortem" ...
+
+Blameless postmortem nastupuje po vyhození toho lempla, co nás dostal do
+sraček. Pak vždycky začínáme: "no nebudeme se už vracet k těm, co tu
+nejsou..." :D :D :D
+
+...
+
+Jinak úkoly a odpovědnosti máš mít vždy jasně rozložený. Takový to že všichni
+dělaj všechno a nikdo vlastně nic, a pak si přehazujete kdo za co může, tak to
+je totální kravina.
+
+Pak jeden dostane padáka a bádá se, cože vlastně tenhle člověk dělal a nikdo
+ani pořádně neví proč tam byl...
+
+A představa, že se něco posere jen tak samo, tak to se stává opravdu málokdy.
+Většina chyb má vždy zcela jasnou příčinu a konkrétního viníka...
+[Smajlík] [Muž]36 [Kategorie]
+ _w_u_t
+03.05.2024 20:44:42
+Ono dneska i uklízečka co utírá prach z klávesnic programátorů vlastně "dělá v
+IT".
+Jinak formální vzdělání většinou nepotřebuješ ale vědomosti ano.
+[Smajlík]
+ Všichni jsou IT
+03.05.2024 19:32:37
+Tak alespoň víme, že si nikdy nebyl na pozici na které to stojí.
+
+Představa loutek bez odpovědnosti, kde nikdo za nic neručí, nejde nic pokazit
+a když se něco zesere a majitel přijde o desítky mega, tak se na tebe přijde
+usmívat a vyplatí ti vánoční prémie.
+
+To je opravdu historka jak od nějakého experta teorie podnikání.
+wut
+--------
+To pleteš dvě věci dohromady. Performance Evaluation je zvláště u větších a
+dobře fungujících firem běžná věc. Ty se ale dělají obvykle jednou za půl
+roku, ne ad hoc když je někdo naštvaný. Když nefunguje dobře to, za co máš
+zodpovědnost, tak tě vyhodí. V opačném případě ti můžou přidat či tě povýšit.
+
+Incidenty ale obvykle mívají jinou příčinu než ta poslední instance která je
+způsobila (tj. někdo udělá chybu). Proto se dělá blameless postmortem. Když se
+lidi budou bát, budou defenzivní a budou ukazovat na ostatní že za to můžou
+"oni", tak se k jádru problému nedostaneš. Označí se viník, ten se vyhodí a za
+pár měsíců se něco podobnýho stane znova - to dělají low-performance týmy a
+kvalitě to opravdu nijak nepomůže.
+ _l_i_b_i_k [Muž]34 [Kategorie]
+03.05.2024 15:37:38
+IT servisák bejvá protekční spratek, co schválně domrví SW tak, aby to po něm
+nikdo nebyl schopen dát dohromady.
+Co z toho vyplývá?
+Že je ten dotyčnej pro firmu naprosto nenahraditelnej, management brečí a
+škemrá při jakékoliv potřebě rozšíření nebo úpravě stávajícího SW.
+
+Áno - proto máte ty vaše stovky tisíc za dva dny "práce" - o tom přesně
+mluvím, sám to zažívám ve firmě, když je zapotřebí buď oprava nefungující
+aplikace (např. rozsáhlé automatizace výrobních procesů) nebo úprava a
+rozšíření o další procesy.
+
+On opravdu shrábne nižší stovky tisíc za pár dní hrabání se v tom, co posral.
+Jenže je to protekční spratek => nikdo na něj nemůže.
+ _J_e_d_e_t_ _R_o_j_k_a [Muž]22 [Kategorie]
+03.05.2024 12:27:19
+libik
+
+Tak alespoň víme, že si nikdy nebyl na pozici na které to stojí.
+
+Představa loutek bez odpovědnosti, kde nikdo za nic neručí, nejde nic pokazit
+a když se něco zesere a majitel přijde o desítky mega, tak se na tebe přijde
+usmívat a vyplatí ti vánoční prémie.
+
+To je opravdu historka jak od nějakého experta teorie podnikání.
+[Smajlík] [Muž]36 [Kategorie]
+ _w_u_t
+03.05.2024 11:15:14
+>wut
+Viděl jsem řadu situací, kdy vedení firmy nereflektovalo návrhy IT a když se
+pak něco podělalo, tak to stejně odsral někdo z IT. Nikoho nezajímalo, že to
+chtěl řešit jinak. Nepomohlo ani že to bylo písemně.
+
+Kdysi jsem se dokonce v takové situaci ocitl i já sám, kdy jsem opakovaně
+upozorňoval přímo majitele firmy, že to, jak to tam fungovalo si ne že
+koleduje o průser, ale že průser je nevyhnutelný, jde jen o to kdy. Odpovědí
+mi bylo, že si to (majitel) zařídí sám. Bylo naprosto jasné, že nezařídí, že
+to je jen kec aby mě odbyl. Tak jsem kontroval, že za takových podmínek nemůžu
+ručit absolutně vůbec za nic, žádnou zodpovědnost jsem podepsanou neměl. Když
+se pak asi po půl roce stalo přesně to, před čím jsem varoval, tak jsme
+ukončili spolupráci protože řvát na sebe a dělat naschvály nenechám. Podle
+majitele bylo všechno samozřejmě moje vina a zachoval se doslova jako sv*ině.
+S tímhle přístupem se nejde divit, že firma dnes už neexistuje.
+ _J_e_ž_e_k_ _s_e_c_o_n_d_ _e_d_i_t_i_o_n [Muž]42 [Kategorie]
+03.05.2024 10:12:40
+že už nejsi ve firmě vítanej a bylo by fajn se pomalu sbalit, předat práci a
+jít jinam...
+Smajlík wut
+----------
+Je to přesně naopak. Pokud je systém ve firmě nastaven tak špatně, že je
+jednoduchý (tj. třeba chybou jednoho člověka) udělat incident, pak je to jen
+časovaná bomba, problém není v samotné chybě jednotlivce, protože lidi chyby
+dělají.
+
+Doporučuji si nastudovat Blameless Postmortem a pochopit proč a jak funguje:
+_h_t_t_p_s_:_/_/_s_r_e_._g_o_o_g_l_e_/_s_r_e_-_b_o_o_k_/_p_o_s_t_m_o_r_t_e_m_-_c_u_l_t_u_r_e_/_ 
+
+Pokud bys chtěl jít více do hloubky: https://www.amazon.com/Accelerate-
+Software-Performing-Technology-Organizations/dp/19427883 - 39 -
+ _l_i_b_i_k [Muž]34 [Kategorie]
+03.05.2024 08:17:44
+libik
+
+zažil jsem situaci, kde jeden IT mistr světa smáznul celej filestore k systému
+na správu dat, že prej to tam zabíralo místo na disku a nevěděl co to je, pak
+za půl roku čistil na serveru uživatele a smazal systémový účty, co systém na
+správu dat využíval...
+
+pak jsem taky viděl odstavenou globální firmu na měsíc, kdy se hojila nejméně
+rok ze situace, kdy jim bouchly halony v serverovně, zničily plotny a borci
+neměli udělanej disaster recovery... Taky je nikdo po ramenou neplácal a po
+rozchození se "revidovalo personální zajištění".
+
+No a developerské průsery? Nikdo tě nezjebe za víkendovou odstávku, ale když
+zastavíš celej provoz v pracovní den, kde máš za hodinu ztrátu třeba 4
+miliony, tak se ptá nejen ředitel, ale i představenstvo a vlastník.
+
+Viz třeba Lukačovičovo mega proslov na X.com jen kvůli předplatnému a cookie
+liště. A ano, on skutečně málokdo z top manažerů udělá histerickou scénu, ale
+umí naznačit, že už nejsi ve firmě vítanej a bylo by fajn se pomalu sbalit,
+předat práci a jít jinam...
+[Smajlík] [Muž]36 [Kategorie]
+ _w_u_t
+03.05.2024 08:06:28
+pokud je nějaký ajťák ve svém oboru opravdu dobrý, tak podobnou anomálií bude
+určitě mít.
+MergeSort
+02.05.2024 21:16:57
+---------
+Mně teda přišla většina spolužáků z FITu normální, ale když jsme měli nějaký
+humanitní předměty se silnoproudařema z FELu, tak většina z nich mi přišla
+trochu svá:)
+ _l_i_b_i_k [Muž]34 [Kategorie]
+03.05.2024 08:03:04
+Začátek je náročný - musíš tím strávit aspoň pár set hodin a pak najít firmu
+co nevadí junior bez praxe/školy. Ale není to zase nic nemožného a po roce
+praxe už máš dveře otevřené.
+
+Žádný úspěšný projekt mít samozřejmě nemusíš, ale je fajn ukázat nějaký
+demíčko co už jsi udělal.
+
+Pokud neděláš hodně specifickou činnost, tak to co píše wut je nesmysl. Za
+výsledek zodpovídat celý tým a procesy firmy. Pokud jedinec může udělat škodu,
+je to problém ve fungování celé firmy, ne jedince. Žádný speciální znalosti
+pro ISO a jiný certifikáty jako junior nepotrebujes (a to jsem nedávno dělal
+pro jednu dcerinku banky která zpracovává transakce).
+
+High-performing týmy řeší příčiny průserů, ne blaming jednotlivců, tedy seznam
+dost dobře nikomu dusno dělat nebude.
+ _l_i_b_i_k [Muž]34 [Kategorie]
+02.05.2024 22:13:08
+JižZaměstnán: jsem sice ještě student a s reálnou praxí nemám ještě žádné
+zkušenosti, ale jo ajťáci jsou velmi často divní lidé a to přiznávám i přes
+to, že to IT studuju. Ani matematici nebo fyzici nejsou divnější. Buď je to
+hlava, která ti naimplementuje kompletně všechny algoritmy z hlavy a u toho se
+klepe, jako kdyby byl neustále na koksu (i když není), nebo když se nemusí
+zrovna učit nebo pracovat, tak čumí na anime... pokud je nějaký ajťák ve svém
+oboru opravdu dobrý, tak podobnou anomálií bude určitě mít.
+ MergeSort
+02.05.2024 21:16:57
+Vůbec ne. Naopak dostat se do IT je extrémně snadné. Na junior pozici úplně
+klidně jen s měsícem praxe. Vypracovat se na seniora nebo vedoucího chvíli
+trvá, ale pokud jsi šikovný a máš chuť se učit, tak i to jde během jen pár
+let.
+
+Školy jsou celkem k ničemu, spíš vedoucí většinou zajímá, co umíš a co se umíš
+naučit. Doktorát komplet k ničemu, vysoká pomůže, ale nutnost to rozhodně
+není. Maturitu to mít chce, ale když budeš umět, tak ani to není extra
+překážka.
+
+A pokud umíš vymyslet takovou appku nebo projekt, proč bys sakra lezl jako
+programátor někam do korporátu. V týhle situaci naopak najmeš programátory, co
+právě tohle neumějí ty...
+[Smajlík]
+ timko.
+02.05.2024 21:16:07
+Záleží kam míříš a kolik si chces vydělat, IT nejsou jen programátoři. Já
+pracuji jako síťař, firewally bezpečnost a podobný hnusy, pod 100k čistého
+měsíčně nejdu a ani kolegové na podobných pozicích nemají méně. Můj obor se dá
+naučit cca 3-5let praxe a to nemusíš být genius
+
+To platí i o programátorů, znám jich spoustu a většina jsou průměrní jedinci,
+jen tím musíš žít, musí tě to bavit a obětovat tomu půlku života.
+ Daveeeeeeee
+02.05.2024 20:37:54
+Já osobně se pod tenhle názor podepíšu. Asi ne tak drasticky jako 100k
+stažení, ale rozhodně bys něco za sebou mít měl.
+
+Pokud nechceš bejt nějakej sysadmin někde v korporátu, co založí email a
+doménovej účet nově příchozímu, vymění klávesnici politou kafem a dá toner do
+tiskárny, ale chceš se stát developerem, tak skutečně musíš mít něco umět.
+
+Firmy ti daj možnost s projektem třeba desetkrát větším, než je tvoje největší
+zkušenost, ale nikdo ti nedá pod křídla systém, na kterym běží 5 fabrik o 5000
+lidech, když tvoje jediná zkušenost je prezentační webík ve wordpresu pro
+místní chráněnou dílnu, kde dělá místra tvuj strejda...
+
+Další věc je, že dneska už neni SW jen o tom umět naprogramovat, ale čím dál
+víc se řeší umět naprogramovat tak, aby si splnil všemožný ISO, získal si
+třeba tematickou certifikaci jako je SaMD nebo minimálně splnil zákon č. 127/
+2005 Sb. ...
+
+O dalších pohledech ani nemluvim...
+
+... Podívej se třeba na poslední průser Seznam a.s. ... nějakej šmudla udělal
+obyčejnou modálku se souhlasem s cookies a jakej poprask tim způsobil. Teď už
+to dali s markeťákama dokupy. Vymazali nasírací texty, změnili souhlasový
+tlačítko z nasírací červené na pozitivní zelenou a všichni jsou happy.
+V pozadí je sice stejná funkcionalita, ale UX je na uplně jiný úrovni.
+
+A třeba jen tahle jedna průserová modálka je stála desítky milionů korun na
+tržbách a desítky mega na režii kolem a můžu ti garantovat, že projekťáka,
+techleada a UX sice nevyhodí, ale udělaj jim takový dusno, že odejdou protože
+chtějí...
+[Smajlík] [Muž]36 [Kategorie]
+ _w_u_t
+02.05.2024 19:08:49
+No, v pondělí jdu na svůj první pohovor, dělal jsem rekvalifikační kurz v C#,
+nějaké OOP, základy databází, práce s textovými soubory... Na střední jsme v
+semináři dělali webovky v PHP, úplné začátky v Pascalu, na vysoké trochu C++.
+I přes ne zrovna velké znalosti mě pozvali na pozici C++ developer, tak jsem
+hodně zvědavý, sice si nedělám iluze, protože toho fakt moc neumím, ale
+zkušenost se hodí. A jak píšeš, taky z toho mám vždycky podobný dojem,
+bohužel. A teď zjišťuju, že s nějakým základem a několika projekty mě někam
+pozvali, což potěšilo. Ať se ti daří v práci!
+ AdeptDeveloper
+02.05.2024 18:54:43
+To sou i elektrikáři, instalatéři, pokrejvači, všechny profese.
+Každej je nenahraditelnej king.
+ _J_e_d_e_t_ _R_o_j_k_a [Muž]22 [Kategorie]
+02.05.2024 18:21:08
+Inu kdo má prachy, ten může být elitář, protože prachy jsou měřítkem úspěchu.
+A ano, každý si chrání, aby mu nikdo z koryta neujídal ;)
+ Knihovník z katedry
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ] _II_nn_tt_ee_rr_nn_ee_tt_oo_vv_?é_ _RR_?á_dd_ii_oo_ _SS_ee_zz_nn_aa_mm_kk_aa_ _vv_yy_ss_?í_ll_?á_ _ii_nn_zz_ee_rr_?á_tt_yy_ _ss_ _nn_?á_mm_ii_ _ss_ee
+ OPIŠ BEZPEČNOSTNÍ KOD: _ss_ee_zz_nn_?á_mm_?í_tt_ee_..
+ [Captcha]              _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+

@@ -1,0 +1,225 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+Zpověď č.1236052, vloženo 16.06.2024 18: _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+53:17                                    _s_t_r_á_n_k_a_]
+Kolega z pekla
+Musím se tady fakt vyzpovídat z toho, jakého jsem měl kolegu debila. Už je přes
+šest let pryč, ale já jsem se ještě občas sám sebe ptal, jak je vůbec možné,
+aby byl někdo takový blbec. Takže jsem se bavil s jiným absolventem stejné IT
+školy, podíval jsem se i kolegovu bakalářku a diplomku a najednou mi to začalo
+dávat o to větší smysl.
+
+Ten můj známý, co dělal stejnou školu, mi řekl, že u nich mají skoro až příliš
+moc volitelných předmětů, takže ve výsledku si někdo může navolit předměty tak,
+že v nich bude mít samou analýzu, samý databázový design a ve výsledku se
+praktickému programování může skoro úplně vyhnout. Když jsem se podíval na jeho
+bakalářku a diplomku, tak mi došlo, že on během školy vlastně nevyvíjel nic v
+standartním žádném C, C++ nebo C#, ale jen něco v nějakém pomocném skriptovacím
+jazyce a většinu tam definoval v jakémsi celoobrazovkovém designeru, kde jen
+tahal ikonky do schématu. Téma bakalářky i diplomky mu určil nějaký jeho kámoš,
+který tenhle komerční nástroj používal na nějaké svoje hodně úzce zaměřené
+projektíky.
+
+Takže podle toho, co vím teď, to vypadá, že si tenhle člověk si na škole
+nasázel samé analytické předměty a programování se během celé školy úplně
+vyhnul. Tomu odpovídají i jeho názory, že psaní kódu je jen pro lopaty, zatímco
+on se evidentně cítil jako softwarový architekt.
+
+Prvních dva a půl roku své kariéry si pořád jen stěžoval, že nemohl něco
+udělat, protože k té konkrétní komponentě neexistuje žádná dokumentace nebo
+protože jsem to já předělal, případně že mu já pořád házím nějakým způsobem
+klacky pod nohy. Přitom to bylo spíš opačně, protože kolikrát něco udělal až
+tak blbě, že to blokovalo jakoukoli moji další práci.
+
+I když dostal celkem jednoduchý úkol, tak na vypracování potřeboval klidně i
+šest týdnů. Na meetingu jsme se často domluvili, že tento týden oba dokončíme
+svoje úkoly, dáme to dohromady a všechno bude fungovat. A pak na konci týdne
+jsem ten svůj kus kódu zkusil zkombinovat s tím kódem od kolegy a najednou
+čumím, že když tu kolegovu funkci spustím se třemi náhodnými hodnotami
+parametrů, tak to ve dvou případech ze tří nefunguje. Takže jsem teď měl dilema
+- dát kolegovi dalších x týdnů ať si to opraví nebo si těch pár řádek během
+chvilky opravit sám? Když jsem team leaderovi řekl, že fakt nechápu, co tam
+vyšívá šest týdnů, že bych byl rád, kdyby v gitu byl vidět nějaký průběžný
+výsledek, tak mi na to odpověděl, že nějaké počty komitů nejsou důležité a že
+nejsme na žádných závodech. Nakonec jsem si vybral rychlejší řešení a opravil
+to sám během chvilky, ale to jsem ještě netušil, jak moc se ten kolega urazí.
+
+Celkově jsem zjistil, že je fakt lepší, když on nepíše vůbec žádný kód a jen si
+mastí něco v designerech, protože nad kdejakým řádkem kódu se strhla hádka.
+Team leaderovi to bylo bohužel jedno, protože jeho projekt to nebyl (ten vedl
+někdo jiný) a protože on měl podle něj důležitější věci na práci. Takže jsme se
+tam s tímhle kolegou slovně mydlili nějaké dva roky a každému to bylo jedno.
+
+Až teď mi došlo, že ten kolega nejspíš psaní kódu bytostně nesnášel a proto
+vlastně nedělal nic, co mu přímo nenařídil projekt leader. On totiž často
+přišel s tím, že mu něco poradil nějaký kámoš, ale vůbec nebral v úvahu to, že
+ten jeho kámoš píše úplně jiný typ aplikací než my. Ale občas přišel s nějakým
+dobrým nápadem, tak jsme ten nápad realizovali. Jenže jsem to vlastně vždycky
+realizoval já a on jen komandoval jak to má být udělané. On se v našem týmu
+vlastně samovolně pasoval do role architekta a já jsem pro něj byl ta lopata,
+co píše kód.
+
+Když jsem mu někdy řekl, že ten nápad je blbost, tak mi nikdy nevěřil. Kdyby si
+to ten blbec zkusil, tak by se alespoň něco naučil a zjistil by, že mám pravdu.
+Jenže to on neudělal nikdy, právě protože nejspíš jakékoli psaní kódu nesnášel
+a proto fakt nikdy nenapsal ani jeden řádek kódu aniž by to dostal nařízeno.
+
+To mě přivádí i k tomu, že jsem si napsal nějaké regression testy, abych
+předešel neustálému ručnímu prohlížení vygenerovaných dat. Ruční kontrola
+trvala fakt dlouho a fakt jsem tím trávil hodně času, proto jsem si udělal
+jednoduchou utilitku, která mi tu kontrolu udělala za pár sekund. Jednou si
+všiml, že tam používám nějaký tool, tak ho zajímalo, co to tam vlastně dělám a
+já jsem tehdy ještě v dobré víře odpověděl, že jsem si udělal nějaký testovací
+tool. Jeho jediná otázka byla “Kdo ti dovolil na něčem takovém dělat?” U
+tohohle bodu je nutné říct i to, že to byla fakt velká firma, kde naplánovaný
+čas byl fakt štědrý a na psaní nějakých toolů čas rozhodně zbýval, takže tahle
+jeho otázka fakt nedávala velký smysl.
+
+Kromě toho mě občas zjebal jen tak cvičně- občas něco on sám uložil do gitu bez
+jakéhokoli otestování a pak se za měsíc divil, že něco nefunguje. Zjebal za to
+samozřejmě mě. Když dokončil svůj herecký výstup, tak jsem se podíval, kdo tu
+zmíněnou změnu provedl, tak to byl on. Jenže po jeho výstupu jsem už fakt neměl
+chuť v té hádce pokračovat, tak už jsem to raději nechal být.
+
+Občas naštval sám sebe už jen tím, že koukal do zdrojového kódu a tam našel
+něco, co se mu nelíbilo. Takže si vymyslel nějaký imaginární problém, ale kdyby
+si to jeho řešení zkusil, tak by se alespoň naučil, že to jeho řešení se tu
+fakt použít nedá. Jenže on vlastně psaní kódu nesnášel, tak si vůbec nezkusil,
+ale zato s tím hned běžel za team leaderem, ale ten tomu nerozuměl, tak mu to
+všechno baštil.
+
+Těmihle jeho imaginárními problémy masíroval team leadera pořád až nakonec team
+leadera přesvědčil, že je v projektu všechno úplně blbě, nic se neshoduje s
+dokumentaci a není žádná šance, že by ten projekt mohl někdy fungovat. Ve
+výsledku už se se mnou team leader poslední měsíce přestal úplně bavit a
+kdykoli chtěl znát stav projektu, tak se ptal jen toho kolegy. On si to totiž
+vyhodnotil tak, že já svádím všechno na kolegu a nemám vůbec žádnou
+sebereflexi. Takže po pár dalších stížnostech od kolegy jsem dostal podmíněnou
+výpověď s tím, že mám já v týmu přestat vytvářet dusno (podmíněná výpověď =
+vytýkací dopis společně se seznamem věcí, které se musí splnit, jinak přijde
+výpověď).
+
+Projekt se pak blížil k dokončení a my jsme konečně měli možnost testovat
+všechno naostro. Před tím to všechno dohromady testovat nešlo, takže nebyla
+šance to odladit dřív. To s sebou přineslo nutnost všechno dokonale odladit a
+případně udělat i nějaké další drobné změny k tomu, aby se to celé rozchodilo.
+To znamenalo, že jsem dělal nějaké drobné změny na různých místech v různých
+komponentách. Ale z pohledu kolegy jsem v projektu prováděl samé neautorizované
+změny, zjistil to v pátek chvíli před tím než šel domů, ale ještě mi stihl
+říct, že takhle to fakt už dál nejde a že hned v pondělí jak přijde, tak podá
+na mě stížnost.
+
+Tím mě tak strašně vytočil, že jsem tu stížnost ještě v pátek večer naopak
+napsal já a napsal jsem tam, že pořád řeší nějaké imaginární problémy, které
+nikdo jiný není schopný vidět a odeslal to nejen na team leadera, ale i projekt
+leaderovi a vyššímu vedení.
+
+V tu chvíli to bylo poprvé, co všechny složky vedení a všechna dotčená oddělení
+spolu musely začít komunikovat a pak najednou vyšlo najevo, že v projektu je
+všechno správně přesně podle dokumentace a všechno funguje přesně podle
+očekávání projektového vedení a projekt leader vůbec nechápal jaké problémy ten
+kolega vlastně řeší.
+
+Takže to dopadlo tak, že moje podmíněná výpověď se stornovala a naopak ji
+dostal team leader a ten kolega. Toho to natolik urazilo, že dal okamžitě
+výpověď. U nás nebylo běžné končit na hodinu a každý si musel odkroutit
+výpovědní dobu, takže po zbývající tři měsíce se už jen vymlouval, že nemohl
+vůbec nic udělat, protože nerozumí ani jedné jediné řádce kódu od mě. Přitom
+nový kolega, co nastoupil po něm, si pochvaloval, že celý projekt je až
+překvapivě srozumitelný.
+
+Team leader chtěl ve firmě samozřejmě zůstat, tak musel splnit určité podmínky
+a jednou z nich bylo, že se mnou musí mít každý týden půlhodinový meeting.
+
+Kolega pak nastoupil do jiné firmy a podle mých informací tam vydržel jen rok,
+poté tam skončil a už programátora nedělá vůbec. Evidentně tam nebyl nikdo po
+kom by se mohl vozit a svádět na něj svoje neúspěchy.
+
+To, že byl tenhle kolega debil, je mi vlastně celkem jedno, ale spíš mám teď
+problém s tím, že tahle firma končí a já teď musím chodit na pohovory a někteří
+bývalí kolegové pořád věří verzi toho blbce a že jsem to byl já kdo kolegovi
+bodl zákeřně kudlu do zad. On byl strašně výřečný a na první pohled strašně
+přátelský a byl samý vtip, takže mu to všichni strašně žrali a asi se čím dál
+častěji budu setkávat s bývalými kolegy, kteří od něj zaslechli jak špatný
+týmový hráč jsem.
+
+Teď jsem zrovna byl na jednom pohovoru a jedna otázka od HR mi připomněla
+tohohle debila. Takže se mi tam logicky začala trochu vařit krev, tak jsem
+připustil, že jsem měl jednoho kolegu úplně na hovno a nedokázal s ním vyjít a
+řekl jsem na adresu tohohle kolegy něco, co si zobecnili a udělali si závěr, že
+jsem evidentně špatný týmový hráč a nepřátelský ke všem kolegům. Člověk na
+jednu stranu nechce nic zapírat, ale na druhou stranu jim tam nemůžu vykládat
+takhle dlouhý román.
+
+Jestli mě teď něco štve, tak to není to, že jsem kdysi měl kolegu debila, ale
+to, že se mu teď podařilo mi zkazit pohovor ve firmě, kam jsem chtěl. Asi budu
+příště raději zatloukat, zatloukat, zatloukat, že jsem nikdy žádný problém s
+nikým neměl.
+ Ajťák [Muž]42  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+18.06.2024 05:17:09
+No to je radost, mít v práci takovou svini. Díky za "článek", bylo to pro mě
+zajímavé počtení, bohužel nevím jak poradit.
+
+Máme u nás v práci také svini, je to hlavně donašeč a bonzák. Zatím také
+nevím, jak na něj, naštěstí s ním nemusím příliš často spolupracovat. Až budu
+mít čas, a budu z něj zase na nervy, možná také napíšu zpověď.
+[Smajlík]
+ Lepší stroje než lid
+17.06.2024 01:35:20
+Bavit se s bláznem může jenom blázen
+ _P_s_y_c_h_o_l_o_g_ _p_s_y_c_h_i_a_t_r [Muž]72 [Kategorie]
+16.06.2024 23:00:05
+Proc si proste neudelas portfolio a nezacnes svuj um a cas prodavat treba na
+upworku nebo necem takovym? Vyhes se tak temhle picovinam s HR a budou te
+platit lidi, kteri fakt chteji pomoct s kodem.
+ lol
+16.06.2024 22:58:21
+Bla bla bla, s někým jsem se nedovedl vypořádat. A teď mi dejte všichni za
+pravdu.
+Njn real life nejde v no harm model.
+
+Zapomeň na to a jeď dál.
+[Smajlík]
+ kortos
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ] _II_nn_tt_ee_rr_nn_ee_tt_oo_vv_?é_ _RR_?á_dd_ii_oo_ _SS_ee_zz_nn_aa_mm_kk_aa_ _vv_yy_ss_?í_ll_?á_ _ii_nn_zz_ee_rr_?á_tt_yy_ _ss_ _nn_?á_mm_ii_ _ss_ee
+ OPIŠ BEZPEČNOSTNÍ KOD: _ss_ee_zz_nn_?á_mm_?í_tt_ee_..
+ [Captcha]              _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+
