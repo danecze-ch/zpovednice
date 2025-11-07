@@ -1,0 +1,346 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+ Diskuze č.1183106, vloženo 04.12.2021 _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+ 11:28:08                              _s_t_r_á_n_k_a_]
+ 6 ÷ 2(1+2) -> správné řešení
+ Nejblíže a nejdřív se správnému řešení přiblížil Michal, ale byl příliš líný
+ vysvětlit proč je která odpověď správná, i když to asi zná dobře. Poté
+ podobný konsenzus našlo více lidí, že to asi nebude mít jednoznačnou
+ odpověď, což nemá. K tomu jsem trochu i napověděl, že "takřka nikdo nezná
+ správnou odpověď" -> pokud by 1 nebo 9 byla správná odpověď, pak by zhruba
+ polovina lidí tu správnou odpověď znala.
+
+ Existuje něco, co se jmenuje "implied multiplication", tedy "implicitní
+ násobení". Což znamená, že pokud mezi jednotlivými prvky nenapíšete
+ znamínko, tak se "implicitně násobí". Většinou se s tím setkáte spíše u
+ neznámých, kdy píšete třeba "2y". Existují dvě konvence - jedna z nich
+ považuje prvky, které jsou mezi sebou implicitně násobeny za jeden společný
+ výraz a tak se i používá. Ve výsledku to znamená, že implicitní násobení má
+ vyšší prioritu než explicitní (když to znamená píšete) násobení nebo dělení.
+
+ V ČR bych si dovolil tvrdit že na SŠ a VŠ se používá spíše tato konvence
+ (nebo aspoň před 10 lety se používala) - pokud byste viděli "6 ÷ 2y", tak to
+ obyčejně znamená 6 v čitateli a 2y ve jmenovateli. Nerozdělujete to jako "6
+ děleno dvěma krát ypsilon = 3y". I když v 99% času se setkáte normálně se
+ zlomky a u těch to není potřeba řešit.
+
+ Proto podle první konvence:
+ 6 ÷ 2(1+2) = 6 ÷ 2(3) = (prioritizujeme implicitní násobení) 6÷6 = 1
+ 6 ÷ 2*(1+2) = 6 ÷ 2*(3) = (prioritizujeme zleva doprava) 3*3 = 9
+
+ Nicméně některé konvence s implicitním násobením vůbec nepočítají. V takovém
+ případě není žádný rozdíl mezi 2(1+2) a 2*(1+2), pak se musí pokračovat
+ zleva doprava a výsledek je 9.
+
+ Suma sumárum - dle dnešních běžných konvencí v ČR bych se klonil spíše k 1,
+ ale nedá se říct, že by 9 bylo špatně. V US/UK by se podle toho co jsem
+ našel i na školách klonili zase spíše k 9. Pokud už člověk nepíše z nějakého
+ důvodu zlomky, měl by použít ještě jedny závorky, aby nedošlo k omylu a
+ napsat výraz buď jako 6 ÷ (2(1+2)) nebo (6 ÷ 2)*(1+2)
+
+ ****
+
+ Určitě je špatně zdůvodňovat výsledek 1 tím, že "závorky mají přednost", to
+ tam nehraje žádnou roli - ta dvojka (před trojkou v závorce) je už mimo
+ závorku a výraz v závorce je vyřešen.
+
+ Dodatek na zamyšlení:
+
+ Zamyslete se nad tím, jak byste upravili tento výraz a napište pak k němu
+ závorky tak, aby to bylo jednoznačné, nehledě na konvenci
+ 6 ÷ 2(1+2) + 2a ÷ 3b
+
+ (kdo by si to chtěl zkusit a nechce se nechat ovlivnit tím co napíšu, tak
+ odtečkovávám o pár řádků níže)
+ .
+ .
+ .
+ .
+ .
+ .
+ .
+ .
+ .
+ .
+ .
+ .
+ .
+ .
+
+
+ Podle první konvence vyjde 1 + (2a) ÷ (3b)
+ Podle druhé konvence 9 + (2ab) ÷ 3
+ Oba dva výsledky bych považoval za správné, ale určitě ne nějaký mišmaš jako
+ třeba 9 + (2a) ÷ (3b) nebo 1 + (2ab) ÷ 3. Nedává smysl jednou implicitní
+ násobení prioritizovat a podruhé nikoli v rámci jednoho příkladu jenom podle
+ toho co se mi "zdá" zrovna lepší. V pořadí operací není rozdíl mezi 6 ÷ 2y a
+ 6 ÷ 2(1+2)
+  _l_i_b_i_k E-MAIL:_[_g_r_a_f_i_k_a_/_m_r_e_f_h_i_._g_i_f_]   [Muž]32 [Kategorie]  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+05.12.2021 15:11:06
+Lidi, buď berete moc drog nebo vám covid poškodil mozek, ale každopádně byste
+se měli vrátit zpátky na základní školu a zopakovat si matematiku... jediné
+řešení 6 ÷ 2(1+2) je 9
+
+Priority početních operací
+Pokud není vyznačeno jinak, vyhodnocují se operace v tomto pořadí:
+• umocňování, odmocňování,
+• násobení, dělení,
+• sčítání, odčítání.
+Operace se stejnou prioritou vyhodnocujeme zleva doprava
+
+_h_t_t_p_s_:_/_/_c_s_._w_i_k_i_p_e_d_i_a_._o_r_g_/_w_i_k_i_/_P_r_i_o_r_i_t_a___p_o_%_C_4_%_8_D_e_t_n_%_C_3_%_A_D_c_h___o_p_e_r_a_c_%_C_3_%_A_D_ 
+
+http://www.realisticky.cz/ucebnice/01%20Matematika%20S%C5%A0/
+01%20Z%C3%A1kladn%C3%AD%20poz - natky/01%20Opakov%C3%A1n%C3%AD/
+10%20Priority%20operac%C3%AD,%20z%C3%A1vorky.pdf -
+[Smajlík]
+ tricet8
+04.12.2021 17:27:08
+:D :D
+ _L_i_b_e_r_e_c_a_k [Muž]24 [Kategorie]
+04.12.2021 17:08:22
+Liberecak: Výsledek je "láska na celý život"
+[Smajlík]      [Žena]26 [Kategorie]
+ _A_l_e_s_s_a_n_d_r_a_1_1_1
+04.12.2021 15:09:54
+"Tys v minulém příspěvku napsal že 6/2y=6/(2y)"
+
+Ne to není to samé. 6/2y je 3y a 6/(2y) je 3/y.
+Blbě jsem se asi vyjádřil. Měl bych třeba příklad 6/(y+y) a ten bych upravil
+na 6/(2y) ale protože jsem líná svině tak si to já do svého sešitu napíšu
+jenom jako 6/2y a vím že tím ve skutečnosti myslím 6/(2y).
+[Smajlík]
+ Jasná 9
+04.12.2021 14:57:14
+Naopak je to velice jasné. Problém nastává jenom při nepochopení zkráceného
+zápisu znaménka násobení.
+Jasná 9
+-------
+Tys v minulém příspěvku napsal že 6/2y=6/(2y), je to pravda nebo ne?
+ _l_i_b_i_k [Muž]34 [Kategorie]
+04.12.2021 14:55:27
+"No vidíš, sám jsi vlastně napsal, že to až tak jasná 9 nebude."
+
+Naopak je to velice jasné. Problém nastává jenom při nepochopení zkráceného
+zápisu znaménka násobení.
+
+6/2*(1+2)
+V tomhle případě vynechání znamenána násobení ničemu nevadí a nijak to ani
+neupravuje priority. Tedy 6/2(1+2) je ekvivalentní zápis 6/2*(1+2) a výsledek
+je 9.
+V druhém případě 6/(2(1+2)) je ekvivalentní zápis 6/(2*(1+2)) a výsledkem je
+1.
+
+Příklad s proměnnou: 10/(y+y)=1
+V tomhle případě si mi lidé tuhle rovnici sice upravíme jako 10/2y=1 ale její
+správný zápis je 10/(2y)=1.
+Kdybych neznal původní zadání a dostal jen 10/2y=1 tak bych ho měl správně
+vyhodnotit jako 5y=1 a tedy y=1/5. Ale protože znám původní zadání a vím, že
+tohle je jenom můj zkrácený zápis tak vím že řešení rovnice 10/(y+y)=1 a po
+mém ne zrovna dobře zapsaném upravení je 10/2y=1 to je 10=2y a y=5.
+Snad jsem to nějak vysvětlil.
+[Smajlík]
+ Jasná 9
+04.12.2021 14:49:34
+(2 Alessandry + 4 Alessandry) x 4 Alessandry = ?
+ _L_i_b_e_r_e_c_a_k [Muž]24 [Kategorie]
+04.12.2021 14:28:41
+Takze je to presne, jak jsem psal. Vysledek je 729.
+ _q_-_l_o_l_-_q [Muž]38 [Kategorie]
+04.12.2021 14:08:37
+libik:
+>>>tak nejlépe nepoužívat inorder, ale preorder<<<
+
+No, pro programátory kalkulaček určitě, protože ten druhý způsob lze přímo
+počítat a nemusí se parsovat. Ale obecně jde jen o to, aby byla pravidla
+nastavená jednoznačně, a nezávisle na kontextu.
+
+Ale to nic nemění na tom nepřírodním zákonu, že největší pomoc, jak se
+dopracovat k řešení problému je znalost řešení...
+ _M_i_c_h_a_l_-_2_2_2 [Muž]44 [Kategorie]
+04.12.2021 14:05:09
+Univerzální řešení je sporné výrazy nepoužívat, a je po problému.
+
+Stejně tak můžeme špekulovat nad tím, co znamená výraz sin x * sin y, či sin x
+* y.
+ _M_i_c_h_a_l_-_2_2_2 [Muž]44 [Kategorie]
+04.12.2021 14:00:22
+Michal-222: Když už to řešit opravdu systémově, tak nejlépe nepoužívat
+inorder, ale preorder pro matematický výrazy, ne? Potom jsou závorky pasé :)
+
+* / 6 2 + 1 2 = 9
+/ 6 * 2 + 1 2 = 1
+ _l_i_b_i_k [Muž]34 [Kategorie]
+04.12.2021 13:47:45
+Pro člověka bych řekl že je důležité rozeznávat 6/2y a 6/2*y. V první případě
+to chápu jako 6/(2y) a ve druhém se to jednoduše spočítá na 3*y.
+Jasná 9
+-------
+No vidíš, sám jsi vlastně napsal, že to až tak jasná 9 nebude. Dle tvé úpravy
+sám píšeš že 6/2y=6/(2y) a když dosadíme za y=(1+2), tak 6/2(1+2)=6/(2(1+2)).
+Což je jednička a ne devítka.
+
+Ve výrazech a rovnicích můžeme kdykoli cokoli substituovat a nebo dosadit a
+nesmí se tím změnit výsledek.
+ _l_i_b_i_k [Muž]34 [Kategorie]
+04.12.2021 13:46:08
+>>>V ČR bych si dovolil tvrdit že na SŠ a VŠ se používá spíše tato konvence<<<
+
+
+No, já jsem na školách strávil celkem asi 17 let, a nevzpomínám si, že bych
+tohle někdy musel řešit. Všichni "normální lidi" používají zlomkové čáry, a
+tam tenhle problém neexistuje.
+
+Podle mě to pochází akorát z toho, že v "dávných dobách" byl problém dát do
+knížek matematické výrazy, takže zlomek typu
+
+a
+----
+2b
+
+se napsal jako a / 2b, aby se ušetřila nějaká ta práce. Ale to stejně problém
+moc neřešilo, protože zlomek
+
+a
+-------
+2b+1
+
+už takto zapsaný vypadal docela blbě. Závorkování ovšem výrazu taky mnoho
+přehlednosti nepřidá (což jistě potvrdí každý, kdo někdy zkoušel používat
+programovací jazyk LISP, zlí jazykové dokonce tvrdí, že je to zkratka Lost In
+Stupid Parenthesis)...
+
+Ale klidně můžeme také používat konvecni, že
+
+a/2b = (a/2)*b
+
+a / 2b = a / (2b)
+
+tj že prioritu budou určovat ty mezery. Není to nic proti ničemu, akorát
+bychom na to museli dávat extrémní pozor. Ale například v programovacím jazyku
+programu make měl podobný význam tabulátor. V Pythonu nakonec taky, pokud vím.
+
+
+Vynechávání operátorů je stejně pochybná praktika, protože to nemůžeme dělat
+vždycky. Třeba 2a je v pohodě, ale a2 už vypadá blbě. A 23 určitě není 2*3...
+
+Navíc matematici nějak "zamrzli" v tom, že proměnné či neznámé mohou být jen
+jedno písmeno. Což je ovšem dost velké omezení, programátoři používají i
+označení složené z více písmen či číslic. Takže v každém běžném jazyce a*b,
+ab, a b znamená pokaždé něco úplně jiného.
+
+Ale jak už jsem zmínil, většina matematiků, když o něčem mluví tak
+předpokládá, že druhý už je z danou věcí stejně obeznámen (protože kdyby né,
+nestojí jim za to se s někým takovým zahazovat), takže jim na tom moc
+nezáleží...počítač naproti tomu netuší, co ten druhý chce přesně říci, takže
+udělá přesně to, co se mu poručí. V ideálním případě, samozřejmě...
+ _M_i_c_h_a_l_-_2_2_2 [Muž]44 [Kategorie]
+04.12.2021 13:23:39
+"No a aby to bylo více jasné, můžu se zeptat jak upravíš výraz 6/2y?"
+
+Z pohledu většiny programovacích jazyků je to jasné. Ve výrazu 6/2*y se za y
+dosadí hodnota proměnné a jede se zleva doprava. Pokud y není číslo nebo
+taková proměnná neexistuje tak se vyhodí výjimka.
+Pro člověka bych řekl že je důležité rozeznávat 6/2y a 6/2*y. V první případě
+to chápu jako 6/(2y) a ve druhém se to jednoduše spočítá na 3*y.
+[Smajlík]
+ Jasná 9
+04.12.2021 12:44:11
+Ty jsi matematik? Pokud jo, tak určitě tomu rozumíš. Já jsem byla ráda, že
+jsem na vysoký dala 2 semestry matiky.
+Nevím, ale pamatuju si, že bylo nějaké pravidlo. Ty určitě budeš vědět jaké.
+Pravidlo, že číslo nebo výraz před závorkou nejde oddělit.
+Co takto ...co bylo dřív kuře nebo vejce? :P :D Toto vyřeš. :)
+ _A_l_e_s_s_a_n_d_r_a_1_1_1 [Žena]26 [Kategorie]
+04.12.2021 12:42:31
+Výraz v závorkách se spočítá první takže máme: 6/2*3
+Operátory dělení a násobení mají stejnou prioritu takže se jede zleva doprava.
+
+Jasná 9
+--------
+No a aby to bylo více jasné, můžu se zeptat jak upravíš výraz 6/2y ?
+ _l_i_b_i_k [Muž]34 [Kategorie]
+04.12.2021 12:37:28
+Výraz v závorkách se spočítá první takže máme: 6/2*3
+Operátory dělení a násobení mají stejnou prioritu takže se jede zleva doprava.
+[Smajlík]
+ Jasná 9
+04.12.2021 12:27:05
+Když si zápis převedeš do zlomku, tak nahoře máš 6, zbytek máš dole. :
+D Výsledek je 1. A běž dělat něco jiného ty matematiku :D :D :D
+Alessandra111
+---------
+O tom je vlastně celý ten příspěvek - jak si to správně přepsat do zlomku.
+Jestli nahoře máš 6 a zbytek dole, nebo jestli nahoře máš 6*(1+2) a dole 2.
+ _l_i_b_i_k [Muž]34 [Kategorie]
+04.12.2021 12:20:52
+No, pro mně vždycky bylo důležité vědět, co se vlastně snažím spočítat. To by
+taky mohlo napovědět.
+Vždy mě ve škole vytáčelo, že nás učili postupy jak něco počítat, ale
+nevysvětlili nám (většinou tedy) co tím teda vlastně počítáme.
+[Smajlík]      [Žena]30 [Kategorie]
+ _J_e_d_n_a_ _u_p_ř_í_m_n_á
+04.12.2021 12:17:50
+Výsledek musí být jenom jeden správný.
+Nejsem dobrý matematik, spíš řeším věci po svém a selským rozumem. :) Když si
+zápis převedeš do zlomku, tak nahoře máš 6, zbytek máš dole. :D Výsledek je 1.
+A běž dělat něco jiného ty matematiku :D :D :D
+[Smajlík]      [Žena]26 [Kategorie]
+ _A_l_e_s_s_a_n_d_r_a_1_1_1
+04.12.2021 12:13:38
+Moje matematikářka z gymplu je už po smrti. U mě bude mít přednost to, co je
+před závorkou. Za pár desítek let bude jiné vysvětlení než prodáváš
+matouch3
+-------------
+A kolik se teda rovná y pro tuhle rovnici?
+x = 2/3*y
+ _l_i_b_i_k [Muž]34 [Kategorie]
+04.12.2021 12:08:34
+.. jiné vysvětlení než podáváš. (píšu na zasněženém mobilu)
+ _m_a_t_o_u_c_h_3 [Muž]50 [Kategorie]
+04.12.2021 12:00:09
+Moje matematikářka z gymplu je už po smrti. U mě bude mít přednost to, co je
+před závorkou. Za pár desítek let bude jiné vysvětlení než prodáváš
+ _m_a_t_o_u_c_h_3 [Muž]50 [Kategorie]
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ] _II_nn_tt_ee_rr_nn_ee_tt_oo_vv_?é_ _RR_?á_dd_ii_oo_ _SS_ee_zz_nn_aa_mm_kk_aa_ _vv_yy_ss_?í_ll_?á_ _ii_nn_zz_ee_rr_?á_tt_yy_ _ss_ _nn_?á_mm_ii_ _ss_ee
+ OPIŠ BEZPEČNOSTNÍ KOD: _ss_ee_zz_nn_?á_mm_?í_tt_ee_..
+ [Captcha]              _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+

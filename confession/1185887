@@ -1,0 +1,155 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+   Otázky - Vzkazy č.1185887, vloženo _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+   09.01.2022 21:35:45                _s_t_r_á_n_k_a_]
+   12 Hodinové směny a dovolená
+   Ahoj,
+   přítelkyně pracuje v nemocnici na 12 hodinových směnách a nejsme schopní
+   ze všech zdrojů dát dohromady jak funguje dovolená. Měla by mít 200 hodin
+   dovolené, ale jak se to počítá? Uvedu příklad směn. Pondělí, středa,
+   pátek .. chce si vzít dovolenou od pondělí do pátku, vyčerpá tak 36
+   hodin, nebo 60? + Ve chvíli kdy si chce vzít dovolenou na 5 dní, a má tam
+   2 dny volno (třeba so,ne) Tak je prý běžná praxe že na oddělení změní
+   směny tak aby nastoupila hned po dovolené, takže si nelze udělat
+   "prodloužený víkend". Nebyl by mi to někdo schopný vysvětlit, nebo poslat
+   článek kde se zaobírají i příklady?
+    dovolenkář [Muž]24  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+10.01.2022 20:56:35
+> dovolenkář
+> Nebyl by mi to někdo schopný vysvětlit ...
+
+Tak to máš opravdu štěstí, že jsem tu já.
+Já ti teda vysvětlím, jak je to u nás v Záchrance.
+
+THP (uklízečky, ajťáci (i já), ředitelka, účetní, ... ...) dělají PO-PÁ, 5x 8
+hodin týdně. Tam je dovolená jasná.
+
+Lékaři, záchranáři, dispečerky ... dělají dvanáctky, norma úvazku 1,0 je 37,5
+hodiny týdně. Každý měsíc (kolem patnáctého) vrchní sestra dělá rozpis směn na
+DALŠÍ měsíc (mimochodem: v mé intranetové aplikaci "Rozpis směn"). Podle toho
+zaměstnanci pak chodí do práce. To je JEDNA věc.
+
+Druhá věc je DLOUHODOBÝ plán směn. Ten dělá (mimochodem: můj!) "generátor
+dlouhodobého plánu", a to vždy v prosinci a na CELÝ další rok. Takové jsou
+účetní předpisy.
+
+V (mém) Rozpisu směn se pak směny skutečné hezky zobrazují pod (mými)
+generátorovými dlouhodobě naplánovanými směnami. Když pak zaměstnanec chce
+dovolenou, domečky jsou nastaveny nikoliv podle směn skutečných, ale podle
+dlouhodobého plánu!!! Ono taky: pokud teď v lednu chceš dovolenou na červen,
+tak SKUTEČNÝ rozpis června je ještě ve hvězdách - ale dlouhodobý plán na
+červen již byl vygenerován.
+
+Dlouhodobý plán se nesmí (dle předpisů) měnit (leda že by se měnil úvazek
+zaměstnance), skutečný směnovník je naproti tomu velice nestálý.
+
+A samozřejmě jsem (dle cizí dokumentace) naprogramoval i export dlouhodobého
+plánu z mého Směnovníku do (cizího) účetního/mzdového programu. To aby to naše
+účetní nemusely ručně předatlovávat (to by je šmejklo).
+
+-----------
+
+Perlička číslo jedna: Předtím, než jsem naprogramoval svůj generátor
+dlouhodobých směn, Záchranka používala cizí generátor. Ale nebyli s ním
+spokojení - hodně nevyrovnané šichty (žádné vyrovnávání SO, NE, svátků,
+nočních).
+
+Tak mi teda přikázali to naprogramovat ... ukazuju první verzi vrchní sestře
+... povídám: vygenerování jednoho stanoviště/základny (z jednadvaceti
+stanovišť) trvá DVACET SEKUND. Není to moc??
+
+Vrchní sestra vyprskla smíchy. Tamtěm (autoři dosavadního generátoru) to trvá
+NĚKOLIK HODIN.
+
+-----------
+
+Perlička číslo dvě: V Záchrance se pokusili podle mého dlouhodobého plánu i
+sloužit skutečné směny. Experimentu se v lednu 2012 zhostily dispečerky (ZOS).
+Leden odsloužily podle generátoru. Ocenily, že to fakt šlo ... ale pak si
+zcela demokraticky odhlasovaly (N ku nule), že směny podle generátoru fakt
+nechtějí ... protože generátor sice matematicky přesně vyrovnává SO,NE,svátky
+... ale nezohledňuje POTŘEBY dispečerek.
+
+-----------
+
+Tož už je ti to jasné. Ty potřebuješ někde schrastit, jaký že je DLOUHODOBÝ
+plán.
+ rvin
+10.01.2022 14:14:55
+To jsem taky nepochopil, jak to počítají od doby, kdy se to přepočítává místo
+dnů na hodiny. Když jsem přesčasy nedělal a počítalo se to na dny, tak jsem
+měl víc dovolený než teď, kdy mám 60 hodin přesčasů měsíčně a počítá se to na
+hodiny. Asi jsem si bláhově myslel, že čím víc hodin budu mít, tím, víc hodin
+pak budu mít i dovolený. O další důvod víc, proč se jim na ty přesčasy vysr.t
+a nepodepisovat jim to.
+ _v_i_z_v_r_á_c_e_n_á_ _p_ř_e_t_k_o_š_k_a [Muž]50 [Kategorie]
+09.01.2022 23:17:38
+Před 10+ lety, když jsem dělal dvanáctky (v nepřetržitém provozu), počítaly se
+ještě dny a ne hodiny. Při vhodné konstelaci směn stačilo 7 dní dovolené na 14
+dní volna :-)
+To už nejde, už pár let se počítají hodiny, ale pořád by se měly sečíst jen
+směny které byly naplánované. Jak to bude s dny na před a po 'dovolené' kdy
+měl mít člověk volno je hlavně na domluvě na pracovišti - s vedoucím i s
+kolegy.
+ _S_e_m_i_z_a_r [Muž]49 [Kategorie]
+09.01.2022 22:19:23
+Po nás zaměstnavatel chce, abychom si všichni na středisku naplánovali dovču
+už teď v lednu. Aby byl nějaký přehled, mohli se řešit případné kolize,
+souběhy a tak.
+V tom špitále maj teda pěknej bordel, což mě v případě českého zdravotnictví
+nepřekvapuje ..
+[Smajlík]     [Muž]25 [Kategorie]
+ _P_a_n_ _s_v_a_č_i_n_k_a
+09.01.2022 22:00:39
+Kolik hodin není v práci, tolik se jí odpocita dovolené. Osmihodinova směna =
+- 8 hodin dovolen, dvanáctihodinovásmena směna = - 12 hodin z dovolené.
+ Glyx
+09.01.2022 21:58:11
+Já když dělal 12hod směny, tak žádné takové obštrukce nebyly. Prostě sis vzal
+dovolenou jen ta ty dny, kdy bys byl v práci. A dovolená nedovolená, směny
+byly furt podle stejného plánu.
+Jestli to mají ve špitále jinak, to nevím.
+Nebylo by lepší se zeptat tam, než tady?
+ jiRka
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ] _II_nn_tt_ee_rr_nn_ee_tt_oo_vv_?é_ _RR_?á_dd_ii_oo_ _SS_ee_zz_nn_aa_mm_kk_aa_ _vv_yy_ss_?í_ll_?á_ _ii_nn_zz_ee_rr_?á_tt_yy_ _ss_ _nn_?á_mm_ii_ _ss_ee
+ OPIŠ BEZPEČNOSTNÍ KOD: _ss_ee_zz_nn_?á_mm_?í_tt_ee_..
+ [Captcha]              _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+

@@ -1,0 +1,157 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+   Otázky - Vzkazy č.1185147, vloženo _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+   31.12.2021 14:27:37                _s_t_r_á_n_k_a_]
+   Technická otázka ohledně Windows.
+   Ahoj, chtěl bych se zeptat proč starší či staré hry ( ne teda všechny
+   samozřejmě ) nefungují na moderních systémech ( např Half-Life či Cod 1
+   či 2 na win 10 ) a je to i naopak že moderní hry by nefungovaly na
+   starých systémech ( např Far Cry 6 na Windows 95 nebo XP ) čím to vlastně
+   je když ten princip fungování je vlastně stejný ?
+    HonzaHonzik [Muž]20  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+01.01.2022 22:52:46
+Není stejný. Ani omylem ne.
+ _Q_u_a_k_i_e [Muž]79 [Kategorie]
+31.12.2021 19:30:27
+LoliPOP: jo a často nějaká hra někde nejde a jinde jde kvůli chybějícím DLL
+knihovnám. Ty se právě většinou instalují tím redistem a directx, mimo jiné.
+
+Pokud vím, když je hra psaná v nějakém enginu nebo s nástroji jako DirectX,
+tak využívá WinAPI a ty by měly být zpětně kompatibilní v celé řadě NT
+systémů. Takže pokud máš řadu NT (tuším, že první je Win 2000) a příslušné
+knihovny a potřebné softwarové závislosti v pohodě, rozjedeš to.
+ _N_e_s_u_ _k_l_á_d_y [Muž]25 [Kategorie]
+31.12.2021 18:49:52
+LoliPoP: To ti nepovim protoze o tech hrach jak jsou napsany nic nevim a nevim
+ani o tom jakou komfiguraci ma konkretne Tvoje instance windows kde je
+poustiš. Zalezi zkratka na architekture aplikace jako takove, jake pouziva
+komponenty a jak jsou tyto komponenty kompatibilmi se svymi starsimi
+bratricky. Hry ktere si zminil navic uplne nepovazuju za uplne stary
+vykopavky, urcite jiz pouzivaji najakou formu opengl nebo directx ktere by
+nejakou zpetnou kompatibilitu mit urcite melo.
+Abychom zjistili proc ktera aplikace nejede na konkretnim systemu, museli
+bychom ji treba pustit pod nakym profilingovym nastrojem a vysledovat v kterem
+miste ta aplikace konkretne zahuci. Nemusi to byt ani diky moznym trablů ktere
+sem popsal nize, ale treba spatnym opravnenim k ruznym zarizenim, souborum,
+nedostatku zdroju apod. Bez konkretni analyzy muzeme jen spekulovat.
+
+Ja sem predevsim odpovidal na obecny dotaz proc by to nemuselo chodit.
+ Psoug
+31.12.2021 18:20:26
+Psoug dobře si to vysvětlil hodně podrobně ale pokud staré hry neběží správně
+či vůbec na moderních systémech z důvodů které si zmínil tak jak je možné že
+hromada starých her např ten half-life či return to castle Wolfenstein nebo
+call of cthulhu dark corners of the earth Crysis 1 a mnoho dalších her jede
+úplně normálně jak má ? Nebo alespoň já s nimi problém myslím snad žádný
+neměl.
+ LoliPOP
+31.12.2021 18:12:28
+Psoug: to jsem nem&#234;l na mysli, myslel jsem na Win 3.1 a hry, které byly
+napsány v podstatě pro DOS, protože ty ve Win 10 nespustíš vůbec.
+
+Ale jak říkám, o OS vím málo, jen tolik, co potřebuje takový BFU :D
+ _N_e_s_u_ _k_l_á_d_y [Muž]25 [Kategorie]
+31.12.2021 17:58:00
+--
+Jinak problém je samozřejmě na Win, pod kterými stále běží DOS, jakož i
+systémy před NT.
+--
+
+Nesu klady: Ne, to opravdu nebezi. To ze je tam zpetna kompatibilita, kterou
+mohou aplikace vyuzit, neznamena ze Win bezi treba v relaci Dosu. Neni to ani
+hw mozne, dos bezel v realnem rezimu procesoru, kde je treba sprava pameti
+uplne jina (vyuziva se tzv segmentace), moderni os bezi vsechny bez vyjimky v
+protected mode procesoru, navic s ruznymi ficurami, kde se tak jako na vetsine
+ninych architektur pouziva strankovani.
+[Smajlík]
+ Psoug
+31.12.2021 17:27:29
+Takhle neznám hru napsanou pro Win NT, kterou bych nerozjel dodáním
+softwarových komponent nebo režimem kompatibility. Většinou stačí dodat
+DirectX správné verze nebo správný Visual C++ Redist.
+Jinak problém je samozřejmě na Win, pod kterými stále běží DOS, jakož i
+systémy před NT.
+
+Nejsem odborník, podotýkám. Zkus se zeptat googlu, téměř vždy existuje někde
+dotaz nebo návod. "How to run Half-life on Windows 10". Nebo ",half-life on
+windows 10 cannot run".
+ _N_e_s_u_ _k_l_á_d_y [Muž]25 [Kategorie]
+31.12.2021 15:25:10
+Half Life na desítkách jde ale spíš není důvod ho hrát když si můžeš pustit
+Black Mesu...
+[Smajlík]
+ Aperture Science
+31.12.2021 14:46:42
+Duvodu muze byt mnoho, treba nekompatibilita framewroku, knihoven, vnitrnich
+struktur os apod. Kazda aplikace coz je i hra potrebuje pro svuj beh urcitou
+podporu od operacniho systemu, ktery zajistuje nektere veci tak, aby se o ne
+sama aplikace nemusela starat. Aplikace napriklad vetsinou neresi jak se co
+konkretne vykresli na obrazovku, jak se prehraje zvuk, nebo jak si spolu budou
+povidat ores sit. V tomhle pripade proste aplikace zavola nakou cast
+operacniho systemu a rekne: “Hele tady mas vyslednej frame a ten vykresli”,
+nebo “Tady mas data pro vykresleni toho jak prave ustreluje typek a hlavu
+lojzovi b a dej mi vedet az to bude”. Aplikace musi jen vedet co zavolat a
+jaka data tam nalit. Mno a to muze bejt kamen urazu, protoze se zmenou os se
+muze stat ze se ten zpusob z hlediska os nejak zmeni a neni jiz kompatibilni
+se starym zpusobem volani a tudiz ani aplikace uz nebude volat tu ci onu cast
+spravne.
+
+Spousta funkci ktera treba hra ma, vyzaduje i konrektni funkci hardwaru. Nejde
+jen o surovej vykon ale funkcionalitu jako takovou. V dobach pred prvnimi
+pentii napriklad neexistovala graficka karta pro domaci pouziti s 3D
+akceleraci a vsechny tehdejsi hry musely mit vlastni engine, ktery zpracovaval
+veskere vypocty na procesoru. Ten byl navic vykonostne o x radu niz nez jsou
+dnesni intel like cpu. Proto byly hry jako Doom, Descent, Wolfenstein apod tak
+ceneny, protoze vyvojari se museli popasovat nejen s hrou jako takovou ale
+museli i vymyslet jak vykreslit scenu na tehdejsim hardwaru a to tak aby byla
+bubec hratelna (alespon 20-25fps). Dnes pouze hra preda informace o objektech,
+svetlech, kamere a pod graficke karte a ta uz se postara o to ze vsechno
+vyjresli jak ma.
+ Psoug
+31.12.2021 14:40:08
+Nejsem úplně expert, ale je to tím, že staré hry mají jine sw nároky. Vyžadují
+staré directy, nebo volají staré a už nepoužívané knihovny ap. To že systémy
+vypadají na první pohled podobně neznamená že mají stejná střeva.
+ _V_a_n_ _G_e_n_e_r_a_t_o_r [Muž]38 [Kategorie]
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ] _II_nn_tt_ee_rr_nn_ee_tt_oo_vv_?é_ _RR_?á_dd_ii_oo_ _SS_ee_zz_nn_aa_mm_kk_aa_ _vv_yy_ss_?í_ll_?á_ _ii_nn_zz_ee_rr_?á_tt_yy_ _ss_ _nn_?á_mm_ii_ _ss_ee
+ OPIŠ BEZPEČNOSTNÍ KOD: _ss_ee_zz_nn_?á_mm_?í_tt_ee_..
+ [Captcha]              _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+
