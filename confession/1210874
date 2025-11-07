@@ -1,0 +1,365 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+ Diskuze č.1210874, vloženo 29.01.2023 _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+ 17:28:26                              _s_t_r_á_n_k_a_]
+ Rekvalifikace c#
+ Zdravím,
+
+ Je mi 26 let a pracuji jako konstruktér na moravě, nějak jsem došel k závěru
+ ,že se asi už nemám možnost finančně moc kam posouvat v našem kraji, jsem
+ asi na 50k.
+
+ Zvažuji nad rekvalifikaci na programátora, zjištoval jsem v jakém jazyce by
+ to bylo nejvhodnější.
+ a vyšel mi z toho asi c# + Java, Tak bych se chtěl zeptat zdejších
+ odborníků, co se v tomto oboru pohybují, zda je to vhodný jazyk, popřípadě
+ jaké jsou platové vyhlídky a uplatnění.
+
+ Počítám s tím, že zezačátku jako Junior bych šel asi s platem trochu dolů,
+ ale věřím , že je tam větší finanční možnost růstu.
+
+ díky za rady Borci.
+  Chcipák10 E-MAIL: _s_c_o_r_p_i_d_@_s_e_z_n_a_m_._c_z  [Muž]26  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+31.01.2023 22:00:27
+Vypada to tak, ze mnozi nevedi, ze Linux je napsan v C, jen nedavno se pridal
+Rust. A myslet si, ze Linux neni komplexny, si muze jen ignorant, zrovna tak,
+jako, ze je obsolete, jelikoz pry na nem bezi vetsina internetu, nebo i toho
+cloudu. A ted jste obohaceni tou informaci a muzete psat mene blbosti.
+ Emil
+30.01.2023 13:28:24
+>Jen se ptám:
+>Může mi někdo říct, co je na tomhle kódu v C# objektové?
+
+...
+
+No, ty tečky, přece, jako Console.Write(, float.Parse( ....
+
+A je sice možné, že někdo pochopí, co je to statická třída bez toho, aby
+pochopil co je to normální třída, ale já si to úplně představit nedokážu.
+ _M_i_c_h_a_l_-_2_2_2 [Muž]44 [Kategorie]
+30.01.2023 13:13:53
+Jen se ptam: jsou lide, kteri chapou co je nadsazka a ironie.
+
+...no a pak jsou ti ostatni :)
+[Smajlík]
+ Psoug
+30.01.2023 12:02:23
+Psoug:
+Jen jsem se slušně ptal, ale pán je zřejmě člověk neomylný, který musí své ego
+dát najevo.
+Děkuji pane egoisto za tuto skvělou informaci, kvůli které nebudu muset trhat
+v Rumunsku jahody.
+:D :D
+[Smajlík]
+ Jen se ptám
+30.01.2023 11:26:23
+jen se ptam: ja tam vidim slovicko "class" takze je to jasne objektovy :)
+
+
+zacina to tady pripominat diskuse na root.cz
+[Smajlík]
+ Psoug
+30.01.2023 11:16:25
+Jen se ptám:
+
+Asi tak. A to jsi ještě mohl vynechat ten bordel v podobě hlavní třídy a
+mainu, protože to nové verze C# už umožňují. Stejně tak implicitní usingy.
+
+Pak bys měl ještě jednodušší kód než v Pyčonu.
+[Smajlík] [Muž]25 [Kategorie]
+ _d_o_t_n_e_t
+30.01.2023 10:45:09
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace XYZ
+{
+internal class druha_mocnina
+{
+public static void Mainx(string[] args)
+{
+float cislo;
+Console.WriteLine("Zadej číslo : ");
+cislo = float.Parse(Console.ReadLine());
+Console.WriteLine ("Druhá mocnina čísla " + (cislo) + " je " + Math.Pow
+(cislo,2));
+}
+}
+}
+
+Může mi někdo říct, co je na tomhle kódu v C# objektové?
+Moc díky. :D
+[Smajlík]
+ Jen se ptám
+30.01.2023 08:48:55
+popřemejšlej: no co pises je takova klasicka onanie "umim trochu v cecku a kdo
+je vic" a i ostatní Tvé názory, jsou z ranku "za mě byla tráva zalenější a
+nebe blankytné"
+
+Michal-222:
+---
+Já se úplně programováním neživím, ale myslím, že dnes už se komplexní
+programy v jiných než objektových jazycích nepíšou
+---
+
+No dneska je ten svět tak strašně rozmanitej, že se píše v kde čem a spíš
+záleží v jakém oboru se pohybuješ. Já třeba hodně dělám do cĺoud native
+technologí a tam je 80% věcí napsanejch v Go (který defacto objektový není) A
+sou to sakra velký věci typu kubernetes/openshift, prometheus apod. Jasně
+polud budeš dělat pro banku její retailový bankovnictví tak tam se nejspíš
+setkáš s javou ale těch technologí je dneska hrozná spousta.
+
+
+Jinak Go bych třeba pro začínajícího programátora určitě doporučil, takovej
+hezkej jazyk kterej na první pohled vypadá strašně jednoduše, ale jak se do
+něj člověk noří víc a víc tak ta jeho komplexita roste. Zároveň ale není nutné
+ty pokročilejší techniky znát, aby člověk napsal to co potřebuje
+ Psoug
+29.01.2023 23:11:29
+Vicemene souhlas s Botnet Dotnet. Spis si ujasni co by si chtel vlastne delat,
+protoze programovaci jazyk je dneska hlavne nastroj a ne kazdej nastroj se
+hodi na kazdou cinnlst. Sardinky raspli asi taky otevres, ale jsou pro tenhle
+ucel vhodnejsi nastroje.
+
+Dalsi veci je, ze znat jazyj denska nestaci. Je taky nejakej ekosystem kolem
+nej, muze byt pro ruzne platformy a casto zalezi na kontextu kterej tvoris.
+Kdyz dam dam priklad tak to, ze umis v pythonu treba automatizovat nejaky
+server tasky, urcite neznamena ze vis jak ho pouzit pro machine learning. To
+ze znas javascript a pises v nem casti frontendu, neznamena ze ho budes umet
+pouzit treba v nginxu pro request procesing. To ze z umis v C psat pro stm32
+microcontrolery, neznamena ze vysmrknes linux xdp ebpf driver ve stejnym
+programovacim jazyce. Je nutny znat i tu oblast pro kterou ten danej jazyk
+vyuzivas.
+
+Dale vetsinou pracujes v tymu, pouzivaj se ruzny frameworky, tooly pro ci/cd,
+checkovani kvality kodu, metodiky, git atd apod. Naucit se zaklady nejakeho
+jazyka neni vetsinou zas tak slozity (sou i vyjimky :), nicmene ta omacka
+kolem je to co vetsinou hlavne navackum trva nez se nauci nebo to nejak
+poberou.
+
+Tim Te nechci nijak odrazovat, jen si myslim ze dva mesice sou fakt strasne
+malo a mel bys k tomu pristupovat i trochu jinym stylem nez ze budes mit ho a
+prachy :)
+[Smajlík]
+ Psoug
+29.01.2023 22:50:36
+Tak co teda? :D
+dotnet
+-------
+Tak to je porovnávání v kontextu programovacích jazyků. Tj. když řekneš že
+"java" a "javascript" mají společný akorát první 4 písmena, tak máš +- pravdu,
+ale pořád jsou to dva programovací jazyky a jako takové mají společného mnoho.
+
+
+Ale teda implicitně jsem to psal pro moderní jazyky a přecházení mezi nimi. C
+a C++ už jsou v mnohém dost obsolete a naučit se je správně používat dá zabrat
+(hlavně kvůli memory managementu).
+ _l_i_b_i_k [Muž]34 [Kategorie]
+29.01.2023 22:38:51
+Ať už je to jak chce, tak programátorem se člověk nestane za týden, ani za
+měsíc. A naučit se nějaký programovací jazyk je ten menší problém...asi jako
+pro spisovatele naučit se psát na stroji...
+ _M_i_c_h_a_l_-_2_2_2 [Muž]44 [Kategorie]
+29.01.2023 22:31:26
+Taky je tu ta možnost se zaměřit na programování řídicích jednotek, která
+ovládají nějaké mechanické zařízení. Říkám si, že jako konstruktér bys k tomu
+měl blíž, než co třeba dělají běžní programátoři (weby, aplikace).
+[Smajlík]       [Muž]27 [Kategorie]
+ _J_a_c_k_i_e_ _S_t_e_w_a_r_t
+29.01.2023 21:56:20
+C# je úplně jiná kategorie, společného toho opravdu dnes už moc nemají a
+programování ve všech C je dost odlišné i když mají společný základ. Python je
+dobrý tak leda na prvních pár týdnů, něco jako JavaScript.
+
+Jako seniorní c# architekt s velkým přesahem je prostě programování nutnost
+být i koníčkem a neustálým vývojem svých znalostí. Je to pět až sedm let tvrdé
+práce dlouho do nocí a to ještě vyžaduje dávku talentu. Pseudo nadšenců s
+rekvalifikací je bohužel spousty ale tyhle doby už jsou pryč. Firmy raději
+investují do lepších lidí, než aby neudržitelný software neustále dokola co
+pět let přepisovali.
+
+Konstruktér může mít přesah do třeba programování CNC. Jinak je to ale úplně
+nesouvisející disciplína.
+ hammnn
+29.01.2023 21:37:31
+"Ty jazyky jsou +- všechny stejný"
+
+"C či C++ má se C# společný tak akorát to první pismeno"
+
+
+Tak co teda? :D
+[Smajlík] [Muž]25 [Kategorie]
+ _d_o_t_n_e_t
+29.01.2023 20:14:21
+Já jsem teda před lety myslel, že C++ umře, že je to takový slepenec všeho
+dohromady... ale zdá se, že se mu docela daří.
+ _M_i_c_h_a_l_-_2_2_2 [Muž]44 [Kategorie]
+29.01.2023 20:12:42
+ááá ... všechno jsou to c-like jazyky, rozdíly tam jsou, ale slušný
+programátor hravě zvládne všechny tři.
+
+C++, pokud vím, je nadmnožinou C, takže co lze přeložit C-překladačem, lze
+zpravidla přeložit i C++ překladačem.
+ _M_i_c_h_a_l_-_2_2_2 [Muž]44 [Kategorie]
+29.01.2023 20:03:46
+Michal: C či C++ má se C# společný tak akorát to první pismeno.
+ _l_i_b_i_k [Muž]34 [Kategorie]
+29.01.2023 19:44:15
+Popřemejšlel bych nad posledním odstavcem od popřemejšlej :D
+
+Ono to programování je totiž takový, že je k tomu snadnej přístup a naučí se
+to dnes kdekdo z internetu. Prakticky vždycky, když se mluví o rekvalifikaci,
+tak první co lidi napadne je "prostě se nauč Python". Mě třeba štve, že nic
+jiného neumím, že jsem šel na IT školu místo toho, abych získal nějakou
+vzácnější kvalifikaci a toto se učil k tomu prostě ve volném čase (což jsem
+stejně dělal).
+
+Jinak programování je mocný nástroj napříč obory, stává se řekl bych defacto
+standardem, něco jako angličtina. Takže se to určitě uč, možná zjistíš, že ti
+to hodně ulehčí i v současné práci a najdeš pro to využití.
+
+Nebudeš tomu věřit, ale i jeden lékař, co se to naučil, pro to našel využití.
+Píše pro sebe a kolegy skripty, které suplují nedostatky v jejich nemocničním
+informačním systému.
+ _d_o_t_n_e_t [Muž]25 [Kategorie]
+29.01.2023 19:22:15
+"C# neumožňuje psát jinak než objektově" - To není pravda.
+
+Pro autora: Není to tak ani to tom v jaké jazyce děláš ale spíš o tom čemu se
+chceš věnovat a na co se specializovat. A teprve podle toho bych si vybral
+jazyk ale zároveň musíš vzít do úvahu i poptávku firem, svoje preference a
+schopnosti.
+Python se sice doporučuje pro začátečníky ale osobně si nemyslím že je to
+vhodný první jazyk akorát díky němu budeš mít spoustu blbých návyků a vůbec
+ten přechod na nějaký "dospělejší" jazyk budeš mít dost krušný. Ale jasně jsou
+úlohy kde Python má své místo (opakuju: vyber si jaké oblasti se chceš věnovat
+a až pak si zvol vhodný jazyk).
+C# určitě nic nezkazíš. Má docela široké využití a aktuálně se vyvíjí rychleji
+než Java a vůbec platforma .NET je hodně atraktivní. Stejně tak pracovních
+příležitostí je v česku pro tyto programátory dost.
+A ještě posílám odkaz na příručku pro začínající programátory: _h_t_t_p_s_:_/_/
+_j_u_n_i_o_r_._g_u_r_u_/
+[Smajlík]
+ Dotnet Botnet
+29.01.2023 19:16:33
+Podle mě ale céčko není zrovna způsob, jak získat dobré programovací návyky.
+Céčko je dobré na věci nějak související s hardwarem, nebo aspoň s pamětí,
+případně na psaní optimální (z hlediska rychlosti) verze kódu. Ale z hlediska
+vyjadřovacích schopností je to spíš tragické, než užitečné.
+
+Já se úplně programováním neživím, ale myslím, že dnes už se komplexní
+programy v jiných než objektových jazycích nepíšou.
+ _M_i_c_h_a_l_-_2_2_2 [Muž]44 [Kategorie]
+29.01.2023 19:01:11
+Můžete začít v QA oddělení IT firmy. Obvykle nic extra znát nepotřebujete a
+vše se doucite za pochodu. A pak můžete přejít na vývojáře.
+
+Je dobrý si ověřit, zda QA v té firmě dělá i automatizaci - protože někde je
+to jen manuální testování a to vás neposune.
+ _l_i_b_i_k [Muž]34 [Kategorie]
+29.01.2023 18:55:57
+Za dva měsíce? Těžko...
+ _M_i_c_h_a_l_-_2_2_2 [Muž]44 [Kategorie]
+29.01.2023 18:44:33
+Panove, vy se tomu asi venujete... Da se naucit neco treba za dva mesice, aby
+clovek chytnul nastupni pozici, ktera se da delat prevazne z domova?
+ chaputo
+29.01.2023 18:43:54
+Vždycky říkám lidem: je rozdíl umět programovací jazyk a umět programovat. To
+první zvládneš v řádů týdnů, můžeš umět programovacích jazyků kolik chceš. A
+víš, jak se říká, že kolik jazyků umíš, tolikrát jsi člověkem. No, tak
+NEPLATÍ, že kolik programovacích jazyků umíš, tolikrát jsi programátorem.
+Protože, vraťme se k první větě, umět programovat, to je úplně jiná věc.
+Obrovská věc. Vlastně se jí můžeš učit celý život. V půlce života zjistíš, žes
+vlastně vůbec nic nepochopil (přestože vyrábíš programy jak na běžícím pásu).
+
+Ale dobře, z toho praktickýho hlediska - je skoro jedno, v jakým jazyce se
+budeš učit programovat. Může to být třeba pseudojazyk. Já osobně vyznávám
+spartánskou cestu "nechte neplavce, ať se buď naučí plavat nebo se utopí" a
+učit se programovat v C, kde musíš opravdu myslet, kde za tebe prostředí
+neudělá nic, kde musíš přemýšlet o správě paměti, kde tě to samo od sebe nutí
+přemýšlet o tom, jak napsat algoritmus co nejvýhodněji. Je to prostě dobře,
+učit se takhle programovat. Dnešní frikulíni lepí prasokód, myslí si, že když
+máme ty výkonný počítače, tak si můžou dovolit kašlat na prostředky a
+nedochází jim, že by ten počítač zvládnul stonásobně víc, kdyby psali úsporný
+kód. Všechny ty dneší krásný, ale příšerně náročný hry trpí tím, že je tvoří
+lidi, kteří doopravdy neumí programovat, tak místo vlastního engine na míru
+využívají obecné enginy, které rozchodí až pořádné železo. Přitom by většina
+her klidně mohla běžet na obyčejném kancelářském počítači, stačilo by to umění
+programovat úsporně. Ale teď jsem trochu odbočil.
+
+Chtěl jsem jen říct, že je vcelku jedno, jaký programovací jazyk zvolíš (i
+když doporučuju něco spartánskýho), protože programovacích jazyků můžeš umět
+bambiliardu a pořád nemusíš být dobrý programátor.
+
+A ještě jedna věc. Je velká škoda, že chceš praštit s prací konstruktéra, ať
+jsi z jakéhokoliv oboru. Jestli bereš plat 50k, tak asi ne pro nic za nic, asi
+dost umíš a jsi firmě užitečný. Co se spíš zeptat, jaké jsou tvé šance na
+zvýšení platu dle tvých představ nebo se poohlédnout v jiném kraji? Tahle země
+strašně moc potřebuje odborníky jinde, než v programování. Dobrých
+programátorů i "programátorů", co to nějak zflikují a ono to funguje, byť za
+cenu vysokých výpočetních nároků, máme dost a bude jich ještě víc.
+[Smajlík]
+ popřemejšlej
+29.01.2023 18:20:31
+Je to celkem jedno, c# má uplatnění a budoucnost a to ti zatím stačí.
+
+U nás se počítá s tím, že seniornejsimu programátorovi potrvá max 6 týdnů, aby
+zacal fungovat efektivně a profesionálně v jiném jazyce.
+
+Ty jazyky jsou +- všechny stejný, není to jak když se učíš novej "lidskej"
+jazyk.
+ _l_i_b_i_k [Muž]34 [Kategorie]
+29.01.2023 17:41:56
+C# je dobrý jazyk, ale pokud jsi nikdy nic neprogramoval, tak ... možná by
+bylo lepší se naučit aspoň základy v něčem jiném. Dnes je takový standard se
+učit programovat na Pythonu...
+
+Ale v C# by to šlo určitě taky, akorát že C# neumožňuje psát jinak než
+objektově. A to je podle mě ze začátku dost velká starost navíc.
+ _M_i_c_h_a_l_-_2_2_2 [Muž]44 [Kategorie]
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ] _II_nn_tt_ee_rr_nn_ee_tt_oo_vv_?é_ _RR_?á_dd_ii_oo_ _SS_ee_zz_nn_aa_mm_kk_aa_ _vv_yy_ss_?í_ll_?á_ _ii_nn_zz_ee_rr_?á_tt_yy_ _ss_ _nn_?á_mm_ii_ _ss_ee
+ OPIŠ BEZPEČNOSTNÍ KOD: _ss_ee_zz_nn_?á_mm_?í_tt_ee_..
+ [Captcha]              _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+

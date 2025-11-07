@@ -1,0 +1,247 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+ Diskuze č.1220183, vloženo 03.08.2023 _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+ 23:19:23                              _s_t_r_á_n_k_a_]
+ Lze vyrobit IPhone doma?
+ Právě mi došlo v jak moderní době žijeme... Ještě tak před 200 lety nás
+ neobklopovalo nic, co nezvládla vyrobit parta šikovných řemeslníků. Ale jak
+ by šel vyrobit například takový mobil jen v dílně za pomoci šikovných rukou?
+
+ Já třeba chápu, jak se vyrábí nábytek, i když jsem to nikdy nedělal. Šel
+ bych ven, pokácel strom, neřezal ho na prkna a ty ztloukl do tvaru nábytku.
+ Sice by mi trvalo, než bych se to naučil, ale nakonec by se to povedlo.
+ Stejně tak vím, jak se pálí cihly ze kterých se staví domy. Ale kdyby po mně
+ někdo chtěl vyrobit třeba vysavač nebo televizi, tak jsem naprosto v
+ koncích. Kde bych vůbec měl začít??
+ To je důkaz v jak vyspělé době žijeme. Obklopují nás věci, které vlastně
+ "nejde vyrobit".
+  _T_V_T [Muž]24 [Kategorie]  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+04.08.2023 16:12:41
+Psoug:
+"Doma mam nakej cyclone IV, na kterym by snad melo bejt mozny rozchodit treba
+slavnou z-80"
+...
+Tak to určitě, ale co z toho...
+Třeba Xilinx má udělaný nějak procesor microBlaze, a to je normální
+plnohodnotný (na dnešní poměry) 32 bitový procesor, něco jako ARM, a dokáže
+běžet na nějakých stovkách MHz. Dokonce je na to udělaný překladač GNU céčka a
+nejspíš i nějaký port Linuxu, takže se to dá i normálně používat. Ale není z
+toho žádný zvláštní užitek, pokud k tomu nepotřebuješ přidávat něco dalšího v
+tom fpga, je lepší si koupit procesor hotový.
+...
+Ale procesory co jsou v PC-čkách jsou přeci jen úplně jiná liga. Myslím, že
+skoro nikdo neví, co všechno vlastně obsahují... velká část toho procesoru je
+ten pipe-line, systém postupného zpracování instrukcí a predikce kolem toho.
+Také mám pocit, že procesor obsahuje nějaké mikro-instrukce, a že instrukce co
+čte z paměti se ještě rozkládají právě na ty mikro-instrukce (narozdíl od
+ARMu, který má RISC instrukce, které se vykonávají přímo). Pak celý ten systém
+ochrany paměti a virtuálních adres...mnoho úrovní "kešování" všeho
+možného...vlastní procesor tam je, bych tak řekl, jen tak na okraj.
+ _M_i_c_h_a_l_-_2_2_2 [Muž]44 [Kategorie]
+04.08.2023 15:55:57
+Psoug: díky za tip, ty knihy mám a často se k nim vracím. Jsou ultimátní a
+mrzí mě, že nevyšly před deseti nebo patnácti lety :D
+
+Každopádně i když by ta implementace byla prostě obtížná, neexistuje nic, o
+čem bys mohl říct, že definitivně vylučuje sestavení core iNĚCO doma stejně,
+jako člověk nemůže běžet dvojnásobkem rychlosti světla. A to je jediný, co
+tvrdím, že bez ohledu na obtíže to za jistých extrémních podmínek
+uskutečnitelné je (zdroje, dokumentace, čas, prostor, prachy, IQ autora
+projektu) a že nic tomu nebrání teoreticky.
+
+A tedy že svět IT jsme vymysleli na kolenou, že to není nic, co bylo nemožné a
+dnes to možné je, a vždycky to bylo možné, jen bylo třeba to objevit a a
+objevit i jiné věci, aby bylo ono umění zvládnuto.
+A že bys vyrobil takový čip i před stem tisíc let, kdyby lidi byli věděli, jak
+na to, a jak na to vyrobit i věci, co k tomu potřebuješ. Vše tu bylo a nic
+tomu nebránilo.
+
+To je ale jen příspěvek k diskuzi, co jde vyrobit na kolenou. Všechno. :)
+ _H_r_n_e_k_ _č_a_j_e [Muž]27 [Kategorie]
+04.08.2023 15:48:11
+Michal-222: Slovo "teoreticky" je tam proto ze ja s tim velkou zkusenost
+nemam, takze nemuzu dat so placu nejake detaily kolik by to stalo casu, usili
+nebo penez. Nicmene kdyz uz se o tom bavime detailnejc - co si matne pamatuju
+tak soucasti Quarku (nastroje pro fpga od Altery/Intelu) byl i chip planer,
+ktery umoznoval i navrzeni fyzicke podoby chipu, ktere pak sly exportovat pro
+potreby litografie (ne ze bych to zkousel). Na fpga se dneska prototypuje kde
+co a slozitost obvodu je casto "jen" o velikosti (mnozstvi logiky) na danem
+fpgacku. Doma mam nakej cyclone IV, na kterym by snad melo bejt mozny
+rozchodit treba slavnou z-80 (ale opet nezkousel sem). Dal
+je nutny si uvedomit ze pocitac neni jen cpu (ktery taky uz neni jen cisty
+cpu) ale i spousta periferii kolem coz znamena mrte dalsi netrivialni logiky.
+Ona i blba sitova karta dnes resi mnoh vic veci nez jen publikovanani ramcu ze
+sote na sbernici.
+
+hrnek caje: zrovna i7 by se imho navrhovala dost
+blbe. Ani ne tak pro to ze byla nejak extra slozita, ale
+pro to ze obsahuje spoustu "compatibility" ficur staraich cpu. Proto taky imho
+spousta firem sahne dneska po nejakym arm coru, kde se "pouze" koupi ip vcetne
+periferii, nastroje a pak si danej SoC (system on chip - cpu plus periferie)
+posklada jako lego.
+
+Jinak pokud by se nekdo z pritomnych chtel ponorit so taju fpga navrhu chipu,
+programovani ve vhdl apod tak urcite muzu doporucit knizky Martina Maleho.
+[Smajlík]
+ Psoug
+04.08.2023 15:35:25
+Michal-222:
+někde byl nějakej citát, něco jako if you wanna make apple pie from scratch,
+start with making a universe.
+
+Budu ale hádat a myslet si, že autor myslí "from scratch" jako z
+nezpracovaných surovin, zcela bez pomoci jiného člověka. Tedy žádný polotovar.
+Což ale znamená, že si musí taky najít, vytěžit kov a tak podobně.
+
+Kdyby ale myslel, že chce vlastní návrh, a zda je potřeba zaplatit firmě, aby
+ho realizovala, pak je odpověď dobrá, s pomocí fpga a nějakýho hdl jazyka a
+menší objednávky na dratek.cz dokáže realizovat téměř cokoliv, limitují ho
+pouze peníze, škála a jeho vlastní nadání. :)
+ _H_r_n_e_k_ _č_a_j_e [Muž]27 [Kategorie]
+04.08.2023 15:21:03
+Hrnek čaje:
+Tak dá se říct, že procesory a podobné polovodiče jsou vrcholem toho, co kdy
+lidstvo dokázalo. Nicméně takové ty běžné polovodiče ... ta technologie výroby
+je známá, v principu si to člověk může i koupit. Akorát to něco stojí. A taky
+to chce nějaké znalosti. Ale není to tak dávno, co se polovodiče v ČR ještě i
+vyráběly (i navrhovaly), ale byly to spíš nějaké jednodušší věci.
+
+Jinak je to taková hezká demonstrace toho, co všechno lidé dokáží, když dokáží
+vzájemně spolupracovat. Protože na vyrobení procesoru se musí v důsledku
+podílet obrovské množství lidí...možná statisíce, nevím. Ale určitě hodně.
+Každá dílčí blbost má za sebou dost velkou skupinu lidí.
+
+Mě by to docela zajímalo, když by se mělo začít "from scratch", tj v jeskyni s
+kamenou palicí, jak dlouho by to trvalo, než bychom se dohrabali třeba k
+dnešním procesorům - za předpokladu, že všechny znalosti by byly k dispozici,
+jen by se musely všechny potřebné věci vyrobit znovu.
+ _M_i_c_h_a_l_-_2_2_2 [Muž]44 [Kategorie]
+04.08.2023 14:35:27
+Michal-222: on tím "teoreticky" nejspíš myslel to, že pokud nejsi Hawking,
+neuděláš na kolenou návrh dost efektivní, aby konkuroval současným modelům.
+Ale ono to platí tak nějak o všem, že jestli to jednou někdo vyrobil, jde to
+udělat na koleni.
+A problémem je cena a dostupnost zdrojů spíš než proveditelnost.
+
+Dovedu si představit, že by někdo moderní procesor, nějakej core i7 udělal
+doma na koleni z ručně vyrobených tranzistorů. Je fakt, že by byl velkej jako
+sídliště, pokud by fakt každej tranzistor vyrobil ručně, a vzhledem ke
+vzdálenostem vedení signálu by byl asi dost nepraktický, ale nejspíš by
+fungoval.
+
+A představuju si, že takhle na kolenou jde udělat doslova cokoliv, a že klíč v
+současnosti je v miniaturizaci, ne v inovaci principů obecně. Nakonec procesor
+jde udělat i s proudem vody a klapkama, s ozubenýma kolečkama, dokonce
+existují hradla postavená z domina.
+
+Až člověku přijde, že možné je fakt cokoliv. :)
+
+A kdyby někdo chtěl extrém, je možné postavit procesor z red stonu v
+Minecraftu, dokonce i celé periferie.
+ _H_r_n_e_k_ _č_a_j_e [Muž]27 [Kategorie]
+04.08.2023 12:30:13
+Třeba rádio se dá i "naprogramovat", říká se tomu SDR (software defined
+radio). Sám jsem to zkoušel, nic na tom není. Televize by šla taky, akorát je
+s tím trochu víc práce. Digitální televize už je docela složitá, ale jen kvůli
+vší té matematice co se tam používá. Jinak na tom taky nic není.
+...
+Vše to ale předpokládá, že má člověk procesor a AD převodník. Né, že by to
+nešlo vyrobit, ale je to trochu pracné...a tudíž i drahé. Ono je to drahé i
+pro firmy co to vyrábí v reálu - akorát že toho dělají velká kvanta, takže se
+ty jednorázové náklady trochu rozpustí.
+ _M_i_c_h_a_l_-_2_2_2 [Muž]44 [Kategorie]
+04.08.2023 12:27:22
+"Teoreticky dneska uz neni problem si navrhnout vlastni procesor".
+...
+On to není problém ani prakticky. Jen je třeba si uvědomit, že ten "návrh" je
+funkční návrh, pomocí vhodného HDL jazyka (Hardware Description Language) se
+popíše, jak se má procesor chovat - a pak se do toho pustí počítač a na
+základě té specifikace navrhne fyzickou implementaci. Bez toho by procesor
+dnes nevyrobil nikdo.
+...
+Takže pokud bys chtěl začít od píky, musel by sis vyvinout i ten překladač HDL
+jazyka.
+...
+PS: jednoduchý procesor, nepříliš výkonný, lze naimplementovat i v
+programovatelném hradlovém poli, dokonce takové implementace i existují a
+mohou se rovnou použít.
+
+...
+Další věc je, čemu se dnes říká "mobil". Vyrobit mobil jaký se používal před
+20 lety (nebo kdy) - tj 15 tlačítek a dva řádky displeje by nemusel být až
+takový problém.
+ _M_i_c_h_a_l_-_2_2_2 [Muž]44 [Kategorie]
+04.08.2023 11:46:00
+Zalezi do jak velkyho detailu chces jit. Teoreticky dneska uz neni problem si
+navrhnout vlastni procesor a jsou i firmy ktery Tvuj navrh vezmou a vytvorej z
+nej fyzickej chip. Neni ani problem udelat prototyp cely desky a opet najit
+firmu ktera Ti ji osadi - coz vetsina firem takhle dela.
+[Smajlík]
+ Psoug
+04.08.2023 00:39:48
+Vyrob si krystalku a poslechni si zahranicni radio.
+ lol
+03.08.2023 23:49:17
+Počítač jde vyrobit úplně v pohodě doma. Jen abys dosáhl dnešního výkonu, měl
+by velikost sídliště.
+Klíč je miniaturizace, kdy se tranzistory a věci dělaj v nano-velikostech.
+
+Mobil jde naprosto v pohodě vyrobit doma. Potřebuješ k tomu jen plošnej spoj,
+ten si s trochou chemie (a tu si v domácí laborce taky vyrobíš) vyleptáš,
+osadíš součástkami ručně vyrobenými z drátů, ale protože je nevyrábí stroj,
+budou těžké, velké, nemotorné a nespolehlivé.
+
+Ze součástek si vyrobíš procesor velikosti domu, vyvineš nebo okopíruješ
+platformu, spojíš drátky, ručně vytvoříš zdroj...
+
+Hezká fantazie. Ono by to fakt šlo na kolenou, ale vynálezal bys kolo a
+nedosáhl preciznosti stroje. Proto v jeskyni nevytvořili Pentium a první
+telefon zpracovával signál pomocí elektronek a jinejch srandiček.
+ _Z_l_o_t_ř_i_l_ý_ _O_r_k_u_s [Muž]26 [Kategorie]
+03.08.2023 23:21:22
+Jo jo, a počítač vlastně nelze vyrobit bez použití jiného počítače. Za pár let
+někdo přijde z myšlenkou, že počítače nemohly vzniknout jen tak "náhodou" a
+musel nám je tady stvořit nějaký pánbůh...
+ _M_i_c_h_a_l_-_2_2_2 [Muž]44 [Kategorie]
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ] _II_nn_tt_ee_rr_nn_ee_tt_oo_vv_?é_ _RR_?á_dd_ii_oo_ _SS_ee_zz_nn_aa_mm_kk_aa_ _vv_yy_ss_?í_ll_?á_ _ii_nn_zz_ee_rr_?á_tt_yy_ _ss_ _nn_?á_mm_ii_ _ss_ee
+ OPIŠ BEZPEČNOSTNÍ KOD: _ss_ee_zz_nn_?á_mm_?í_tt_ee_..
+ [Captcha]              _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+
