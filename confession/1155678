@@ -1,0 +1,297 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+Zpověď č.1155678, vloženo 06.01.2021 22: _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+36:40                                    _s_t_r_á_n_k_a_]
+pomoc s matikou
+Ahoj. Teď jak máme školu jen online absolutně nezvládám matiku, potřebuju to
+pořádně vysvětlit, ale to v této situaci moc nejde a doma se to asi těžko sama
+naučím. Je tu někdo kdo by mi mohl pomoct s funkcema sinus cosinus atd. Na
+základce jsem z tohohle měla dobré známky, ale zapomněla jsem to a taky teď je
+to matematika pro gympl, takže je to těžší.
+ marxka [Žena]17  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+08.01.2021 00:03:16
+Na gymplu jsem určitě komplexní čísla viděl, ale byly zařazeny v jiném ročníku
+než goniometrické funkce a logaritmy, naprosto odtrženě. Když chce člověk
+chápat a umět a nejen se tupě drtit spoustu vzorců, není od věci si udělat
+exkurz. Sám si pak rozhodne, co je nad míru jeho chápání a pokusí se to
+překonat odříkáváním, co si dá vždy logicky dohromady a co se naučí kvůli
+rychlosti, protože si to dává dohromady ztěžka a pomalu.
+
+Internet dnes přináší tolik možností, co dříve nebyly... Určitě se dají najít
+na YT i výklady a přednášky patřičných kapitol z matematiky třeba i s obrázky
+a příklady. I ten zlomyslný hajzl ve svých 19 letech ví, že se to sbíhá u
+komplexní exponenciály.
+ tangeniální
+07.01.2021 22:12:24
+tangentální: spousta škol v osnovách matematiky komplexní čísla ani nemá - u
+maturity na gymplu jsme je taky neměli :D
+ fergfgrefb
+07.01.2021 16:06:12
+2/2
+Pro zkoušení a písemky budeš potřebovat spousty vzorců a trochu zručnosti s
+jejich nakládáním v příkladech typu zjednoduště výraz nebo vyjádřete proměnnou
+xy.
+
+Podle Pythagora:
+x^2 + y^2 = r^2
+cos(fi)^2 + sin(fi)^2 = 1
+
+Pro dvojici souřadnic (x,y), které určují bod v rovině, lze použít i jiný
+zápis ve formě x+i*y, čemuž se říká komplexní číslo. x se nazývá reálná část,
+iy imaginární část, písmenu i se říká imaginární jednotka a platí i^2=-1. Dva
+body v rovině jsou totožné právě, když se jejich souřadnice rovnají, stejně
+dvě komplexní čísla jsou si rovna, právě když jsou si rovny jejich reálné a
+imaginární části. Díky zápisu s i se s tím dá nakládat, jako s běžným
+matematickým výrazem.
+Bod na jednotkové kružnici určený úhlem:
+cos(fi)+i*sin(fi)
+Jakýkoliv bod:
+r*(cos(fi)+i*sin(fi))
+r = (x^2 + y^2)^(1/2) vzdálenost od počátku
+sin(fi) = y/r
+cos(fi) = x/r
+
+Ještě existuje ekvivalentní zápis
+cos(fi)+i*sin(fi) = e^(i*fi)
+
+Tušíš-li, jak se násobí nebo mocní mocniny snadno nahlédneš, jak je to se
+součinem nebo umocněním dvou komplexních čísel.
+(cos(fi1)+i*sin(fi1)) * (cos(fi2)+i*sin(fi2)) = e^(i*fi1) * e^(i*fi2) = e^(i*
+(fi1+fi2)) = cos(fi1+fi2)+i*sin(fi1+fi2)
+Podobně to vypadá s umocněním, jak kdysi odhalil i pan Moivre
+(cos(fi)+i*sin(fi))^2 = (e^(i*fi))^2 = e^(i*2*fi) = cos(2*fi)+i*sin(2*fi)
+
+Pokud si přední části uvedených výrazů otrocky roznásobíš a pak porovnáš
+reálné a imaginární části s koncem, vypadane na tebe sada vzorců, které můžeš
+dále kombinovat s Pythagorem, definičními poměry v trojúhelníku nebo
+vlastnostmi, které zjistíš při zkoumání grafu funkcí sin, cos atp. Jestli se
+poměry nezměnily, v hodině dostaneš sadu 20 vzorcců, které se musíš nahrkat
+jako básničku a nic k tomu, s čím to souvisí a jak si pozapomenutý vzorec nebo
+znaménko v něm odvodit. Za 2 roky na tebe zase bafnou téma komplexní čísla bez
+vysvětlování nějakých souvislostí.
+ tangeniální
+07.01.2021 16:03:45
+1/2
+Asi to máš definované jako poměr protilehlé a přilehlé odvěsny ku přeponě v
+pravoúhlém trojúhelníku.
+
+Když si uděláš souřadný systém - kolmé osy x a y, kružítko píchneš do počátku
+(0), objedeš kružnici, kde protínáš osy, stanovíš hodnoty +/- 1, tak máš
+jednotkovou kružnici. Každý bod v rovině, tedy i na kružnici, můžeš popsat
+pomocí souřadnic x a y. Stejně tak ale můžeš každý bod určit pomocí souřadnice
+x a úhlu, který svírá přímka vedená títo bodem a počátkem s osou x. Podobně
+můžeš nalézt další dvojice údajů jednoznačně určující bod - úhel s osou x nebo
+y a k tomu pravoúhlá souřadnice x nebo y.
+
+Stejně dobře můžeš každý bod určit i jeho přímou vzdáleností od počátku a
+úhlem, který svírá jeho nejkratší spojnice s počátkem. Např. všechny body na
+jednotkové kružnici mají vzdálenost od počátku 1. Když si to namaluješ pro
+jeden bod a vyneseš si i jeho souřadnice na osu x a y, uvidíš tam
+trojúhelníky, spojnice bodu s počátkem bude přeponou, pravoúhlé souřadnice x a
+y odvěsny.
+
+Teď si představ, že se svým bodem bodem obíháš celou kružnici - vzádlenost od
+počátku je konstantní, u jednotkové kružnice 1, úhel s osou x se postutně
+rovnoměrně mění, mění se i pravoúhlé souřadnice x a y. Z definice funkcí jako
+poměru odvěsen k přeponě vyplívá, že hodnoty x a y jsou vlastně hodnotami
+funkcí cos a sin. Pro každý úhel najdeš na jednotkové kružnici bod a hodnoty
+si můžeš odměřit pravítkem - je to to, co se uvádí v tabulkách. Můžeš si
+udělat 2 obrázky vedle s novými prázdnými osami a pro každých např. 10st úhlu
+si do vedlejších obrázků vynést hodnoty x a y vzaté do kružítka z jednotkové
+kružnice. Když budou body dstatečně husté, získáš graf průběhu funckí cos a
+sin.
+
+Pro bod na jednotkové kružnici tedy plati:
+r=1 poloměr kružnice, zároveň vzdálenost od počátku, přepona trojúhelníků
+fi - úhel s kladnou částí osy x
+x=cos(fi)
+y=sin(fi)
+
+Něco se dá najít třeba tady:
+_h_t_t_p_s_:_/_/_c_s_._w_i_k_i_p_e_d_i_a_._o_r_g_/_w_i_k_i_/_G_o_n_i_o_m_e_t_r_i_c_k_%_C_3_%_A_1___f_u_n_k_c_e
+ tangeniální
+07.01.2021 15:57:09
+Co je toto za systém, když to neumí uložit a zobrazit ani řecké písmeno fí a
+cpe to na obrazovku zápis html entity, se kterou to má pracovat uvnitř?
+ tangeniální
+07.01.2021 15:51:41
+Asi to máš definované jako poměr protilehlé a přilehlé odvěsny ku přeponě v
+pravoúhlém trojúhelníku.
+
+Když si uděláš souřadný systém - kolmé osy x a y, kružítko píchneš do počátku
+(0), objedeš kružnici, kde protínáš osy, stanovíš hodnoty +/- 1, tak máš
+jednotkovou kružnici. Každý bod v rovině, tedy i na kružnici, můžeš popsat
+pomocí souřadnic x a y. Stejně tak ale můžeš každý bod určit pomocí souřadnice
+x a úhlu, který svírá přímka vedená títo bodem a počátkem s osou x. Podobně
+můžeš nalézt další dvojice údajů jednoznačně určující bod - úhel s osou x nebo
+y a k tomu pravoúhlá souřadnice x nebo y.
+
+Stejně dobře můžeš každý bod určit i jeho přímou vzdáleností od počátku a
+úhlem, který svírá jeho nejkratší spojnice s počátkem. Např. všechny body na
+jednotkové kružnici mají vzdálenost od počátku 1. Když si to namaluješ pro
+jeden bod a vyneseš si i jeho souřadnice na osu x a y, uvidíš tam
+trojúhelníky, spojnice bodu s počátkem bude přeponou, pravoúhlé souřadnice x a
+y odvěsny.
+
+Teď si představ, že se svým bodem bodem obíháš celou kružnici - vzádlenost od
+počátku je konstantní, u jednotkové kružnice 1, úhel s osou x se postutně
+rovnoměrně mění, mění se i pravoúhlé souřadnice x a y. Z definice funkcí jako
+poměru odvěsen k přeponě vyplívá, že hodnoty x a y jsou vlastně hodnotami
+funkcí cos a sin. Pro každý úhel najdeš na jednotkové kružnici bod a hodnoty
+si můžeš odměřit pravítkem - je to to, co se uvádí v tabulkách. Můžeš si
+udělat 2 obrázky vedle s novými prázdnými osami a pro každých např. 10st úhlu
+si do vedlejších obrázků vynést hodnoty x a y vzaté do kružítka z jednotkové
+kružnice. Když budou body dstatečně husté, získáš graf průběhu funckí cos a
+sin.
+
+Pro bod na jednotkové kružnici tedy plati:
+r=1 poloměr kružnice, zároveň vzdálenost od počátku, přepona trojúhelníků
+&#966; - úhel s kladnou částí osy x
+x=cos(&#966;)
+y=sin(&#966;)
+
+Něco se dá najít třeba tady:
+_h_t_t_p_s_:_/_/_c_s_._w_i_k_i_p_e_d_i_a_._o_r_g_/_w_i_k_i_/_G_o_n_i_o_m_e_t_r_i_c_k_%_C_3_%_A_1___f_u_n_k_c_e_ 
+
+Pro zkoušení a písemky budeš potřebovat spousty vzorců a trochu zručnosti s
+jejich nakládáním v příkladech typu zjednoduště výraz nebo vyjádřete proměnnou
+xy.
+
+Podle Pythagora:
+x^2 + y^2 = r^2
+cos(&#966;)^2 + sin(&#966;)^2 = 1
+
+Pro dvojici souřadnic (x,y), které určují bod v rovině, lze použít i jiný
+zápis ve formě x+i*y, čemuž se říká komplexní číslo. x se nazývá reálná část,
+iy imaginární část, písmenu i se říká imaginární jednotka a platí i^2=-1. Dva
+body v rovině jsou totožné právě, když se jejich souřadnice rovnají, stejně
+dvě komplexní čísla jsou si rovna, právě když jsou si rovny jejich reálné a
+imaginární části. Díky zápisu s i se s tím dá nakládat, jako s běžným
+matematickým výrazem.
+Bod na jednotkové kružnici určený úhlem:
+cos(&#966;)+i*sin(&#966;)
+Jakýkoliv bod:
+r*(cos(&#966;)+i*sin(&#966;))
+r = (x^2 + y^2)^(1/2) vzdálenost od počátku
+sin(&#966;) = y/r
+cos(&#966;) = x/r
+
+Ještě existuje ekvivalentní zápis
+cos(&#966;)+i*sin(&#966;) = e^(i*
+ tangeniánlní
+07.01.2021 10:38:41
+Sin, cos... to je easy. Všechno to totiž plyne z komplexní exponenciály.
+Představ si, že máš funkci f(x)=e^(iz), tj. exponenciální funkci komplexní
+proměnné z. Že tu funkci nelze nakreslit, protože je čtyřrozměrná, neřeš. No a
+reálná část té funkce je cosinus a imaginární sinus.
+Co ti na tom není jasné?
+ _z_l_o_m_y_s_l_n_ý_ _h_a_j_z_l [Muž]19 [Kategorie]
+07.01.2021 09:15:22
+Čemu přesně nerozumíš třeba za sinu? Chce to něco konkrétního. Je to funkce
+jako každá jiná.
+
+f(x) = x ... Pokud x = 2, pak f(x) = 2. Pokud x = 4, pak f(x) = 4.
+f(x) = x^2 ... Pokud x = 2, pak f(x) = 4. Pokud x = 4, pak f(x) = 16.
+f(x) = sin(x) ... Pokud x = 2, pak f(x) = 0,909. Pokud x = 4, pak f(x) = -
+0,756.
+...
+
+Nějaké hodnotě na ose x (x) je přiřazena hodnota na ose y (f(x)). To, jak to
+přiřazení bude vypadat je určeno právě předpisem té funkce.
+ _V_e_s_m_y_9_7 [Muž]26 [Kategorie]
+07.01.2021 07:15:47
+...kdo by mi mohl pomoct s funkcema sinus cosinus atd. ..
+To je dost široký pojem. Začni se svou učebnicí a čemu tam konkrétně
+nerozumíš.
+[Smajlík]
+ yarda1
+07.01.2021 04:30:21
+Co takhle použít internet. Dnes máš takových možností na samostudium, že to
+ani není možný - odborné články, videa, doučování za směšný peníz, učebnice.
+Zajímalo by mě, co bys dělala za první republiky třeba. A jestli se neumíš
+naučit ani sinus a cosinus, nemáš na gymplu co dělat.
+
+Studentka gymnázia jsi pro to, abys studovala. Tak studuj, využij dnešních
+možností. Oproti minulosti máš tyhle informace zadarmo a za pár chvil.
+ Sedlor89
+07.01.2021 01:27:00
+sinus cosinus jsou nějaké prášky na erekci ?
+[Smajlík]
+ idkbro
+06.01.2021 23:42:48
+Já teda samozřejmě nevím, u jaké látky přesně jste, takže prostě tohle:
+
+_h_t_t_p_s_:_/_/_w_w_w_._p_r_i_k_l_a_d_y_._e_u_/_s_k_/_c_v_i_c_e_n_i_a_-_z_-_u_c_i_v_a_-_s_t_r_e_d_n_y_c_h_-_s_k_o_l_-_m_a_t_e_m_a_t_i_k_a_-_f_y_z_i_k_a_-
+_c_h_e_m_i_a_._a_l_e_j_ 
+
+a tohle
+
+_h_t_t_p_s_:_/_/_w_w_w_._y_o_u_t_u_b_e_._c_o_m_/_c_h_a_n_n_e_l_/_U_C_s_X_a_p_Q_C_W_g_u_D_R_-_y_S_t_k_Q_G_D_c_x_A
+ Sprejstrejc
+06.01.2021 23:34:05
+_h_t_t_p_s_:_/_/_w_w_w_._p_r_i_k_l_a_d_y_._e_u_/_s_k_/_r_i_e_s_e_n_e_-_p_r_i_k_l_a_d_y_-_m_a_t_e_m_a_t_i_k_a_/_g_o_n_i_o_m_e_t_r_i_c_k_e_-
+_r_o_v_n_i_c_e_._a_l_e_j
+ Sprejstrejc
+06.01.2021 23:28:32
+_h_t_t_p_s_:_/_/_w_w_w_._y_o_u_t_u_b_e_._c_o_m_/_w_a_t_c_h_?_v_=_a_e_J_2_j_X_k_J_c_S_c
+ Sprejstrejc
+06.01.2021 23:18:52
+Doporučuji definovat trigonometrické funkce (tedy sin, cos apod) pomocí
+Taylorova rozvoje, viz třeba _h_t_t_p_:_/_/_m_a_t_h_2_._o_r_g_/_m_a_t_h_/_a_l_g_e_b_r_a_/_f_u_n_c_t_i_o_n_s_/_s_i_n_c_o_s_/
+_e_x_p_a_n_s_i_o_n_s_._h_t_m_ 
+
+Nejen, že je to matematicky rigoróznější než je definovat jakožto poměr délek
+různých stran v trojúhelníku, ale taky je pak snadné je rozšířit i na obor
+komplexních čísel.
+[Smajlík]
+ adolph
+06.01.2021 23:07:01
+Přesně. Máš k dispozici celý internet. Tak otevři Google (nebo DuckDuckGo) a
+uč se.
+ Ehehe
+06.01.2021 22:54:11
+Zkus pohledat na googlu. Určitě najdeš někde nějaké přehledné vysvětlení, ze
+kterého ti to bude jasné.
+ Alda
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ] _II_nn_tt_ee_rr_nn_ee_tt_oo_vv_?é_ _RR_?á_dd_ii_oo_ _SS_ee_zz_nn_aa_mm_kk_aa_ _vv_yy_ss_?í_ll_?á_ _ii_nn_zz_ee_rr_?á_tt_yy_ _ss_ _nn_?á_mm_ii_ _ss_ee
+ OPIŠ BEZPEČNOSTNÍ KOD: _ss_ee_zz_nn_?á_mm_?í_tt_ee_..
+ [Captcha]              _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+

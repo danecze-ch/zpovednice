@@ -1,0 +1,133 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+Zpověď č.1154577, vloženo 31.12.2020 12: _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+19:58                                    _s_t_r_á_n_k_a_]
+Vybavení domácího nahrávacího studia
+Chtěl bych požádat o radu ohledně vybavení domácího nahrávacího studia. Pokud
+nahrávám přímo do počítače přes DAW Cubase a pro "odposlech" používám
+sluchátka, tak není problém, ale pokud chci, aby mi šel zvuk (pro odposlech)
+přímo do reproduktorů, tak při zvýšení hlasitosti začnou reproduktory šíleně
+pištět (při "stáhnutí" není skoro nic slyšet). Následně chci, aby z nich
+vycházel zvuk, který projde několika pluginy v DAW. Bez pluginů není problém
+ani při zapojení do reproduktorů, ale použití pluginů v odposlechu je pro mě
+velice důležité. Nahrávám i kytaru, ale s ní žádný problém není, ani s pluginy
+do reproduktorů. Používám zvukovou kartu M-Track 2x2 od M-Audio, kondenzátorový
+mikrofon M-Audio Air a reproduktory GX Gaming od Genius, do kterých mám
+zapojenou zvukovku pomocí XLR kabelu. Podle mého názoru buďto budu muset
+vyměnit reproduktory za monitory nebo pořídit dynamický mikrofon, ale jelikož
+si nejsem jistý, kde je přímo problém, tak to píšu sem. Dokázal by mi někdo
+poradit? Předem děkuji.
+ luxurczech E-MAIL: _j_a_k_u_b_s_v_a_n_d_r_l_i_k_@_s_e_z_n_a_m_._c_z  [Muž]21  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+31.12.2020 22:01:00
+zlomyslný hajzl: Já myslím, že naopak DFT, potažmo číslicová filtrace,
+konvoluce a obecně číslicové zpracování signálu je čím dál více všude a s
+poměrem výkon/cena procesorů bude stále více nahrazovat analogovou techniku.
+Cena výkonných procesorů s A/D a D/A převodníky je na úrovni low-cost OZ.
+Většina těch lepších má i hw podporu pro výpočet DFT - stačí v řídícím
+registru přepnou do módu bitové reverzace adresového generátoru ( při výpočtu
+tzv. motýlka ) a pak jednoduše sčítáš a násobíš položky v tabulkách sin a cos
+- což provádí několik málo instrukcí v repeat smyčce ( zrychlená-
+automatizovaná DSP smyčka, nepotřebuješ dekrementovat registr a testovat
+příznak zero, DSP repeat ) - prostě učebnicový příklad. Daleko zajímavější a
+náročnější je třeba číslicový PID regulátor s predikcí nebo obecně řízení
+nějakého nelineárního procesu nebo citlivostní analýza výpočtově metodou
+Ljapunova a pod.
+ zhruba asi takhle
+31.12.2020 19:37:44
+Jak rád slyším, že se někdo zabývá diskrétní Fourierovou transformací. Dnes se
+v tom málokdo vyzná, protože matematiky se každý bojí.
+Jinak bych řekl (jako naprostý laik), že řešení tvého problému se jmenuje echo
+canceller.
+ _z_l_o_m_y_s_l_n_ý_ _h_a_j_z_l [Muž]19 [Kategorie]
+31.12.2020 14:36:53
+Jinak soubory je lepší ukládat jako čistý WAV než MP3, i když zaberou více
+místa.
+
+MP3 totiž změní spektrum - je to daný komprimací, kdy se při komplrimaci
+vypočítává spektrum ( DFT ), některé frekvence/složku spektra s malými
+amplitudami poblíž vysokých amplitud vyfiltrují, odstraní, takto se vygenerují
+kořeny pro novou syntézu, kořeny jsou uloženy v tabulce MP3 souboru - ten už
+jenom při reálném přehrávání na základě čísel, kořenů generuje novou syntézu -
+čili při převodu do MP3 vždy změníš spektrum, barvu nástrojů, hlasu ... kdo má
+citlivější uši a kvalitní aparaturu, ten rozdíl pozná.
+ zhruba asi takhle
+31.12.2020 14:31:50
+"začnou reproduktory šíleně pištět"
+
+Nemáš mikrofon příliš blízko u reproduktorů? To pískat/pištět bude vždycky.
+Princip je v tom, že mikrofon zachytí zvuk z reproduktoru, zesilovač zvuk
+zesílí a pošle zpět do reprodutoru - kladná zpětná vazba - výsledkem je
+pískání.
+
+Oddalováním mikrofonu od reproduktorů bude frekvence pískání klesat vlivem
+konečné rychlosti šíření zvukových vln ve vzduchu a amplituda/intenzita
+pískání bude rovněž klesat.
+
+U telefonů je vazba vyřešena zpožďovací linkou, např. 200 - 300ms a více - pro
+zpěv nepoužitelné. Potřebuješ okamžitou odezvu, nedá se zpívat, když se slyšíš
+zpožděně, tj., když tvůj hlas k tobě "doletí" za 300ms ...
+
+Domácí nahrávací studio lze pořídit levně - třeba si kup Tyros 2 z bazaru do
+20tisíc, k nim připojíš mikrofon - mají integrovaný vocoder, DSP jednotku,
+sereo výstup zapojíš do IN zvukové karty a nahráváš WAV, ten si pak
+vyfiltruješ a převedeš do MP3 a pod.
+ zhruba asi takhle
+31.12.2020 13:32:20
+Pokud nejde o zpětnou vazbu, tak i s tím dalším míříš na google nebo podporu/
+komunitu kolem Cubase, tady řešíme panice a roušky tvl.
+ _O_d_p_o_č_i_n_e_k [Muž]52 [Kategorie]
+31.12.2020 13:05:20
+nevim, takový věci moc neřešim, ale:
+1)zkus osekat ty vazbící frekvence pomocí EQ s úzkym Q, nejspíš na vstupu tzn.
+jen na tom mikrofonu
+2)existujou krabičky s názvem feedback destroyer, co to 1) hledají a dělají
+automaticky
+3)obě věci cos napsal můžou pomoct, když bedny mají rovnější kmitočtovej
+průběh, což monitory mají (ale opravdu rovnej asi až nějaký dost drahý), tak
+míň zlobí; dynamický mikrofon zas tolik nebere ty věci dál od něj (tzn. ty
+bedny co způsobujou tu zpětnou vazbu)
+
+ono přesnej problém asi nejde zjistit na dálku, si pohraj...
+ _N_e_v_n_í_m_á_m_ _r_e_a_l_i_t_u [Muž]88 [Kategorie]
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ] _II_nn_tt_ee_rr_nn_ee_tt_oo_vv_?é_ _RR_?á_dd_ii_oo_ _SS_ee_zz_nn_aa_mm_kk_aa_ _vv_yy_ss_?í_ll_?á_ _ii_nn_zz_ee_rr_?á_tt_yy_ _ss_ _nn_?á_mm_ii_ _ss_ee
+ OPIŠ BEZPEČNOSTNÍ KOD: _ss_ee_zz_nn_?á_mm_?í_tt_ee_..
+ [Captcha]              _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+

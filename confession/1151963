@@ -1,0 +1,219 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+   Otázky - Vzkazy č.1151963, vloženo _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+   06.12.2020 16:46:31                _s_t_r_á_n_k_a_]
+   Sběr dat pro monitoring
+   Pořád tu čtu, jak se členové chlubí, že pracují v IT sektoru a vydělávají
+   desítky tisíc. Aktuálně se můžou předvést. Dočetla jsem se z bakalářských
+   prací, že sběr dat lze rozdělit na centralizovaný a decentralizovaný. A
+   také i na sběr dat s agentem a bez agenta. Chtěla bych se zeptat, jestli
+   je to stejné a nebo ne? (centralizovaný = jinými slovy bez agenta,
+   decentralizovaný = jinými slovy s agentem) A nebo je to jiné rozdělení a
+   spolu to nesouvisí? Je to celkem trapné, ale na toto téma také píšu
+   práci.
+    Budoucí bakalář neví [Žena]23  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+06.12.2020 21:50:39
+---
+Zmátla mě ta skutečnost, že je vlastně například sběr dat bez agentů založen
+na centrálním řešením a využívá pull
+---
+
+Mno pak by otazka mohla treba znit co snmp trapy ktere jedou vyhradne ze
+zarizeni na centralni monitorovaci server ? Tam je to jak ? :) Nebo posilani
+do nagiosu pres nsca agenta pripadne pres nejakeho message brokera ? :)
+[Smajlík]
+ Psoug
+06.12.2020 21:38:27
+Jinak pro pána, co poslal odkaz na Wikipedii. Já jsem čerpala z bakalářské
+práce z ČVUT, takže informace hledat umím. Ale je potom blbé, že všude najdu
+rozdílné informace a nebo nesrovnalosti. Protože na tohle téma, kde se
+porovnávají dva druhy rozdělení, se nikdo nikdy moc nezaměřoval
+ Neznalá
+06.12.2020 21:30:53
+Díky! Už jsem na to v průběhu času nějak přišla. Zmátla mě ta skutečnost, že
+je vlastně například sběr dat bez agentů založen na centrálním řešením a
+využívá pull. (anglické pojmenování pro centralizovaný sběr dat)
+ Neznalá
+06.12.2020 21:09:25
+Mno prometheus v podstate dela scraping (sam pouziva tenhle termin) statistik
+a sype je bud do vlastni nebo externi db. Oak nad nema bud delas alerting a
+nebo muzes pouzit treba grafanu ktera Ti je zobrazi v podobne ruznejch grafu
+dashboardu apod. Je to docela sikovna vec.
+
+viz: _h_t_t_p_s_:_/_/_p_r_o_m_e_t_h_e_u_s_._i_o_/_d_o_c_s_/_p_r_o_m_e_t_h_e_u_s_/_l_a_t_e_s_t_/_g_e_t_t_i_n_g___s_t_a_r_t_e_d_/
+ Psoug
+06.12.2020 21:04:41
+Psoug: No jak rikam, kazdy mluvime o necem jinem asi protoze kazdy delame neco
+jineho. Prometheus neznam. Moje datove sberace jsem temer vzdy psal ja sam na
+miru nejakemu ucelu ktere mely plnit, data se sypaly do databaze a odsud jsem
+je dale nejak zpracovaval, treba do podoby webu nebo nejake statistiky. Moc
+jsem si nelamal hlavu nad tim jak to delat spravne nebo jak se to jmenuje,
+dulezity pro me byl vysledek.
+ newbie7890d
+06.12.2020 20:58:01
+Newbie7890d: pokud se konkretne budeme bavit o Prometheu (neznam jinej soft
+kterej pouziva slovo "scraping") tak tam je agent v podstate exporter, ale
+znam i aplikace, ktere pro publikovani metrik zadny exporter nepotrebuji.
+ Psoug
+06.12.2020 20:54:15
+Psoug: Tady hlavne kazdy mluvime o trochu jinem sberu dat. Ty mas na mysli
+monitoring neceho, ja si pod sberem dat predstavim spise cinnost pod nazvem
+scraping. Proto moje zmatenost ohledne agenta bez ktereho ja neudelam nic, ve
+tvoji variante to nejakou logiku ma.
+ newbie7890d
+06.12.2020 20:46:42
+Newbie7890d: agent je proste kus softwaruckterej na jedny strane komunikuje s
+monitorovanou komponentou a na druhy strane s monitoring serverem. Vem si
+treba monitoring oracle db. Bud muzes udelat z monitoring serveru connection
+primo do db stejne jako jakakoliv aplikace a pres dictionary se ptat na stav
+jednotlivych komponent. Tohle reseni je agent-less.
+
+Nebo na tom serveru ci nekde i mimo nej instalujes tzv agenta coz je kus se
+dodavanejcs monitoring toolem. Ten nejakym zpusobem monitoruje oracle a
+zaroven stavy jednotlivych komponent poskytuje pres nejaky kanal
+monitorovanemu serveru. Tohle se vyuziva hlavne i komponent ktery treba nemaj
+zadnou konekticitu ven ale
+potrebujes na ne nejak dostat, pripadne maji konektivitu ven ale objem dat pro
+vyhodnoceni proby muze bejt velkej a takcse vyplati nechat to prave na tom
+agentovi kterej pak je publikuje monitorng serveru stav komponenty.
+ Psoug
+06.12.2020 20:20:11
+jinak omlouvam se za stozimitelnostvale datlim to z mobilu
+ Psoug
+06.12.2020 20:18:18
+A uplne jednoducha odpoved na Tvoj otazku: Ne nesouvisi to spolu :)
+
+Je to jen o tom jakym zpusobem chces dostat tu informaci o tom, zda je
+aplikace, server, fibre svist dole nebo ne.
+ Psoug
+06.12.2020 20:13:00
+Jinak decentralizovany = z vice mist.
+centralizivany = z jednoho mista
+S agentem = na serveru, db, aplikaci, midlewaru apod bezi tzv agent, ktery
+komunikaje s prislusnou komponentou a zaroven s monitorovacim serverem.
+Bez agenta = monitorovaci server nebo proxy ci jakakoliv monitorovaci
+komponenta se loguje primo do monitorovane komponenty a zjistuje stag pomoci
+api, sql dotazu nebo jen klasickeho.
+[Smajlík]
+ Psoug
+06.12.2020 20:08:50
+Priznam se ze uplne nevim co tim chtel basnik rict ale v podstate se dneska
+monitoring da rozdelit na dve vetvd:
+
+1) Proaktivni, kdy z nakeho mista delas peridicky checky aplikace a sledujes
+zda a jak ti odpovi. a kdyz ti neodpovi nebo nebo hodi nejakej error tak se
+nekde risne alert. Pripadne ji nechas posilat nejake asymchronni udalosti jako
+jsou treba smmp trapy a na zaklade nich zase bud risnes nebo ne nejakej alert
+nebo vytvoris ticket. V opensource resenich jsou nejznamejsimi predstaviteli
+treba zabbix, nagios, icinga, pripadne dalsich mrte komerecnich nastroju od
+bambilionu vendoru.
+
+2) Druhej zpusob funguje jinak. Nechas sbirat veechny mozny logy do nejaky
+databaze typu treba elasticsearch nebo ruzny metriky do nejake timeseries db.
+Metriky vetsinou nabizi bud sama aplikace a nebo tzv exporter ktery se z
+aplikaci bavi. Napriklad exporter weboveho serveru poskytuje informace o tom
+jake jsou response timy, kolik pozadvku skoncioo s jakou chybou apod. Jak jsem
+jiz lsal tyto metriky se pravidelne ukladaji do nejake timeseries db a pokud
+chces vystrelit alert tak monitorovaci sw ma nejakou formu dotazu zovaciho
+jazyka kterym popises kdy se ten alert ma vystrelit. Dotaz zni neco ve smyslu:
+vygeneruj alert kdyz pocet 5xx na webovem serveru presahne hodnotu 100 za 1
+minutu. Typickym prikladem tohodle reseni je Prometheus, pripadne siem
+nastroje nad elasticsearchem ci splunkem. Prometheus se pouziva hlavne v cloud
+resenich l, protoze implemtace end to end proaktivniho monitoringu skoro neni
+mozna diky dynamickemu prostredi. Endpointy meni svoji ip adresu a neni uplne
+easy zjistit na co se ptat. Treba v openshiftu je uz defaultne nainstalovanej,
+pro cisty kubernetes je to doporucovany reseni.
+[Smajlík]
+ Psoug
+06.12.2020 18:35:01
+Viz newbie7890d, tyto skolni definice si hledej mozna na te Wikipedii nebo
+jinde. Lidi, kteri pracuji v IT sektoru, to proste delaji a uz moc neresi
+takove prkotiny, coz zrovna tento konkretni pripad JE.
+
+A prvni dve vety si priste odpust nebo to napis jinak, je to trapne a
+prizemni. Asi jako bych ti ja psal: Holka v IT? Co tam chces delat? Nosit
+papiry? Haha, haha.
+
+Nehlede na to, ze IT ma milion podoboru, ale to te jiste na skole ucili, takze
+to zobecnovani je trochu mimo. A kdyz teda mas byt budouci vydelavacka desitek
+tisic, tak bys mohla umet zachazet s vyhledavacem a byt schopna hledat, i
+anglicky, at to za tebe nemusi hledat nejaky chlapec, jak asi jsi zvykla.
+
+Tak co, uz to mas nebo to ma za tebe nejaky chlapec najit?
+[Smajlík]
+ centralizovane ego
+06.12.2020 17:32:22
+Tak jsem si dal praci a nasel odpoved, vubec tomu nerozumim protoze jsem asi
+vzdy pouzival nejakeho agenta, hlavne protoze jsem sbiral maximum dat z
+ruznych zdoju, ne data o jednom zdroji.
+Cele me to pripada jako zbytecne a skolni rozdeleni, proc to vubec nekdo resi?
+
+
+_h_t_t_p_s_:_/_/_e_n_._w_i_k_i_p_e_d_i_a_._o_r_g_/_w_i_k_i_/_A_g_e_n_t_l_e_s_s___d_a_t_a___c_o_l_l_e_c_t_i_o_n
+ newbie7890d
+06.12.2020 17:27:42
+Ptám se na to, jestli je centralizovaný sběr dat = sběr bez agentů a
+decentralizovaných sběr dat = sběr s agenty. Ano, jedná se o sít s vícero
+počítači - simulace malé sítě ISP (pár routerů, switchů a počítačů)
+ Ptám se
+06.12.2020 17:18:20
+Nevim na co se ptas a proc. Sber dat jsem provadel tak ze jsem pustil robota
+bud na svem pocitaci nebo nekde na hostingu a sbiral jsem co jsem chtel.
+Jestli se decentralizaci mysli ze to bezi na vice pocitacich je mozne, bude to
+mit vetsi vykon.
+ newbie7890d
+06.12.2020 17:16:57
+Agent se dá nazvat i data collectorem. Je to neustále bežící proces na pozadí,
+který má za úkol data sbírat. Při použití monitorování s agenty jsou
+nainstalované na zařízeních, které chceme monitorovat. Takže je to prakticky
+to stejné jako decentralizovaný sběr. Ale nikde jsem se nesetkal, že by to
+označení spojovali. Je to pouze hloupé slovíčkaření.... Takže jsem dost
+zmaten.
+ Nene
+06.12.2020 17:08:35
+Agent je pasak - externi firma?
+
+Firme se samozrejme plati vic, ale co ma dotycny je ma dohode.
+ asdf9876 off
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ] _II_nn_tt_ee_rr_nn_ee_tt_oo_vv_?é_ _RR_?á_dd_ii_oo_ _SS_ee_zz_nn_aa_mm_kk_aa_ _vv_yy_ss_?í_ll_?á_ _ii_nn_zz_ee_rr_?á_tt_yy_ _ss_ _nn_?á_mm_ii_ _ss_ee
+ OPIŠ BEZPEČNOSTNÍ KOD: _ss_ee_zz_nn_?á_mm_?í_tt_ee_..
+ [Captcha]              _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+
