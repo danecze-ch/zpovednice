@@ -1,0 +1,208 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+   Otázky - Vzkazy č.1226467, vloženo _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+   02.12.2023 13:17:10                _s_t_r_á_n_k_a_]
+   Fyzika součet vnějších sil
+   Poměrně známý příklad - 2 slepice se tahají o žížalu, každá stejnou
+   silou, ale opačným směrem. Roztrhnou žížalu? Ne, protože součet vnějších
+   sil je roven nule, že.
+
+   Ale vysvětlil by mi to prosím někdo logicky, i na příkladech? Moc se mi
+   to logicky nezdá, i když sem s tím byl obeznámen už někdy v sedmé
+   třídě... :)
+
+   Třeba ve středověku se přece lidi vázali končetinami ke koním za trest a
+   ti jim utrhli končetiny, že. Navíc bych nevěřil, že kdyby mě dva borci
+   chytli a tahali každý stejnou silou opačného směru, tak mi neublíží...
+
+   Fyzikálně to snad chápu, ale logicky ne. Děkuji za vysvětlení... :)
+    Fyyyyza [Muž]19  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+03.12.2023 01:49:06
+Já jen udiveně koukám – s pružností a pevností to je jako se šukáním. Něco
+málo jedinců sice přizná, že to neumí a ani nikdy nedělalo, ale většina
+diskutujících se tu chvástá a tváří jako laureáti nobelových cen za mechaniku
+a snaží se přesvědčit ostatní o tom, jak jsou zkušení a znalí, zřejmě aby sami
+sobě ulevili od žalu ze stavu vpravdě opačného.
+
+Ale k věci: roztržení žížaly není otázkou vnějších sil, nýbrž sil vnitřních.
+Záleží na tom, zda napětí v nejvíce ohroženém průřezu žížaly překročí mez její
+pevnosti. Žížala je zatížená pouze na okrajích a normálová síla má tedy
+konstantní průběh, což znamená, že všechny průřezy žížaly jsou ohrožené
+stejně. Drží-li obě slepice žížalu přesně v její ose, jedná se o prostý tah/
+tlak, normálové napětí je po průřezu rozdělené rovnoměrně a tudíž lze napětí
+vyjádřit jako &#963;x = N / A.
+
+Velikost řečené vnitřní síly (tj. normálové síly N) jest obecně nutno hledat v
+diferenciální rovnici pro tah a tlak (viz takzvaný Tontiho diagram třeba na
+_h_t_t_p_s_:_/_/_i_m_a_g_e_s_._s_l_i_d_e_p_l_a_y_e_r_._c_z_/_4_0_/_1_1_1_3_7_4_8_7_/_s_l_i_d_e_s_/_s_l_i_d_e___2_9_._j_p_g_ ), ale znáš-li
+intenzitu síly ve slepičím zobáku, pak se normálová síla musí rovnat této
+hodnotě. Vyděl ji průřezovou plochou žížaly (to jest A = &#8747;&#8747; 1 dA)
+a porovnej s návrhovou hodnotou pevnosti žížaly, která musí být větší, aby
+žížala zůstala celá.
+[Smajlík]
+ Mechanik kontinua
+02.12.2023 22:30:59
+O součtu vnějších sil můžeme uvažovat, když jde o dokonale tuhé těleso, kde
+neřešíme, jestli se může nějak deformovat nebo třeba přetrhnout a zajímá nás
+jen, jaký bude vykonávat pohyb.
+ _M_i_c_h_a_l_-_2_2_2 [Muž]44 [Kategorie]
+02.12.2023 22:21:09
+“ Ne, protože součet vnějších sil je roven nule, že.”
+To je pitomost, přesněji řečeno to nesouvisí s roztržením žížaly.
+ _M_i_c_h_a_l_-_2_2_2 [Muž]44 [Kategorie]
+02.12.2023 18:56:16
+Děkuju všem!
+ Fyyyyza
+02.12.2023 17:46:32
+Vysvětlení jsem ti podal níže.
+Je škoda, že učitelé memorují vzorečky, ale už vůbec nevysvětlují principy,
+podstatu.
+
+Proč je vlastně vzoreček pro sílu F=m*a ?
+kde m=hmotnost v kg
+a=zrychlení v m/s^2
+F=sila v N neboli kg*m/s^2
+
+Představ si, že jsi Isaac Newton a odpočíváš pod jabloní a zrazu tě uhodí
+jablko a za chvíli druhé ty začneš zkoumat, proč ti udeřilo větší ránu,
+přestože bylo menší než to první. Jak je to možné? A začneš zkoumat.
+
+Pro svoje pokusy měření tíhové síly si postavíš i měřící přístroje, třeba
+jednoduchý pružinový siloměr, ocejchuješ si stupnici podle svých pokusů a
+zjistíš, že stupnice je lineární a odpovídá hmotnosti, nějak takto:
+stupnice síly F = konstanta * m
+Zatím nevíš, že konstanta je vlastně gravitační zrychlení, prostě je to
+konstanta.
+Zkoumáš, chodíč po zahradě, kolem domu, do lesa,v batohu několik závaží
+různých hmotností a siloměr a na základě měření zpřesňuješ svoji stupnici...
+
+Zjistíš, že když je m 2x větší, je i síla 2x větší. Zatím nemáš hmotnost jak
+změřit, ale brzy na základě svého výzkumu si postavíš vlastní pružinovou váhu,
+ve své podstatě siloměr. Na váze je sice napsáno "měříme hmotnost", ale ve
+skutečnosti měříš tíhu dle vzorce
+F=k*m
+
+Strčíš si svoji váhu, závaží a siloměry do batohu a jedeš vlakem někam dál
+zkoumat svoje objevy. Je to fascinující. Sedíš v kupé a spolucestující nemají
+ani ánung, že jsi něco převratného objevil a jedeš to zkoumat. Fascinující -
+sedíš prtoti lidem a ti nemají ani tušení a ani by nejspíš nechápali, o čem
+hovoříš.
+
+Pak jsi zklamaný, protože odjedeš do hor a zjistíš, že tam tvoje váha
+nefunguje, poněvadž ukazuje mnohem více. Jedeš tedy zkoumat jinam...
+Později zjistíš, že konstanta se mění s polohou i nadmořskou výškou a později
+přidáš měření akcelerace a zjistíš, že kontanta je úměrná zryhlení.
+
+Čeká tě překvapivý objev, kdy zjistíš, že předměty při pádu zrychlují tím
+více, čím déle padají a najdeš tím odpověď na svoji hádanku, proč tě menší
+jablko udeřilo větší silou než větší jablko. Inu to menší padalo z větší
+výšky...
+
+Tvoje objevy, poznatky a bádání se zapíšou do vědy a stanou se základem
+fyziky, mechaniky už navždy a posuneš lidstvo o notnej kus dopředu. Nemůžeš
+říct, že jsi žil marně.
+ KM94
+02.12.2023 14:50:46
+A za tohle může škola, ve kterých se děti učí pí*oviny jako bezrozměrný body a
+pak jsou z toho zmatení, protože v realitě žádnej bezrozměrnej bod není. Kdyby
+to bylo alespoň pořádně vysvětleno.
+Pěkně mechaniku kontinua a jede se.
+ mando
+02.12.2023 14:47:32
+Hele ta žížala nebo cokoliv je nějaký objekt že jo, reálný, takže má nějaké
+rozměry, plochu, objem.
+Silové působení celkové nule v tomto případě znamená, že když sečteš na žížale
+všechny síly a směry jejich působení, tak ti vyjde nule. Síla je vektor, má
+směr a velikost. Když žížalu rozdělím gemoetricky na dvě části a na jedné budu
+působit nějakou silou a na druhé opačnou silou, tak je součet sil taky nula,
+ale ta žížala se zdeformuje, protože nepůsobiš na stejné místo.
+Takže reálně oni tahají žížalu, každej ji drží za kus jejího těla a tahají
+opačnýma silama, ale každej to drží jinde, takže se žížala roztrhne.
+Ta pointa je prostě o tom, že součet sil je sice nula, ale přes celou plochu
+té žížaly. Lokálně na různých místech to nula není.
+ mando
+02.12.2023 14:32:01
+Na jedné přednášce nám fyzikář řekl:
+NEJVĚTŠÍ UMĚNÍ VE FYZICE JE NĚCO ŠIKOVNĚ ZANEDBAT.
+Když uvažuješ, že slepice žížalu neroztrhnou, zanedbal jsi pevnost žížaly.
+
+Příklad:
+Po rovné podlaze se kutálí kulička. Valivým odporem se brzdí, tak každou další
+sekundu se přemístí o polovinu kratší dráhu než tu předchozí. Za první sekundu
+se přemístí o jeden metr. Kde se zastaví a kdy se zastaví?
+
+Když se jedná o fyziku, je tam spousta vlivů co se někdy mohou zanedbat, ale
+jindy ne.
+[Smajlík]
+ Radič
+02.12.2023 13:36:33
+Pokud tahá každý na jiném konci žížaly silou F opačnými směry, tak nedochází k
+pohybu ani ke zrychlení, tj. nulová změna polohy, protože silový účinek se
+vyruší.
+
+F1 = m*a = F2
+
+Pokud by ale jedna síla převládala, žížala o hmotnosti m by začala zrychlovat
+(zryhlený pohyb, akcelerace) ve směru větší síly.
+
+Výpočet zrychlení a=(F1-F2)/m
+
+Nic to ovšem nevypovídá o destrukci žížaly. Červ je elastický a natahování
+červa se dá cháápat jako natahování pružinky a čím větší silou působíš na
+pružinku, tím více se natáhne o nějaký přírůstek délky (proměnná x)
+
+Obecně prodloužení pružinky/žížaly x=2*F/k
+kde k je konstanta tuhosti žížaly.
+
+Pokud je tuhost žížaly malá, tj. konstanta k je malá, žížala se působením obou
+sil více natáhne až se přetrhne.
+
+V okamžiku přetrhnutí ti dva trhači odletí, každý svým směrem (působení síly)
+se zrychlením a=F/m (za předpokladu F=F1=F2).
+
+Závěr: tento pokus bych na sobě neprováděl, protože tě sice nemusí přetrhnout,
+ale mohou ti při natahování poškodit klouby, šlachy, svaly, přestože tvoje
+konstanta tuhosti bude významně vyšší než tyuhost žížalina...
+ KM94
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ] _II_nn_tt_ee_rr_nn_ee_tt_oo_vv_?é_ _RR_?á_dd_ii_oo_ _SS_ee_zz_nn_aa_mm_kk_aa_ _vv_yy_ss_?í_ll_?á_ _ii_nn_zz_ee_rr_?á_tt_yy_ _ss_ _nn_?á_mm_ii_ _ss_ee
+ OPIŠ BEZPEČNOSTNÍ KOD: _ss_ee_zz_nn_?á_mm_?í_tt_ee_..
+ [Captcha]              _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+

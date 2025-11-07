@@ -1,0 +1,682 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+ Diskuze č.1229501, vloženo 30.01.2024 _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+ 15:12:55                              _s_t_r_á_n_k_a_]
+ To si snad už dělaj prdel?!
+ https://zpravy.aktualne.cz/domaci/na-fak ultu-v-brne-prisel-mladik-s-
+ legalne-drze nou-zbrani-str/r~4817ed0abf6711ee82b7ac1 f6b220ee8/
+
+ Mě už v tuhle chvíli ani nezajímají argumenty zastánců zbraní, ať začnou
+ zákonodárci kua něco dělat!
+  Dáda off [Muž]25  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+31.01.2024 16:12:52
+Sen3ca
+Ten text kopíruji nikoliv jako argument nebo svůj názor, ale pro tebe na
+pochopení toho, proč je pětka ve vyšším poli a proč se zaokrouhluje nahoru.
+Svůj názor a argumenty jsem dávno předložil. Tak ještě jednou. Nezaokrouhluje
+se arbitrárně, ale logicky. Ta logika u desítkové stoustavy se pak použila
+jako důvod pro naoko arbitrární rozhodnutí, které samo o sobě u řad 1 až 10 v
+!podstatě! arbitrární je. Ale že je arbitrární v řadě 1 až 10 není totéž jako
+říkat, že se zaokrouhluje arbitrárně. Vaše arbitrárnost popírá logiku v
+desítkové soustavě, logika v desítkové soustavě nepopírá arbitrárnost jinde.
+Zkopírovaný text je jen příspěvek do diskuze a pro vás na lepší pochopení
+toho, o čem tu celou dobu píšu a co je nezpochybnitelné.
+ SUčka útulková
+31.01.2024 09:22:59
+V x příspěvcích tu plácá o tom, že směr nebyl zvolen arbitrárně a pak sem
+zkopíruje text, kde je explicitně napsáno, že směr byl zvolen arbitrárně :D :
+D
+
+#InkluzivniSkolstvi
+ Sen3ca
+31.01.2024 01:09:38
+Sen3ca
+Není to moje myšlenka a logiku má. Že v tom ty a naivní a lživý svitavák
+logiku nevidíte logiku nevylučuje!
+ SUčka útulková
+31.01.2024 01:08:09
+Tady je to vysvětlené podobně a vyjádřené matematicky:
+
+It's not round up, why? In the usual sense -- when not comparing
+against round-half-even -- the number range we're talking is from x to
+lim((x+1)-y)[y -0 from the positive side], e.g. 1 to nearly 2 (thus
+the integer 2 itself is not included in the number range we're talking
+since it belongs to the next set), then we choose a uniformly
+distributed samples, i.e. 1.0, 1.1, 1.2, 1.3, 1.4, 1.5, 1.6, 1.7, 1.8,
+and 1.9. From these samples, we chose which are rounded down and which
+are rounded up, it happens that 1.0 is rounded down, while 1.5 is
+rounded up.
+IF for the sake of argument, you choose the number range to be lim(x +
+y)[y -0 from the positive side] to x + 1, e.g. barely above 1 to 2,
+then the number sample you use is 1.1, 1.2, 1.3, 1.4, 1.5, 1.6, 1.7,
+1.8, 1.9, and 2.0, in this second number range, there are 5 round
+downs (1.1, 1.2, 1.3, 1.4, 1.5) and 5 round ups (1.6, 1.7, 1.8, 1.9,
+2.0), but how logical is it to choose this number range (barely above
+1 to 2) against choosing the more natural range (1 to nearly 2): in
+the correctly chosen number range (1 to nearly 2) all numbers in the
+form of 1.x (where x is any positive number and 0) is contained within
+it and there is nothing else in it, but in the second number range
+(barely above 1 to 2) the number 1.0 is not included while the number
+2.0 is contained in it, clearly not a clean separation of numbers in
+the form of y.x where y is pre-determined and x is variable from other
+possible values of y.
+
+In short, choosing that x.0 is rounded down and x.5 is rounded up is
+arbitrary but not without a reason.
+
+Na to je argument:
+Don't "arbitrary" and "not without a reason" directly contradict one
+another?
+
+Ale!
+The same as choosing between round-half-odd and round-half-even,
+arbitrary but not without a reason.
+
+Language-wise it is a contradiction. In a loose semantic meaning, it
+means there is no strong reason for choosing one above the other
+(round-up vs round down and round-half-even vs round-half-odd) but
+there are slight advantages on one that would seems silly to be
+mentioned as the main reason, so arbitrary but not without reason.
+
+_h_t_t_p_s_:_/_/_b_y_t_e_s_._c_o_m_/_t_o_p_i_c_/_p_y_t_h_o_n_/_a_n_s_w_e_r_s_/_7_9_3_2_6_0_-_r_o_u_n_d_i_n_g_-_n_u_m_b_e_r_-_n_e_a_r_e_s_t_-_e_v_e_n_ 
+
+Arbitrární je někde a je pro to logický důvod, tudíž to není 100% arbitrární,
+jen se tou arbitrárností někde brání tomu, aby to šlo proti logice tam, kde to
+je logické. OMG, naivkové, přestaňte používat lživé slovo arbitrární tam, kde
+nemá co dělat a nepopírejte jím nelživé slovo logické.
+ SUčka útulková
+31.01.2024 00:50:44
+Protože to co píšeš logiku nemá. Tak jsem si říkal, že třeba jen neumíš
+vysvětlit svou geniální myšlenku a že jí popsal někdo jinej a líp. A on
+nepopsal. Zajímavé, což?
+ Sen3ca
+31.01.2024 00:43:40
+Pochopte, naivkové, že já tu vaši arbitrárnost nerozporuju. To vy rozporujete
+logičnost a důvod té logičnosti. Je to arbitrární rozhodnutí, ale má logické
+základy a důvod. Ty logické základy a důvod vám vysvětluju. A nevylučuje tu
+arbitrárnost tam, kde je 5 uprostřed. Zatímco vy svou arbitrárností popíráte
+možnou logičnost. Protože odmítáte připustit desítkovou soustavu jako logický
+základ pro arbitrární rozhodnutí pro řady jiné než 0 až 9. Když se bavíte o
+zaokrouhlování, tak se bavíte o zaorkouhlování něčeho konkrétního a to něco
+konkrétního nejsou písmena, ale číslice, a to v rámci desítkové soustavy.
+Proto jako základ vezmete ji a tam uděláte první pokus s tím, zda je 5 blíže
+doprava, doleva, nebo ve středu. A od to se pak odvíjí vše ostatní a to už
+bych se opakoval. To vaše vše ostatní já nepopírám a beru v potaz, ale vy to
+odmítáte dělat u desítkové soustavy, což je řada od 0 do 9.
+Proč bych měl zdrojovat, když tu nejde o zdroje, ale o logiku věci, o které je
+řeč? :D
+ SUčka útulková
+31.01.2024 00:19:56
+Prolezl jsem učební podklady, matematická fóra, wikipedii. NIKDE jsem neviděl
+tvou hypotézu 0-9 -> 5 nahoru. ChatGPT na naší straně. Jen na Quora to jeden
+šudla napsal jako ty.
+
+Zkus svoje tvrzení ozdrojovat, protože logicky smysl nedává.
+ Sen3ca
+31.01.2024 00:14:06
+Když pominete ty řady, tak zaokrouhlování nahoru je samozřejmě logické, ne
+arbitrární, a to proto, že zaokrouhlením při prostřední hodnotě dolů přijdete
+o polovinu nad celou jednotku, a to nelze. Nelze ubírat, protože byste museli
+zaokrouhlit na nulu, tedy nic. Zaokrouhlit na nulu, nic, lze jen tam, kde je
+méně než polovina. Pokud stojíte přesně uprostřed a musíte určit, jeslti
+nahoru, nebo dolů, tak logicky určíte nahoru, abyste z toho něčeho neudělali
+nulu. Točí se to stále kolem nuly, vy nuly, a je to logické, ne arbitrární. Už
+to pochopte, naivkové, a nešiřte lživé informace.
+ SUčka útulková
+31.01.2024 00:03:23
+Útulek: v desítkové soustavě je pětka uprostřed. Ve vyšším poli by pětka byla
+v devítkové soustavě. Ty používáš devítkovou soustavu a nazýváš ji desítková?
+ Svitavská ulice off
+30.01.2024 23:58:32
+Jdu psát knihu, neotravujte mě se lživým slovem arbitrární.
+ SUčka útulková
+30.01.2024 23:57:45
+Ad Nesmysl č. 1:
+
+Tvé tvrzení nerozporuje mé.
+
+Ad Nesmysl č. 2:
+
+Intervarlu 0 až 9 neuvádím jako interval, ve kterém se zaokrouhluje, ale jako
+interval, ze kterého je zřejmé, že pětka je ve vyšším poli (0 až 4 a 5 až 9).
+
+Ad Zdá se ti, že to má 5 blíž nahoru, než dolu?
+
+Co mně nebo tobě se zdá je jedno, über jedno je to v diskuzi, kde se bavíe o
+tom, zda jde o arbitrární rozhodnutí, či nikoliv. V desítkové soustavě je
+pětka ve vyšším poli, to rozporovat nelze. Tím pádem nelze u zaokrouhlování u
+pětky zaoukrouhlovat jinak než nahoru. Šlo by to proti faktu, že pětka není v
+nižším poli (když je ve vyšším, nemůže být v nižším tam, kde není prostřední
+hodnota). Proto je to tzv. arbitrární rozhodnutí rozhodnutím vycházejícím z
+logiky věci, což nerozporuje rozhodnutí arbitrární, ovšem není to !jen!
+rozhodnutí arbitrární.
+
+Ad Je to KONVENCE. A konvence je ARBITRÁRNÍ.
+
+Není to konvence, konvence je to jen naoko a pokud někdo není schopen vidět za
+rok, tj. do desítkové soustavy. Logika zaokrouhlování nevylučuje konvenci, ale
+vaše konvence vylučuje logiku.
+
+Svitavák
+Opakuj, opakuj, je to prý matka moudrosti.
+ SUčka útulková
+30.01.2024 23:54:36
+Útulku: znova opakuju, že jak řada 0-9, tak řada 1-10, jsou tvé absurdní
+výmysly. Relevantní řady jsou 1-9 a 0-10. Nulu zaokrouhlovat na deset
+nemusíme, desítku na deset zaokrouhlovat nemusíme. Čísla 1 až 9 na deset
+zaokrouhlovat musíme. Co na tom pořád nechápeš, dutohlave?
+ Svitavská ulice off
+30.01.2024 23:49:56
+Je to KONVENCE. A konvence je ARBITRÁRNÍ.
+
+_h_t_t_p_s_:_/_/_e_n_._w_i_k_i_p_e_d_i_a_._o_r_g_/_w_i_k_i_/_R_o_u_n_d_i_n_g_#_R_o_u_n_d_i_n_g___t_o___t_h_e___n_e_a_r_e_s_t___i_n_t_e_g_e_r_ 
+
+https://math.stackexchange.com/questions/321859/why-do-we-generally-round-5s-
+up-instead-of - -down -
+ Sen3ca
+30.01.2024 23:35:44
+"Podstatou zaokrouhlování je, že čísla, která nejsou dělitelná vybraným číslem
+(například 10), musíme přiřadit k některému z čísel, které vybraným číslem
+dělitelné je. "
+Podstaou zaokrouhlování je především zaokrouhlit na celé číslo, tj. na číslo,
+které je dělitelné jedničkou. Čímž se dostáváme k tomu základu, jednotkám. Tj.
+ne 1 až 10 (už desítky), ale 0 až 9 (stále jednotky). Že se zaokrouhluje i na
+čísla dělitelná deseti je pravda, ale zase se dostáváme dál od toho základu,
+který je tím, o co tu běží. Až se vyřeší ten základ, můžeme se posunout dál. A
+ten základ se vyřeší vždy stejně, a to tak, že pětka je ve vyšším poli.
+
+Podstatou celé té debaty o zaokrouhlování je, zda je to rozhodnutí arbitrární.
+Není, i když není problém v tom na to přistoupit ve statistice, pokud by ta
+statistika stála sama o sobě, jakože nestojí. Problém by byl přistoupit na to,
+že arbitrární je, protože arbitrární rozhodnutí nemá co dělat tam, kde není
+nutno o ničem rozhodvat, nebo dokonce se o ničem ani rozhodovat nemá, protože
+si to něco, o čem se bavíme, umí rozhodnout samo. Což je to, o čem je řeč v té
+staré diskuzi a co tu já jen opakuji. U jednotek, tj. 0 až 9 (protože 10 a víc
+nejsou jednotky), je zaokrouhlení pětky nahoru logické, ne arbitrární, a
+vychází z těch hodnot.
+
+Až pochopíš jednotky a základ, presuň se výš, kde budou pořád ty jednotky
+platit a žádná arbitrárnost nebude potřeba. Jdi si trolit jiné naivky,
+například pravého Svitaváka off, kterým ty nejsi, lžisvitaváku.
+ SUčka útulková
+30.01.2024 23:34:42
+Nesmysl č. 1:
+"Nula lidí znamená, že statistika není potřeba. Netýká se nikoho. Nebo
+ničeho."
+Nula je regulérní výsledek, nese informaci na otázku "kolik", nikoliv "čeho".
+To je asi zřejmý, ale irelevantní.
+
+Nesmysl č. 2:
+"Vzala se desítková stoustava, tj. 0 až 9, na základě toho se určilo, že 5 se
+zaokrouhluje nahoru."
+V intervalu potřebuješ obě hodnoty, ke kterým se zaokrouhluje, nebo žádnou.
+Nemůžeš asymetricky jednu vyloučit z množiny.
+
+
+Graficky:
+_h_t_t_p_s_:_/_/_i_b_b_._c_o_/_N_s_j_d_D_K_1_ 
+Zdá se ti, že to má 5 blíž nahoru, než dolu?
+ Sen3ca
+30.01.2024 23:24:07
+Útulku, desítkovou soustavu ve skutečnosti ignoruješ ty. Stavíš totiž čísla 10
+a 19 na roveň, přestože jedno z nich dělitelné 10 je a druhé ne. Pokud do řady
+zařadíme dokonce i 10, pak tam také musíme zařadit 20. A pokud tam nezařadíme
+20, pak tam nemůžeme zařadit ani 10. Tvoje řada 10-19 by znamenala, že jde o
+soustavu založenou na čísle, které je dělitelné 10 a 19, ale není dělitelné
+11, 12, 13, 14, 15, 16, 17, 18, ale také ani 1. Takové číslo ale neexistuje.
+19 není 10 x 2, proboha.
+Tvoje řada 0-9 (a stejně tak tvoje řada 1-10) jsou naprostý nesmysly.
+ Svitavská ulice off
+30.01.2024 23:14:48
+Útulku: 1 až 10 není naše, 1 až 10 je tvoje. Oba tvoje výmysly, 0-9 i 1-10,
+jsou úplně stejný nesmysl, který nemá se zaokrouhlováním nic společného. Pro
+zaokrouhlování je relevantní buď 1-9 nebo 0-10. Žádné tvoje 1-10 ani žádné
+tvoje 0-9.
+ Svitavská ulice off
+30.01.2024 23:12:46
+Panebože, opravdu jsi tak debilní, útulku.
+Není žádná řada 0-9. Není žádná řada 1-10. Jediné relevantní řady jsou 0-10
+nebo 1-9.
+Ty si furt myslíš, že kvůli tomu, že je to desítková soustava, má mít použitá
+řada 10 prvků. Ale vůbec u toho nepřemýšlíš. Vůbec nepřemýšlíš o tom, co je
+podstatou zaokrouhlování.
+Podstatou zaokrouhlování je, že čísla, která nejsou dělitelná vybraným číslem
+(například 10), musíme přiřadit k některému z čísel, které vybraným číslem
+dělitelné je. Tedy například mezi čísly 0 a 10 (která nikam přiřazovat
+nemusíme), jsou čísla 1-9, která někam přiřadit musíme. Těch čísel je 9, 5 je
+uprostřed nich. Jsi opravdu tak strašně hloupý, že to pořád nechápeš?
+Vychodil jsi aspoň první stupeň ZŠ? A nebyla to třeba pomocná škola?
+ Svitavská ulice off
+30.01.2024 23:10:35
+Nebo ještě jinak. Zatímco 0 až 9 a pětka ve vyšším poli je aplikovatelné
+všude, tak to vaše 1 až 10 nikoliv, protože ignoruje hodnotu nula. Jste oba
+naivní.
+ SUčka útulková
+30.01.2024 22:58:41
+Sen3ca
+Ve statistice se ta čísla ale k něčemu vážou. Například jeden až x lidí. Nula
+lidí znamená, že statistika není potřeba. Netýká se nikoho. Nebo ničeho.
+Jenže dotaz tehdy nebyl na statistiku, ale byl obecný a týkal se i matematiky
+a běžného zaokrouhlování. Kde platí přesně to 0 až 9 a až pak 10 až 19 atd.
+
+
+Není to žádné arbitrární pravidlo, ale pravidlo založené na tom, že pětka je
+sice v !některých! případech uprostřed (viz ty lidi), ale jako číslo je v
+desítkové soustavě ve druhé polovině řady. Vzala se desítková stoustava, tj. 0
+až 9, na základě toho se určilo, že 5 se zaokrouhluje nahoru. Pak je 5
+uprostřed tam, kde se začíná jedničkou. Zatímco v řadě 0 až 9 žádná konvence
+není potřeba, protože 5 je logicky ve vyšším poli, tak v řadě 1 až 10 potřeba
+je, ovšem vychází se z toho logického rozhodnutí, kdy v obou případech se
+zaokrohluje stejně u pětky nahoru. Jednou logicky, jednou podle konvence.
+Naopak by to ale neplatilo. Naopak je to, co tvrdíte vy. Pokud by 5 byla
+uprostřed těch vašich intervalů, což je, nebyla by pak uprostřed 0 až 9 a
+muselo by se určovat proti tomu, co je zřejmé, a to tomu, že 5 tady uprostřed
+není. Nešlo by ani o arbitrární rozhodnutí, ale rozhodnutí, které by popíralo
+zřejmé.
+
+Že se zaokrouhluje od pětky výš je konvence jen zčásti a má logické
+vysvětlení. Zatímco vaše vysvětlení, že jde o konvenci, jde proti logice ve
+chvíli, kdy máme desítkovou soustavu 0 až 9.
+
+Jde o konvenci u 0 až 9? Ne, konvence není potřeba, tam se zaokrouhluje
+logicky.Jde o konvenci u 1 až 10? Ano, ale stejně jako u 0 až 9 se zaokrohluje
+nahoru.
+Abyste vy obhájili to, že jde o konvenci, tak ignorujete desítkovou soustavu,
+hájíte se statistikou, protože jinak to, co píšete, neplatí. Ovšem 0 až 9 a
+logické zaokrouhlování kvůli 5 ve vyšším poli platí a nejde proti konvenci u
+zaokrouhlování u 1 až 10.
+
+
+Svitavák
+Zalez.
+ SUčka útulková
+30.01.2024 22:10:04
+Svitavská ulice off: Já je nechci nazývat debilama, pokud píšou slušně, ale
+občas to fakt bolí, jaký ptákoviny píšou a zároveň jak pevně si za něma stojí
+:D A teď si představ, že jsou na tebe třeba 3. Tak prostě "vyhráli", protože
+si to de facto odhlasují. Pocit bezmoci a zmaru :D
+ Sen3ca
+30.01.2024 22:04:32
+Seneca: a debilové jsou zpátky:-)
+To až bolí, jak strašně hloupí jsou...
+ Svitavská ulice off
+30.01.2024 22:03:49
+Útulkovej hafan: ztrapňuješ se úplně stejně jako ti, co tehdy tvrdili, že 5
+není uprostřed.
+Zkus příště napřed přemýšlet a až pak psát.
+
+Do "čísel k zaokrouhlování" máš zařadit
+1) buď úplně všechna čísla, tedy i ta, která už dělitelná 10 jsou - tedy jak
+0, tak 10
+2) nebo pouze ta čísla, která nejsou dělitelná 10, a se kterými je tedy nutno
+provést proces zaokrouhlení - tedy ani 0, ani 10.
+
+V obou případech je 5 uprostřed. Proto je třeba určit pravidlo, kam tuto
+uprostřed ležící hodnotu budeme zaokrouhlovat.
+
+Kdybys z "čísel již dělitelných 10" zařadil pouze to dolní nebo pouze to horní
+(je opravdu jedno, které), nedávalo by to smysl, nemělo by nic společného s
+matematikou, byl by to pouze tvůj nelogický vzdor. A na tom, že 5 je
+uprostřed, bys stejně nic nezměnil...
+
+Princip zaokrouhlování totiž je (v případě 10): čísla, která nejsou dělitelná
+10, potřebujeme přiřadit k některému z čísel dělitelných 10. Každý jednotlivý
+řešený interval se proto nachází symetricky mezi dvěma čísly dělitelnými 10 -
+a je celkem jedno, jestli do něj zařadíme obě čísla dělitelná 10, nebo ani
+jedno, ale nelze do něj zařadit pouze jedno, pak se jedná o nepochopení celého
+principu.
+ Svitavská ulice off
+30.01.2024 21:56:05
+útulkovej hafan: Klidně tu desítku nazvi nulou, ale je to jiná nula než ta
+první, protože ve vyšším řádu už je jiná číslice, představ si to na ose. Nebo-
+li ty dvě krajní hodnoty (nuly) jsou od sebe vzdáleny právě 10 v desítkový
+soustavě. A právě 5 leží přesně prostřed mezi nulou a "nulou", ke kterým se
+zaokrouhluje. Proto ve statistice zaokrouhlování podel arbitrárního "5 nahoru"
+dělá paseku a může zkreslovat výsledky.
+
+Jedinej racionální důvod pro 5 nahoru je ten, že v případě, že by to bylo
+5,000...001, tak už to bude blíž nahoru.
+ Sen3ca
+30.01.2024 21:14:45
+Sen3ca
+Podívej se pořádně, desítka tam je. Hned na začátku té další řady. Nula je v
+té další řadě desítka, proto musí být v té první jako nula. V té diskuzi tu
+máš vysvětlené jak pro blbé. Myslím, že to víš ale moc dobře sám.
+ útulkovej hafan
+30.01.2024 18:45:40
+Jsi dobra hysterka! Cenim!
+ Kvetak
+30.01.2024 18:20:02
+dingh lingh: 0 do výčtu nedává smysl zařazovat, jelikož tu nikam
+nezaokrouhluješ. Pokud jí tam zahrneš, tak musíš zahrnout i 10 a potom sis
+nijak nepomohl.
+ Sen3ca
+30.01.2024 18:15:51
+0, 1, 2, 3, 4,
+5, 6, 7, 8, 9
+
+Pětka je ve druhé polovině, proto se zaokrohluje nahoru k další řadě a
+nejnižšímu číslu.
+10, 11, 12, 13, 14
+
+Tou diskuzí byla 939662.
+ dingh lingh
+30.01.2024 17:42:39
+Svitavská ulice off: No jo, někdy prostě diskutovat nemá cenu, protože některý
+lidi nepřesvědčíš ničím. Prostě Dunning–Kruger.
+ Sen3ca
+30.01.2024 17:38:09
+Vy jste mi připomněli, jak tu byla jedna zpověď o tom, že zaokrouhlování 5
+nahoru je arbitrární pravidlo. A spousta lidí tam autorovi naprosto vážně
+tvrdila, že 5 je blíž k 10 než k 0, a používali na to zaklínadla jako třeba "
+(0, 1, 2, 3, 4) vs. (5, 6, 7, 8, 9) - tak vidíš, pětka je v druhý půlce, čili
+má blíž nahoru":-):-):-)
+ Svitavská ulice off
+30.01.2024 17:24:20
+Qwertz: Hele, tak to hodně cením. Málokdo dokáže uznat, že se spletl. Respekt.
+
+
+A LDV má pravdu, zaspamovali jsme to tu :D
+[Smajlík]
+ Sen3ca
+30.01.2024 17:09:26
+Qwertz:
+třeba to Sen3ca dotáhne až do fyzikálního ústavu akademie věd :)
+ _L_D_V [Muž]46 [Kategorie]
+30.01.2024 17:07:43
+Sen3ca: Sekl jsem se, máš recht.
+ Qwertz
+30.01.2024 17:00:10
+Chlapi, já chápu, že vás baví se dohadovat o tom, co je správný zaokrouhlení,
+ale téma diskuze je jiné :)
+ _L_D_V [Muž]46 [Kategorie]
+30.01.2024 16:51:12
+Qwertz:
+60-48,451790856 < 48,451790856, z čehož plyne směr zaokrouhlení nahoru. Vysoká
+matematika, že.
+ Sen3ca
+30.01.2024 16:41:21
+Von tomu fakt veri :-D
+ Mr D
+30.01.2024 16:40:04
+Sen3ca: Dokaž mi, že to není.
+ Qwertz
+30.01.2024 16:36:47
+Qwertz:
+1:54:48,451790856 zaokrouhleno na minuty je 1:54? V tom případě si nemáme
+vážně co říct, jelikož se očividně bavím s idiotem :D
+ Sen3ca
+30.01.2024 16:35:18
+LDV: No a také do toho nezapočítal zakřivení časoprostoru.
+ Qwertz
+30.01.2024 16:31:53
+Qwertz napsal -
+Sen3ca: Fatal error. 1 hodin 55 minut není zaokrouhlením tebou udaného údaje
+1:54:48,451790856...
+Je to 1 hodina a 54 minut.
+---
+Hlavně to co napsal sen3ca je další blbost, protože sen3ca nedefinoval, kdy
+končí daná jízda - tedy jestli končí zastavením busu na konečné zastávce nebo
+vystoupením pasažéra z busu nebo ... :)
+ _L_D_V [Muž]46 [Kategorie]
+30.01.2024 16:28:49
+Sen3ca: Fatal error. 1 hodin 55 minut není zaokrouhlením tebou udaného údaje
+1:54:48,451790856...
+Je to 1 hodina a 54 minut.
+[Smajlík]
+ Qwertz
+30.01.2024 16:28:48
+Seněko, ty ses konecne naucil zaokrouhlovat? To je super, aspon neco jsem te
+naucil :-D
+
+Jeste nedavno jsi skakal jako certik z krabicky, kdyz jsem neco zaokrouhlil
+ja. Projekt Mr D te vzdelal :-D
+ Mr D
+30.01.2024 16:27:43
+doplnění:
+
+Takže když rozvinu tento příklad-že nějací politici by např. navrhovali
+uzákonit, že člověk, který by porušil zákaz, nosit střelnou zbraň na
+veřejnosti, by mohl "vyfasovat" pokutu třeba až do výše 50 tisíc Kč, tak -
+Zní to sice jako účinné opatření. Jenže takovýmu opatření by se např. ten vrah
+Kozák vysmál, protože jednak chtěl spáchat sebevraždu a navíc v případě
+odsouzení za vraždy by ho asi 50 000 pokuty rozhodně netrápilo.
+ _L_D_V [Muž]46 [Kategorie]
+30.01.2024 16:25:43
+autism-off napsal-
+... jj, nezajímají tě vysvětlení a důvody, proč se můžeš mýlit. To z tebe dělá
+fanatika, protože definice fanatismu je, že odmítáš slyšet argumenty, proč
+tvoje přesvědčení a názory nemusí dávat smysl.
+---
+Bohužel, takto uvažující lidi, jako je např. autor diskuze, jsou "cílovou
+skupinou" některých politiků. Tyto lidi je relativně jednoduchý "oblbnout"
+návrhem určitých opatření, např. návrhem opatření ve smyslu - zakážeme nosit
+střelné zbraně apod.
+
+Takže když rozvinu tento příklad-že nějací politici by např. navrhovali
+uzákonit, že člověk, který by porušil zákaz, nosit střelnou zbraň na
+veřejnosti, by mohl "vyfasovat" pokutu třeba až do výše 50 tisíc Kč, tak -
+Zní to sice jako účinné opatření. Jenže takovýmu opatření by se např. ten vrah
+Kozák vysmál, když chtěl evidentně spáchat sebevraždu.
+ _L_D_V [Muž]46 [Kategorie]
+30.01.2024 16:20:02
+Dáda off:
+
+"Mě už v tuhle chvíli ani nezajímají argumenty" - jj, nezajímají tě vysvětlení
+a důvody, proč se můžeš mýlit. To z tebe dělá fanatika, protože definice
+fanatismu je, že odmítáš slyšet argumenty, proč tvoje přesvědčení a názory
+nemusí dávat smysl. Jsem rád, že se ke svému náboženství jménem etatismus
+aspoň přiznáváš:D
+[Smajlík]
+ autism-off
+30.01.2024 16:18:16
+Qwertz:
+Člověk běžně zaokrouhluje. Když cesta z Prahy do Brna trvá 1 hodin 55 minut,
+tak je v běžný komunikaci zcela v pořádku zaokrouhlit na 2 hodiny. Nebude
+řikat, že trvá mezi hodinou a dvěma hodinama.
+
+Ono ta cesta totiž taky netrvá 1:55. Ona trvá 1:54:48. Oh wait, ona trvá 1:54:
+48,451790856... Oh wait... Pochopil jsi pointu, že spojitou veličinu nelze v
+realnem světě vyjádřit přesně?
+
+To je to inkluzivní školství.
+ Sen3ca
+30.01.2024 16:12:14
+Sen3ca: Ale pořád to nebude před 26 lety. Měl napsat přesné rozmezí a ne
+vybrat jen nějaký časový úsek.
+ Qwertz
+30.01.2024 16:06:19
+Tak jste tu ubožáci.
+ Dáda off
+30.01.2024 16:02:25
+Qwertz: Asi ovládá matematiku.
+
+I kdyby autorovi bylo 25 dneska, tak 25 let + 9 měsíců bude vždy blíž 26 než
+25.
+ Sen3ca
+30.01.2024 16:00:28
+zpověď blbce.
+ _Q_u_a_k_i_e [Muž]79 [Kategorie]
+30.01.2024 15:58:37
+Sen3ca: "Dobře to Rakušan vede."
+
+Souhlasím.
+[Smajlík]
+ Qwertz
+30.01.2024 15:56:40
+Svitavská ulice off: "Mrzí mě, že tě tehdy před 26 lety nepředběhla jiná
+spermie"
+
+Jak si můžeš být tak jistý, že to bylo před 26 lety a ne před 25?
+ Qwertz
+30.01.2024 15:52:12
+Už nad tím přemýšlím roky, proč lidi různě "selektují".
+Za posledních x let se v ČR stalo několik případů šílených střelců . Pamatuju
+si tyto případy.
+
+1)Kalivoda zastřelil tři lidi v lese a pak byl dopaden. Kdyby nebyl dopaden, v
+důsledku skvělé práce policistů a v důsledku toho, že někteří lidi nebyli
+lhostejní, tak by těch vražd pravděpdoobně spáchal víc.
+2)Nějakej chlap zastřelil nějakou ženu v tramvaji v Praze. Prý to bylo tak, že
+kdyby se sám nepřihlásil, tak by nikdy nebyl vypátrán.
+3) Nějakej chlap s psychistrickou diagnózou zastřelil tuším 7 lidí v
+restauraci v Uherském Brodě.
+4) Nějakej chlap zastřelil v ostravské nemocnici několik lidí.
+5) zatím "nejčertsvější" případ je střelba vraha Kozáka na VŠ v Praze vloni v
+prosinci.
+
+Vrah Kozák měl zbraně legálně držené. Ten vrah, kterej vraždil v Uherským
+Brodě asi měl taky legálně drženou zbraň. Jak to bylo v případě těch
+ostatních, to nevím.
+
+Je zajímavý, jak tyto vraždy jsou mnoha lidmi vnímány víc emotivně, než např.
+silniční nehody.
+
+Přitom před lety zavinil řidič dvoupatrového busu smrt tuším 19 cestujících.
+Bylo to u obce Nažidla. Ten řidič měl zfalšované oprávnění pro řízení
+autobusu.
+Mohli bychom si např. zrekapitulovat, co od té doby bylo udláno pro zvýšení
+bezpečnosti v autobusové přepravě.
+ _L_D_V [Muž]46 [Kategorie]
+30.01.2024 15:35:35
+oprava:
+
+Dáda off:
+
+Myslíš si, že vražda zásahem kulky je víc bolestivá, než např. úmrtí v
+důsledku zaklínění ve vykolejeném železničním vagóně nebo úmrtí v důsledku
+havárie vozidla někde na silnici?
+
+Riziko, že se někde vyskytne šílený střelec tě hrozně rozčiluje, ale riziko,
+že někdo zemže v důsledku porušení pravidel silničního provozu tě nerozčiluje.
+
+Stačí si někdy stoupnout např. k dálnici a pozorovat, kolik řidičů dodržuje
+bezpečnou vzdálenost mezi vozidly. Já jsme to před lety občas udělal, protože
+bydlím nedaleko dálnice. Těch řidičů, kteří to nedodržovali, bylo opravdu
+hodně.
+ _L_D_V [Muž]46 [Kategorie]
+30.01.2024 15:32:34
+Byl jsem o víkendu v nákupním centru. A napadla mně myšlenka, co bych v dané
+chvíli dělal, kdyby tam začal střílet šílenej střelec. Uvědomil jsme si, že
+kdyby byl uzavřen zadní východ, tak jediný, co bych mohl dělat, by bylo to,
+skočit z výšky na eskalátor a riskovat, že si zlomím nohu.
+
+Dáda off:
+
+nevadí ti např., že stále existují nezabezpečené železniční přejezdy a že
+spučasně existují "prasata", který klidně vjedou na přejezd, i když nesmí?
+Myslíš si, že vražda zásahem kulky je míň bolestivá, než např. úmrtí v
+důsledku zaklínění ve vykolejeném železničním vagóně?
+ _L_D_V [Muž]46 [Kategorie]
+30.01.2024 15:27:16
+Dáda off napsal -
+Mě už v tuhle chvíli ani nezajímají argumenty zastánců zbraní, ať začnou
+zákonodárci kua něco dělat!
+---
+Dělat můžou politici např. to, že jako prioritu budou považovat to, aby byl
+zajištěn větší počet policistů v ulicích. Jenže to by znamenalo, že by se
+výrazně zvýšily náklady státu, protože nové policisty je potřebmé vycvičit,
+vybavit atd. Takže ve "finále" by to znamenalo zvýšení daní.
+Máloco je zadarmo. A zajištění bezpečnosti rozhodně není zadarmo.
+ _L_D_V [Muž]46 [Kategorie]
+30.01.2024 15:26:11
+Dagmarko, kdyby se zákonodárci řídili tvou parodií na logiku, mohli by také
+reagovat zrušením vysokých škol:-) To je možná to, co by sis přál nejvíc -
+protože vzdělaní lidé více přemýšlejí, a kdo příliš přemýšlí, je podle tebe
+dezolát.
+ Svitavská ulice off
+30.01.2024 15:24:12
+Thatslife: Kdo koho následuje proboha? Kolikrát denně potkáš někoho s kvérem
+za opaskem a ani o tom nevíš...
+ Sen3ca
+30.01.2024 15:23:07
+Je jistý, že toho člověka kontrolovala policejní hlídka? Byla to opravdu
+pistole? Mohlo to být tak, že to byla maketa pistole? Pravděpodobně ten člověk
+chtěl nějak provokovat.
+
+100% bezpečnost v lidských společenstvích nikdy nebyla, není a nebude. Rozumím
+tomu, že se s tím někteří lidi těžko smiřují, ale je to tak. Dám tři příklady,
+ale různých příkaldů lze uvést x.
+1) Několikanásobná vražda, kterou v roce tuším 1976 spáchala O. HEpnarová v
+Praze nákladním vozidlem.
+2) Vražda desítek lidí, kterou spáchal pilot německé letecké společnosti tuším
+v roce 2015 tak, že nechal letadlo spadnout na zem.
+3) Vražda poměrně velkého počtu lidí tuším v roce 1995 tak, že členové
+japonské sekty vypustili např. v tokijském metru plyn sarin.
+
+Ironicky napsáno, např. v ČR to nefunguje tak, jako to funguje např. v severní
+koreji. V severní koreji chodí kontroly i do domácností lidí. Kdyby taková
+kontrola v něčím bytě objevila např. zbraň, tak obyvatelé bytu by
+pravděpodobně skončili v pracovním táboře.
+ _L_D_V [Muž]46 [Kategorie]
+30.01.2024 15:20:57
+Podle me fakt, ze zatajili vsechny info vcetne toho dopisu , zpusobil to, ze
+ho ted nasleduji ostatni.
+ Thatslife
+30.01.2024 15:19:57
+To si děláš srandu ty, svazáčku?
+Nic neprovedl.
+Zbraň měl pod oblečením.
+Nosil ji způsobem, který nařizuje zákon.
+A ty a tobě podobní z toho máte "kauzu". A proč? Jen proto, že se choval jinak
+než ovce. Vaše nesoudnost a drzost je stále extrémnější.
+Mrzí mě, že tě tehdy před 26 lety nepředběhla jiná spermie, mohlo být na světě
+o jednoho hlupáka méně a o jednoho rozumného člověka více.
+ Svitavská ulice off
+30.01.2024 15:19:06
+Legálně držená zbraň.
+Legálně nošená zbraň.
+Plná spolupráce s policií.
+Negativní zkouška na alkohol.
+
+Co porušil? Dokážeš na to odpovědět? Nedokážeš.
+
+Fízlové podělali zásah na FFUK, tak teď budou buzerovat, aby vykázali činnost.
+Dobře to Rakušan vede.
+ Sen3ca
+30.01.2024 15:18:52
+Provokateri pracuji naplno, kdo asi tak chce aby lid nemel zbrane? Zeby
+soustruzi z CCCP?
+ Mr D
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _pp_?ř_ee_ss_ _ss_mm_ss_ _oo_dd_ _99_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+

@@ -1,0 +1,723 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+ Diskuze č.1225893, vloženo 19.11.2023 _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+ 21:49:50                              _s_t_r_á_n_k_a_]
+ 6 / 2(1+2) - kolik to vyjde?
+ Otázka je zcela jasná:
+
+ Jaká je hodnota výrazu "6 / 2(1+2)"
+
+ Pište odpovědi (případně i s vysvětlením výpočtu, ale to je na vás). Za cca
+ 24 hodin zde pošlu správnou odpověď.
+  _l_i_b_i_k E-MAIL:_[_g_r_a_f_i_k_a_/_m_r_e_f_h_i_._g_i_f_]   [Muž]34 [Kategorie]  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+20.11.2023 21:24:13
+matouch4
+1 to muze byt i bez zapisu bez zlomku. Niz padly duvody proc.
+ g29d
+20.11.2023 17:17:43
+Je to 9.
+Kdyby to bylo zaspaný ve zlomku, zak je to 1
+[Smajlík] [Muž]53 [Kategorie]
+ _m_a_t_o_u_c_h_4
+20.11.2023 16:48:01
+Dělení neexistuje.
+ LNKL
+20.11.2023 16:41:38
+Těším se, až se dozvím, proč je ta libikova odpověď správná.
+ KHNF
+20.11.2023 16:39:58
+"Záleží na takové banalitě, jako je dohoda, která operace je prioritnější."
+Jenže žádná taková dohoda neexistuje. Násobení a dělení má prioritu obecně
+stejnou. Zlomková čára naproti tomu představuje něco jako závorku.
+...
+A akorát že někdo zjistil, že vyrobit zlomkovou čáru na psacím stroji dá dost
+práce, tak si chtěl život zjednodušit tím, že použije normální lomítko a
+doufal, že čtenář pochopí, jak to myslel. Což je celkem obecný přístup - když
+víme, co chtěl autor napsat, tak to může napsat jakkoliv, a my to stejně
+"pochopíme" správně.
+ _M_i_c_h_a_l_-_2_2_2 [Muž]44 [Kategorie]
+20.11.2023 16:30:11
+6 / 2(1+2)
+
+Jak už zkraje píše mando a pak se to tu rozebírá ze všech stran, jde o to,
+jestli závorka patří ke jmenovateli pomyslného zlomku představovaného lomítkem
+nebo je mimo zlomek.
+Pak je výsledek 1 nebo 9.
+
+Vzhledem k zápisu, kde před a za lomítkem je mezera, zatímco před závorkou ne,
+přikláněl bych se spíše k tomu, že závorka je součástí jmenovatele, čili by
+byl výsledek 1.
+ _n_0_b_0_d_y [Muž]42 [Kategorie]
+20.11.2023 14:18:42
+Záleží na takové banalitě, jako je dohoda, která operace je prioritnější.
+Žádná jedna správná odpověď neexistuje, takže ji sem asi těžko pošleš. Pokud
+jsi potřeboval pomoct s tím, kolik je jedna plus dva, tak je to tři.
+[Smajlík]
+ děkovat nemusíš
+20.11.2023 09:53:31
+A jak řešit třeba a/aa/aaa/aa/aaa ?
+Programovací jazyky v tom mají jasno - jednak neumožňují vynechávat symboly
+operátorů, takže takovýto zápis by skončil jako syntaktická chyba, a musel by
+se zapsat jako a / a x a / a x a x a / a x a / a x a x a,
+a jednak, v rámci definice jazyka je vždy definována tzv. asociativita
+operátorů, která určuje, v jakém pořadí se vyhodnocuje výraz typu a x a x a
+když je priorita operátorů stejná. Některé jazyky začínají zleva a jiné
+zprava, liší se to kus od kusu, a je nutné s tím trochu počítat, protože to
+písmeno "a" nemusí být nutně číslo či proměnná, ale může to být i funkce/
+metoda, a jazyky zpravidla umožňují zrychlené vyhodnocení výrazu, což třeba u
+násobení znamená, že když tam vyjde nula, tak už se to dál nemusí počítat -
+což může vést k tomu, že některé funkce se vůbec nezavolají.
+...
+Lidé si to naproti tomu nadefinovali dost vágně, takže není úplně zřejmé, jak
+se mají výrazy tohoto typu počítat, a pak se tady mohou vést nekonečné diskuse
+ohledně toho "jak je to vlastně správně". Ideální je nejednoznačné formulace
+vůbec nepoužívat. V právním světě platí mmch zásada, že kdo nejednoznačnost
+vytvoří, v neprospěch toho se může použít...
+ _M_i_c_h_a_l_-_2_2_2 [Muž]44 [Kategorie]
+20.11.2023 09:32:00
+9
+
+Ale jak bys řešil třeba a/2a ? je to logicky 1/2, že. Ale při přísném dodržení
+postupu "postupné operace zleva doprava" je to "a na druhou lomeno dvěma."
+[Smajlík] [Muž]58 [Kategorie]
+ _K_v_i_d_o_9_9
+20.11.2023 06:40:52
+ymbecyl: ne, ty jsi imbecil.
+
+Nedisktujeme, diskuze není možná. Zadání, jak je napsáno, bez aditivních
+informací, nelze interpretovat, aniž sami přidáme nebo rozhodneme něco, o čem
+nemůťeme dokázat, jak autor myslel.
+
+Současně autor za 24 hodin nepošle správnou odpověď, protože by musel upravit
+zadání - a tedy sdílet odpověď na otázku, jaká fakticky nezazněla.
+
+A diskvalifikovat moji odpověď tím, že autor nedal otazník, takže není otázka,
+je trapná debilita. Potlačuješ smysl na úkor formy. Dokonce i AI by si s
+textem poradila lépe než ty, od tebe je to jen trapné lpění, argumentační
+faulík.
+
+Text zpovědi obsahuje něco, co není platným matematickým výrazem (nebo se na
+něj nedá převést) - aditivní info, typografická konvence či zmínka o
+standardu, jakým se řídí, udělá z nečitelného výrazu výraz exaktně čitelný.
+
+Jakákoliv diskuze je ale zcela marná z výše uvedených důvodů. Můžeš se hádat,
+jak bys to četl ty, protože ale nemáš jediný argument, proč to tak musejí číst
+všichni, ISO k tomu nic neříká, školy i odborné knihy s tím nakládají po svém,
+je celá diskuze bezpředmětná.
+Text zpovědi, jak je dán, nemůže být interpretovát jako matematický výraz nebo
+token žádného druhu. Nelze. Hotovo. Odpověď není. Nic jako správná odpověď
+neexistuje. Ani NaN. Jediné řešení je odmítnout odpověď. A ne tyhle
+argumentačněfaulová hovna.
+ _H_r_n_e_k_ _č_a_j_e [Muž]27 [Kategorie]
+20.11.2023 05:17:37
+6/23
+ galfi
+20.11.2023 02:44:17
+Jo, zavorka ma prednost. Ale pak je to 6 / 2(3) a to neni totez co 6 / 2 x 3.
+Nekdo to tak pocita, pak vyjde 9. Ale nekdo napred spocita to 2(3) a az pak
+deli 6/6 a vyjde 1. Coz mi prijde logictejsi. Stejne jako se resi zavorky, tak
+by se melo resit to, co je na ty zavorky primo napojene. Pak uz tam zustanou
+jen znamenka a jede se pres to, co ma prednost a zleva doprava.
+
+6 / 2(3) prece neni totez jako 6 / 2 x 3.
+ adfadf
+20.11.2023 02:41:08
+Tyhle aféry všechny jenom otravují. Já bych všechny ty internety a počítače
+zakázal.
+[Smajlík]
+ Čtyřkazmatiky
+20.11.2023 02:37:26
+Ne já nevím, je to proklatá hříčka, černá magie a čarodějnictví
+[Smajlík]
+ Čtyřkazmatiky
+20.11.2023 02:34:52
+Takže 9
+ Čtyřkazmatiky
+20.11.2023 02:34:00
+Ncnj
+ty priklady co davas nejsou to juxtaposed multiplication.
+Nejde o zlomek, ale poradi operaci. Zleva doprava se to dela az tehdy kdyz se
+provedou ty operace bez znamenek. Takze se secte zavorka to je 3. Pak se 3
+nasobi 2, protoze to ma prednost. Pak se deli 6:6.
+O zlomek nejde.
+I bez zlomku bych to tak pocital, prijde mi to spravnejsi. Kdyz se prvni resi
+zavorky, tak by se pak melo resit to co je k te zavorce priprcnute. Az pak je
+to rozepsane pro to klasicke zleva doprava.
+
+_h_t_t_p_s_:_/_/_m_a_t_h_._u_c_r_._e_d_u_/_h_o_m_e_/_b_a_e_z_/_p_h_y_s_i_c_s_/_G_e_n_e_r_a_l_/_b_i_n_a_r_y_O_p_s_._h_t_m_l
+ adfadfa
+20.11.2023 02:32:34
+Já souhlasím s ncnj, snad má závorka přednost před vším ostatním ne? Ale
+nevim, dobrý hlavolam
+[Smajlík]
+ Čtyřkazmatiky
+20.11.2023 02:31:46
+6:2(1+2)
+
+Je to vidět i od oka.
+
+Vlevo 6:2
+Vpravo 2+1 v závorce
+
+Vyjde ti 3.3=9
+ _N_c_n_j [Muž] [Kategorie]
+20.11.2023 02:26:39
+6:2(1+2). Co tady opravňuje vytvořit zlomek nebo to počítat jinak než zleva
+doprava? Nic.
+
+To 1+2 v závorce je směšné, je to prostě 3.
+
+V podstatě:
+
+1) vyřešit závorku
+2) udělat úkony zleva doprava
+
+To je celé.
+ _N_c_n_j [Muž] [Kategorie]
+20.11.2023 02:21:40
+6:2.(3) Když udělám takový zápis, nic se nemění. Stejně to vynásobíš zleva. Ta
+závorka je úplně zbytečná, mohl libik prostě napsat rovnou 6:2.3. Z toho
+zlomek prostě neuděláš, jde o to pořadí o nic jiného. Jediný správný výsledek
+je 9.
+ _N_c_n_j [Muž] [Kategorie]
+20.11.2023 02:12:26
+5.4:7.3.5.9:3:6=?
+
+A ještě aby z toho někdo dělal zlomek...
+ _N_c_n_j [Muž] [Kategorie]
+20.11.2023 02:09:19
+adfdf: Jasně chápu, takže si člověk může vybrat 6:2.3 jestli nejdřív udělá 6:
+2=3.3=9 a nebo 2.3=6:6=1, akorát dává logiku to počítat z leva doprava a ne
+jinak. Když budeš mít třeba 5.4:7.3.5.9:3:6=? Pojedeš zleva doprava, jak jinak
+asi... Ty si nemůžeš vybrat.
+ _N_c_n_j [Muž] [Kategorie]
+20.11.2023 02:02:39
+Pokud se máš v matematice dobrat správného výsledku, tak samozřejmě jde o
+zápis, ale když ti matika dává možnost udělat z dělena najednou zlomek a
+výsledek je jiný, pak je to píčovina. :D
+
+Prostě to nedává logiku. Zápis v řadě je 1. úloha, tím že vytvoříš z dělena
+zlomek je 2. úloha. Odlišný zápis, odlišný výsledek. To akorát znamená, že
+řešíš 2 úlohy, to že tě matika opravňuje z dělena udělat zlomek je sice hezký,
+ale když to změní výsledek, to už znamená, že vytvoření zlomku narušuje v
+podstatě žen systém, takže vytvoření zlomku je prostě špatný krok v některých
+zápisech.
+ _N_c_n_j [Muž] [Kategorie]
+20.11.2023 01:54:27
+ncnj, mando
+Nejde o to jestli je tam zlomek nebo ne, ale o to poradi operaci. Jak
+vysvetluje ten matematik. Pak se to tim druhym zpusboem kdy vyjde 1 pocita
+opacne a vysledek je stejny jako by slo o zlomek. Ten zlomek samotny tam ale
+nehraje roli, se zlomkem je jenom stejny poradi.
+ adfdf
+20.11.2023 01:52:43
+Problém je prostě v tom, že jakmile uděláš zlomek, vytvoříš novou úlohu, s tím
+původním už to nemá nic společného. Zápis v řadě vs. ve zlomku je to fakt
+rozdíl. Nechápu tu logiku, že když je tam děleno, tak automaticky můžeš
+vytvořit zlomek. Takhle by šlo udělat spoustu dalších příkladů, kde by to taky
+nesouhlasilo.
+ _N_c_n_j [Muž] [Kategorie]
+20.11.2023 01:46:10
+mando: Jasně teď mi to došlo. Člověk má prostě akceptovat, že ten zápis, kde
+je děleno se prostě automaticky dá dát do zlomku.
+
+jakože 6:3 je i
+
+6
+--
+3
+
+Jenže pokud dojdeš k dvou výsledkům, nedává to prostě smysl, jsou to pak dvě
+jiné úlohy. Buď máš to co napsal libik nebo zlomek. Nemůžeš to vzít oboje nebo
+z toho zlomek udělat, když ti to narušuje ten systém a dělíš najednou něco
+jiného, něčím jiným. Zápis v řadě a ve zlomku jsou dvě odlišné úlohy, pak
+logicky nemůžeš ten zlomek vytvořit, jenom proto, že je tam děleno a říct, že
+je to to samé.
+ _N_c_n_j [Muž] [Kategorie]
+20.11.2023 01:31:42
+mando: Co to je? :D Ne já fakt na tohle nevěřím, jednoduchá logika vítězí.
+Snad jste v té hromadě textu nenašli nějaké vysvětlení. V tom zápisu od libik
+už není co zkoumat, takže nechápu, co zase...
+ _N_c_n_j [Muž] [Kategorie]
+20.11.2023 01:24:17
+poctarsky ymbecyl: Mazec, to si mě potěšil.
+
+you are demonstrating that you know less mathematics, because you are showing
+that you do not realize that a key part of mathematics is to express your
+thoughts clearly and unambiguously without reliance on some convention not
+universally recognized
+
+Jinými slovy to je o té vágnosti, co jsem psal ncnjovi. Nenapsal jsem to sice
+hned, ale došel jsem si k tomu, takže můžu mít ze sebe radost :D.
+
+Tady je prostě vidět rozdíl v lidech s vyšším vzděláním, když si trochu
+přihřeju polívčičku. Běžný random by vykládal něco jako NCNJ a prostě
+nepřesvědčil by jsi ho o opaku ani za boha.
+ mando
+20.11.2023 01:07:19
+9 i 1 jsou spravne:
+_h_t_t_p_s_:_/_/_q_p_h_._c_f_2_._q_u_o_r_a_c_d_n_._n_e_t_/_m_a_i_n_-_q_i_m_g_-_6_7_2_5_f_d_1_7_7_2_5_4_c_a_7_b_5_8_4_8_e_a_b_e_f_6_d_7_2_a_8_1
+ poctarsky ymbecyl
+20.11.2023 01:04:37
+Traditional practice of professional mathematicians and physicists (which
+excludes pre-university mathematics and science teachers):
+If we want to see how things are really done, lleett?â?€?™ss ggoo ttoo tthhee pprrooffeessssiioonnaallss,,
+rraatthheerr tthhaann ddeeppeennddiinngg oonn oovveerrllyy ssiimmpplliiffiieedd tteexxttbbooookkss tthhaatt ccoovveerr oonnllyy wwhhaatt yyoouu
+nneeeedd ttoo kknnooww nnooww ((wwhhiicchh iiss wwhhaatt PPEEMMDDAASS//BBOODDMMAASS ddooeess)). The basic rules are very
+similar to PEMDAS/BODMAS, with two exceptions: stacked exponentiation is
+regarded as ttoo bbee ddoonnee ttoopp--ddoowwnn ((ssoommeettiimmeess ccaalllleedd rriigghhtt--aassssoocciiaattiivvee)), whereas
+PEMDAS/BODMAS usually does not specify a direction or, if they do, is left-to-
+right, which is backwards from professional practice; juxtaposed implicit
+multiplication has lower precedence than exponentiation (like PEMDAS/BODMAS)
+but higher precedence than all other multiplications and divisions (unlike
+PEMDAS/BODMAS). In other words, if you write 1/2a, the 2a is regarded as a
+tightly bound entity and to be treated as a single unit in the context of
+multiplications and divisions, so it means 1/(2a), not (1/2)a; PEMDAS/BODMAS
+would treat it as (1/2)a instead. It is necessary to distinguish juxtaposed
+multiplication from other expressions of multiplication to be able to handle
+properly formulas like:
+sin 4u = 2 sin 2u cos 2u
+as the first step in showing the expansion of sin 4u. Juxtaposed
+multiplications must be done before the trigonometric operators, which must be
+done before the non-juxtaposed multiplications. For the expression given in
+the question:
+6/2(1 + 2) = 6/2(3) â€”Do what is in the parentheses first.
+= 6/2(3) â€” No change because next come handling exponents, of which there
+are none.
+= 6/6 â€”The juxtaposed multiplication 2(3) is to be done next.
+= 11. â€”The only operation remaining.
+ poctarsky ymbecyl
+20.11.2023 01:03:04
+Iâ€™m sorry to have to inform everybody, but there is not a universally
+recognized convention for evaluating this expression. The three come up with
+different results. There are three common conventions currently in practice:
+
+PEMDAS/BODMAS:
+This is a set of rules for order of expressions that is taught to a large
+number of students at the advance arithmetic and early algebra phases of their
+schooling. For the expression given in the question it directs:
+6/2(1 + 2) = 6/2(3) â€”Do what is in the parentheses first.
+= 6/2(3) â€” No change because next come handling exponents, of which there
+are none.
+= 3(3) â€”Do multiplications and divisions in order from left to right.
+= 99. â€”Repeating previous step since there is one division and one
+multiplication.
+There are problems with this set of rules because they were designed for
+advanced arithmetic and early algebra. They do not handle more advanced
+expressions. For advanced arithmetic, typically all operations are expressed
+explicitly, so that 6/2(1 + 2) would not be given, but instead 6/2 Ă— (1 + 2).
+We will see in the next convention how this distinction can be important, and
+standard PEMDAS/BODMAS do not distinguish the two expressions.
+ poctarsky ymbecyl
+20.11.2023 01:00:29
+Howard Ludwig
+Ph.D. in Physics, Northwestern University (Graduated 1982)Upvoted by
+David Halliday
+, Ph.D. Theoretical Physics & Mathematics, Brigham Young University (1992) and
+
+Nathan Hannon
+, Ph. D. Mathematics, University of California, Davis (2021)
+_h_t_t_p_s_:_/_/_w_w_w_._q_u_o_r_a_._c_o_m_/_W_h_a_t_-_i_s_-_t_h_e_-_a_n_s_w_e_r_-_t_o_-_6_-_2_-_1_+_2_ 
+
+1) 9
+2) 1
+3) odvolavani se na zapis, interpretaci apod.:
+â€śI know PEMDAS/BODMAS and Iâ€™m going to see whether you do or I can trick
+you, so I am deliberately writing it hoping to confuse you.â€ť For somebody
+who acts that way, you are being pretentious, acting like â€śI know more
+mathematics than you do and I am going to show youâ€ť, but in fact you are
+demonstrating that you know less mathematics, because you are showing that you
+do not realize that a key part of mathematics is to express your thoughts
+clearly and unambiguously without reliance on some convention not universally
+recognized. Therefore, the expression in the question cannot be validly
+evaluated unless it is rewritten in another form
+
+V kazdem pripade Nevim(e) neni a nemuze byt spravna odpoved.
+
+libiku, aspon cisla jsi mohl zmenit, aby to neslo tak snadno vyguglit. ;-)
+ poctarsky ymbecyl
+20.11.2023 00:42:28
+69
+[Smajlík]      [Žena] [Kategorie]
+ _T_h_e_ _D_a_r_k_ _S_i_d_e
+20.11.2023 00:32:47
+6 / 2(1+2) - kolik to vyjde?
+
+„Jaká je hodnota výrazu "6 / 2(1+2)"
+
+Napsal to 2x, pokaždé trochu jinak. Evidentně tu nejde o nic jiného než o tu
+číselnou část. Není prostě důvod domnívat se, že tam hraje roli cokoliv
+jiného. Stejně tak / je symbol pro děleno, ne pro zlomek. Samotný zápis zlomku
+vypadá úplně jinak. Pokud v tom hledáte něco jiného, dalšího, co tam vůbec
+není, tak opravdu zbytečně.
+ _N_c_n_j [Muž] [Kategorie]
+20.11.2023 00:22:47
+ncnj
+Smyslem je reseni, ale reseni zadani. Ktere obsahuje slova a zamereni se na ne
+je zaklad. Jinak nebudeme vedet, co se vlastne ma resit.
+ poctarsky ymbecyl
+20.11.2023 00:21:29
+Ncnj: Právě že logicky v matematickým smyslu uvažovat nemůžeš vůbec, protože
+tak můžeš uvažovat jen když je eliminována veškerá vágnost a to tady není.
+
+Samozřejmě chápu, co myslíš tím "logicky", ale pointa toho, proč to sem libik
+dal, je zřejmě právě v tom, že nám nezanechal ty pravidla pro eliminaci
+vágnosti.
+
+Že někdo interpetuje "/" jako znak pro zlomek a následně celý ten druhý člen
+jako jmenovatel, to není absolutně vůbec irelevantní a pak je výsledek 1.
+ mando
+20.11.2023 00:19:39
+poctarsky ymbecyl: Jenže smysl podobných úloh je řešení a ne zaměření se na
+slova. Podle mě mám prostě pravdu, ať to zní jakkoliv namyšleně, přistoupil
+jsem k tomu ze všech nejlíp a jako jediný to vyřešil bez váhání a hledání
+zlomku, který tam není.
+ _N_c_n_j [Muž] [Kategorie]
+20.11.2023 00:02:03
+ncnj
+Kdyz se pta na ten vyraz (neresim chybejici otaznik), tak je to slovo
+podstatne. Kdyby vyraz umoznoval zapis nekolika zpusoby, ze kterych pak vyjde
+vic vysledku, tak by to fuk nebylo. Ale ja to nevim, nevim, co je vyraz, proto
+se na to ptam. Pokud by vyraz vic zapisu umoznoval, pak o to slovo jde. Je to
+soucast zadani konec koncu.
+Podle wiki je vyraz tohle:
+_h_t_t_p_s_:_/_/_c_s_._m_._w_i_k_i_p_e_d_i_a_._o_r_g_/_w_i_k_i_/_M_a_t_e_m_a_t_i_c_k_%_C_3_%_B_D___v_%_C_3_%_B_D_r_a_z_ 
+Kde to "zavislych na kontextu" muze hrat svou roli.
+ poctarsky ymbecyl
+19.11.2023 23:53:22
+mando: Tak uvažuj jednoduše a logicky a jediné co dává smysl je děleno, zápis
+zlomku vypadá jinak, už jsem to dával. Pointa v této úloze je nehledat na tom
+blbosti a složitosti a vzít to prostě jednoduše a logicky. To je právě to,
+když tam hledáš něco, co tam vůbec není.
+ _N_c_n_j [Muž] [Kategorie]
+19.11.2023 23:50:23
+poctarsky ymbecyl: O to slovo výraz vůbec nejde, jde tam jenom o ty čísla a
+úlohy. Proto to dal do uvozovek. To co je v uvozovkách je to podstatné.
+ _N_c_n_j [Muž] [Kategorie]
+19.11.2023 23:49:58
+Hrnek
+Tys opravdu imbecil, ze jo? Co ty pises ohledne zapisu je celkem jedno. Jde
+furt o totez, nelze to dle tebe vypocitat. Spravna odpoved pak ale nebude
+Nevime. Ze to nevime je mozne, ale neni to spravna odpoved ani na otazku v
+nadpisu, ani na chybne formulovanou otazku (chybi otaznik) nize.
+
+Ad Nevime, cos napsal
+Proto o tom, co napsal, vedeme diskuzi a odvolovame se na to, co napsal, ze.
+ poctarsky ymbecyl
+19.11.2023 23:45:29
+NCNJ napsal:
+
+mando: Žádný zlomek tam není. On tam má prostě 6:3.3, tak proč tam hledat
+zlomek. / není zlomek ale děleno.
+
+
+No to je právě to, co se jen domníváme. My se můžeme jen domnívat, že tím
+znakem "/" libik myslel děleno, nebo explicitně vyjadřoval znak pro oddělení
+čitatele a jmenovatele nebo co vlastně. Výsledek záleži na interpretaci. Když
+to vezmu do extrému, co kdyby to byl řetězec nějakého libikova formálního
+systému, kde ty znaky znamenají úplně něco jiného. Je to prostě záměrný
+trolling. Nenechal nám žádnou nápovědu a každý předkládáme výsledek v souladu
+s námi určenými pravidly.
+ mando
+19.11.2023 23:44:59
+ymbecyl: neslovíčkař. Já neříkám, že zápis je chybný. Já říkám, že jej
+nemůžeme přečíst. Slovo "more" taky není chybně napsané, v češtině sice
+neexistuje, ale to je fuk. Dva jazyky tohle slovo vedou a v obou je pravopisně
+správné. Otázkou je, jaký jazyk má autor na mysli.
+Zápis není chybný, jen je neúplný. Proto "nevíme". Odpověď ani není NaN,
+protože odpověď NaN je legitimní hodnota pro specifické klíče/tokeny daného
+jazyka.
+
+Problémem zde je mnohoznačnost. Kdyby autor chtěl hodnotu ve Wolframu, je to
+zápis ve Wolframu a je jeho odpovědnost zajistit faktickou správnost.
+
+Ve skutečnosti autor chtěl vyvolat flame, válku ohledně dvou existujících
+konvencí, které lze použít, a každému se pak smát, že haha ty se pleteš.
+Správná odpověď je: nevíme, cos napsal, nelze přiřadit absolutně žádnou
+odpověď, dokonce ani NaN.
+ _H_r_n_e_k_ _č_a_j_e [Muž]27 [Kategorie]
+19.11.2023 23:40:25
+Ncnj
+Dobre. Ale pokud pise, zde jde o vyraz, lze to prepsat do prikladu ruznymi
+zpusoby? Nebo vyraz a priklad je totez? A proc vlastne zjistovat spravny
+vysledek, kdyz libik se pta na to, kolik to vyjde? To jsou dve ruzny otazky
+prece. ;-)
+ poctarsky ymbecyl
+19.11.2023 23:38:08
+Hrnek
+Pred chvili si psal, ze spravna odpoved je Nevime a ted zase, ze neni. Tak s v
+tom udelej sam jasno.
+A jeste vic jasno si udelej v tom, na co odpovidas. Jedina otazka je totiz ta
+v nadpisu a tam stoji Kolik to vyjde. Na coz je mimochodem spravnou odpvoedi
+treba 3930430. Protoze ono to tak skutecne vyjde, za urcitych okolnosti, kdyz
+to budu pocitat chybne. Nebo 393. Nebo kterakoliv jina. Jak je to mozny?
+Protoze jsem mamlas jako ty a autor v otazce nenapsal nic o tom, ze ho zajima
+spravny vysledek a dotaz "Kolik to vyjde?" lze intepretovat ruzne. Hura,
+autism alias Hrnek alias Mr D ma o zabavu az do rana postarano.
+Skoc do zdi.
+[Smajlík]
+ poctarsky ymbecyl
+19.11.2023 23:38:00
+„Tím že nechal mezi / a 6 a 3 mezeru"
+
+Omlouvám se 6 a 2
+
+Blbý čísla... :D
+ _N_c_n_j [Muž] [Kategorie]
+19.11.2023 23:35:49
+poctarsky ymbecyl: Mohl to napsat trochu logičtěji „6/2(2+1)"
+
+Tím že nechal mezi / a 6 a 3 mezeru, tak to vyvolává pocit zlomku, ale zlomek
+to prostě není.
+„Chyták" může být právě v tom, že chtěl abysme uvažovali o zlomku a tak tam
+dal schválně tu mezeru u děleno.
+
+Jinak opravuji svůj příspěvek: „mando: Žádný zlomek tam není. On tam má prostě
+6:3.3, tak proč tam hledat zlomek. / není zlomek ale děleno."
+
+Abych byl přesný, překlep samozřejmě, chtěl jsem napsat 6:2.3
+ _N_c_n_j [Muž] [Kategorie]
+19.11.2023 23:33:12
+Hrnek
+Tys imbecil jako ja? Pokud je chyba v zapisu, tak odpoved Nevime neni spravna.
+Nepta se na to, zda vime, nebo nevime, ale jaky je vysledek. A pokud se k nemu
+nelze dobrat kvuli chybnemu zapisu, pak je spravnou odpovedi Nelze vypocist,
+Je chybne zadani apod. Nehlede na to, ze tam otazka neni. Chybi otaznik. Pokud
+se tak tocis na zapisu, pak je jedina otazka, ktera je spravne polozena, je ta
+v nadpisu.
+ poctarsky ymbecyl
+19.11.2023 23:30:47
+jitrnice:
+A je to: (6/2)(1+2) nebo 6/(2 * (1+2))? A proč?
+ _H_r_n_e_k_ _č_a_j_e [Muž]27 [Kategorie]
+19.11.2023 23:28:33
+Máte pravdu je to 9. Šest děleno dvěma je 3 a pak násobeno závorkou 3 a to je
+9.Pak se to počítá zleva doprava.
+ _j_i_t_r_n_i_c_e [Žena]75 [Kategorie]
+19.11.2023 23:24:13
+ymbecyl: autor nespecifikuje, zdá výraz v závorce roznásobuje jmenovat či celý
+zlomek (tedy čitatel), a protože neexistuje jediná závazná a upřednostňovaná
+konvence a autor sám neřekl nic o typografii, nelze ono zadání nijak
+interpretovat, taková interpretace je zatížena nejistotou.
+Takže ne, správná odpověď není, protože nevíme, jaký výraz máme napsaný.
+Nezkoušej mě nachytat na slově, moc ti to nejde. Snažíš se o to samé, o co jde
+autorovi.
+ _H_r_n_e_k_ _č_a_j_e [Muž]27 [Kategorie]
+19.11.2023 23:21:00
+To záleží, jestli použiješ běžný přednostní systém nebo reversní "polskou
+(prefixní) notaci". Výsledky mohou býti minimálně dva, pokud jsme v inerciální
+soustavě. :-)
+ Alda
+19.11.2023 23:20:45
+6
+------
+2(1+2)
+
+Takhle vypadá zlomek drahý přátelé.
+ _N_c_n_j [Muž] [Kategorie]
+19.11.2023 23:19:43
+Jak znam libika tak to je umysl a vypocitat to nelze. I kdyz nepolozil dotaz
+spravne tak je jasny ze to tak zamyslel asi a pak neni spravna odpoved Nevime
+ale Nelze vypocitat. Jak bych teda takove kraviny neresil a spis na to koukal
+jako na dva mozne zapisy kdy ten se zlomkem mi prijde pravdepodobnejsi.
+
+NCNJ: Dobre, neni. Ale kdyz pise o vyrazu, neni mozne ten vyraz prepsat na ten
+zlomek taky? Jestli neni rozdil mezi prikladem a vyrazem. Ptam se, nevim
+jestli je.
+ poctarsky ymbecyl
+19.11.2023 23:16:43
+jitrnice: Ale v tom zápisu zlomek právě není. Je tam jenom řada úloh zleva
+doprava.
+ _N_c_n_j [Muž] [Kategorie]
+19.11.2023 23:14:54
+mando: Žádný zlomek tam není. On tam má prostě 6:3.3, tak proč tam hledat
+zlomek. / není zlomek ale děleno.
+ _N_c_n_j [Muž] [Kategorie]
+19.11.2023 23:11:56
+Je to jedna, protože v čitateli zlomku je 6 ve jmenovateli je 2 krát 3 a to je
+6, takže máme pak zlomek šest šestin a to je jeden celek.
+ _j_i_t_r_n_i_c_e [Žena]75 [Kategorie]
+19.11.2023 23:09:02
+Hrnek pokud je zadani chybne pak odpoved Nevime neni spravna. Ze nevime je
+mozna pravda. Ale neni to spravna odpoved.
+Kdyz uz tak rad pises o zadani, tak si ho precti. V zadani neni ani otazka,
+aby se na ni vubec dalo odpovedet. Ani pak neni spravna odpoved Nevime, ale Je
+chybne zadani.
+Jedine spravne zadani je v nadpisu a tam je libik omezen tim, jak zapis
+provede. Pak lze na ten zapis koukat minimalne dvojim zpusobem. Bud je / totez
+co :, pak je vysledek 9, nebo jde o lomeny vyraz, pak je vysledkem 1.
+ poctarsky ymbecyl
+19.11.2023 23:07:09
+Tak nejdřív asi rozebrat tu závorku ne?
+
+Je to vlastně 6:2.3
+
+Jediný co dává logiku je to brát zleva doprava, takže:
+
+6:2=3.3=9
+
+Matika mi nikdy moc nešla, ale tohle je easy.
+ _N_c_n_j [Muž] [Kategorie]
+19.11.2023 22:56:53
+ymbecyl: jenže výsledek se odvíjí od toho, jaké je zadání. Když ti napíšu
+větu, k tomu, abys získal její znění v češtině, potřebuješ znát i jazyk
+původní. "More" má minimálně dva odlišné významy, v závislosti na jazyku.
+Výsledek zadání tedy závisí na tom, v jaké konvenci to píše. Nepsal nic o
+Wolframu, takže nemůžeme věc spolehlivě zadat do Wolframu. Jiný jazyk/program
+by zase interpretoval výraz jinak. Takže kde je pravda?
+
+Stále platí, že nevíme. Napsal něco, co nedokážeme interpretovat a nemůžeme to
+tedy spočítat. Existuje explicitní užití závorek, které vždy dává správný
+smysl, tenhle výraz, který by pár závorek fakt upřesnil, tam nejsou, takže
+wtf.
+ _H_r_n_e_k_ _č_a_j_e [Muž]27 [Kategorie]
+19.11.2023 22:55:28
+Pokud budeme resit zapis, pak uz samotna formulace "Jaka je hodnota" je
+chybna, nemluve o tom, ze to neni otazka a nema se na ni vubec odpovidat a
+jedina otazka je pak ta z nadpisu.
+[Smajlík]
+ poctarsky ymbecyl
+19.11.2023 22:54:04
+Tohle je defakto trolling na úrovni. Ne nějaké diskuze o ženách nebo panicích.
+ mando
+19.11.2023 22:51:25
+poctarsky ymbecyl: Já jsem na to nahlížel jako na výraz v programovacích
+jazycích, takže jsem se přikláněl k devítce, ale teď jsem si uvědomil, že v
+tom výrazu není explicitně znak pro násobení, takže ani tenhle pohled se nedá
+použít doslova, protože by se to ani nezkompilovalo (ve všech jazycích, co
+znám).
+
+Teď už si myslím, že cílem bylo spustit přesně tuhle debatu, která by se mohla
+táhnout až do aleluja. Všem nám je jasný, že výsledek může být 1 nebo 9, ale
+nikdo by ruku do ohně za jedno nebo druhé nedal, protože to prostě nejde, viz
+co psal Michal.
+ mando
+19.11.2023 22:49:59
+Hrnek caje
+Jenze autor se nepta na to, jestli to vime, ale jaky je vysledek. Jestli se to
+vypocitat neda, jedno proc, pak odpoved Nevime neni spravna.
+ poctarsky ymbecyl
+19.11.2023 22:49:33
+Nechce se mi to počítat. Je otázka, jak to pojmeš. Zkusil jsem na kalkulačce
+co mám v PC spočítat 6+2x3. Na standardní kalkulačce vyjde 24, na vědecké 12.
+To je důležité když pácháš nějaký program aby ti vycházelo co ti vycházet má a
+ne nějaká hausnumera dobrá akorát do sportky.
+[Smajlík]
+ Radič
+19.11.2023 22:46:19
+729
+ lol
+19.11.2023 22:44:10
+autism-off: autor nepsal nic o formátu zápisu ve Wolframu, a protože standard
+neexistuje, jediný, kdo má pravdu, je Michal. Odpověď je: nevíme.
+ _H_r_n_e_k_ _č_a_j_e [Muž]27 [Kategorie]
+19.11.2023 22:42:55
+Tohle není exaktní zápis a bez uvedení tebou zavedených pravidel nemá smysl
+odpovídat.
+Klasický "chyták", stojící na tom, že zápis neodpovídá absolutně žádnému
+upřednostňovanému standardu. Kdyby byl aspoň standardizovaný a existovala
+jedna jediná safa pravidel, která je uznávaná ISO nebo někým, OK, ale není.
+
+Proto matematické knihy mají v úvodu něco jako x/(y+z) znamená *obrázek se
+správným zápisem*. Říká se tomu typografická konvence.
+ _H_r_n_e_k_ _č_a_j_e [Muž]27 [Kategorie]
+19.11.2023 22:42:23
+V době, kdy nůše byla vzorem pro ženský rod, by výsledek byl 9
+ _k_a_i_t_e_n [Muž]58 [Kategorie]
+19.11.2023 22:24:49
+mando
+Pro ten pripad pisu vypocet cislo dve.
+Ale v zapisu je / a ne :. Mezi 6:2*3 a 6 / 2x3 je rozdil, nebo byt muze, kdyz
+to zapisu jako zlomek. A u toho zlomku pocitamm zleva doprava jen jmenovatele.
+Pak mi zbyva to 6 deleno nebo lomeno 6, coz je 1.
+Podle me je to ale jedna protoze lomeny vyraz je zlomek a ma se pri vypoctu
+postupovat jako by to zlomek byl a ne to brat jen jako deleno. Protoze lidi
+misto x (krat) pisou nekdy * a misto : pisou / a mysli tim totez, tak vychazim
+z toho, ze libik tim muze myslet opravdu deleni a pak se jede zleva doprava.
+Ale libik je matematik jestli si dobre pamatuju a podle me tim lomenem
+naznacuje ze jde o zlomek.
+ poctarsky ymbecyl
+19.11.2023 22:22:29
+poctarsky ymbecyl:
+
+Pokud je tam násobení a dělení současně, tak pak má přednost prostě jejich
+pořadí z leva.
+ autism-off
+19.11.2023 22:21:03
+To nikdo neví… protože nikdo neví jak daný výraz přesně interpretovat.
+ _M_i_c_h_a_l_-_2_2_2 [Muž]44 [Kategorie]
+19.11.2023 22:19:59
+_h_t_t_p_s_:_/_/_w_w_w_._w_o_l_f_r_a_m_a_l_p_h_a_._c_o_m_/_i_n_p_u_t_?_i_=_6_%_2_F_2_%_2_8_1_%_2_B_2_%_2_9_ :)
+ autism-off
+19.11.2023 22:08:54
+poctarsky ymbecyl: Nope bro, vypočteč závorku a výraz se ti zredukuje na 6/2*3
+a prostě jedeš jak píšeš zleva doprava, takže 9.
+ mando
+19.11.2023 22:06:52
+Ze se na to ptas a je tam nasobeni a deleni soucasne tak jde urco o ten typ
+prikladu kde jsou dva vysledky.
+Sectu zavorku, vynasobim dvema, to je sest. Sest deleno sesti je jedna.
+Vysledek je 1.
+Nebo provedu deleni protoze ma prednost a jedu zleva to vyjde tri a pak
+nasobim tri krat trik, vysledek je 9.
+Jestli je jen jedna moznost, dal bych 1, protoze jako prvni resim zavorky a
+jak vyresim zavorku tak bych mel myslim hned nasobit, pak uz zbyde jen to 6/6.
+ poctarsky ymbecyl
+19.11.2023 22:03:28
+
+[Smajlík]
+ Hodně.
+19.11.2023 21:58:14
+Pokud bych tohle napsal v programovacím jazyce, tak by výsledek měl být 9,
+protože násobení a dělení mají stejnou váhu a tak jedu prostě zleva doprava a
+udělám nejdřív 6/2 a pak to vynásobím tím, co je v závorce. Je to jakoby 6/2*
+(1+2). Kdybych chtěl, aby (1+2) bylo součástí jmenovatele, tak bych při tomhle
+zápisu musel napsat 6/(2*(1+2)
+ mando
+19.11.2023 21:54:57
+No to záleží, jestli je to (1+2) součástí jmenovatele toho zlomku, nebo ne.
+
+Pokud ano, tak je výsledek 1 a pokud ne, tak je výsledek 9.
+ mando
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ] _II_nn_tt_ee_rr_nn_ee_tt_oo_vv_?é_ _RR_?á_dd_ii_oo_ _SS_ee_zz_nn_aa_mm_kk_aa_ _vv_yy_ss_?í_ll_?á_ _ii_nn_zz_ee_rr_?á_tt_yy_ _ss_ _nn_?á_mm_ii_ _ss_ee
+ OPIŠ BEZPEČNOSTNÍ KOD: _ss_ee_zz_nn_?á_mm_?í_tt_ee_..
+ [Captcha]              _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+

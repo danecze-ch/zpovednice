@@ -1,0 +1,412 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+ Diskuze č.1226160, vloženo 25.11.2023 _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+ 16:41:03                              _s_t_r_á_n_k_a_]
+ Zpovědnice mě nakazila pythonstvím.
+ Je to řečeno trochu s nadsázkou, protože s tím Pythonem se člověk setkává
+ poměrně často i jinde.
+
+ Vždycky, když ale někde vidím python, tak mám pocit, že ty lidi vědí něco,
+ co já ne.
+
+ Proč Python jako? Proč bych volil na projekt Python? Jako co by to mělo být
+ za projekt, aby ideální volba byla Python (kromě teda AI, protože z nějakého
+ důvodu ty nejlepší knihovny jako Keras a Tensorflow jsou prostě originálně v
+ pythonu)? To je ten Django framework taková pecka v porovnání s jinýma?
+
+ Mně napadá jenom to, že je internet zaplaven noobíkama, co začínají na
+ Pythonu, protože je tenhle jazyk často zvolen pro první kontakt s
+ programováním a pak jako tihle lidi všude šíří logicky ten Python.
+
+ Nic proti Pythonu jo, jenom proč když je někde něco o programování, tak
+ maximálně do pár příspěvků je tam PYTHON!
+  mando [Muž]33  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+26.11.2023 19:23:43
+Michal-222: Python pro realnou praci urcite vhodnej je, jeden muj korporatni
+zakos ma celej team pythonistu a urcite se neflakaj.
+[Smajlík]
+ Psoug
+26.11.2023 14:36:37
+Psoug:
+"a priznam se ze mi ta syntaxe nesedi"
+To mě taky né. Já vlastně python skoro nepoužívám, ani ho nijak zvlášť neumím
+(i když si říkám, že bych se to na stará kolena naučit mohl), jen si prostě
+myslím, že na začátek je to docela dobré. Člověk nemusí přemýšlet nad
+pitomostmi a může přemýšlet nad kódem.
+...
+Nakolik je to vhodné pro reálnou práci to nedokážu posoudit, jak říkám - já v
+tom nedělám.
+ _M_i_c_h_a_l_-_2_2_2 [Muž]44 [Kategorie]
+26.11.2023 12:05:28
+Ja pisu typ apliakci pro kterej se imho python uplne nehodi (microservisy) a
+pak me na tom stvou jiny veci:
+
+- balicky a zavislosti - pokud nekomu posles python skript nemusi mu bezet
+stejne a nebo vubec protoze jina verze knihoven (tohle vypada jako blbost ale
+uz me to nekolikrat vypeklo). Resenim je nejakej packaging ale to uz mi prijde
+trochu jako kanon na vrabce obcas.
+- rychlost (spis teda nerychlost)
+- mizerna podpora concurency/async (mozna se to uz zlepsilo).
+
+
+..a priznam se ze mi ta syntaxe nesedi.
+
+
+konec brblani :)
+ Psoug
+26.11.2023 11:51:40
+"Zatímco v céčku bych tím strávil nejspíš několik hodin či dní, než bych
+napsal a odladil funkce pro násobení (či dokonce dělení) libovolně velkých
+celých čísel... "
+A ještě bych potřeboval ten python na to, abych si mohl zkontrolovat, že mi to
+počítá správně...
+[Smajlík]   [Muž]44 [Kategorie]
+ _M_i_c_h_a_l_-_2_2_2
+26.11.2023 11:50:09
+Psoug:
+Tak jasně - třeba vynásobit dvě čísla s plovoucí desetinnou čárkou na
+procesoru, který to nativně neumí ... s tím můžeš strávit i několik dní. Což
+je opravdu přesně to, po čem touží každý, kdo se učí programovat...
+...
+To se mě třeba líbí na tom pythonu, že se nemusím starat o to, jak jsou celá
+čísla velká. Můžu napsat číslo, co má padesát číslic, a python s tím nemá
+nejmenší problém. Což třeba, když chce člověk pochopit jak funguje to
+asymetrické šifrování (RSA) se docela hodí. Zatímco v céčku bych tím strávil
+nejspíš několik hodin či dní, než bych napsal a odladil funkce pro násobení
+(či dokonce dělení) libovolně velkých celých čísel...
+...
+Mě jako bohatě stačila ke štěstí taková ta úloha - kolik sekund je mezi
+23.5.2017, 5:27:31 a dneškem...
+ _M_i_c_h_a_l_-_2_2_2 [Muž]44 [Kategorie]
+26.11.2023 11:40:41
+Jinak uprimne receno - ono na kodeni v assembleru toho zas tak moc neni, pokud
+to teda neni nejakej rozsahlejsi projekt.
+[Smajlík]
+ Psoug
+26.11.2023 11:38:37
+Michal-222: Na jednu stranu mas pravdu, na druhou si myslim ze je fajn o te
+architekture neco vedet, protoze Ti to umozni videt "za roh". Jasne zalezi na
+tom co pises a troufnu si tvrdit ze v 99,99% aplikaci to asi potrebovat
+nebudes, na stranu prave ta desetina promile muzou bejt ty zajimavy ulohy,
+kvuli kterej to za tu namahu stoji. A pak ja mam radost z toho "wow" efektu,
+kdyz neco pochopim. A taky me vzdycky tyhle veci fascinovaly.
+
+Btw: kdybys chtel prejit treba na modernejsi Rust, tak se ti tam tyhle
+znalosti budou docela hodit, protoze i diky nim pochopis proc ten vyzaduje to
+co vyzaduje.
+[Smajlík]
+ Psoug
+26.11.2023 11:26:12
+No ono to tak vyznělo, že kdo nedokáže napsat program přímo v assembleru a
+ještě si ho sám slinkovat, tak ani není programátor...
+Já ještě pamatuju i blázny, co si napsali vlastní překladač nebo vlastní
+DPMI...
+...
+Ale v tom je právě kouzlo těch vyšších jazyků, že člověk nemusí přemýšlet o
+tom, jak to má napsat, ale soustředí se jen na to co vlastně chce napsat. A k
+tomuhle má céčko ještě dost daleko. Všechny ty věci s pointery a adresami ...
+jako když chci psát operační systém, driver nebo program pro jednočip tak je
+to super, ale pro obecné programování je to k ničemu. Když dělám program, tak
+mě nějaké fyzické adresy vůbec nezajímají. Vlastně mě nezajímají vůbec žádné
+adresy ... nepotřebuji to k ničemu vědět. Proměnné jsou proměnné, mají si
+pamatovat, co do nich napíšu, a jestli je to "na nějaké adrese" nebo "v
+databázi" mi může být celkem jedno.
+...
+Podle mě je to spíš deformace než užitek, jak to psaní v céčku člověka
+poznamená, že za vším vidí ten procesor a paměť a zásobník a fyzické adresy...
+ _M_i_c_h_a_l_-_2_2_2 [Muž]44 [Kategorie]
+26.11.2023 11:05:58
+Michal-222: To si spatne pochopil, to neni o frajereni ale o cire nostalgii a
+vzpominani na stare dobre casu nebe bylo modrejsi a opravdovi chlapi psali
+plynulej scroling v assembleru :)
+
+Ad driver ve windows - nevim :)
+[Smajlík]
+ Psoug
+26.11.2023 10:51:10
+mango+Psoug:
+Když už tu chcete frajeřit, tak se neohánějte 30 let starýma a dávno mrtvýma
+věcma (ohledně 16-bitového programování na PC) a napište něco užitečného,
+třeba jak se dá udělat driver do Windows...
+[Smajlík]   [Muž]44 [Kategorie]
+ _M_i_c_h_a_l_-_2_2_2
+26.11.2023 07:37:18
+Python je jeden z nejlepších skiptovacích jazyků, chybělo málo a mohl být i
+výborným shellem. Také je jeden z nejlepších interpretovaných jazyků.
+
+NumPy a co následovalo je až neuvěřitelné. Django je z jiné doby a tuhle niku
+má obsazen WordPress. Takové FastAPI je ale jiná.
+
+Pokud člověk dělá svědomitě testy, má promyšlenou koncepci, vychází z jasného
+zadaní a cíle... Tak potom tolik nebojuje s dynamickou kontrolou (tak jsi měl
+doprdele zahlásit, že ti tam nemůžu poslat integer ty interpretovaný
+debile...), a pylint mu odchytí spoustu věcí, které jsou v čistém Python
+výsměchem programátorům.
+
+Na Python mi vadí hlavně imperativnost, garbage collector a přílíšná
+objektovost. Ale na rychlé proof of concept, skripty, jednoduché věci (třeba
+machine learning) je dobrey.
+ galfi
+25.11.2023 21:59:51
+Mando: v pohode - jen imho neni 64kb vs 1mb. Bud mas segmentaci, tedy
+realmode, kde pouzivas segment registr (es, ds, ss, cs apod) plus offset a
+nebo mas strankovani kde si pamet popises deskriptorama a jedes pres 4kb
+stranky (v zakladu, pripadne pouzivas huge pages 16mb tusim). Jako jo v zasade
+si to vysvetlil asi dobre.
+
+Jinak dnesni systemy swapujou az v hodne krajnim pripade paac treba diky
+ruznejm optimalizacim to neni ani potreba. Napriklaf pokud si proces rekne o
+100mb pak je sice virtualne dostane ale fyzicky se mu prideli az ve chvili kdy
+si na ne ten process hrabne. Takze teoreticky kdyz si deset procesu rekne
+1Gb a ty mas jen 4gb tak to vubec nemusi bejt problem a ani system nebude
+swapovat
+
+Dalsi takova finta je treba mapovani souboru do pameti, kdy je v pameti
+vzdycky jen kousek souboru se kterym se pracuje. V nejkrajnesim pripade
+pripade muze prijit treba oom killer a proces sejmout.
+
+Omlouvam se - memory management kdysi bylo moje oblibeny tema :)
+[Smajlík]
+ Psoug
+25.11.2023 21:47:06
+Psoug: A kde jsem co pletl? Já jsem jen vysvětlil termíny, co padly.
+ mando
+25.11.2023 21:30:57
+Jo jinak jeste sem si vzpomnel ze micropython se sem tam pouziv v IoT
+ Psoug
+25.11.2023 21:29:25
+Jinak k diskusi:
+
+Osobne bych python asi nevolil nikde, protoze mi psani v nem neprinasi
+poteseni. Na druhou stranu se hodne pouziva v toolingu, automatizaci (ansible
+je postavenej na pythonu), mozna nejake microservisy.
+
+Python je imho popularni proto, ze si ziskal povest jazyka kterej je vhodnej
+pro zacatecniky.
+
+Rad programuju v Go, coz je imho jazyk, kterej tu moc chybel.
+
+A pak me hodne bavi Rust, ale nemam koule v nem zatim psat neco slozitejsiho,
+protoze bych se tim musel hodne protrapit a ted na to ten cas proste nemam.
+Ale ten jazyk je bozi uz jen tim, ze clovek ma radost, kdyz pochopi na jakejch
+principech funguje (borrowing, lifetimes apod).
+[Smajlík]
+ Psoug
+25.11.2023 21:14:42
+Mando: pletes tak trochu vic veci dohromady
+
+od 286 vejs umely procesory dva zakladni rezimy:
+
+Real mode - segmentace pameti jak ji popisujes a teoretickej limit 1mb. DOS to
+umel obejit pres specialni driver himem.sys. Asi pred 20 lety bych Ti i popsal
+jak funguje ale dnes to po menuz nechtej :).
+
+Protected mode: strankovani pameti po 4kb strankach. 286 (ac 16bitova) umela
+protected mode s nejakejma omezenima taky (myslim ze se treba nedalo zpatky
+prepnout do real modu).
+
+Dos bezel v real modu a aby aplikace (treba hra), mohla bezet v protected mode
+musela mit extender (watcom c a jeho slavne dos4gw), ktery zapnul chranenej
+rezim a pres api ho zpristupnil programatorum toho daneho softu.
+
+Real rezim je dnes prakticky mrtvy, cpu v nem pouze startuje (a mozna uz dnes
+ani to ne).
+
+Jinak pametove modely tiny, small apod byly o tom jak byl rozdelen kod. Tiny
+model rikal ze data i kod jsou v jednom segmentu a vysledna binarka se pak
+kompilovala do com souboru a byl vzdy mensi nez 64kb. Small rezim mel segment
+pro data a segment pro kod (exe), zbytek uz si nepamatuju. Nakonec jsme
+skoncili u nejakeho extenderu (programová v asm) a psali v protected mode.
+ Psoug
+25.11.2023 18:43:21
+Konec konců není náhoda, že se v zádech pythonu objevil hned květák, to k tomu
+poslednímu odstavci.
+ mando
+25.11.2023 18:40:37
+!!!!!!!!!!!!!!!!!!!DOPORUČENÉ ČTENÍ PRO VŠECHNY
+PROGRAMÁTORY!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+Michal-222: No tak to už si ještě o úroveň niž bych řekl. Nevím jestli Python
+už byl v době, kdy ještě MMU jednotka procesoru nepodporovala stránkování,
+protože to byl ten problém restartu kompu, když se něco posralo. Všechny
+procesory totiž operovaly v jedné fyzické paměti a klidně jeden proces mohl
+hrabat do paměti jinému procesu, takže stačil bug v jedné appce a adios.
+
+Tohle už dlouho neplatí, protože procesy používají logický/virtuální adresový
+prostor a tzv. flat memory model, kdy každý proces vidí pameť, jako kdyby ji
+měl celou pro sebe a operační systém udržuje pro každý proces takovou
+hierarchicou tabulku stránek (ve spolupráci s MMU), která pak slouží pro
+mapování mezi těmi logickými/virtuálními adresami na fyzické. Pokud tedy
+explicitně nenaalokuji nějakou sdílenou pameť, tak jeden proces nikdy nemůže
+hrabat do paměti jiného procesu (pokud není bug v jádře OS), protože adresa
+66666666h jednoho procesu je ve fyzické paměti úplně jinde, než adresa
+66666666h jiného procesu.
+
+OS i managuje odkládání nepoužívané paměti na disk, tzv. swapování, takže
+klidně mohu mít fyzicky 4GB paměti a 10 procesů, kde každý používá 1GB paměti
+(bude to pak ale zpomalené jako prase kvůli neustálému swapování).
+
+Co se týče toho adresování 64kb vs 1MB, tak to bylo v době 16 bitových
+procesorů. Takový procesor mohl adresovat jen 2^16 paměti, což je těch 64kb.
+Aby mohl adresovat víc, tak se inženýři rozhodli, že logická adresa bude
+tvořena dvěma 16bitovými registry, tzv. segment:offset adresace. Mám tedy dvě
+16-bitové hodnoty, jednu posunu o 4 bity doleva a pak je sečtu, tím dostanu 20
+bitů a 2^20 už je ten 1 mega. Fyzická adresa byla tedy 20bitová. Programátor v
+assembleru na to musel myslet. Cčkaři tohle podle mě neřešili, za ně na to
+myslel kompilátor.
+
+No a ten hlavičkový soubor je zase potřeba pro kompilaci, protože kompilátor
+když kompiluje jednolivé soubory se zdrojákem do tzv. objektového kódu, tak
+musí vědět, jaké symboly jsou k dispozici, aby případně zahlásil chybu, když
+uvidí, že se ve zdrojáku volá funkce, která tam není definovaná a ani není
+deklarovaná skrz hlavičkový soubor. Ono to všechno dává smysl, akorát se to
+může zdát na začátku moc. Pythonista tohle neřeší, protože Python je
+interpretovaný jazyk. Tam ti k chybě, že voláš funkci, která neexistuje, dojde
+až v momentě, kdy ji voláš a ne při nějaké kompilaci. Importy ale musíš mít v
+pohodě i tak, takže +- to vyjde nastejno.
+
+Na závěř jsem si chtěl rýpnout do pipinek s brýlemi, sedícími v kavárně s
+macbookem, otevřeným editorem se třemi řádky pythonu a hashtagem #hardwork. To
+je totiž pro mě trochu ten Python. Takovej symbol programování, protože chci
+být cool a sbírat lajčíky.
+
+Ale jinak jako nic proti tomu jazyku, asi vlastně spíš mám něco proti většině
+těch, co ho používají. Myslím, že když se postaví do řady 10 programátorů, tak
+poznám, kdo dělá python!
+ mando
+25.11.2023 18:27:49
+Django? Na weby bych urcite nevolil python.
+Je to vhodny na vedecky vyzkumy a strojovy uceni. Nemusis bejt programator a
+zvladnes v tom vsechno nabastlit. Vemes vysledky a zase to smazes. V tom je ta
+sila.
+ lol
+25.11.2023 17:54:07
+Prog: Já to měl poměrně brzo, protože jsem chodil na nepovinný předmět, takže
+to se bavíme tak o roce 2003.
+
+Květák: No tak jasný vzhledem k tomu, že tyhle věci už existují nějakou dobu,
+tak se nedivím a mohlo to začít jako startup nějakýho květáka. I Google/
+Instagram/Netflix/... používají Python. Ale že by dneska někdo jako main jazyk
+pro svůj backend zvolil Python. Nevím nevím, to bych si rád přečetl nějaký
+tech blog a zdůvodnění jiné, než že s tím byli nejvíc confident.
+
+Já bych osobně Python zvažoval jen v případě, že bych potřeboval provádět
+nějakou automatizaci, nějaké skripty a nechtěl bych udržovat nativní skripty
+pro každou platformu. Tam jako mi Python dává smysl vzhledem k jeho
+vlastnostem a že se nemusí kompilovat.
+
+Anyway nechci Python urážet jo, spíš bych rád pochopil ty, co ho tak
+prosazují, jestli k tomu mají nějaký jiný důvod, než že nic jiného neumí.
+ mando
+25.11.2023 17:51:08
+Zas začínat s programováním na céčku není podle mě úplně to pravé ořechové.
+Sám jsem to tak měl ... no a prostě, člověk má co dělat, aby vůbec pochopil
+základní myšlenky programování, a místo toho musí řešit ptákoviny které s
+vlastním psaním kódu souvisí jen pramálo - jako jsou ty hlavičkové soubory,
+překladač a jeho nastavení, to, že to při každé chybě vytuhne (což za mého
+mládí znamenalo restart počítače) ... k tomu ještě pointery, protože bez nich
+se v céčku nic naprogramovat nedá...v 16bitovém dosu k tomu přibyly ještě
+paměťové modely (tiny, small, medium, compact, large, huge - už ani úplně
+přesně nevím, co to bylo, ale souviselo to s tím, že v 16bitovém kódu šlo
+přímo adresovat jen 64kB paměti a nepřímo tuším 1mega).
+
+V Pythonu nic z tohoto není, tam si v klidu napíšu
+a = 1
+b = 2
+c = a + b
+a ono to chodí, přímo na příkazové řádce.
+
+Nemusím deklarovat proměnné ... je otázka, jestli je to dobře nebo špatně, ale
+když člověk začíná, je to jen další starost navíc. A čas, který ušetřím tím,
+že nemusím bádat nad tím, co jsou pointery a proč je potřebuji při obyčejném
+zavolání funkce mohu využít k tomu, že se naučím třeba objektové programování,
+což v čistém céčku nejde vůbec.
+ _M_i_c_h_a_l_-_2_2_2 [Muž]44 [Kategorie]
+25.11.2023 17:37:16
+"V pythonu je napriklad vicemene veskery backend uloz.to..."
+
+Protože jsi ho dělal ty, co?
+[Smajlík]
+ Prog
+25.11.2023 17:35:41
+mando: já sem starší než uvádíš ty a myslel jsem, že za nás Pascal už zpíval
+labutí píseň... A koukám, že to jelo eště nejmíň 10 let. Aspoň u školních
+tabulí. I ty Delfy mi přišly zastaralý už za nás...
+ Prog
+25.11.2023 17:34:15
+To, ze nevidis dale nez za sva humna, me vubec neprekvapuje.
+
+V pythonu je napriklad vicemene veskery backend uloz.to, stream.cz, spousta
+dalsich sluzeb Seznamu..
+
+A ne, Django framework opravdu moc pecka neni.
+ Kvetak
+25.11.2023 17:16:26
+Prog: Přesně Pascal a pak C, to byly i moje základy programování ve školních
+institucích. Já jsem pak chvíli musel valit Delphi, ale jinak taky jako Pascal
+pak už nikdy. Nicméně ta dnešní doba, že začínáš s Pythonem...to je prostě
+stejně v p*deli jako celej svět plnej "influencerů" a.k.a retardů na tiktoku.
+ mando
+25.11.2023 17:12:43
+"K něčemu takovýmu jako python bych ani nepřivázal čokla"
+
+:D:D:D tak tohle je REKT roku 2023
+ mando
+25.11.2023 17:12:27
+Ale možná máš pravdu, že je to novodobej jazyk pro začátečníky. A tak když se
+někdo horko těžko naučí základy programování, tak pro něj neexistuje nic než
+"python". "Programování = Python". My se učili nejdřív Pascal (už tak nějak
+dodělával a nahrazovalo ho C), a taky jsem pak Pascal v praxi nikdy nepoužil.
+A před ním byl Basic, Fortran, Karel... ty už dneska ani skoro nikdo nezná.
+
+Každopádně nemám zájem zjišťovat, co je tenhle "python" zač, a netoužím po
+přesvědčování, jak je užitečnej. Mám na něj alergii.
+ Prog
+25.11.2023 17:00:21
+Podle mě to tady furt píše jeden jedinej člověk POSEDLEJ tímhle pythonem.
+(Maximálně dva.) Já programuju nejmíň 20 let a v životě sem žádnej "python"
+nepotřeboval a prakticky jsem o něm neslyšel - až tady. K něčemu takovýmu jako
+python bych ani nepřivázal čokla. Ani nevim proč...
+ Prog
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ] _II_nn_tt_ee_rr_nn_ee_tt_oo_vv_?é_ _RR_?á_dd_ii_oo_ _SS_ee_zz_nn_aa_mm_kk_aa_ _vv_yy_ss_?í_ll_?á_ _ii_nn_zz_ee_rr_?á_tt_yy_ _ss_ _nn_?á_mm_ii_ _ss_ee
+ OPIŠ BEZPEČNOSTNÍ KOD: _ss_ee_zz_nn_?á_mm_?í_tt_ee_..
+ [Captcha]              _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+

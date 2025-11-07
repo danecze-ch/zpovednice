@@ -1,0 +1,306 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+ Diskuze č.1226395, vloženo 30.11.2023 _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+ 12:45:55                              _s_t_r_á_n_k_a_]
+ 0.999periodických = 1 - víte to?
+ spousta lidí nechápe že 0.9periodických je stejné číslo jako 1.
+
+ A PŘITOM platí že 0.9periodických = 1
+
+ Chápete to? Proč se ty lidi trochu nezamyslí???!!! Vždyť to je tak
+ jednoduché na ověření.
+  matematický genius [Muž]69  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+01.12.2023 00:46:14
+Do not approach: Co to máš proboha za kalkulačku?
+Ta patří nějakému okresnímu tajemníkovi na přerozdělování dotací ne?
+Jako že těch 10 milionů rozdělí mezi tři subjekty a zbylých devět melounů
+nenápadně do kapsy?
+Nebo kam ti zmizely?
+[Smajlík] [Muž]45 [Kategorie]
+ _h_o_m_i_n_i_d
+30.11.2023 21:35:31
+Ono se tomu (ne)zaokrouhlování nějak říká (ale už jsem zapomněl jak). Když se
+něco počítá z naměřených hodnot nebo převádí něco na něco jiného a
+nezaokrouhluje se, vyjde přesný výsledek z nepřesných čísel.
+Například kdyby bylo někde psáno že vzdálenost je asi deset mil, jedna míle je
+
+1,609344 kilometru tak koumák co to překládá koukne do tabulek a napíše, že
+vzdálenost je asi 16,09344 kilometrů.
+
+Na přednášce nám fyzik říkal, že největší umění ve fyzice je něco šikovně
+zanedbat.
+[Smajlík]
+ Radič
+30.11.2023 21:16:06
+Michal222: "Jen je s tím nějaká ta práce navíc ohlídat, aby nám někde
+mezivýsledky "nepřetékaly". "
+
+Třeba DSP procesory počítající v pevné řádové čárce (typ integer, nikoliv
+word, tj. zxnaménková pevná čísla) mají akumulátor 64-bitový nebo 96-bitový a
+při přetečení, podtečení nastaví flag do stavového registru a v akumulátoru je
+automaticky nastaveno maximum, resp. minimum (při podtečení, minimum je
+záporné číslo), takže stačí instrukce podmíněného skoku při nastaveném flagu.
+
+U DSPčka si nastavením příznaku v řídícím registru můžeš vybrat mezi počítáním
+integer nebo fractional (plovoucí). Rychlost výpočtů (násobení, delění,
+sčítáí, odčítání) je stejná, pouze u fractional trvá déle výpis/zobrazení
+čísel a převody před aritmetickými operacemi. Taky jsou pro oba datový formáty
+stejný aritmetický instrukce...
+ JDCM
+30.11.2023 21:14:36
+Michal-222 : tak ale to je chyba toho programu. Když dělám program, který
+potřebuje operovat s nějakou přeností na desetinná čísla, tak do něj nervu
+"floating point" typy proměnných.
+ _l_i_b_i_k [Muž]34 [Kategorie]
+30.11.2023 20:54:23
+libik:
+Člověk si nakonec vystačí i s celými čísly, když to jinak nejde. Délky se
+nemusí udávat v metrech, ale třeba v nanometrech a čas v pikosekundách - a pak
+už nám stačí jen celá čísla. A není to nic výjimečného, spousta výpočtů se
+dělá v celočíselné aritmetice, protože je to prostě rychlejší. Hádám, že třeba
+dekódování digitální televize by klidně mohlo být příkladem.
+Jen je s tím nějaká ta práce navíc ohlídat, aby nám někde mezivýsledky
+"nepřetékaly".
+...
+Navíc, výpočty s desetinnými čísly skýtají neočekávané zrady. Pokud třeba
+napíšu program, který přičítá 0.2 a testuje, jestli už to dosáhlo hodnoty 1
+(nebo třeba 5), může se snadno stát, že to udělá špatně. Protože i když v
+desítkové soustavě je číslo 0.2 pěkným číslem, tak ve dvojkové soustavě už
+není (je periodické) a počítač si přesně 0.2 uložit nedokáže a musí si ho
+trochu zaokrouhlit. A pak se může stát, že 5x0.2 není přesně jedna, ale o něco
+méně nebo o něco málo více.
+ _M_i_c_h_a_l_-_2_2_2 [Muž]44 [Kategorie]
+30.11.2023 20:31:16
+"Tam byly rozměry měřeny s přesností na řád tisíciny milimetru."
+To bych docela chtěl vidět, to měření s přesností na tisíciny milimetru...
+[Smajlík]   [Muž]44 [Kategorie]
+ _M_i_c_h_a_l_-_2_2_2
+30.11.2023 20:30:00
+LDV - no já měl na mysli, když to musíš dopočítávat. Tj. znáš pár vstupů jako
+třeba kruh o průměru 30mm a musíš několikrát provést výpočet než se dostaneš k
+tý součástce - dokud bych nebyl u konce, tak bych předpokládal že počítám se
+zlomkama a u iracionálních čísel třeba se znakem pí - a až úplně na konci to s
+nějakou přesností vynásobím, vydělím, sectu a zaokrouhlím na nějakou
+pozadovanou přesnost
+ _l_i_b_i_k [Muž]34 [Kategorie]
+30.11.2023 20:16:54
+libik:
+
+Dám ti příklad. Např. má být vyrobena díra o jmenovitém rozměru 30 mm, s
+tolerancí např. H6.
+Tolerance H6 pro rozměr 30 je interval 30,000 až 30,016 mm.
+
+Viz např.
+_h_t_t_p_s_:_/_/_w_w_w_._m_i_k_o_n_-_t_o_o_l_s_._c_z_/_m_e_z_n_i_-_u_c_h_y_l_k_y_-_t_o_l_e_r_a_n_c_n_i_c_h_-_p_o_l_i_-_u_-_d_e_r_-_a_-_h_r_i_d_e_l_i_/_ 
+
+Takže to je úplně jednoduchá matematika. Buď je rozměr v rámci daného
+intervalu nebo není.
+Ale prakticky, když by ten rozměr byl např. 20,017 tak by to asi stejně
+pustili do montáže, protože ta jedna tisícina navíc by nebyla tak zásadní.
+ _L_D_V [Muž]46 [Kategorie]
+30.11.2023 20:07:21
+19:51:24
+Já jsme praktik a ne teoretik. Pracoval jsme nějakou dobu ve strojírenské
+výrobě. Tam byly rozměry měřeny s přesností na řád tisíciny milimetru. Takže
+nějaký periodický čísla jsme tam řešit nemuseli :)
+LDV
+-----
+Čistě ze zvědavosti - ale předpokládal bych že počítáte se zlomkama "dokud to
+jde" a zaokrouhlujete až na konci výpočtu, kde se prostě musí něco uříznout o
+určité vzdálenosti. Nebo to funguje jinak?
+ _l_i_b_i_k [Muž]34 [Kategorie]
+30.11.2023 19:51:24
+Já jsme praktik a ne teoretik. Pracoval jsme nějakou dobu ve strojírenské
+výrobě. Tam byly rozměry měřeny s přesností na řád tisíciny milimetru. Takže
+nějaký periodický čísla jsme tam řešit nemuseli :)
+ _L_D_V [Muž]46 [Kategorie]
+30.11.2023 19:28:14
+Jde o to, jestli vážíš mouku na vánoční pečivo, na kalkulačce přepočítáváš
+recept na jiné množství, tak tam můžeš zaokrouhlit.
+Pokud píšeš program, kde se může počítat
+a : (1 - x)
+a x může nabývat těch 0,999..., tam se to okrouhlit nemůže a musí se to nějak
+ošetřit.
+[Smajlík]
+ Radič
+30.11.2023 19:08:46
+Každopádně - když už chceme používat periodická čísla, jakkoliv se to zdá
+intuitivní, musíme si nadefinovat, co rozumíme součtem nekonečné řady. A
+musíme si to ideálně nadefinovat tak, aby to neodporovalo normálnímu sčítání.
+A dost těžko to uděláme bez představy limity.
+....
+I tak lze nekonečné řady sečíst mnoha různými způsoby, a některými z nich lze
+sečíst i řady, u nichž bychom to vůbec nečekali, jako třeba 1 + 2 + 3 + 4 +
+5... (a jako že to nevyjde nekonečno).
+ _M_i_c_h_a_l_-_2_2_2 [Muž]44 [Kategorie]
+30.11.2023 18:55:16
+Důkaz je celkem jednoduchý. Nechť
+
+x = 0.99999...
+10x = 9.99999...
+
+Když to od sebe odečteme, dostaneme že 9x = 9, tedy x = 1.
+
+
+Podobným trikem lze periodická čísla převádět na zlomky. Když budeme mít třeba
+
+
+x = 0.727272...
+100x = 72.727272...
+
+Po odečtení máme 99x = 72 => x = 72/99 = 8/11
+ _M_i_c_h_a_l_-_2_2_2 [Muž]44 [Kategorie]
+30.11.2023 18:35:00
+Nesmysl.
+Má kalkulačka podává jasný důkaz:
+10/3 = 0,333333333333333333333333333333
+To*3 = 0,999999999999999999999999999999
+[Smajlík]        [Žena]86 [Kategorie]
+ _D_o_ _N_o_t_ _A_p_p_r_o_a_c_h
+30.11.2023 18:32:23
+Já mám spíš dojem, že to není 1, ale 0.
+Teď jsem chtěl vytisknout vektorovou grafiku v grafickým programu, a některý
+části to za boha nechtělo vytisknout. Po důkladným zkoumání jsem zjistil, že
+některý objekty nemaj neprůhlednost 100%, ale jen 99,9.
+Takže 99,9% = 0.
+[Smajlík]
+ Enchápu
+30.11.2023 15:36:48
+Ja tomu verim. Je to tak i v prirode.
+Zena je taky takovej clovek akorat teda s periodou.
+0.999999... je zenska verze.
+1 je muzska verze.
+A proto casto plati, ze 1 + 0.99999... = 2 a vice.
+ lol
+30.11.2023 14:57:20
+Hominid - To je docela zajímavost, že moderní matematika už umí achilla a
+želvu vyřešit. A v nekonečně iteracích opravdu achilles želvu dožene. (a
+jelikož si i nekonečně zmenšuje čas během každé iterace, kde se vzdálenost
+zkrátí na polovinu, tak i v konkrétním čase)
+
+A tedy v nekonečnu je i 0,9 periodických rovno jedné.
+
+Hlavní je si nepředstavovat nekonečno jako "velké konečno" nebo že "pořád
+pokračuješ dál a dál a nikdy ho nedosáhneš".
+
+0,9 periodických už nekonečno devítek má, není třeba je vypisovat nebo
+přemýšlet nad tím, že "nikde nekončí", prostě to tak je.
+ matematický genius
+30.11.2023 14:29:33
+Nějak mi to ořezalo periodický značky 0.33// a 0.99//
+
+Ten PHP zpovednicovej script je blbě naprogramovanej
+ rcall
+30.11.2023 14:29:28
+0,9 s periodou je logicky vždy menší než 1.
+To je jak ten Achilles, co želvu nikdy nedohoní....
+[Smajlík] [Muž]45 [Kategorie]
+ _h_o_m_i_n_i_d
+30.11.2023 14:27:07
+Myslel jsem, že narážíš na nepřesnost počítačů, ukládání f.p. proměnných do
+konečného množství bytů.
+
+Jinak matematicky 0.99 = 1, ale to se učí už na ZŠ někde v 7.třídě, tak mě ani
+nenapadlo, že to někoho, kdo umí s počítačem, bude vůbec překvapovat.
+
+Matematicky musí platit (1/3)*3 = 1
+a
+1/3 = 0.33
+
+tedy 3*(1/3) = 0.99 = 1 musí být správně.
+ rcall
+30.11.2023 14:11:02
+rcall: Sice máš v tom co píšeš pravdu, ale to nijak nekoreluje s topicem.
+
+Jakékoli číslo s konečným počtem devítek u 0.9999... opravdu není rovno jedné.
+
+Pointa znaménka periody je, že značí NEKONEČNO opakování, nikoli velké konečno
+:).
+ matematický genius
+30.11.2023 13:58:45
+Všechny výpočty v plovoucí řádové čárce (float point, real, double rel,
+extended real, ... a to nejenom periodická čísla) jsou více či méně zahrnuty
+chybami - je to jednak zaokrouhlováním na dané počty desetinných míst, ale
+především množstvím bytů, kam se float point ukládají.
+
+Například číslo v obecném real je uloženo v 8bytech, z nichž mantisa zabírá 7
+a exponent 1.
+
+Nejvyšší bit mantisy je znaménkový, nejvyšší bit exponentu je znaménkový.
+
+Toto platí jak pro sálové, velké počítače, tak i obyčejná PC nebo kalkulačky
+za pár korun.
+
+Příklad na mé kalkulačce:
+0.9 + 9E-2 = 0.99
+0.99 + 99E-4 = 0.9999
+...
+0.9999999 (maximální rozlišení LCD displeje na kalkulačce) + 99E-9 = 1 ...
+haaaa :-(
+ rcall
+30.11.2023 13:30:52
+Limita jako taková důkaz není. Limita je konstrukce, která říká čemu se daná
+funkce blíží, není jednoznačné, zda té hodnoty dosáhne či nikoli.
+ matematický genius
+30.11.2023 13:26:46
+Ano, vím, že 0,999periodických = 1. Je to matematický důkaz, který lze provést
+několika způsoby. Jeden z nejjednodušších způsobů je použít limity.
+
+Zvaž posloupnost čísel s(n) = 0,999..., kde n je počet desetinných míst. Pro
+každé n je s(n) menší než 1, ale jak n roste, s(n) se nekonečně přibližuje k
+1. To znamená, že limit s(n) jako n roste k nekonečnu je rovný 1.
+
+Matematicky lze toto vyjádřit jako:
+
+lim_{ntoinfty} s(n) = 1
+To znamená, že 0,999periodických = 1.
+
+Zde je graf posloupnosti čísel s(n):
+Image of Graf posloupnosti čísel s(n)Otevře se v novém okně
+_w_w_w_._m_a_t_w_e_b_._c_z_ 
+Graf posloupnosti čísel s(n)
+
+Jak můžeš vidět, posloupnost se nekonečně přibližuje k 1.
+ Draconius
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ] _II_nn_tt_ee_rr_nn_ee_tt_oo_vv_?é_ _RR_?á_dd_ii_oo_ _SS_ee_zz_nn_aa_mm_kk_aa_ _vv_yy_ss_?í_ll_?á_ _ii_nn_zz_ee_rr_?á_tt_yy_ _ss_ _nn_?á_mm_ii_ _ss_ee
+ OPIŠ BEZPEČNOSTNÍ KOD: _ss_ee_zz_nn_?á_mm_?í_tt_ee_..
+ [Captcha]              _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+
