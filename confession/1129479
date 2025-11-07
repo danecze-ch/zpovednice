@@ -1,0 +1,269 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+   Otázky - Vzkazy č.1129479, vloženo _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+   10.05.2020 13:10:45                _s_t_r_á_n_k_a_]
+   0.999.. periodickych = 1
+   kdopak si mysli, ze to neplati ?
+    panChytry [Muž]49  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+12.05.2020 18:49:44
+Formu periodického zápisu čísla můžeme používat až tehdy, kdy si nadefinujeme
+jak sčítat nekonečné řady.
+
+Protože periodické číslo není nic jiného než nekonečná řada, v tomto případě
+
+9/10 + 9/100 + 9/1000 + 9/10000 + ...
+
+Protože ta základní aritmetika neví, jak sečíst nekonečné množství čísel ...
+dokážeme sečíst jen konečný počet číslic.
+
+Pokud si ale matematiku rozšíříme o vhodnou definici toho, čemu se rovná
+součet nekonečné řady (třeba pomocí té limity částečných součtů, jak tu někdo
+nadhodil), tak potom zjsitíme, že součet této řady se rovná číslu 1.
+
+Ovšem samozřejmě ... musíme si to sčítání nekonečných řad nadefinovat VHODNĚ.
+Když to uděláme blbě, může vyjít i něco úplně jiného...
+
+Není to až tak úplně jednoduché, jak to vypadá...
+ _M_i_c_h_a_l_-_2_2_2 [Muž]44 [Kategorie]
+10.05.2020 23:12:57
+Jinak nemám to z vlastní hlavy, ale matematický důkaz je asi takový:
+x=0.999 per
+10x= 9.999 per
+10x-x=9.999per - 0.999 per
+9x=9
+ _V_a_n_ _G_e_n_e_r_a_t_o_r [Muž]38 [Kategorie]
+10.05.2020 21:26:27
+Základní otázka není, jestli 0.99 periodických je jedna, nebo není, ale jestli
+mi tato znalost zaplatí účty.
+ _V_a_n_ _G_e_n_e_r_a_t_o_r [Muž]38 [Kategorie]
+10.05.2020 19:31:05
+V praxi je potřeba uvážit, jak se s tím číslem dál počítá. Třeba když počítáme
+
+x : (1 - 0,9999...), tak pokud to periodické číslo necháme zaokrouhlit na 1,
+tak výsledek neexistuje, pokud to necháme tak, nějaký výsledek dostaneme.
+[Smajlík]
+ Yarda1
+10.05.2020 18:43:24
+ZakMcCracken:
+Netahej do toho limitu. 0,99.. Je číslo pevně usazené na číselné ose, to není
+žádná funkce.
+ Glyx
+10.05.2020 18:43:05
+ZakMcCracken: Právěže tady o limity vůbec nejde. Číslo je jedna hodnota, to
+nikam nejde ani se k ničemu neblíží - ani k jedničce, ani k ničemu jinému.
+Číslo je buď něčemu rovno nebo není něčemu rovno. A v tomto případě, dle
+pravidel matematiky, platí (bohužel), že 0,999 == 1.
+
+Nejedná se o žádné zaokrouhlení, žádnou limitu, žádnou nepřesnost. Tato dvě
+čísla jsou z hlediska matematiky naprosto totožná.
+ _V_e_s_m_y_9_7 [Muž]26 [Kategorie]
+10.05.2020 18:25:24
+Abych byl přesnější, tak triviální rovnice
+1 / 3 = X
+Nám deklaruje, že x je racionální číslo a je rovno přesně 1/3.
+Zadání: "Uvěďte reálný zápis hodnoty X." nedává smysl.
+
+Celé nepochopení je způsobeno neintuitvnim zápisem čísla 1/3 jako desetinneho
+čísla v desitkove soustavě.
+Kdybychom měli 12 prstů a počítali s dvanactkovou soustavou, pak by platila
+rovnost 1 / 3=0,4.
+Ale pořád je to zápis stejného čísla.
+ Glyx
+10.05.2020 18:22:56
+ZakMcCracken: periodicke cislo je SOUCET nekonecne rady, nikoliv rada samotna.
+ panChytry
+10.05.2020 17:54:39
+Jak vidím na limity a řady tady chybělo více lidí. Tu povinnou maturitu z
+matematiky potřebujeme jako sůl, potom nebudou nesmyslné diskuze o
+periodických číslech.
+
+Periodické číslo je nekonečná geometrická řada a její součet se vyjadřuje
+limitou, jak je popsáno např. zde _h_t_t_p_s_:_/_/_w_w_w_._k_a_r_l_i_n_._m_f_f_._c_u_n_i_._c_z_/_~_p_o_r_t_a_l_/
+_p_o_s_l_o_u_p_n_o_s_t_i___a___r_a_d_y_/_r_a_d_y_._p_h_p_ 
+
+Platí lim 0.999999... = 1, ale ne 0.999999... = 1.
+ _Z_a_k_M_c_C_r_a_c_k_e_n [Muž]40 [Kategorie]
+10.05.2020 17:37:03
+filozof: X = suma 3/10^n pres n=1 az &#8734;
+
+matematika si s timhle umi poradit bez problemu. muzes zadani upresnovat, az
+dokud se z toho nestane "napiste na papir nulu a za to nekonecno trojek". v
+tom pripade uznam, ze to nejde, nicmene bude se jednat o ulohu, ktera ma s
+matematikou pramalo spolecneho.
+[Smajlík]
+ panChytry
+10.05.2020 17:29:14
+panChytry: Dobře, upřesňuji zadání:
+
+"Uveďte zápis hodnoty X v oboru reálných čísel bez použití (znázornění)
+periodicity"
+
+Toto zadání nesplňuje něco, aby se na to nemělo pohlížet jako na rovnici k
+řešení? To že je nemožné (v lidském čase) tomu dostát a vyřešit je věc
+druhá... ;) Já jenom odpovídal na to, proč by se na 1/3 nemohlo pohlížet jako
+na rovnici k řešení - je to k počítání v oboru reálných čísel? Je, tak jako je
+k řešení/počítání kolik je 1 + 1. Taky je to rovnice k řešení. Alespoň takto
+rovnici chápu.
+ probudil se filozof
+10.05.2020 17:13:27
+filozof: co to znamena "uvedte realny zapis" ? nejak mam pocit, ze mozna
+rozumis filozofii, ale o matematice mas jenom domnenky.
+ panChytry
+10.05.2020 17:13:00
+Quakie: Neopakuje se v pravidelných intervalech v čísle 0,999... právě
+devítka?
+ _V_e_s_m_y_9_7 [Muž]26 [Kategorie]
+10.05.2020 17:12:00
+Glyx: A proč by to nemohla být rovnice...???
+
+Teoretické zadání může znít takto: Uvěďte reálný zápis hodnoty X.
+
+1 / 3 = X
+X = ?
+
+Tak ti na to nestačí papír...ale to neznamená, že to nemůže být rovnice.
+ probudil se filozof
+10.05.2020 17:01:01
+0.999 nemůže být 1. Ani periodicky tedy opakující se v pravidelných
+intervalech to nemůže být 1.
+
+"periodický"
+
+Význam:
+opakující se v pravidelných intervalech
+
+Byl bych proto, aby cizí výrazy používali jen lidé s mozkem.
+Tuhle v jednom slavném TV seriálu jsem slyšel herce Kanyzu prohlásit tuto
+větu.:
+
+...."tak to vím naprosto pregnantně".....
+
+Třeba to tak měl ve scénáři tak to chraň Bůh. V českých cizích slovech to
+nenajdete, a v ENG to znamená "těhotná"
+ _Q_u_a_k_i_e [Muž]79 [Kategorie]
+10.05.2020 16:44:45
+"upřesňuj výsledek rovnice kolik je 1/3"
+Jedna třetina není žádná rovnice, 1/3 je racionální číslo (vyjádřené zlomkem)
+, které pevně sedí na číselné ose. 0,33.. je jen jeho jiný zápis.
+ Glyx
+10.05.2020 15:46:24
+Matematika (v lidském podání, ale i strojovém) je omezená, jelikož lidský
+mozek je omezen prostorem. Lidský mozek nikdy nemůže pochopit 0,999
+periodických do nekonečna jelikož objem mozku není nekonečný a nemůže tak
+kapacitně obsáhnout nekonečno devítek. Ani nikdy nevyrobíš vesmírný kalkulátor
+rozprostírající svoji paměť na miliónech světelných let prostoru, který by
+mohl obsáhnout všechny devítky za nulou - pořád by to bylo málo. A nakonec
+hraje proti tobě i čas. Jelikož i kdyby začali tuto rovnici řešit všechny
+vesmírné síly od počátku Vesmíru až do jeho konce - nikdy nedojdou výsledku.
+Pořád jim bude ve výsledku chybět nekonečno devítek ke kterým se nedopočítali.
+Závěr tedy zní, že z absolutního hlediska se 0,999 periodických NEROVNÁ jedna,
+ale na biliontém řádu je to rozlišení již tak nepodstatné, že chceme-li
+vyslovit verdikt/výsledek, musíme řadu ukončit a spokojit se s konstatováním
+že tam hodně v dáli, 0,999 == 1. Pokud chceš dál žít v nevyřešené rovnici,
+počítej dál, upřesňuj výsledek rovnice kolik je 1/3, ale víš že se výsledku
+nikdy nedobéřeš - má to tedy smysl marnit čas takovýmito počty?
+ probudil se filozof
+10.05.2020 14:41:25
+Ukaž mi to: Pokud tvrdíš, že násobení a dělení nezlomků (např. reálných čísel)
+je v matematice nepovolená (nesprávná) operace, tak jsi to ty, kdo tu neumí
+počítat.
+ _V_e_s_m_y_9_7 [Muž]26 [Kategorie]
+10.05.2020 14:31:05
+0.999... je 1, takze v prirode existuje docela dost veci, jejichz kvantita je
+0.999...
+ panChytry
+10.05.2020 14:14:31
+Vesmy97: Proto nějaká chytrá hlavička vymyslela, že takové výpočty se správně
+dělají ve zlomcích. Takže to není tak, že matematika je špatně nevržená, jen
+neumíš správně počítat.
+[Smajlík]
+ Ukaž mi to
+10.05.2020 13:55:54
+Ukaž mi to: Když existuje 0,333..., pak může existovat i trojnásobek, tj.
+0,999... Je to tak v pořádku, nebo 0,333... * 3 != 0,999 nebo 1 / 3 !=
+0,333...?
+ _V_e_s_m_y_9_7 [Muž]26 [Kategorie]
+10.05.2020 13:43:38
+Zoubková víla:
+Za desetinnou čárkou je nekonečný počet devitek, tam není kde zaokrouhlovat.
+1/3 = 0.33 s periodou
+0.33.. x 3 = 0.99 s periodou
+
+Tohle vzniklo "nedokonalosti" ("nevhodnosti") desitkove soustavy pro zápis při
+dělení třemi. Nicméně 3/3 se opravdu rovnaji beze zbytku (a bez
+zaokrouhlování) jedné.
+ Glyx
+10.05.2020 13:37:11
+Vesmy97: Ono někde v realitě existuje něčeho 0,9999 peridockých? To je jen
+výmsl matematiky. Reálně nic takového neexituje. Exituje napříkal 0,333333
+periodických. To je 1/3 čehokoliv.
+[Smajlík]
+ Ukaž mi to
+10.05.2020 13:34:30
+Na limity jsi ve škole chyběl ?
+ _Z_a_k_M_c_C_r_a_c_k_e_n [Muž]40 [Kategorie]
+10.05.2020 13:32:28
+0.999... periodicky se nerovná 1. Jednička je pouze nejbližší celé číslo. To
+co tu popisuješ je obyčejné zaokrouhlování.
+ Zoubková víla
+10.05.2020 13:19:28
+Problém je v tom, že matematika má pravidla, která vymysleli lidé (byť se vše
+zdá být logické, stále tu jsou některé axiomy). Podle těchto pravidel to
+skutečně platí.
+
+Např. mezi 0,999 periodických a 1 nelze vložit žádné další číslo, což by
+odporovalo vlastnosti reálných čísel - lze nalézt číslo, které bude mezi
+jakýmikoliv dvěma různými reálnými čísly. Nebo třeba to s tím vynásobením
+desíti a vydělením desíti - opět se ukáže, že 0,999 == 1.
+
+Je ovšem otázkou, nakolik naše matematika kopíruje realitu (pokud připustíme,
+že to, co matematika popisuje existuje nezávisle na lidech). Klidně by se
+mohlo stát, že 0,999... a 1 jsou různá čísla a naše matematika je špatně
+navržená.
+ _V_e_s_m_y_9_7 [Muž]26 [Kategorie]
+10.05.2020 13:18:26
+
+[Smajlík]
+ Já si to myslím
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ] _II_nn_tt_ee_rr_nn_ee_tt_oo_vv_?é_ _RR_?á_dd_ii_oo_ _SS_ee_zz_nn_aa_mm_kk_aa_ _vv_yy_ss_?í_ll_?á_ _ii_nn_zz_ee_rr_?á_tt_yy_ _ss_ _nn_?á_mm_ii_ _ss_ee
+ OPIŠ BEZPEČNOSTNÍ KOD: _ss_ee_zz_nn_?á_mm_?í_tt_ee_..
+ [Captcha]              _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+
