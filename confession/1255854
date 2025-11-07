@@ -1,0 +1,235 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+   Otázky - Vzkazy č.1255854, vloženo _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+   19.07.2025 09:36:14                _s_t_r_á_n_k_a_]
+   PYTHON: Failed building wheel for PyQt6_
+   Čau, zobrazuje se mi tato chyba, ikdyž ten požadovaný "Microsoft Visual
+   C++ 14.0 " mám nainstalovaný, a od instalace jsem počítač restartoval.
+
+   Co s tím?
+
+   https://ibb.co/2Y8ngvB6
+
+
+
+   "ok1@LAPTOP-4D6M6UM3 MINGW64 ~/PyCommonist (main)
+   $ pip install -r requirements.txt
+   Collecting certifi==2024.8.30 (from -r requirements.txt (line 1))
+   Using cached certifi-2024.8.30-py3-none-any.whl.metad ata (2.2 kB)
+   Collecting charset-normalizer==3.3.2 (from -r requirements.txt (line 2))
+   Using cached charset_normalizer-3.3.2-py3-none-any.wh l.metadata (33 kB)
+   Collecting ExifRead==3.0.0 (from -r requirements.txt (line 3))
+   Using cached ExifRead-3.0.0-py3-none-any.whl.metadata (6.4 kB)
+   Collecting idna==3.8 (from -r requirements.txt (line 4))
+   Using cached idna-3.8-py3-none-any.whl.metadata (9.9 kB)
+   Collecting PyQt6==6.7.1 (from -r requirements.txt (line 5))
+   Using cached PyQt6-6.7.1-cp38-abi3-win_amd64.whl.meta data (2.1 kB)
+   Collecting PyQt6-Qt6==6.7.2 (from -r requirements.txt (line 6))
+   Using cached PyQt6_Qt6-6.7.2-py3-none-win_amd64.whl.m etadata (551 bytes)
+   Collecting PyQt6_sip==13.8.0 (from -r requirements.txt (line 7))
+   Using cached PyQt6_sip-13.8.0.tar.gz (92 kB)
+   Installing build dependencies ... done
+   Getting requirements to build wheel ... done
+   Preparing metadata (pyproject.toml) ... done
+   Collecting PyYAML==6.0.2 (from -r requirements.txt (line 8))
+   Using cached PyYAML-6.0.2-cp313-cp313-win_amd64.whl.m etadata (2.1 kB)
+   Collecting requests==2.32.3 (from -r requirements.txt (line 9))
+   Using cached requests-2.32.3-py3-none-any.whl.metadat a (4.6 kB)
+   Collecting Send2Trash==1.8.3 (from -r requirements.txt (line 10))
+   Using cached Send2Trash-1.8.3-py3-none-any.whl.metada ta (4.0 kB)
+   Collecting urllib3==2.2.2 (from -r requirements.txt (line 11))
+   Using cached urllib3-2.2.2-py3-none-any.whl.metadata (6.4 kB)
+   Using cached certifi-2024.8.30-py3-none-any.whl (167 kB)
+   Using cached charset_normalizer-3.3.2-py3-none-any.wh l (48 kB)
+   Using cached ExifRead-3.0.0-py3-none-any.whl (40 kB)
+   Using cached idna-3.8-py3-none-any.whl (66 kB)
+   Using cached PyQt6-6.7.1-cp38-abi3-win_amd64.whl (6.6 MB)
+   Using cached PyQt6_Qt6-6.7.2-py3-none-win_amd64.whl (66.4 MB)
+   Using cached PyYAML-6.0.2-cp313-cp313-win_amd64.whl (156 kB)
+   Using cached requests-2.32.3-py3-none-any.whl (64 kB)
+   Using cached urllib3-2.2.2-py3-none-any.whl (121 kB)
+   Using cached Send2Trash-1.8.3-py3-none-any.whl (18 kB)
+   Building wheels for collected packages: PyQt6_sip
+   Building wheel for PyQt6_sip (pyproject.toml) ... error
+   error: subprocess-exited-with-error
+
+   × Building wheel for PyQt6_sip (pyproject.toml) did not run successfully.
+   &#9474; exit code: 1
+   &#9584;&#9472;> [5 lines of output]
+   running bdist_wheel
+   running build
+   running build_ext
+   building 'PyQt6.sip' extension
+   error: Microsoft Visual C++ 14.0 or greater is required. Get it with
+   "Micr
+   osoft C++ Build Tools": https://visualstudio.microsoft.com/visua l-cpp-
+   build-tool
+   s/
+   [end of output]
+
+   note: This error originates from a subprocess, and is likely not a
+   problem wit
+   h pip.
+   ERROR: Failed building wheel for PyQt6_sip
+   Failed to build PyQt6_sip
+   ERROR: Failed to build installable wheels for some pyproject.toml based
+   projects
+   (PyQt6_sip)
+
+   "
+    94CB [Muž]20  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+20.07.2025 10:24:40
+Ptal bych se spis na root.cz anebo stackoverflow, kdyz uz by se mi nechtelo
+delat s issue do githubu.
+Tohle forum ma uplne jine zamereni.
+ lol
+19.07.2025 20:40:35
+Koukám na to a paradoxně máš příliš novou (3.13) a potřebuješ starší (3.12 a
+méně). Takže si zkus nainstalovat 3.12.
+ _d_o_t_n_e_t [Muž]25 [Kategorie]
+19.07.2025 18:29:55
+dotnet: čau, a jakou verzi teda sehnat?
+
+Díky
+ 94CB
+19.07.2025 17:20:20
+REKLAMA - ZNĚLKA (pan VÁÍČKO ťuká do klávesnice)
+
+Jste líní napsat svůj dotaz do okénka na stránkách AI? Nevadí! Napište svůj
+dotaz do okénka na zpovědnici! Počktejte 20 minut (nebo pokud Víťa zrovna fotí
+mladé turistky na své jediné trase Václavák - Staromák - Karlův most, počkejte
+maximálně několik hodin) a Víťa vše zkopíruje tam a zase zpátky. Potřebujete
+položit AI doplňující dotaz? Celý proces opakujte!
+
+REKLAMA - ZNĚLKA (pan VÁÍČKO mlátí hlavou do zdi)
+
+Nechtěli jste se radit s AI, ale hledali jste člověka, který by vám pomohl?
+Máte neodbytný pocit, že kdybyste rovnou zadali dotaz AI, bylo by to asi
+tisíckrát rychlejší? Kopněte Víťu do prdele!
+[Smajlík]
+ půjčovna kanad
+19.07.2025 17:12:38
+Hmm, beru zpět, ty starší verze jsou k dispozici taky. Nevím, asi máš blbou
+verzi Pythonu samotného.
+ _d_o_t_n_e_t [Muž]25 [Kategorie]
+19.07.2025 16:59:35
+Předkompilované verze toho pyqt6-sipu jsou jen 13.10.2, zatímco ten
+requirements požaduje verzi nižší. Máš dvě možnosti - upravit requirements
+tak, aby se nainstaloval novější pyqt a doufat, že aplikace bude fungovat i s
+ní, nebo si tu starší nechat zkompilovat u sebe (může to celkem trvat) - k
+tomu potřebuješ, aby prostředí "vidělo" ten C++ kompilátor, co sis
+nainstaloval. A to uděláš, jak radí Koubova AI.
+ _d_o_t_n_e_t [Muž]25 [Kategorie]
+19.07.2025 15:35:33
+Chci v pythonu spusit tuto aplikaci:
+
+
+_h_t_t_p_s_:_/_/_g_i_t_h_u_b_._c_o_m_/_b_e_n_p_r_i_e_u_r_/_P_y_C_o_m_m_o_n_i_s_t_/_b_l_o_b_/_m_a_i_n_/_R_E_A_D_M_E_._m_d
+ 94CB
+19.07.2025 11:50:35
+Čeho se použitím Pythonu snažíš docílit?
+Je to opravdu správná cesta nebo je to pro akademické účely?
+ BIackWoIf
+19.07.2025 11:03:06
+Vyser se na Pajtn a udělej to v excelu.
+[Smajlík]        [Muž]26 [Kategorie]
+ _N_c_m_d_-_v_y_h_l_e_d_á_v_a_č
+19.07.2025 10:02:46
+Čau, pokud by sis našel čas na přesné přékazy, budu rád.
+
+Ale asi jsi to stáhl z Chatgpt, že? :)
+ 94CB
+19.07.2025 09:52:49
+Čau! Díky za screenshot — podle něj je chyba při instalaci balíčku PyQt6_sip,
+která říká:
+
+error: Microsoft Visual C++ 14.0 or greater is required.
+
+Přitom máš zjevně nainstalovaný Build Tools for Visual Studio 2022, což by
+mělo obsahovat správný kompilátor. Problém je tedy pravděpodobně v tom, že
+prostředí (např. pip běžící v MSYS2/MINGW64) nevidí správný kompilátor nebo
+build tools.
+
+&#128295; Řešení
+&#9989; 1. Ověř, že spouštíš pip z Developer Command Prompt for VS 2022
+Máš ho otevřený na screenshotu, ale vypadá to, že pip install -
+r requirements.txt spouštíš v MSYS2 MINGW64. To je problém. Místo toho:
+
+Zavři MSYS2.
+
+V Developer Command Prompt for VS 2022:
+
+bash
+Zkopírovat
+Upravit
+cd C:UsersokkipPyCommonist
+pip install -r requirements.txt
+To zajistí, že pip bude používat správný Visual C++ compiler (cl.exe) z
+prostředí Visual Studia.
+
+&#9989; 2. (Alternativa) Přidej Visual C++ do PATH pro MSYS2
+To je složitější a často zbytečné, když máš Dev Prompt. Ale kdybys chtěl,
+můžeš ručně přidat cesty jako:
+
+bash
+Zkopírovat
+Upravit
+export PATH="/c/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/
+VC/Tools/MSVC/14.xx.xxxxx/bin/Hostx64/x64:$PATH"
+Ale důrazně doporučuju první variantu – použij prostě Developer Command Prompt
+a pip tam.
+
+&#9989; 3. Případně zkus předkompilovaný wheel
+Pokud bys přesto chtěl obejít kompilaci:
+
+bash
+Zkopírovat
+Upravit
+pip install PyQt6_sip --only-binary=:all:
+Ale to bude fungovat jen, pokud je dostupné kompatibilní .whl.
+
+Chceš, abych ti připravil přesné příkazy, které máš zkopírovat do Developer
+Command Promptu?
+ _P_s_y_c_h_o_l_o_g_ _p_s_y_c_h_i_a_t_r [Muž]72 [Kategorie]
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _pp_?ř_ee_ss_ _ss_mm_ss_ _oo_dd_ _99_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+

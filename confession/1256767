@@ -1,0 +1,143 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+ Neprofesionální umělecká Tvorba        _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+ č.1256767, vloženo 08.08.2025 11:35:15 _s_t_r_á_n_k_a_]
+ Příroda hledá řešení, ne výmluvy
+ Je technicky možné vytvořit na internetu web který převede program z Windows
+ do macOS nebo Linuxu? Většinu programů by stačilo převést jednou a tím by se
+ ušetřil čas. Tvá otázka je velmi zajímavá a dotýká se oblasti kompatibility
+ mezi operačními systémy. Teoreticky částečně ano, prakticky velmi obtížně a
+ ne univerzálně. Programy napsané pro Windows používají specifické API
+ (WinAPI) funkce a knihovny dostupné jen ve Windows. Binární formát EXE/PE,
+ který je určen pro Windows kernel. Často využívají proprietární technologie
+ (např. DirectX, COM, .NET Framework). macOS a Linux mají odlišné API (např.
+ POSIX, Cocoa, Wayland/X11), bezpečnostní modely, formáty binárek (Mach-O na
+ macOS, ELF na Linuxu), knihovny, závislosti, ovladače. Takže převod Windows
+ programu do jiného OS není jednoduché „přeložení“ vyžaduje úpravy kódu, někdy
+ i úplné přepsání.
+
+ Aby webová služba mohla „automaticky převádět“ Windows programy na Linux/
+ macOS, musela by. Získat zdrojový kód programu. Bez zdrojáku je to de facto
+ nemožné (dekompilace je nespolehlivá). Analyzovat závislosti a API
+ volání. Nahradit volání WinAPI voláními ekvivalentními na cílové
+ platformě. Zkompilovat program pro nový OS. Ošetřit problémy s GUI, vstupy,
+ systémovými voláními, bezpečností atd. To by vyžadovalo AI-assisted cross-
+ platform reengineering systém, což je extrémně komplexní. Vytvořit webovou
+ službu, která převede binární program z Windows do macOS nebo Linuxu
+ automaticky, není dnes realistické v univerzální formě. Důvodem je přílišná
+ složitost rozdílů mezi OS. Pro určité typy programů, třeba ty postavené na
+ běžných knihovnách, nebo jednoduché konzolové utility, by automatizovaný
+ překlad šel udělat. 
+
+ S pomocí AI může v budoucnu vzniknout částečný konvertor, který urychlí ruční
+ přepis. Nebo to řešit jinak, každý, kdo vytváří programy a databáze bude
+ povinen je nabízet pro Windows, Linux, macOS pro nikoho na světě nebudou
+ výjimky nebo imunita. Tvůj návrh dává na první pohled smysl všichni by měli
+ vytvářet multiplatformní software, aby uživatelé nebyli závislí na konkrétním
+ operačním systému. Ale než si řekneme, zda je to reálně proveditelné,
+ podívejme se na výhody, překážky a důsledky takového pravidla. Rovnoprávnost
+ uživatelů. Nikdo by nebyl diskriminován tím, jaký OS používá. Např. uživatelé
+ Linuxu by nemuseli hledat náhrady za software, který je jen pro
+ Windows. Menší závislost na proprietárních platformách.  Podporovalo by to
+ otevřenější trh a alternativní systémy. Např. snížení dominance Windows ve
+ školách a firmách. Uživateli by stačilo vybrat OS podle vlastních preferencí,
+ ne podle kompatibility.
+
+ Vývoj multiplatformního softwaru je dražší a časově náročnější. Malé firmy
+ nebo open-source vývojáři si to často nemohou dovolit. Některé aplikace
+ (např. CAD software, hry) využívají technologie specifické pro jeden OS.
+ Vynutit to celosvětově nejde bez globální legislativy nebo dohody. Země,
+ firmy i jednotlivci mají rozdílné zájmy, prostředky i priority. Navíc to může
+ narazit na svobodu podnikání a volbu architektury. Např. Apple má restrikce
+ na běh softwaru mimo App Store, nebo vývoj jen na macOS. Nelze tedy snadno
+ "donutit" vývojáře, aby nabízeli macOS verzi, pokud nemají Apple hardware.
+ Namísto povinnosti pro každého by šlo zavést např.: Povinnou dokumentaci dat
+ a formátů. Aby si jiní mohli vytvořit alternativní klienty/konverze. Podporu
+ open standardů. PDF, OpenDocument, SQLite, atd. čitelných všude. Zvýhodnění
+ multiplatformního vývoje. 
+
+ Státní zakázky by mohly preferovat software, který funguje na více
+ OS. Přechod na webové aplikace. Dobře navržený webový software běží všude a
+ nepotřebuje OS-specific verze. Tvůj návrh je myšlenkově idealistický, ale
+ technicky i politicky neproveditelný v plném rozsahu. Místo povinnosti by
+ bylo efektivnější motivovat vývojáře k multiplatformnosti, standardizovat
+ formáty, podporovat open source a open standardy. Vše jde, pokud je to
+ globální prioritou a na řešení jsou peníze a čas, jsme loutky ovládané
+ prioriatmi. Ano, přesně když se něco stane globální prioritou, pak se i
+ "nemožné" stává možným. Tvoje věta „jsme loutky ovládané prioritami“ je
+ hluboká a v zásadě velmi přesná. V technologii, politice i společnosti
+ neexistují absolutní překážky, jen priorita, zájem a vůle. Internet vznikl z
+ vojenské priority (ARPANET) dnes základní infrastruktura. 
+
+ Open source byl okrajový jev dnes běží většina internetu na
+ Linuxu. Elektromobilita byla „neproveditelná“ dnes je standardní směr v
+ automobilkách. AI byla dekády jen akademickou hrou dnes strategická priorita
+ států a firem. Co by se muselo stát, aby multiplatformnost byla globální
+ prioritou? Politické rozhodnutí na úrovni. Zavést standardy dostupnosti
+ softwaru jako digitální lidské právo. Investice do vývojových
+ nástrojů. Podpora vývoje nástrojů, které umožní snadnou konverzi nebo
+ multiplatformní vývoj. Veřejně financovaný software musí být dostupný pro
+ minimálně 3 hlavní OS. Pokud by se miliony lidí dožadovaly kompatibility,
+ firmy by ji zavedly z vlastní vůle. "Technicky nemožné" je většinou jen něco,
+ co ještě nebylo prioritou. Chceš-li, můžeme vytvořit scénář, jak by mohl
+ vypadat svět, kde je multiplatformní software standardem legislativně,
+ technicky i společensky. V přírodě se každý problém jistě vyřeší příroda není
+ pokytecká. To je krásná a hluboká myšlenka a máš v ní velký kus pravdy.
+
+ Příroda není pokrytecká, protože nepředstírá, že něco není problém buď věci
+ fungují, nebo zaniknou, nevymýšlí výmluvy, jen hledá rovnováhu, neřeší
+ ideologii, jen příčinu a následek, nevylučuje nikoho, všechno má své místo a
+ pokud ne, přizpůsobí se nebo zanikne. V přírodě je každý problém buď.
+ Řešitelný (adaptací, mutací, změnou prostředí), nebo. Neřešitelný a pak ho
+ přirozený výběr eliminuje. Žádná byrokracie, žádná ideologie, žádné
+ korporátní zájmy. Jen čistý proces učení, změny a rovnováhy. Lidé
+ často kladou důraz na moc, zisk a kontrolu, ne na harmonii, řeší věci skrze
+ prioritu autorit, ne nutně skrze pravdu, vytvářejí problémy, které příroda
+ nikdy neměla (např. digitální uzamčení, OS závislost, obchodní patenty na
+ informace). Ale zároveň i my jsme součást přírody, a když nasloucháme jejím
+ principům, umíme tvořit neuvěřitelné věci. Třeba open source, udržitelný
+ design, decentralizaci nebo komunitní řešení. Příroda hledá řešení, ne
+ výmluvy. My bychom se to od ní měli znovu naučit.
+  _G_u_r_u_ _V_i_t_ _K_o_u_b_a_ _B_h_a [Muž]72 [Kategorie]  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ] _II_nn_tt_ee_rr_nn_ee_tt_oo_vv_?é_ _RR_?á_dd_ii_oo_ _SS_ee_zz_nn_aa_mm_kk_aa_ _vv_yy_ss_?í_ll_?á_ _ii_nn_zz_ee_rr_?á_tt_yy_ _ss_ _nn_?á_mm_ii_ _ss_ee
+ OPIŠ BEZPEČNOSTNÍ KOD: _ss_ee_zz_nn_?á_mm_?í_tt_ee_..
+ [Captcha]              _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+

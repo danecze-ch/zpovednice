@@ -1,0 +1,244 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+ Diskuze č.1253648, vloženo 04.06.2025 _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+ 20:46:18                              _s_t_r_á_n_k_a_]
+ Stavba "RC" přes internet, p
+ O2 dává druhou simku zdarma se sdílenýma datama z mobilu. Koupil jsem si
+ malý routřík TPLink M7000 připojenej na LTE a vysílá wifi ze sdílených dat.
+
+ Taky mam webserver v housingu na statický veřejný IP.
+
+ Teď přemejšlim, jakej projekt z toho vymyslim. Napadlo mě "RC" vozidlo
+ řízené z PC přes webovou stránku, které by bylo v dosahu LTE - prakticky
+ tedy s pokrytím 99 % republiky. Vypadalo by jako takové ty klasické Food
+ delivery robots v USA. Možná i s možností obojživelného vozidla voda/souš.
+
+ Myšlenka je taková, že webserver bude mít SignalR hub, kam se budou
+ připojovat klienti a odkomunikujou si streaming videa a telemetrii. Klient
+ bude appka v RC stroji nebo flotile strojů. Buď tam bude nějakej muj starej
+ notebook na otestování, nebo koupim ještě NVidia Jetson nebo Raspberry jako
+ klientskej stroj.
+
+ Tohle všechno nemam problém vyrobit. Je to pro mne hračka. Ale nejsem
+ elektrikář ani modelář a nechápu, co potřebuju k tomu, abych z notebooku /
+ raspberry /jetson ovládal motory pohonu a senzory.
+
+ Kde se dá tohle naučit? Nebo je k tomu někde nějaké krabicové řešení? Určitě
+ nejsem první člověk na světě, kterého tohle napadlo.
+
+ PS: mám zkušenosti akorát s arduinem na úrovni "hello world" a tam je
+ všechno vysvětleno na platformu arduina, které se specializuje spíš na
+ "dětské hračky" a ne na stroje, co můžou vážit třeba 50 kg s nákladem.
+  _w_u_t [Muž]35 [Kategorie]  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+08.06.2025 22:36:16
+Tak jsem ještě pokročil.
+
+Už mam primitivní UI a Server napřímo napíchlej na Arduino, takže už ovládám
+ledku z webového prohlížeče (read/write digital pin) a odečítám napětí (read
+analog input).
+
+Jestli bude zítra nálada, tak udělám ještě toho SignalR klienta mezi serverem
+a arduinem, aby to fungovalo všude kam dosáhne internet a ne jen v místě
+serveru.
+[Smajlík] [Muž]36 [Kategorie]
+ _w_u_t
+08.06.2025 12:33:28
+Dneska jsem začal s projektem.
+
+Dal jsem do arduina StandardFirmata, připojil jsem ho přes USB do PC a v PC
+jsem spustil klientskou appku (controller), která přímo ze C# .NET přes
+firmata pustila LEDku.
+
+Až bude nálada, tak se pustim do serveru a zkusim tu ledku pustit z webové
+stránky.
+
+Webovka -> Server -> Client -> Arduino -> LEDka
+[Smajlík] [Muž]36 [Kategorie]
+ _w_u_t
+06.06.2025 21:14:58
+Msf
+Jenže notebook mám k dispozici - leží mi tu v šuplíku - a má v sobě kameru,
+mikrofon i speaker.
+
+Kdybych měl koupit shield a periferie, tak mi to nedává ekonomicky smysl, když
+mam noťas.
+[Smajlík] [Muž]36 [Kategorie]
+ _w_u_t
+06.06.2025 20:12:56
+Potřebuješ řešit tři problémy
+
+1) pohon a tady jsou ideální ti modeláři. Netuším jestli je lepší kolo nebo
+pás a jaké motory to mají pohánět. Mám zkušenosti s krokovýma motorkama pro
+CNC nebo když jsme dělali plotter. Ale to jsou úplně jiné síly a výkony
+
+2) na co ty motory připojit a tady ti laskakit.cz nebo dratek.cz nabídne
+spousty různých motor shieldů
+
+3) čím to řídit. To tvoje notebookové řešení je neefektivní. s ESP32 si uděláš
+stroj co se připojí k netu a rozjedeš si na tom třeba webserver a tam ho můžeš
+řídit
+ _M_S_-_f_a_n_o_u_s_e_k [Muž]50 [Kategorie]
+05.06.2025 12:00:26
+Zavolej si/zajdi do modelarskeho obchodu a pokecej, vetsinou tam pracuji
+fandove a vykecaji ti vsechno a jeste ti to pripravi k odberu :-)
+ Mr D
+05.06.2025 11:26:18
+Mr D
+
+Já dělám servery a server side klienty. Semtam nějakej stateless tlustej
+klient, kterej stejně slouží jen jako brána někam kam bych se z venku
+nedostal.
+
+Hardware nedělám a když jo, tak už je to nějaký e2e blackbox, který má svý
+webapi rozhraní, abych ho mohl rovnou zkonzumovat a ovládat přes něj.
+
+s GPIO a programování hardware mam - hello world - zkušenosti v arduino IDE,
+což je zcela nepoužitelnej nástroj pro stabilní produkční prostředí. Navíc
+arduino asi těžko ponese celej dotnet runtime.
+
+AI jsem se neptal z jednoho prostýho důvodu - nemam z oboru žádné znalosti a
+nedokážu posoudit, jestli mi náhodou nekecá a fakticky ani nevim co
+promptovat.
+
+Vycházim z toho co znám a co mam. Mam tady plný krabice kabelů a starejch
+kompů a na zahradě mam autobaterie a dílnu. Chtěl bych udělat robota asi
+primárně na zahradu, co bych ho mohl řídit na dálku. Zkontrolovat třeba
+zahrádku, jahody, vyvýšence, zavlažování - zavlažování budu stavět teď, ale to
+vyřešim čerpadlem napojeným na chytrou zásuvku - Tesla Smart Plug Dual SD300
+za 400...
+[Smajlík] [Muž]36 [Kategorie]
+ _w_u_t
+05.06.2025 10:06:49
+Arduinem muzes ovladat i Kirovce K-700, je to jen o pouzitych servech, aby to
+utahlo rizeni. Takze zadne ze detska hracka.
+
+Ty nechapes zaklady. Porad se v nejakem modelarskem obchode, pokecej s
+prodavacem a pokud nejsi uplny asocial, odejdes s potrebnymi znalostmi. Nebo
+po telefonu, kdyz nemas rad lidi.
+ Mr D
+05.06.2025 10:00:13
+Existuji hotové flight controllery, ktere by mohli fungovat i pro vozitko a
+které maji předdefinovanou sadu podporovaného hardwaru kde uvnitř běží nějaký
+rtos os. Co se motoru tyka tak tam potrebujes nějaké esc, nejlépe řízené asi
+can protokolem, pwm mi nedává moc smysl protože imo zatěžuje dost cpu, což
+zase žere zdroje. Controller je vetšinou na bázi nějakého stm32 - arm cortex-
+m, platforma musí splňovat nějaké industry standardy, protože to není jako
+práce s buzolou (platforma musí být spolehlivá a mít jasné charakteristiky).
+Další companion computer ala raspberry (většinou non-intel platforma kvuli
+odběru), se používá na takový ty cypoviny typu přenos videa, metrik apod,
+samotné ovládání je ale plně v režii "flight" controlleru kvůli jeho
+charakteristikám (real-time os, nízkej odběr, determinismus).
+ bobprasak
+05.06.2025 10:00:04
+Nebo napis/zavolej do Laskit/Dratek a zeptej se, co vsechno potrebujes na
+dalkove ovladany model auticka s ovladanou radlici/rukou a nejpozdeji do
+pondeli to mas doma :-)
+ Mr D
+05.06.2025 09:41:47
+Ty kraso, to je bordel :-D
+
+Tvuj AI kamos prodelal lobotomii, ze se ho nezeptas? Ten muj ti vypise hezkou
+tabulku dilu s ceskou cenou a url eshopu ;-)
+ Mr D
+05.06.2025 08:20:39
+hi-tec
+
+Kde seženu obojživelného outdoor "food delivery" robota, co uveze 50 kilo, je
+řízený přes počítač?
+[Smajlík] [Muž]36 [Kategorie]
+ _w_u_t
+05.06.2025 06:59:03
+Tak tomu říkám neskutečný paskvil. Pokud jsi takový netechnický typ, bude
+lepší když si pořídíš rovnou hotové řešení. Ušetříš si dost nervů.
+ hi-tec
+04.06.2025 21:50:56
+hi-tec:
+
+Python je pro lamy, v tom bych nedělal...
+
+MS-fanousek:
+
+Trochu jsem googlil ten esp32 a moc moudrej z toho nejsem.
+
+Vzhledem k tomu, že bych chtěl použít co nejvíc věcí, co mi leží po šuplíkách,
+tak mě napadla myšlenka:
+
+RC mašina bude mít v sobě starej notebook na výhoz, co bude na internetu přes
+ten TP Link 7000, v USB bude mít napíchlé arduino, co tu mam asi 10 let. V
+notebooku poběží client app napsaná v .NET, která se připojí přes SignalR na
+webserver a přes USB bude posílat commandy na arduino. Zároveň budu moci
+použít webkameru, mikrofon a speakery z notebooku.
+
+Mašina bude vidět, slyšet, mluvit přes notebook a pohybovat se bude přes USB
+do arduina a z arduina přes GPIO.
+
+Taky mam 2 starý autobaterie, ty bych mohl použít na pohon kol. Řídit se bude
+smykem, takže stačí asi 2 nebo 4 motory.
+
+Akorát ještě vymyslet, co naládovat do GPIO, tam jsem uplně marnej. Mam akorát
+zkušenost s mikroservomotorama a ledkama, kde jsem jel podle návodu jak dítě
+na ICTčkách v 5. třídě...
+
+Ale zdá se, že ten L298n by mohl pomoct, ale 25W je podle citu kurevsky málo,
+spíš jsem předpokládal tak 500 W - 1 kW na motor.
+[Smajlík] [Muž]36 [Kategorie]
+ _w_u_t
+04.06.2025 21:00:43
+Je to pro tebe hračka, ale nevíš jak na to... Páni, no, dneska už jsem tady
+četl snad všechno tvl.
+Jinak je to ale ízy, tohle vyráběj i děcka na školách. Raspberry má gpio co
+jde pohodlně ovládat přes rpi.gpio v Pythonu. Na motory kol potřebuješ drajvr
+L298n nebo něco podobného, to jen píchneš na zdroj, do motorů a do gpio a
+valíš.
+Je toho plnej net, tak jestli máš doma Google, poraď se radši tam, a ne na
+webu pro smutný lidičky.
+[Smajlík]
+ hi-tec
+04.06.2025 20:54:09
+Nějaký jednočip to bude chtít. Arduino už nedává smysl. Dnes má lepší podporu
+esp32. Najdeš na to plno shieldů. Jak senzory, tak pro motory.
+Programuje se to v Arduino IDE s doinstalovanýma knihovnama. Pro programátora
+nic těžkého.
+ _M_S_-_f_a_n_o_u_s_e_k [Muž]50 [Kategorie]
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ] _II_nn_tt_ee_rr_nn_ee_tt_oo_vv_?é_ _RR_?á_dd_ii_oo_ _SS_ee_zz_nn_aa_mm_kk_aa_ _vv_yy_ss_?í_ll_?á_ _ii_nn_zz_ee_rr_?á_tt_yy_ _ss_ _nn_?á_mm_ii_ _ss_ee
+ OPIŠ BEZPEČNOSTNÍ KOD: _ss_ee_zz_nn_?á_mm_?í_tt_ee_..
+ [Captcha]              _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+
