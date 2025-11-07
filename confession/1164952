@@ -1,0 +1,465 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+Zpověď č.1164952, vloženo 13.04.2021 22: _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+40:38                                    _s_t_r_á_n_k_a_]
+Základy programování
+Tak nějak žiju celá léta v tom, že počítače rozumí jen a pouze směsici jedniček
+a nul...
+
+Myslel jsem si, že se tomu říká Machine Code a nebo někdy Machine Language
+Instruction.
+
+Každý program, který někdo naprogramuje, tak se přes několik vrstev vždy změní
+v Machine Code.
+
+Assembler, C/C++, .NET, Python, Java, ... cokoliv ... každý má trochu jiné
+workflow, jinou kompilační strategii (JIT, AOT, ...), žije si trochu jinak ve
+svém CLR/CLI/..., ale vždy je cílovka Machine Code, který jde jako instrukce
+procesoru.
+
+Je na tomhle tvrzení něco špatně? Chápu, že to tvrzení se dá výrazně rozšířit a
+doplňovat donekonečna, ale dá se s jistotou tvrdit, že
+
+"Každý program je přeložen do Machine Code?"
+ top programátor [Muž]  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+14.04.2021 16:13:23
+Ono jinak dneska na PC je "překládat" a "překládat" ... přeložit něco do
+instrukcí kterým procesor rozumí je jedna věc, a přeložit něco tak, aby to
+běželo opravdu rychle je věc úplně jiná. A tu druhou umí asi bezchybně jen
+Intel, a možná ještě někdo, komu Intel poskytl potřebné informace o
+architektuře procesorů...
+
+Takže on se do překládaných jazyků nikdo zas tak moc nehrne, protože to nemá
+smysl...pokud si chci udělat vlastní jazyk, je lepší to převést nejdřív na C/
+C++ a pak použít nějaký slušný překladač... a nebo to napsat v céčku rovnou,
+že...
+
+Ty javy a c# se překládají do strojového kódu až při spuštění ... a nutně to
+tedy nemůže být úplně optimální, jednak to nemůže trvat moc dlouho, takový
+překlad, a jednak už je část informací ztracena (tím, že už to není zdrojový
+kód, ale v podstatě virtuání instrukce). Na druhou stranu tyhle interprety/
+překladače dělají docela slušné firmy, takže úplně špatné to být nemůže.
+
+Python se do strojového kódu nepřekládá vůbec, a nějak zázračně rychlý teda
+není. Ale tam se to zase obchází tak, že se pro něj dá udělat knihovna v C/
+C++, a ve vlastním Pythonu se píše ta svrchní úroveň, co není na výpočetní
+výkon náročná.
+
+Takhle se to dělá ve spoustě jazyků ... že když potřebují rychlost, udělá se
+pro ně knihovna v C/C++.
+
+Tvrzení, že něco v Pythonu běží stejně nebo dokonce rychleji než v céčku jsou
+úplný nesmysl. Samozřejmě - pokud to céčko překládáme tím, čím máme...
+ _M_i_c_h_a_l_-_2_2_2 [Muž]44 [Kategorie]
+14.04.2021 15:58:22
+>>>Je každý zdrojový kód změněn při běhu programu na machine code?<<<
+
+Na tohle je jednoduchá odpověď ... není. Interprtované jazyky nejsou převedeny
+na žádný machine code ... je tam prostě ten interpret (což je nějaký program,
+stále stejný) a nějaké virtuální instrukce, které se už na nic nepřevádějí.
+Ale nikdy se nedostanou do té části paměti, ve které je uložený program ...
+vždy jsou jen v té části, kde jsou data, nikdy ta data nepředstavují instrukce
+procesoru a nejsou vykonávány procesorem. Prostě prostě jen program chroustá
+data ... nějakým způsobem.
+ _M_i_c_h_a_l_-_2_2_2 [Muž]44 [Kategorie]
+14.04.2021 15:53:31
+Assembler už se v podstatě nepřekládá, jen linkuje ... u assembleru je ten
+překlad vlastně 1:1, tomu "lidskému" názvu instrukce odpovídá přímo nějaký
+strojový kód.
+
+Pokud trochu rozumíš tomu, jak se překladače dělají, tak na tohle se v
+podstatě nemusí dělat parser ... a hypoteticky by šel udělat procesor, který
+by tohle chroustal rovnou.
+
+Akorát je potřeba nahradit ty symbolické adresy skutečnými, ale to nedělá
+překladač, to dělá až linker.
+
+
+Pokud jde o ty interpretované jazyky, tak tam je to různé. Některé jazyky
+(jako byl třeba kdysi BASIC) se intepretují přímo, řádek po řádku. Můžeme to
+sice chápat ve smyslu, že je každý řádek převeden na nějaký strojový kód,
+který se pak provede ... ale spíš je lepší to chápat, že to běží na nějakém
+virtuálním stroji. Který prostě provádí nějaké složitější instrukce.
+
+A pak jsou jazyky, jako třeba PYTHON, co se přeloží do nějakých virtuálních
+instrukcí a běží na virtuálním počítači. Ale ten virtuální počítač by v
+principu nemusel být virtuální, mohl by být i skutečný.
+
+A pak jsou jazyky jako C#, kde se to přeloží do virtuálních instrukcí, a ty se
+buď interpretují (na začátku) nebo se přeloží a spustí (po čase).
+
+Další věc je, co přesně považujeme za "strojový kód", protože nikdo netuší, co
+se děje uvnitř dnešních procesorů ... a ty instrukce, které známe jako
+strojový kód se uvnitř procesoru zase ještě "překládají" do sekvence
+jednodušších instrukcí ... a je klidně možné, že tento "překlad" je docela
+sofistikovaný.
+ _M_i_c_h_a_l_-_2_2_2 [Muž]44 [Kategorie]
+14.04.2021 12:16:26
+S tou simulační logikou jsi to asi trefil.
+
+KSP jsem hrál opravdu masivně, ale protože jsem velký fanda do vesmíru.
+Grafika mi přišla ošklivá, ale kvůli té jsem to nehrál. To, co se v té hře ale
+rozhodli všechno simulovat, to je ta pravá síla té hry. Popravdě tím otevřeli
+úplně nový žánr her. KSP2 jsi hrát nemoh, ještě to nevyšlo. Já to ani hrát
+nebudu, je to od jiného studia, nové fíčury jsou spíš ze světa scifi (já raděj
+skutečnou vědu), a hlavně to zase poběží na Unity, což mě vlastně nejvíc sere.
+Chtěl bych aby KSP bylo prostě hezčí, třeba jak Elite Dangerous nebo No Man's
+Sky.
+
+Cities Skylines jsem si zkusil nainstalovat, ale po chvilce jsem to zas
+odinstaloval. Tohle jsem totiž nechtěl hrát, protože by mě zajímalo to téma,
+ale protože jsem se chtěl kochat pěkným městem, co si postavím. A ta grafika
+mi prostě přišla ošklivá. Tak jsem se raději šel kochat krásným prostředím v
+AC: Origins.
+ _G_a_u_n_t_e_r_ _O_*_D_i_m_m [Muž]34 [Kategorie]
+14.04.2021 01:04:58
+Gaunter O*Dimm:
+
+k tomu Unity mi spíš připadá, že se tam staví hry, co mají hodně simulační
+logiky.
+
+Cities Skyline je jedna obří simulace. Mají tam i proudění tekutin,
+pathfinding, traffic simulation a každý člověk tam má celý životní cyklus a
+můžeš tam mít víc než 1 000 000 lidí najednou.
+
+KSP je taky monstrózní simulace. Výpočet tepla, proudění kolem těles a výpočet
+odporů a vztlaku + do toho gravitace a další už "jednoduché" výpočty.
+
+Jinak KSP a KSP2 jsem nikdy nehrál. Jen chci říct, že vypadá dobře, výpočetně
+není jednoduché a přesto běží moc hezky. Cities Skyline je opravdu masivní
+simulace a šlape opět velmi slušně.
+
+Unreal chápu jako cílený na maximální pastvu pro oči a jednoduché, povětšinou
+tunelové, střílečky.
+
+Ale rozhodně bych nikdy neřekl, že Unity je lepší či horší. Je prostě jiné.
+[Smajlík]
+ top programátor
+14.04.2021 00:57:21
+Beru zpět. Kouknul jsem, co umí Unity v poslední době a je to opravdu asi
+celkem powerful engine. Nevím, nejsem herní vývojář. No zdá se ale, že jsou
+taky poměrně drazí, když jdeš na pro verzi. To už si pak opravdu každej radši
+vybere Unreal engine.
+ _G_a_u_n_t_e_r_ _O_*_D_i_m_m [Muž]34 [Kategorie]
+14.04.2021 00:52:38
+Výhoda Unity je spíš v tom, že v něm můžeš hnedka začít vyvíjet svoji hru a
+nemusíš být ani velkej vývojář a rozumět herním enginům. To byl přesně příklad
+tebou zmíněného KSP - ti kluci nebyli ani herní vývojáři, dělali multimédia a
+webstránky. Ale těžko můžeš Unity srovnat se skutečně špičkovými herními
+enginy a udělat v něm hru jako Witcher 3 nebo nejnovější Assassin's Creedy.
+Musíš uznat, že grafika KSP není zrovna state-of-the-art.
+
+K tvojí původní otázce: Ano, procesor může provádět jenom příkazy svojí
+instrukční sady (strojový kód). Ale to neznamená, že musíš vždycky kód ve
+svojem jazyce přeložit do strojového kódu a vytvořit tak binární soubor (.exe,
+.dll). Jak už tady bylo řečeno, spoustu jazyků je interpretovaných, takže si
+přečtou tvůj kód ve tvém zvoleném jazyce a pak mají dvě možnosti:
+1) Hned řeknou procesoru ekvivalentní příkaz ve strojovém kódu (Lisp, BASIC).
+2) Vytvoří si nějaký efektivní mezistupňový kód (něco mezi zdrojovým kódem a
+strojovým kódem) a ten pak provedou.
+I v těchto případech se nakonec bude provádět strojový kód, ale nedojde tam k
+tradičnímu překladu (kompilaci).
+ _G_a_u_n_t_e_r_ _O_*_D_i_m_m [Muž]34 [Kategorie]
+14.04.2021 00:52:05
+mando:
+
+Moc nechápu, proč startovat žabomyší válku mezi Unreal a Unity.
+
+Osobně mi to připadá, že oba frameworky jsou srovnatelné a rozdíl je
+neznatelný. Určitě bych si netroufl tvrdit, že jeden a nebo druhý je lepší/
+horší.
+
+Co se týče vlastních frameworků, tak každá hra s rozpočtem Hollywoodského
+filmu má vlastní engine. Výjimek je pár a těžko se hledají.
+ top programátor
+14.04.2021 00:49:17
+Ano, máš pravdu. Dle typu jazyku je toto "přeložení" provedeno buď hned při
+vytvoření programu nebo naopak až při jeho spuštění, ale vždy k němu musí
+dojít. Na konci tohoto "překladu" je strojový kód - množina instrukcí, kterým
+procesor rozumí a které jsou (v případě digitální reprezentace) reprezentovány
+jako "jedničky a nuly".
+ _V_e_s_m_y_9_7 [Muž]26 [Kategorie]
+14.04.2021 00:40:39
+top programátor: Jo jo spousta firem si pořád vyvíjí proprietární enginy.
+Dneska je doba jiná, já si pamatuju ještě dobu, kdy tyhle velký enginy ani
+dostupný nebyly tak jak to je dneska, že to máš zadarmo a pak platíš až když
+tvoje hra vydělává. Dřív si každej vyvíjel vlastní engine nebo licencoval za
+šílený peníze od někoho jinýho. Bežná praxe byla, že si dodělal hru a engine
+si mohl zahodit, protože se to za těch pár let tak posunulou, že tvůj engine
+byl out. Proto už čím dál tím víc studií od vlastního vývoje opouští, není se
+čemu divit, třeba Epic Games co dělají Unreal Engine mají takový šílený
+zdroje, že jim už se asi nikdo nikdy nebude moct konkurovat a když je ten
+jejich licenční model takový jaký je, tak dělat něco vlastního z jinýho důvodu
+než "learning purpose" nemá smysl. Za mě Unreal Engine je nejlepší. Až přijde
+Unrela Engine 5 velice brzo, tak z toho si všichni sednou na zadek.
+ mando
+14.04.2021 00:28:24
+mando:
+
+Tak hlavně velká herní studia mají vlastní engine.
+
+Málokteré velké studio používá Unity nebo Unreal.
+
+Unity v posledních letech velmi roste na popularitě a používá se ve velkém i
+na velké projekty. A rozhodně si nemyslím si, že by bylo o něco horší než
+Unreal a další.
+
+To samé třeba filmová studia. Taky používají vlastní render engine.
+[Smajlík]
+ top programátor
+14.04.2021 00:16:16
+top programátor: však já jsem nikde nepsal, že dobrý věci nemůžeš psát třeba v
+Javě. Ani o Unity jsem netvrdil, že je to shit, jenom že si ho na AAA hru typu
+Kingdome Come prostě nikdo nevybere.
+
+Je potřeba nehledat jeden top jazyk, platformu, ekosystém, což dělaj hlavně
+amatéři. Všechno má svoje plusy a mínusy. Na něco se hodí víc to, na něco zas
+ono. Jednomu vyhovuje to, druhýmu vyhovuje zase ono. Momentálně mě živí vývoj
+v .NET a jsem maximálně spokojený.
+ mando
+14.04.2021 00:03:22
+mando:
+
+Je spousta top her v Unity, které mají obrovské množství aktivních prvků ve
+hře a zvládají je velmi dobře.
+
+Tenhle názor, že v Unity jsou jen špatné hry, vznikl z toho, že pokud používáš
+Unity zdarma, tak se ti na úvodní obrazovce objeví logo Unity.
+
+Většina začínajících developerů generuje hry na free licenci a jejich hry
+nejsou dobré. Proto se lidem v hlavě zakořenila představa Unity = shit hra...
+
+ve skutečnosti je ale Unity velmi dobrý a odladěný nástroj.
+
+A dobré hry v Unity, které jsou dobře odladěné a mají obrovské množství prvků?
+Třeba Cities Skyline a Kerbal Space Program.
+
+Dobře odladěná hra v Java? Třeba Minecraft Java Edition. A tuším, že v Java je
+napsaný i StarCCM+ a nebo Apache Spark.
+
+Python se pak tradičně používá pro big data a nemyslím si, že by mu GC nějak
+výrazně škodil.
+
+To je jasný důkaz, že i s Managed kódem se daj dělat super appky.
+[Smajlík]
+ top programátor
+13.04.2021 23:49:38
+Machine code je v podstatě fyzické provedení. Neexistuje způsob, jak se tomu
+vyhnout.
+Každý stroj má jiný machine code, to dá rozum, ale vždycky je tam něco na
+tomhle principu.
+
+Vždycky musí téct proud. Vždycky prochází logickými hradly, kterých je v
+procesoru bžilión.
+Jediný rozdíl je v tom, že součet dvou čísel se udělá fyzicky jinak v x86 a
+třeba v, já nevím, třeba v procesoru nějaké konzole od Nintenda.
+Ty napíšeš kód v nějakém jazyce, ten kód je abstraktní. Nepopisuje cyklus jako
+instrukce typu "odešli hodnotu na adresu x", "posuň ukazatel o y", ale doslova
+jako cyklus, jeho fyzická realizace je pak otázkou překladače, interpreteru,
+atd., který zná jak konkrétní jazyk, tak konkrétní sadu instrukcí stroje, na
+němž je nainstalován.
+
+Pokud jde o interpretaci, je třeba si uvědomit tohle: např. Python je napsaný
+v C, jeho interpreter taky. Takže ty máš na PC nainstalovaný program, který už
+je přeložený, a ten umí za běhu interpretovat příkazy Pythonu jako strojový
+kód, který provede. Nepřekládá tvůj pythonovskej skript, ale to nepotřebuje,
+on už ví, že konkrétní příkaz v Pythonu provede tímhle kódem, který teda
+spustí jako "interpretaci".
+A způsoby, jak abstraktní kód převést do strojového kódu, je mnoho, protože
+někdy potřebuješ víc výkon než abstrakci - a naopak. Kdybys musel všechno psát
+na děrný štítky, zbláznil by ses :D
+Ale právě tam vše končí, u jedniček a nul. Nelze se tomu vyhnout.
+ Mokujin
+13.04.2021 23:49:08
+top programátor: Ano ano a proto jsou všechny AAA počítačový hry psaný v Javě
+a C# (kdyby to někdo nepochopil tak právě že nejsou, všechny top herní enginy
+jsou v C++ - CryEngine, Unreal Engine, Godot Engine, Lumberyard,...výjimka je
+Unity, ale to není pro AAA hry).
+ mando
+13.04.2021 23:47:01
+Co tím chtěl básník říci.
+Já se pokládám spíš za BFU.
+Jistě, počítač pracuje ve strojním kódu. Ale program se vždy nemusí překládat.
+Třeba o jazyku BASIC se říkalo (nezkoumal jsem, jestli je to pravda), že
+program v tom jazyce než se spustí se nepřekládá do strojáku, že existuje cosi
+jako interpreter co čte ty příkazy napsané v BASICu a rovnou je vykonává. Ale
+existují i kompilátory co program v BASICu přeloží do strojáku a ten překlad
+(většinou .COM nebo .EXE) se teprve spustí a je rychlejší než ten program co
+běží přes interpreter.
+Jestli je to tak i v jiných jazycích jsem nezkoumal, pokud mi někdo bude
+tvrdit, že ano, nebudu se s ním hádat.
+[Smajlík]
+ yarda1
+13.04.2021 23:45:26
+mando:
+
+píšu o tom níže. Java i C# mají nástroje k tomu, jak režii navíc nepoužívat a
+obcházet jí a tím se jí nezdržovat.
+
+Ano, přiznávám, že start aplikace C# a Java bude pravděpodobně vždy s většími
+nároky, ale běh aplikace samotné může mít naprosto stejné nároky na hardware
+jako skvěle napsaná C++.
+
+Bohužel tohle není moc programátorů C++ schopno akceptovat.
+[Smajlík]
+ top programátor
+13.04.2021 23:41:06
+"Nevim co je na tom pravdy a jak si to mezi s sebou povídá, ale pořád je na
+konci Machine Code. "
+
+A prave proto jsem psal, at definujes prelozen.
+
+Protoze je logicke, ze na konci musi byt pouze to, co je schopen sam procesor
+prezvykat.
+ Kvetak
+13.04.2021 23:38:52
+top programátor: No tím názorem, že jsou C++ programátoři zabrždění ze sebe
+děláš zabržděnce ty sám vzhledem k tomu, na co ses ptal.
+Můžeš překvapivě v kterýmkoliv jazyce napsat program, že porazíš blbě napsanej
+C++ program. Taky bys ale musel definovat co znamená "porazit". Že proběhne
+rychlejš? Že bude mít nejmenší paměťový nároky?
+Z principu asi těžko fine tuned C++ program bude např. pomalejší než obdobnej
+program v Javě nebo C#, když jejich běhový prostředí prostě mají výraznou
+režii navíc.
+
+C++ mám narozdíl od většiny chytráků, co si něco přečetli na netu, rád a
+napsal jsem v něm spoustu kódu.
+ mando
+13.04.2021 23:37:54
+Kvetak
+
+proč si chtěl definovat to "přeložen"?
+
+je na tom slově v české programátorské branži něco, co má více smyslů?
+ top programátor
+13.04.2021 23:33:43
+Kvetak:
+
+Trochu jsem pogooglil Javu, protože jí neznám, a píše se tam tohle workflow:
+
+Source Code -> Compiler -> Byte Code -> Interpreter -> Machine Code
+
+Nevim co je na tom pravdy a jak si to mezi s sebou povídá, ale pořád je na
+konci Machine Code.
+ top programátor
+13.04.2021 23:28:01
+lamovic:
+
+Díky za info... a s tím kvantovým počítačem chápu. Zas na druhou stranu,
+lidstvo je na míle vzdáleno univerzálnímu programovatelnému kvantovému
+počítači.
+
+A pak tu máme třeba "elektroniku" založenou ne na elektřině, ale na světle
+(tušim, že se tomu říká photonics)
+
+Dost jsem o kompilaci a interpretaci zdrojových kódu četl a většina lidí se
+příklání k názoru, že i s běžnými jazyky jako je Java, .NET, Python, ... můžeš
+na pohodičku v rychlosti aplikace porazit C++ aplikace, které se z
+historických důvodů a neochotě C++ developerů přiznat si svojí zabržděnost,
+považují za nejlepší možné.
+
+Navíc i v Managed jazycích můžeš bypassovat pomocí unmanaged či unsafe kódu.
+[Smajlík]
+ top programátor
+13.04.2021 23:20:38
+Napriklad java je prelozena do java bytecode. A nasledne java interpreter,
+pokud nejde o starou java machine od Sun, za behu prelozi tento kod do
+instrukcni sady procesoru.
+Python v podstate to same (ano, pyhon je spousten vetsinou primo
+interpreterem, ale moduly jsou predprelozene do bytekodu).
+ Kvetak
+13.04.2021 23:15:55
+jo, cesky strojový jazyk, vse musi byt prevrklano do prikazu instrukcni sady
+procesoru dane architektury - v nasem pripade x86, kde se prechroupava program
+od A do Z. Kompilator vlastne z citelneho souboru programu C napr. tak vytvori
+spustitelny soubor exe, binarka necitelna pro cloveka, ale citelna/spustitelna
+pro procesor. Zakladem je kremik, tranzistor, XORy a ANDy, napeti - stav -
+zapnuto - vypnuto - proteka proud - jednicka i neproteka proud - nula. Na jine
+bazi ale funguji treba kvantove pocitace
+ lamovic
+13.04.2021 23:14:33
+mando:
+
+Ano, přesně takhle si to představuju, že každý program může být napsaný v
+čemkoliv a stejně ve výsledku z toho vyleze to, čemu ty říkáš "nativní kód
+daný procesorový architektury" = tomu říkám machine code, ale ani nevim jestli
+je to tak správně a jestli je tomu tak vždy.
+
+Hodně se píše o tom, že .NET, Java, Python ... , tak při kompilaci/
+interpretaci nemají nikde zmíněno Machine Code... Prostě se končí v CLR,
+CLI... ale nikde není psáno, že na konci je Machine Code. Třeba u C++ se
+Machine code píše velmi často.
+
+Přesto tak nějak tuším, že na konci vždy Machine Code být musí, jen ta
+cestička k němu je pokaždé jiná.
+[Smajlík]
+ top programátor
+13.04.2021 23:04:46
+Kvetak:
+
+Řekněme, že máš zdrojový kód a změníš ho na machine code. Tím je myšleno to
+přeložen.
+
+Než abych definoval "přeložen", tak raději položím otázku znova, pokud je
+matoucí.
+
+"Je každý zdrojový kód změněn při běhu programu na machine code?"
+[Smajlík]
+ top programátor
+13.04.2021 23:02:25
+Všechno ti ve výsledku běží na procesoru, který rozumí jen svoji instrukční
+sadě. Takže z tohohle pohledu je jedno, v čem ten program napíšeš, vždycky to
+ve výsledku skrz nějaký vrstvy probubla až do nativního kódu daný procesorový
+architektury.
+ mando
+13.04.2021 22:56:20
+Základy? No to máš armovací dráty, vázací dráty, výkopy, bednění normální,
+bednění ztracené, bednění ukradené, bednění prasklé, hele nech to bejt rači.
+ _O_d_p_o_č_i_n_e_k [Muž]52 [Kategorie]
+13.04.2021 22:50:42
+"Každý program je přeložen do Machine Code?"
+
+Definuj "prelozen".
+ Kvetak
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ] _II_nn_tt_ee_rr_nn_ee_tt_oo_vv_?é_ _RR_?á_dd_ii_oo_ _SS_ee_zz_nn_aa_mm_kk_aa_ _vv_yy_ss_?í_ll_?á_ _ii_nn_zz_ee_rr_?á_tt_yy_ _ss_ _nn_?á_mm_ii_ _ss_ee
+ OPIŠ BEZPEČNOSTNÍ KOD: _ss_ee_zz_nn_?á_mm_?í_tt_ee_..
+ [Captcha]              _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+

@@ -1,0 +1,128 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+   Otázky - Vzkazy č.1166860, vloženo _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+   05.05.2021 11:53:46                _s_t_r_á_n_k_a_]
+   Asi jsem si zničil pc
+   Takže jsem si chtěl dát Linux na pc. Stáhnul jsem si to na flešku, dal
+   jsem si flašku nastavit na bootování přes Rufus a dal jsem tovární
+   nastavení.
+
+   Pc jsem zapnul a hned mi to nabídlo starý předinstalovaný Windows 8.1
+   který jsem do té doby používal. Chtěl jsem najít BIOS ale přehodil mi to
+   jen jazyk nastavení pro instalaci. Tak jsem si 8.1 nainstaloval znovu a
+   pak jsem proces opakoval.
+
+   Furt to stejný, a to i přesto že jsem tam teď dal flešku ještě před
+   zapnutí pc. Tak jsem to zase opakoval. Ale teď je problém. Pc mi hučí a
+   power button svítí, znamenajíc že pc je zapnutý. Zkoušel jsem dát f1, f2
+   a del a bios nikde, ani mi to neukázalo možnost instalace Windows 8.1.
+   Jsem v prdeli?
+    Umimhovno [Muž]15  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+05.05.2021 20:52:21
+Nic sis neznicil, jenom nevis co delas. Nevim co delas s tovarnim nastavenim
+(ceho?). Myslim si ze se ti ani nepodarilo spustit linuxovou instalaci (bylo
+by dobre napsat distro) a ten puvodni windows tam porad jeste mas.
+Postup - flashku do usb, zapnou PC, vlezt do biosu, nastavit boot z usb,
+ulozit nastaveni, instalovat.
+Obecna rada - pro instalaci z USB zarizeni pouzivej radeji ty USB ktere jsou
+primo na desce, ty co jsou zepredu pc pres kabliky nekdy blbnou, nevim proc.
+ newbie7890d
+05.05.2021 20:31:55
+Sice mám trošku trošku zmatek v tom, co plácáš...
+
+Zaprvé se ujisti, že máš správně vytvořenou tu bootovací flešku. A že na ní
+máš správný systém souborů. Dej si pozor, jak ji vytváříš - jestli pro legacy
+nebo pro UEFI režim.
+A dej si pozor pozor na secure boot. Pokud budeš mít flashku vytvořenou přes
+Rufus, tak se obávám, že se zapnutým secure bootem budeš mít problém (tím
+nechci, říct, že nelze nainstalovat linux se securebootem, ale musí se na to
+trošku jinak...).
+A nakonec, ujisti se, že opravdu bootuješ tu instalační flešku...
+ _C_u_m_s_p_r_i_t_e [Muž]34 [Kategorie]
+05.05.2021 19:40:30
+Hehehe no to dá malou chvilku přemýšlení..
+Tedy zaprvé BIOS se dá lehko "flashovat" a nahrát znova ale v tom není
+problém, jde i to, jestli to nahráváš UEFI nebo na normál. UEFI zapomeň.
+
+Instaloval jsem si kdysi Linux Ubuntu (asi) ale je fajn nápad nainstalovat i
+Win i Linux a při zapnutí PC si vybrat buď Win a nebo Linux.
+Stahni si a nebo vypal DVD zde:
+_h_t_t_p_s_:_/_/_u_b_u_n_t_u_._c_o_m_/_d_o_w_n_l_o_a_d_ 
+
+Když jsi v BIOS, zvolíš si Boot možnosti a vyber z Flash (máš-li ho v PC USB
+portu)
+nebo z DVD ROM ale ne UEFI !!
+Ostatně to se dá nastavit i v Advance BIOS.
+
+PC snad ani NEJDE zničit tím že si smažeš OS (Operační systém)
+Budeš-li mít problém, napiš mi na thyronx () usa.com a pomohu
+Já přeinstalovával Win i Linux snad 50x a úplně automaticky. Dej vědět.
+ _Q_u_a_k_i_e [Muž]79 [Kategorie]
+05.05.2021 18:49:42
+*pokud chceš 2 systémy, pokračuješ dál podle návodu.
+ Icebox
+05.05.2021 18:48:07
+Než začneš něco dělat, co neumíš, nejdřív si něco přečti! Už od samého začátku
+děláš chybu, tovární nastavení a oprava win.
+Nejdřív si v BIOSu nastavíš butování z Flash. Dáš restartovat, řídíš se pokyny
+na monitoru do fáze:
+Pokud chceš jeden systém, dáš zformatovat disk nebo pokračuješ dál v
+instalaci. Už je to nějaký pátek, kdy jsem instaloval 2 systémy do pc, moc si
+toho nepamatuji. Ale strejda Google je připraven odpovědět na všechny tvoje
+otázky!
+ Icebox
+05.05.2021 16:16:42
+Proč se hrabeš do něčeho čemu nerozumíš?
+ George Orwell
+05.05.2021 12:34:16
+lel. ty seš lama. radši to vyhoď z okna a kup si ipad.
+ _A_z_a_t_h_o_t_h [Muž]27 [Kategorie]
+05.05.2021 12:22:30
+SheldonC: Super nápad, teď ještě někoho takovýho znát
+[Smajlík]
+ Umimhovno
+05.05.2021 12:12:08
+Placáš pátý přes devatý, dej to někomu kdo tomu rozumí ;)
+ SheldonC
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ] _II_nn_tt_ee_rr_nn_ee_tt_oo_vv_?é_ _RR_?á_dd_ii_oo_ _SS_ee_zz_nn_aa_mm_kk_aa_ _vv_yy_ss_?í_ll_?á_ _ii_nn_zz_ee_rr_?á_tt_yy_ _ss_ _nn_?á_mm_ii_ _ss_ee
+ OPIŠ BEZPEČNOSTNÍ KOD: _ss_ee_zz_nn_?á_mm_?í_tt_ee_..
+ [Captcha]              _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+
