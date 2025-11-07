@@ -1,0 +1,295 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+   Otázky - Vzkazy č.1205504, vloženo _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+   03.11.2022 23:37:48                _s_t_r_á_n_k_a_]
+   Kurzy IT (admin prace)?
+   Ahoj nezna tu nekdo nejaky dobry kurzy pro cloveka co chce zacit s praci
+   v IT (systemovy administrator)? Mam IT stredni skolu, ale jako systemovy
+   admin se teda vubec necitim, delali jsme nejake zaklady, podle me nic moc
+   praktickeho.. mam proto nejaky obecny prehled o zakladech IT typu zaklady
+   HW, shellu, siti,… odmaturoval jsem v pohode, ale k praci jako admin by
+   to chtelo urcite vic..
+
+   nejake navrhy? Chtel bych se v tomhle odvetvi usadit
+    Filip02 [Muž]20  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+04.11.2022 16:40:06
+Pořád je to o tom se poučit z chyb druhých vše ostatní jsou kecy!
+_h_t_t_p_s_:_/_/_1_u_r_l_._c_z_/_e_r_k_M_e
+[Smajlík]
+ MANAŽER ROKU
+04.11.2022 12:36:01
+wut: proste me trochu sejri Tvuj styl psani tady a stirani lidi kolem. Udelal
+sis holt blbou reklamu no :). Ze na tebe pusobim jako brouk pytlik, tak za to
+fakt nemuzu, nicmene po precteni celyho threadu uznavam, ze sem na tebe byl
+mozna trochu moc zlej.
+
+Svet se z devadesatek zmenil pro me naprosto diametralne. V 90 vsude maly site
+vetsinou na novelu, sem tam naka os2 nebo obskurdnost typu lantastic, vsechno
+na nakym ipx/spx protokolu. Pripojeni pro net byla vzacnost, stejne tak jako
+sitovy aplikace. Vetsinou se tak maximalne ukladaly naky data na disk, klient-
+>server apky byly v plenkach. Systemy kde bezely kriticky aplikace casto byly
+na nejaky non-x86 architekture, jako Alpha, Sparc nebo IBM power (ty jediny
+vydrzely do ted). S prichodem vmwaru a virtualizace na x86 to pak intel
+vsechno zvalcoval, casto vinou i nestastnejch akvizici (viz HP a jeho pohrbeni
+Alpha platformy). Prisel net, lanky presli na tcp/ip, prisly aplikace klient/
+server, hodne se zacal rozvijet groupware na bazi microsoftiho AD (kde skoncil
+novel se svejma Zenworksama) prisla uz zminovana virtualizace na intel, na
+zacatku 2000 se hodne pouzivala technologie tenkyho klienta (viz citrix a
+spol, jak je to ted netusim). Na prelomu tisicileti si majetnejsi firmy
+stavely sanky na fc, muselo se zacit centralne zalohovat a mit pro to
+pripravenu ifrastrukturu a nakonfiguraovat takovy tsmko nebo networker taky
+nebyla zadna prdel. Dneska je hodne trend vsechno automatizovat, nemel by bejt
+problem vystrelit x desitek novejch masin do vm prostredi a zase je smahnout,
+rozviji se kontejnerizace (coz je mimochodem technologie uz 20 let stara). Atd
+apod, mrte technologii sem tu ani nezminil jako treba prechod z ciste
+relacnich db do sveta document oriented db, vyuziti enginu jako je treba
+splunk, elasticsearch apod.
+
+Jinak devops fakt vnimam jako buzzword, nicmene nikomu svuj nazor necpu.
+Vnimam ho tak proto, ze nemam pocit, ze bych delal delal jiny veci nez driv,
+ale vsichni mi rikaj ze sem devopsak, kdyz driv sem delal system engineering.
+Nicmene prace je plus minus stejna, jen pouzivas mozna trochu jiny tooly
+(misto cistyho shellu/perlu treba ansible nebo helm v pripade k8s). Ale prijde
+mi to plus minus o tom samym, kdy je prace rozdelena na to ze resis prusery na
+infre, na nakej improvment stavajici infrastruktury a na naky projekty, ktery
+jsou bud ciste infrastrukturni nebo ses soucasti dev tymu. V devops tymu pro
+kterej ted prevazne makam se nikdo nevenuje treba ci/cd na full time a nikdo
+neni ze 100% k ruce devikum. Kazdej ma nakou specializaci v ramci tymu. Ja
+resim primarne sitovy veci, sdnku, programuju integrace pro k8s v golangu -
+toho moc neni, trochu monitoring. Jinak vsechno bezi na linuxu takze kazdej z
+tymu ma slusny linux background.
+ Psoug
+04.11.2022 11:19:06
+Filip02: Vidíš ty dva? Tak je pozorně sleduj. Tolik času pak budeš mít, až z
+tebe bude senior nebo se budeš za něj vydávat. Do té doby viz MS-f
+ nbusr123
+04.11.2022 11:18:36
+wutovi dneska nedala jeho imaginární přítelkyně. Je neklidný.
+ FFDE
+04.11.2022 11:13:51
+Psoug:
+
+Jedinej, kdo tady něco hejtuje, jsi ty, když ti tak vadí hláška:
+
+"Jako kdyby se sítě a kompy od devadesátek nějak změnily..."
+
+...
+
+Zatim se zdá, že jsi jen tradiční kecálek, co všude byl, všechno zná, nic se
+mu nelíbí, ale nedokáže říct proč.
+
+Děláš podržtašku devům, tváříš se jako mistr světa a ještě se kasáš, že sysad
+a devops je totéž a nikdo nerozumí tomu, co devops je...
+
+Prostě ses ukázal jako primitiv. A když ti dám šanci, ať teda předvedeš svoje
+znalosti toho, jak se sítě a kompy od devadesátek změnili, tak se začneš
+vykrucovat, ať se zeptám někoho jinýho.
+
+Takhle trapný umí bejt fakt jenom podržtašky.
+[Smajlík] [Muž]36 [Kategorie]
+ _w_u_t
+04.11.2022 11:07:28
+wut: proc bych s Tebou mel vest nejakou rozumnou diskusi, kdyz apriori vsechno
+hejtujes a z tebe zadnej konkretni nazor nevypadne ? Co bych z toho, krome
+poteseni z ustedreni Ti par stulcu, mel jako mit, kdyz Tobe jde jen o mereni
+si svyho pera a ne o sdileni nakejch zkusenosti ? Sorry jako.
+[Smajlík]
+ Psoug
+04.11.2022 10:52:06
+Psoug
+
+A proč mi neodpoví brouk pytlík jako jsi ty, co se tady kasá, že zvládá sysad
+i devops a zároveň si přivedl myšlenku, že počítač z devadesátek je něco
+jinýho než počítač z dneška?
+
+Nemusíš se nijak rozepisovat, jen nás stačí uzemnit tvýma neuvěřitelnýma
+znalostma.
+
+Určitě vyplodíš alespoň jeden argument, proč je počítač z devadesátek něco
+jinýho než počítač z dneška. :D
+[Smajlík] [Muž]36 [Kategorie]
+ _w_u_t
+04.11.2022 10:29:45
+wut: popros autora diskuse, jiste ti rad pomuze a podeli se o sve znalosti ze
+stredni skoly. Myslim, ze na zacatek toho na Tebe bude az az :)
+[Smajlík]
+ Psoug
+04.11.2022 09:53:17
+Psoug:
+
+A copak se změnilo ty pane všeuměl, co dělá system admin development
+operations brouk pytlik?
+[Smajlík] [Muž]36 [Kategorie]
+ _w_u_t
+04.11.2022 09:43:18
+---
+Jako kdyby se sítě a kompy od devadesátek nějak změnily...
+---
+
+no jak uz sem tu jednou psal: Mas se toho jeste hodne co ucit :D
+[Smajlík]
+ Psoug
+04.11.2022 09:32:22
+Psoug
+
+Jako kdyby se sítě a kompy od devadesátek nějak změnily...
+[Smajlík] [Muž]36 [Kategorie]
+ _w_u_t
+04.11.2022 09:25:13
+wut: no to co sem psal ve svyn prvnim postu do devopsu fakt vetsinou nepatri a
+je to imho presne to, na co se tazatel ptal. Ze ses zasek v myslenkove v
+devadesatkach za to fakt nemuzu :)
+[Smajlík]
+ Psoug
+04.11.2022 08:52:26
+Psoug:
+
+"ja sem prej pro svyho jednoho zakaznika taky devops"
+
+Ale budeš mi tvrdit, že výpis úkolů a odpovědností devops nenáleží, nebo je to
+totéž co sysad.
+
+Tak ty seš dobře marnej, když ani nevíš, co děláš...
+[Smajlík] [Muž]36 [Kategorie]
+ _w_u_t
+04.11.2022 08:22:27
+Filip02: vykašli se na kurzy. Najdi si firmu, která dělá co tě zajímá a běž
+tam jako junior. Lidí je takovej nedostatek, že tě zaučí. A učit se prací pod
+vedením seniora je mnohem lepší než nějakej kurz.
+ _M_S_-_f_a_n_o_u_s_e_k [Muž]50 [Kategorie]
+04.11.2022 08:01:17
+Jinak ja sem prej pro svyho jednoho zakaznika taky devops, nicmene ci/cd ani
+podrztaska jeho vyvoje fakt nejsem :). Delam na pomezi infry a vyvoje, vyvijim
+veci do rozsahly infrastruktury (nechci psat uplne detaily).
+ Psoug
+04.11.2022 07:54:40
+wut: to co popisujes jako praci systemaka platilo tak mozna zkraje 90. let :).
+Dneska se o tyhle cinnosti, ktery si popsal stara primarne nejaky operations.
+
+Systemak se zabejva hlavne technologiema, ktery sem popsal dole, zajima ho
+infrastruktura jako takova. Je tu i spousta it firem, ktery jsou zamereny
+prave jen na ni a nedelaj zadnej vyvoj. Takovy lidi fakt nezajima porouchanej
+desktop, vylity kafe nebo novej monitor. Resej ruzny migrace, deploy novejch
+prvku do stavajiho prostredi, resej prusery na infrastrukture, pripadne
+pomahaj debugovat veci na apce vyvojarum, protoze se casto nevi kde je root
+cause (jestli v apce, infrastrukture, nebo casto kombinace).
+
+Jinak ta otazka na devops byla hlavne kvuli tomu, ze kazda firma to vidi uplne
+jinak. Potkal sem firmy kde devopsak resil jen ci/cd, potkal sem firmy kde si
+vylozili slovo devops jako "vyvojar, ktery rozumi systemum" (v ty firme nikdo
+moc dlouho nevydrzel, prekvapive stale funguje :), pripadne firmy kde devops
+resil automatizaci v ramci infrastruktury - jako bychom to nedelali uz davno
+pred tim nez se tohle slovo stalo cool.
+[Smajlík]
+ Psoug
+04.11.2022 01:06:42
+Psoug
+
+SysAdmin - lidově ajťák - se stará o chod sítě a počítačů ve firmě. Porouchá
+se ti komp? Jdeš za systémákem. Máš onboard novýho člověka? Jdeš za
+systémákem. Vyhoří ti serverovna? Jdeš za systémákem. Vylil sis kafe do
+klávesnice? Jdeš za systémákem. Zapomněl si heslo? Systémák. Chceš víc
+zakroucenej monitor? Systémák...
+
+DevOpsák - lidově ajťák software developerů. Udělal si novou verzi SW a
+potřebuješ jí nasadit? Jdeš za devopsákem. Spadla ti aplikace, protože "někdo"
+neobnovil SSLko? Jdeš za devopsákem. Potřebuješ digital signature na knihovny?
+Jdeš za devopsákem. A přesně jak říkáš, potřebuješ CI/CD? Jdeš za devopsákem.
+Chceš kontejner? DevOpsák. Nastavení Gitu? DevOpsák...
+
+A myslim, že ses trefil s přirovnáním "si to casto predstavuji jako podrztasku
+vyvoje". DevOpsák totiž je podržtaška vývoje.
+[Smajlík] [Muž]36 [Kategorie]
+ _w_u_t
+04.11.2022 00:04:38
+Filip02: jinak treba priprava na rhcsa certifikaci je imho docela dobrej
+zacatek.
+ Psoug
+04.11.2022 00:00:47
+wut: A co je teda devopsak (jako ze udajne delam momentalne devops) ? :D
+
+Btw: nevim o tom, ze by devops poustel wireshark a zjistoval jestli nema
+source colision na sdnce nebo psal ebpf proby, konfiguroval zony na SAN nebo
+ladil kardinalitu sloupecku v tabulce:).
+
+DevOps je imho buzzword a nikdo vlastne nevi co ma teda delat. A ti kdo si
+mysli ze to vi, tak si to casto predstavuji jako podrztasku vyvoje (viz
+hledame ci/cd mastera - hlavne jenkins pico!)
+[Smajlík]
+ Psoug
+03.11.2022 23:51:43
+Buď drzý a jdi na pozici juniora, vypracuj se, školení a certifikáty ti mnozí
+rádi zaplatí. Většinu se stejně budeš učit za běhu.
+ nbusr123
+03.11.2022 23:49:00
+Psoug
+
+Tady si asi někdo plete systémáka s devopsákem.
+[Smajlík] [Muž]36 [Kategorie]
+ _w_u_t
+03.11.2022 23:47:49
+System administrace je hodne sirokej pojem. Co by Te zajimalo ? Par prikladu:
+
+- virtualizace
+- sitovani (moderni jsou sdnky - viz antrea, calico, cilium apod).
+- unix like systemy
+- ms technologie, active directory
+- databaze (relacni/dokoment oriented)
+- ukladani dat, backup a archivace, san site
+- kontejnerizace (kubernetes a klony je dneska velky tema, ale chce to mit
+hodne zkusenosti)
+- identity management, idp (jako je treba keycloak a intagrace s nim) apod
+
+
+Proste je toho dneska bambilion a hodi se mit i presah do progrmaovani (pyhon,
+golang, lua, rust a sem tam treba javascript).
+
+Co chces vedet ? Uz me to nejakej ten rok (desetirok :) zivi…
+[Smajlík]
+ Psoug
+03.11.2022 23:46:32
+Na zapojení klávesnice nepotřebuješ žádný kurz.
+[Smajlík] [Muž]36 [Kategorie]
+ _w_u_t
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ] _II_nn_tt_ee_rr_nn_ee_tt_oo_vv_?é_ _RR_?á_dd_ii_oo_ _SS_ee_zz_nn_aa_mm_kk_aa_ _vv_yy_ss_?í_ll_?á_ _ii_nn_zz_ee_rr_?á_tt_yy_ _ss_ _nn_?á_mm_ii_ _ss_ee
+ OPIŠ BEZPEČNOSTNÍ KOD: _ss_ee_zz_nn_?á_mm_?í_tt_ee_..
+ [Captcha]              _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+

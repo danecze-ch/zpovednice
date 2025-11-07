@@ -1,0 +1,190 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+   Otázky - Vzkazy č.1204203, vloženo _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+   09.10.2022 17:31:17                _s_t_r_á_n_k_a_]
+   Soused radioamatér, prosím o rady
+   Takže starej soused, co bydlí takových 50 metrů ode mě, je radioamatér.
+   Už jsem zvyklej, že mi několikrát za den ruší tím svým pípáním repro
+   zvukovej systém, kterej bzučí a vibruje v intervalech, v jakých on si tam
+   cvaká ty svoje signály. Dneska se mi ale díky tomu začala ještě vypínat
+   externí USB klávesnice u počítače - po dobu, co si on vyťukával nějaké ty
+   signály, přestala fungovat a vypnula se numlock funkce. Když přestal,
+   zase to naskočilo a takhle se to opakovalo asi půl hodiny vkuse, až jsem
+   radši vzal laptop, jinak bych tu klávesnici prohodil oknem.
+
+   Tak pro lidi, co se v tom trochu vyznají, je ten chlap tak blbej, že to
+   neumí dělat správně, nebo je něco s mými zařízeními, a co s tím mám
+   dělat? Já si myslím, že by takhle prasit nemělo v rámci nějakého
+   rádioamatérování, nikomu ze sousedů toho chlapa nic. Před dvaceti lety to
+   prý bylo ještě horší a nestěžoval si jen jeden člověk.
+    otrávenec [Muž]28  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+10.10.2022 18:00:27
+To by som potreboval aby som sa znavil suseda a tej jeho hlupej hlucnej hifi
+sustavy, buzeranta jedneho
+[Smajlík]
+ 8462
+09.10.2022 22:19:26
+"repro zvukovej systém"
+
+Nemyslíš doufám takový dva malý repráčky ve dvou krabičkách, přičemž na jedné
+je ovladač hlasitosti a uvnitř té krabičky plošňák se zesilovačem a tato
+krabička je rovněž propojena s USB kabelem a celý ten zesilovač z USB portu
+napájený?
+
+A na druhém USB portu máš ještě klávesnici?
+
+Docela prasárna a když ovladač hlasitosti hodně doprava otočíš, tak se asi
+dějí zajímavé věci, že?
+
+Člověče, ty ten svůj počítač nemáš moc rád, viď?
+ tdkdf
+09.10.2022 22:08:43
+"Dneska se mi ale díky tomu začala ještě vypínat externí USB klávesnice u
+počítače..."
+
+Buď se s tebou tvůj počítač pomalu loučí nebo ho máš zavirovanej. Slyšel jsem
+už hodně, ale fakt jsem ještě neslyšel, že by bylo technicky proveditelné
+někomu pomocí radiových vln zablokovat USB klávesnici :-) :DDDDDDDDDDDDDDDDDDD
+
+
+Jako bezdrátovou klávesnici na 2.4GHz možná, ale USB určitě ne. USB klávesnice
+je z USB portu nejenom napájená, ale data jedou po drátech a navíc fyzicky se
+přenáší a detekuje rozdílové napětí mezi DATA+ a DATA-, čímž se eliminuje
+souhlasné ELM. rušení, které se přičítá k oběma datovým vodičům stejně. Datové
+vodiče jsou v kabelu zatwistované, čímž se odolnost proti rušení ještě zvýší.
+
+Starší verze sériové asynchronní komunikace ( RS232 ) je vůči ELM. rušení méně
+odolná ( napěťová úrove%n jednoho vodiče vůči GND ), přesto abys docílil
+zarušení, bys musel vysílat několikakilowattovým vysílačem s anténou vysílače
+omotanou ( cívka ) kolem datového vodiče - jen a pouze datového bez GND.
+
+Doporučení: vzdělávej se, více čti a méně piš, ať nejsi za troubu :-)
+[Smajlík]
+ truhlář
+09.10.2022 20:53:09
+Paradoxem je, že čím větší anténa k délce vlny, tím stačí menší výkon. Podle
+popisu to bude něco na 80 nebo 160m. Podke koncese smí 1,5kW v intraviánu. Ale
+nesmí rušit! Na té klávasnici se to projevuje, protože kabel do PC není
+twistovaný. Zkus bezdrátovku. Tam se to nemá kde indukovat a mělo by to
+chodit. Potom už snad jen namalovat zdi pokoje uzeměným alobalem.
+
+A kdyby náhodou byl krokot ozaistný, tak podnět na čtů to řeší.
+
+ps.Quakie, zkoušel jsem ti poslat mail, ale zřejmě nedorazil...
+ Pišta Hufnágl
+09.10.2022 19:43:55
+Super, díky všem za rady.
+
+Možná za ním zajdu a poptám se, co a jak. každopádně Quakie, nedávno si tam
+ten chlápek nechával instalovat takovou obří anténu, to jsme ještě nevěděli na
+co. Skutečně to ovlivňuje i klávesnici přesně v momentech, kdy je slyšet od
+něj to pípání (leckdy i skrze okno) a v momentech, kdy ve stejné frekvenci
+vibrují a hlučí moje repráky. Jakmile to skončí, klávesnice se znovu zapne, a
+tahle pořád dokola. Tak to zjevně možný je.
+ otrávenec
+09.10.2022 19:37:26
+IMHO na vyluzování elektromagnetického vlnění platí velmi přísné normy.
+Zkus se zeptat tady.
+_h_t_t_p_s_:_/_/_w_w_w_._c_r_a_._c_z_/_ 
+Ale možná by stálo za úvahu stavit se u toho radioamatéra a zeptat se, jestli
+ho taky něco neruší a kam byste se měli obrátit.
+[Smajlík]
+ Radič
+09.10.2022 19:08:18
+Zajdi za ním a v klidu se s ním domluv, aby se přišel podívat, co ti doma
+způsobuje. Určitě s tím něco bude ochoten udělat, aby si nepošpinil pověst,
+tedy pokud to není krokot ozaistný. Může mít špatně vyladěnou anténu, u tebe
+může být špatné zemění atd. Koncese určuje i řešení takovýchto problémů. Sám
+vím co udělá blbých 20W vedle otevřený bedny od počítače a to i do umělé
+zátěže.
+
+A to ještě může být hůř, když ti na protějším paneláku do oken rozvítí LTE,
+které smaže kabelovku a signál mezi parabolou a satelitem. A čtú na to má na
+salámu, signál na dojení vovcí se šmrdlafony je přece důležitější.
+ Pišta Hufnágl
+09.10.2022 19:04:19
+Jsem taky radio amatér. Moje značka je KD8MRK, tedy Američan.
+Jakkoli, může radiové vysílání nabourávat tvoje Rádio, TV, tak nemůže ovlivit
+tvoji klávesnici. Leda bys ho měl snad u sebe doma a on vysílal s vysílačem s
+výkonem několik kilowatt. ¨
+
+Jinak ovšem radioamatér nesmí svým vysíloáním NIKOHO rušit. Na to je zákon a
+ON ho musí ZNÁT. Moje rozsáhlé antenní systémy určitě mé sousedy neruší.
+ _Q_u_a_k_i_e [Muž]79 [Kategorie]
+09.10.2022 18:29:59
+To je těžký, no. Pokud tam má kilowatový zesilovač, tak se to stát může. Může
+ho mít špatně nastavený, takže vyzařuje na nepovolených frekvencích víc než je
+limit, ale chyba může být stejně tak dobře na tvých zařízeních, že nejsou
+dostatečně odolná. Dokonce i když se splní všechny požadované věci, stejně se
+může stát, že to bude rušit.
+
+Můžeš ale zkusit pár věcí sám, jako koupit si ty nacvakávací feritové prstence
+a dát si ho třeba na kabel od klávesnice nebo kabely k reproduktorům, případně
+na napájecí šňůry. Možná ti to pomůže. Na tu klávesnici bych tomu i věřil.
+
+Taky se s ním můžeš zkusit nějak domluvit.
+
+No a v krajním případě je tu český telekomunikační úřad, ale to bych úplně
+nedoporučoval.
+ _M_i_c_h_a_l_-_2_2_2 [Muž]44 [Kategorie]
+09.10.2022 17:58:10
+Nemyslím si. Jde o něco, co mě trápí a otravuje a žádám o rady. V jaké jiné
+kategorii by to mělo být? Tohle není diskuze, chci poradit, jak to mám řešit a
+od těch, co tomu rozumí, aby mi třeba napsali, čím to je.
+ otrávenec
+09.10.2022 17:46:26
+Svůj příspěvek jsi vložil(a) do nespravné kategorie. Bylo provedeno přesunutí.
+V případě opakování hrozí blokování vstupu na portál. Prosím zvol příště
+správnou kategorii. Děkujeme za pochopení.
+[Smajlík]      [Muž] [Kategorie]
+ _A_d_m_i_n_i_s_t_r_á_t_o_r
+09.10.2022 17:35:57
+Repráky jsou už staré přes deset let, mají už chatrnější kabely, ale zatím
+slouží. Klávesnice je stará necelé čtyři roky a nikdy s ní nebyl problém. Je
+to teda tím, že je to obojí zastaralé, nebo nějak zničené?
+ otrávenec
+09.10.2022 17:32:37
+Máš špatná zarizeni
+ MSf off
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ] _II_nn_tt_ee_rr_nn_ee_tt_oo_vv_?é_ _RR_?á_dd_ii_oo_ _SS_ee_zz_nn_aa_mm_kk_aa_ _vv_yy_ss_?í_ll_?á_ _ii_nn_zz_ee_rr_?á_tt_yy_ _ss_ _nn_?á_mm_ii_ _ss_ee
+ OPIŠ BEZPEČNOSTNÍ KOD: _ss_ee_zz_nn_?á_mm_?í_tt_ee_..
+ [Captcha]              _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+

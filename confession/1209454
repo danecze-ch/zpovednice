@@ -1,0 +1,118 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+Zpověď č.1209454, vloženo 08.01.2023 20: _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+48:03                                    _s_t_r_á_n_k_a_]
+Potřebuju odborníka na wifi
+Zdravím chci se zeptat co se stane když zapojím kabel z vysílače přímo do
+routeru místo do POE stane se něco. Chci vědět jestli mi poe funguje mám taký
+pocit, že se mi pokazil. Ukazuje mi to i přes poe kolem 5mb/s a nejnižší bych
+měl mít kolem 15 už mě to sere, když zavolám tak říkají, že se ni neděje, že
+rychlost tam jede normální takovou jakou jsem si zaplatil. Když já nemám ani tu
+posranou polovinu toho co bych měl mít. Nevím jestli nemám pořídit novou poe,
+jesti by to jelo líp.
+ typko001 [Muž]21  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+09.01.2023 21:42:46
+@Carpe Jugulum Právě je to napicu i přes lan kabel, který mám z routeru do pc,
+myslel jsem si že je blbý i router tak jsem to hodil zrovna na LAn vedle POE a
+furt stejná rychlost.
+[Smajlík]
+ typko001
+09.01.2023 17:55:36
+Porušil jsi základní pravidlo, strkat to pouze tam, kam to patří :-D
+
+Router může být vadní, a to ty nijak nezjistíš.
+
+Existuje jednoduchá rada, sežeň jiný router a skus to sním, jestliže bude
+rychlost stejně naprd, tak je problém ještě jinde.
+
+Lidé se spoléhají na Wi-fi jakože to musí vždycky fungovat, ale tím popírají
+zákony logiky a fyziky.
+Kolikrát má barák hrubé zdi, sousedi mají tolik Wi-fi Apéček, že na 2.4 Ghz to
+ani nefunguje.
+
+Takže to skus taky na 5Ghz, pokud to ten router umí dvoupásmo. To mnohokrát
+zachrání blbý signál.
+
+Zkus na dsl.cz měření rychlosti Intenetu. Tady je vždy zásadní rozlišovat
+rychlost od poskytovatele - doporučuji strčit LAN kabel z routeru přímo do PC
+a pak měřit a rychlost na Wi-fi, protože ta na Wi-fi bude rozhodně jiná.
+Rychlost se měří v bitech/s (kb/s, Mb/s).
+
+Přenos dat v bytech/s (KB/s, MB/s).
+
+Problémů může být spousta, je ale důležité jít krok za krokem.
+[Smajlík]
+ Roland
+08.01.2023 22:48:23
+POE je power over ethernet... pokud router nepodporuje POE, tak to co do nej
+zapojíš, pokud to nemá vlastní zdroj energie ti nepojede (nezapne se to).
+
+ISP sděluje rychlost sítě je orientační. Rychlost je ovlivněna hromadou
+aspektů. Při připojení přímo na Modem ethernetem by jsi ale měl dosáhnout
+nejvyšší možné rychlosti, pokud ten ethernet nemá přes 100m:)
+ _C_a_r_p_e_ _J_u_g_u_l_u_m [Muž]43 [Kategorie]
+08.01.2023 21:23:07
+Ještě doplním, že 5 Mbps může být rychlost v pořádku podle smlouvy. Ve smlouvě
+můžeš mít totiž uvedenou i nějakou toleranci. Třeba u mě je ta tolerance dost
+velká a tak si můžu začít stěžovat, až když rychlost klesne pod 3 Mbps,
+ačkoliv mám psáno 30 Mbps, rozdíl, co? Naštěstí mi pod 3 klesla jen jednou,
+pak jsem si "popovídal" s technickým oddělením :D. Od té doby mi místo
+smluvních 30 Mbps leze do routeru 40 Mbps.
+ radiš23
+08.01.2023 21:18:27
+Router musí podporovat PoE, protože je potřeba anténu nějak napájet. To ale
+nezvládne jakýkoliv router, zpravidla jen dražší přístroje. Většinou bývá
+uvedeno na obalu, pokud to router umí. Asi bych nejdřív začal restarem routeru
+a počítače, to je takový první krok. U routeru je vhodné nechat ho půl minuty
+vypnutý, aby se vybily kondenzátory. Jestli máš podezření na nefunkční PoE,
+zkus proměřit multimetrem, jestli dává správné napětí. Případně pak můžeš
+proměřit samotný kabel mezi PoE a anténou a PoE a routerem (chyba může být i
+na druhé straně), pokud na to máš takovou tu zkoušečku. Pokud je všechno v
+pořádku, zkus kontaktovat poskytovatele, zda není chyba na jeho straně,
+případně ho poprosit o nápravu.
+ radiš23
+08.01.2023 21:05:33
+poe to zařízení i napájí. Bez poe to v podstatě vypneš.
+ _A_n_d_r_o_i_d_ _B_u_i_l_d_o_z_e_r [Muž]24 [Kategorie]
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ] _II_nn_tt_ee_rr_nn_ee_tt_oo_vv_?é_ _RR_?á_dd_ii_oo_ _SS_ee_zz_nn_aa_mm_kk_aa_ _vv_yy_ss_?í_ll_?á_ _ii_nn_zz_ee_rr_?á_tt_yy_ _ss_ _nn_?á_mm_ii_ _ss_ee
+ OPIŠ BEZPEČNOSTNÍ KOD: _ss_ee_zz_nn_?á_mm_?í_tt_ee_..
+ [Captcha]              _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+
