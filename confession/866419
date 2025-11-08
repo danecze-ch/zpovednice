@@ -1,0 +1,187 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+   Otázky - Vzkazy č.866419, vloženo _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+   19.03.2015 00:14:15               _s_t_r_á_n_k_a_]
+   Wi-fi MEGAPROBLEM
+   Ahoj, nastoval jsem si router a v nastavení na stránkách (jak zadáváte
+   svou IP adresu) jsem debil dal v možnostech - Wi-fi/WDS, kde bylo
+   původně disabled, tak jsem dal možnost - Bridge mode. A co se stalo. Ten
+   net úplně zmizel z nabídky. Nemám ho, nemůžu se připojit, nemůžu ho
+   opravit. Viděl jsem, že sousedka ještě svítí, tak jsem naběl k ní, jenže
+   od ní se na tu stránku nejde vůbec dostat, abych to dal zpátky. Co teď?
+   Moc prosím o pomoc.
+    jelous [Muž]19  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+19.03.2015 11:02:07
+Připoj se kabelem ne a změň to zpátky.
+ _V_o_t_r_a_p_a [Muž] [Kategorie]
+19.03.2015 08:26:49
+Svůj příspěvek jsi vložil(a) do nespravné kategorie. Bylo provedeno přesunutí.
+V případě opakování hrozí blokování vstupu na portál. Prosím zvol příště
+správnou kategorii. Děkujeme za pochopení.
+[Smajlík]      [Muž] [Kategorie]
+ _A_d_m_i_n_i_s_t_r_á_t_o_r
+19.03.2015 02:13:52
+Při resetu do továrního nastavení se většinou vypne WIFI. Ale to je stejně
+jedno. Prostě bez kabelu se tam nedostaneš. Potřebuješ to připojit kabelem k
+počítači, přes něj se dostat do administrace, tam nastavit zabezpečení WIFI a
+zapnout WIFI. A že kabel/počítač s ethernetem nemáš? To už záleží na tobě, zda
+k někomu zajdeš nebo si třeba kabel koupíš a počítač máš apod.
+ Pixall
+19.03.2015 01:20:49
+newbie78900rr46: Tak to můj ADSL router zmizí ze sítě zcela. A dostat ho zpět
+do sítě, aby byl přes další router viditelný z koncových počítačů, není vůbec
+triviální.
+ _S_t_a_6_7 [Muž]28 [Kategorie]
+19.03.2015 01:17:13
+jelous: Nevím, jak to přesně má tvůj router, ale pokud ses odpojil od WiFi,
+tak ti asi nezbude než to odnést k někomu, kdo má počítač s ethernetovou
+zásuvkou (a UTP kabel).
+
+Problém může být v tom, že v některých nastaveních bridge režimu se vypne
+DHCP/AutoIP, takže počítač tu adresu nevidí, a musíš provést ruční nastavení
+sítě.
+ _S_t_a_6_7 [Muž]28 [Kategorie]
+19.03.2015 01:16:04
+Sta67: Ano ja vim co je bridge, proto jsem prave napsal ze to u tech cinskych
+vynalezu takto neni, jsou to vsechno routery ktere simuluji bridge. Zkusis si
+pres to poslat ping nakam za "bridge" a wiresharkem se mrkni jakou to vrati
+ip. V 99% tam ten "bridge" uvidis.
+ newbie78900rr46
+19.03.2015 01:08:15
+newbie78900rr46: V bridge režimu se neroutuje. Jen přeposílají pakety. Síťová
+vrstva většinou zapnutá bývá pouze za účelem připojení ke konfiguračnímu
+rozhraní. Ale pokud neběží DHCP ani AutoIP, blbě se to zjišťuje (na 4 miliardy
+pokusů). Ta čísla, co jsem napsal, má většina routerů jako předkonfigurované.
+ _S_t_a_6_7 [Muž]28 [Kategorie]
+19.03.2015 01:03:31
+Prosím vás, nehádejte se mi tady. Děkuji všem, co se snaží.
+*matouch* DLINK 300.
+
+Takže shrnuto - nemám žádnej drát. Můžu se připojit jen wi-fi. Wi-fi přestala
+tu síť vidět. I moje wi-fi, i cizí. Jméno a heslo k oněm stránkám, kde je
+tohle - 10.0.0.138, 192.168.0.1, 192.168.1.1, 10.0.0.1 samozřejmě mám. Ale je
+mi to k prdu, protože z cizího se na to nedostanu.
+ jelous
+19.03.2015 01:02:27
+DNS je v tomto pripade skutecne k prdu. Podfle typu routeru potrebujes zadat
+do adresniho radku prohlizece IP adresu jak radi Sta67.
+Ale lepe je reset a tovarni nastaveni jak radi newbie. To je rychlejsi a
+jistejsi. A pak se tam dostat stejne jako ses tam uz jednou dostal ;)
+ _*_m_a_t_o_u_c_h_* [Muž]44 [Kategorie]
+19.03.2015 01:00:03
+Sta67: Normalni bridge je skutecne transparetni, to mas pravdu, ale tyto
+zarizeni vzdy funguje v rezimu router bridge takze to na siti uvidis, ip
+vrstvu to ma vzdy zapnutou a dela to nejaky workaround tzn routuje to tak aby
+se to chovalo jako bridge. Vsechny ty cinske shity jsou stejne.
+ newbie78900rr46
+19.03.2015 00:56:59
+Napis sem jmeno routeru a najdu ti to. Jinak zatim nejrychlejsi cesta k cili
+newbie78900rr46
+ _*_m_a_t_o_u_c_h_* [Muž]44 [Kategorie]
+19.03.2015 00:54:02
+ha ha ha pobabavils
+ _*_h_m_m_m_m_* [Muž]46 [Kategorie]
+19.03.2015 00:50:43
+*hmmmm*: Nech Sta67, kterej tomu očividně rozumí, ať mu poradí. DNS je k
+ničemu v tomhle případě. On nemá problém s tím, že mu nejde DNS. Já teda radu
+nemám, zase tolik o tom nevím, ale víc než ty, tak tu nepruď. Když se snaží
+pomoct.
+ erfrerf
+19.03.2015 00:48:04
+tak přehoď dns na gogolvske 8.8.8.8.8.
+ _*_h_m_m_m_m_* [Muž]46 [Kategorie]
+19.03.2015 00:42:03
+Sta67: prosímtě co tady popisisujeješ lajkovi neco? Hraješ si na machra?
+ _*_h_m_m_m_m_* [Muž]46 [Kategorie]
+19.03.2015 00:39:51
+Nejde :(((
+Sta67: Ano, jednu z těch adres zadávám do prohlížeče, ale nejde to (odsud) a z
+domu taky ne, protože já vůbec nemám ten LAN nebo co. Jen wifi asi. Co teď,
+jak to mám vrátit, ať tu síť vidím, prosím.
+ jelous
+19.03.2015 00:35:35
+Bridge mode slouží přesně k tomu, aby router samotný v síti nebyl vidět, a jen
+spojoval různé sítě dohromady.
+
+Ale i v tomto režimu většinou na nějaké IP adrese komunikuje.
+
+Většinou to bývá uvedeno na spodní straně. Nejčastěji 10.0.0.138, 192.168.0.1,
+192.168.1.1, 10.0.0.1.
+
+Nevím, co je to za router, ale tato adresa nemusí být přístupná přes WiFi. Jen
+přes kabel zastrčený do zásuvky LAN.
+
+V horším případě sis se zapnutím bridge režimu vypnul i DHCP server, takže
+budeš muset routovací tabulky sítě nastavit ručně.
+ _S_t_a_6_7 [Muž]28 [Kategorie]
+19.03.2015 00:35:04
+Newbie to popsal dobře. Ale chybyba může byt ijinde. Promiň křiščálovou kouli
+nemám u sebe, klidně ti pomůžu, jen musím znát přesnou přičinu
+ _*_h_m_m_m_m_* [Muž]46 [Kategorie]
+19.03.2015 00:30:58
+newbie78900rr46: Aha, já to jen vypnul a zapnul. Tak děkuju moc, snad to
+pomůže.
+[Smajlík]
+ jelous
+19.03.2015 00:27:59
+*hmmmm* Promiň, není tajný. Je to Dlink. Resetování routeru nepomáhá. Pořád to
+není nikde vidět, ani u mě, ani od ní to vůbec není v tom seznamu, jak je na
+něm vidět internety v celém sousedství. Pardon, že to popisuju tak amatérsky,
+nevyznám se. Prostě tím přemostěním nebo co to přestalo existovat.
+[Smajlík]
+ jelous
+19.03.2015 00:25:45
+Domaci router potrebujes v rezimu AP (access point), na to se potom pripojis
+klientem, nejspis to take dela NAT jako vetsina routeru. Bridge by mohl nejak
+fungovat pro jeden pocitac, nevim, to bych musel videt. Co potrebujes udelat
+je reset celeho zarizeni zpet do tovarniho nastaveni, byva tam na to male
+tlacitko ktere jde zmacnout propiskou nebo necim podobnym, potreba drzet po
+dobu par desitek vterin, podivej se do navodu. Tim se to resetuje zpatky
+predtim nez jsi to pokazil.
+(napajeni - trafo nechej pripojene)
+ newbie78900rr46
+19.03.2015 00:24:26
+typ routru a provider je tajny? Resetni router
+ _*_h_m_m_m_m_* [Muž]46 [Kategorie]
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+

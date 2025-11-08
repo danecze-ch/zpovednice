@@ -1,0 +1,137 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+Diskuze č.862781, vloženo 28.02.2015 19: _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+54:43                                    _s_t_r_á_n_k_a_]
+Bordel v jednotkách kapacity
+Je tak nějak všeobecně známo, že třeba na 8 GB flashdisk se vejde jen nějakých
+7,6 GB a na 4,7 GB DVD se nikdy nevejde víc než 4,5 GB. Není to o tom že by
+výrobci šidili, ale o bordelu v jednotkách kapacity. Ty se dají počítat buď
+desítkově kdy je násobek 1000 (značí kB, MB, GB, TB) nebo binárně kdy je
+násobek 2^10 neboli 1024 (správně se značí kiB, MiB, GiB, TiB). Problém je ve
+Windows. které používá většina lidí. Windows totiž počítají binárně, ale z
+nepochopitelného důvodu zobrazují dekadické jednotky. Neboli myslí xiB, ale
+zobrazují xB. Tudíž se pak zdá, že všechna média jsou menší než mají být (i
+když ve skutečnosti je to jen optická iluze). Jiné OS (Linux, OS X) tímhle
+netrpí. Když v Linuxu připojím 8 GB flash disk, tak opravdu vidím 8 GB. Na ten
+disk se pochopitelně nevejde víc, protože přiměřeně k tomu jsou větší všechny
+soubory. Ale MS se asi ani nechystá tenhle zmatek který zcela zbytečně
+způsobuje změnit. A přitom by to nebylo nic složitého. Ono se nemůžete pak
+divit lidem druhu BFU, co si koupí třeba 3 TB disk a pak ho běží reklamovat,
+protože má jen 2,78 TB (ve Win) a oni mají pocit že je někdo ošidil/disk je
+vadný, protože rozdíl víc než 200 GB je celkem dost.
+ Terminus technikus [Muž]  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+01.03.2015 15:09:55
+Odjaživa, od prvopočátku se počítalo 1MB = 1024kB
+To, že se po novu počítá 200 MB jako 200x1024= 204800=± 205MB považuji za
+marketingový podfuk, i když matematicky je to správněji.
+Vždycky bylo příjemnější koupit si 200MB médium a mít 204,8MB, než koupit si
+větší, 205MB médium a zjistit, že 0,2MB chybí. Adekvátně se to samozřejmě
+zvyšuje s kapacitou.
+ gufu
+28.02.2015 22:34:38
+a co stim? :D neni to uplne jedno? :D
+ jentak
+28.02.2015 22:22:26
+Terminus technikus: Ja umim prepocitat TB (ktere me nezajimaji) na TiB (coz je
+jedina relevantni jednotka). Rezervovane nemam nic.
+ newbie78900rr46
+28.02.2015 21:45:44
+newbie78900rr46: to je správně, protože 1 TTBB opravdu rovná se 0,976 TTiiBB. Koli
+zabírá žurnál nevím, ale něco zabírají u ext2/3/4 rezervované bloky pro roota
+(defaultně 5 %).
+
+Normovač: však taky skoro všude je, jen Wokna trvají na tom že 1 MB je 1024
+KB.
+ Terminus technikus
+28.02.2015 21:13:03
+newbie78900rr46: df zobrazuje skutečné volné místo, které můžeš využít na
+soubory. Takže je od toho odečteno právě tohle všechno.
+ pex
+28.02.2015 21:11:28
+Terminus technikus: 200GB ne, ale ext4 zabere necelých 50GB na 3TB disku.
+ pex
+28.02.2015 21:10:49
+*
+Ouha...
+
+1 KB by měl být 1000 B, nikoiv 1024 B.
+
+Trošku překlep :)..
+ Normovač
+28.02.2015 21:09:18
+pex: Myslim cislo ktere df oznacuje jako size ale nevim presne co tim mysli,
+asi tam nebude ten zurnal a mozna jeste neco, cist man se me nechce.
+ newbie78900rr46
+28.02.2015 21:07:15
+Mezinárodní norma ustavující soustavu jednotek SI, značení jednotek a systém
+zápisu předpon (K, M, G, T) atd. Předepisuje metrický systém. Kilo je zkrátka
+1000, Mega 1000 0000 atd. To že se ve výpočetní technice zavedlo odvozování
+předpon z binárního základu je sice pochopitelné, nicméně je to vlastně
+"špatně". 1 MB by měl být 1000 B, nikoiv 1024 B.
+ Normovač
+28.02.2015 21:05:30
+newbie78900rr46: To je volné místo, ne kapacita, část kapacity je vyhrazena
+indexům souborů, žurnálu atd.
+ pex
+28.02.2015 21:02:55
+Uz jsem k tomuto jednou neco psal a byl jsem jakymsi expertem obvinen ze
+nicemu nerozumim takze si naserte :)
+
+Jinak i v linuxu mam kapacitu disku o neco nizsi, konkretne 925GiB u 1TB
+disku, bohuzel si nejsem jisty jestli to nezabira zurnal, musel bych se
+podivat do manualu.
+ newbie78900rr46
+28.02.2015 20:03:17
+J-D: tak určitě filesystém si něco vezme, ale to je nula nula nic, rozhodně to
+nemůže dělat těch víc jak 200 GB u 3 TB disku.
+ Terminus technikus
+28.02.2015 19:58:33
+zbyva snad jen nepouzivat windows.. :/
+
+Ale on to zpusobuje i overhead filesystemu.. Vyrobce flashky uvadi kolik ma
+kapacitu flashka, ale neco si vezme pro sebe samotny filesystem - (ex)fat,
+ntfs, ext atp.
+[Smajlík] [Muž]24 [Kategorie]
+ _J_-_D
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+
