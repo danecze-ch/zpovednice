@@ -1,0 +1,140 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+   Otázky - Vzkazy č.1027776, vloženo _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+   13.11.2017 19:06:19                _s_t_r_á_n_k_a_]
+   Fyzika,nechápu,Práce,pohyb
+   Potřebuju poradit alespoň jeden- jak počítat a proč (na tohle zítra píšu
+   test)díkyy:
+   1.Nákladní vlak o hmotnosti 550 tun vyjel ze stanice a po 5 minutách
+   rovnoměrně zrychleného pohybu po vodorovné trati dosáhl rychlosti 60km/
+   h -1 .Jakou práci vykonala tažná síla lokomotivy?
+   2.Motor výtahu zvedne rovnoměrným pohybem náklad o hmotnosti 400kg do
+   výšky 28m za 80s.Jaký je výkon motoru?
+   3.Za jaký čas zvedne rovnoměrnym pohybem jeřáb s výkonem 6 000 W břemeno
+   o hmotnosti 11tun do výšky 8metru?
+    Elellelelel [Muž]14  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+13.11.2017 20:44:31
+1] F=m*a [ N ; kg , m/s^2 ]
+
+a = v / t [ m/s^2 ; m/s , s ]
+
+A = F * s [ J ; N , m ]
+
+v = 0 az vmax pri dosažení s, tj. rovn. zrychlujici pohyb s=1/2*vmax*t,
+odvozeni viz
+
+Integral ( meze: dolni 0 , horni vmax ) t*dv
+
+Po uprave>
+
+A = m * a * s = m * vmax/t * 1/2*vmax*t = m * vmax * 1/2 * vmax = 1/2*m*vmax^2
+[ J ]
+
+Po dosazeni>
+
+A=1/2*550000*(60000/3600)^2 =76.388 MJ
+
+2] V idealnim pripade zrychleni a > g v prvni polovine vysky h, v druhe
+bezdeni a klesa ke g, tj. prace je stejna jako by a=g po nekonecne dlouhou
+dobu. Pak plati
+
+A = F * h = m*g*h [ J ; kg , m/s^2 , m ] [vztah 2]
+
+P = A / t [ W ; J , s ]
+
+Po uprave>
+
+P = m * g * h / t [ W ]
+
+Po dosazeni>
+
+P = 400 * 9.81 * 28 / 80 = 1373 W
+
+3] t = A / P [ s ; J , W ]
+
+A = m * g * h [ J ] ... viz [2]
+
+t = m * g * h / P [s]
+
+Po dosazeni>
+
+t = 11000 * 9.81 * 8 / 6000 = 144 s
+ Erwín
+13.11.2017 19:57:41
+>>MrFlibble: Je to pravda. Předpokládám ale, že příklad je vytažen z nějaké
+sbírky, kde následuje otázka Jaký výkon má lokomotiva?
+[Smajlík] [Muž]58 [Kategorie]
+ _K_v_i_d_o_9_9
+13.11.2017 19:43:26
+1. Příklad. Je tam trochu chyták. Dobu jízdy není vůbec potřeba znát.
+Potřebuješ vypočítat práci, která byla potřeba pro urychlení 550 tun vážícího
+vlaku na rychlost 60km/h. Jinak řečeno potřebuješ vypočítat kinetickou
+energii. E = 1/2 * m * v * v Není podstatné, jak dlouho to lokomotivě trvá.
+Pokud jsou zanedbány všechny vnější vlivy, kinetická energie pohybujícího se
+tělesa je stejná, jako práce vykonaná na jeho urychlení.
+ _M_r_F_l_i_b_b_l_e [Muž]25 [Kategorie]
+13.11.2017 19:41:42
+Za jaký čas zvedne rovnoměrnym pohybem jeřáb s výkonem 6 000 W břemeno o
+hmotnosti 11tun do výšky 8metru?
+
+Hodnota tíhového zrychlení na Zemi je 9,81 m/s(2), zaokrohlím na 10. To
+znamená, že předmět o hmotnosti 1 kg má na Zemi tíhu (tj. sílu, kterou působí
+na podložku nebo zde na závěs jeřábu) 10 newtonů.
+
+Břemeno o hmotnosti 11 tun neboli 11 000 kq se zvedá silou 110 000 N . Do
+výšky 8m se tak výkoná práce 880 000 N.m neboli 880 000 J (880 kJ).
+
+Jak dlouho to trvá motoru s výkonem 6 000 W? Výkon P=W/t, pak t=W/P logicky
+nepřímá úměra. Čím větší je výkon mororu P, tím kratší je doba zvedání t.
+Výpočet je triviální.
+ _K_v_i_d_o_9_9 [Muž]58 [Kategorie]
+13.11.2017 19:27:52
+Okamžitá rychlost v = a . t (rovnoměrné zrychlení po jakou dobu)
+Ujetá dráha s=1/2 . a . t. t
+Práce W = F . s (jakou silou působíme po jaké dráze)
+Výkon P = W / t (kolik práce uděláme za jakou dobu; čím je doba kratší, tím je
+výkon vyšší, nepřímá úměra)
+Je třeba počítat v jednotkách SI (tedy např. rychlost si převést na m/s)
+ _K_v_i_d_o_9_9 [Muž]58 [Kategorie]
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+

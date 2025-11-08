@@ -1,0 +1,210 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+   Otázky - Vzkazy č.1028574, vloženo _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+   19.11.2017 00:01:42                _s_t_r_á_n_k_a_]
+   Je tu nějaký odborník na cracking?
+   Dokázal by mi nějaký odborník na cracking srozumitelně vysvětlit jak
+   funguje password cracking a buffer overflow?
+    Vylitý géniu [Muž]25  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+19.11.2017 15:26:59
+Azatoth: Ok, díky za vysvětlení. Ještě jen technická - pokud budu script
+použít na bežná hesla musel bych do proměnných zapsat 0-9, ale jak je to se
+znaky jako ě, š, č, ř, ž,...? Pokud vím tak třeba v HTML se musí kodování
+deklarovat a ten shell bude asi počítat standardně s ASCII sadou nebo už dnes
+používá také UTG-8?
+ Vylitý géniu
+19.11.2017 15:03:58
+Psoug: takových jako on jsem poznal spousty. akorát jim teda bylo 12 a ne 25
+(?), takže už vím, že tophle moc nemá smysl.
+
+Vylitý géniu: je to velmi zjednoduššený shell script, který spustíš například
+v bashi a poustupně zkouši všechny příznakové kombinace
+
+curl -X put -d '{"login":"Vylitý géniu", "password":$i}' _h_t_t_p_s_:_/_/_e_x_a_m_p_l_e_._c_o_m_/
+_l_o_g_i_n_._p_h_p_ 
+
+curl je utilita, která v olá webové stránky.
+-X put je špatně, má tam být -X post, čímž se pomocí metody POST předají
+webovému formuláři informace, v tomto případě "login", kde je uživatelské
+jméno, a heslo, ve kterém je heslo, které zkoušíš.
+_h_t_t_p_s_:_/_/_e_x_a_m_p_l_e_._c_o_m_/_l_o_g_i_n_._p_h_p_ je adresa přihlašovacího formuláře.
+
+
+samozřejmě musíš, například přes vývojářskou konzoli v prohlížeči, zjistit,
+jaké informace se kam, při přihlašování, odesílaj.
+ _A_z_a_t_h_o_t_h [Muž]27 [Kategorie]
+19.11.2017 14:52:21
+Azathoth: tak ja to tu beru (kdyz mam teda naladu) jako takove myslenkove
+cviceni, tim ze neco vysvetluju mi pomaha uvedomit si i detaily kterejch bych
+si jinak nevsim ;)
+ Psoug
+19.11.2017 14:46:58
+Azathoth: Máš pravdu :/ tuším, že for je cyklus pro proměné v svorkách pro
+písmena od a do z, ale dále syntaxi nechápu. A také mi není jasné, jak to
+spustím. Jestli v nástrojích pro vývojáře v prohlížeči nebo kde, když to chci
+použít na konkrétní přihlašovací formulář?
+[Smajlík]
+ Vylitý géniu
+19.11.2017 14:37:55
+Psoug: stejně z toho absolutně nic nepochopí, tak proč se namáhat.
+ _A_z_a_t_h_o_t_h [Muž]27 [Kategorie]
+19.11.2017 14:31:05
+Azathoth: no fuj :)
+
+Jeden onliner vladne vsem jeden jim vsem kaze... ;))
+[Smajlík]
+ Psoug
+19.11.2017 14:16:48
+for i in {a..z}{a..z}{a..z}; do curl -X put -d '{"login":"Vylitý géniu",
+"pasword":$i}' _h_t_t_p_s_:_/_/_e_x_a_m_p_l_e_._c_o_m_/_l_o_g_i_n_._p_h_p_ | <<test jestli proběhl
+přihlášení>>; done
+
+tady máš nejprimitivnější script na kreknutí tříznakového hesla.
+ _A_z_a_t_h_o_t_h [Muž]27 [Kategorie]
+19.11.2017 13:40:32
+Nebo spíš takhlen: když si založím účet na nějaké službě s velmi krátkým a
+jednoduchým heslem (kvůli výpočetnímu výkonu) a postnu link, dokáže mě někdo
+cracknout a vysvětlit mi jak postupoval? Samozřejmě to nebude nic s dvojitou
+autentizací atd, prostě velmi jednoduché uživatelské heslo...
+ Vylitý géniu
+19.11.2017 12:26:09
+Vylitý géniu: Jak se krade databáze? :D :D Ty mě bavíš :D Krade se těžko.
+Pokud někdo něco sakra nepodcenil, tak jsi bez šance. A i když se ti ji podaří
+získat, tak pořád nemáš vyhráno. On ti to taky někdo může pořádně osolit. To
+by na internetu nemohly existovat žádné služby, kdyby se daly jen tak
+jednoduše krást hesla.
+ _M_r_F_l_i_b_b_l_e [Muž]25 [Kategorie]
+19.11.2017 12:10:08
+Mrflibble: Mimochodem jak se krade databáze? Abych měl přístup do databáze,
+tak přece musím mít nejdříve přístup do administrace. K čemu mi pak je
+databáze s hashema, když chci třeba konkrétní heslo k účtu, ale stejně k ní
+nemohu vstoupit přímo a musím nejprve prolomit administraci?
+ Vylitý géniu
+19.11.2017 12:06:45
+Vylitý géniu: Tak by si to chtělo nastudovat alespoň základní pojmy. Ano, pro
+lámání se používají většinou GPU.
+ _M_r_F_l_i_b_b_l_e [Muž]25 [Kategorie]
+19.11.2017 11:59:32
+Mrflibble: Samozřejmě, že to neznamená a nerozumím tomu, jen vím že to
+existuje. No on ten návrh je asi hodně dráhy, takže pronájem cloudoveho
+výpočetního výkonu a v domácích podmínkách na GPU?
+ Vylitý géniu
+19.11.2017 11:54:06
+Vylitý géniu: To, že víš, že se ten pojem vyskytuje u BTC ještě neznamená, že
+mu rozumíš. ASIC se nepoužívá, teoreticky by vyrobit šlo, ale těžko by se to
+někomu vyplatilo.
+ _M_r_F_l_i_b_b_l_e [Muž]25 [Kategorie]
+19.11.2017 11:42:15
+Mrflibble: To náhodou vím, protože se tento pojem používá u BTC a mineri se
+tuším řídí hash ratem. Používá se tedy na prolamování hesel také speciální hw,
+jako třeba Asic?
+ Vylitý géniu
+19.11.2017 11:35:00
+Vylitý géniu: Každé louskání hesel začíná ukradením databáze s hashema.
+Představa, že bys louskal slovníkem, nebo brutforce přímo přihlašovací
+formulář je hodně naivní. Jakmile máš databázi hesel a pár set dolarů na
+pronájem výpočetního výkonu, tak jsi schopen během pár dnů zjistit velkou část
+hesel. Metod louskání je spousta, od primitivního slovníku až po různé
+kombinatorické metody, prince atd. Ty se ale stejně nedostaneš ani k tomu, aby
+sis vůbec zjistil, co je to hash.
+ _M_r_F_l_i_b_b_l_e [Muž]25 [Kategorie]
+19.11.2017 11:11:49
+Vylitý géniu: ano, jeden den programuješ web, druhý stavíš vlastní procesor a
+další krekuješ
+ _A_z_a_t_h_o_t_h [Muž]27 [Kategorie]
+19.11.2017 10:40:24
+Azototh: Jak nemá smysl (nebo spíše nevíš?), protože já jsem zakotvil v IT,
+což je věc ke které se denně vracím...
+ Vylitý géniu
+19.11.2017 10:36:25
+newbie7980fr: Tak já nevím, tak třeba na nějakém fórum se chci přihlásit místo
+uživatele.
+Zkusit nejprve vstup přes e-mail za pomoci social enginnering nelze, protože
+ho neznám.
+Navíc je to třeba maďar, takže nemůžu zkusit ani slovníkovy útok. Co teď?
+Jedině nějaký brute force attack, jenže ke všemu má server ochranu, že po
+několika nepovedený pokusech po přihlášení je pauza. Jak bude vypadat takový
+úspěšný útok (asi i za použití více IP adress, mezi kterými se po čase bude
+přepínat viz.z důvodu výše)? Co všechno musí obsahovat takový script?
+ Vylitý géniu
+19.11.2017 10:00:26
+newbie7980fr: A ja vim ze jo, jen sem potreboval zplodit post, ktery by nebyl
+prilis dlouhy a na kterym bych vybil svou prebytecnou energii po te co sem se
+vratl z party ;)
+[Smajlík]
+ Psoug
+19.11.2017 09:53:06
+Tohle už zavání porušováním nějakého paragráfku...
+[Smajlík] [Muž]28 [Kategorie]
+ _V_e_g_a_s
+19.11.2017 08:40:13
+Nemá smysl ti něco vysvětlovat, když tě za hodinu začně zajímat něco naprosto
+odlišeného a k tomuhle se nikdy nevrátíš
+ _A_z_a_t_h_o_t_h [Muž]27 [Kategorie]
+19.11.2017 05:30:02
+_h_t_t_p_s_:_/_/_e_n_._w_i_k_i_p_e_d_i_a_._o_r_g_/_w_i_k_i_/_P_a_s_s_w_o_r_d___c_r_a_c_k_i_n_g
+[Smajlík]      [Muž]65 [Kategorie]
+ _S_v_a_t_ý_ _k_a_z_a_t_e_l
+19.11.2017 05:00:57
+Psoug: Mas sice pravdu ale toto chovani fungovalo mozna zacatkem 90. let, dnes
+uz uz ne. Proto neni potreba tim zatezovat mlademu geniovi uz tak dost vylitou
+hlavu. Genius: Neptej se furt na p*coviny. Password cracking je tak siroke
+tema ze neni srozumitelne co vysvetlovat. Jsi troll, hloupy.
+ newbie7980fr
+19.11.2017 04:10:01
+Buffer overlow je easy. Ve zkratce: program je delenej na dve casti data a
+kod. Pokud budes mit definovanou promenou na 8 bytu do ktere uzivatele budou
+vkladat data treba z klavesnice a ty nebudes kontrolovat delku tlvlozeneho
+retezce, co se asi stane kdyz uzivatel namisto 8 bytu jich vlozi treba 1000 ?
+Prepise i cast ktera je pro kod. A kdyz tu cast prod prepises sprsvnejma
+datama, tak muzes zmenit jeho beh tak jak chces ty.
+ Psoug
+19.11.2017 01:05:12
+No vylity g. Dost pochybuje, ře na těhle strankach se někdo rozumně vyjadři, z
+šeskych stranek skuz root
+ _*_h_m_m_m_m_* [Muž]46 [Kategorie]
+19.11.2017 00:13:35
+Kolik zaplatíš?
+ abort ignore
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+
