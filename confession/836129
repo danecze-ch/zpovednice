@@ -1,0 +1,1083 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+Diskuze č.836129, vloženo 14.10.2014 20: _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+34:16                                    _s_t_r_á_n_k_a_]
+Logická hádanka - 1000 vypínačů+žárovka
+Poprosil bych, aby se programátoři zdrželi vyzrazení této hádanky, protože znát
+ho mají v popisu práce :).
+
+Hádanka zní - máte na zdi tisíc vypínačů ale pouze jeden z nich ovládá žárovku,
+která je ve vedlejší místnosti, do které není odnikud vidět. Vždy když se
+chcete přesvědčit, jestli žárovka svítí, musíte odejít od vypínačů, vstoupit do
+oné místnosti, vyjít do třetího patra a tam se na ní podívat.
+
+Úkol je zjistit, který vypínač ovládá onu žárovku.
+
+A teď pozor - máte pouze 10 možností se jít na onu žárovku podívat.
+
+****
+
+Rovnou podotýkám, že úkol nelze vyřešit nějakým obejitím jako "pozvu si
+kamaráda, co mi zavolá, až bude svítit ta správná apod." Můžete akorát zapnout/
+vypnout nějaký vypínače a když jste hotoví, tak se můžete jít podívat na
+žárovku. A na tu žárovku se smíte jít podívat pouze desetkrát.
+
+A řešení opravdu existuje :).
+ _l_i_b_i_k E-MAIL:_[_g_r_a_f_i_k_a_/_m_r_e_f_h_i_._g_i_f_]   [Muž]25 [Kategorie]  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+16.10.2014 23:33:57
+Ale zase... v týhle jsme vytvořili devadesátidenní rekord v počtu
+"rozhřešení." Dokonce ani slovní fotbal neměl takovej úspěch.
+[Smajlík]         [Muž]35 [Kategorie]
+ _b_a_n_á_n_o_v_ý_ _z_á_k_u_s_e_k
+16.10.2014 12:43:49
+Radši dej dnes večer novou hádanku do nové diskuze!
+Ať se posuneme dál.
+ nebud lama
+15.10.2014 23:44:54
+aha, dík za podrobný vysvětlení. Nevíš, jestli reálný vyhledávání tras (idos,
+mapy) funguje na tomhle principu nebo je ještě nějaký jiný?
+6A6M
+---------
+Pravděpodobně se něco podobnýho používá nebo to z Dijsktry vychází. Zrovna
+hledání tras je výkonostně snadno řešitelný problém, ale existuje spoustu
+jiných, které jsou naopak extrémně složitě řešitelné (výkonostně).
+
+Třeba tzv. "knapsack problem", tj. jseš zloděj a někam vlezeš a chceš si co
+nejvíc nakrást. Jenže do tvýho pytle se vleze jen omezená hmotnost. A o všech
+věcech, který můžeš ukrást, tak víš, kolik váží a kolik stojí.
+Úkol je jednoduchý - jaký věci si máš vzít, aby sis co nejvíc vydělal.
+
+Obecně takovýto problém nemá jiné řešení než "hrubou silou", tedy vyzkoušíš
+všechno se vším. To je složitost 2^x. To ale už u pouhých 30 věcí znamená 2^30
+= miliardu různých kombinací a to je hranice pro běžné počítače, aby ti
+výsledek dopravili v rozumném čase.
+Samozřejmě pak existuje ještě mnoho různých vylepšovátek, které ti to o něco
+zrychlí, ale ten hlavní problém zůstává, roste to exponenciálně.
+
+Pak přichází heuristiky, tj. už nejdeš vyloženě po tom nejlepším výsledku z
+nejlepších, ale spokojíš se s řešením, které se s vysokou pravděpodobností
+nachází někde blízko toho nejlepšího.
+ _l_i_b_i_k [Muž]34 [Kategorie]
+15.10.2014 22:02:49
+libik: aha, dík za podrobný vysvětlení. Nevíš, jestli reálný vyhledávání tras
+(idos, mapy) funguje na tomhle principu nebo je ještě nějaký jiný?
+[Smajlík]
+ 6A6M
+15.10.2014 20:56:08
+co když existuje cesta vedoucí do toho města přímo, ale je delší, než cesta
+přes jiné město? Pak tu kratší cestu tímhle stylem nenajdeš.
+6A6M
+-----------
+Jasně že najdeš, představme si, že máme města propojené do kruhu a označme je
+jako A B C D E F (takže z A se dostaneš do F nebo B; z B se dostaneš do A nebo
+C atd.)
+
+Všechny cesty jsou dlouhé 10.
+
+Akorát jediná výjimka je, že z A do D vede ještě přímá cesta, která je dlouhá
+100.
+
+A ty se ptáš na nejkratší cestu z A do D.
+
+******
+
+Do našeho dynamického seznamu si město, ve kterém začínáme.
+
+Krok 1 : Všechna města začínají na nule, podíváme se do našeho dynamického
+seznamu a vytáhneme to nejmenší. V prvním kroku je tam samozřejmě pouze město
+A, takže ho vytáhneme pryč a do našeho dynamického seznamu si přidáme všechna
+města, odkud se můžeme dostat a zapamatujeme si u nich vzdálenost a cestu.
+
+Přidáme si tedy:
+
+F se skóre 10 a cestou A-F;
+B se skóre 10 a cestou A-B;
+D se skóre 100 a cestou A-D;
+
+Město A bylo vytáhnuté a tak si ho označíme jako "uzavřené", tj. už do něj
+nikdy nepůjdeme.
+********
+
+Další kroky děláme stejně, vybereme si město s nejmenším skóre v našem
+dynamickém seznamu, vytáhneme a zpracujeme.
+
+Krok 2: Vytáhneme F, z F se dá jít do A, ale A je "uzavřené", takže
+ignorujeme, pak se dá jít do E, takže přidáme E do našeho seznamu:
+
+E se skóre 20 a cestou A-F-E
+
+Náš seznam teď tedy je
+
+B se skóre 10 a cestou A-B;
+F se skóre 20 a cestou A-F-E;
+D se skóre 100 a cestou A-D;
+
+Krok 3: Vytáhneme B, zpracujeme analogicky, přidáme C, náš seznam bude teď
+vypadat :
+
+C se skóre 20 a cestou A-B-C;
+F se skóre 20 a cestou A-F-E;
+D se skóre 100 a cestou A-D;
+
+Krok 4: Vytáhneme si C, zpracujeme, D ještě není uzavřené, čili ho můžeme
+zpracovávat a vidíme, že cesta A-B-C-D má skóre 40, což je méně, než naše
+předchozí A-D se 100, takže přepíšeme, náš seznam vypadá takto :
+
+F se skóre 20 a cestou A-F-E;
+D se skóre 30 a cstou A-B-C-D;
+
+Krok 5: Vytáhneme F, zpracujeme, výsledek vede akorát do Déčka, jelikož skóre
+je stejné, můžeme se rozhodnout, jestli chceme nahradit novou cestou, nebo
+zůstaneme u staré. Já zůstanu u staré
+
+D se skóre 30 a cestou A-B-C-D;
+
+Krok 6: Otevřu D, do A nemůžu, je uzavřené, do C nemůžu je uzavřené, do E
+nemůžu, je uzavřené.
+
+Dynamický seznam :
+
+prázdný.
+
+****
+
+Jestliže je dynamický seznam prázdný, končíme, nejkratší cesta vede skrz A-B-
+C-D o vzdálenosti 30; (je možné si i pamatovat seznam všech nejkratších cest,
+pokud se vzdálenost rovná, pak by byla řešení dvě, tj. A-B-C-D a A-F-E-D
+ _l_i_b_i_k [Muž]34 [Kategorie]
+15.10.2014 20:18:40
+libil: co když existuje cesta vedoucí do toho města přímo, ale je delší, než
+cesta přes jiné město? Pak tu kratší cestu tímhle stylem nenajdeš.
+
+
+powejpw: zeptám se, jestli je ok.
+[Smajlík]
+ 6A6M
+15.10.2014 16:56:45
+Ano, 15 vos je správně.
+--------------------------------------
+Teď vám dám hádanku na pokračovaní.
+
+Michal a Petr jsou bratři, dvojčata. Oba trpí rozdvojením osobnosti. Michal,
+když je ok, mluví pravdu, když mu hrábne, vždycky lže. Petr je pravý opak.
+Vypadají naprosto stejně, rozliší je pouze jejich matka. (To mají dobrý u bab,
+nachytávek a zločinů, co?)
+------
+Tak a vy teď potkáte jednoho z bratrů a chcete vědět, jestli je to Michal nebo
+Petr. Můžete mu položit jen 1 otázku, na kterou lze odpovědět ANO nebo Ne, ta
+otázka nesmí být složitá, musí být bez logických spojek, jako například -
+nebo, a, ne, jestliže, pak..
+Existuje úplně jednoduchá otázka, podle které poznáte, o kterého z bratrů jde.
+A já se ptám jaká?
+ powejpw
+15.10.2014 16:19:46
+Jó, Dijkstrův algoritmus. Jsem věděl, že se jmenuje podle nějakýho šílence. :-
+D Ale tenhle algoritmus je, pokud si dobře vzpomínám, opravdu nejrychlejší...?
+
+
++
+
+libik: Dík, to je zajímavý. Akorát - A musíš tu cestu najít co nejrychleji. -
+mi nějak nesedí. Respektive, co to je, co nejrychleji v tomto případě? To by
+zabralo hafec času.
+--------------
+Jj, jedná se o nejrychlejší možný neheuristický algoritmus pro hledání
+nejkratších cest.
+
+Je na něm nejkrásnější, že s počtem měst a silnic roste lineárně, tj. když si
+označíte nějakou časovou jednotkou T jak dlouho vám v průměru trvá zpracovat
+jedno město nebo jednu cestu, tak 1000 měst+silnic bude trvat 1000 časových
+jednotek.
+
+Milion měst+silnic bude trvat cca milion časových jednotek.
+
+Protože s Dijkstrou jakmile jednou do nějakého města vstoupíte a "otevřete ho"
+a podíváte se z něj do okolí, tak se do toho města už nikdy nevrátíte, protože
+když to děláte správně, tak máte jistotu, že rychleji se do toho města už
+dostat nedá.
+ _l_i_b_i_k [Muž]34 [Kategorie]
+15.10.2014 14:43:32
+Mám výsledek vos:
+SPOILER
+15
+Konec SPOILERU
+ _W_h_i_t_e_ _W_o_l_f [Muž]25 [Kategorie]
+15.10.2014 13:35:23
+powejpw: nemám to podložený žádným výpočtem, ale přijde mi výhodnější hrát s
+černým králem, jenom to prostě bude trvat těch 50 tahů. Když neudělám
+vyloženou ptákovinu, tak mě do šachu nedostane. :-D
+ _b_a_n_á_n_o_v_ý_ _z_á_k_u_s_e_k [Muž]35 [Kategorie]
+15.10.2014 13:16:50
+powejpw: nejdriv jsem chtel radostne zarvat 'zadna, vcely ve vosim hnizde
+neziji', ale nakonec jsem si vzal tuzku a dosel k patnacti - pokud prijmeme
+fakt, ze nekompletni vosy nemohou letat.
+ _k_a_i_t_e_n [Muž]58 [Kategorie]
+15.10.2014 12:45:12
+powejpw
+Ale řekne, vo co :-D
+U šachů nevím, tam je 50% šance, navíc si jen stěží vybavím, kolik polí je na
+šachovnici (64?) a matně tuším, že každá figurka se pohybuje jinak, tudíž -
+pokud nejde o život, tipuji černou, a to proto, že se mi ten začátek bílou zdá
+jako chyták / nápověda. Víc se mi nad tím nechce dumat :o))
+ _H_i_l_d_e_g_a_r_d_a_ _Č_t_v_r_t_á [Žena]25 [Kategorie]
+15.10.2014 12:31:06
+Hildegarda: Ale neřekne, tohle je mnohem jednodušší než ty vaše těžký hádanky,
+tomuhle uvěří, že víš. Ale ještě to neříkej. Třeba jsou tady takoví jak já a
+dá jim to trochu zabrat :D
+
+Ale aby ses nenudila, ti dám ještě hádanku:
+
+Předpokládejme, že černý král je na rohovém políčku a bílí kůň na rohovém
+políčku úhlopříčně na opačném konci. Na šachovnici nejsou žádné jiné figurky.
+Hráči se v tazích střídají a začíná kůň. Dokáže, li kůň dát během 50 -ti tahů
+šach, vyhrává bílý, jinak vyhrává černý. S jakou barvou byste raději hráli,
+abyste vyhráli?
+
+Negooglete si to, děcka.
+ powejpw
+15.10.2014 12:20:07
+powejpw
+Já vím, já vím! Ale Krshna stejně zase řekne že ne :o)))
+ _H_i_l_d_e_g_a_r_d_a_ _Č_t_v_r_t_á [Žena]25 [Kategorie]
+15.10.2014 12:09:36
+*Kolik vos bylo v hnízdě?
+
+Jsem to tak pracně předělával z včel na vosy, aby si to ti pomalejší mého typu
+(ty ne! :D) nevygůůglili a zapomněl jsem na to :/
+ powejpw
+15.10.2014 12:05:58
+Lupič Willy: Dík. Taky ti dám hádanku.
+Z jednoho vosího hnízda odletěly všechny vosy. Jedna pětina vos na šeříky,
+jedna třetina na maliník, trojnásobek rozdílu těchto čísel přistál na akátu a
+jedna odletěla na pampelišku. Kolik včel byl v úlu?
+ powejpw
+15.10.2014 11:14:02
+powejpw: _h_t_t_p_:_/_/_h_a_d_a_n_k_y_._c_h_y_t_r_a_k_._c_z_/_?_h_=_c_e_r_n_a_-_a_-_b_i_l_a_-_k_u_l_i_c_k_a
+ Lupič Willy.
+15.10.2014 11:02:43
+Jó, Dijkstrův algoritmus. Jsem věděl, že se jmenuje podle nějakýho šílence. :-
+D Ale tenhle algoritmus je, pokud si dobře vzpomínám, opravdu nejrychlejší...?
+ _b_a_n_á_n_o_v_ý_ _z_á_k_u_s_e_k [Muž]35 [Kategorie]
+15.10.2014 09:32:04
+libik: Dík, to je zajímavý. Akorát - A musíš tu cestu najít co nejrychleji. -
+mi nějak nesedí. Respektive, co to je, co nejrychleji v tomto případě? To by
+zabralo hafec času.
+---
+Přemýšlím nad těma kuličkama, ale asi mi chybí nějakej spoj v mozku nebo co a
+ne a ne na to přijít. Nějaká nápověda by nebyla? :D
+ powejpw
+15.10.2014 09:12:42
+Libiku, jaký má ta tvoje druhá hádanka řešení? Kromě Google maps.
+powejpw
+------------
+Správné a rychlé řešení takovéto úlohy ti nejenže najde nejrychlejší cestu z
+bodu města A do města B, najde ti nejrychlejší cesty z města A do všech
+ostatních měst :).
+
+Víceméně jde o to, že na začátku si všechna města označíš nulou a zkusíš vyjít
+z města A do všech směrů, do kterých to jde. A do těch měst, do kterých bys
+došel, tak si označíš číslem určující onen čas.
+
+No a tato města si někam zapíšeš a začneš od toho s nejmenší vzdáleností a
+uděláš opět to samé. Ale k těm vzdálenostem už přičítáš tu první vzdálenost z
+města A do toho nejbližšího města. Když dojdeš dvakrát nebo víckrát do
+stejného města, tak vyhrává ta varianta, která má menší hodnotu, větší
+zahazuješ.
+
+Konkrétně jde o Dijkstrův algoritmus. Jde o jeden z těch celkem intuitivních a
+zároveň efektivních algoritmů.
+ _l_i_b_i_k [Muž]34 [Kategorie]
+15.10.2014 08:59:01
+Libiku, jaký má ta tvoje druhá hádanka řešení? Kromě Google maps.
+ powejpw
+15.10.2014 07:47:39
+Znám, takže nebudu kazit hádání ostatním. Pak ale... proč to sem vlastně píšu?
+ _k_a_i_t_e_n [Muž]58 [Kategorie]
+15.10.2014 02:46:22
+Černá a bílá kulička
+
+Vězeň čeká na popravu. Král ohlásí lidu (aby jeho popularita vzrostla), že mu
+dá poslední šanci se zachránit. Přichystá prý pytlík s jednou černou a jednou
+bílou kuličkou. Pokud vězeň vytáhne bílou, je osvobozen. Pokud vytáhne černou,
+bude popraven. (Tohle všechno veřejnost ví.)
+
+Kat, který má popravu provést, se ale dozví, že král podvádí a dá do pytlíku
+dvě černé kuličky (ať se vězeň snaží jak chce, vytáhne vždy černou – smrt).
+Tohle vězni potají řekne.
+
+Dalšího rána se koná celá „poprava“ za účasti veřejnosti. Co musí vězeň
+udělat, aby se zachránil?
+
+Předpoklady: Opravdu je to možné, řešení existuje. Král musí před veřejností
+dodržet slib, ať se mu to líbí nebo ne. Veřejnost je přítomna a bude chtít
+vidět důkaz o popravě nebo o osvobození. Vězeň musí vytáhnout právě jednu
+kuličku (nesmí obě dvě a nesmí vytáhnout prázdnou ruku).
+ _W_h_i_t_e_ _W_o_l_f [Muž]25 [Kategorie]
+15.10.2014 00:41:11
+Lupič Willy.: Stejně to určitě skončilo tím, že šašek krále brutálně
+znásilnil, protože jim došly jedy. Jen pro děti je to "jako" s vodou :D
+[Smajlík] [Muž]33 [Kategorie]
+ _K_r_s_h_n_a
+15.10.2014 00:36:06
+Ono i bez té vody by to byl celkem zajímavý logický problém, ale šašek by v
+něm nemohl nikdy "vyhrát", pokud by se tedy oba hráči chovali racionálně a
+hráli se svými nejsilnějšími kartami.
+
+Král má v podstatě dvě možnosti, buď najisto usmrtit šaška dvanáctkou, ale pak
+by riskoval, že dostane od šaška jedenáctku a zemře též.
+
+Nebo se může najisto zachránit, nechá-li si dvanáctku jako protijed, ale pak
+desítkou šaška nemusí usmrtit a bude to opět plichta.
+
+Král může vyhrát, pokud riskne nalít šaškovi dvanáctku a doufat, že ten bude
+hrát "při zdi", nechá si jedenáctku jako protijed a králi šoupne neškodnou
+devítku. Pak zemře šašek a král přežije.
+
+Totéž v případě, pokud by šašek zaútočil svojí nejvyšší jedenáctkou a král si
+nechal dvanáctku na protijed. Pak by přežil a šaška zabil desítkou.
+
+Jenže šašek by byl blázen, aby si nechával jako protijed devítku, to by byla
+jistá smrt.
+
+Takže být králem, kalkululoval bych nejspíš s tím, že šašek chce přežít a
+nechá si jako protijed svou nejvyšší jedenáctku. Zabil bych ho dvanáctkou a
+jeho devítku pak zneutralizoval desítkou.
+
+Jenže to by pořád s sebou neslo určité riziko, že mi šašek "nelogicky" nalije
+jedenáctku a já zemřu spolu s ním.
+
+Pokud by tedy na takový souboj došlo, podle mě by asi zvítězil pud
+sebezáchovy, každý by si nechal svůj nejsilnější jed jako protijed a přežili
+by oba :-)
+[Smajlík]
+ Lupič Willy.
+15.10.2014 00:31:36
+Nebo jako, že si šašek před soubojem vzal jed nízkého čísla, králův jed ho
+neutralizoval a pak si šašek nalil vodu s tím, že napřed dal královi taky
+vodu.
+ _K_r_s_h_n_a [Muž]33 [Kategorie]
+15.10.2014 00:29:36
+Zakusek: 'noc!
+ _k_a_i_t_e_n [Muž]58 [Kategorie]
+15.10.2014 00:28:51
+banánový zákusek: S tou žárovkou je to takový praktický, každopádně o vodě
+nebyla nikde řeč, všichni pili jen jedy. To je jako, kdyby nějakej vtipálek
+místo vody řekl, že král vypil jed č. 9, neutralizoval 12kou... šašek vypil
+jed č. 10 a neutralizoval 11kou, tak vzal šašek kudlu a krále ubodal. To je to
+samý.
+[Smajlík] [Muž]33 [Kategorie]
+ _K_r_s_h_n_a
+15.10.2014 00:28:25
+Zakusek: no fuj to neni, jen k tomu musi clovek pristupovat jako k hadance a
+nikoliv k logicke uloze. Br... pripomnelo mi to me hadky ve skolce nad
+nesmyslnosti reseni 'leze leze po zeleze'. Byl jsem za to zbit a prvne jsem
+poznal, co je vitezstvi hmoty nad duchem ;)
+ _k_a_i_t_e_n [Muž]58 [Kategorie]
+15.10.2014 00:27:53
+Tak brzo? No tak nic, tak jindy.
+[Smajlík] [Muž]96 [Kategorie]
+ _W_h_o_i_s_i_t
+15.10.2014 00:27:23
+Whoisit: já už chtěl jít spát. A kdoví, jak by to dopadlo... třeba by tu do
+minuty nebylo... ;-) :-DD
+
+Dobrou všem, musím se odebrat. :-)
+ _b_a_n_á_n_o_v_ý_ _z_á_k_u_s_e_k [Muž]35 [Kategorie]
+15.10.2014 00:22:27
+banánový zákusek
+Dej mi to zadání do tří minut, a já ti ho znovu vyřeším.
+[Smajlík] [Muž]96 [Kategorie]
+ _W_h_o_i_s_i_t
+15.10.2014 00:18:42
+kaiten: dík, teď usnu v klidu. :-D Googlit se mi nechtělo, kdyby přece jen
+někdo nakopnul diskusi směrem k jinýmu řešení. Ano, souhlasím, jak teplá
+žárovka, tak voda jsou fuj ošklivé hádanky neslučující se s přísně analytickým
+myšlením. :-D
+ _b_a_n_á_n_o_v_ý_ _z_á_k_u_s_e_k [Muž]35 [Kategorie]
+15.10.2014 00:14:58
+Zakusek: pote, co jsem stejne jako se zarovkou dospel i zde k nazoru, ze
+situace nema reseni, pouzil jsem google a ano, sasek nalil krali cistou vodu.
+Coz situaci samozrejme resi, lec...
+ _k_a_i_t_e_n [Muž]58 [Kategorie]
+15.10.2014 00:13:43
+no jo ale v zadání se o vodě nic nepsalo, tam se píše že všichni pijou jedy :
+PP
+ _K_r_s_h_n_a [Muž]33 [Kategorie]
+15.10.2014 00:10:41
+Je možný, že ta voda není požadovaný řešení, ale funkční je... a nic jinýho mě
+nenapadá. :-D Uvidíme, Whoisit psal, že zná to řešení ze Simpsonů... tak snad
+to někdo dodá. :-)
+ _b_a_n_á_n_o_v_ý_ _z_á_k_u_s_e_k [Muž]35 [Kategorie]
+15.10.2014 00:03:49
+Hm, voda... to je stejne nesystemovy prvek, jako tepla zarovka.
+
+Jinak diky za znovuzadani!
+ _k_a_i_t_e_n [Muž]58 [Kategorie]
+15.10.2014 00:01:57
+zákusek: jj, to bude asi ono... a tu nerozeznatelnost od vody jsem už z
+původního zadání zapomněl, takže s mým zadáním by to bylo neřešitelné :-D
+[Smajlík]
+ Lupič Willy.
+14.10.2014 23:58:02
+No jak jsem psal - pokud šašek podstrčil královi vodu (v původním zadání jsou
+jedy od vody nerozeznatelné), tak král vypil vodu a na to si dal dvanáctku,
+páč předpokládal, že šašek mu dal nejvyšší co měl - jedenáctku. Tím se král
+sám otrávil. Pro šaška mu zbyla druhá nejvyšší desítka, tu ale šáša přebil
+svou nejvyšší jedenáctkou.
+
+Podobnost s pivem je čistě náhodná. Žádné pivo nebylo během řešení vypito. :-(
+ _b_a_n_á_n_o_v_ý_ _z_á_k_u_s_e_k [Muž]35 [Kategorie]
+14.10.2014 23:53:16
+Zadání, pokud si ho dobře pamatuju: král má jedy 2,4,6,8,10,12, šašek
+1,3,5,7,9,11.
+Každý jed je smrtelný, ale vyšší číslo působí jako protijed proti nižšímu.
+Každý naleje nejdřív druhému jeden jed a pak vypije další jed jako protijed,
+jímž se má zachránit. Král má zdánlivě velkou výhodu, ale přesto zemře a šašek
+přežije. Jak je to možné??
+ Lupič Willy.
+14.10.2014 23:51:36
+Whoisit - to bylo na me? Pokud ano, tak ne ;).
+ _k_a_i_t_e_n [Muž]58 [Kategorie]
+14.10.2014 23:50:00
+Vy dva, pozvete mě na svatbu?
+[Smajlík] [Muž]96 [Kategorie]
+ _W_h_o_i_s_i_t
+14.10.2014 23:47:17
+Hildie, uz mi to doslo. Nyni je treba misto zahady samotne resit zahadu
+zmizeleho zadani hadanky.
+[Smajlík] [Muž]58 [Kategorie]
+ _k_a_i_t_e_n
+14.10.2014 23:45:16
+kaiten
+Jen si pěkně lámej hlavinku ;-))
+ _H_i_l_d_e_g_a_r_d_a_ _Č_t_v_r_t_á [Žena]25 [Kategorie]
+14.10.2014 23:41:32
+Jakej sakra kral? Zblaznil jsem se ja, nebo tady resite ulohu, co nema zadani?
+ _k_a_i_t_e_n [Muž]58 [Kategorie]
+14.10.2014 23:38:21
+Ten král se jedem musel otrávit sám, protože jinak by všechny jedy přežil. Ale
+to je v rozporu z tím, že oba pili jed.
+[Smajlík] [Muž]33 [Kategorie]
+ _K_r_s_h_n_a
+14.10.2014 23:27:22
+Oukej, fajn, takže král neexistoval, šašek neexistoval, lahvičky neexistovaly
+a jestli neumřeli jinak, tak tam žijí dodnes!
+[Smajlík]         [Muž]35 [Kategorie]
+ _b_a_n_á_n_o_v_ý_ _z_á_k_u_s_e_k
+14.10.2014 23:25:37
+Třeba jsme měli kolektivní halucinaci?
+ _H_i_l_d_e_g_a_r_d_a_ _Č_t_v_r_t_á [Žena]25 [Kategorie]
+14.10.2014 23:24:54
+Všichni jste se stali obětí vtípku.
+[Smajlík] [Muž]96 [Kategorie]
+ _W_h_o_i_s_i_t
+14.10.2014 23:23:55
+Mě napadlo, že si z nás někdo s přímým přístupem k databázi dělá srandu... to
+je asi jediná možnost, vymazat záznam takhle... kdyby se to dělalo z rozhraní,
+tak to bude vypadat jak říká Lupič. Ale tak paranoidní, abych tu myšlenku
+udržel dýl než vteřinu, zase nejsem. Nebo... nebo jo? :-D
+ _b_a_n_á_n_o_v_ý_ _z_á_k_u_s_e_k [Muž]35 [Kategorie]
+14.10.2014 23:20:02
+Lupič Willy.: Programátorka :D
+ _K_r_s_h_n_a [Muž]33 [Kategorie]
+14.10.2014 23:19:03
+Krshna: tak to jsem fakt zvědav na řešení, admin to podle všeho nesmazal
+(chybí tam ta hláška o smazání a ani k tomu nebyl důvod), a pochybuji, že by
+šla mazat vlastní rozhřešení, když to psala nepřihlášená ještě navíc...
+[Smajlík]
+ Lupič Willy.
+14.10.2014 23:13:26
+No, a teď už je v souladu se zadáním úplně všechno. :-P
+ _b_a_n_á_n_o_v_ý_ _z_á_k_u_s_e_k [Muž]35 [Kategorie]
+14.10.2014 23:13:23
+Lupič Willy.: To je nová hádanka.
+[Smajlík] [Muž]33 [Kategorie]
+ _K_r_s_h_n_a
+14.10.2014 23:13:17
+Kde jsou ty hádanky s tchýní, králem a kanibalem? Jsem aktualizovala stránku a
+zmizly mi, vám taky?
+ _H_i_l_d_e_g_a_r_d_a_ _Č_t_v_r_t_á [Žena]25 [Kategorie]
+14.10.2014 23:12:29
+Kam to zmizelo?
+[Smajlík]
+ Lupič Willy.
+14.10.2014 23:11:35
+Hildegarda Čtvrtá: Ne já ti to prostě nevěřím. Jasně, tak to, že jsi
+machrovala, žes to uhodla a pak jsi nebyla schopna odpovědět zakecáváš tím, že
+jsem se přepsal? Dost nízké. Konec debaty.
+[Smajlík] [Muž]33 [Kategorie]
+ _K_r_s_h_n_a
+14.10.2014 23:11:14
+Řešení už bylo uvedeno. Asi bych si dal do sluchátek rádio a zkoušel vypínače
+až bych slyšel jiskru
+ _L_U_F [Muž]99 [Kategorie]
+14.10.2014 23:10:50
+Liana: a vodu použít mohli? Kdyby šašek podal králi vodu a král se pak v
+naději, že všechno přebije dvanáctkou, poprvé napil jedu, tak je do rána po
+právu tuhej. Ale jaksi úplně nevyplývá, jestli je voda v souladu se zadáním.
+ _b_a_n_á_n_o_v_ý_ _z_á_k_u_s_e_k [Muž]35 [Kategorie]
+14.10.2014 23:08:56
+Liana
+Na řešení se koukněte na Simpsonovi, tam to bylo.
+Těžší.
+[Smajlík] [Muž]96 [Kategorie]
+ _W_h_o_i_s_i_t
+14.10.2014 23:07:20
+Krshna
+Se s tim budeš muset smířit, že už je to tak. Ona je to hádanka spíš
+češtinářská, tudíž chápu, že pokud píšeš "chvíly", můžeš s tím mít problém.
+Konec debaty.
+ _H_i_l_d_e_g_a_r_d_a_ _Č_t_v_r_t_á [Žena]25 [Kategorie]
+14.10.2014 23:06:48
+Liana
+Moc dlouhé.
+[Smajlík] [Muž]96 [Kategorie]
+ _W_h_o_i_s_i_t
+14.10.2014 23:06:04
+Jó, neřešme to, hádanka je vyluštěná, tak co. Já chci taky nějakou luštit. :-D
+ _b_a_n_á_n_o_v_ý_ _z_á_k_u_s_e_k [Muž]35 [Kategorie]
+14.10.2014 23:02:58
+Hildegarda Čtvrtá: Ptal jsem se tě, tys nebyla schopná odpovědět, tak co
+jiného si myslet.
+[Smajlík] [Muž]33 [Kategorie]
+ _K_r_s_h_n_a
+14.10.2014 23:02:41
+"Po bitvě je každý generál." Nahoď další, ať mám též nějaké rozptýlení, krom
+SOM sítě.
+[Smajlík] [Muž]96 [Kategorie]
+ _W_h_o_i_s_i_t
+14.10.2014 23:02:01
+mně to teda nedošlo :D sem myslela, že na stromě a na zemi neměla být ŽÁDNÁ
+jablka :D
+[Smajlík]
+ 2-methyl-propan
+14.10.2014 23:01:45
+Krshna
+No určitě.
+[Smajlík]          [Žena]25 [Kategorie]
+ _H_i_l_d_e_g_a_r_d_a_ _Č_t_v_r_t_á
+14.10.2014 23:00:34
+Hildegarda Čtvrtá: Nevěřim, žes to pochopila. Ptal jsem se tě přímo, ani
+jednou jsi mi nedala odpověd, museli mi odpovědět jiní :D
+Stejně je logičtější to, že v tu chvíli padaly obě, nebo deset nebo milion na
+zem, takže byly ve vzduchu !
+[Smajlík] [Muž]33 [Kategorie]
+ _K_r_s_h_n_a
+14.10.2014 23:00:26
+Krshna: aha, promiň že jsem nereagoval. Já si po x letech na zp. založil účet,
+tak ten uživatelskej systém neznám. Myslel jsem, že na příchozí zprávy se mi
+kdyžtak někde rozsvítí upozornění, ale nic takovýho se nestalo. :-D Tak to
+příště budu sledovat. :-D
+ _b_a_n_á_n_o_v_ý_ _z_á_k_u_s_e_k [Muž]35 [Kategorie]
+14.10.2014 22:59:07
+Krshna
+Voe, to tu pochopili všichni až na tebe.
+ _H_i_l_d_e_g_a_r_d_a_ _Č_t_v_r_t_á [Žena]25 [Kategorie]
+14.10.2014 22:56:54
+Krshna
+Už jsem se na to nemohl dívat.
+[Smajlík] [Muž]96 [Kategorie]
+ _W_h_o_i_s_i_t
+14.10.2014 22:56:23
+Whoisit: Ty vole, já to chtěl od Hildy, nevěřím, že to pochopila. Banánovýmu
+zákusku jsem před pár minutami psal, že v tu chvíly zrovna padaly na zem. Což
+je dost logický. Jen jsem prostě nevěřil, že to Hildegarda uhodla, proto jsem
+to po ní chtěl. Zkazils to -_-
+ _K_r_s_h_n_a [Muž]33 [Kategorie]
+14.10.2014 22:56:16
+Tak, přesně, upadlo jen jedno jablko - takže na stromě nebylA jablkA a nebylA
+ani na zemi.
+ _b_a_n_á_n_o_v_ý_ _z_á_k_u_s_e_k [Muž]35 [Kategorie]
+14.10.2014 22:56:11
+Krshna
+No jablka nebyla na stromě a jablka nebyla ani na zemi proto, že na stromě
+bylo jedno jablko a na zemi bylo jedno jablko.
+ _H_i_l_d_e_g_a_r_d_a_ _Č_t_v_r_t_á [Žena]25 [Kategorie]
+14.10.2014 22:55:05
+Na stromě byla jablka... dobře byla 2... to nevysvětluje proč nejsou na
+stromě.
+Krshna
+--------
+No tak se zamysli, je to fakt jednoduchý :D.
+ _l_i_b_i_k [Muž]34 [Kategorie]
+14.10.2014 22:54:50
+Potřeboval jsem až to vysvětlení Hildy :D
+
+Ještě dávejte hádanky.
+ to asi ne co
+14.10.2014 22:54:44
+No jasně, na stromě byla (dvě) jablka. A když zafoukalo, tak už tam ta (dvě)
+jablka nebyla. Ale ta (dvě) jablka nebyla ani na zemi. Tak kde jsou?
+
+když zafoukal vítr, jedno spadlo na zem. obě jablka ani nespadla na zem, ani
+nezůstala na stromě.
+ _W_h_o_i_s_i_t [Muž]96 [Kategorie]
+14.10.2014 22:54:04
+Hildegarda Čtvrtá: No, řekni to když to víš, ptám se tě přímo :)
+ _K_r_s_h_n_a [Muž]33 [Kategorie]
+14.10.2014 22:53:02
+Krshna
+No jasně, na stromě byla (dvě) jablka. A když zafoukalo, tak už tam ta (dvě)
+jablka nebyla. Ale ta (dvě) jablka nebyla ani na zemi. Tak kde jsou?
+ _H_i_l_d_e_g_a_r_d_a_ _Č_t_v_r_t_á [Žena]25 [Kategorie]
+14.10.2014 22:50:39
+Hildegarda Čtvrtá: Tak napiš řešení, když to víš ;)
+Na stromě byla jablka... dobře byla 2... to nevysvětluje proč nejsou na
+stromě.
+ _K_r_s_h_n_a [Muž]33 [Kategorie]
+14.10.2014 22:50:34
+Hildegarda: rád bych, ale teď si zrovna na žádnou nevzpomenu. Snad někdo dá. :
+-)
+ _b_a_n_á_n_o_v_ý_ _z_á_k_u_s_e_k [Muž]35 [Kategorie]
+14.10.2014 22:49:01
+Krshna
+"Přemýšlej, třeba na to po chvíli přijdeš."
+:-))))
+
+banánový zákusek
+:-D ještě.
+ _H_i_l_d_e_g_a_r_d_a_ _Č_t_v_r_t_á [Žena]25 [Kategorie]
+14.10.2014 22:48:25
+Krshna: nezmizela. Nikam nezmizela. Jen ta jablka nebyla na stromě, nebyla na
+zemi.
+ _b_a_n_á_n_o_v_ý_ _z_á_k_u_s_e_k [Muž]35 [Kategorie]
+14.10.2014 22:47:46
+Hmmm, tak to jsem čekal vychytanější řešení...
+[Smajlík]
+ Lupič Willy.
+14.10.2014 22:47:28
+Hildegarda: No jojo. :-DD Ale já na to zaboha nemohl přijít dva dny. :-D
+ _b_a_n_á_n_o_v_ý_ _z_á_k_u_s_e_k [Muž]35 [Kategorie]
+14.10.2014 22:46:58
+No když tam byla 2 jablka, to stále nevysvětluje jak mohla najednou zmizet.
+ _K_r_s_h_n_a [Muž]33 [Kategorie]
+14.10.2014 22:46:32
+Whoisit: Jojo, teď už určitě. Ale máš pomyslnou zlatou.
+[Smajlík]         [Muž]35 [Kategorie]
+ _b_a_n_á_n_o_v_ý_ _z_á_k_u_s_e_k
+14.10.2014 22:46:19
+Jo jakože takhle jo?
+No nene :-DDDD
+[Smajlík]          [Žena]25 [Kategorie]
+ _H_i_l_d_e_g_a_r_d_a_ _Č_t_v_r_t_á
+14.10.2014 22:45:30
+banánový zákusek
+Znám to trošku jinak no, ale ostatní to už dořeší.
+[Smajlík] [Muž]96 [Kategorie]
+ _W_h_o_i_s_i_t
+14.10.2014 22:43:42
+Kde sou ta zasraná jabka?
+ _z_d_a_r_j_a_k_s_v_i_ň_a [Muž]51 [Kategorie]
+14.10.2014 22:43:40
+Whoisit: jako teď už jsi na to kápnul, no. Ale do zadání se do dát nemůže, to
+by napadlo každýho hned. :-)
+ _b_a_n_á_n_o_v_ý_ _z_á_k_u_s_e_k [Muž]35 [Kategorie]
+14.10.2014 22:42:10
+No ale když ho zlomí, tak fakticky ta jablka pořád budou NA tom stromě i kdyby
+se otrhala z větví a ležela volně NA koruně ne?
+ _H_i_l_d_e_g_a_r_d_a_ _Č_t_v_r_t_á [Žena]25 [Kategorie]
+14.10.2014 22:42:01
+banánový zákusek
+Nebylo to zadání, že na stromě byla dvě jablka?
+ _W_h_o_i_s_i_t [Muž]96 [Kategorie]
+14.10.2014 22:40:30
+to asi ne co:
+no to opravdu ne, byla to zralá jablka, fakt ne květy. Ale jako alternativní
+řešení se mi to líbí. :-)
+ _b_a_n_á_n_o_v_ý_ _z_á_k_u_s_e_k [Muž]35 [Kategorie]
+14.10.2014 22:40:02
+Strom spadl a rozmačkal všechna jablka :D
+[Smajlík] [Muž]33 [Kategorie]
+ _K_r_s_h_n_a
+14.10.2014 22:39:07
+Lupič Willy: no právě. :-D
+Whoisit: ano, strom zůstal na místě. Opravdu žádnej hurikán se nekonal. :-D
+ _b_a_n_á_n_o_v_ý_ _z_á_k_u_s_e_k [Muž]35 [Kategorie]
+14.10.2014 22:38:47
+Když mě už to přemýšlení bolí :-(
+
+TYVOLE!!!!! Jestli tam ten strom nezůstal stát, tak jste všichni mrtví, tak si
+to dobře rozmyslete!!!!! :-D
+ _H_i_l_d_e_g_a_r_d_a_ _Č_t_v_r_t_á [Žena]25 [Kategorie]
+14.10.2014 22:38:20
+babánový zákusek: Tož neodválo to kvítka? Jakože jablka rostla .. ale byla ve
+formě kvítek a pupenů teprve, zafukalo, spadly kvítka. Plody ještě nebyly.
+ to asi ne co
+14.10.2014 22:37:02
+banánový zákusek
+Zůstal tam po tom větru ten strom?
+[Smajlík] [Muž]96 [Kategorie]
+ _W_h_o_i_s_i_t
+14.10.2014 22:36:58
+Vítr strom porazil/zlomil? Ale to by svým způsobem pořád jablka na stromě
+byla...
+[Smajlík]
+ Lupič Willy.
+14.10.2014 22:36:20
+Hildegarda: to víš že jo, já to tady píchnu a ty to vyhraješ. :-P :-D Chtělas
+hádanku, jen lušti. Jinak... jsem měl chuť zabíjet, když jsem se řešení
+dozvěděl. :-DD
+ _b_a_n_á_n_o_v_ý_ _z_á_k_u_s_e_k [Muž]35 [Kategorie]
+14.10.2014 22:34:56
+Hildegarda Čtvrtá: Přemýšlej, třeba na to po chvíli přijdeš.
+ _K_r_s_h_n_a [Muž]33 [Kategorie]
+14.10.2014 22:33:54
+banánový zákusek
+No a kde teda jsou!!!!!!!? :-D
+ _H_i_l_d_e_g_a_r_d_a_ _Č_t_v_r_t_á [Žena]25 [Kategorie]
+14.10.2014 22:30:44
+Hildegarda, Krshna:
+Ne, rybník nebyl v zadání, zahradník taky ne a jablka na stromě byla. :-
+D Opravdu cokoliv o čem v zadání není zmínka, je vyloučeno, není třeba
+uvažovat tímhle směrem. :-)
+ _b_a_n_á_n_o_v_ý_ _z_á_k_u_s_e_k [Muž]35 [Kategorie]
+14.10.2014 22:30:03
+Mám univerzální řešení. Když si nebudu vědět rady, dám téma na zpovědnici a
+jdu na pivo. Zatím co si lidi lámou palice, já se pobavím, pak přijdu domů a
+mám vyřešeno!
+Nevím jestli jsem se vychcaný už narodil, a nevím kam až s tím dojdu.
+ _z_d_a_r_j_a_k_s_v_i_ň_a [Muž]51 [Kategorie]
+14.10.2014 22:28:41
+banánový zákusek: Nesesbíral je při tom větru nějakej zahradník? :D
+ _K_r_s_h_n_a [Muž]33 [Kategorie]
+14.10.2014 22:27:24
+Ta jablka tam ve skutečnosti nebyla.
+Nebo spadla do rybníku. To zadání nevylučuje ;-)
+ _H_i_l_d_e_g_a_r_d_a_ _Č_t_v_r_t_á [Žena]25 [Kategorie]
+14.10.2014 22:25:09
+Hildegarda Čtvrtá: Tak to ti jí just vylušim :D
+ _K_r_s_h_n_a [Muž]33 [Kategorie]
+14.10.2014 22:23:49
+Krshno, to je moje hádanka!!! :-D
+ _H_i_l_d_e_g_a_r_d_a_ _Č_t_v_r_t_á [Žena]25 [Kategorie]
+14.10.2014 22:23:49
+Krshna: mě nevyprovokuješ. :-P :-DDD
+ _b_a_n_á_n_o_v_ý_ _z_á_k_u_s_e_k [Muž]35 [Kategorie]
+14.10.2014 22:22:32
+banánový zákusek: Sezobali je drozdi, které přinesl vítr.
+[Smajlík] [Muž]33 [Kategorie]
+ _K_r_s_h_n_a
+14.10.2014 22:19:29
+Tak ještě teda jednu, když Hildegarda přišla pozdě... :-D
+
+Na stromě rostla jablka. Přišel vítr a když bylo po něm, nebyla jablka ani na
+stromě, avšak nebyla ani na zemi. Jak je to možné? (Upozorňuju, že vítr je
+nikam neodnesl, neskončila na střeše či jiném stromě, nikdo je nesebral a ani
+nic podobného, co není součástí zadání se nestalo.)
+ _b_a_n_á_n_o_v_ý_ _z_á_k_u_s_e_k [Muž]35 [Kategorie]
+14.10.2014 22:06:59
+omg :D na to ti kašlu
+[Smajlík]
+ 2-methyl-propan
+14.10.2014 21:59:59
+Noo a na mě tady zbyla už jenom nějaká těžká mapa.
+[Smajlík]          [Žena]25 [Kategorie]
+ _H_i_l_d_e_g_a_r_d_a_ _Č_t_v_r_t_á
+14.10.2014 21:43:55
+Udělala bych přesně to co napsali lidi pode mnou. :)
+ _B_e_y_r_i_n_a [Žena]22 [Kategorie]
+14.10.2014 21:38:57
+Fuj, nemám rád grafy. Vím že je na to výhodný algoritmus, název si nepamatuju
+a googlit by bylo proti hře, ale z hlavy ho fakt nesestavím. No když chtěl
+těžkou... :-D
+[Smajlík]         [Muž]35 [Kategorie]
+ _b_a_n_á_n_o_v_ý_ _z_á_k_u_s_e_k
+14.10.2014 21:38:43
+GPS
+[Smajlík]
+ tojelehky
+14.10.2014 21:36:54
+Na takový věci bych se vysral a šel na pivo.
+[Smajlík] [Muž]30 [Kategorie]
+ _s_u_v_u_r_o_v
+14.10.2014 21:25:03
+příště dej něco těžšího
+2-methyl-propan
+-----------
+Klidně :).
+
+Máš tisíc měst, mezi těmi městy existují nějaké silnice, silnice vždy vede z
+jednoho města do druhého, nekřižuje se s žádnou jinou (resp. můžou se křižovat
+ale když se křižují, tak je tam buď most nebo tunel - prostě když se po tý
+silnici vydáš, tak víš z jakýho města jdeš a do kterýho dojdeš a nemůžeš nikde
+"zahnout").
+
+O každé silnici víš, jak dlouho to po ní trvá, než jí celou přejdeš.
+
+Ne všechna města mají mezi sebou silnici.
+
+A někdo se tě zeptá, jak se co nejrychleji dostane z jednoho města do druhého
+(tj. chce třeba z Jihlavy do Světlý nad Sázavou a ty mu řekneš, že má jet z
+Jihlavy do Humpolce a z Humpolce do Světlý).
+
+Jak tu cestu najdeš? :)
+Musí to být ta nejrychlejší.
+A musíš tu cestu najít co nejrychleji.
+ _l_i_b_i_k [Muž]34 [Kategorie]
+14.10.2014 21:21:26
+Krshna: jasný, však jsem si říkal. :-)
+kaiten: já vím. Ale stejně mi spadl kámen ze srdce. :-D
+ _b_a_n_á_n_o_v_ý_ _z_á_k_u_s_e_k [Muž]35 [Kategorie]
+14.10.2014 21:20:00
+Krshna: to ne, to možná jen špatně chápeš. Když žárovka svítí, je to vypínač
+B. Když nesvítí, je to vypínač A nebo C. Áčko je to v případě, že je žárovka
+teplá.
+ _b_a_n_á_n_o_v_ý_ _z_á_k_u_s_e_k [Muž]35 [Kategorie]
+14.10.2014 21:19:01
+Zakusek: nikoliv, samozrejme
+ _k_a_i_t_e_n [Muž]58 [Kategorie]
+14.10.2014 21:18:00
+banánový zákusek: kecam sračky už, přišel jsem z práce :D
+[Smajlík] [Muž]33 [Kategorie]
+ _K_r_s_h_n_a
+14.10.2014 21:17:46
+Krshna: pak bude zcela urcite spravny druhy vypinac a je jedno, co ji zahralo
+ _k_a_i_t_e_n [Muž]58 [Kategorie]
+14.10.2014 21:15:56
+banánový zákusek: Co když se žárovka zahřála po spuštění vypínače B, který
+zároven svítí?
+ _K_r_s_h_n_a [Muž]33 [Kategorie]
+14.10.2014 21:15:56
+zakusek: Podle teploty žárovky který se rozjede po zapnutí správného vypínače?
+ businessman
+14.10.2014 21:14:15
+kaiten: tak ses doufám neurazil. :-DD
+ _b_a_n_á_n_o_v_ý_ _z_á_k_u_s_e_k [Muž]35 [Kategorie]
+14.10.2014 21:13:50
+Moje idealni zarkvka evidentne nehrala:)
+ _k_a_i_t_e_n [Muž]58 [Kategorie]
+14.10.2014 21:11:59
+Zakusek: mel jsem o sobe vyssi mineni- ale tohle nedam. Bud zapnu jeden, a
+pokud nedojde ke zmene, jsem v haji, nebo dva - a jsem v haji, pokud je zmene
+dojde...
+ _k_a_i_t_e_n [Muž]58 [Kategorie]
+14.10.2014 21:11:34
+Áno, Lupič Willy má správné řešení. Nechám chvilku zapnutý vypínač A. Vypnu
+jej, zapnu vypínač B a jdu se podívat do místnosti.
+
+Jestliže je žárovka teplá, je to vypínač A.
+Jestliže svítí, je to vypínač B.
+Jestliže je studená, je to vypínač C.
+ _b_a_n_á_n_o_v_ý_ _z_á_k_u_s_e_k [Muž]35 [Kategorie]
+14.10.2014 21:11:22
+počty neumím: V noci by to šlo :)
+ _K_r_s_h_n_a [Muž]33 [Kategorie]
+14.10.2014 21:10:50
+počty neumím: ne, v tomhle je to stejné jako hádanka od libika. Jediná možnost
+jak se o žárovce přesvědčit je vstoupit do té místnosti.
+ _b_a_n_á_n_o_v_ý_ _z_á_k_u_s_e_k [Muž]35 [Kategorie]
+14.10.2014 21:10:35
+banánový zákusek: mohu žárovku jen zkontrolovat pohledem, nebo je na ni možno
+i sáhnout?
+ Lupič Willy.
+14.10.2014 21:08:11
+banánový zákusek: Já jsem ženská naprosto bez logiky, ale opravdu naprosto,
+tak bych to řešila tak, že bych nešla do tý místnosti, jen z té v které bych
+byla, bych se vyklonila z okna a čuměla, jestli to svítí. To by šlo, ne?
+Pravidla jsem neporušila.
+ počty neumím
+14.10.2014 21:07:31
+Sam mam take jednu ulohu, kterou se pokousim vyresit vlastne skoro cely zivot,
+a zatim jsem to pokazde vzdal... o jedne falesne minci, ktera je mozna lehci,
+mozna tezsi nez ostatni, a rovnoramennych vahach.
+
+Sem tu ulohu ale psat nebudu - jeste byste mi ji vyresili ;)
+ _k_a_i_t_e_n [Muž]58 [Kategorie]
+14.10.2014 21:07:29
+kaiten: těžko říct jak daleko se právě nacházíme od urážky, ale až taková
+blbost v tom není. To bych si nedovolil. :-D Vypínače se chovají standardně,
+jejich stav můžeš určit od pohledu.
+ _b_a_n_á_n_o_v_ý_ _z_á_k_u_s_e_k [Muž]35 [Kategorie]
+14.10.2014 21:04:25
+příště dej něco těžšího
+[Smajlík]
+ 2-methyl-propan
+14.10.2014 21:04:18
+Zakusek: zkousim to resit jako idealni situaci, takze jestli v reseni bude
+neco o tom, ze vypinace jsou standardne vypnute dolu, ze pri sepnuti muze byt
+slyset oblouk, nebo ze pouziju wattmetr, pak se na nekolik zanedbatelnych
+minut urazim.
+ _k_a_i_t_e_n [Muž]58 [Kategorie]
+14.10.2014 21:02:20
+Jj, dole jsem psal, že pak tu druhou půlku kontrolovat nemusíš. Jsem si to tak
+rychle neuvědomil.
+[Smajlík] [Muž]33 [Kategorie]
+ _K_r_s_h_n_a
+14.10.2014 21:01:02
+kaiten: šroubovák potřebovat nebudeš, ale vyloženě blbě na to nejdeš. :-D
+ _b_a_n_á_n_o_v_ý_ _z_á_k_u_s_e_k [Muž]35 [Kategorie]
+14.10.2014 20:59:54
+No právě, ale co když nesvítí, a nesvítí nikdy v té 1. půlce :D
+Krshna
+----------
+To ti nevadí, protože víš, že právě jeden je správný a že je v té půlce co
+nesvítí.
+
+Takže zmáknčeš 500, jdeš se podívat, nesvítí, takže víš, že je v těch druhých
+500. A jelikož to víš, tak to nemusíš zkoušet a rovnou zmáčkneš 250 z té
+nesvítící půlky. A tak dále a dále a dále :).
+ _l_i_b_i_k [Muž]34 [Kategorie]
+14.10.2014 20:58:55
+aha možná sem si to tu měla nejdřív přečíst :D
+ 2-methyl-propan
+14.10.2014 20:58:35
+libik: Ba jo, máš pravdu, když svítí nebo nesvítí v první půlce, už se nemusím
+chodit dívat na druhou. To je pravda :ú
+[Smajlík] [Muž]33 [Kategorie]
+ _K_r_s_h_n_a
+14.10.2014 20:58:26
+To je fakt já musím najít ten jediný. Já debil sem to asi přehlídl. Takže
+nevim. Asi bych vzal palici, rozmlátil všechny vypínače a pak skočil z okna.
+ kolomlýn
+14.10.2014 20:57:54
+Zakusek: podle me bez sroubovaku neresitelne, ale dej mi jeste chvilku ;)
+ _k_a_i_t_e_n [Muž]58 [Kategorie]
+14.10.2014 20:57:43
+libik: No právě, ale co když nesvítí, a nesvítí nikdy v té 1. půlce :D
+[Smajlík] [Muž]33 [Kategorie]
+ _K_r_s_h_n_a
+14.10.2014 20:57:27
+kaiten: Jsem se spletl u těch třech, ale myslel jsem to po Pulkách (každý
+druhý), jako ty, vylučovací metoda... na konci asi ze dvou.
+ tenblbej
+14.10.2014 20:57:16
+no dala bych 500, pak 250, pak 125, pak 62, pak 31, pak 16, pak 8, pak 4, pak
+2 a pak 1 ne? :D
+ 2-methyl-propan
+14.10.2014 20:56:23
+napřed bych zapnul 500, pak dalších 500 (2 pokusy) z tý jedný pětistovky 250 a
+250 (2 pokusy) z těch 250ti na 125 a 125 (2 pokusy) ze 125ti na 62 (pokud ani
+se ani jedna nerozsvítila, je to ta 1 nevyzkoušená) z 62 na 31 a pak byhc si
+hodil kostkou, pokud bych netrefil nějakou polovinu na 1. pokus.
+Krshna
+---------
+Skoro správně, akorát když jich zapneš 500 a jdeš se podívat, tak nemusíš
+zapínat těch druhých 500. Pokud žárovka svítí, tak víš že to je v těch
+zapnutých 500, když nesvítí, tak je to v těch druhých 500 :).
+ _l_i_b_i_k [Muž]34 [Kategorie]
+14.10.2014 20:55:32
+Tak zkuste tohle:
+
+Zadání je podobné, ale vypínače jsou jen tři a do místnosti se můžete podívat
+jen jedinkrát. Jak zjistíte, který vypínač ovládá žárovku?
+ _b_a_n_á_n_o_v_ý_ _z_á_k_u_s_e_k [Muž]35 [Kategorie]
+14.10.2014 20:55:28
+aneb binární vyhledávání když se člověk nudí
+[Smajlík] [Muž]96 [Kategorie]
+ _W_h_o_i_s_i_t
+14.10.2014 20:54:14
+napřed bych zapnul 500, pak dalších 500 (2 pokusy) z tý jedný pětistovky 250 a
+250 (2 pokusy) z těch 250ti na 125 a 125 (2 pokusy) ze 125ti na 62 (pokud ani
+se ani jedna nerozsvítila, je to ta 1 nevyzkoušená) z 62 na 31 a pak byhc si
+hodil kostkou, pokud bych netrefil nějakou polovinu na 1. pokus.
+[Smajlík] [Muž]33 [Kategorie]
+ _K_r_s_h_n_a
+14.10.2014 20:53:14
+Vedlejší místnost je ve třetím patře? Opravdu vedlejší místost
+Tedy mám deset možností se podívat do 3 patra. Takže po zapnutí 100 vypínačů
+se půjdu podívat. 100x10=1000. Horší by bylo mít pouze 10 možností stisknutí
+vypínače.
+kolomlýn
+-------------
+Tím akorát zjistíš ve které stovce vypínačů se nachází ten správný, ale ty
+chceš pouze ten jeden správný, nikoli stovku mezi kterou je jeden správný.
+ _l_i_b_i_k [Muž]34 [Kategorie]
+14.10.2014 20:52:33
+1.Podívám se jestli žárovka svítí
+2.Zamáčknu prvních 500 vypínačů a jdu se podívat jestli se změnila
+3,Když jo, tak je vypínač mezi prvními 500 vypínači, když ne, tak je mezi
+dalčími 500 vypínači, tak zmáčknu prvních 250 vypínačů z těch 500 vypínačů,
+mezi kterýma by měla byt.
+4,Podívám se, jestli se změnila, když jo, tak z těch 250 zas udělám půlku,
+když ne, tak vezmu půlku z druhých 250 vypínačů
+5. 2 na 10 je cca 1000, takže nakonec budu snad vybírat ze dvou :)
+ Tonejsemja
+14.10.2014 20:51:28
+A ty ostatní vypínače taky něco ovládají? Nebo vůbec nejsou zapojeny do obvodu
+a jenom ten jeden konkrétní ovládá tu konkrétní žárovku?
+kometa
+-------------
+To nevím, je to celkem jedno.
+
+Da se k tomu dostat po pulkach? Zapnu padesat, tim zjistim, v jake pulce je
+ten spravny... pak dvacet pet, dvanact, sest, tri...? Dalo by se to zjistit i
+na sest pokusu, pravda?
+kaiten
+-------------
+Ano, to je správný postup, ale těch vypínačů je 1000, ne 100, takže 6 pokusů
+nestačí (ale jinak bys měl pravdu :) )
+ _l_i_b_i_k [Muž]34 [Kategorie]
+14.10.2014 20:51:27
+Vedlejší místnost je ve třetím patře? Opravdu vedlejší místost
+Tedy mám deset možností se podívat do 3 patra. Takže po zapnutí 100 vypínačů
+se půjdu podívat. 100x10=1000. Horší by bylo mít pouze 10 možností stisknutí
+vypínače.
+ kolomlýn
+14.10.2014 20:49:48
+Sorry, spletl jsem se o nulu, ale princip zustava.
+ _k_a_i_t_e_n [Muž]58 [Kategorie]
+14.10.2014 20:48:28
+Da se k tomu dostat po pulkach? Zapnu padesat, tim zjistim, v jake pulce je
+ten spravny... pak dvacet pet, dvanact, sest, tri...? Dalo by se to zjistit i
+na sest pokusu, pravda?
+ _k_a_i_t_e_n [Muž]58 [Kategorie]
+14.10.2014 20:47:50
+A ty ostatní vypínače taky něco ovládají? Nebo vůbec nejsou zapojeny do obvodu
+a jenom ten jeden konkrétní ovládá tu konkrétní žárovku?
+ kometa
+14.10.2014 20:45:39
+Jo to je jako, zapnu každý druhý, pak každý třetí a tak?
+[Smajlík]
+ tenblbej
+14.10.2014 20:40:21
+Zapnout všechny vypínače??
+kadaeta
+------------------
+"Úkol je zjistit, který vypínač ovládá onu žárovku."
+ _l_i_b_i_k [Muž]34 [Kategorie]
+14.10.2014 20:37:56
+Zapnout všechny vypínače??
+[Smajlík]
+ kadaeta
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+

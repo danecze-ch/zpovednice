@@ -1,0 +1,157 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+   Otázky - Vzkazy č.831123, vloženo _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+   18.09.2014 16:10:56               _s_t_r_á_n_k_a_]
+   Počítadlo
+   Dobrý den
+   Mám jeden problém. Jsem žák SPŠ a skusil jsem si vytvořit svůj blog.
+   Bohužel jsem neměl v základních možnostech počítadlo návštěv a tak jsem
+   si ho tam přidal přez HTML kód. Počítadlo funguje jak má, ale má jednu
+   vadu. Když jsem si ho tam dal, tak mi naskočilo na úvodní stránku, pod
+   názvem ''Úvod'' a na zbytku stránkách se mi nezobrazuje. Jde to nějak
+   nastavit přímo v nastavení počítadla, nebo to musím dát na každou
+   stránku zvlášť ? Bylbych rád kdyby jste mi poradili, ti co z tím máte
+   zkušenosti. Blog mám vytvořený přez stránku Webnode. Nevím jestli vám
+   pomůže její adresa pro nadhled ale raři vám to sem dám: http://travel-
+   zone.webnode.cz/. Bohužel je to jenom jako forma učiva, tak jsem si
+   nekupoval doménu, jelikož to nepotřebujeme. Počítadlo je na konci
+   stránky Úvod.
+
+   Děkuju za všechny rady které mi sem napíšete. M.K.
+    Ajťák [Muž]16  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+18.09.2014 21:38:41
+Vykasli se na nejake webnode, kup si normalni hosting (nebo regni free ale za
+tech par usetrenych korun to nestoji) a zacni se ucit html a css od zakladu.
+Automaticke klikatka jsou ztrata casu.
+ newbie7890rr45
+18.09.2014 20:14:19
+Není nad to to mít doma odladěné ofline a pak to nahrát protokolem na web a
+běží to veřejně. Jak zálohuješ webnode? Nijak, že. A o tom to je.
+Profesionální firmy, které umějí opravit webové stránky se webnode vyhýbají.
+Vědí proč. Webnode je jen šablona, ve které prý nejde přepsat kód. Takhle to
+vysvětloval mé známé, která má na webnode placené stránky. Bez webového
+prostoru, ke kterému se dá připojit FTP protokolem bych neměl ani jedny
+stránky. Všechno dělám přes FTP. Na pokusy se raději zaregistruj na
+webzdarma.cz
+ _A_g_r_e_s_i_v_n_i_ _d_i_p_l_o_m_a_t [Muž]42 [Kategorie]
+18.09.2014 20:11:04
+Hele já bych do tebe neryl, ale to bys tu nesměl mlít hadry typu "+ balíček na
+programátorském PC." (Ne, nemá to s tím počítačem co dělat, opravdu.)
+Samozřejmě je mi od začátku jasný, že nemáš s vývojem webu žádný zkušenosti,
+natož abys programoval. Tak přestaň dělat machra a nech si poradit.
+
+A to co ti radí domča je přesně ta cesta. Zvlášť jestli máš za úkol poznat,
+jak "vypadají úplné začátky." Tohle prostě na webnode nikdy nezjistíš,
+nezjistíš to ani při použití libovolného CMS. Vyber si nějakýho poskytovatele
+free hostingu a udělej ten web opravdu od začátku - bez jakéhokoliv redakčního
+systému. Nauč se úplný základy. Jestli tam mermomocí chceš to počítadlo, no
+tak si ho tam teda zatím vlož podobně jako teď, ale dál neblbni s nějakýma
+okrasama a poznej, jak vypadají úplné začátky DOOPRAVDY. HTML, CSS, přenos
+pomocí FTP... zjistíš, že to jde rychle a třeba o CSS zatím nemusíš vědět
+všechno (všechny ty možnosti si stejně nikdo z hlavy nepamatuje). Pak se
+dostaneš k péhápku, databázím, už si budeš umět sestrojit vlastní počítadlo,
+zároveň s tím se můžeš učit JS, nastavení .htaccess (nebo se třeba vydáš
+cestou Ruby nebo Microsoftích řešení, co já vím) a čeká tě svět úžasnejch
+možností, pokud se vykašleš na používání nějakých služeb a redakčních systémů,
+který kód tvoří za tebe a pochopitelně jejich chování nemůžeš moc ovlivnit (v
+případě webnode prakticky vůbec).
+ erupce na slunci
+18.09.2014 19:50:05
+Poradil bych, ale webnode? Hele, napiš si na jejich fórum nebo si prostě napiš
+vlastní php skript. Jestli vyvýjíš už dva roky, tak nechápu co jsi celou tu
+dobu dělal. Psal obsah? Aha. A do jakýho ročníku chodíš, to nikoho nezajímá.
+Pokuď máš zájem o tvorbu webu, měl by ses to naučit. Celý. Nejdříve čistý
+HTML, to máš za den celý zmáklý, pak do toho přihodit CSS. Až to trochu
+ochmatáš, tak PHPko a javascript. Chceš umět tvořit weby? Tak se tomu
+nevyhneš, webnode je sračka.
+ domča
+18.09.2014 19:23:50
+Ano vyvijím web už skoro 2 roky, ale tam jsem počítadlo nemusel dávat od
+nějaké firmy z internetu, které ani správně nefunguje, protože jsem to tam měl
+už přednastavený, který tam šel dát. + Balíček je myšleno formou dokoupených
+možností od nějaké firmy, která poskytuje úpravu serveru nebo domény. Kdybys
+věděl že né všechno může naprogramovat student který studuje 1 ročník SPŠ.
+ Ajťák
+18.09.2014 17:36:52
+Jo, webnode je sračka. Bez urážky. Sice pěkné šablony, ale neumí to ani FTP.
+Prostě sračka.
+ _A_g_r_e_s_i_v_n_i_ _d_i_p_l_o_m_a_t [Muž]42 [Kategorie]
+18.09.2014 17:12:06
+Ale nono, nerozplakej se. Na tvou adresu jsem přece nic ošklivýho neřekl,
+pouze o úrovni některých služeb. A myšlenka "udělat si představu, jak vypadají
+úplné začátky" je v kombinaci s těmito službami přinejmenším zcestná, abych ti
+teda vyhověl a použil slušný slovo.
+
+Jinak - pokud máš "profesionální web", který vyvíjíš dva roky, tak proč se
+ptáš na takovou trivialitu? Jak funguje počítadlo bys věděl dávno. (A co má
+znamenat "+ balíček na tvém programátorském PC," to radši nechci vědět vůbec,
+nevysvětluj mi to prosím. Ztrhat se tu smíchy plánuju zase až na večír. :-)
+ erupce na slunci
+18.09.2014 16:35:17
+erupce na slunci:
+Prosil bych o slušnost, já taky nenapsal vulgární otázku. Učitel nám zadal
+pokyn, že si máme udělat představu o tom, jak vypadaj úplné začátky. Řekl ať
+si udělám webové stránky, které budeme 2 (nebo i víc) měsíců aktualizovat a
+pracovat na nich.
+
+Jinak mám taky profesionální web, na kterém pracuju už 2 roky. Má doménu a
+upravuju si ho sám. Taky mám koupeny + Balíček ve kterém je víc možností (to
+vše na mém programatorskem PC - neherním)
+ Ajťák
+18.09.2014 16:22:09
+Svůj příspěvek jsi vložil(a) do nespravné kategorie. Bylo provedeno přesunutí.
+V případě opakování hrozí blokování vstupu na portál. Prosím zvol příště
+správnou kategorii. Děkujeme za pochopení..
+[Smajlík]      [Muž] [Kategorie]
+ _A_d_m_i_n_i_s_t_r_á_t_o_r
+18.09.2014 16:20:47
+Ten kód počítadla pochopitelně musí být na každé stránce, kterou chceš měřit.
+V administraci toho počítadla to opravdu nenastavíš.
+
+O sračkoslužby typu webnode se nezajímám, takže opravdu nevím, kde a jak to
+nastavit v jejich systému a jestli to vůbec jde. No nejspíš asi jo, prostě
+pořádně propátrej administrační rozhraní toho webu. Ale jestli se učíš "dělat
+stránky" pomocí těchto služeb, tak ti garantuju, že se nenaučíš vůbec nic. ;-)
+ erupce na slunci
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+

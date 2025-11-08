@@ -1,0 +1,144 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+Zpověď č.839259, vloženo 31.10.2014 14: _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+46:07                                   _s_t_r_á_n_k_a_]
+Spojení dvou disků
+Ahoj lidi, mamča před lety rozdělila disk na dva, jak je ted spojím dohromady?
+ _H_a_x_i [Žena]20 [Kategorie]  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+31.10.2014 18:39:47
+Zlomyslny... Mam ti takovy dojem, ze partition magic uz se nevyviji, takze
+pokud nema xp, tak ji nepojede.
+Destruktivnije jen pro partition, ktera se pripojuje zezadu. Primarni to
+dokaze prezit. A nepotrebuje jiny komp, staci si vypalit live verzi windows.
+Te je vsude plno.
+
+Takze zalohuj projistotu co jde.
+Sezen si windows live edition a vypal ho.
+Nastartuj z nej (nabootuj)
+V nem spust partition manager (klidne z flashky)
+Spoj jednotlive oddily na danem disku
+Vytahni CD/DVD
+Reset
+ _D_e_r_v_i_š [Muž]27 [Kategorie]
+31.10.2014 18:17:27
+Tak ještě jednou. V kompu máš stále jeden disk. Aby komp na ten disk mohl něco
+zapsat, musí být sformátovaný a musí na něm být vytvořena partition. Ta může
+být buď primary a pak bude jen jedna nebo jich může být více a pak budou
+extended partitions. A ty musíš spojit ty extended do jedné primary. To se
+udělá lehce, ale pro uložená data je to destructive operation.
+Buď to spojíš pomocí Partition magic sw, ale k tomu potřebuješ jiný komp, kde
+to provedeš a nebo to spojování partitions spojíš s reinstalací windows. Což
+je komplikované. Radím tedy způsob č. 1.
+V linuxu to jde stejně, ale musíš mít jiný sw než ten magic.
+ _z_l_o_m_y_s_l_n_ý_ _h_a_j_z_l [Muž]19 [Kategorie]
+31.10.2014 18:15:26
+Jednotlive oddily by mely jít spojit, ovsem pocitej s tim, ze data na druhem
+disku, ktery pripojujes k prvnimu, budou ztracena. Pouzij libovolny vhodny
+partition manager. Stahnes napriklad na slunecnici.
+[Smajlík] [Muž]27 [Kategorie]
+ _D_e_r_v_i_š
+31.10.2014 16:33:57
+No jak čtu co píšeš tak gparted ti nebudu radit, přijdeš o vše. Prostě raději
+si zálohuj vše. A experimentuj.
+ _*_h_m_m_m_m_* [Muž]46 [Kategorie]
+31.10.2014 16:32:07
+Haxi: pak ti poradím koupit novej disk a nainstalovat na něj nový wokna a ten
+původní nechat na zálohy
+ _M_S_-_f_a_n_o_u_s_e_k [Muž]50 [Kategorie]
+31.10.2014 16:32:06
+Děkuju za pomoc ja si nějak porádím, nebo řeknu brachovi at to celý
+přeinstaluje.. on je stejne celej zasekanej, navíc to není ani muj notas.
+[Smajlík] [Žena]20 [Kategorie]
+ _H_a_x_i
+31.10.2014 16:29:00
+v tom je ten problem, to vím že jde, ale nemužu odstranit celej disk když je
+na něm všechno
+ _H_a_x_i [Žena]20 [Kategorie]
+31.10.2014 16:28:14
+Nejjednodušši pro Tebe: zálohuj data a formát hdd, při reinstalu win.
+ _*_h_m_m_m_m_* [Muž]46 [Kategorie]
+31.10.2014 16:26:58
+Haxi: zvětšit velikost oddílu je pro většinu file serverů nemožná věc. Musíš
+všechny oddílu zrušit a pak vytvořit nový.
+
+Ale dobře si rozmysli, jestli tam nemáš nějaká data !
+ _M_S_-_f_a_n_o_u_s_e_k [Muž]50 [Kategorie]
+31.10.2014 16:23:47
+počítačum nerozumím to příznavám, ale umím jiné věci. je pravda že od
+Zlomyslný hajzl to fakt nechapu.. :D možná bych to potřebovala lépe rozepsat..
+ _H_a_x_i [Žena]20 [Kategorie]
+31.10.2014 16:10:15
+MS ti to napsal.
+
+zlomyslný hajzl: myslíš jak se ptá na takou kokotinu, že toto zvládne?
+ _*_h_m_m_m_m_* [Muž]46 [Kategorie]
+31.10.2014 15:41:51
+_h_t_t_p_:_/_/_p_p_k_._c_h_i_p_._c_z_/_c_s_/_p_o_r_a_d_n_a_/_o_s_/_c_i_s_t_e_n_i_-_a_-_t_u_n_i_n_g_/_z_m_e_n_a_-_v_e_l_i_k_o_s_t_i_-_o_d_d_i_l_u_._h_t_m_l
+.. když na to kliknu tak se mi tam neukaže zmenšit nebo zvetšit svazek :(
+[Smajlík] [Žena]20 [Kategorie]
+ _H_a_x_i
+31.10.2014 15:31:56
+Izolepou to dohromady nedám :D
+[Smajlík] [Žena]20 [Kategorie]
+ _H_a_x_i
+31.10.2014 15:30:02
+Se svou izolepou se asi můžu jít vycpat, co?
+[Smajlík] [Muž]24 [Kategorie]
+ _i_v_o_r_y_9_9_9
+31.10.2014 15:15:18
+Já to udělala přes správu počítače, ten disk jsem odstranila ale zbylo mi tam
+to volné místo.. ale nevím jak to volné místo přesunout do toho disku C..
+správa počítače se najde když se pravý klikne na tento počítač
+ _H_a_x_i [Žena]20 [Kategorie]
+31.10.2014 15:14:55
+Přes USB/IDE/SATA redukci ho připoj do widlí a pak přes manage odstraň
+partišny a vytvoř jednu novou.
+Podobně to uděláš i v linuxu.
+
+Nebo ten disk rozeber a vevnitř to spojíš.
+ _z_l_o_m_y_s_l_n_ý_ _h_a_j_z_l [Muž]19 [Kategorie]
+31.10.2014 14:57:36
+překopírovat data, fdisk, format, data zpět
+ _M_S_-_f_a_n_o_u_s_e_k [Muž]50 [Kategorie]
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+

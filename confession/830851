@@ -1,0 +1,118 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+Zpověď č.830851, vloženo 16.09.2014 23: _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+35:52                                   _s_t_r_á_n_k_a_]
+Jak je vlastně důležitá delička FSB/RAM?
+ČAU
+Hele mám fakt psychickej konflikt s mojí deskou PC:D
+Mám základovku gigabyte g41m combo
+Na stránkách výrobce jsem si zjistil, že ramky můžou jet, respektive
+základovka podporuje frekvenci ram nejvíc 1333MHz.
+Koupil jsem si tedy ramky 1333MHz
+No a procesor E8400 co mám jede jako sériovka taky na 1333MHz
+Ovšem nastavit jakkoliv děličku správně s touhle deskou není možný!!!
+Jde to nastavit jen tak, aby to bylo správně funkčnostně ale to pak vypadá
+následovně: dělička 5:8 alespoň v programu CPU ID
+Problém je v tom, že vlezu do biosu a tam bych si chtěl nechat fsb na 333 ale
+potom ať už dám násobič 6-9 tak vždy se dostanu leda a jen na výslednou
+děličku 1333/1060 nebo kolik.
+Je v závislosti na tom, že dělička co tam je je dělaná dost divně, celkově
+jsem děličku v biosu na deskách od gigabytu nikdy nepochopil ale
+experimentálně ji samozřejmě vždy během chvíle pochopím.
+
+Ale to je jako fakt na nic tohle...
+FSB 333
+výsledná dělička je 333/1060
+když kouknu na výběr děličky, tak můžu dát jen 2 možnosti děličky co jsou
+určené pro fsb 333 a to znamená, že mám na výběr jen 1333/1060 nebo 1333/800
+Ostatní děličky jsou už pro jiné FSB a to pro: FSB 266 a FSB 200
+Takže přetaktovat procesor na vyšší frekvenci s touhle deskou není možný,
+protože to jde jen do nějakého kritického limitu, takže s fsb vyšší jak 345
+nebo 346, nebo 347 se už PC nerozeběhne ani při vyšším navýšení voltáže než to
+kdokoliv dělal.
+No a vtip je v tom, že když podtaktuju procesor, tak mi výběr děličky stejně
+vždy zůstane na možnosti 800 nebo 1060
+Prostě je to celý nahovno.
+Takže teda co? Mám si ponechat vypatlanou děličku 5:8?
+
+ 101001000101 [Muž]20  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+17.09.2014 09:00:15
+Píšeš správně, že to je psychický problém. Jdi se léčit.
+ _z_l_o_m_y_s_l_n_ý_ _h_a_j_z_l [Muž]19 [Kategorie]
+17.09.2014 00:15:45
+Nechce se me to cist cele a nevim presne co myslis pojmem delicka le obecne
+vzato mas nejakou maximalni frekvenci FSB, na te by mely jet pameti protoze
+vic to nema smysl a pak v nejake nasobku FSB funguje CPU, ten nasobe se podle
+meho nazoru nazyva multiplikator (multiplier), ten jde nastavit s presnosti
+vetinou na jednu polovinu a od vyrovbe by mel byt nastaven tak aby s tvoji
+frekvenci FSB ten procak dosahl nejvyssiho vykonu ktery umi, pokud ma odemceny
+multiplier tak ho muzes zvysit a tim potencialne zvsit vykon cpu. Pokud zvysis
+frekvensci FSB tak take zvysujes vykon ale ovlivnis tim uplne vsehny
+komponenty tzn pamet, procesor, graficku a oba cipy ktere maji typicky slabe
+chlazeni a zacnou se prehrivat, je potreba na to myslet.
+
+pro zjednoduseni - pokud chce vetsi vykon tak si kup lepsi pocitac,
+pretaktovani v dnesni dobe uz nema takovy smysl jak melo v dobe AthlonXP/P4/
+locknute celery
+ newbie7890rr45
+16.09.2014 23:55:56
+Proč si říkáš A45 ?
+[Smajlík] [Muž]52 [Kategorie]
+ _H_o_v_ _h_o_v
+16.09.2014 23:46:25
+Sniz ze 1333 na menší hodnotu. Jinak bych ti tady mohl napsat sloh, pač sám
+taktuji a je to i trochu můj koníček. Spíš hledej různé po fórech, je toho
+opravdu hodně. Stačí hledat. Takhle to vysvětlovat......
+
+A abych nezapomněl, limitem bývá deska se zdrojem. Z mého šestijadra se dá
+vytáhnout až dvojnásobný výkon, ale mám to jen o necelý GHz. Taková formula od
+Asusu, s tou dokážeš pořádně zatopit
+ _c_h_c_á_č_ _o_b_e_c_n_ý [Muž]33 [Kategorie]
+16.09.2014 23:38:21
+Samozřejě je to takhle...
+Ale to je jako fakt na nic tohle...
+FSB 333
+výsledná dělička je 1333/1060
+ 101001000101
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+

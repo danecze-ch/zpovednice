@@ -1,0 +1,152 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+Zpověď č.833701, vloženo 01.10.2014 20: _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+26:37                                   _s_t_r_á_n_k_a_]
+matematika
+Neznámé číslo je dělitelné právě třemi různými prvočísly. Když tato prvočísla
+srovnáme vzestupně, platí následující:
+• Rozdíl druhého a prvního prvočísla je polovinou rozdílu třetího a druhého
+prvočísla.
+• Součin rozdílu druhého a prvního prvočísla s rozdílem třetího a druhého
+prvočísla je násobkem 17. Určete nejmenší číslo, které má všechny výše uvedené
+vlastnosti. (K. Pazourek)
+Pomozte mi prosim vyresit tento priklad
+ lololololko [Muž]15  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+24.09.2015 18:56:33
+já bych řek žeje to zlatý řez asi
+ lausbua
+16.12.2014 18:44:07
+Z9-I-2 Karolin, víš jistě, že je to 6+6x6+6x6x6 ?? můžeš tam kombinovat 3 a6,9
+? Jinak nám učitelka dá 1 na vyzu, když zkusime 3 přiklady (když bys měl mít
+tu 1ku).
+[Smajlík]
+ Dake503
+24.11.2014 19:55:59
+Z9-I-2 vyšlo 6 + 6 .6 + 6 . 6 . 6
+Jestli si tu ale někdo bude myslet, že při odevzdání vystačí s tímhle, je na
+omylu.
+ Karolin
+23.11.2014 20:14:20
+Ahoj, chtěla bych se zeptat jak vyšlo Z9-I-2, stačí mi jen výsledek, protože
+to mám taky odevzdávat, už jsem na to přišla, ale chtěla bych vědět jestli to
+mám dobře předem děkuju
+ veverka2215
+17.11.2014 22:59:25
+Ostatní lidé ze základních škol se snaží vyřešit tuhle matematickou olympiádu
+sami, když jsi takhle nepříliš chytrej, tak to nemáš řešit vůbec...
+ karolína
+05.10.2014 14:23:12
+chcem sa opýtať ,že ako ste to vypočítali pomocou tých rovníc alebo aký je
+postup tochto príkladu. Prosím pomôžte už tento týžden to musím dať učiteľke
+lebo to máme za ulohu.
+ Anonym 482
+01.10.2014 23:36:07
+A mně by mohlo dojít, že 6*12 není 68.
+[Smajlík] [Muž]24 [Kategorie]
+ _i_v_o_r_y_9_9_9
+01.10.2014 22:24:35
+Označíme si prvočísla jako x1, x2 a x3 (vzestupně, tedy x1 < x2 < x3). Poté
+sestavíme rovnice podle zadání:
+
+x2 - x1 = (x3 - x2) / 2
+(x2 - x1) * (x3 - x2) = k * 17
+
+(k je nějaká konstanta, která značí dělitelnost)
+
+To máme dvě rovnice o třech neznámých. Jednoduše to však můžeme zredukovat na
+dvě neznámé, když si vybereme nějaký parametr, třeba: a = x2 - x1, b = x3 -
+x2, tedy:
+
+a = b / 2
+a * b = k * 17
+
+Jednu rovnici dosadíme do druhé:
+
+(b / 2) * b = k * 17
+b^2 = k * 34
+b = sqrt(k * 34)
+
+Nejmenší konstanta k taková, aby b vyšlo jako přirozené číslo, je 34; z toho
+vyplývá, že a = 17 a b = 34 a tím pádem x2 = x1 + 17 a x3 = x2 + 34.
+
+Tedy hledáme nejmenší prvočíslo s vlastností, že o 17 vyšší je rovněž
+prvočíslo a o 51 taktéž. Zkusíme dosadit nějaké malé prvočíslo (2, 3, 5, 7) za
+x1 a kupodivu nám pasuje hned to první (x1 = 2 a tedy x2 = 19 a x3 = 53).
+
+Teď je stačí vynásobit a dostáváme výsledek (2014).
+ _d_q_d [Muž]35 [Kategorie]
+01.10.2014 21:47:57
+2014 (2,19,53). Výsledek ti klidně řeknu, protože pokud to máš do školy,
+stejně po tobě budou chtít postup a ten nedostaneš. :P :-D
+[Smajlík]         [Muž]35 [Kategorie]
+ _b_a_n_á_n_o_v_ý_ _z_á_k_u_s_e_k
+01.10.2014 21:47:14
+tím hádáním teď zase 5,11,23 a 1265
+ _i_v_o_r_y_9_9_9 [Muž]24 [Kategorie]
+01.10.2014 21:30:00
+Nevysla nahodou ta s tou krabici Z9 237 cm?
+ lgogousikolinov
+01.10.2014 21:23:09
+Máš pravdu, je to blbě.
+ _i_v_o_r_y_9_9_9 [Muž]24 [Kategorie]
+01.10.2014 21:08:24
+Ivory999: fakt ti to tak vyslo, kdyz je tam vzestupne?
+ kopretinkajdvk
+01.10.2014 21:04:49
+To číslo mi vyšlo 1955 a ty čísla 23, 17 a 5. Ale jen sprostým hádáním takže k
+ničemu.
+ _i_v_o_r_y_9_9_9 [Muž]24 [Kategorie]
+01.10.2014 20:32:24
+Pomohl bych, ale víš jak - matematika...
+[Smajlík]    [Muž]21 [Kategorie]
+ _H_r_a_b_ě_ _D_e_p_e_š
+01.10.2014 20:29:23
+ja ti domaci ulohy pocitat nebudu, tim spis kdyz jsou primitivni a ty jsi
+jenom liny si napsat na papir dve rovnice
+ newbie7890rr45
+01.10.2014 20:28:26
+další člověk z gymplu?
+[Smajlík] [Muž]20 [Kategorie]
+ _A_n_e_k_d_o_t_a
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+
