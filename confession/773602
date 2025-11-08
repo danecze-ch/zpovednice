@@ -1,0 +1,116 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+   Otázky - Vzkazy č.773602, vloženo _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+   27.12.2013 12:29:38               _s_t_r_á_n_k_a_]
+   Limita funkce v nekonečnu
+   Dobrý den, nevím si rady s těmito limitami přesto, že jsem si myslela,
+   že už tuto látku chápu.
+
+   lim n -> infinity: n-3 / 6+3n^2
+   lim n -> infinity: 3^n -3 / 2^n +1
+   lim q -> infinity: p-3 /q^2 + 1
+   lim q -> infinity: (odm. z 1/q - odm. z 1/p )
+
+   Přičemž / je zlomková čára a ^ mocninu, která se vztahuje jen k
+   předchozímu číslu.
+
+   Děkuji za každou pomoc :-)
+
+    Stepa E-MAIL: _h_o_r_a_c_k_o_v_a_._s_t_e_p_a_n_k_a_@_s_e_z_n_a_m_._c_z  [Žena]20  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+27.12.2013 16:02:09
+Stepa
+Právě že ne, násobení a dělení se provádí přednostně před sčítáním a
+odečítáním, pokud tam nejsou závorky.
+ _L_U_F [Muž]99 [Kategorie]
+27.12.2013 15:52:08
+lim n -> infinity: n-3 / 6+3n^2
+No jak na to - dosadíš li za n nekončna, tak ti dá nepříliš ideální tvar
+nekonečno/nekonečno, což jak jistě všichni vím, vůbec nevíme Takže co s tím?
+Je nutné to obejít a všechna případná nekonečna přesunout tak, kde budou
+nejméně škodit. Přičemž ideálním místem pro nekonečno je pod zlomkem, jelikož
+1/nekonečno = 0. Tzn poděl celý člen nejvyšší mocninou, která se objevuje ve
+jmenovateli, dostaneš
+(n/n^2 - 3/n^2) /(6/n^2+3n^2/n^2)
+po úpravě
+(1/n - 3/n^2)/(6/n^2+3)
+a po dosazení nekonečna
+(0-0)/(0+3) = 0
+A to je tvoje hledaná limita.
+
+
+lim n -> infinity: 3^n -3 / 2^n +1
+Tohle je docela prasárna, nebo aslespoň já nevím, jak s tím naložit. Takže mě
+napadlo udělat stejný postup jako výše: Vytknout nejvyšší "mocninu" ze
+jmenovatele. Ty uvozovky jsou schválně. Neboli podělit vše 2^n, tzn:
+(3^n/2^n - 3/2^n)/(2^n/2^n + 1/2^n) = ((3/2)^n - 3/2^n)/(2^n/2^n + 1/2^n)
+po dosazení:
+(INF-0)/(1+0) = INF
+
+
+lim q -> infinity: p-3 /q^2 + 1
+Tady moc nevím, jak to chápat, jako dvě proměnné? No pokud nás tu zajímá jen
+průběh q, tak dosadit nekonečno za q do jmenovatele.. co se stane? Jmenovatel
+bude nekonečný a vše co dělíme nekonečnem je rovno nule.. i tvá limita. Nebo
+ne?
+
+
+lim q -> infinity: (odm. z 1/q - odm. z 1/p )
+Stejně jako výše.. 1/q = 1/INF = 0
+limita je tak rovna odmocnině z 1/p
+ _J_i_z_a_h [Muž]32 [Kategorie]
+27.12.2013 15:03:40
+LUF: V čitateli je vždy to celé před / zlomkovou čárou. Takže v tom prvním
+čitatel n - 3 a jmenovatel 6+3n^2.
+Moučník: Děkuji, zkusím to.
+ Stepa
+27.12.2013 14:36:26
+Předně, není jasné jaké je pořadí operací. V prvním příkladě např. je v
+čitateli n-3, nebo jen 3 a ve jmenovateli 6, nebo 6+3n^2 ?
+ _L_U_F [Muž]99 [Kategorie]
+27.12.2013 12:44:21
+Vyzkouše Wolphram Alpha, zadej si tam ty funkce.
+
+_h_t_t_p_:_/_/_t_i_n_y_u_r_l_._c_o_m_/_q_h_u_8_p_3_7
+ _M_o_u_č_n_í_k [Muž]26 [Kategorie]
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+

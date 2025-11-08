@@ -1,0 +1,162 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+Diskuze č.773436, vloženo 26.12.2013 17: _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+48:31                                    _s_t_r_á_n_k_a_]
+SGML vs XML
+V HTML můžu psát tagy < VELKEJMA > i < malejma > písmenama. V XHTML jenom <
+malejma >.
+
+V SGML lze definovat nepovinný uzavírací nebo počáteční tag. (< / p >< p > můžu
+samozřejmě zkrátit třeba na < p > nebo < / p > ....)
+
+SGML parser může spadnout na chybnym vstupu, XML musí. (Přívětivost pro
+uživatele. Snad se pokusim a když to vyjde, vyhodim jenom warning, ne? )
+
+V XML se musí uzavírat všechny tagy, včetně nepárových. ( < b r /> wtf?)
+
+V SGML lze zakázat vkládání nesmyslů kam nepatří. < head >< object >< div >< p
+>Kde se tohle zobrazí? < /p >< / div >< / object >< /head > a přitom mít
+povoleno < body >< object >< /object >< /body > i < head >< object >< /head >.
+(Myslím, že nějaká verze HTML ten nesmysl povolovala jako validní, ale obecně
+přeci nemusela.)
+
+Kdybych měl programovat vlastní parser, radši volím XML, protože je
+jednodušší... ale copak na oboje není dost open source parserů? A nezvládaly
+náhodou už mobily koncem minulého století vykreslovat prvky HTML(Nokia 9110)?
+ Trol [Muž]25  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+01.01.2014 19:47:06
+"Protože server posílá tuhle stránku s MIME typem text/html " - a že to teda
+validátor nevyhodí warging, že to není XML.
+ Trol
+28.12.2013 14:09:32
+Oprava: „ty prasárny jako třeba nejsou“
+
+mělo být:
+
+„ty prasárny jako třeba &ltSPAN&gt; nejsou“
+ _F_r_a_n_t_a_6_6 [Muž]31 [Kategorie]
+28.12.2013 14:07:57
+Ad „Kdo chce prasit, udělá to i v XML, třeba … validator_je_prima“:
+
+schválně si tu stránku stáhni a otevři v nějakém editoru, který rozumí XML,
+např. emacs – uvidíš, že je to celé komentář – díky tomu to projde
+validátorem, protože ty prasárny jako třeba <STYLE> nejsou začátkem elementu,
+ale jsou součástí (prostého) textu komentáře.
+
+Také si všimni, že stránka validátorem prošla jako obecné XML (This document
+was Tentatively checked as XML) nikoli jako XHTML – tudíž se nekontrolovaly
+povinné elementy XHTML stánky a tudíž prošel tento prázdný XML dokument (plný
+komentáře).
+
+A proč se to zobrazí v prohlížeči? Protože server posílá tuhle stránku s MIME
+typem text/html – tudíž prohlížeč to neinterpretuje jako XML (XHTML) ale jako
+HTML hnůj a pokusí se něco zobrazit. (viz ten trik s instrukcemi pro
+zpracování + komentářem na začátku)
+
+Když si tu stránku stáhneš a uložíš do souboru stránka.xhtml (přípona je
+důležitá) a otevřeš v prohlížeči (např. Firefox), pokusí se to načíst jako
+XML/XHTML (nikoli jako HTML – text/html) a uvidíš, že je to všechno jen XML
+komentář a žádný jiný obsah tam není (kořenový element q je prázdný).
+
+Tenhle příklad právě ukazuje, jaké prasárny se dají dělat v HTML (MIME typ
+text/html), protože stránka se v prohlížeči zpracovává jako HTML, nikoli XML/
+XHTML (to by ji server musel posílat s MIME typem application/xhtml+xml)
+
+Ad „Taky snad byla idea HTML "tag kterej prohlížeč nezná se přeskočí a vnitřek
+zobrazí jako prostej text."“:
+
+Úplně stejně to funguje u XHTML – můžeš si klidně vymyslet vlastní
+nestandardní značky (samozřejmě je správně uzavřít, nekřížit atd.) a prohlížeč
+jim nebude rozumět a zobrazí jen text uvnitř.
+
+Ad „Já klidně občas použiju věci z HTML5 když zákazník zaplatí málo (a
+souhlasí s tím, že to nepoběží všude )... ale když se dá zakázka napsat v
+něčem staršim, tak použiju to starší. “
+
+Já píšu tak, aby to bylo validní XHTML a k tomu mám volitelně pár triků, aby
+to fungovalo ve starých prohlížečích, které XML nerozumí – takže stránky můžeš
+číst třeba i v textových prohlížečích typu lynx/links :-)
+ _F_r_a_n_t_a_6_6 [Muž]31 [Kategorie]
+26.12.2013 22:52:56
+"Není to text, ale stromová struktura" - ok, i na stromy můžu SGML i XML
+používat, případně můžu mít XML databázi. Nepárový tag v SGML můžu brát jako
+list, a pořád o zůstane stromem.
+Samozřejmě ani SGML neumožní překřížit tagy stylem t[a]u[b] v [/a]w[/b]x, z
+tohodle strom neudělám.
+
+"HTML je pro prasata" - proč konkrétně?
+SGML parser, kterej odhaduje kde co (nejen tagy, kde se dá vynechat počáteční
+i koncový), je náročnej, ale i mobily z minulého tisíciletí na něj měly.
+Kdo chce prasit, udělá to i v XML, třeba _h_t_t_p_:_/_/_v_a_l_i_d_a_t_o_r_._w_3_._o_r_g_/
+_c_h_e_c_k_?_u_r_i_=_h_t_t_p_%_3_A_%_2_F_%_2_F_k_e_s_o_l_i_m_._s_w_e_b_._c_z_%_2_F_v_a_l_i_d_a_t_o_r___j_e___p_r_i_m_a_%_2_F_ .
+
+"Nové věci by měly být platné XML, XHTML." - dokud je to věc, která se dá
+vyjádřit ve starém jazyce, tak v rámci kompatibility považuji za lepší psát ji
+tak, aby ji zobrazili i staré prohlížeče. Taky snad byla idea HTML "tag kterej
+prohlížeč nezná se přeskočí a vnitřek zobrazí jako prostej text."
+Já klidně občas použiju věci z HTML5 když zákazník zaplatí málo (a souhlasí s
+tím, že to nepoběží všude )... ale když se dá zakázka napsat v něčem staršim,
+tak použiju to starší.
+ Trol
+26.12.2013 18:17:36
+Ad „V XML se musí uzavírat všechny tagy, včetně nepárových. ( < b r /> wtf?)“
+
+Doporučuji se oprostit od myšlení „text a v něm nějaké tagy“ a kategorie
+párové/nepárové si úplně škrtni.
+
+Není to text, ale stromová struktura, kterou tvoří různé UZLY: elementy,
+atributy, textové uzly, komentáře…
+
+HTML je pro prasata a historické weby, které tu jsou deset patnáct let – ano,
+je dobré mít možnost si je přečíst, parsery na to jsou potřeba, ale není důvod
+takhle prasit i teď.
+
+Nové věci by měly být platné XML, XHTML.
+
+Naštěstí existují i SAX (XML) parsery, které čtou ten nevalidní HTML hnůj,
+opravují ho a na výstupu pak dostáváš SAX události a můžeš si konstruovat DOM,
+jako by to bylo normální XML. To použiješ na načítání legacy HTML kódu nebo
+když komunikuješ s nějakým nedoukem, který neumí psát validní XML.
+ _F_r_a_n_t_a_6_6 [Muž]31 [Kategorie]
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+

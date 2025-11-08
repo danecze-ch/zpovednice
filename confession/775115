@@ -1,0 +1,145 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+   Otázky - Vzkazy č.775115, vloženo _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+   02.01.2014 19:32:27               _s_t_r_á_n_k_a_]
+   Udelat si vlastni server ?
+   Zdravím vas.Mam doma stare PC ( 2,66Ghz. 1 GB Ram Win XP) A premyslel
+   jsem ze bych si z nej ude zlaj svuj domaci server :) A tak mam par
+   otazek: Jaky OS ? Ano mam win xp ale myslim ze linux tolik nezatezuje
+   cpu (opravte mne pokud se mylim) takze si tam dam nejakou verzi linuxu
+   (jaka je nejlepsi ?) a stahnul bych si tam program Apache.(Apache je
+   vlastne program ktery mi bezi na tam linuxu a diky nemu mi treba jedou
+   stranky ? ). a jeste bych se chtel zeptat jestli v tom programu uvidim
+   jedbotlive pristupy na moji stranku.Diky za odpovedi.A nepiste mi ze je
+   lepsi si zaplatit hosting to vim taky ale proste jsem si rekl ze to
+   udelam tak to udelam .diky
+    Wild Pony [Muž]17  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+03.01.2014 20:45:32
+Prvni otazku kterou si byt tebou polozim je, co ten server bude delat a k cemu
+slouzit. Co se tyka os je vcelku jedno jaky pouzijes. Nainstaluj to v cem umis
+pracovat, popripade co se chces naucit.
+ psoug
+03.01.2014 02:02:36
+Pokud nechceš provozovat nějaké komplikované stránky, stačí ti lepší router s
+openwrt a lighttpd nebo nějaký malý jednodeskový počítač. Ušetříš pár
+tisícovek ročně za elektřinu.
+ _S_t_a_6_7 [Muž]28 [Kategorie]
+02.01.2014 22:30:11
+P.S. co se týče hardwaru – spočítej si spotřebu a zvaž, jestli se nevyplatí
+koupit něco novějšího. Ale jestli to má být jen na hraní a nepoběží to pořád/
+dlouhodobě, tak to neřeš a použij, co máš.
+ _F_r_a_n_t_a_6_6 [Muž]31 [Kategorie]
+02.01.2014 22:28:28
+OS určitě GNU/Linux – distribuci doporučuji Debian nebo Ubuntu.
+
+Apache je webový (http) server. Ukládá logovací soubory, kde vidíš jednotlivé
+návštěvy resp. každou staženou stránku/soubor. Ty logy si můžeš číst nebo
+zpracovat nějakým nástrojem, který ti z nich udělá statistiku.
+
+Nejpohodlnější bude asi Piwik: _h_t_t_p_:_/_/_p_i_w_i_k_._o_r_g_/_ – je to taky svobodný
+software jako GNU/Linux nebo Apache. Má pěkné webové rozhraní a můžeš ho
+použít pro podrobnou analýzu návštěvnosti tvého webu.
+ _F_r_a_n_t_a_6_6 [Muž]31 [Kategorie]
+02.01.2014 21:58:57
+Ano mam verejnou statickou IP adresu.
+ Wild Pony
+02.01.2014 21:28:55
+Jenom pro pořádek - máš veřejnou IP adresu? ;-)
+ vyvětralý sifon
+02.01.2014 20:39:29
+Wild Pony: an to nejde lehce odpovědět. Počítač není black box. Sčítá se
+spotřeba procesoru, grafiky, disků.
+Ten starej křáp bude mít určitě vyšší spotřebu procesoru, ale zas menší
+grafiku. Pro odhad si spočítej kolik tě bude stát 100-150W 24h denně.
+A pak tě vyjde levnějši virtuál někde.
+Na domácí server to chce odpovídající železo.
+
+Já třeba domácí spotřebu kompenzuju tím, že na serveru těžím LTC.
+ _M_S_-_f_a_n_o_u_s_e_k [Muž]50 [Kategorie]
+02.01.2014 20:14:30
+Jen pro info.Kdyz to bude spustene tak to bude myt normalni odber jako me
+hlavni PC ne ? ja si treba nechavam pc pres noc kdyz neco stahuju a fotrik si
+nestezoval
+ Wild Pony
+02.01.2014 20:13:10
+Pokud chceš jen web tak si pronajmi nějaký web hosting.
+ _*_h_m_m_m_m_* [Muž]46 [Kategorie]
+02.01.2014 20:12:42
+Dělat doma sever na starém PC je sebevražda!
+Jako operační systém je pro tebe nejlepší Ubuntu ve verzi sever
+jako počítač ti doporučuji
+_h_t_t_p_:_/_/_w_w_w_._g_v_k_b_._c_z_/_?_p_=_1_0_9_8_9_ 
+minimální spotřeba proudu a má to 4 jádra za 219 dolarů
+[Smajlík] [Muž]61 [Kategorie]
+ _b_h_a_g_a_v_a_n
+02.01.2014 20:10:04
+MS-fanousek: tak on to platit nebude :D
+
+Wild Pony: pokud nemáš žádné znalosti tak se do toho ani nepouštěj. Jinak
+server může jet na čímkoliv, ale jak psal MS nej je na servry debian
+ _*_h_m_m_m_m_* [Muž]46 [Kategorie]
+02.01.2014 20:08:39
+to, ze by linux zatezoval min cpu neni pravda. Jde v nem ale napr.
+nainstalovat minimalni potrebne prostredi(zadna grafika apod), takze ten
+procesor neni vytezovan hovadinama, je tam na rozdil od windows skvela
+prikazova radka, instalace aplikaci z repozitaru je mnohem pohodlnejsi, stejne
+tak aktualizace, taky je bezpecnejsi(sice ne tak jako openbsd, ale i tak), pro
+tvuj web, ktery stejne nikdo nebude navstevovat, je to ale uplne jedno.
+Apache(= konkretni web server) muzes nainstalovat i na windows.
+V logach se samozrejme muzes podivat na kazdy pristup.
+
+Nez se do toho pustis, neco si o tom precti, bez zakladni znalosti je nemozne
+pokladat dobre otazky (a rekneme si na rovinu, tva otazka je uplne zbytecna a
+ja na ni odpovidam jen jako zpusob prokrastinace)
+
+P.S.: byt tvym rodicem, tak ti to kvuli plytvani elektrinou zakazu (poridit si
+nejaky minimalni virtual by bylo vyrazne levnejsi, popr. by ti mohlo stacit si
+to provozovat na tvem hlavnim pc, jenom kdyz je zapnute)
+ _f_o_r_d_m_u_s_t_a_c_h_e [Muž]99 [Kategorie]
+02.01.2014 20:05:19
+Na servery je velmi dobrý debian, dobře se spravuje. Na serveru uvidíš vše co
+tě bude zajímat.
+Než to uděláš spočítej si kolik tě to bude stát. Elektřina je drahej špás.
+ _M_S_-_f_a_n_o_u_s_e_k [Muž]50 [Kategorie]
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+
