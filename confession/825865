@@ -1,0 +1,171 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+Diskuze č.825865, vloženo 23.08.2014 20: _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+06:35                                    _s_t_r_á_n_k_a_]
+má smysl se učit programovat v Pythonu?
+ahoj
+v budoucnu bych se chtel stat hernim vývojářem linuxových her(pro začátek,
+potom samozřejmě ve windowsu....). v součastné době se učím programovat v
+pythonu a zajímalo by mě, jestli je to rozumný prog. jazyk... Kdyžtak prosím
+poraďte nějakývhodnější
+děkuji :)
+ lolen23 E-MAIL: _e_m_p_i_r_e_g_o_o_d_2_@_s_e_z_n_a_m_._c_z  [Muž]13  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+23.08.2014 22:15:08
+Python je rozumnej jazyk. Nevim jestli zrovna na psani her, ale urcite se
+hodi. Jinak samozrejme Cecko je zaklad. Assembler je uplne jinej obor, jako
+vyvojar her ho nepotrebujes a ani ho pouzit nemuzes, z duvodu prenositelnosti
+na jine platformy.
+ _v_f_3_8_e_x_f_z_p [Muž]39 [Kategorie]
+23.08.2014 21:24:02
+Tak ja ti dam zde asi jediny nazor odbornika, vzhledem k tomu, ze mam IT VS a
+jsem aktivni programator.
+
+Skriptovaci jazyk jako python urcite neni naskodu se naucit, nehlede na to, ze
+pokud ti nejde o zvladnuti vsech moznych knihoven atd. a jde ti spise o to se
+naucit syntaxi a semantiku jednotlivych konstrukci, tak to zvladnes za par
+dni.
+Ze skriptovaci jazyk je pro hry k nicemu neni ani zdaleka pravda, protoze ve
+hrach je spousta casti, ktere se programuji pomoci skriptovacich jazyku.
+Python ma jednu z nejlepsich podpor pro to, jak zabudovat python interpret do
+programu napsaneho napr. v C++. Pokud delas hru a chces mit moznost nektere
+casti ovlivnovat bez nutnosti kompilace cele hry znova (coz je skoro u kazde
+hry), tak vzdycky pouzijes nejaky skriptovaci jazyk. Hodne se pouziva treba
+jazyk lua. Python je skvely jazyk, urcite se ho nauc.
+Rozhodne to neni tak, ze se naucis jeden jazyk a tim to konci. Pokud se budes
+venovat aktivne programovani, tak se jeste budes muset naucit tolik veci, ze
+si ted mozna ani neumis predstavit.
+Jinak obecnce hry se programuji spise v jazycich, ktere se kompiluju primo do
+strojoveho kodu procesoru, tzn. c, c++. CryEngine je taky v C++.
+Pokud to myslis se hrami opravdu vazne, tak se nauc zaklady C a pak prejdi na
+C++. U toho se muzes pomalu ucit Direct 3D(pokud ti jde jen o windows) nebo
+OpenGL (pokud chces vyvijet multiplatformni hry, ktere pobezi napr. i na
+linuxu nebo os x).
+S ucenim D3D nebo OGL souvisi taky nauceni se jazyka pro tvorbu shaderu (to je
+vlastne to nejdulezitejsi).
+Shader je program, ktery bezi na graficke karte (graficka karta je totiz taky
+programovatelna, stejne jako procesor, ale pouziva se to v podstate vyhradne
+pro pc hry, i kdyz na tom lze delat vsemozne vypocty). Muzes se podivat napr.
+na OpenCL nebo Cuda.
+Shaderu je nekolik druhu, nejpouzivanejsi je vertex a fragment shader.
+Shadery v OpenGL se programuji pomoci GLSL a pro D3D myslim HLSL.
+
+A ted prikladek, aby to na tom bylo trosku videt.
+Rekneme, ze budes chtit udelat scenu, kde ti postava da jakoby pesti a tobe se
+postupne zacerna obrazovka, jako ze jsi omdlel.
+Ve fragment shaderu budes akorat postupne nasobit RGB slozky jednotlivych
+pixelu tak, aby po nejake dobe byla vsude cerna, takze napr. kazdych 100
+milisekund snizis o 0.1:
+1 pruchod: RGB * 1 = zadna zmena
+2 pruchod: RGB * 0,9
+.
+.
+.
+posledni pruchod RGB * 0 = cerna barva vsude
+
+Pokud mas otazky, klidne se ptej.
+
+Programovani her obecne neni az zas tak slozite, jak se muze zdat, ale je
+potreba mit obrovskou zakladnu znalosti.
+Ja napr. programuji od roku 2008 a na zacatku jsem hry vubec nechapal. Kdyz
+jsem se k tomu vratil nazactku 2014, tak bylo uz videt, jak jsem 100000000x
+zkusenejsi a vsemu rozumim.
+ vsechno mozny
+23.08.2014 21:15:43
+Moje rada zní, zůstaň u Pythonu. Pokud se v něm už učíš a baví tě to, tak nemá
+cenu zatím přecházet na něco jiného. Na C/C++ máš ještě času dost, zatím jde
+hlavně o to, aby ses naučil programovat, na což Python stačí. Potom není žádný
+problém naučit se syntaxi dalších jazyků.
+[Smajlík]
+ lemonov
+23.08.2014 20:54:45
+Python má cenu se naučit. Ne že by programování v pythonu her bylo zrovna
+dvakrát perspektivní a efektivní. Je to především interpretovaný jazyk a
+zůstaneš kousnutý u knihoven, který používáš (a které jsou naprogramovány v
+jiném jazyce). A můžeš se naučit OOP (objektově orientované programování) a
+docela dobře s tím půjde naprogramovat všechno co budeš do začátku chtít
+(včetně 3d pokud použiješ správné knihovny, které existují).
+
+Ono asi budou lepší programovací jazyky (třeba Haxe, který zase není tolik
+rozšířené a neseženeš k tomu návody), nebo může dobré se naučit Blender (to
+není programovací jazyk, ale 3d program), který podporuje skriptování v
+Pythonu.
+
+Ono v zásadě pokud budeš programovat v C nebo C++ tak můžeš jít tak na
+hardware jako s assemblerem, že to s ním můžeš pokud budeš potřebovat
+kombinovat (ale nikdo to nedělá protože počítače jsou výkonné a programuje se
+v Javě).
+ ant
+23.08.2014 20:40:07
+sem chtěl nějakej lehčí jazyk na začátek
+ lolan23
+23.08.2014 20:39:58
+Svůj příspěvek jsi vložil(a) do nespravné kategorie. Bylo provedeno přesunutí.
+V případě opakování hrozí blokování vstupu na portál. Prosím zvol příště
+správnou kategorii. Děkujeme za pochopení..
+[Smajlík]      [Muž] [Kategorie]
+ _A_d_m_i_n_i_s_t_r_á_t_o_r
+23.08.2014 20:37:50
+lolan23: Hry se pořád dělají v C/C++. Python ani Java na hry nejsou vhodné.
+ Igorax
+23.08.2014 20:35:30
+Nevíte, za jak se ten Python naučím s maximálním úsilím stihnu naučit(o
+večerech a o výkendech kvůli škole)???
+[Smajlík]
+ lolan23
+23.08.2014 20:31:40
+A má smysl tento dotaz ve zdejším fóru? Dneska všichni ujíždějí na jawě.
+[Smajlík] [Muž]28 [Kategorie]
+ _V_r_a_k
+23.08.2014 20:25:32
+Všechny pořádné hry jsou v C/C++
+Assembler už dneska nepotřebuješ.
+ Igorax
+23.08.2014 20:12:14
+Raději se uč v Assembleru, jako důvod uvedu jeden na který podobní jako ty
+zapomínají. Kompatibilita. Přepsání z tvého Pythonu do C++ nebo do Javy udělá
+paseku chyb. U kódů o velikosti přes 6 Gb se nikomu chtít nebude hledat chybu.
+Teda pokud to není magor.
+[Smajlík]            [Muž]24 [Kategorie]
+ _I_g_n_á_c_ _v_o_n_ _K_a_r_t_o_f_f_e_l
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+

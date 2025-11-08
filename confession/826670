@@ -1,0 +1,161 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+Diskuze č.826670, vloženo 27.08.2014 13: _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+30:00                                    _s_t_r_á_n_k_a_]
+Prosím poraďte - wifi u tabletu :(
+Ahoj, píšu sem, protože se mi nepovedlo vygůglit přesně ten problém co mám já.
+Prostě ode dneška mi na tabletu nejde wifi, ještě včera šlo úplně normálně a za
+ten rok, co ho mám jsem s wifi nikdy problém neměla. Na nějaké android fórum
+nechci psát, je to tam sám ajťák a já tomu všemu rozumím asi stejně jak moje
+babička.
+
+V pravo dole, jak se ukazuje signál, tak to vypadá jako by žádný nebyl, ale
+když jdu do nastavení, tak tam je plný a hlásí mi to vynikající sílu signálu,
+že to je připojeno a tak. Ale internet mi tam samozřejmě nejde, zkusila jsem i
+úplně vypnout a zapnout tablet a prostě nic, furt rýpu do té wifiny v nastavení
+připojit/odpojit a tak a nepomáhá to, prostě se nechce načíst, ale hlásí že je
+připojená. Jsem z toho úplně blbá:( Možná by pomohl reset do továrního
+nastavení, ale to je to poslední do čeho by se mi chtělo, to až jedině kdybych
+to nerozchodila ani za měsíc.
+Máte někdo nějakou radu? Jinak na routeru problém asi není a mám tablet Sencor
+element 8v3.
+Dík
+ jedna Verunka [Žena]20  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+27.08.2014 23:03:58
+Nekupuj si blbý Sencor a Goclever.
+Ale problém stejně asi nebude v tabletu, ale v routeru.
+ _P_i_c_h_u_č_u [Muž]19 [Kategorie]
+27.08.2014 22:11:33
+To mě fakt nenapadlo, že to zkoušela jen na jednom přístupovém bodu.
+[Smajlík]    [Muž]29 [Kategorie]
+ _s_o_u_k_m_e_n_o_v_e_c
+27.08.2014 16:09:35
+jedna Verunka: Takové chování znamená, že tablet router vidí, ale router ho
+nepustí dál.
+ _S_t_a_6_7 [Muž]28 [Kategorie]
+27.08.2014 16:05:50
+Tak uz mi to jde, bylo to neco v routeru:-). Predtim jsem ho jen vypla a
+zapla, zkontrolovala kontakty a nic. Jsou tam 3 vstupy na ten pevny kabel z
+netu, tak me jen tak napadlo ho zapojit do jineho vstupu a wifi uz jde:-) Dik
+[Smajlík]
+ jedna Verunka
+27.08.2014 15:57:35
+Sta67: v liště mám wifi prázdné, úplně stejně jako když je mimo dosah signálu.
+
+
+A když na to "kliknu", tak se dostanu do nastavení wifi, je tam další
+samostatný ukazatel signálu a ten mám plný. U toho je napsané, že WPS je k
+dispozici. Když na to kliknu, tak to psalo "Připojování" a pak "Uloženo".
+Jenže ten ukazatel signálu dole je pořát prázdný.
+
+Ten router jsem zkoušela jen tak zběžně, zkusím se v něm teď ještě porýpat.
+ jedna Verunka
+27.08.2014 15:39:00
+Máš v liště máš Wi-Fi žádný, prázdný, bílý nebo modrý? A v Nastavení/Wi-Fi je
+vidět přesně co? Je Wi-Fi vypnuté a nejde zapnout? Nebo jsou tam vidět
+přístupové body?
+
+Novější verze Androidu mají dva připojené stavy:
+- bílý: Je sice připojeno, ale net nejspíš nejede.
+- modrý: Je připojeno a net jede.
+
+Pokud ikona dlouhodobě zůstane bílá, může to být i problém na routeru (vypadl
+mu net).
+
+Dlouze klikni v Nastavení/Wi-Fi na připojený bod, dej Podrobnosti. Pokud v
+nich vidíš, že Adresa IP je nastavený na rozumnou hodnotu, pak router nemá
+net.
+
+soukmenovec: Co získá resetem, když nejde Wifi? Ano, Wi-Fi lze na Androidu
+uvést do stavu, kdy pomůže jen reset do továrního nastavení, ale bez rootu si
+nedovedu představit, jak by k tomu mohlo dojít.
+ _S_t_a_6_7 [Muž]28 [Kategorie]
+27.08.2014 15:36:27
+Pokud máš nějaký normální tablet, tak to dones do servisu. Za pětikilo ti
+přeinstalují systém resp. vyzkouší jestli je to problém hw nebo sw. Samozřejmě
+pokud je to v záruce, tak reklamuj (a předtím zálohuj!)
+ _V_o_t_r_a_p_a [Muž] [Kategorie]
+27.08.2014 14:36:40
+Nemám. Ani nevím jak mít rootnutý tablet, ale myslím že jsem to jednou kvůli
+něčemu zkoušela a hlásilo mi to že na tomto zařízení není root povolen, nebo
+tak něco.
+Mám teďka tablet napojený na PC, vypadá to jak kdyby snad měl Win7 nějaký svůj
+vlastní program na zálohu, jestli tomu dobře rozumím. Tak si přes to právě
+nechávám zálohovat tablet :-DDD Už se tomu směju, beztak jsem to blbě
+pochopila a všechno si smažu a možná to navíc ani nepomůže :-D
+ jedna Verunka
+27.08.2014 14:06:37
+Dostaneš, stačí vyhledat APK instalátor. Ale stejně na tenhle konkrétní
+program potřebuješ mít rootnutý tablet. Nemáš nějakého kamaráda, který se v
+těchhle věcech hrabe, že bys ho poprosila o pomoc?
+ _s_o_u_k_m_e_n_o_v_e_c [Muž]29 [Kategorie]
+27.08.2014 14:03:31
+No jo, jenže v tabletu ho možná už ani stejně nenainstaluju, když se tam bez
+netu nedostanu do Play :-/ Šel připojit jen přes wifi, jinak ne.
+[Smajlík]
+ jedna Verunka
+27.08.2014 13:53:32
+Ne, ten program nainstaluješ v tabletu a vytvoří ti to soubor se zálohou na
+paměťové kartě, odkud si ho můžeš uložit do počítače. Existují i jiné obdobné
+programy.
+Zálohovat můžeš i manuálně, když si překopíruješ veškerý obsah datových
+úložišť z tabletu do počítače. Spousta věcí po nahození zpátky funguje.
+ _s_o_u_k_m_e_n_o_v_e_c [Muž]29 [Kategorie]
+27.08.2014 13:47:06
+soukenovec: Ten program Titanium Backup jsi myslel že bych jako měla stáhnout
+v PC a tam by to pak šlo uložit?
+Fakt sory že se tak blbě ptám, ale PC a ty věci kolem jsou pro mě prostě
+španělská vesnice :-( Fotky a knížky neřeším, ty jsou jasné. Ale mám tam snad
+20 různých kodeků, aplikací, conventerů, a.t.d., které jsem konečně po
+několika měsících po minulém resetu dala nějak dohromady aby mi na všem jely
+videa, všechno fungovalo a tak:-(.
+
+Ale stejně s tím resetem ještě počkám
+ jedna Verunka
+27.08.2014 13:36:51
+Udělej nějakou komplexní zálohu (třeba programem Titanium Backup) a udělej ten
+reset do továrního nastavení. Stejně to bude nejspíš HW problém a budeš to
+muset reklamovat.
+ _s_o_u_k_m_e_n_o_v_e_c [Muž]29 [Kategorie]
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+

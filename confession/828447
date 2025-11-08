@@ -1,0 +1,159 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+Zpověď č.828447, vloženo 04.09.2014 22: _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+02:10                                   _s_t_r_á_n_k_a_]
+Jak jsem na tom?
+Predem dodavam pro spravce teto stranky: Tohle je zpoved :D Ctete dal a
+zjistite, ze obcas se dopustim hrichu :D A kdyby ne: Lzu vam a zadam o
+rozhreseni.
+
+Chtel bych se zeptat, jestli se muzu povazovat za talentovaneho (ptam se,
+protoze se ve svem okoli nemam s kym srovnavat, tak nevim).
+
+Docela umim programovat v C++. Zvladam ruzne algoritmizacni ulohy (ty lehci,
+preci jenom mi je 15), dokazu naprogramovat easy 2D hry ve stylu Flappy bird
+(akorat s trochu horsi fyzikou), napsal sem uz nekolik hacku, diky kterym sem
+ziskal nejaka hesla (pro policii: samozrejme svoje hesla :DD), ruzne spamovaci
+aplikace a takove ty veci.. Docela i zvladam OOP.
+
+Myslim, ze na svuj vek jsem opravdu dobry v linuxu. Dokazu v pohode
+nainstalovat, nakonfigurovat arch linux a pripadne ho i cely ovladat z
+prikazove radky, resp. obejdu se bez grafickeho prostredi. Vim, jak linux
+funguje uvnitr, jeho historii. Ale mam radsi systemy zalozene na Debianu,
+pripadne samotny debian. Umim pouzivat takove ty nastroje jako aircrack-ng
+apod.. ale kdo ne? :)
+
+Mimo C++ 'umim' i Javu, ciste C, trochu Bash, C#, html a css
+
+Vsechny svoje zdrojaky se snazim psat tak, aby byly citelne i pro ostatni
+programatory a bez globalnych promenny, pokud to jde, tk dynamickou alokaci
+pameti atd atd..
+
+Vim, jak funguje comp "uvnitr" (opravdu detailne. veci jako FSB sbernice,
+north/south bridge a vsechny veci, co se nachazeji okolo toho. vim, ze v compu
+musi byt hodiny atd.. )
+
+Ucim se historii informatiky a jak sly technologie v case..
+
+Tohle vsechno si vzalo svoji dan, na mem socialnim zivote. I presto se
+povazuju za normalniho.. jsem prumerne pohledny, chodim na obecny gympl.
+
+Pokud vite kdo jsem, nesirte info o tehle zpovedi dal. nechte si to prosim pro
+sebe.
+
+Pokud tohle zni jako vytahovani se, tak sorry no :D Jenom mi reknete, jak na
+tom sem..
+
+btw0. vim ze bych mel v programovani zasadne pridat, pokud chci byt 'nekym'
+btw1. programovat se ucim asi 3 mesice. S linuxem pracuju asi 3 roky.
+ TheProgrammer E-MAIL: _f_a_k_e_m_a_i_l_@_f_a_k_e_._f_a_k_e  [Muž]15  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+05.09.2014 23:32:51
+Lojza odvedle: No to neni zrovna tak podstatný, podstatnější je to, že z O
+(m*n) je to zoptimalizováno na O(m+n).
+ _S_e_c_h_e_r_ _N_b_i_w [Muž]36 [Kategorie]
+05.09.2014 21:06:28
+Secher Nbiw: kratsi o zavorky v cyklech :D.. ale hlavne tisickrat
+prehlednejsi, budu muset vyzkouset jestli i rychlejsi a neco si precist o
+boostech, uz mam v planu pul roku se ne to podivat.
+ Lojza odvedle
+05.09.2014 13:59:16
+Lojza odvedle: Třeba takhle (pokud potřebuju zajistit, že nebudu měnit vstup,
+kdyby mi to nevadilo, tak je ještě další prostor pro optimalizaci, i když už
+ne tak velkou) _h_t_t_p_:_/_/_p_a_s_t_e_b_i_n_._c_o_m_/_R_4_w_F_B_n_z_t_ 
+
+Samozřejmě to jde napsat i s cyklama, já si rád hraju se std::algorithm,
+boost::bind, boost::lambda a podobně, většinou je z toho kratší kód :)
+ _S_e_c_h_e_r_ _N_b_i_w [Muž]36 [Kategorie]
+05.09.2014 11:48:27
+Řekl bych, že seš na tom velmi špatně. Zcela pomíjíš ty důležitější věci v
+životě.
+I kdybys byl programátorskej bůh a uměl vše, tak sezení u kompu z tebe
+šťastného člověka neudělá.
+Seš šťastnej?
+ _M_S_-_f_a_n_o_u_s_e_k [Muž]50 [Kategorie]
+05.09.2014 11:45:01
+Secher Nbiw: urcite posli reseni, docela me to zajima
+ Lojza odvedle
+05.09.2014 03:09:37
+Tak furt nikdo nic? :/
+
+Dá se tam toho zoptimalizovat ranec, ta funkce takhle je vážně humus a zabíjel
+bych snad za to...
+
+Asi ráno hodim "ideální řešení". Teda pokud si vzpomenu, chjo ta moje paměť...
+ _S_e_c_h_e_r_ _N_b_i_w [Muž]36 [Kategorie]
+05.09.2014 00:10:18
+Lojza odvedle: Já syntaxi C++ moc neznám, nicméně jde o porovnávání dvou
+řetězců, resp. jednotlivých znaků těchto řetězců a pokud se znaky nacházejí v
+obou z nich, ukládají se do pole result. Nevím, jak bych to optimalizoval. Ve
+skutečnosti ani netuším, k čemu by taková funkce měla sloužit. Možná pro
+četnost znaků z pole chars v poli text. Složitost jsem neuměl vypočítat nikdy.
+ _s_p_u_t_n_i_k [Muž] [Kategorie]
+04.09.2014 23:54:28
+Secher Nbiw: z te tve funkce me rozboli hlava :D
+ Lojza odvedle
+04.09.2014 23:20:20
+Rikas, ze neumis nic poradne, zaklady v prog. jazycich jsou vzdy
+nejjednodussi, ale i tak ti fandim, proc ses neprihlasil na elektrotechnickou
+skolu?
+ Lojza odvedle
+04.09.2014 23:19:01
+Popravde neumis nic poradne, zaklady v prog. jazycich jsou vzdy nejjednodussi,
+ale i tak ti fandim, proc ses neprihlasil na elektrotechnickou skolu?
+ Franta odvedle
+04.09.2014 22:20:03
+Ad umím C++ - jak jsi na tom s STL a Boostem? Zoptimalizuj mi tuhle funkci jak
+nejlíp dokážeš (je schválně napsaná velice neefektivně) a napiš mi, jaká je
+složitost ve výchozím stavu a jaká je složitost po tvojí optimalizaci (big O
+notation).
+
+_h_t_t_p_:_/_/_p_a_s_t_e_b_i_n_._c_o_m_/_g_u_6_9_c_R_c_6_ 
+
+Co ty na to?
+ _S_e_c_h_e_r_ _N_b_i_w [Muž]36 [Kategorie]
+04.09.2014 22:07:40
+myslím, že jsi na tom hodně dobře... já se dokážu akorát dostat do registrů
+apod.. ovšem tohle teda neumím...
+ _F_o_r_b_i_d_d_e_n [Muž]18 [Kategorie]
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+
