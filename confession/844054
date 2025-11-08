@@ -1,0 +1,117 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+   Otázky - Vzkazy č.844054, vloženo _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+   24.11.2014 11:13:00               _s_t_r_á_n_k_a_]
+   Jak najít soubor v počítači?
+   Ok, jsem v koncích a potřebuju pomoc.
+   Stala se mi následující věc. Na ploše jsem měl uložen archiv zašifrovaný
+   prográmkem truecrypt. V sobotu večer tam ještě byl. Dnes ráno ho nemůžu
+   najít.
+
+   Možnosti jsou tedy následující:
+   a)omylem jsem ho smazal
+   b)omylem jsem ho někam přesunul
+   c)stalo se s ním ___________ (doplňte vy co rozumíte počítačům víc než
+   já)
+
+   Máte někdo nápad jak ho najít?
+
+   Kroky které jsem podnikl:
+   1)Prohledal složky, kam jsem ho nedopatřením mohl dát (není tam :-()
+   2)Nainstaloval Recuvea (program na obnovu smazaných souborů) a spustil
+   hledání. Našel jsem pár smazaných věcí. On mezi nimi nebyl. Pustil jsem
+   tedy hloubkový scan (právě běží a potrvá ještě cca 2 hodiny).
+
+   Problém s archivy zašifrovanými prográmkem TrueCrypt je ten, že je
+   obyčejná možnost "hledej" kterou má Windows nenajde :-(. Já vlastně ani
+   nevím, co takový soubor má za příponu (a ani nevím jak to zjistit).
+
+   Nemáte někdo prosím radu jak ho najít? Když je:
+   a)jen omylem někam při úklidu přesunutý
+   b)smazaný
+
+   Díky moc za všechny rady.
+
+   PS. Abyste si nemysleli, že tam mám zašifrované bůhví jaké soubory. Byl
+   to můj deník. Já vím, asi není úplně standardní, aby si psal kluk deník,
+   ale je to tak. Sem tam si tam píšu nápady a úvahy, sem tam zážitky, a
+   ponaučení do budoucna. Moc by mi vaše pomoc bodla. Mám sice zálohu, ale
+   je 3 týdny stará a poslední tři týdny se mi toho stalo docela dost, tak
+   by mě mrzelo, kdybych měl takovýto výpadek...
+    Prosiiiim pomoooooc [Muž]22  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+24.11.2014 11:47:34
+Podle toho co jsem se dočetl to vypadá, že už není TrueCrypt podporován (od
+května) a proto s ním začínají být problémy, protože se stává, že jeho místo
+na disku občas přepíše něco jinýho.
+
+Každopádně většina lidí zkouší scan pomocí:
+- TestDisk
+- Photorec
+
+Zkus si pročíst tohle:
+_h_t_t_p_:_/_/_g_o_o_._g_l_/_Y_1_4_K_7_A_ 
+_w_w_w_._f_o_r_u_m_._p_o_a_s_t_e_r_s_._c_o_m_/_i_n_d_e_x_._p_h_p_?_t_o_p_i_c_=_6_7_4_._0_ 
+_w_w_w_._c_g_s_e_c_u_r_i_t_y_._o_r_g_/_w_i_k_i_/_R_e_c_o_v_e_r___a___T_r_u_e_C_r_y_p_t___V_o_l_u_m_e_ 
+
+..já už musim běžet fuč a stejně podobnejm věcem nerozumim, jen jsem zkoušel
+googlovat.
+ _R_a_n_d_o_m_ _k_l_u_k [Muž]28 [Kategorie]
+24.11.2014 11:38:47
+Random kluk:
+Tak jsem vytvořil nový archiv s názvem "d". Tak se ten předchozí jmenoval.
+Kouknul se na vlastnosti, podrobnosti atd a žádná přípona tam není. Pak jsem
+ho hodil na plochu a v pohodě se přesunul. Takže už vím, že ten původní na
+ploše skrytý není.
+ Prosiiiim pomoooooc
+24.11.2014 11:25:21
+Podle google je přípona takovejch souborů ".tc", ale je možný, že nemá příponu
+žádnou nebo má i jinou.
+
+Jestli jsi měl zašifrovanou složku a ta zmizela, zkus na tom samym místě
+vytvořit novou složku s totožnym názvem. Pokud tě to nepustí, protože složka
+se stejnym názvem už existuje, tak můžeš vyloučit všechny programy
+vyhledávající smazaný soubory, protože tam ta složka pořád je, jen je nějakym
+způsobem skrytá.
+ _R_a_n_d_o_m_ _k_l_u_k [Muž]28 [Kategorie]
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+

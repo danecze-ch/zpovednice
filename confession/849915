@@ -1,0 +1,156 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+   Otázky - Vzkazy č.849915, vloženo _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+   24.12.2014 11:49:49               _s_t_r_á_n_k_a_]
+   Ubuntu 2 - VELKÝ PROBLÉM- VŠE SMAZÁNO
+   Včera jsem si toho nevšimla a nechápu, jak je to možné, že jsem si toho
+   nevšímla, vsadila bych se, že se to stalo až dnes při mé práci, ale
+   jistá si nejsem, protože jsem něco pila a tak fakt nevím. Nejdřív jsem
+   si myslela, že mě někdo hacknul PC, ale asi za to můžu já.
+
+   Dnes jsem zjistila, že jsem si komplet smazala PC příkazem rm -rf ./* ,
+   to jsem asi použila jako první a neurčila jsem přesný adresář.
+
+   Co ted? Jde to nějak řešit?
+    olalala [Žena]99  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+24.12.2014 22:24:21
+1. Důležitá je prevence: Heslo administrátora tak komplikované, aby bylo
+problém ho v opilosti zreprodukovat. Případně nainstalovat aplikaci na party
+režim s dodatečnou autorizací administrátora logickým kvizem.
+
+2. Pokud to uděláš, obnovit vše ze zálohy.
+ _S_t_a_6_7 [Muž]28 [Kategorie]
+24.12.2014 13:49:35
+olalala: no tak jsi ten rm spustila zrejme v domovskem adresari misto toho
+kose. Je dobre se divat co mazes nez neco mazes :-)
+ newbie7890rr45
+24.12.2014 13:41:44
+newbie7890rr47
+No takto, celé pc to nesmazalo, programy zůstali, ale vše ve složce Home to
+smetlo, kde jsem vlastně měla všechny svoje soubory. Ted zkouším TestDisk,
+jestli něco zahráním. No hlavní je, že to nejdůležitější mám zálohované, ale i
+tak je to dost ztráta.
+ olalala
+24.12.2014 13:40:57
+Nepřestávám se bavit. :) S takovou mi večer zaskočí kost do krku. :D
+[Smajlík]
+ Jen houšť
+24.12.2014 13:24:11
+rm -rf ./* smaze aktualni adresar, nikoliv cele pc.
+rm -rf / se pokusi smazat / ale na novych systemech uz to vetsinou nejde nebo
+se to aspon parkrat zepta jestli to myslis vazne.
+ newbie7890rr47
+24.12.2014 13:18:35
+Jojo, víme. Ale tím tu důvěryhodnost vůbec nezvýšíš. ;)
+Sakra tohle je opravdu průhledný až na kost, běž s tím do háje a příště
+pořádně, ok? :D
+[Smajlík]
+ veselé vánoční hody
+24.12.2014 13:05:56
+Tak jsem se ptala na forum Ubuntu a tam zjistili, že za to může tot: sudo rm -
+rf ./*
+ olalala
+24.12.2014 12:49:53
+Já se těším na zítřejší vánoční speciál Doctor Who :) A vy? :)
+[Smajlík]
+ uděláme si to hezký
+24.12.2014 12:49:10
+Dredovanej pudl:
+Tohle jsou příkazy, které jsem zadávala od konce:
+
+sudo rm -rf ./.local/share/Trash/files/css3.2.2.2.2
+sudo rm -rf ./.local/share/Trash/files/Joomla_3.2.2.3.6-Stable-Full_Package
+sudo dolphin
+gksudo nautilus
+sudo rm -rf ./*
+ olalala
+24.12.2014 12:45:37
+Tak jestli jsi to smazala jako su z příkazovýho řádku, tak nevím, asi to je
+všechno pryč.
+ _D_r_e_d_o_v_a_n_e_j_ _p_u_d_l [Muž]55 [Kategorie]
+24.12.2014 12:35:27
+Dredovanej pudl, ZkusNěcoLepšího
+Proč si z toho děláte prdel? Já chci vědět, jestli jsem to tím vymazala, nebo
+ne. Proč myslíš, že nadpis je
+Ubuntu 2?
+ olalala
+24.12.2014 12:31:33
+Dredovanej pudl:
+.local/share/Trash/files složka totálně prázdná.
+Když chci vytvořit novou složku v domovské složkce, třeba Dokumenty, tak se
+zobrazí i na ploše a to takto dříve nebylo.
+[Smajlík]
+ olalala
+24.12.2014 12:29:21
+Zkusněco... Tak on to je folklór v Unixu, něco jako format C: ve Windows?
+Takže 3/10, jen proto, že jsem se nachytal.
+[Smajlík]        [Muž]55 [Kategorie]
+ _D_r_e_d_o_v_a_n_e_j_ _p_u_d_l
+24.12.2014 12:28:50
+Dredovanej pudl: koukni na
+_h_t_t_p_:_/_/_w_w_w_._z_p_o_v_e_d_n_i_c_e_._c_z_/_d_e_t_a_i_l_._p_h_p_?_s_t_a_t_u_s_i_k_=_8_4_9_7_7_7_ 
+a bude ti to jasný. ;) Hodně trapnej pokus o reinkarnaci blbýho vtipu.
+[Smajlík]
+ ZkusNěcoLepšího
+24.12.2014 12:25:15
+Udělala! A předtím jsi ještě musela vypnout --preserve-root, samozřejmě víš
+jak se to dělá, že. :))
+
+Nah, tenhle "vtip" nezaujal už včera a dnes už je to vyloženě trapný. ;) Ale
+co čekat od nováčka.
+[Smajlík]
+ ZkusNěcoLepšího
+24.12.2014 12:25:05
+To nechápu, to by mělo jít snad jen jako su, proč by to někdo takhle dělal?
+Zkus koknout do domovského adresáře na .local/share/Trash/files to je koš,
+jestli tam něco nenaješ.
+ _D_r_e_d_o_v_a_n_e_j_ _p_u_d_l [Muž]55 [Kategorie]
+24.12.2014 11:53:54
+Ale je divný, že se mi v levém slopci v hlavní složce změnilo i pořadí
+nabídek.
+Je možné, aby můj PC někdo napadl z dálky a vše smazal?
+Nebo jsem to udělala fakt já?
+[Smajlík]
+ olalala
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+

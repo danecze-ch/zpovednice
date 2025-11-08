@@ -1,0 +1,131 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+   Otázky - Vzkazy č.843450, vloženo _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+   21.11.2014 16:23:55               _s_t_r_á_n_k_a_]
+   Mathematik
+   Ahoj poterbuju poradit s mat. ulohou
+   Milena nasbirala do košíku poslední spadlé ořechy a zavolala partu
+   kluků, at se o ně podělí. Dala so ale podminku: první si vezme 1ořech a
+   desetinu zbytku, druhý si vezme 2 ořechy a desetinu noveh zbytku, třetí
+   si vezme 3 ořechy a desetinu dalšího zbytku a tak dále. Takto se
+   podařilo rozebrat všechny ořechy a přitom každý dostal stejně. Určete,
+   kolik Milena nasbírala ořechů a kolik se o ně podělilo chlapců?
+   lidi prosim poradte potrebovala bych i reseni prosim ste ma posledni
+   nadeje
+    Mia2 [Žena]15  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+05.01.2015 17:58:38
+Nic si z těch lidí co píšou, že neumíš počítat nedělej. Tahle úloha je fakt
+těžká, já na to taky nemohl přijít. Snad ti tohle pomůže... Nápoveda. Uvažujte
+od konce: kolik si vzal poslední chlapec a kolik predposlední?
+Možné rešení. Poradové císlo posledního chlapce oznacme n. Tento chlapec si
+vzal n
+orechu a desetinu vzniklého zbytku a pak už nic nezustalo. Nulový tedy musel
+být už
+zbytek po odebrání n orechu.
+Predposlední chlapec, s poradovým císlem n &#1048576; 1, si vzal n &#1048576;
+1 orechu a desetinu
+vzniklého zbytku. Aby mel také n orechu jako poslední chlapec, musí být tato
+desetina
+zbytku rovna práve 1 orechu. Zmínený zbytek je tedy 10 orechu.
+Na posledního n-tého chlapce zbylo z techto 10 orechu 9, neznámá n je tedy 9.
+Chlapcu
+bylo 9 a každý si vzal stejne jako poslední z nich, tj. 9 orechu. Celkový
+pocet orechu byl
+9  9 = 81. Pro kontrolu uvádíme, jak si chlapci orechy postupne rozebírali:
+ 1. chlapec: 1 + (81 &#1048576; 1) : 10 = 1 + 8 = 9, zbyde 72,
+ 2. chlapec: 2 + (72 &#1048576; 2) : 10 = 2 + 7 = 9, zbyde 63,
+ 3. chlapec: 3 + (63 &#1048576; 3) : 10 = 3 + 6 = 9, zbyde 54,
+ atd.,
+ 8. chlapec: 8 + (18 &#1048576; 8) : 10 = 8 + 1 = 9, zbyde 9,
+ 9. chlapec: 9.
+Milena nasbírala 81 orechu, o které se delilo 9 chlapcu.
+Jiná nápoveda. Uvažujte od zacátku: kolik mohlo, príp. nemohlo být na zacátku
+orechu?
+Jiné rešení. První chlapec si vzal 1 orech a desetinu zbytku, což znamená, že
+celkový
+pocet orechu byl 10x + 1;
+kde x je neznámé prirozené císlo. Pri tomto znacení si první chlapec vzal 1 +
+x orechu
+a nový zbytek byl 10x + 1 &#1048576; 1 &#1048576; x = 9x.
+Druhý chlapec si vzal 2 orechy a desetinu nového zbytku, což znamená, že tento
+zbytek
+byl
+9x = 10y + 2; (1)
+kde y je neznámé prirozené císlo. Pri tomto znacení si druhý chlapec vzal 2 +
+y orechu,
+nový zbytek byl 10y + 2 &#1048576; 2 &#1048576; y = 9y atd.
+Protože si první a druhý chlapec odebrali stejný pocet orechu, platí
+1 + x = 2 + y neboli y = x &#1048576; 1: Dosazením do rovnice (1) a
+jednoduchou úpravou získáme x:
+9x = 10x &#1048576; 10 + 2;
+x = 8:
+Celkový pocet orechu byl 80 + 1 = 81 a každý chlapec si vzal 1 + 8 = 9 orechu.
+Kontrolu
+u všech chlapcu provedeme stejne jako v predchozí cásti. ...promiň, že je to
+tak nepřehledné.
+ _t_v_l_t_o_s_i_d_ě_l_á_š_p_r_d_e_l [Muž]15 [Kategorie]
+02.01.2015 18:31:46
+Podle mě je ta úloha zadaná špatně... Buďto se ta desetina musí brát z
+původního celku, a nebo by se muselo zaokrouhlovat, nejde vymyslet takové
+číslo aby to vycházelo podle zadání...
+ Kirok
+22.11.2014 15:35:02
+Mysli. Máš N ořechů. První kluk dostal 1 ořech + desetinu z N-1 ořechů, a tak
+dál. Si to napiš proboha, to už dneska děcka na základce neumí ani sčítat?
+Přijď na to sám.
+ _Š_m_o_u_l_o_v_á [Žena]24 [Kategorie]
+21.11.2014 17:12:03
+vypni počítač, vezmi si tužku a papír a soustřeď se na ten úkol, za chvilku to
+máš, fakt
+ mysli hlavou
+21.11.2014 17:03:55
+proc myslis?
+ Mia2
+21.11.2014 17:02:57
+ten, kdo to vyřeší za tebe, tě tím poškodí
+ mysli hlavou
+21.11.2014 16:33:40
+A mezitím přiletí havran, a všechny ořechy jim sežere!!!!!
+ _R_p_p_o_k_6_6_6 [Muž]19 [Kategorie]
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+
