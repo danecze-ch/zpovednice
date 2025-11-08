@@ -1,0 +1,115 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+   Otázky - Vzkazy č.967587, vloženo _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+   25.10.2016 20:25:06               _s_t_r_á_n_k_a_]
+   Autoelektrikar odbornik?
+   Ahoj, zdravim vsechny. Koupil jsem si Notas Lenovo y50-70, abych na
+   cestach prezil nudu na nakladkach a vykladkach a zahral si nejakou tu
+   parbu... Zjistil jsem maly nedostatek... Mam zdroj na 230V/500 W, ktery
+   mi vytvari proud z 24V zasuvky v tahači. Po pripojeni notebooku do
+   zdroje vse nabiji a slape,jak ma, tedy pokud se bavim o praci ve Winu,
+   max koukani na filmy,jakmile dam notasu zatez treba nejakou narocnou
+   parbu (Fifu 17,Battlefield 3 apod.), ktera mi doma normalne na tomhle
+   notebooku slape, tak zdroj to sice tahne,ale nabijeni notase po cca 3 az
+   5 vterinach vypina nabijeni a opet zapina...Zdroj je stabilni, jen si
+   myslim a mam na to jako lajk nazor, ze mi to ten 500 W zdroj v kamionu
+   proste neutahne? Bo kde by mohla byt chyba? Po pripojeni doma do zasuvky
+   vse nabiji i za nejvyssiho vykonu.... Diky moc za nazory, na tohle jsem
+   de*il ;-). Po zjisteni jsem uz notas netrapil a zustal u filmu,ale moc
+   rad bych si zahral. Koulal jsem na net a prodavaji i primo pro lenovo do
+   12V zasuvky adapter, moc tomu,ale neverim uz vzhledem k cene nejakych
+   650 kc. Mam zdroj v tahaci za 1800 kc. Diky a pekny vecer
+    Trucker E-MAIL: _h_r_u_b_y_-_o_t_t_o_@_s_e_z_n_a_m_._c_z  [Muž]29  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+27.10.2016 14:38:51
+V tahači mám 12V i 24V zásuvku, tak si můžu vybrat.
+[Smajlík]
+ Trucker
+26.10.2016 19:10:53
+nemo33: Jak to myslíš s tím výkonem NB? Obvykle jsou nabíječky ntb 65W a 90W,
+ale i kdyby měl 135W zdroj, tak si zdroj z měniče může vzít maximálně 135W +
+15%. U většiny ntb po připojení zdroje dojde k otestování výkonnostní třídy
+zdroje, a část výkonu se spotřebuje na nabíjení baterie. Kdyby ti do baterie
+(10.8V) teklo 18A, tak by to asi dlouho ta li-ionka nepřežila.
+ rm -rf.
+26.10.2016 12:01:45
+Tak předně v tahači nemáš proud 24V, ale napětí 24V. No a jinak je to asi
+normální, když NB má odběr 300W, tak máš 200W na nabíjení. Když má odběr 500W,
+tak na nabíjení už nic nezbyde. Taky je potřeba se informovat, jak to s těmi
+500W je. nejspíš to bude nějaký špičkový výkon, nikoliv trvalý.
+Taky není na škodu tě poinformovat, že 500W zdroj žere z 24V zdroje 21A
+(ztráty neuvažuju). Nevím, jak velká je v tom tahači baterka, ale třeba za 6h
+činnosti na plný výkon spotřebuješ 126Ah, takže si to z baterky celkem slušně
+cucne, tak abys pak ráno nastartoval.
+ _n_e_m_o_3_3 [Muž]49 [Kategorie]
+26.10.2016 10:12:22
+Jo, to co si poslal v odkazu by mělo fungovat, v kamiónech se nevyznám, ale
+píšeš, že máš 24V zásuvku, a v odkazu u nabíječky je napsáno vstupní U 10-15V.
+
+
+Ono těch 500W zdroj je výkonově dostačující a třeba ten výkon i dodá, ale
+problém může být v tom, že s 50hz ~ se ti tam dostává i pracovní frekvence
+toho měniče, se kterým si nemusí rozumět ten spínaný zdroj od ntb.
+ rm -rf.
+25.10.2016 21:11:31
+Pořiď si nabíječku, která funguje z palubní sítě. Obejdeš tím ten tvůj křáp a
+získáš podstatně větší efektivitu. Těch 500W co tam máš je velice pofidérní.
+ _J_e_ž_e_k_ _s_e_c_o_n_d_ _e_d_i_t_i_o_n [Muž]42 [Kategorie]
+25.10.2016 21:08:24
+takze resenim by mohlo byt toto
+
+https://www.super-dily.cz/746432-ibm-lenovo-ideapad-y50-70-auto-12v-nabijecka-
+zdroj-pro-no - tebook-laptop-90w.html?gclid=COqq8rfT9s8CFUWfGwod5UIIPA -
+
+nebo silnejsi zdroj, treba 1000w? Diky za odpoved...
+[Smajlík]
+ Trucker
+25.10.2016 20:52:04
+Napájení baterie se vypíná(nejen baterie--> zkus vyndat baterii a ntb se bude
+vypínat taky), protože se ti vypíná spínaný zdroj toho ntb z nedostatku
+výkonu, který nedokáže dodat ten "500W" měnič.
+
+
+Osobně si myslím, že hraní her na přenosných WKS by měl být trestný čin.
+ rm -rf.
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+

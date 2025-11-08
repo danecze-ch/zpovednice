@@ -1,0 +1,318 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+   Otázky - Vzkazy č.966523, vloženo _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+   19.10.2016 00:34:45               _s_t_r_á_n_k_a_]
+   Jak začít programovat?!
+   Ahoj, nevíte někdo, jak začít programovat? Nastoupil jsem na IT školu,
+   ale s tím učitelem, co na prográmko máme, se akt nic nenaučim, jelikož o
+   hodinách děláme těžký nic.
+   Chci se naučit v C# už jenom protože je to maturitní jazyk a k tomu, co
+   chci dělat, ho budu potřebovat, nicméně netuším, jak mám začít a jak
+   pokračovat.. Nějaké rady?
+    zacatecnikamater [Muž]15  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+19.10.2016 23:41:48
+najdi si nějaký kurz, kup si knížku, podívej se na nějakej veb nebo YT (já
+osobně chodím do kroužku na c++)
+[Smajlík]   [Muž]21 [Kategorie]
+ _T_E_N_s_M_o_z_k_e_m
+19.10.2016 23:34:53
+rm -rf.:
+
+A teď mi řekni, proč by nemohl být univerzální programátor, co umí programovat
+cokoliv? Já nevidim rozdíl v tom, jestli programuju web, winform, arduino pro
+modelářství, labview pro laborky či nějaké plcčko... je to všechno na jedno
+brdo...
+
+Jazyky Pascal, Matlab, C# ... nevidim v tom rozdíl... rozdíl je akorát v tom,
+jakou máš podporu od výrobce jazyka a kolik na to seženeš "how to..."
+tutoriálů
+
+Když budeš umět házet s lopatou, tak je ti taky u prdele, jeslti hážeš hlínu,
+písek nebo hovna... Když to umíš tak to umíš...
+
+Máš to jak s hudebníma nástrojema... jsou lidi, co hrajou třebas jen na kytaru
+a na nic jiného a pak máš multiinstumentalisty, co se ti během pár dní naučí
+na cokoliv... Stupnice jsou všude stejné, tónů je jen dvanáct a pak už jen
+záleží na tom, jakou rutinu na nástroji dostaneš...
+ _W_h_o_l_a_l_a [Muž]29 [Kategorie]
+19.10.2016 19:49:40
+Sorry za OT, ale když je někdo wind....teda blb.
+
+Wholala: Přečti si ještě jednou co jsem napsal. Psal jsem CO chce autor
+programovat, né jaký jazyk k tomu použije.
+ rm -rf.
+19.10.2016 18:17:43
+Blackwolf
+
+Knihovna možná, ale syntax teda rozhodně ne - ten je opranej ze C# na 100%...
+
+Nafackuj sám sobě...
+
+Navíc třebas na webu arduinonavody.cz/co-je-arduino/
+
+je doslova psáno:
+"Mikroprocesor umístěný na desce Arduina budete programovat jazykem, který
+vychází z C#, jmenuje se Wiring. Hardware si můžete libovolně upravovat.
+Software pro Arduino je zdarma."
+
+Ano chápu i tohle píšou lidé, kteří jsou omylní, ale... :D prostě si
+nafackuj...
+
+A jak říkám - něco jiného je syntax a něco jiného jsou knihovny... na to
+bacha...
+ _W_h_o_l_a_l_a [Muž]29 [Kategorie]
+19.10.2016 17:56:51
+Kterej idiot napsal, že se Arduino programuje v jazyku odvozeného od C#, já
+bych tě vyfackoval jestli nepoznáš C++
+ Blackwolf
+19.10.2016 17:52:06
+C# jako samostatný objoktově orientovaný programovací jazyk moc nepoužívám,bez
+CSS, Html, JavaScriptu a různých knihoven bych si ani nevrzl.
+To už samostatně používám hlavně C++.
+
+Doporučil bych ti ať zkusíš postupně naprogramovat client side apku.
+Při dotazech se obrátil na stackoverflow, opravdu neznám lepší forum, ale za
+stupidní otázky dávají i ban, jednou jsem ho dostal za dotazy ohledně problémů
+se synchronizací lightswitch based app.
+ Blackwolf
+19.10.2016 17:35:32
+rm -rf.:
+
+rozhodně nesouhlasim... právě c# je programování na všechno...
+
+a když chceš programovat něco z trochu jiného soudku, jako je třebas arduino,
+tak to se píše ve wiringu, který z c# vychází...
+
+Takže c# je fakt ultra univerzální věc na všechno... (případně jeho odvozeniny
+jako je wiring)
+ _W_h_o_l_a_l_a [Muž]29 [Kategorie]
+19.10.2016 12:26:28
+Skús si nájsť nejaké tutoriály na youtube na programovanie. Sú, viem o tom.
+Sám som sa takým spôsobom rozhodol učiť programovať, ale prestalo ma to baviť,
+tak som sa na to vykašľal.
+ _F_a_j_n_š_m_e_k_e_r_1_9_8_9 [Muž]36 [Kategorie]
+19.10.2016 12:23:03
+Ujasni si, co přesně chceš programovat. Nikdy z nikoho nebude univerzální
+programátor, který udělá program na všechno, co se mu řekne.
+
+Kup si knížku, nebo čti nějaké výukové programy na internetu. Neexistuje žádná
+škola, ve které by Tě naučili programovat.
+ rm -rf.
+19.10.2016 11:09:03
+A hele, někdo tu chce umět cíííí šáááárp?:)
+
+na opravdu dobré tipy se ptej na _w_w_w_._r_e_d_d_i_t_._c_o_m_/_r_/_p_r_o_g_r_a_m_m_i_n_g_ a na _h_t_t_p_s_:_/_/
+_w_w_w_._r_e_d_d_i_t_._c_o_m_/_r_/_l_e_a_r_n_p_r_o_g_r_a_m_m_i_n_g
+ Ankap
+19.10.2016 10:29:22
+Vergl:
+looooool... pár tisíc řádků... :D tisíc řádků napíšeš za den ty programátore :
+D
+
+daysleeper:
+pán se ptá na C# a co se týče Javy, tak ta rozhodně není víc košatá jak C# ...
+Rozhodně ne na oficiální úrovni. A hlavně na úrovni, která je oficiální & free
+& open pro komerční účely.
+
+davidred: Spousta lidí dneska ve škole začíná na Pascalu a pak se to začne
+selektovat na Java / C#, případně pokud jsi ve škole kde se ti to hodí, tak
+Matlab / Swift a jiné... Takhle jsme to měli my a zdá se, že takhle to má i
+spousta jiných.
+ xyzyxzyxcz
+19.10.2016 08:58:16
+Hele C# a .NET je fakt nejlepší...
+
+Máme ve firmě 15 programátorů, z toho prakticky všichni znají ze školy Javu a
+vyrůstali na Javě a když se jich zeptáš, co je lepší, jestli Oracle nebo
+Microsoft, tak se uplně všichni shodnout na tom, že
+
+Microsoft má celé vývojové prostředí zdarma, když začneš dělat nějaký větší
+projekt a budeš potřebovat nějaké knihovny navíc, tak na .NET jsou opět vždy
+zdarma. A vůbec. Pokud se pustíš do .NET, tak ti garantuju, že nemusíš
+vytáhnout z kapsy ani korunu a můžeš dělat neomezeně velké projekty. - O tom
+se javistům může jen zdát.
+
+Microsoft se o tebe stará. Oracle na tebe sere... Pokud si budeš chtít
+stahnout starou Javu, myslíš si, že je to možné? Ne, musíš být registrovaný a
+sosnout si celý develper kit a pak ti vyskakuje pětkrát do minuty, že máš
+nainstalovanou starou javu a jestli jí chceš přepsat novou... Myslíš si, že
+když Oracle vydá novou zkurvenou verzi, kde jsou chyby, tak že to opraví? Ne,
+neopraví. Bude se čekat na to, až nějaký fanoušek udělá repair kit, protože
+Oracle vydá verzi a už na ní nikdy víc nesahá. Prostě to vydal a nezájem, že
+tam jsou chyby. MS prostě jen překlikneš v kolonce jakou verzi chceš používat
+a jedeš jak fretka... Nehledě na to, že teprve nedávno ukončil oficiální
+podporu Windows XP, kde .NET začínal. Podporoval a staral se o svojí verzi, co
+byla přes 10 let stará. Myslíš si, že Oracle se bude starat o deset let starou
+Javu? :D :D :D :D loool :D to je jen vlhký sen Javistů.
+
+C# programy jsou na věčnost. Zatímco .NET má dopřednou kompatibilitu (3.0
+můžeš v pohodě předělat na 4.5), tak C/C++ ani Java tohle nemá. Jakmile ti
+povýší Javu třebas na webhostingu, tak si prostě neškrtáš a musíš opět do kódu
+a podívat se, co ti nový release zesral. Mám jeden web v Javě, který jsem si
+nechal dělat od největšího Java experta, jaké vidíš tady na zpovědnici a
+výsledek je takovej, že mu každý půl roku volám, co zase nefunguje a co se
+zase posralo. Zatimco dělám dlouhodě na jednom SW, který je ještě předělaný
+stařičký fortran do c# a v c# žije od dob .NET 1.0 a nikdy nebyl problém.
+Problém nám tam dělá akorát c/c++ jádro, které tu dopřednou kompatibilitu taky
+nijak zvlášť době udělanou nemá.
+
+Takže jak říkám. Když ti někdo doporučuje Javu, tak je to nějaký ocásek, co
+nikdy neviděl c# a myslí si, že když mu učitel na SŠ řekl, že Java je super,
+tak je super. Spíš si nech poradit od někoho, kdo dlouhodobě dělal v obojím a
+zeptej se na názor jeho. Neber v potaz tyhle rozumy od lidí, co nikdy neviděli
+.NET a nikdy v .NET nedělali žádný velký projekt.
+
+A pokud se pustíš do Javy a zjistíš, že si musíš něco koupit za $$$, aby měl
+oracle z čeho žít a aby ti všechno šlapalo, tak si vzpomeň na MS... protože
+tam jsem peněženku ještě vytahovat nemusel.
+
+Jediné, proč je Java tak nesmírně populární je to, že java tu byla dřív než c#
+... Java byla docela revoluce a spousta lidí do ní skočilo po hlavě a už se
+nezajímalo o další a další nástroje. Prostě rozjeli javu, která byla v sedle a
+.NET s c# t
+[Smajlík] [Muž]29 [Kategorie]
+ _W_h_o_l_a_l_a
+19.10.2016 08:09:27
+Já bych zas doporučil neposlouchat Wholala. Z jeho ódy na Microsoft se mi
+zvedá žaludek.
+
+Faktem je, že před nějakým časem vyhlásil Larry Ellison nabídku, že dá milion
+dolarů tomu, kdo dosáhne v určitém testu na MSSQL lepší než 100x horší
+výsledek než na Oracle i8. A nikdo neuspěl.
+Takže tvrdit, že Microsoft je v něčem 1000 let napřed a zamíchat do toho
+databáze je holý nesmysl.
+A co se týče MySQL, tak ten využívá ke svému chodu i facebook. Asi by jim měl
+Wholala poradit, že to by určitě dělat neměli :-D :-D :-D
+ _M_S_-_f_a_n_o_u_s_e_k [Muž]50 [Kategorie]
+19.10.2016 08:01:58
+Svůj příspěvek jsi vložil(a) do nespravné kategorie. Bylo provedeno přesunutí.
+V případě opakování hrozí blokování vstupu na portál. Prosím zvol příště
+správnou kategorii. Děkujeme za pochopení.
+[Smajlík]      [Muž] [Kategorie]
+ _A_d_m_i_n_i_s_t_r_á_t_o_r
+19.10.2016 06:01:22
+netřeba být tak agresivní. Jen jsem se zeptal. Teď už vím a další rady
+nepotřebuji.
+Co je špatného na tom, s ezeptat, když ta možnost je?
+Raději se zeptám někoho kdo už ty zkušenosti má, než abych se učil něco, co ve
+výsledku vbec nebudu potřebovat.
+Ale v pohodě, klidně mě tu buzeruj dál, to ty plýtváš svou energii :)
+ zacatecnikamater
+19.10.2016 05:09:32
+Narovinu rikam, ze o programovani nic nevim. Pisu sem jen proto, ze vim, ze
+podobna otazka na forech nema smysl. Napise Ti deset "pseudoodborniku", z
+nichz vetsina naposledy videla programovaci jazyk Karel a dostanes deset
+ruznych odpovedi.
+
+Kdyz jsem resil podobne veci jako Ty, nechodil jsem na fora. Proste jsem si
+koupil knizku a ucil jsem se sam. Nakonec jsem zjistil, ze vetsina "rad" byly
+stejne pitomosti. Docela se divim, ze Te to samotneho nenapadlo. Kdyby jsi mel
+o programovani skutecne zajem, udelal bys to uz davno. Znam kluka ve Tvem
+veku, ktery programuje aplikace na ruzne platformy a nikdy to nestudoval.
+ _d_a_v_i_d_r_e_d [Muž] [Kategorie]
+19.10.2016 03:52:19
+A nebo se vyser na C# a zacni s Javou. Tam najdes vse co v technologii .NET a
+jeste mnohem vice. A v praxi budes mnohem vice cool ;-). O takovych
+frameworcich jako je Hibernate nebo Spring si muzou Csharpisti nechat jenom
+zdat ;-).
+[Smajlík]
+ daysleeper
+19.10.2016 01:35:52
+Další fagg, co leze na ajtý a neumí vůbec nic. Takové exempláře rovnou
+zabíjet. K čemu profesionální programátoři, co už za sebou mají těch pár
+stovek tisíc řádků, píší dokumentace zcela zdarma a pro každýho, když pak na
+zpovědnici příjde impotent rozený k lízání micro$oftího análu škemrající o
+rozumy a ještě k tomu se ptá na mimořádně ubohé dotazy, kterých je plný net?
+Když tě pak nějaký ekonomický sebevrah zaměstná a bude po tobě nedejbože něco
+chtít, taky dolezeš na zpovědnici?
+[Smajlík]
+ Vergl
+19.10.2016 00:52:45
+jo a rozhodně neposlouchej jeremyho... žádné c/c++ vůbec nepotřebuješ...
+
+pokud chceš umět na platformě .NET, tak se vyser na nějaké c/c++
+
+.NET zahrnuje naprosto vše, co můžeš mít...
+.NET je C#, ASP, MVC... a mnoho dalšího...
+
+Takže když se naučíš obyčejný c#, tak můžeš dělat consol app, win form, web
+app, dokonce i PC hry... no prostě všechno...
+
+A když už jednou začneš s Microsoftem (.NET) tak doporučuju používat i jejich
+databáze MSSQL... rozhodně ne MySQL... až se do toho pustíš, tak sám pochopíš
+proč...
+
+Microsoft je v tomhle nejlepší na světě a má náskok tak 1000 let před veškerou
+konkurencí... Oracle ani Apple si na něj ve vývojových nástrojích vůbec
+neškrtá.
+ _W_h_o_l_a_l_a [Muž]29 [Kategorie]
+19.10.2016 00:48:25
+Hele, zrovna před týdnem jsem narazil na naprosto geniální tutoriály přímo od
+Microsoftu (respektive DevU), který celou platformu .NET (včetně c#) vyvíjí.
+
+Najdeš to pod "microsoft virtual academy" mva.microsoft.com.
+
+Jeslti se nedokážen načit C# z tohoto webu, tak pak z tebe programátor nikdy
+nebude, protože lepší tutoriály jsem snad nikdy nikde neviděl.
+
+A jako první bych pustil seriál 25 dílů "C# Fundamentals for Absolute
+Beginners"
+
+nevim, jestli ti půjde pustit tenhle link, ale tady to najdeš...
+mva.microsoft.com/en-US/training-courses/c-fundamentals-for-absolute-
+beginners-16169?l=Lvl - d4EQIC_2706218949 -
+
+Je tam uplně všechno, co si nainstalovat, jak to celé funguje a podobně...
+
+Víc snad nepotřebuješ...
+[Smajlík] [Muž]29 [Kategorie]
+ _W_h_o_l_a_l_a
+19.10.2016 00:45:41
+zakladem je linux a c/c++. nekolik jazyku je od cecka odvozenych ci dokonce v
+nem napsanych, takze pak nebudes mit tolik problemu psat v necem jinem. pokud
+jsi tepve nastoupil, mas jeste hodne casu se ucit.
+
+btw. zpovednice jako it poradna, rly?
+ jeremy
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+
