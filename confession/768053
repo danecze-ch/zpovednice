@@ -1,0 +1,199 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+Diskuze č.768053, vloženo 30.11.2013 00: _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+06:23                                    _s_t_r_á_n_k_a_]
+Digitální podpis fyzická os.
+Jaké máte zkušenosti z digitálním podepisováním dokumentů PDF?
+Hodně podniků dnes zákazníkům posílá faktrury v elektronické podobě, ale nikdy
+zpětně elektronický dokument nepříjimají, tak jsem zkusil vyrobit si vlastní
+elektronický podpis v Adobe Acrobat. Na chytrém telefonu jsem se "rukou"
+podepsal, obrázek uložil do počítače (jelikož myší ve Photoshopu se podepsat
+prostě nedá). Vytvořil vlastní certifikát a vložil do políčka "podpis
+uživatele". To celé poslal na příslušnou organizaci mailem. Tak teď jsem zvědav
+co z toho bude, sám tiskárnu nemám, takže proč by mohly jen úřady (v rámci
+snižování výdajů) zasílat elektronické dokumenty a ne normální občan.
+ _Z_a_r_c_o_n [Muž]33 [Kategorie]  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+11.12.2013 11:32:14
+ovo matej: Jestli to nebude tím, že technologii na digitální podpis dodala
+státu právě S602.
+ _S_t_a_6_7 [Muž]28 [Kategorie]
+11.12.2013 09:05:14
+Ještě jsem zapoměl dodat, že na komunikaci s úřady je potřeba podepsat i e-
+mail. Jako uživatel Gmailu jsem zjistil, že webové rozhraní průchodné není.
+Ve Windows (mám Vista) jsem ale objevil standardní aplikaci Windows mail,
+která podepisovat umí. Ve spojení s Gmail je to potom jen otázka výběru
+certifikátu a nastavení SMTP, příchozí poštu řešit nemusíte.
+ ovo matej
+11.12.2013 08:43:55
+Nevím, jestli je to tady ještě aktuální.
+
+Zřídil jsem si kvalifikovaný podpisový certifikát postsignum na České poště.
+Sice mám léta datovou schránku, ale její užitná hodnota je tak nízká, že jsem
+od jejího používání rád upustil.
+
+Nevím, jak to funguje na jiných pobočkách pošty, ale u nás mě řešily tři dámy,
+se kterými jsem zablokoval přepážku asi na 90 minut. A to jsem tam samozřejmě
+přišel s vyplněnými vytisknutými smlouvami, jak mi ukládala jejich webová
+stránka, žádný problém nebyl na mé straně.
+
+Po instalaci jsem zjistil, že podepisovat PDF není až tak přímočaré, jak jsem
+čekal. Úřady totiž dodávají šifrované formuláře (aby nešly upravit, jen
+vyplnit), které ovšem nepodepíšete ani v Adobe Reader, ani v jiných
+aplikacích. Jediný postup, který mi nakonec spolehlivě funguje, je vytisknout
+toto PDF pomocí free S602 Print2PDF, které to sice trochu přeorá (hlavně
+barvy), ale podpis tam nikdy nechyběl.
+
+Některé úřady chtějí podepsané XML. To jsem ani nevěděl, že jde podepsat, ale
+jde. Přidá to do rootu dokumentu další node s podpisovými tagy. Aplikace,
+kterou používám na XML, je free XMLSigner.
+ ovo matej
+30.11.2013 22:27:53
+Z hlediska technického sis samozřejmě svůj dokument podepsal, a to jak
+obrázkově, tak digitálně. Problém je, kdo vystavil podepisovací certifikát. Na
+to, aby to mělo nějakou hodnověrnost, je potřeba, aby tě prověřila, a poté ti
+vydala certifikát nějaká autorita, které protistrana důvěřuje. Což jaksi u
+certifikátů vydaných sebou samým neplatí.
+
+Takový email tedy nemá váhu nejen pro ouřad, ale dokonce vůbec pro nikoho.
+
+Podpisy pro ouřad řeší Zákon o zaručeném elektronickém podpisu, v případě
+jiných organizací to závisí jen na nich samotných, čemu důvěřují.
+
+Stejně tak záleží třeba na autorech webového prohlížeče, který používáš,
+kterým vydávajícím autoritám důvěřuje, a kde tě bude varovat.
+
+Důvěryhodnost webových adres se zase řeší řetezem podpisů, jehož vrcholem jsou
+certifikáty uložené v ICANN (DNSSEC).
+
+NIC zase provozuje MojeID, které udanou adresu ověřuje dopisem a identitu
+občankou (pokud chceš, aby byl záznam veden jako ověřený.
+
+PGP funguje bez autority, ale zase to řeší sítí důvěry: Pokud znáš někoho, kdo
+zná někoho, kdo zná dotyčného, a takovýchto řetězců je dostatek, považuje se
+podpis za důvěryhodný.
+
+Pro některé úkony je zase potřeba zaručené elektronické časové razítko, a to
+je další kapitola sama pro sebe.
+ _S_t_a_6_7 [Muž]28 [Kategorie]
+30.11.2013 12:00:14
+ten známej měl takhle opletačky s dopravním podnikem, ten dopis došel někam na
+starou adresu, tam to "někdo" převzal, takže taky nakonec byl o nějakých
+18.000 lehčí.
+ _Z_a_r_c_o_n [Muž]41 [Kategorie]
+30.11.2013 11:54:35
+Zarcon:
+
+zažil jsem i soudní tahanici ohledně tohoto.
+- Měl jsem smlouvu na paušál s T-mobilem.
+- Odhlásil jsem smlouvu a podepsal naskenovaným podpisem.
+Reakce na tento dokument přišla od t-mobile téměř po půl roce, že mě ruší
+smlouvu z důvodu neplacení. Po další argumentaci obrátili, že to prý není na
+odhlášení smlouvy můj podpis.
+- po 2 letech mi přišel dopis z ČTU, že mám dluh uhradit, bránil jsem se a pak
+to hodil za hlavu s tím, že toto není rozhodnutí soudu
+- nepřišel jediný další dopis, upozorněn atd až po 12 letech mi exekutor
+vycucl z účtu částku 18.000, dlužná částka byla 175 Kč
+
+a) rozhodnutí ČTU je stejně závazné jako rozhodnutí soudu, což jsem bohužel
+nevěděl
+b) promlčení nešlo po 18 letech uplatnit vzhledem k tomu dopisu ČTU
+c) bránit jsem se u soudu už nemohl, po 12 letech jsem neměl jak bych to
+prokázal.
+ _*_m_a_t_o_u_c_h_* [Muž]44 [Kategorie]
+30.11.2013 11:36:20
+ok díky všem, jak vidět, ruční podpis je ruční podpis, ikdyž je to snad méně
+prokazatelné, že to za mně nepodepsal třeba soused...už jsem zažil případ, kdy
+zásilku podepsal jiný člověk, než adresát (ten nakonec ani ten dopis neviděl)
+a následné tahanice se soudem, kdo to vlastně převzal atd...díky Bohu to nebyl
+můj případ.
+ _Z_a_r_c_o_n [Muž]41 [Kategorie]
+30.11.2013 11:20:24
+Pokud chceš elektronicky komunikovat jen s úřady stačí datová schránka. V ní
+nic podepisovat nemusíš a každej takto zaslanej dopis je ekvivalent
+doporučenýho dopisu nebo doporuč, dopisu do vlastních rukou. Zřízení a
+zasílání je zdarma. Datovku mám, přijde mi mail, když někdo něco pošle.
+
+Pokud jde o digotální podpis, tak to není podpis jako takový, ale totožnost
+zaručují ty certifikační atority jak píše ms fanoušek. V tomhle případě platiš
+paušál např české poště cca 300 kč ročně
+ _*_m_a_t_o_u_c_h_* [Muž]44 [Kategorie]
+30.11.2013 10:45:43
+Pokud chceš komunikovat s úřady potřebuješ digitální podpis založený na
+kvalifikovaném certifiáktu autorizované certifikační autority. Nic co si
+vybrobíš neprojde.
+
+Co se týče účetních dokladů tak
+
+§ 11 Účetní doklady
+(1) Účetní doklady jsou průkazné účetní záznamy, které musí obsahovat
+a) označení účetního dokladu,
+b) obsah účetního případu a jeho účastníky,
+c) peněžní částku nebo informaci o ceně za měrnou jednotku a vyjádření
+množství,
+d) okamžik vyhotovení účetního dokladu,
+e) okamžik uskutečnění účetního případu, není-li shodný s okamžikem podle
+písmene d),
+f) podpisový záznam podle § 33a odst. 4 osoby odpovědné za účetní případ a
+podpisový záznam osoby odpovědné za jeho zaúčtování.
+
+tzn. Žádný podpis vystavitele zákon nepožaduje ;-)
+ _M_S_-_f_a_n_o_u_s_e_k [Muž]50 [Kategorie]
+30.11.2013 09:27:04
+a používá to někdo z vás? Takže když si já sám vyrobím certifikát, kde je
+uvedena moje adresa dohledatelná v nic.cz, e-mail (ze kterého to posílám) tak
+to nemá žádnou váhu?
+Co říká zákon o účetnictví?
+ _Z_a_r_c_o_n [Muž]41 [Kategorie]
+30.11.2013 03:04:54
+S úřadama můžeš komunikovat s certifikovaným elektronickým podpisem, o ten si
+můžeš zažádat třeba na poště..
+ _B_o_m_b_e_r_M_A_N [Muž]35 [Kategorie]
+30.11.2013 01:56:59
+Nejsem pravni znalec, ale nemel by byt cerifikat podepsan duveryhodnou
+certifikacni autoritou, jako je ceska posta, prvni certifikacni apod ?
+ psoug
+30.11.2013 01:17:58
+koukněte se do zákono o účetnictví a budete překvapen.
+ _M_S_-_f_a_n_o_u_s_e_k [Muž]50 [Kategorie]
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+

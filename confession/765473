@@ -1,0 +1,149 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+   Otázky - Vzkazy č.765473, vloženo _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+   17.11.2013 16:43:57               _s_t_r_á_n_k_a_]
+   funkce a extremy podruhe
+   Už jsem sem ,psal proto se omlouvám za repost ale ještě jsem se od včera
+   nedobral k výsledku. mám funkci
+   http://www.ww.7u.cz/extremy.png
+   a hledám absolutní extrémy,
+   podařilo se mi to zderivovat
+   http://www.ww.7u.cz/zder.gif
+
+   a vytknout (nejsem si jistej spravností)
+
+   http://www.ww.7u.cz/vyt.g if
+
+   nevím jak ted zjistím body podezřele z extremu abych je mohl zderivovat,
+   pokud by se někdo nudil a byl by ochotný mi napsat postup, byl bych moc
+   rád, děkuji
+    mathslave [Muž]  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+17.11.2013 21:33:21
+yea (mathslave): Víte, pánové, ono to chce prostě početní praxi, ať to zní
+jakkoliv jako klišé. A tím si holt musí projít asi každý, kdo chce byť jen
+přičuchnout k matematice.
+ PanPekel
+17.11.2013 21:23:42
+Děkuju ti :) já to dneska už nechám být protože už toho mam nad hlavu, ale moc
+jsi mi pomohl, myslím, že to ráno zmáknu. Na funkci jsem se už díval na
+stránce co jsi mi posílal (wolframalpha) v bodu 1 je tam špička ve které
+neexistuje derivace, mám napsané i výsledky má to vyjít 2 a -2 což jsou ty
+intervaly, takže ráno zkusím zderivovat ty podezřele body a hranice intervalu.
+
+Já ti děkuju, kdybych ti mohl s něčím pomoct zase já, tak stačí říct, jelikož
+jsi měl se mnou velkou trpělivost :)
+ mathslave
+17.11.2013 21:20:33
+PanPekel:
+A ja by som to už riešil, jak nejaký pošahaný polynóm. S týmto vynímaním mám
+aj ja problémy. Zajtra písomka presne z týchto vecí, som aj ja zvedavý teda.
+ _y_e_a [Muž]23 [Kategorie]
+17.11.2013 21:08:16
+Ano. Správně. Ještě si pořeš, kde derivace neexistuje. Tam může být taky
+lokální extrém ;).
+A ještě ti dám jednu radu. Vykresli si v libovolném programu (k tomu určeném)
+graf té funkce. Dost ti to pomůže. Je to D.Ú., tak si ten luxus můžeš dopřát.
+U písemky to ale nebude. ;)
+ PanPekel
+17.11.2013 20:50:44
+Jen drobnost vidím dobře body 0 a 9/11?
+ mathslave
+17.11.2013 20:26:41
+Nevím, proč chceš vyjadřovat x. Úpravu bych udělal takto: V první derivaci
+vytkni (1/3) × (x^2) × [(x-1)^(-1/3)].
+Vyjde ti něco jako
+(1/3) × x^2 × (x-1)^(-1/3) × (11x - 9)
+To položíš rovno 0 a hned vidíš body podezřelé z extrému.
+Proč zrovna takto vytýkám? Odpověď: praxe, chce to prostě čuch ;).
+No a pak už je to triviální, ne? Pokud ne, napiš, co ti není jasné.
+ PanPekel
+17.11.2013 20:23:54
+Já to mám bohužel za domácí úkol, no nevadí :) Je to těžké.
+ mathslave
+17.11.2013 20:12:15
+No to vôbec, musel by si korene tej rovnice zistiť :D Keď máš kvadratickú
+rovnicu, tiež si tam nešmikneš, že jeden koreň musí byť 0, lebo si dáš za x
+nulu.
+Ako vravím, nevedel by som to v tomto príklade vypočítať. Tak sa nepleť viac
+odo mňa.
+Ale keby ti napríklad zderivovaná funkcia vyšla x + 3 a to dáš rovné nule, tak
+máš x + 3 = 0/ x = -3 a mal by si bod v ktorom je zrejme extrém.
+Potom by si to znova zderivoval a za druhý krát zderivovanú funkciu by si
+dosadil tú -3, že čo robí v tom bude. To ti už PanPekel písal.
+
+Ale v tomto príklade by som sa na to vysral a išiel na ďalší :D
+ _y_e_a [Muž]23 [Kategorie]
+17.11.2013 20:06:21
+Takže si stačí říct, ha je tam X na 3, za X můžu dosadit nulu pak výraz bude
+nula a mám podezřelý bod? pak jen zderivovat zderivovanou funkci a dosadit tam
+tento bod + krajni body?
+ mathslave
+17.11.2013 19:57:32
+To úprimne by som ani ja nevedel teraz. Je tam x^3, to máš už polynóm, asi by
+ti mali vísť 3 korene. Keby tam máš x^2 najvyššie, tak ti výdu 2 korene,
+riešil by si to jak kvadratickú rovnicu.
+Tak len tolko k tomu, sám by som z toho 0 nevyjadril.
+ _y_e_a [Muž]23 [Kategorie]
+17.11.2013 19:52:02
+Budu za debila, ale nejde mi z toho vyjádřit X, pářu se s tím celý den, jasně
+0 je podezřelý bod z extrému protože cokoliv krát nula je nula. Ale jak z toho
+vyseparuju na jednu stranu X, to mi už do klavy neleze.
+ mathslave
+17.11.2013 18:03:54
+Polož první derivaci rovnu nule. Vypočítej body, pro které to platí (toto jsou
+body podezřelé z extrému, ale POZOR, jak bylo zmiňováno už minule NEMUSÍ TAM
+EXTRÉM BÝT!!!).
+Pak udělej druhou derivaci. Zjisti funkční hodnotu druhé derivace v bodech
+bodech podezřelých z extrému. Je-li f''(x0) > 0 - minimum, f''(x0) < 0 -
+maximum.
+(x0 je bod podezřelý z extrému)
+Už jsem ti to psal v odpovědi v minulém tématu.
+Pokud na tom něco nechápeš, zkus formulovat co.
+ PanPekel
+17.11.2013 17:04:51
+Proste vypočítaj, kedy je zderivovaná funkcia rovná 0.
+Dostaneš asi viac koreňov a v tých hodnotách sú extrémy. Si to ešte
+nedopočítal, či sa mýlim?
+ _y_e_a [Muž]23 [Kategorie]
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+

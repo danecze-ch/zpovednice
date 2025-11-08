@@ -1,0 +1,132 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+Diskuze č.761176, vloženo 28.10.2013 14: _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+04:44                                    _s_t_r_á_n_k_a_]
+Diskuse o proxy
+Chci se dostat na jedny stránky mi permanentně blokují účet když si ho zařídím
+(podotýkám, že tam nepáchám žádnou trestnou činnost a nikoho neobtěžuji, ale
+toto mi prostě vrtá hlavou jak mohou odhalit mou identitu).
+
+Den poté co mě zablokovali (minimálně 24 hodin) nebo déle:
+1) vymažu cookie z prohlížeče (cookie té stránky)
+2) nastavím americké elitní proxy
+3) zaregistruju se s novým emailem (právě vytvořený na seznamu)
+4) aktivuju účet (na té stránce kde mě předtím zablokovali)
+5) přihlásím se
+6) po kliknutí na chat jsem zase bloklý (účet a IP)
+Nechápu jak mě mohou rozpoznat. A to jsem zkoušel se přihlásit z jiného
+prohlížeče a z jiného operačního systému, kde je zase jiná konfigurace
+zobrazovacího rozlišení, takže ty vlastnosti, podle kterých by mě možná mohli
+poznat jsou pokaždé jiné. Je mi ta stránka u prd*le ale tato problematika mě
+zajímá.
+ lámu si hlavu [Muž]18  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+29.10.2013 06:21:26
+Trol?
+To se ale nedivím, že chybí lidi na provoz, protože ne každý má linux nebo
+dokonce Windows server 2003 (?) a ne každý je ochoten riskovat, že přes jeho
+počítač potečou např. nějaký ukradený data, že jeho počítač bude použit pro
+zločinecké aktivity, hackerské útoky, atd. Podporovat tor snad můžou jedině
+hackeři anebo zazobanci co mají dost peněz, aby mohli mít puštěný dva počítače
+a ještě se tím chlubit.
+ lámu si hlavu
+28.10.2013 23:42:58
+Vždyť si to linkoval správně. Já bych se nebránil tomu prvnímu (s
+prohlížečem), protože to je hned nakonfigurovaný správně, stačí pak prohlížeč
+nepoužívat. (pár mega navíc, není to instalátor ale portable, může být na
+flasce.)
+
+Že je tor pomalej, někdy i desetrkát, je pravda. Chybí lidi, co by si to
+pustili jako exit-realy.
+ Trol
+28.10.2013 16:51:27
+Trol:
+Četl jsem, že někdo používal curl přes Tor a otevření jedné stránky mu trvalo
+28 vteřin místo 250ms bez Toru. Mohl by si mi poradit co stáhnout? Já nechci
+stahovat žádný prohlížeč, jde mi jen o stahování menších obrázků, takže malé
+velikosti souborů; navíc když poběží ten tor tak stejně nebudu moci dělat na
+PC, je to starší počítač 2.4 Ghz, ram přes 1 Gb.
+
+Zatím jsem nepřišel na to co musím stáhnout a mám Win XP. A ten curl mám
+spouštět normálně .exe nebo nějaký .dll pro windows? Curl sice mám pro
+windows, ale nevím. Četl jsem teda že to má jet přes socket5 ale nenašel jsem
+tu instalačku samostatně bez prohlížeče.
+ lámu si hlavu
+28.10.2013 16:29:41
+Tor zapne na tvym kompu proxy, na kterou si můžeš pustit co chceš, třeba wget,
+curl,.... (základní verze je myslím s Firefoxem, aby se nic nemuselo
+konfigurovat, ale když to chceš jinak, tak ok.)
+
+Pokud něco takovýho používáš, předpoládám, že máš pořádnej systém. Koukni,
+jestli tor není normálně v repos.
+ Trol
+28.10.2013 14:39:48
+Trol:
+Takže to mám stáhnout odsud?
+_h_t_t_p_s_:_/_/_w_w_w_._t_o_r_p_r_o_j_e_c_t_._o_r_g_/_d_o_w_n_l_o_a_d_/_d_o_w_n_l_o_a_d_ 
+
+Ale ještě mám dotaz. Dá se tor použít tak, aby to šlo přes script místo přes
+prohlížeč? Konkrétně mám skript používající curl. Nebo má tor vlastní program
+který nahrazuje curl? Ty se v tom určitě vyznáš, takže věřím že poradíš.
+ lámu si hlavu
+28.10.2013 14:21:37
+Open-proxy je předpokládám to co používáš - proxyna která nedělí sítě, ale je
+přístupná normálně z internetu.
+
+Tor je ještě lepší anonymizér, jestli nevíš tak STFW.
+ Trol
+28.10.2013 14:18:35
+Trol:
+Co tím myslíš, můžeš to upřesnit? Nevím co je to open proxy a exit-relays a co
+je to tor :-).
+ lámu si hlavu
+28.10.2013 14:16:39
+Asi to není tak elitní.
+[Smajlík] [Muž]33 [Kategorie]
+ _S_a_m_i_r
+28.10.2013 14:14:46
+Někdo blokuje všechny open-proxy, exit-relays z toru,.... sou metody jak to
+rozeznat. A jestli jim to rozeznání trvá pár minut, tak tě to holt těch
+prvních pár minut nechá.
+ Trol
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+

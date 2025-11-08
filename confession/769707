@@ -1,0 +1,335 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+Diskuze č.769707, vloženo 08.12.2013 14: _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+39:08                                    _s_t_r_á_n_k_a_]
+programování - LISP
+Zná někdo z vás, co programujete, lispácké funkcionální programovací jazyky?
+
+My třeba děláme na škole Scheme. Ukazujeme si na tom paradigmata programování.
+Opravdu nechápu, proč si to nemůžeme ukazovat na nějakém normálním
+programovacím jazyce, ve kterém se člověk neztrácí v debilních závorkách..
+Najde se tu někdo, kdokoliv, kdo má LISP rád? A z jakého zvráceného důvodu?
+ _p_r_a_s_e_z_l_e_s_a [Muž]20 [Kategorie]  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+10.12.2013 14:25:05
+Je to moje chyba : Jo, tam je problém, že většina lidí na té škole se
+programováním nikdy neživila, takže všechno vidí strašně teoreticky.
+ _p_r_a_s_e_z_l_e_s_a [Muž]6 [Kategorie]
+08.12.2013 22:46:25
+prasezlesa: Elitářský přístup ("Já programuju v LISPu, já jsem něco víc!") je
+to poslední, co funkcionálním jazykům pomůže k vzestupu. Tady se o tom můžeš
+přesvědčit a pobavit zároveň:
+
+_h_t_t_p_:_/_/_f_o_r_u_m_._r_o_o_t_._c_z_/_i_n_d_e_x_._p_h_p_?_t_o_p_i_c_=_1_9_7_8_._0_ 
+
+Dnešní trend je takový, že imperativní jazyky častečně přebírají některé
+vlastnosti těch funkcionálních a naopak. Obě paradigmata mají své výhody a
+nevýhody, a občas se hodí odskočit si na chvíli např. do funkcionálního světa
+vyřešit nějaký dílčí problém (viz. LINQ v C#). Jen praxí nedotčený idiot
+zavřený celý život na univerzitě bude tvrdit, že funkcionální paradigma je to
+jediné správné a nejlepší.
+
+_h_t_t_p_:_/_/_s_t_a_c_k_o_v_e_r_f_l_o_w_._c_o_m_/_q_u_e_s_t_i_o_n_s_/_2_8_3_5_8_0_1_/_w_h_y_-_h_a_s_n_t_-_f_u_n_c_t_i_o_n_a_l_-_p_r_o_g_r_a_m_m_i_n_g_-
+_t_a_k_e_n_-_o_v_e_r_-_y_e_t
+[Smajlík]         [Muž]30 [Kategorie]
+ _J_e_ _t_o_ _m_o_j_e_ _c_h_y_b_a
+08.12.2013 22:19:54
+Houp18 : To bude tím, že není důvod to používat v praxi. Řekl bych, že plno
+docela jednoduchých věcí, co se v céčkových jazycích udělají hned, se v tom
+musí dělat celou věčnost a pěkně složitě..
+ _p_r_a_s_e_z_l_e_s_a [Muž]6 [Kategorie]
+08.12.2013 22:18:18
+A mě celkem Scheme bavil a nevadil by mi i nějakou dobu pracovně. Bylo to něco
+jiného, jiný styl myšlení, zajímavé. Dělal jsem úlohu na genetické
+programování (kdy mi scheme program vytvářel dle kritérií jiný program)
+
+Bohužel v době, kdy jsem scháněl práci, tak jsem v nabídka práce poptávku po
+Scheme/Hascellu nějak neviděl, tak jsem skončil u C++.
+ _H_o_u_p_1_8 [Muž]99 [Kategorie]
+08.12.2013 22:15:10
+Je to moje chyba : No vidíš to, mistře Zen, ale náš docent tvrdí, že kdokoliv,
+kdo programuje v něčem jiném než v LISPu, to dělá proto, že nemá tak vysoké IQ
+jako on :D
+To je pak těžké.
+ _p_r_a_s_e_z_l_e_s_a [Muž]6 [Kategorie]
+08.12.2013 22:13:25
+Funkcionální jazyky se sice v praxi používají, ale ve velmi omezeném množství.
+Výhody lambda kalkulu, tail rekurzí nebo obecné immutability se vyplatí
+aplikovat jen na úzce specifické problémy. Na vše ostatní stačí imperativní
+jazyky. Proč? Protože svět JE imperativní a lidský mozek funguje taktéž
+imperativně.
+[Smajlík]         [Muž]30 [Kategorie]
+ _J_e_ _t_o_ _m_o_j_e_ _c_h_y_b_a
+08.12.2013 21:40:21
+blackmetal75 : "právě proto, že jsem ji z podobného důvodu vzdal"
+
+Chtěl bych ten příběh znát celý. Z jakého důvodu a jak to dopadlo?
+ _p_r_a_s_e_z_l_e_s_a [Muž]6 [Kategorie]
+08.12.2013 21:26:30
+LISP byla na střední legrace. Vždycky počítat ty debilní závorky :) Ale
+nemyslim si, že by mi to cokoliv dalo.
+Jo, myslim, že existujou i vhodnější funkcionální jazyky, když chtěj učit (i)
+je.
+ trolejbdouci
+08.12.2013 17:48:42
+bhagavan: Na klavír ti to jde, to uznávám, a na svůj věk taky nevypadáš.
+[Smajlík]     [Muž] [Kategorie]
+ _b_l_a_c_k_m_e_t_a_l_7_5
+08.12.2013 17:44:46
+blackmetal75
+_h_t_t_p_:_/_/_w_w_w_._y_o_u_t_u_b_e_._c_o_m_/_u_s_e_r_/_P_r_a_g_u_e_C_z_e_c_h_R_e_p_u_b_l_i_c_ 
+Mě stačí to že jsem stvořil tento systém!
+[Smajlík] [Muž]61 [Kategorie]
+ _b_h_a_g_a_v_a_n
+08.12.2013 17:39:23
+bhagavan: co takhle místo vikipedijního CTRLC - CTRLV zkusit vypotit nějakej
+OOP zdrojáček v libovolném jazyce, aby bylo vidět, že víš o co jde?
+ _b_l_a_c_k_m_e_t_a_l_7_5 [Muž] [Kategorie]
+08.12.2013 17:33:53
+Co to je Objektově orientované programování
+Objektově orientované programování je moderní metodika programování, jedním z
+jejich hlavních efektů je výrazné omezení nutnosti opakovat programátorskou
+práci. Objektově orientované programovací jazyky jsou charakterizovány těmito
+vlastnostmi:
+Zapouzdření: Základním pojmem objektového přístupu je objekt. Je to záznam
+(skupina proměnných) a skupina funkcí (které manipulují s proměnnými záznamu).
+Objekt je zapouzdřen, tj. je isolován od ostatních částí programu (i od jiných
+objektů).
+Dědění: Definice objektu (a to, jak se používá) se vytváří pomocí hierarchie
+dílčích definic (zvaných třídy) tak, že nižší člen hierarchie dědí všechny
+vlastnosti (proměnné a funkce) od svého předchůdce.
+Polymorfismus: Vyžadujeme-li akce téhož jména od různých objektů jedné
+hierarchie, může být tato akce u různých objektů realizována různě; tj. reakce
+objektů na tentýž podnět může být jiná.
+Všechny tyto pojmy si v následujících kapitolách vysvětlíme.
+Důsledné používání objektově orientovaného programování vyžaduje příslušný
+styl myšlení. Oblast, kterou chceme programově zpracovat, je nutné si nejdříve
+dobře promyslet a teprve pak se pustit do realizace. Ostatně toto je styl
+všech dobrých programátorů.
+Objektově orientované programování je prostředek ke konzervaci programátorské
+práce.
+Vytvářet objekty je poněkud pracnější než řešit tytéž problémy otevřeným
+úsekem programu nebo funkcemi. Aby se tato pracnost vyplatila, musí objekty
+přinést efekt v jiné oblasti. Touto oblastí je tvorba programových nástrojů.
+Vytvářet objekty má smysl tehdy, jestliže se použijí v mnoha programech (nebo
+mnohokrát v programu). Vlastnosti objektů, jejich mnohotvárnost a pružnost to
+umožňují.
+Lze to chápat také tak, že objekty představují vzor společných (opakovatelně
+použitelných) částí programu. Při dalším použití v jiném programu se doplní
+nové speciální vlastnosti. Objektově orientované programování tedy představuje
+nástroj pro tvorbu nových programů disciplinovanou modifikací připravených
+vzorů.
+Další velkou výhodou objektového přístupu je pružnost programů. Objektově
+konstruované programy se snadno upravují, opravují a mění.
+Co to je objekt
+Klasický styl programování připomíná statistiku, drží jednotlivé vlastnosti
+odděleně. V jednom poli (souboru) má adresy studentů, v jiném známky, ve
+třetím je přiřazení studentů a předmětů. Když to trochu přeženeme, tak to je,
+jako kdybychom místo ošatky jablek měli misku se stopkami, jinou misku s
+jadérky, další misku s jaderníky a ještě jinou misku s “masem” jablek. Navíc
+každé jablko má svou vlastní individualitu, jedno dozraje dříve, druhé
+později, další se zkazí. Některé vlastnosti jablek jsou zjevné (stopka), jiné
+jsou skryté (jadérka).
+Programátorské objekty se připodobňují reálným objektům. Každý objekt obsahuje
+všechny své vlastnosti (tj. proměnné), některé z nich jsou veřejné (lze s nimi
+manipulovat z vnějšku), jiné jsou soukromé (určují stav objektu, mohou s nimi
+manipulovat pouze
+[Smajlík] [Muž]61 [Kategorie]
+ _b_h_a_g_a_v_a_n
+08.12.2013 17:29:25
+prase: Nechci ti do toho kecat, ale tohle bych nedělal, pokud nejsi hodně
+dobrej, že by ses nějak v té obrovské konkurenci prosadil a dělal sám na sebe.
+Nebo měl v nějaké firmě dobrého známého, který ti zajistí místo, kde se na
+tebe budou koukat jako na protekčního nedouka. Klidně se může stát (a
+pravděpodobně se to stane), že praxe ti přinese mnohem horší (pojebané) výzvy,
+než škola. Nevěřil bys, co všecko jsou zákazníci schopní vymyslet a rychle-
+honem to mít hotové, když ani ještě nevíš, jak na to. Kdybych si měl vybrat,
+vydržel bych ve škole, právě proto, že jsem ji z podobného důvodu vzdal.
+ _b_l_a_c_k_m_e_t_a_l_7_5 [Muž] [Kategorie]
+08.12.2013 17:28:53
+“Člověk je tak velký, jak velké úkoly si před sebe staví”
+Nevím již, kdo to řekl, je to však důležitá pravda.
+Když jste se učili číst, tak jste ve škole prostě začali číst. Nejdříve jste
+hláskovali, pak slabikovali, nakonec četli po slovech - a kdo chce, naučí se
+číst úhlopříčně.
+Když jste chtěli jezdit na kole, tak jste na kolo nastoupili a zkoušeli jezdit
+tak dlouho, až jste to uměli. Rozhodně vás teď nemrzí těch pár pádů, kterými
+jste za to zaplatili.
+Když jsem si stěžoval svému školiteli, že neumím psát články a že po mě chtějí
+publikační činnost, řekl mi: “Musíte psát a psát”.
+Jistěže tu hraje roli talent a vrozené vlohy, ovšem pouze z 30%, chcete-li se
+něco naučit, musíte do toho investovat minimálně 70% práce.
+Číst už umíte, jezdit na kole taky, na co se máte soustředit nyní? Naučte se
+racionálně myslet, svět je plný umělců, nouze je o myslící lidi. Z hlediska
+myšlení si můžeme lidi rozčlenit tak, že na jedné straně je extrémní umělec,
+který se vždy řídí citem a kterému dělá potíž zkontrolovat nákup. Druhým
+extrémem jsou asi vědci, kteří pochybují o všem a vše musí mít zdůvodněno.
+(Umělce poznáte podle toho, že říká “Ten počítač mi zase ztratil soubor!”
+Racionálně myslící člověk hledá chybu u sebe.) Není třeba, abyste byli vědci,
+posuňte se však k racionálnímu konci. Jak se to dělá?
+Vaši pradědečkové se učili myslet pomocí latiny, vaši otcové pomocí
+matematiky, vy můžete použít latinu, matematiku ale i programování.
+Když programujete, tak se učíte myslet!
+Programování je výhodné z těchto důvodů:
+Při programování se naučíte členit celky na části, brát v úvahu nejrůznější
+vztahy, spojovat části ve funkční celky, přecházet z jedné úrovně podrobností
+na jinou úroveň - prostě vše, co k racionálnímu myšlení patří.
+Programování je samokontrolující. Jestliže program nepracuje, udělal jste
+někde chybu a je třeba ji odstranit. Když program funguje, pracoval jste dobře
+- i když každý po dohotovení programu vidí, co měl dělat jinak a lépe.
+Cílem naší školy není vychovávat programátory, to je věcí středních škol a
+firemních kursů. Cílem našeho oboru je vychovávat špičkové projektanty a
+manažery pro oblast informatiky. Ovšem manažer-umělec je ovce, kterou ostříhá
+(vytuneluje) racionální vlk. Jen racionálně myslící manažeři mají budoucnost.
+Z hlediska hloubky soustředění lze také určit dva extrémní lidské typy -
+sekretářku a úspěšného vědce (úspěšný vědec musí mít několik vlastností, mezi
+které určitě patří schopnost racionálně myslet a soustředit se).
+Sekretářka musí za den splnit asi padesátku nejrůznějších úkolů (dohodnout
+schůzku, uvařit kávu, poradit manželce šéfa s výběrem dárku, objednat hotel,
+zapřít šéfa …), již z množství úkolů plyne, že jednotlivá řešení jsou
+“povrchní”, tj. bez požadavku hlubšího soustředění (sekretářka soustředící se
+na hlubší řešení úkolů by nahrazovala šéfa a dlouho by si místo neudržela).
+Oproti tomu úspěšný vědec řeší jeden složitý úkol několik let. Jeho úroveň
+soustředění se vnějškově projevuje jako roztrž
+[Smajlík] [Muž]61 [Kategorie]
+ _b_h_a_g_a_v_a_n
+08.12.2013 17:19:32
+blackmetal75 : Já se na to vykašlu a půjdu si vlastní cestou, už mám tohohle
+překonávání překážek nastrojených samolibými idioty plné zuby ze základky a z
+gymplu.
+ _p_r_a_s_e_z_l_e_s_a [Muž]6 [Kategorie]
+08.12.2013 17:14:34
+prase: No to se ti nedivím, že tě to nebaví. Mě by to taky nebavilo, jen vidím
+ty zdrojáky. Život přeci není jen o zábavě. Prostě si někdo prosadil svou vůli
+a ty se buď přizpůsobíš, nebo se na to vykašleš. Řekl bych, že se přizpůsobíš.
+Zanadáváš si, možná prokleješ blba, který s tím nápadem přišel, ale nějak to
+nakonec zvládneš. Je to jen příprava do boje, protože v praxi to snadnější
+nebude. Málokdo dělá věci jen tak, jak to vyhovuje jemu.
+ _b_l_a_c_k_m_e_t_a_l_7_5 [Muž] [Kategorie]
+08.12.2013 17:06:08
+blackmetal75 :
+"Asi se používá, jinak byste s ním přece neztráceli čas"
+Co to je za argument? Ne, skoro vůbec se v praxi nepoužívá, protože je to pro
+praxi prostě jazyk na prd. A to "ztrácení času" je zdůvodněné tak, že se
+neučíme jazyk, co je teď zrovna in, ale že se učíme myslet jako programátoři.
+Což, jak už jsem psal, bychom se klidně mohli učit za použití nějakého jiného
+jazyka.
+
+" A firmy, které v LISPU dělají - nevím, které konkrétně to jsou,ale určitě
+takové jsou - vám budou moct utrhnout ruce, právě kvůli vaší jedinečnosti. "
+Není důvod, aby nějaká firma dělala v LISPu. Cokoliv, co se dá vyřešit v
+LISPu, se dá vyřešit i v céčkových jazycích. Proč by si ta firma měla zvolit,
+že bude dělat výhradně v LISPu, když to pro ni znamená, že nebude moct sehnat
+zaměstnance?
+A i kdyby takové firmy byly, tak já v LISPu dělat nechci, protože se mi to
+prostě nelíbí a nebaví mě to.
+ _p_r_a_s_e_z_l_e_s_a [Muž]6 [Kategorie]
+08.12.2013 17:01:52
+prase: Asi se používá, jinak byste s ním přece neztráceli čas. A firmy, které
+v LISPU dělají - nevím, které konkrétně to jsou,ale určitě takové jsou - vám
+budou moct utrhnout ruce, právě kvůli vaší jedinečnosti.
+
+Každopádně bych se nebál toho, že ti tahle výuka nic nedá. My například měli
+kdysi dávno BASIC a jediné paradigma, které jsem si do krve zapsal, je IF-
+THEN-GOTO. Skutečná radost přišla až s Pascalem na další škole, když jsem za
+svou první samostatnou práci dostal za 4 jen kvůli dříve zažitému
+bejzikovskému paradigmatu, které soudruh profesor nemohl -vůbec nechápu proč-
+zkousnout, i když ten program byl funkčně naprosto bez chyby. Člověk se jen
+tak nezavděčí.
+ _b_l_a_c_k_m_e_t_a_l_7_5 [Muž] [Kategorie]
+08.12.2013 16:45:39
+blackmetal75 : Nevidím důvod, proč by se o mě měly firmy prát kvůli jazyku,
+který se v praxi skoro vůbec nepoužívá.
+ _p_r_a_s_e_z_l_e_s_a [Muž]6 [Kategorie]
+08.12.2013 16:37:40
+Je to tak trošku exotika. Sice existuje snadnější cesta, jak si zažít
+paradigmata programování, ale ber to tak, že C# umí kdekdo,kdežto LISP -
+kurňa- to jen tak někdo nezná. Ono je to spíš o zvyku a možná se o tebe pak
+firmy poperou.
+ _b_l_a_c_k_m_e_t_a_l_7_5 [Muž] [Kategorie]
+08.12.2013 16:12:31
+bhagavan: Až na to, že se vyučuje jaksi jinde! A ty kontejnery jsou super, mě
+se to líbí, je to dokonalé!
+ _H_a_v_r_a_n_ _P_o_p_e_l_a_v_ý [Muž]27 [Kategorie]
+08.12.2013 16:00:02
+Havran Popelavý
+_h_t_t_p_:_/_/_w_w_w_._u_p_o_l_._c_z_/_?_i_d_=_1_1_8_4_2_ 
+Ty kontejnery jsou hrozný
+[Smajlík] [Muž]61 [Kategorie]
+ _b_h_a_g_a_v_a_n
+08.12.2013 15:45:48
+(())))))(())())))() neskutečný.... souhlasím.
+Tak a teď víme, že chodíš na UPOL! :D
+ _H_a_v_r_a_n_ _P_o_p_e_l_a_v_ý [Muž]27 [Kategorie]
+08.12.2013 15:17:56
+bhagavan : Uh..
+[Smajlík]   [Muž]6 [Kategorie]
+ _p_r_a_s_e_z_l_e_s_a
+08.12.2013 15:17:17
+Když vše víš tak je pro tebe programování snadná zábava.
+[Smajlík] [Muž]61 [Kategorie]
+ _b_h_a_g_a_v_a_n
+08.12.2013 15:00:31
+bhagavan : Já vím, co je to LISP, ty hovado.
+ _p_r_a_s_e_z_l_e_s_a [Muž]6 [Kategorie]
+08.12.2013 14:59:55
+Lisp (nebo LISP) je funkcionální programovací jazyk s dlouhou historií. Jeho
+název je zkratka pro List processing (zpracování seznamů). Stále se používá v
+oboru umělá inteligence. Používá ho také například textový editor Emacs či
+konstrukční program AutoCAD.
+Lisp byl původně specifikován v roce 1958. V současné době se jedná o druhý
+nejstarší vysokoúrovňový jazyk, který se stále ještě používá v praxi; starší
+už je pouze Fortran. Lisp byl původně navrhnut jako programovací jazyk pro
+matematické výpočty a byl silně ovlivněn syntaxí Lambda kalkulu. Rychle se
+stal favorizovaným programovacím jazykem ve světě umělé inteligence. Lisp se
+stal průkopníkem v mnoha programových technikách, například: stromové
+struktury, automatická správa paměti nebo dynamické typování. Lisp nevnímá
+rozdíl mezi kódem a daty, díky čemuž má jednoduchou syntaxi. Celý program je
+tak složen z s-výrazů nebo ozávorkovaných seznamů ve tvaru (f a b c), kde na
+prvním místě je operátor/funkce a na dalších argumenty funkce. Všechny další
+funkce jazyka mají identickou syntaxi.
+Z Lispu jsou odvozeny i další jazyky - například Tcl, Smalltalk nebo Scheme.
+Tvůrce jazyka je John McCarthy.
+[Smajlík] [Muž]61 [Kategorie]
+ _b_h_a_g_a_v_a_n
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+

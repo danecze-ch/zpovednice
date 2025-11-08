@@ -1,0 +1,349 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+Diskuze č.767471, vloženo 26.11.2013 21: _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+09:23                                    _s_t_r_á_n_k_a_]
+Mikrotik !
+Zejtra vlezu na střechu, ale už toho mám fakt dost. Tak nejdřív na kilometr na
+2.4GHz to jelo, pak to šlo čím dál hůř, podle nálady a tak tam strčím mikrotika
+5GHz s parabolou 22dBi a otočím to na AP 100m daleko.
+
+A furt se to sesírá znova a znova!
+
+Fakt už nevím, co mám udělat pro to, aby mi tu jel internet normálně. Kolik do
+toho mám ještě vrazit peněz. Myslím, že bude nejlepší přejít na ADSL a
+připlatit za paušál... Ale ani to mi tu nebude fungovat, zase se podělá něco
+jinýho, bude se přehřívat modem, blbnout linka či prudit O2ka...
+
+Kurwa!
+
+Koukám, že se mi nějak mrší CCQ:
+
+Tx/Rx Signal Strength -71/-72 dBm
+Tx/Rx CCQ 8/85 %
+Signal To Noise 44 dB
+
+
+A to to mám vyladěné/ zamířené jak nejlíp to šlo.
+Se asi něco pojebalo v té krabici, nebo je anténa vadná od výroby, nebo
+Mikrotik , nebo obojí. Při odesílání dat jde TX CCQ až na 1%. Ale přitom někdy
+to docela běží v pohodě (myšleno rychlost internetu - download).
+
+
+Nevím, fakt nevím. Se mi už několik let sere na co sáhnu. A čím pečlivěji se
+snažím, tím horších výsledků dosahuji. Při ladění TV antény jsem tehdy myslel,
+že z té střechy raději skočím, protože KDEKOLIV JINDE vemu starej koax, přivážu
+polský síto na balkon a signál jak kráva. Ale tady ne, tady to asi všechno
+rušej mimozemšťani, BISka nebo snad přímo NSA.
+
+A jiné a jiné komplikace, který jakejkoliv jinej debil kdekoliv jinde má za pět
+minut funkční, tady prostě mně nefungujou. Ale kdekoliv jinde někomu něco
+dělám, kupodivu se daří taky dobře.
+
+A já potřebuju řešit úplně jiný věci, ne se imrvére srát s kravinama!
+ pechvogel [Muž]  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+28.11.2013 22:13:51
+Uvidím, jak dopadnu. V tom foru měli trochu jiný typ karty na pohled, co
+zlobil, podle fotek - byla blbě navržená vysílací část a hádalo se to se
+stíněním... Ale já to mám jiný a to stínění nemám ani vycvakávací. Nicméně je
+to RB711... Kupovaná před 2 roky.
+Tak uvidím..
+Ještě - jak máš nastaven vysílací výkon?
+
+Já mám:
+Frequency mode - Manual TX power (další volby: Regulatory domain a
+Superchannel)
+Country: Czech Republic
+Antena Gain 22dBi
+
+A když to změním na Regulatory domain, tak právě TX signál jde do kytek.
+Takhle to je těch -70 jak TX tak RX
+ pechvogel
+28.11.2013 20:24:56
+pechvogel: byla to celá série, asi 1,5 roku zpět. Vše se reklamovalo a měnilo
+za nové kusy. Byla tam nějaká vada na "wifi kartě".
+
+Určitě bych zkusil jiné zařízení na test a pokud budeš kupovat nové,
+doporučuju sextanty.
+ _M_S_-_f_a_n_o_u_s_e_k [Muž]50 [Kategorie]
+28.11.2013 12:22:08
+Právě jsem zjistil, že mám ještě týden na to reklamovat to. 2 roky to budou
+příští týden.
+
+No ale 30 dní bez netu... to zas budou vánoce.
+ pechvogel
+27.11.2013 22:23:53
+No právě, vidím to tak, že je v piči.
+
+Pigrail jsem měřil a kontroloval. Všude je sucho. Konetory OK. Směrovost
+paraboly je cca plus minus 10 stupňů, pak se signál ztrácí, takže anténa jako
+taková funguje. ˇ6ádný jiný AP v okolí nevybudí silnější signál než těch cca -
+70 (-68 asi bylo chvilkové maximum, co jsem ulovil). Pigtail je U.FL--- N
+konektory, na desce ok, přitažené Nko na fest. Hýbal jsem s tím za provozu,
+neměnilo se nic.
+
+Chtěl jsem původně rozebrat i ten ozařovač (6 šroubků) ale ta tyčka je
+přetažená smrˇšťovací bužírkou, nechtělo se mi ji odřezávat. Ale fungovat to
+musí, když otočím polarizaci (anténu o 90°) tak se signál ztratí.
+
+Přemýšlím, že už to asi bude dva roky, co jsem to koupil, takže si to můžu
+leda tak strčit do prdele. Kdybych se byl tehdy raděj upsal na 3 roky ISP,
+nestál by mě tenhle pokus přes dva litry. A jako třešničku na dort jen
+poznamenám, že jsem ten krám stejně koupil u nich, blbec.
+
+Takže mám dát litr za novou, stejnou debilní desku? Nebo - na tom foru, kde
+psali o těch vadných 711, taky nikdo nenapsal, čím konkrétně to bylo - u vás
+byly ty desky opravitelné? Nebo pomůže nový fw?
+
+Zítra ještě vylezu nahoru, vemu si fén a zkusím, co to udělá když to zahřeju.
+
+Tyvoe ale proč mi ten borec od ISP nezmíní, že tyhle desky jsou nahovno,
+určitě nejsem první komu se to posralo.
+
+Jinak dík.
+ pechvogel
+27.11.2013 22:05:14
+sorry, ten příspěvek sem přehlídnul. Koukal sem na "pingy" a dolů už ne.
+
+ten signál je moc divnej. Pokud vysílač vysílá, řekněme 20 decibelů a na 100m
+je útlum v 5600 cca 88 decibelů, tak při použití dané antény bys měl mít na
+vstupu karty 20 - 88 + 22 = -46.
+
+Ty tam máš ale hodnotu, jako by vůbec nebyla zapojená anténa.
+
+Zkus se na to zaměřit. Jak je připojená anténa. Musí tam být nějaký pigtail.
+Jestli je dotažený a jestli v něm není třeba voda.
+
+Druhou věc co bych zkusil je scan vysílačů a frekvenční scan. Ukáže ti to, kdo
+všechno vysílá na stejném kanále a taky jak jsou kanály obsazené.
+
+Jinak je klidně možné, že ta 711 je vadná. U nás jich bylo vadných 5 z 10 ti a
+tím sme kapitolu 711 uzavřeli :-)
+ _M_S_-_f_a_n_o_u_s_e_k [Muž]50 [Kategorie]
+27.11.2013 18:26:15
+Napsal jsem ti co mám za zařízení a dal i odkazy.
+Řešil jsem to i s ISP a ani on nic nevyřešil. Prej je to normální.
+
+Mně to normální nepřijde, když na 5Mbps lince nejde telefonovat VoIP -
+vypadávají slova. Když odezvy nemají stabilní hodnotu, ale lítají s rozptylem
+viz předchozí tabulka. Když CCQ padá na 1% a i normálně je dost ubohý, když na
+80 metrů musím dostřelit i s "plechovkou" a ne s 22dBi parabolou, když ...
+
+Prostě to stojí zahovno. Přešel jsem z 2,4GHz na 5GHz v domnění, že je teda
+město fakt zarušený - ale vůbec to nepomohlo - a to jsem zkrátil vzdálenost k
+AP z kilometru na 100 metrů.
+
+Navíc to vidíš jako jeden jedinej problém - nevidíš to všechno, co se mi sere
+okolo...
+
+Proto toho už mám dost.
+ pechvogel
+27.11.2013 18:03:37
+Moc to hrotíš. Wifi je poměrně komplexní problém, kde kvalitu spoje ovlivňuje
+neuvěřitelné množství věcí.
+Většinou je vše řešitelné. Ale musíš postupně. Základem je, co máš vlastně za
+zařízení.
+ _M_S_-_f_a_n_o_u_s_e_k [Muž]50 [Kategorie]
+27.11.2013 18:00:24
+Já už fakt nevím, co dělám blbě a už mě to dneska fakt zase dost sere, ono
+navíc, když se ti při řešení tohoto a lítání nahoru dolů na střechu objevují
+nový i nesouvisející problémy k řešení ...
+Mám chuť to všechno vyházet do hajzlu už.
+
+Možná je tohle všechno znamení, že tu vůbec nemám bejt a žemám bejt někde
+jinde a srát se s něčím úplně jiným.
+[Smajlík]
+ pechvogel
+27.11.2013 17:56:44
+Mně ten internet pořádně nefungoval od začátku. To jsem nejdřív čekal, že až
+AP připojí na optiku, že se to zlepší. A nějak ani ne.
+Chvílema je rychlost internetu dobrá, ale chvílema se nedá telefonovat (VoIP).
+
+Linka by měla být 5Mbps.
+Odezvy (pingy) strašný už i když jsem byl na 2,4GHz.
+
+
+teď:
+
+Příkaz PING na _w_w_w_._s_e_z_n_a_m_._c_z_ [77.75.72.3] s délkou 32 bajtů:
+
+Odpověď od 77.75.72.3: bajty=32 čas=8ms TTL=246
+Odpověď od 77.75.72.3: bajty=32 čas=8ms TTL=246
+Odpověď od 77.75.72.3: bajty=32 čas=40ms TTL=246
+Odpověď od 77.75.72.3: bajty=32 čas=29ms TTL=246
+Odpověď od 77.75.72.3: bajty=32 čas=77ms TTL=246
+Odpověď od 77.75.72.3: bajty=32 čas=41ms TTL=246
+Odpověď od 77.75.72.3: bajty=32 čas=26ms TTL=246
+Odpověď od 77.75.72.3: bajty=32 čas=62ms TTL=246
+Odpověď od 77.75.72.3: bajty=32 čas=32ms TTL=246
+Odpověď od 77.75.72.3: bajty=32 čas=152ms TTL=246
+Odpověď od 77.75.72.3: bajty=32 čas=113ms TTL=246
+Odpověď od 77.75.72.3: bajty=32 čas=14ms TTL=246
+Odpověď od 77.75.72.3: bajty=32 čas=65ms TTL=246
+Odpověď od 77.75.72.3: bajty=32 čas=16ms TTL=246
+Odpověď od 77.75.72.3: bajty=32 čas=45ms TTL=246
+Odpověď od 77.75.72.3: bajty=32 čas=33ms TTL=246
+Odpověď od 77.75.72.3: bajty=32 čas=19ms TTL=246
+Odpověď od 77.75.72.3: bajty=32 čas=69ms TTL=246
+Odpověď od 77.75.72.3: bajty=32 čas=33ms TTL=246
+Odpověď od 77.75.72.3: bajty=32 čas=264ms TTL=246
+
+Statistika ping pro 77.75.72.3:
+Pakety: Odeslané = 20, Přijaté = 20, Ztracené = 0 (ztráta 0%),
+Přibližná doba do přijetí odezvy v milisekundách:
+Minimum = 8ms, Maximum = 264ms, Průměr = 57ms
+[Smajlík]
+ pechvogel
+27.11.2013 17:49:13
+711-5Hn-u.FL
+
+jinak je to MaxStation Mikron 722PR
+
+např.:
+_h_t_t_p_:_/_/_w_w_w_._a_l_f_a_c_o_m_p_._c_z_/_p_h_p_/_p_r_o_d_u_c_t_._p_h_p_?_e_i_d_=_1_0_5_1_4_0_0_0_0_0_0_0_0_0_0_2_4_T_U_ 
+
+Fotku jsem neudělal a teď už tam nepolezu.
+
+
+
+Nechápu jednu věc - ty ledky uvnitř ukazovaly sílu signálu, ale jen 3 z pěti.
+Na sto metrů. Jen jednu chvíli se mi podařilo, že svítily 4 (při hledání
+nejlepšího signálu). Pak když jsem to zkoušel za chvíli jinde ale i na tom
+stejném místě, tak už jen max. 3 (při nejsilnějším sgnálu).
+
+Při nahrávání (např ode mne na youtube) jde TX CCQ až pod deset, na 1%, 2%.
+
+Teď kdy není moc provoz (nic nestahuju a neposílám):
+Tx/Rx Signal Strength -75/-74 dBm
+Tx/Rx CCQ 17/71 %
+Signal To Noise 41dB
+
+
+Podle mě je v hajzlu deska (RB 711). Hledal jsem na netu, dost lidí mělo
+určitou várkou problém před lety... ale píšou, že jim blbl signál (TX), což
+mně blbne obojí. A hlavně to CCQ - což zase nikde nezmiňoval nikdo.
+
+_h_t_t_p_:_/_/_i_2_._a_l_z_._c_z_/_I_m_g_W_._a_s_h_x_?_f_d_=_f_3_&_c_d_=_P_W_0_2_2_d_&_i_=_1_._j_p_g_ 
+
+Tuta deska - ledky jsou vpravo dole. Akorát konektor na UTP kabel je plastový,
+asi, ale to si teď nejsem jistý.
+
+Napájení PoE, dole 24V.
+
+Kabel jsem měnil za jiný i za kratší, beze změny.
+[Smajlík]
+ pechvogel
+27.11.2013 17:00:52
+pechvogel: začni fotkou toho co máš v té krabičce a pak můžeme pokračovat na
+složitější věci :-)
+ _M_S_-_f_a_n_o_u_s_e_k [Muž]50 [Kategorie]
+27.11.2013 15:12:11
+jo, katastrofa... Nenašel jsem žádný problém, přesto to stále stojí za houby.
+
+MS Fanoušek - jen bych se ale rád zeptal, jak bych ti vůbec zpřístupnil
+mikrotika z venku, když je u ISP ve vnitřní síti?
+ pechvogel
+26.11.2013 22:48:46
+MS fanoušek:
+dík, ale nebudu...
+už jsem to řešil s ISP, i fotku posílal, na dálku se v tom hrabal, AP
+přepínal, polarizace ok, na anténu naproti na baráku vidím ...
+
+uvidím zítra co bude v té krabici, doufám že hustě nasněží, ať to stojí za to.
+
+
+Jinak teď bez provozu (nevysílám/nestahuju) jsou CCQ:
+23%/93%
+
+Podle mne je ta deska (mikrotik) vadná od začátku, já mám smůlu úplně na
+všechno, proto už se snažím vůbec nic nechtít a nepořizovat.
+
+Ani ženskou. To bylo to samý.
+[Smajlík]
+ pechvogel
+26.11.2013 22:43:05
+na 100m katastrofa, mám mnohem lepší na mnohem větší vzdálenost
+
+udělej fotku toho co tam máš a nebo ten MK zpřístupni z venku, mrknu s eti na
+to
+ _M_S_-_f_a_n_o_u_s_e_k [Muž]50 [Kategorie]
+26.11.2013 22:21:54
+Voda tam snad po roce nebude, podezírám snad konektor v desce (nějaký mikro
+sma či co to je)... ale s mým štěstím to nakonec bude celá deska (radiová
+část) v hajzlu a to už od začátku...)
+
+A s adsl přesně tak.
+
+Já nechci zázraky, ale ať to kurwa jede aspoň jak za starých dobrých dial-up
+časů... Třeba odezvy ty jsou úplně v prdeli.
+[Smajlík]
+ pechvogel
+26.11.2013 22:10:04
+Ty hodnoty jsou dost slabé, bez rezervy na rušení. Teda na 100m by to mělo jet
+skoro na jakýkoli klacek, ale je fakt, že v hustě osídlené oblasti s rušením
+ani to nemusí být pravda.
+Já celé pásmo pak proskenuji spektrákem, nebo alespoň tím co má v sobě
+Ubiquiti.
+Antény také existují kvalitnější, ale cena jde nahoru. Pak se taky mohla někam
+dostat vlhkost - přechody led-voda. Na to ale bývá citlivější 2,4GHz. Nebo i
+odcházející radiová část.
+
+VDSL (ne ADSL) od 02 jede docela spolehlivě, i když jednat s tou bandou
+neschopných hňupů od O2 je někdy dost náročné.
+ _C_h_a_r_l_e_s [Muž]49 [Kategorie]
+26.11.2013 21:29:56
+uvidím ještě co najdu zítra na střeše v krabici
+
+indi:
+_h_t_t_p_:_/_/_z_p_o_v_e_d_n_i_c_e_2_0_1_3_._b_l_o_g_s_p_o_t_._c_z_/
+ pechvogel
+26.11.2013 21:27:55
+Asi jsem staromódní, ale říkám to pořád - drát je drát :)
+[Smajlík]
+ člověk na setrvačník
+26.11.2013 21:12:26
+A navíc to té mojí indiánce dneska zase hrozně sluší. Má nový rovnátka, tak
+bude ještě krásnější.
+[Smajlík]
+ pechvogel
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+

@@ -1,0 +1,124 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+Zpověď č.765955, vloženo 19.11.2013 18: _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+14:41                                   _s_t_r_á_n_k_a_]
+Priklad - Fyzika POMOC
+Ahoj, vsichni, dik kdyz mi pomuzete.
+Dostala jsem ukol, z fyziky. Jde o rovnomerne zrychleny pohyb no neumim ho
+vypocitat :/ protoze jsem chybela pri vykladu a kdyz nebudu mit ukol je to za
+5 :/
+
+Auto s hmotnosti m = 1280 kg zvětšilo svou rychlost z 7,3 m/s na 17,5 m/s, na
+dráze s = 37,2 m. Vypoočítejte zrychlení automobilu ( a )
+
+
+
+Proste mi to nejde vypocitat z rovnic :/ prosiim
+ joanna [Žena]16  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+19.11.2013 22:44:22
+Díííkky moc :* pro vás :)
+[Smajlík]
+ joanna
+19.11.2013 20:16:05
+gégo
+Jo, máš pravdu. Ale s průměrnou rychlostí bych to nekomplikoval.
+První rovnice: s=v1*t + 1/2*(a*t^2);
+Druhá rovnice: (v2-v1)=a*t;
+Z nich vyloučíme čas a dostaneme a=1/2*(v2^2-v1^2)/s = 3.4m/s^2
+ _L_U_F [Muž]99 [Kategorie]
+19.11.2013 19:42:42
+LUF: Tvrzení s=1/2*(a*t^2) platí pouze v případě, že počáteční rychlost je 0.
+Správně je s(t) = v(0)*t + 1/2*(a*t^2).
+
+K tomu argumentu s průměrnou rychlostí jsem se uchýlil proto, že jsem si nebyl
+jistý, zda autorka zpovědi zná vzorec s(t) = v(0)*t + 1/2*(a*t^2). Pokud jej
+zná, dá se můj postup zjednodušit podobně, jak jste naznačil.
+ gégo
+19.11.2013 19:31:26
+gégo
+To nevypadá dobře, průměrná rychlost tam nemá co dělat. Počítá se s rozdílem
+rychlostí dv = v2 - v1, to je rychlost, jakou auto získá na dráze s. Pro
+zrychlený pohyb platí: s=1/2*(a*t^2) a dv = a*t. Z těchto rovnic vyloučíme čas
+a dostaneme s = dv^2/(2*a), tedy a = dv^2/(2*s) = (v2 - v1)^2/(2*s).
+Po dosazení a = 1.398 m/s^2
+ _L_U_F [Muž]99 [Kategorie]
+19.11.2013 19:25:13
+Ještě bych podotknul, že hmotnost auta nemá na řešení příkladu vliv.
+
+Pokud ti v naznačeném výpočtu něco není jasné, tak napiš a koukneme se na to.
+ gégo
+19.11.2013 19:11:40
+Nejprve si zavedeme symboly pro všechny veličiny.
+
+1) Předpokládejme, že počáteční čas (ve kterém se auto pohybovalo rychlostí
+7,3 m/s) je t = 0, a jako t_1 označíme konečný čas (ve kterém má auto
+okamžitou rychlost 17,5 m/s). Hodnotu t_1 zatím neznáme.
+
+2) Jako v(t) označíme rychlost auta v čase t. Víme, že v(0) = 7,3 m/s a v(t_1)
+= 17,5 m/s.
+
+3) Jako a(t) označíme zrychlení auta v čase t. Protože však jde o rovnoměrně
+zrychlený přímočarý pohyb, je a(t) konstantní, tj. nezávisí na t. Budeme tedy
+psát a(t) = a pro všechna t. Hodnotu a chceme spočítat.
+
+4) Jako s(t) označíme dráhu auta, kterou urazí mezi časy 0 a t. Platí tedy s
+(0) = 0 a s(t_1) = 37,2 m.
+
+5) Jako v_p označíme průměrnou rychlost auta mezi časy 0 a t_1.
+
+Teď jdeme počítat.
+
+6) Nejprve vypočítáme v_p. Vzhledem k tomu, že zrychlení auta je konstantní,
+je v_p (aritmetický) průměr hodnot 7,3 m/s a 17,5 m/s, tj. v_p = 12,4 m/s.
+
+7) Nyní jsme schopni vypočítat t_1. Protože s(t_1) = v_p * t_1, dostaneme 37,2
+m = 12,4 * t_1 m, tudíž t_1 = 37,2/12,4 s = 3 s.
+
+7) Víme, že v(t) = v(0) + at. (To vyplývá z definice rovnoměrného přímočarého
+pohybu.) Dosadíme-li t_1 = 3 za t, dostaneme v(t_1) = v(0) + a * t_1, to jest
+17,5 = 7,3 + 3a, tudíž a = 3,4 m/(s^2).
+
+Výsledek je tedy a = 3,4 m/(s^2)
+ gégo
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+

@@ -1,0 +1,214 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+   Otázky - Vzkazy č.765618, vloženo _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+   18.11.2013 08:37:13               _s_t_r_á_n_k_a_]
+   Wi-fi a nespavost
+   už měsíc v noci nemůžu spávat, několikrát za noc se budím a ráno jsem
+   vždy strašně unavená. Před měsícem jsem se přestěhovala do nového bytu,
+   kde spím asi čtyři metry od wi-fi routeru, myslíte že to může být tím?
+   Vím že jedna kamarádka s tím taky měla problém a její stav se zelpšil až
+   když začala router na noc vypínat....na internetu jsem se také dočetla o
+   vlivu wi-fi na rakovinné bujení, nespavosti, závratí apod....Máte někdo
+   zkušenosti?
+    Nespačka E-MAIL: _k_e_l_a_n_y_o_@_s_e_z_n_a_m_._c_z  [Žena]26  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+19.11.2013 22:50:52
+Charles: Většina routerů dodnes vysílá beacon v 802.11b (pokud není nastavena,
+aby klienty s 802.11b zcela ignorovala), takže pro účel vyzářeného výkonu je s
+tím třeba počítat.
+ _S_t_a_6_7 [Muž]28 [Kategorie]
+19.11.2013 13:12:15
+Sta67: jen upřesnění, nemusí platit, že wi-fi routery jsou celou noc v klidu,
+mohou mít doma v provozu nějaké zařízení na něj připojené, zavirované PC,
+"napíchnuté sousedy" i v noční dobu. 802.11b se již téměř nepoužívá,
+nejčastěji nyní 802.11n s několika MIMO kanály a začíná ac.
+
+Někteří lidé si na na noc vypínají wifi část (u některých routerů je na to
+zvlášť tlačítko).
+ _C_h_a_r_l_e_s [Muž]49 [Kategorie]
+19.11.2013 03:06:03
+Charles: WiFi v klidu vysílá pouze kratičký beacon signál 1× za 100ms. Tedy
+cca 640 bajtů/s, což je zhruba 1/2000 maximálního výkonu (beacon se standardně
+vysílá v normě 802.11b).
+
+Vyzářený výkon v klidu v noci tedy není 0,1W jako při přenosu dat, ale kolem
+0,00005W.
+
+4m od routeru je prostorový úhel mozku člověka zhruba 1/200 srad. Tedy zhruba
+1/2500 výkonu jde směrem k mozku. Tedy 0,00000002W.
+
+Pro srovnání: Před dvířkami mikrovlnné trouby je povolen únik radiace 2mW/cm2.
+Tedy na rozměr naší hlavy je to kolem 1W. Tedy 50000000× více, než kolik
+dotyčnou ozáří v noci router!
+
+Pokud jí router působí nespavost, pak by pro ni mikrovlnka musela být mučícím
+nástrojem.
+
+Technologie 5GHz je na tom trochu hůř. 2,4GHz je velmi blízko absorbční
+frekvenci atomů vodíku 2,1GHz, a tak je jeho polohloubka proniknutí do těla
+nižší.
+ _S_t_a_6_7 [Muž]28 [Kategorie]
+19.11.2013 00:00:48
+vf38exfzp: já píšu zkušenosti z praxe. A bolest hlavy si fakt nemám zapotřebí
+vymýšlet. Skupina lidí, u kterých jsem to obdobně zaznamenal, je rozhodně
+větší než statistická chyba.
+Namátkou pár zařízení u kterých mi bolí hlava téměř ihned (když jsou v
+místnosti) - Ovislink AP WL-5470 s firmware na 27db, Trango 5830SU a AP,
+Ubiquiti Nanostation 5 (když je výkon nastaven naplno, nebo téměř naplno).
+Tyhle zařízení cítím i když jsou těsně za oknem, i když to již pak velmi
+slabo. Po stažení výkonu, pak naprosto bez problémů, koneckonců mám jedno Wi-
+Fi AP 2m od postele. Normy nejsou jen nicneříkající čísla a svůj smysl mají.
+Samozřejmě bylo by to na hlubší diskusi, ještě jde o to jak intenzivní je
+přenos dat, spektrální hustota atd.
+ _C_h_a_r_l_e_s [Muž]49 [Kategorie]
+18.11.2013 17:16:15
+Charles: EIRP je v tomhle pripade bezvyznamna fiktivni hodnota, ktera
+nevypovida nic o tom jaky ucinek muze mit zarizeni na cloveka. Setkavam se
+bezne se spoji o EIRP 60dB, tj. 1kW. Kdyby slo o realny vyzareny vykon, mohlo
+by to usmazit cloveka behem par vterin. Rozhodujici je ale v tomto pripade jen
+hodnota vykonu, jaky jde do anteny (protoze vic z ni vylezt proste nemuze),
+coz je u zarizeni v soucasnosti prodavanych max. 31dB, tj. cca 1.3W. Termalni
+ucinek takoveho zareni je zcela zanedbatelny (obzvlast kdyz je zareni
+pohlcovano i jinymi predmety v prostoru) a frekvence prilis mala na to, aby
+rozbijela chemicke nebo dokonce jaderne vazby.
+ _v_f_3_8_e_x_f_z_p [Muž]39 [Kategorie]
+18.11.2013 16:29:02
+Charles: tak s těma normama si to zabil. Sem ochotný věřit, že existují lidé
+citliví na cokoli. Ale že by norma udávala tu hranici od kdy už ano ... tak to
+ti nebaštím.
+ _M_S_-_f_a_n_o_u_s_e_k [Muž]50 [Kategorie]
+18.11.2013 14:55:09
+Sta67: nesmysl to není. Každý člověk má jinou vnímavost. Něco o tom vím,
+bezdrátovými spoji se zabývám 15 let, instaloval jsem mnohoset wi-fi sítí
+nejrůznějších značek a v různých vysílacích normách. Stačí, aby wi-fi byla
+nastavena trochu přes normu, k tomu silnější antény a je zaděláno na problém.
+Často se setkávám s wi-fi routery s nastaveným vyzařovacím výkonem na max.
+20db a k tomu 5db všesměrové antény, což je dohromady cca 5 krát přes normu
+(100mW). A některé mají i výkon 23db, což s výše uvedenými anténami je již 15
+krát přes normu.
+Nedá se srovnávat s mikrovlnkou ani mobilem. Ty mají sice opravdu vyšší výkon,
+ale jsou v provozu podstatně kratší dobu. Mikrovlnka je navíc odstíněna.
+
+Já vyšší výkon wifi poznám okamžitě - začne mi bolet hlava. Vždy když
+konfiguruji uvnitř nějaké zařízení pro venkovní použití, které má silnější
+integrovanou anténu, tak nejdříve stahuji výkon.
+Poznal jsem i hodně lidí, kteří měli problémy např. s bezdrátovou wifi za
+oknem (typicky pásmo 5GHz, výkon nastaven na 24db, anténa sektorová 14db s
+nepříliš odrušeným zadním a bočním vyzařováním - což kromě lepších parabol
+mají blbě všechny). Toto nastavení je sice opět přes normu - v pásmu 5GHz je
+max. výkon 30db (součet včetně zisku antény), ale přesto se masově používá...
+Citlivější rovněž byly malé děti. Několikrát jsem se setkal s tím, že dítko po
+instalaci wifi v jeho blízkosti začalo hůře spát a více bolela hlava. Po
+zrušení/přesunutí wi-fi problémy pominuly.
+
+Když to shrnu - dodržují-li se normy, pak je celkem wifi v pohodě a nemělo by
+vadit. Když je však nastaven výkon o něco vyšší, mohou nastat problémy.
+ _C_h_a_r_l_e_s [Muž]49 [Kategorie]
+18.11.2013 14:07:59
+Nesmysly paranoiků a placebo efekt u kamarádky Mobil má 40× vetší vyzařování,
+mikrovlnka až 10000×, a z toho něco uteče ven. Pokud tě nevzbudí mikrovlnka u
+sousedů, router to nezvládne. I takové Slunce vyzařuje vice.
+ _S_t_a_6_7 [Muž]28 [Kategorie]
+18.11.2013 13:42:02
+Nepíská ti adaptér vysokým tónem?
+ pragm
+18.11.2013 13:04:19
+Já mám taky Wifi router pár metrů od hlavy a bez problému
+[Smajlík] [Muž]30 [Kategorie]
+ _J_L_2
+18.11.2013 12:24:31
+Jakékoliv vibrace mají na člověka vliv a to buď pozitivní nebo negativní.
+
+Wi-fi, mikrovlnka apod. nejsou zrovna dobří přátelé, přeci jen město v
+Americe, kde byl protest proti vibracím a zvukům, které vydávala jedna továrna
+je důkazem toho, že to asi není jen tak bez následků. Lidé tam začali být
+šílení, doslova z toho ztráceli zdravý rozum. A to tam třeba šlo slyšet jen
+podprahový tón, který by člověk při krátkodobém poslechu neslyšel.
+
+Ticho léčí, jak už řeklo nespočet lidí.. A příroda.
+
+Každý má svůj názor, ale být Tebou, tak se řídím tím, co mi přijde nápomocné.
+Já bych u routeru nechtěla spát, stávalo se mi na minulém bytě, že elektřina v
+zásuvce vydávala občas divný zvuky a zrovna moc příjemný mi to nebylo.
+Pochopitelně pak závisí na lidech, jak jsou citlivý. Já teda dost, na cokoliv
+a kohokoliv.
+ _M_i_a_n_y [Žena]33 [Kategorie]
+18.11.2013 12:04:36
+Vysilaci vykon wifi routeru je prilis maly na to, aby mel nejaky vliv.
+Nespavost ale klidne zpusobovat muze, kvuli akustickym vlnam (ultrazvuku),
+ktere vydava kazdy pulzni zdroj - adapter v zasuvce i DC-DC konvertor uvnitr
+routeru. Piskani nekterych zdroju je zcela jasne slyset. Urcite doporucuju v
+noci vypnout vsechny elektricke pristroje v mistnosti, kde spis. Ja mam pro
+tenhle ucel hned vedle postele samostatny jistic na vsechny zasuvky v okoli
+postele.
+ _v_f_3_8_e_x_f_z_p [Muž]39 [Kategorie]
+18.11.2013 12:02:21
+Já mám router asi 2 metry od hlavy, když spím. Už to tak je několik let a
+zatím jsem nepocítil obtíže.
+ _M_o_u_č_n_í_k [Muž]26 [Kategorie]
+18.11.2013 11:03:52
+Spím dobře vedle Wi-Fi takže jde o pověru, pokud nemůžeš spát požádej doktora
+o prášky na spaní, problémy se spaním jsou následkem problémů které mozek chce
+vyřešit a tak blokuje spánek. Dobré je taky na zlepšení spánku se proběhnout
+venku hodinu před spánkem.
+[Smajlík] [Muž]61 [Kategorie]
+ _b_h_a_g_a_v_a_n
+18.11.2013 10:03:25
+Studií o vlivu záření na člověka bylo hodně, ale každá měla jiný výsledek. A
+výsledky podezřele korelují se zájmy plátců.
+ Trol
+18.11.2013 09:38:02
+Pokud vím, tak negativní vliv elektromagnetického záření nebyl dosud
+jednoznačně potvrzen ani vyvrácen.
+Jak vidno, studuješ "katastrofické dopady" VF záření na člověka a řekl bych,
+že tvůj problém je spíš psychický (btw GSM síť není frekvenčně daleko od wifi
+a telefon u postele ti nevadí).
+Udělej pokus: Řekni někomu, kdo s tebou bydlí, ať někdy na noc router vypne a
+ty si poznamenej, kdy se ti spalo dobře a kdy ne. Pak můžeš porovnat výsledky.
+Když bys router vypínala sama, je pravděpodobné, že stačí ten psychický pocit
+a už se ti spí líp, tedy že to není tím zářením, ale tím pocitem (konec konců,
+když budeš usínat s tím, že máš pod postelí bombu, tak nejspíš neusneš a vůbec
+nezáleží na tom, jestli ji tam doopravdy máš, nebo jestli je to jen tvé
+přesvědčení).
+ kostla
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+
