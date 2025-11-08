@@ -1,0 +1,208 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+Zpověď č.975425, vloženo 13.12.2016 21: _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+33:19                                   _s_t_r_á_n_k_a_]
+Programovanie v C
+Moja zufalost na skole FIIT uz nema hranic.. Potrebovala by som malu radu od
+niekoho kto vie programovat v C. Mam nejake cislo v dvojkovej sustave a mam
+invertovat v tomto cisle dva bity od i najvyssej pozicie. Pouzila som #define
+rad(x,i) (((x)>>(i))&1) ktore mi vrati tu hodnotu na i-tej pozicii.. Akurat ze
+som zistila ze to ma vlastne da na najnizsiu poziciu a ja sa teda pytam ci
+existuje taketo aj opacne a ak nie ako inak by som sa dostala k tej pozicii na
+druhej strane. Robi to to co ma zmeni to tie dva bity od prvej pozicie akurat
+ze z druhej strany. Za akukolvek radu dakujem.
+ 12345 [Žena]18  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+18.12.2016 15:39:08
+<dievča
+<programátor
+
+
+ok
+ BADFUCKING
+15.12.2016 22:14:51
+skus:
+
+unsigned int invert(unsigned int num, unsigned int pos)
+{
+return num ^ (3 < < pos);
+}
+
+a dostudovat preco a ako to funguje!
+(tie zobaciky maju byt spolu ale spovedka a text formating ..)
+ _s_t_a_l_e_s_a_m [Muž]24 [Kategorie]
+15.12.2016 00:46:25
+už ju učíte piecť ? zase som ostala nejak do počtu
+
+no nič ...dobrú
+ _2_L_o_h_r_e_n [Žena]24 [Kategorie]
+15.12.2016 00:41:52
+jo... tak je.... a si predstav ze ta Paca predbehne!!!!!!
+
+PS: uz idem spat, DN
+ _U_F_O_P_o_r_n [Muž]32 [Kategorie]
+15.12.2016 00:22:57
+Ale však viem, viem.....
+Odkedy som sa priznala že neviem piecť sa všetko zhoršilo
+[Smajlík] [Žena]24 [Kategorie]
+ _2_L_o_h_r_e_n
+15.12.2016 00:16:41
+ale FAKT, bohu prisaham!!!!
+[Smajlík] [Muž]32 [Kategorie]
+ _U_F_O_P_o_r_n
+15.12.2016 00:12:07
+UFOP ja.... všimla som si
+[Smajlík] [Žena]24 [Kategorie]
+ _2_L_o_h_r_e_n
+15.12.2016 00:09:23
+By som sa racej piest kolace ucil... fakt, lebo len s tym dnes prerazis.
+[Smajlík] [Muž]32 [Kategorie]
+ _U_F_O_P_o_r_n
+14.12.2016 22:06:19
+12345 nič si z toho nerob. S ním su tu v poslednom čase len samé problémy,
+lebo si vzal do hlavy, že jeho tvrdé spovednicové názory zmenia svet.
+[Smajlík] [Žena]24 [Kategorie]
+ _2_L_o_h_r_e_n
+14.12.2016 22:02:08
+Hej hej, toto počúvam pravidelne keď niekomu raním ego :D , ale neplač, to
+prejde..
+[Smajlík]      [Muž]27 [Kategorie]
+ _T_a_s_t_e_T_h_e_G_r_a_c_e
+14.12.2016 21:54:58
+Chlapec.. Ja ta lutujem ze si musis masirovat ego na 18 rocnom dievcati ktore
+chce nieco v zivote dokazat :-D nemaj prosim ta nikdy vzivote deti lebo ak aj
+ich chces takto dodrbat pri kazdej ich aktivite tak dovidenia.. Ano mozno sa
+trapim s tymto ale ta skola ma bavi ako celok. Takze z tohto tvojho komentaru
+si zoberem akurat tak to ze mas nedostatok sebavedomia.
+ 12345
+14.12.2016 19:06:05
+Ak by si možno trošku viac čítal spovede namiesto komentárov, tak by si
+pochopil, že toto nie je jej prvá spoveď a že ju to naozaj nebaví, je tam
+zúfalá a zjavne sa pre programovanie nenarodila.
+
+Čisto z hľadiska teorie hier je jej snaha nezmyselná. Má ešte čas to zmeniť.
+Alebo to môže s utrpením študovať a buď ju vyhodia, alebo to doštuduje a
+nebude sa tým živiť, alebo sa tým živiť bude ale bude v tej práci nešťastná..
+pravdepodobne si ju vybrala pod masážou o tom, ako je dnes fajn informatikom,
+nerešpektujúc vlastné vlohy a to čo ju baví. A to je chyba.
+
+A na informatika si trochu pribrzdený. Tu sakra nejde o to či bude potrebovať
+bitové operácie. Jasné že nebude. Rovnako 99% ľudí nepotrebuje ani pytagorovu
+vetu, rezy kockou ani derivovanie.. ide o to, že ak má problém s touto
+primitívnou vecou, tak s tými reálne ťažkými bude tápať. Proste dieťa ktorému
+nejde matematika nedáš na matfyz. To nemá zmysel. Dáš ho tam kde mu to pôjde.
+
+Ale ty si zase ten klasický komentátor typu "ale čo keď jej to v budúcnosti
+pôjde a bude šťastná programátorka a s láskou bude spomínať na školu, a všetko
+bude šťastné a bude mať dom, manžela dve deti a psa a s úsmevom bude každý deň
+programovať.. " .. hej.. možno, a možno vyhrá eurojackpot, ale najskôr nie. Je
+očividné, že nemá v informatike hudobný sluch tak ju sakra nebudem tlačiť na
+prvé husle vo filharmonii.
+
+Fakt neviem o čo ide.. to musíte podporiť každého vo všetkom? To keby tu
+prišiel vozíčkar čo je nešťastný že nebeha ako Husain Bolt, tak mu tiež budeš
+splietať sprostosti a prečo by nemohol byť najrýchlejší bežec? A čo keď mu
+zázračne zajtra vyliečia chrbticu a bude behať a bude šampión? Prd, pozeráš
+príliš veľa amerických filmov s dobrým koncom. Život je o inom. Ona sa iba
+užennie, klesne jej sebavedomie, stratí roky života a bude to celé na riť.
+
+Ak si verí, nebude moje slová počúvať, ak vnútri vie, že mám pravdu tak to
+zabalí a spraví lepšie. Konkurencia v IT je silná a v zaprdenom IBMku môže
+robiť aj so strednou školou.. táto poletí proste. Uvedom si že prišla hľadať
+pomoc s elemetnárnym problémom ktorý výgoogli škôlkar za 10 sekúnd na
+spovednicu. NA SPOVEDNICU. Zamysli sa nad tým a choď pohľadať svoje gule lebo
+ti niekde po ceste z práce spadli, do kanála alebo neviem.
+[Smajlík]      [Muž]27 [Kategorie]
+ _T_a_s_t_e_T_h_e_G_r_a_c_e
+14.12.2016 14:07:23
+TasteTheGrace a preco by ju to nemohlo bavit? Ked ich ucia picoviny ja sa
+zivim ako programator a nikdy v zivote som bitove operacie nepotreboval a 99%
+programatorov su na tom rovnako.
+[Smajlík]
+ kikirik
+14.12.2016 11:56:25
+int switch_bits (int Number ,int position)
+{
+
+Number^= 1 << position; //
+Number^= 1 << position-1; //
+
+return Number;
+
+}
+
+//ked to sces vo funkcii .........
+[Smajlík] [Muž]27 [Kategorie]
+ _R_3_D_ _Z_O_N_E
+14.12.2016 11:45:13
+x ^= 1 << i; //toto spravi inverziu na itom bite
+x ^= 1 << i-1; //toto spravi inverziu na i-1
+[Smajlík] [Muž]27 [Kategorie]
+ _R_3_D_ _Z_O_N_E
+13.12.2016 23:53:29
+Jáj cica, prečo si ty trápiš svoju 18 ročnú hlavičku takýmito suchotinami?
+Toto je malá násobilka tak ako budeš programovať väčšie veci? Čo budeš
+pokurovať informatikov na intráku? Veď to je nechutné.
+
+Dosť bolo srandy.. dve rady. Prvá, hľadaj čo ťa bude baviť. Druhá, nauč sa
+používať google. V angličtine by si k tomu naša hafo zdrojov. Ale vidím že si
+trubka tak ti dám odkaz v češtine.
+
+_h_t_t_p_s_:_/_/_e_n_._w_i_k_i_p_e_d_i_a_._o_r_g_/_w_i_k_i_/_B_i_t_w_i_s_e___o_p_e_r_a_t_i_o_n_s___i_n___C_ 
+
+Ak ti z toho nedôjde, tak proste formuluj jednoduchu otazku v angličtine a
+stackoverflow.com ti dá easy odpoveď, lebo toto cvičenie už pred tebou robilo
+tisíc kockáčov.
+[Smajlík]      [Muž]27 [Kategorie]
+ _T_a_s_t_e_T_h_e_G_r_a_c_e
+13.12.2016 21:53:08
+Najskôr z toho programovania :-D
+ _2_L_o_h_r_e_n [Žena]24 [Kategorie]
+13.12.2016 21:48:29
+Z programovania ci som to napisala ako pako :-)
+ 12345
+13.12.2016 21:43:47
+Som vedľa jak tá jedľa
+[Smajlík] [Žena]24 [Kategorie]
+ _2_L_o_h_r_e_n
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+

@@ -1,0 +1,158 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+   Otázky - Vzkazy č.976209, vloženo _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+   18.12.2016 18:04:06               _s_t_r_á_n_k_a_]
+   Nejde připojit notebook k Wi-Fi,mobil jo
+   Chtěla bych vás, co se vyznáte v IT, nebo jste měli stejný problém
+   poprosit o radu.
+
+   Mám notebook připojený na Wi-Fi a poslední dobou se stává, že Wi-Fi sice
+   naskočí, objeví se nějaký signál, ale ntb prostě nejde připojit. Přitom
+   mám vedle ntb mobil, který se na Wi-Fi připojí a funguje skvěle.
+
+   Na netu jsem radu nenašla a do opravny ho teď při zkouškách dát nechci.
+
+   Děkuji za seriózní rady.
+
+    Ntb [Žena]22  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+18.12.2016 21:55:24
+to je jedno jestli ti to slo nebo ne me to taky neslo pak slo a po restartu
+zas neslo... az po restu ip protokolu se to spravilo
+
+samozrejme to muze mit 1000 jinych duvodu ale ta aktualizace o tom i nedavno
+psali na novinkach ze s tim maj windowsy problem...
+
+ja bych ti poradil ale rekni mi jestli umis pustit powershell jako
+administrator :D
+ medabeda
+18.12.2016 21:01:23
+Ano, muze byt neco s ovladaci, a ted ti zlobi sifrovani (resp. notebooku to
+dela problem) U novych windows od XP SP3 by problem byt nemel, ale nekdy je to
+ducharina. Stalo se mi tez, ze jedna wifi karta v PC na jeden konkretni router
+mi tu proste nesla a nesla, jen vyjimecne ano.
+
+Ale hlavne jsem chtel upozornit na zaludnost s poctem wifi kanalu!
+
+Americka norma ma 11 kanalu, evropska jeste 12. a 13. kanal. No a nektery
+notebook muze mit pouze US normu a 11. A 12. Kanal vubec nevidi.
+To se muze stat i u mobilu, pokud v nem neni ceska(evropska) SIM karta- pak
+taky nevidi 12 a 13 kanal.
+No a pokud mas na routeru nasatvene automaticky vyber kanalu, pak se muze stat
+ze ti prepne na 12 ci 13, ale ty ho nevidis. Coz ale poznas uz tim, ze proste
+svou wifi ani nevidis v seznamu dostupnych.
+Pak se mi take stalo, ze router klidne volil automaticky kanal 14 - ten maji
+navic v japonsku a francii. Tim se mi uplne ztratil z dohledu. POMOHLO
+nastavit kanal napevno (evropskou ci ceskou normu v routeru zvolit neslo)
+
+Pak taky jednou neslo pripojit notebook proto, ze jsem zmenil sifrovani z
+napr. WPA na WPA2, jenze notebook si pamatoval predchozi volbu..... BYLO NUTNE
+Vymazat profily a zadat znovu (W7, debillne udelane oproti xp)
+
+Osobne doporucuji pripojit se kabelem.
+
+good luck
+
+
+
+
+
+
+
+
+
+
+
+, artaarta- pa
+ CZK
+18.12.2016 19:29:58
+Aha..trochu jako když na mě mluvíš španělsky...ale zkusím něco... dík
+ Ntb
+18.12.2016 19:20:26
+Ano, zní to velmi pravděpodobně. Takže máš asi dvě možnosti:
+a) provedeš downgrade na předchozí verzi na které to fungovalo.
+B) podíváš se jestli není dostupný nějaký patch, který řeší problém s ovladači
+
+Ale jak říkám není to můj obor, já řeším všechno přes podporu Dell.
+ _M_r_ _G_o_r_d_o_n_ _G_e_k_k_o [Muž]25 [Kategorie]
+18.12.2016 19:12:42
+Máš zálohu systému?
+ _M_r_ _G_o_r_d_o_n_ _G_e_k_k_o [Muž]25 [Kategorie]
+18.12.2016 19:07:31
+No, ve čtvrtek proběhly aktualizace...pak to ještě šlo..ale den nato už ne...
+
+Takže to je aktualizacemi? A co s tím? To by mě v životě nenapadlo. :)
+ Ntb
+18.12.2016 18:48:42
+muze to byt aktualizaci windows... me se to pred par mesici stalo a musel sem
+vyresetovat ip protokoly...
+ medabeda
+18.12.2016 18:33:47
+Není to sice můj obor, ale nechtělo by to problém více specifikovat? Co takhle
+napsat kdy to začalo, jestli předtím neproběhla v poslední době nějaká
+aktualizace/upgrade systému apod.?
+Můžou to být klidně ovladače, ale bez konkrétnějších informací, než prosté
+nejde mi Wi-Fi na ntb se asi nehneme.
+[Smajlík]        [Muž]25 [Kategorie]
+ _M_r_ _G_o_r_d_o_n_ _G_e_k_k_o
+18.12.2016 18:22:19
+Tohle je konstruktivní rada, by se divila jak jsou někteří tupý že toto je ani
+nenapadne ×DDDDD
+Píše to nějakou chybu?
+ _N_a_ _l_o_u_c_e_ _j_e_ _b_o_u_ř_e [Muž]24 [Kategorie]
+18.12.2016 18:21:53
+Všechno restartovat - pro začátek.. Taky jsem to tak měla, mobil iPad na wifi
+v pohodě - notebook pořád vypadával nebo se nepřipojil vůbec. Pak to tady
+přítel asi 4 hodiny s nadáváním šteloval a už to funguje v pohodě jakou dobu.
+Bylo to nějakým nastavením routeru, kdy tam přehrával něco v systému či co kdy
+to tam bylo od poskytovatele nějak divně nastavený.
+ _F_a_p_f_a_p [Žena]26 [Kategorie]
+18.12.2016 18:20:41
+Proč ta arogance? Když nemáš konstruktivní radu, tak nepiš. Router jsem
+restartovala samozřejmě.
+ Ntb
+18.12.2016 18:05:18
+Chyba v notebooku... co restart routeru, základní věc co by měla napadnou
+každého (?).
+ _N_a_ _l_o_u_c_e_ _j_e_ _b_o_u_ř_e [Muž]24 [Kategorie]
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+
