@@ -1,0 +1,308 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+Zpověď č.900069, vloženo 03.10.2015 00: _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+18:00                                   _s_t_r_á_n_k_a_]
+informatika a řada
+Dneska sme psali na informatice písemku z programování. Já to celkem podcenil
+a proto jsem to asi napsal tak, jak jsem to napsal. Naše informatička nám ale
+dala "lehký" úkol na naprogramování, za plusové body k písemce. Má se jednat o
+program, kde dostanete nějakou postupnost ćísel. A pak ta samá čísla, jen
+popřehazovaná způsobem, že když jedno číslo z řady vyberete, ostatní se
+posunou a tohle číslo pak dáte na konec řady. Jako když máte na kopě knihy,
+jednu vyberete a dáte navrch. A ten program by měl umět zjistit, nejmenší
+počet čísel, jaký je nutno vybrat a dát na konec řady, aby vznikla druhá
+zadaná postupnost.
+Chci se zeptat, nevíte mi někdo poradit ten algorytmus? Nepotřebuji celý
+program, naprogramovat to umím, jen si nejsem schopen vymyslet postup, jak
+bude ten program vůbec pracovat.
+
+Za každou radu dík
+ DLH32 [Muž]17  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+03.10.2015 19:18:55
+dickslap: Při vymýšlení vlastního řešení ty chyby v průběhu implementace můžeš
+udělat zrovna tak, jako při přepisu. OK, podle tvých počtů to pak neřešíš 5-
+6x, ale jenom 4-5x. O to více času tě ale stojí to vymýšlení.
+
+S tou prací v korporaci to je asi pravda, jakmile projekt přesahuje jednoho
+člověka, přichází ke slovu jevy jako "sociální nezodpovědnost" a vytrácí se
+vnitřní motivace k dokončení práce. Proto také spousta takových projektů nikdy
+dokončena není, nebo je plná chyb a ještě dlouho po vydání se musí postupně
+opravovat a doplňovat.
+
+Otázka je, jak jinak dělat rozsáhlé a propracované projekty a dokončit je.
+Dělat je sólo není v silách jednoho člověka nikdy. Samostatně se dají dělat
+jen malé věci a jednotlivosti. Rozsáhlé projekty se dají v jednom člověku
+dělat jen ze začátku a zjednodušeně, později to stejně musí začít rozvíjet a
+udržovat větší množství lidí, pokud to má delší dobu přežít a obstát proti
+konkurenci.
+
+Asi bych to shrnul tak, že dělba práce a týmová spolupráce jsou sice vždycky
+problém, ale nic lepšího zatím nikdo nevymyslel. S tímto způsobem vznikají
+rozsáhlé projekty plné chyb a nedodělaností. Bez tohoto způsobu by rozsáhlé
+projekty nevznikaly vůbec...
+ Negativní Degen
+03.10.2015 15:26:34
+programovani je desne nevdecna prace. pri prepisu obvykle udelas nejmene jednu
+chybu, tu kdyz opravujes tak to resis uz potreti. pri jeji oprave se ti muze
+stat, ze pridas uplne novy dve nebo tri chyby. takze nez to mas funkcni, tak
+to resis uz po paty nebo po sesty. navic jestli budes delat v kopro-raci, tak
+ani nebudes mit okamzity dobry pocit z dokoncene prace, protoze budes makat
+jen na drobnem kusu, co se bude tvarit samostatne nesmyslne. desne ubijejici
+prace.
+ dickslap
+03.10.2015 15:20:59
+k smrti nenavidim prepisovat reseni do kodu. vyzaduje to prilis mnoho
+pozornosti na neudelani stupidni chyby.
+
+nejvic me na tom vytaci, ze vlastne delam to same podruhe jen tentokrat uz ne
+myslenkou, ale otrocinou.
+
+ale je to porad efektivnejsi nez to nekomu vysvetlovat a kontrolovat jeho
+reseni.
+ dickslap
+03.10.2015 14:30:10
+ubzed: No jenomže i to kódování, aby to nebylo vyloženě naprasené, dělá
+spoustě lidí problém (mimochodem, často hlavně třeba matematikům s minimem
+vědomostí o programování), tudíž i ty, jak ty říkáš, cvičené opičky, jsou
+bohužel potřeba.
+
+Ona otrocká práce je ve většině zaměstnání. Nevím, jestli to někdy v 90.
+letech bylo jinak, ale dneska se při vývoji jakéhokoliv seriózního software
+nejprve googlí, jestli daný problém už někdo neřešil (což je v 95% případů
+pravda) a to se použije a maximálně nějak upraví pro potřeby konkrétní
+aplikace.
+
+On pak přejde do praxe, kde bude třeba dělat webovky a 80% času ošetřovat
+formuláře, dělat dotazy do databáze nebo exportovat do PéDéeFka (hotovou
+knihovnou), a jak často myslíš, že bude implementovat quicksort nebo řešit
+takovéhle nablblé hlavolamy s přehazováním číslíček?
+
+Pak se spousta lidí diví, že je málo techniků a všichni jdou radši na
+filozofii a po 5 letech prodávat boty, když jim učitelky dokonale znechutí
+technické obory nejpozději na střední.
+
+Samozřejmě, že logika a počty valné většině lidí od přírody moc nejdou, ale
+někdo s tím dělat musí.
+ Negativní Degen
+03.10.2015 12:59:53
+Budeš potřebovat iteraci.
+Vezmeš to od konce.
+Máš li - posloupnost a a chceš vytvořit posloupnost b, n je poslední číslo
+posloupnosti.
+
+a: 2 9 1 4 5 6 7
+b: 9 5 2 1 7 6 4
+Pokud n nejsou stejná, budeš za n u a muset přemístit 2 čísla (6 a 4).
+
+Vezmeš co ti zbylo v daném pořadí.
+
+a: 2 9 1 5 7
+b: 9 5 2 1 7
+Máš-li stejná n, budeš muset uspořádat čísla před n a potom přemístit n (7).
+
+a: 2 9 1 5
+b: 9 5 2 1
+Jako za prvé. (2, 1)
+
+a: 9 5
+b: 9 5
+Hotovo.
+
+Celkem potřebuješ 5 přemístění, od začátku: 2, 1, 7, 6, 4.
+[Smajlík]
+ snad to tak jde
+03.10.2015 10:33:00
+naprogramovat to bude umět i dobře vycvičená opička.
+Informatika je o tom, vymyslet postup a převést ho do programu.
+Jsi si jistý, že je ta škola to pravé pro tebe?
+[Smajlík] [Muž]49 [Kategorie]
+ _u_b_z_e_d
+03.10.2015 10:31:21
+jinak jestli chcete trolit tazatele i ucitelku, tak staci udelat program, co
+zjisti, ze jsou pouzity stejne prvky v posloupnosti, ze jsou posloupnosti
+stejne velke a pak spocitat jen pocet prvku (nejake n) a jako vysledek
+ohlasit, ze cislo se nachazi mezi < 0 , (n-1) > vcetne. nevim jestli to
+zavorky prevadi na paznaky.
+ dickslap
+03.10.2015 10:28:51
+dickslap: když ono je strašně poznat, že vůbec nevíš, o čem mluvíš, ty sorte
+[Smajlík]
+ myši mají pré
+03.10.2015 10:25:40
+a to predchozi je nazorne chytnuti vyjimek v socialni komunikaci.
+ dickslap
+03.10.2015 10:24:04
+mysi: teda pokud se zrovna nerozhodnu te zaskrtit.
+ dickslap
+03.10.2015 10:22:34
+mysi: hele ja mam papiry od doktorky i z oboru, ze tyhle veci resim tak snadno
+jak ty dychas. naopak socialni komunikace je pro me asi tak snadna jak pro
+tebe dozivotni angazma na akademii ved. takze mi muzes s tim trolenim vis co.
+ dickslap
+03.10.2015 10:17:21
+a jestli vidim dobre, tak tazatel ma problem s tim jak vypada zazrak-select,
+aby vedel co ma spocitat.
+
+a zbytek ma problem s pochopenim psaneho textu.
+ dickslap
+03.10.2015 10:15:35
+dickslap: zkus se naučit trollit pořádně. To je první předpoklad k tomu, abys
+někoho vytočil. Trollit pořádně vyžaduje mít skutečný znalosti toho, o čem
+mluvím a umně je překrucovat, jenom házet pojmy nestačí.
+[Smajlík]
+ myši mají pré
+03.10.2015 10:03:27
+Začal bych tím, že bych si ošetřil vstupy. Tj. zdali obě řady obsahují ta
+stejná čísla (v opačném případě bych vrátil &#8734;, protože řešení
+neexistuje).
+
+Jelikož jsem líný programátor a protože (pokud vím) nikdo netvrdil, že ten
+algoritmus musí být optimální, vyzkoušel bych všechny různé kombinace přesunů,
+které vedou ke kýženému výsledku. (Tuším, že jich bude O(n&#178;), když
+generování ve správném okamžiku přeruším, abych se nezacyklil.) Potom bych z
+nich vybral tu s nejnižším počtem.
+[Smajlík] [Muž]35 [Kategorie]
+ _d_q_d
+03.10.2015 10:02:28
+to je docela dobry test programatorskych analytickych predpokladu, takovehle
+zadani. koukam na tom horite vsichni tri. cili mysi maji pre i tazatel i
+newbie)
+
+dej za me uce z infosky dickslap po papuli, protoze takhle trapit novacky bez
+prupravy si zaslouzi naliskat.
+
+mas spocitat cislo. to by mela byt slozitost idealne konstantni.
+
+jenze mas blby vstup, ktery budes muset zpracovat linearne. a mozna s rekurzi,
+aby si vytahl informace nutne k rozhodnuti.
+
+mas predem dany algoritmus konstrukce jedinou operaci, takze jsi omezen na
+konkretni variantu pracovne tomu muzes rikat dement-sortu.
+
+a od tebe se chce spocitat kolikrat tenhle dement sort bude muset tuhle
+operaci provest pokud bude mit k dispozici naprosto dokonaly predvidaci
+system, ktery umozni vybrat ten spravny prvek. pracovne nazvem zazrak-selectu.
+
+
+takze otazka jak (idealne nejoptimalneji linearne) spocitat pouziti operace
+dement-sortu.
+
+a to uz mas za domaci ukol :-)
+ dickslap
+03.10.2015 09:29:40
+Mate: jenže tohle bude fungovat jen dokud se některý prvek nepřesune znova.
+ myši mají pré
+03.10.2015 09:14:33
+Jako řešení by mohlo být relativně jednoduché, záleží jaké jsou přesně
+podmínky té řady atd. ale pokud vezmu ten příklad co uvdel hned na začátku tak
+by to mohlo vypadat nějak takhle
+zadaná řada
+1;2;3;4;5;6;7;8;9; - poslední element je 9 na pozici 9
+takže by mě mělo zajímat kolik se objeví čísel za tím posledním elementem
+zpřeházená řada
+1;3;6;7;9;4;2;8;5; - 9 je na 5 pozici takze 9pozici na začátku - 5pozice teď
+mi dá že jsem nakonec hodil 4 čísla
+takže si zjistit pozici a jaký je poslední element v zadané řadě a potom v té
+zpřeházené najít ten element jakou má pozici a ty pozice od sebe jenom
+odečíst.
+ Mate
+03.10.2015 09:10:50
+Jestli to chapu spravne tak ty mas dve posloupnost
+napr. 2,5,9,3 pak mas zadane ze vysledek ma byt 2,9,5,3 a ty to musis
+poprehazovat od zadu aby jsi dostal tu druhou posloupnost?
+ adaf
+03.10.2015 07:50:51
+neporadím bo jsem nepochopil co chce. Lehký to je tak leda pro ní bo si to
+přečetla z učebnice a zná řešení
+ J2F7
+03.10.2015 01:13:56
+2448: jde to, ale nemusí to odhalit nejoptimálnější řešení - nejnižší nutný
+počet přesunů, což je zadání.
+ myši mají pré
+03.10.2015 01:07:27
+Ok. Určitě to bude chtít doladit, už mi nefachá mozek a je možný, že tam mám
+chybu. Ale to už si pohraješ. Máš dvě pole, první řada je k, zpřeházená řada
+je j. Budeme mít třeba proměnnou cnt, která obsahuje počet přemístěných čísel.
+
+
+Porovnávej postupně k[x] s j[x]. Pokud dvojice souhlasí, poskočíš na další.
+
+Pokud nesouhlasí, prohledej zbytek pole směrem ke konci a pokud se v tomhle
+zbytku pole nachází hodnota stejná jako v k[x], zvyš cnt o 1.
+
+Od této chvíle ale platí, že cnt zvýšíš, pokud k[x]==j[x] anebo pokud stejnou
+hodnotu najdeš ve zbytku pole.
+
+Na konci by měl být v cnt nejmenší nutný počet přesunutých čísel.
+
+Fakt to radši pořádně otestuj.
+[Smajlík]
+ myši mají pré
+03.10.2015 00:59:14
+Co provést opačný proces? Vybrat číslo od konce, vložit na své místo (tj. na
+místo v 1. posloupnosti) a zbytek posunout nakonec? Přitom by se uchovávalo
+počítadlo čísel, přemístěných takto na své místo...
+ 2448
+03.10.2015 00:40:47
+myši mají pré - ano, to je vono, vybral jsi čísla 4 2 8 5 a pak jsi je dal na
+konec. A já chci zjistit, jaký byl nejmenší počet takhle přemístněných čísel.
+ DLH32
+03.10.2015 00:34:57
+Bud to nechapu nebo je to blbe zadane ale je mozne ze by to mohlo mit i
+nekonecny pocet pohybu tech cisel? Kazdopadne me to docela zaujalo, jdu se na
+to podivat.
+ newbie78900rr46
+03.10.2015 00:30:58
+Počkej. Radši na příkladu, já nevím, jestli tě chápu.
+
+Nejdřív máme řadu (pro jednodhuchost)
+1;2;3;4;5;6;7;8;9;
+
+A pak máme řadu
+1;3;6;7;9;4;2;8;5;
+
+A program má zjistit, kolik čísel jsem vyjmul a dal na konec řady? Asi si to
+představuju blbě, oprav mě kdyžtak, nejlíp taky na příkladu.
+ myši mají pré
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+
