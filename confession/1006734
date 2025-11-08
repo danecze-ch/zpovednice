@@ -1,0 +1,182 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+   Otázky - Vzkazy č.1006734, vloženo _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+   29.06.2017 00:26:34                _s_t_r_á_n_k_a_]
+   Jak je to s jazyky na programováni?
+   Chtěl bych si udělat všeobecný přehled o programování a programovacích
+   jazycích, tak snad mi někdo pomůže ve všeobecné orientaci:
+   1.Nižší programovací jazyky
+   a)strojový kód
+   b)jazyk symbolických instrukcí
+
+   Dotaz c.1: Kam patří C?
+
+   2.Vyšší programovací jazyky
+   Všechny ostatní dělící se na
+   a)imperativni
+   b)deklarativni
+   c)modelovací
+   d)ostatní
+
+   Dotaz c.2: Předpokládám, že v současnosti se programátoři zabývají
+   nejníže maximálně C. Není to nevýhodné co se týče velikosti, výkonu
+   apod.? A není člověk omezen pouze na zadání instrukcí, které jsou
+   definované pro konkrétní jazyk v překladači, když základem je strojový
+   kód vyjádřený v binární soustavě?
+
+   Dotaz c.3: Lze poznat přes Hello World! jaký asi jazyk bude, protože z
+   tohoto pohledu se mi líbí nejvíce Basic a Python (do kterého asi po
+   radach půjdu) protože na první pohled vypadají se zapísem nejjednodušeji
+   viz
+
+   10 PRINT "Hello World!"
+   20 END
+
+   a
+
+   print ("Hello World!")
+   input
+
+   Oproti oskluvejsimu a velmi ošklivému
+
+   <script
+   dokument.write ("Hello World!"):
+   </script>
+
+   a
+
+   public class Helloworld {
+   public static
+   System.out.printl ("Hello
+   World!");
+   }
+   }
+
+   ???
+
+   Dotaz c.4: Podle čeho dalšího vybírat mimo syntaxe? Jde mi o aplikace
+   např. JavaScript a PHP je vhodné pro web developera, který může pracovat
+   na WordPressu, ale co třeba Pythonak? A znamená to, že konkrétní jazyk
+   byl vyvije pro konkrétní aplikaci? Třeba Java na hry na Androidu, Swift
+   na hry na iOS a i když třeba Java umí psát i webové aplikace bude tam
+   pomalá?
+
+   Dotaz c.5: Jak a k čemu jsou deklarativni značkovací jazyky (u HTML je
+   jasné) jako TeX, logické jako Prolog nebo funkcionalni jako Haskell a
+   další? Co mi může jejich znalost přinést oproti imperativnim?
+    Vylitý géniu [Muž]25  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+29.06.2017 08:31:18
+Zkus fotografování to není tak náročné na myšlení
+[Smajlík]      [Muž]65 [Kategorie]
+ _S_v_a_t_ý_ _k_a_z_a_t_e_l
+29.06.2017 07:17:25
+jazyk symbolických instrukci neboli assembler je interpretace strojového kódu
+a mimo stroják je považován za nižší. C a pascal (ale o tom se mluví s
+opovržením) se dávají do této množiny díky tomu že jsou velice blízko
+hardwaru.
+
+Dalo by se říct že vyšší jazyk je každý který funguje jinak než jak je
+konstruován počítač.
+
+z hello worldu nepoznáš nic.
+
+Nemá smysl vybírat takto jazyk. polož si otázku čím se chceš zabývat psaní
+aplikací na serveru ? na desktopu ? web ? vědecké výpočty ?
+
+podle toho si zvol první jazyk.
+
+Python podle mne je dobrá volba.
+ jmenos
+29.06.2017 02:17:28
+Zkratka kazdy programovaci jazyk je pouze nastroj, ktery se hodi pro urcity
+typ uloh. Nektere jsou dobre pro slozite vypocty (treba prave Haskell),
+nektere pro tahani dat z tabulek (sql), nektere pro webovy fronend (treba
+python nebo java), nektere pro psani driveru (c, assembler), jine pro
+vyhodnoceni statistickych dat (R, matlab, python pandas) Zalezi co chces
+resit. BTW stejna situace plati pri vyberu operacniho systemu. Ucel musi
+svetit prostredky ;)
+[Smajlík]
+ Psoug
+29.06.2017 02:02:57
+1) cecko patri nekam mezi nizsi a vyssi pl.
+2) To ovsem neni zcela pravda. Pokud napriklad potrebujes naprogramovat
+bootloader bez assembleru se pravdepodbne neobejdes. Je dnes boom IoT a hadej
+v cem se programuji nektere mikrokontrolery. Jasne v assembleru.
+
+Co se tyka C tak: Protoze ciste C je spise nizkourovnovy jazyk jeho preklad do
+strojaku je vysoce efektivni. Uz cca pred 20 lety jsem cet srovnani prekladu
+djgpp, gcc na unixu, watcom c a idealni assembler zapis a gcc se assembleru v
+nekterych pripadech shodovalo. Zapominas na jednu dulezitou vec, ktera je
+velmi dulezita pro pochopeni popularity unixu. Ceckovy program na unixu, pokud
+je dobre napsany, je velmi rychly a PORTABILNI. Je burt jestli ho pustis na
+domacim pecku na linuxu a nebo na nabusene aixove ibm p770 . Bude se chovat
+stejne.
+
+3) chybne polozeny dotaz
+4) Samozrejme podle ucelu kodu. Napriklad driver pro novou konvergovanou
+sitovku pro linuxove jadro budes tezko psat v php ale urcite si zvolis ciste
+C, ve kterem bys naopak tezko psal kompletni trivrstvou web aplikaci. Co se
+tyka pythonu pak samozrejme existuji frameworky podobne wordpressu, napriklad
+velmi popularni django.
+
+5) TeX se pouziva pro sazbu knih. Kdysi davno jsem pouzival LaTeX (coz je
+nadstavba texu doplnena o uzitecna makra). Driv kdyz pocitace byly pomale se
+knizka psala napriklad ve wordu dost blbe, protoze rozhrani bylo pomale a word
+mel mizernou typografickou kontrolu, text v knize musi nejak vypadat, je o tom
+cela veda zvana typografie. Nevim jak je to treba s wordem dnes ale co vim
+bezpecne tak TeX se pro sazbu pouziva stale.
+
+Haskell je typicky predstavitel funkcionalniho jazyku a ac mam z nej i zkousku
+na vejsce pamatuju si prd ;). Znalost nebo prehled techto programovacich
+paradigmat ti prinese jednak lepsi vseobecny rozhled a jednak ti to umozni se
+na nektere problemy podivat z jinych uhlu. Pokud se pak v praxi setkas
+napriklad s problemem ktery bude vyzadovat nejake slozite vypocty budes vedet
+z mozna by nebylo od veci ho zkusit vyresit v Haskellu. A ver mi obcas se
+setkas s problemem ktery se imperativnimi jazyky resi blbe.
+ Psoug
+29.06.2017 00:33:13
+_h_t_t_p_:_/_/_w_w_w_._b_e_s_t_p_r_o_g_r_a_m_m_i_n_g_l_a_n_g_u_a_g_e_f_o_r_._m_e_/_ asi pomůže. Nečetl jsem všechno ale
+pak si to chci přečíst, protože mě to taky zajímá. :)
+ _X_i_k_ _r_e_a_l [Muž]28 [Kategorie]
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+

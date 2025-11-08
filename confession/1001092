@@ -1,0 +1,154 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+Zpověď č.1001092, vloženo 23.05.2017 15: _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+15:00                                    _s_t_r_á_n_k_a_]
+Viry
+Dobrý den,
+mám problém s počítačem. Vyskakuje mi zde Calling (číslo) vir. Vím že volat je
+blbost. Zkusila jsem vyčistit internetový prohlížeč i odstranit některé
+nainstalované a stáhlé soubory ve kterých by to mohlo být. Zablokovalo mi to
+antiviurus. A mé pokusy o nainstalování nového a vyčistění virů z počítače je
+tím pádem nemožné. Nemám peníze. Takže jestli někdo má nějakou radu nebo
+vyřešil zadarmo podobný nebo stejný problém byla bych ráda.
+ Anonym E-MAIL: _k_o_c_k_o_d_l_a_c_i_c_e_7_@_p_o_s_t_._c_z  [Žena]22  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+24.05.2017 07:18:09
+Gymplak je přesně typ blba, který dává rady úplně na hovno.
+
+Moje rada je jednodušší. Zálohuj fotky a pak přeinstaluj Windows. To zvládneš
+i ty. Není na tom nic těžkého.
+[Smajlík]
+ Macek
+23.05.2017 20:33:24
+Vyzkoušel správnou kategorii, tam se můžeš zeptat.
+ _V_e_g_a_s [Muž]28 [Kategorie]
+23.05.2017 19:15:00
+Gymplák: celkem fajn pops, jenže pro tazatelku by bylo jednodušší napsat na
+viry nemyslíš?
+ _*_h_m_m_m_m_* [Muž]46 [Kategorie]
+23.05.2017 18:20:03
+Můj postup by byl teda následující:
+1) Na jiném PC vytvoříš ESET live CD, protože skenování bude mít nejlepší
+výsledky, když systém na zavirovaném PC neběží. Malware se nemůže tak dobře
+maskovat (hooking DLL či co to dělá).
+2) Zavirovaný PC nabootuješ z toho CD, aktualizuješ si databázi antiviru a
+pročistíš to.
+3) Zavirovaný PC zapneš a zkusíš, jestli je infekce alespoň trochu potlačena,
+nikdy nevyskakují infikovaná okna a procesy nezabírají čas CPU jen tak
+(malware, těžba bitcoinu na pozadí, ...).
+4) Obstaráš si externí HDD. Pokud byl někdy připojen k tomu zavirovanému PC,
+tak je v karanténě, nemůžeš věřit, že na něm není svinstvo.
+5) Nejlepší by bylo nabootovat zase live CD, nejlíp s Linuxem, ale asi může
+být i to od ESETu a zálohovat soubory na HDD. HDD radši ještě jednou
+proskenovat.
+6) Na jiném PC (z kroku 1) si vypálíš instalačku Windows, nebo si to dáš
+pomocí utility Rufus na flashku.
+7) zavirovaný PC z ní nabootuješ a v rámci instalace Windows smažeš všechny
+oddíly.
+ Gymplák
+23.05.2017 18:09:37
+Teď čtu ještě komentář Finreira, že by předtím zálohováním pročesal PC, jestli
+se v nějakém zálohovaném souboru neskrývá malware. V podstatě jsem pro, jen
+bych doporučil, už jak jsem psal proskenovat to PC když není OS spuštěný, tedy
+nabootovat liveCD. Jo potřebuješ někoho zkušenějšího, kdo to trochu umí.
+Zavšivený komp už jsem neměl dlouho (respektive nezdá se, že ho mám, z
+bankovních účtů nic nemizí :) ), myslím, že žádný viry na PC nemám, ale expert
+je vždycky skeptický, zvlášť v otázkách bezpečnosti. Tak si nemyslím, že ty
+zálohované soubory budou obsahovat malware, záleží co zálohuješ a jak moc máš
+zavšivený PC. Pokud jen JPG obrázky a třeba binární data (uložené pozice v
+hrách a tak), tak je malá šance, že ten vir přidá něco k těmto souborům, pokud
+to není nějaký ransomware. U rar archívů stažených z netu to bude horší, je
+velké riziko, že obsahují svinstvo. Takže zálohuj jen fotky a nezbytná data,
+nezapomeň na přístupové soubory k e-bankingu, např. do Komerční Banky.
+
+Až to budeš kopírovat zpátky na přeinstalovaný komp, tak k té záloze přistupuj
+jako k potencionálně nakažené, takže ten přeinstalovaný komp musí mít dobrý AV
+a všechny updaty. Chce to všeobecně zkušenosti a dobrý úsudek, co z toho
+zavirovaného kompu extrahovat, ať si nezasviníš ten nový, proto říkám, nech si
+od někoho pomoct..
+ Gymplák
+23.05.2017 17:56:18
+Asi bys to mohla vyčistit, ale kdoví, jakej nepořádek se ti tam dostal.
+Některé rootkity už ze systému nedostaneš, proto je nejlepší volba spustit PC
+v nouzovém režimu a pozálohovat soubory (pokud počítač najde flashku/externí
+disk, doufám, že jo). Jinak pozálohovat normálně, radši s odpojeným netem. No
+a pak přeinstalovat, tj. smazat všechny oddíly na disku a nainstalovat znova,
+obojí na základní úrovni zvládne i laik (při instalaci Windows je možno ty
+oddíly lehce zformátovat).
+
+Alternativa by byla v odstarání nějakého dobrého antiviru ve spustitelné
+verzi, třeba ESET (live CD) a nabootovat tohle CD a proskenovat a doufat.
+ Gymplák
+23.05.2017 17:34:36
+Možná ještě ATF
+ _*_h_m_m_m_m_* [Muž]46 [Kategorie]
+23.05.2017 17:27:40
+Neklepší antivvir je mozek :D Většinou to jde srovvnat s ADw i mbamem pokud to
+je více zasrane tak log z HJT dej na viry.cz
+ _*_h_m_m_m_m_* [Muž]46 [Kategorie]
+23.05.2017 15:55:59
+Zkoušela jsi online scaner od Esetu? MBAM je taky super program, já ho
+používám k antiviru. Je dobrý, že se sebou vzájemně "nebojují", takže
+nezpomalují PC. :) Přeinstalování celýho operačního systému je pro mě až
+poslední možnost, a to jsem to už dělala několikrát, bohužel. Teď si dávám
+větší pozor, kam lezu a co stahuju.
+ _S_l_e_č_n_a_ _z_e_ _z_á_h_r_o_b_í [Žena]28 [Kategorie]
+23.05.2017 15:52:50
+Svatá celebrita: No, zálohovat data a programy je sice hezká věc, jenže třeba
+zrovna tyhle části jsou zavirované. Prvně je nutné odvirovat, pak až řešit
+zálohy.
+
+Doporučuji schrastit někoho na osobní návštěvu, tohle se dost blbě řeší na
+dálku a ty s tím asi sama nehneš ani s návodem.
+
+MBAM je obecně asi top na malware.
+ _F_i_n_r_e_i_r [Muž]42 [Kategorie]
+23.05.2017 15:42:19
+Vyzkoušej Adwcleaner a MBAM.
+ NH3E
+23.05.2017 15:33:28
+Zálohuj data a programy, přeinstaluj operační systém, pokud to nezvládneš
+požádej někoho ve svém okolí o pomoc, většinou muži co studují to zvládnou.
+[Smajlík]        [Žena]25 [Kategorie]
+ _S_v_a_t_á_ _c_e_l_e_b_r_i_t_a
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+

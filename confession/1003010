@@ -1,0 +1,170 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+   Otázky - Vzkazy č.1003010, vloženo _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+   05.06.2017 14:16:57                _s_t_r_á_n_k_a_]
+   Potřebuje programátor vyšší matematiku?
+   Dnes jsem po delší době vyrazil do města a koupil jsem si něco malého k
+   četbě. V podstatě velmi stručnou populárně naučnou knihu historie
+   matematiky. Když jsem listoval od Leibnitze, přes Babbageho a Boolea,
+   kteří položili základy počítačů napadlo mě jestli musí programátor
+   rozumět vyšší matematice? Když jsem viděl nějaké syntaxe (zatím jsem se
+   moc nedostal dal přes kódování), přišlo mi že je tam vždy funkce schovaná
+   pod textem, takže mám z toho laicky pocit, že programování je jen
+   slovníček s nastavením parametrů v závorkách. I když asi zalezí co
+   programuje, takže trochu lepší formulace musí programátor vždy
+   bezpodmínečně rozumět vyšší matematice popřípadě kdy a na co ne a kdy a
+   na co ano?
+    Vylitý géniu [Muž]25  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+05.06.2017 22:43:57
+Například úplně debilní příklad, který by mi nevzal kompilátor, ale v podstatě
+mám "headphone" objekt sluchátko od mikrofonu, pak nějakou funkci value="x" a
+nějakou její hodnotu. Nikde nevidím, že bych musel v dvojkove soustavě
+vysvětlovat pc matematicky podstatu?
+[Smajlík]
+ Vylitý géniu
+05.06.2017 22:30:45
+Pex: To nebyly dotazy. :) Ale v praxi programátor používá dnes překladače a
+knihovnu, takže ten zápis co má na papíře nemusí zapisovat matematicky a místo
+toho použije už předem definovány kód pod slovy a dává mu často pouze definici
+hodnot, ne?
+ Vylitý géniu
+05.06.2017 22:02:04
+Všechny dotazy jsem úplně nepochopil, ale v obecné rovině je to tak, že to
+dokážeš spočítat na papíře, jenom to převedeš do počítače.
+
+Pro 3D samořejmě platí, že nemůžeš sledovat atomy, protože na to nemáš
+výpočetní výkon a tedy 3D scéna je nějaká aproximace, založená na tom, že
+display má omezený počet bodů a nemusíš se tedy zabývat detaily, které by
+nebyly rozlišitelné na obrazovce. Kolize také neřešíš na reálných tvarech, ale
+ideálně převedeš všechno na koule, kvádry a přímky, atd.
+ pex
+05.06.2017 21:29:56
+Pex: Docházím k myšlence, že "Bůh je matematik", jen stále nevím jestli
+myšlenková liniie je správná nebo působí na kognitivní schopnosti alkohol...
+ Vylitý géniu
+05.06.2017 21:26:51
+Pex: Možná si nechám zdát o Gaussovi a jeho pochopení, že svět není 3D. Pak
+bych mohl přes složité simulace na základě údajů definovat naší realitu. V
+podstatě kdybych popsal vazbu prvků, tak bych pochopil naše složení z
+hvězdného prachu..
+ Vylitý géniu
+05.06.2017 21:22:09
+Pex: V podstatě to pak znamená, že u složitější objektů v 3D hrách by stačilo
+pouze definovat lom světla a vrstvy, kterým by se jednotlivé 3D objekty
+definovali...pak bych ale narazil na problém fyzikálních výpočtu a CPU, kde
+bych jednak nedokázal reálně popsat svět jakožto interakci všech atomům a
+jednak mě omezuje hardware..jdu spát (možná) už mám prepito..
+ Vylitý géniu
+05.06.2017 21:09:22
+Pex: Počkej, tedy když píši v programovacím jazyce funkce, tak je matematicky
+překladačem z binarniho kódu převedeno (pomocí CPU) na vyjádření slovem v aj
+například value + [hodnoty] udávajíci třeba hodnotu hlasitosti reproduktorů?
+Jsem ještě po dvou flaskach nebo jsem vylitej pochopil podstatu programování?
+ Vylitý géniu
+05.06.2017 21:00:58
+Pex: Tedy v podstatě mohu opravdu programovat na papíře. Tedy co dokáži popsat
+matematicky na papíře dokáží vždy i v pc? Je to tedy v určitém smyslu podobné
+jako když koduji rám v CSS, který má X x X px. Takže když si dokáží představit
+kostickovany sešit ve Full HD t 1920x 1080 kostiček na papíře (i když takový
+papír nemám), tak když si představím 30 papírů za sebou měnící pozice na
+souřadnicích x, y, z tak už mohu popsat renderovany film (vlastně mi stačí 24
+snímků /s). To by bylo pak moc jednoduché. Ale jasně bude tam desitkova
+soustava převedena na dvojkovou a to celé překladačem na syntaxe? Jdu na to
+správně?
+ Vylitý géniu
+05.06.2017 20:34:53
+Vylitý géniu: Webové aplikace jsou další skupinou, ale i ty jsou mezi sebou
+rozdílné. Podle mě se to nedá nějak generalizovat.
+
+Musíš být schopen dělat všechny výpočty, které daná aplikace potřebuje. Pokud
+dokážeš výpočty provést na papír, tak je dokážeš naprogramovat. Pokud budeš
+psát účetní systém, tak všechno, co se tam bude dít musíš umět vypočítat.
+Pokud budeš psát 3D hru, tak všechno, co se tam bude dí musíš umět vypočítat
+(například kolize těles, průniky atd.), pokud budeš proogramovat fyzikální
+simulaci, tak musíš umět spočítat pohyb každého bodu atd.
+
+Pokud nevíš, co pro danou úlohu vůbec potřebuješ, tak nemáš rozhodně dost
+znalostí, abys ji programoval.
+ pex
+05.06.2017 20:08:56
+Pex: Mnoho vývojářů webových projektů nic z toho neovládá. Každopádně můžeš mi
+jako IT profesionál nastínit rámce možnosti a limity, které jsou pro
+jednotlivé formy této lidské činnosti typické?
+Například je rozdíl vytvářet 2D hru v Game makeru a to i když si ji popisi sám
+nebo 3D hru na vlastním engine. Nebo je rozdílné vytvořit převodník měn a
+vlastní kryptoměnu.
+Pak tu máme mimo úrovně i jednotlivé programovací jazyky vhodné pro jednotlivé
+aplikace (např.php - pro menší až střední webové projekty viz.zde). Má otázka
+směřuje na příklady vhodné syntaxe (programovacího jazyka) + příklad low-end
+až hig-end znalosti matematiky tj.abstraktni entity jejíž znalost problém
+představuje. Tedy velmi zjednodušeně pro představu matematické úrovně pro
+jednotlivé aplikace..
+ Vylitý géniu
+05.06.2017 19:53:07
+Programování je strašně obecný termín. Můžeš si ho srovnat třeba s umělcem.
+Někteří píšou, jiní malují, někteří dělají sochy, jiní skládají hudbu atd. S
+programováním je to podobné a potřebné znalosti jsou přímo závislé na tom, co
+programuješ. Jestli programuješ 3D, tak musíš ovládat práci v s prostorovými
+souřadnicemi a patřičné výpočty, jestli umělou inteligenci, tak neuronové
+sítě, atd.
+ pex
+05.06.2017 16:34:08
+Záleží co programujou. Obecně je důležitější logika a schopnost algoritmizace.
+ _M_S_-_f_a_n_o_u_s_e_k [Muž]50 [Kategorie]
+05.06.2017 15:20:25
+Jde o to, co si představuješ pod pojmem "programátor". Jsou programátoři, co
+se bez vyšší matematiky neobejdou. A taky jsou programátoři, kteří si v
+podstatě za celou praxi vystačí se znalostmi ze základní, maximálně ze střední
+školy. Je tolik různých věcí, co se dá naklofat do počítadla, od jednoduchých
+hříček po komplexní simulace vlivu plivání žížal na zemskou rotaci.
+[Smajlík]
+ Adray2
+05.06.2017 14:30:36
+Jde o to, co si představuješ pod pojmem "vyšší matematika". Asi jsou aplikace
+co se bez vyšší matematiky obejdou. Případně programátorovi někdo připraví
+zadání a programátor akorát musí vědět, jak ty vzorce co má před sebou
+naklofat do počitadla.
+[Smajlík]
+ Yarda1
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+
