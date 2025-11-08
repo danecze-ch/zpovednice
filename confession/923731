@@ -1,0 +1,184 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+   Otázky - Vzkazy č.923731, vloženo _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+   15.02.2016 16:00:07               _s_t_r_á_n_k_a_]
+   Hledá se PHP nováček
+   Ahoj, rád bych našel nějakého nováčka v oboru programování PHP, MySQL a
+   webdesign. Mám v plánu obnovit svůj starší projekt - e-shop s míchanými
+   čaji. Uvítal bych ale nějakou spolupráci. A proč hledám tady? No protože
+   jen tady jsou tak skvělí trollové se smyslem pro humor. ;-)
+    Tvá přezdívka E-MAIL: _t_v_u_j_@_e_m_a_i_l_._c_c  [Muž]19  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+16.02.2016 01:17:18
+zeleny caj.: Nepřeháním, čestné pionýrské:) Vím minimálně o třech případech
+ _F_u_n_n_y_e_y_e_s [Žena]88 [Kategorie]
+16.02.2016 00:59:21
+Zase neprehanej, hesla v plaintextu snad uz nikdo nepouziva(ze si to blbec
+napise na nalepku na monitoru nepocitam). MD5 uz by se sice na hesla nemel
+pouzivat ale definitivne prolomeny neni. K tomu "dostani" se do databaze,
+prave az clovek zacne resit ruzne XSS a podobne tak si teprve uvedomi rozsah
+te problematiky. Treba ze do databaze se chodi jenom z localhostu. A na to
+musi byt spravne napsana aplikace.
+ zeleny caj.
+16.02.2016 00:37:36
+zeleny caj.: Tak třeba zrovna bezpečnost je velká díra i v komerčních
+řešeních, neplatí, že když si něco koupíš, bude to zbezpečené. Když jen tak
+mezi řečí s kamarády (povětšinou web developery v různých firmách) probíráme,
+kde všude mají hesla uložená v plaintextu, anebo nanejvýš hashované MD5,
+polívá mne hrůza, protože pokud kašlou na tohle, nebude až takový problém se
+do té databáze dostat (to jsem i zkoušela, u několika řešení se to povedlo tak
+do hodiny. Smutné).
+
+Účetnictví mne napadlo jako první věc, která je hodně na ráně, ono to
+zezačátku vypadá fajn, udělat si na koleni e-shop, ne každému ale dojde co je
+s tím spojeno za papírování, když se to fakt povede a e-shop vydělává.
+
+Tak nebo tak, zakladateli, vidíš, že v tomhle jsme zajedno, chápu Tvůj sen a
+neochotu projekt opustit, každopádně jak už bylo řečeno, jsou schůdnější a
+bezpečnější cesty, kterými se můžeš vydat. Pokud máš podklady a nápad, i u
+placených řešení se dá vyjednat úprava na míru, teď docela frčí agilní vývoj
+(vyvíjí se přímo na přání klienta, který je v celém procesu integrován,
+ukazují se mu menší kousky už vyvinuté práce, je zde pružnější reakce v
+případě, že jsou potřeba změny v původním zadání), takže myslím, že by toto
+pro tebe bylo nejlepší řešení.
+Tak nebo tak, u e-shopu si pouze kupuješ licenci, ne zdrojové kódy, nemáš tedy
+k nim přístup, ani do db přístup mít nebudeš (zaprvé bys mohl vidět prasárny,
+zadruhé bys to mohl měnit za chodu a pak třeba zkoušet reklamovat), což pro
+Tebe bude asi svazující...
+ _F_u_n_n_y_e_y_e_s [Žena]88 [Kategorie]
+15.02.2016 22:03:30
+Myslim ze vyvoj systemu pro eshop je prace na hodne dlouho a pro nekolik lidi,
+Funnyeyes zminila problem s ucetnictvim na ktery urcite narazis, ale treba
+jenom zabezpeceni eshopu je prace docela narocna, aby ti to nekdo nerozhodil
+par dnu potom co to zapnes. Mam za sebou par ucelovych redakcnich systemu pro
+weby na ktere se nedal pouzit wordpress ale na eshop bych si netroufl.
+Kazdopadne preju hodne stesti.
+ zeleny caj.
+15.02.2016 21:34:59
+Tvá přezdívka: S tou administrativou- jak máš vyřešené faktury (a z toho
+podklady pro daňové přiznání, kontrolní hlášení a další srandy, co finančák
+vymýšlí)? Už to dá bez automatizace docela práci, plus optimalizovat projekt
+aspoň pro IE, FF a Chrome, konstantně udržovat, aby se náhodou něco
+nepodělalo, ona to opravdu časově není taková hitparáda, jak si to maluješ
+[Smajlík]  [Žena]88 [Kategorie]
+ _F_u_n_n_y_e_y_e_s
+15.02.2016 20:33:46
+Zelený čaj: žádná šablona mi nenabízí funkci, na které celý ten e-shop bude
+založen. Je to jako použít u přijímaček tužku místo propisky, protože přece
+taky píše (pointa je v tom, že propiska nejde smazat, ne v tom, že umí taky
+psát). Správa tho shopu vážně nebude náročná, ani finančně, ale co, tady asi
+nikoho nenajdu. :D
+
+Hrozná svině: Ne, nemám to ani zdaleka hotové. A samotnému se mi do toho zase
+tolik nechce. ;-)
+ Tvá přezdívka
+15.02.2016 19:26:57
+Nechapu proc pises eshop kdyz je hromada hotovych reseni. Udelej sablonu,
+nainstaluj prestashop nebo neco podobneho a venuj se provozu eshopu.
+ zeleny caj.
+15.02.2016 19:12:49
+Máš v tom prakticky celkově jasno, skoro celé to máš až na detaily hotové, ale
+sháníš společníha, a to na Zpovědnici? No tak to jo!
+ hrozná svině
+15.02.2016 19:00:36
+Tvá přezdívka: O firmě jsem nikde nenapsala ani slovo:)
+Každopádně do podnikání s cizím člověkem se asi nikomu moc chtít nebude,
+většinou už programátoři buď mají práci a volnočasové aktivity, anebo nějaké
+své vlastní projekty rozjeté bokem.
+To, co popisuješ Ty podle mne sežere spoustu času (tedy ve chvíli, kdy se
+rozjedou objednávky a bude potřeba přilákat zákazníky, odbavovat objednávky,
+řešit dodavatele...) a časem se minimálně bez nějakého solidního IS neobejdeš,
+což je opět administrativa navíc + úpravy e-shopu, aby tekla potřebná data
+přímo do IS.
+
+Dělala jsem ve firmě, která e-shopy programovala, v mé současné firmě je taky
+e-shopová divize a většina klientů má e-shop jako full-time práci. A do
+takového závazku s kompletně cizím člověkem málokdo půjde
+[Smajlík]  [Žena]88 [Kategorie]
+ _F_u_n_n_y_e_y_e_s
+15.02.2016 18:22:17
+Funnyeyes - mám prakticky vypracovaný celý koncept, včetně tipů na zdroje
+surovin, právní řešení i konkrétní představa webu s funkcionálním rozvržením
+na papíře. Web jsem začal dělat jako učební pokus, po pár tisících řádcích
+kódu jsem přestal. Teď bych se k němu vrátil. Spíše hledám někoho, kdo by do
+toho šel se mnou. Celé to dokážu i sám, jen se mi to nechce moc táhnout
+samotnému.
+
+Ne, nesháním firmu, co mi naprogramuje web. Sháním člověka, co by měl zájem se
+zapojit do celého projektu (kdyby šlo o podnikání, asi by se řeklo, že sháním
+spoluzakladatele firmy).
+ Tvá přezdívka
+15.02.2016 18:03:46
+A požaduješ hlavně loajalitu, co? O placení nemluvě. Budeš si muset web udělat
+sám.
+ taky běžný člověk
+15.02.2016 17:53:52
+Jo, míchanejma čajema to začíná a perníčkem končí co? Tůdle nůdle.
+ běžný člověk
+15.02.2016 17:46:52
+Svůj příspěvek jsi vložil(a) do nespravné kategorie. Bylo provedeno přesunutí.
+V případě opakování hrozí blokování vstupu na portál. Prosím zvol příště
+správnou kategorii. Děkujeme za pochopení.
+[Smajlík]      [Muž] [Kategorie]
+ _A_d_m_i_n_i_s_t_r_á_t_o_r
+15.02.2016 16:28:27
+Jak si to představuješ? Máš nějkou free šablonu, kterou chceš upravit, anebo
+chceš od základu vše nanovo? nebo už máš projkt v nějakém stavu a hledáš
+někoho, kdo by to dokončil?
+
+Co design, máš návrhy, jasnou vizi, anebo ještě váháš a chceš vypracovat
+návrh? Co responzivní design, ano/ne?
+
+Jak to máš vymyšlené s hostingem?
+
+Sama v PHP nedělám, ale znám dost šikovných lidí, co jsou títmo směrem
+orientovaní. Jen si nench dohodit nějakého břídila za pár korun, pak těžce
+spláčeš nad výsledky
+ _F_u_n_n_y_e_y_e_s [Žena]88 [Kategorie]
+15.02.2016 16:04:27
+Zkus majitele zp. .)))))
+
+
+tak a zas budu mít banán navíc :-D
+ 1odMattela.
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+
