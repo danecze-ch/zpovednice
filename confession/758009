@@ -1,0 +1,192 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+   Otázky - Vzkazy č.758009, vloženo _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+   13.10.2013 18:09:49               _s_t_r_á_n_k_a_]
+   PC problém
+   Ahojte,
+
+   mám taký problém, že som si v Telekome zobral mobilný net, konkrétne usb
+   - HUAWEI 3131 a keď ho dám do NB (mám macbook, verzia 10.5.8), tak mi
+   ukáže hore ikonku taký telefónik a vôbec ma nechce pripojiť, wifi mi
+   normálne ide, s ničím som nemal problém... aj po zadaní hesla mi vôbec
+   nechce spojenie zapnúť. Robím niečo zle?
+   Viem, že sa tu niekto rozumie do PC, tak vás žiadam o pomoc.
+
+   Ďakujem vopred.
+    Marek65 [Muž]19  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+16.10.2013 19:04:29
+Aaaah. :((((
+
+Tak to je len toľko, že tento modem v sebe obsahuje niečo, ako virtuálnu CD
+mechaniku, na ktorej sa nachádzajú programy pre Windows. Aj si všimni, že TMCC
+má pred sebou ikonu CDčka.
+
+Teda kebyže máš Windows, potom sa po zasunutí modemu medzi diskovými
+jednotkami objaví nová CD mechanika, povedzme s písmenom F: a na nej sú
+programy, ktoré si môžu vlastníci Windows nainštalovať a tým spojazdniť modem.
+
+
+Avšak toto sa Teba netýka. :(
+
+Ty by si mal nájsť nejaké konfiguračné centrum sietí, kde by mal nový modem
+figurovať ako zariadenie, poprípade si prečítať nejaký návod na použitie, ako
+to vo svojom systéme rozbehať. Na toto TMCC úúúplne zabudni, tadiaľto cesta
+nevedie. Vôbec. :((
+[Smajlík] [Muž]96 [Kategorie]
+ _r_a_m_e_n
+16.10.2013 18:54:19
+Ramen - ďakujem za príspevok, pobavil ma. :)
+
+Posielam ti jeden screen: _h_t_t_p_:_/_/_i_4_3_._t_i_n_y_p_i_c_._c_o_m_/_d_h_e_a_u_e_._j_p_g_ 
+
+keď dám do NB spomínaný USB huawei3131, tak mi nabehne ikonka TTMC a po
+rozkliknutí mi nabehne táto tabuľka, pričom keď kliknem na prvú ikonku musím
+si vybrať aplikáciu, cez ktorú ju chcem otvoriť a ďalej ma to už nepustí. To
+je celá veda :)
+[Smajlík]
+ Marek65
+16.10.2013 15:18:27
+Ja sa síce do macov nevyznám (možno tak trocha do tých, čo pobehujú lesom a
+kántria d€bilných poľovníkov, keď sa k macovi svojvoľne moc priblížia :P), ale
+podľa toho popisu by mal OS sám o sebe poznať toto zariadenie a vykonať všetko
+vo vlastnej réžii.
+
+Inštalovanie driverov pod Mac OS totiž je cesta do stratena = NEROBÍ SA. :
+D Iba žeby sme chceli systém dochrámať a potom ho aj s notebookom trepnúť do
+najbližšieho odpadkového kontajnera.... :-S
+Lebo tak, povedzme si úprimne, Apple len vykradol linux, aj to dosť amatérsky
+a vývoj driverov je viac v réžii treťotriednych (third-party) výrobcov
+hardvéru, ako tej pochybnej firmy, čo je len o imidži.
+
+Oooookej, dosť som si nenápadne zanadával na krepý Apple, tak teraz k veci
+troška. :D
+
+A keď klikneš na tú ikonu, čo všetko sa Ti zobrazí? Aké dialógové okno, alebo
+teda aké podrobnosti? Najlepšie by bolo, kebyže niekde postneš screenshot,
+pretože ja osobne by som viac prijal obrazovú dokumentáciu, ako len zbežný
+opis. Však sa aj vraví - "jeden obrázok hodný 1000 slov". A veru, pri Macoch
+99% z tých tisíc slov by boli aj tak nadávky... :-S Pričom toto píšem ako
+hardcore linuxák, teda nie nejaký zaujatý windowsák. ;D To len aby bolo jasno.
+:P
+
+Prosto trocha viac info by sa mi zišlo, ale ešte stále to istí nabehnúť medzi
+Telekomunistov (ups, nejaký ten piatok ich vlastní Deutsche Telekom, tak asi
+by som ich mal nazvať inak, ale to sa neodvážim :D) a popýtať sa ich.
+
+A keď sa pýtaš, či by si spor vyhral, tak s najvyššou pravdepodobnosťou áno.
+Lebo na stránke uvádzajú, že jo, podporuje Mac OS 10.5 ( _h_t_t_p_:_/_/
+_w_w_w_._t_e_l_e_k_o_m_._s_k_/_o_s_o_b_n_e_/_i_n_t_e_r_n_e_t_/_m_o_b_i_l_n_e_-_z_a_r_i_a_d_e_n_i_a_/_h_u_a_w_e_i_/_e_3_1_3_1_ ), službu Ti
+predali a Ty ako zákazník ju nemôžeš využívať, takže pekne povedané Ťa
+oje.......babrali. :P A na takéto veci sa SOI a súdy nepozerajú príliš pekne.
+
+Avšak, ako disclaimer uvádzam, sme na Slovensku = v Banánistáne, takže možno
+by si prehral, musel uhradiť súdne trovy, zaplatiť 100násobok mesačného
+paušálu a ešte i vtedy by Ťa predmetná telekomunikačná firma dala na čiernu
+listinu: "Tomuto nedovoliť volať ani na 112-ku!!!!"
+
+Nech je ako je, držím všetky palečnice, aby sa Ti nejakovsky podarilo modem
+rozbehať! Napokon... bol som nedávno u kamoša a on mal nejaký Huawei s
+pomarančom, a že v prípade potreby, nech si poslúžim. Tak som ho pichol do
+môjho Asus noťasa s linuxom, pevne presvedčený, že budem polhodinu maturovať,
+ako ho rozbehať a zrazu *ding-ding*, a že pripojiť a ani som sa nenazdal a net
+bežal. Poučenie z trápnej story: Zázraky sa ešte dejú! :D
+[Smajlík] [Muž]96 [Kategorie]
+ _r_a_m_e_n
+16.10.2013 14:40:22
+Zájdi do Telekomu.Tam by ti mali poradiť.
+ _c_a_l_i_f_o_r_n_i_a [Žena] [Kategorie]
+14.10.2013 22:48:47
+Svůj příspěvek jsi vložil(a) do nespravné kategorie. Bylo provedeno přesunutí.
+V případě opakování hrozí blokování vstupu na portál. Prosím zvol příště
+správnou kategorii. Děkujeme za pochopení.
+[Smajlík]      [Muž] [Kategorie]
+ _A_d_m_i_n_i_s_t_r_á_t_o_r
+14.10.2013 08:31:14
+Obrať sa na poskytovateľa. Nato sú tam.
+ _B_l_o_o_d_y_ _f_l_o_w_e_r [Žena]31 [Kategorie]
+13.10.2013 21:52:56
+Myslíš, že by som mal šancu vyhrať? :)
+[Smajlík]
+ Marek65
+13.10.2013 21:00:33
+keď ti nevyhovejú, tak mi urob láskavosť a zažaluj ich :)
+[Smajlík] [Muž]66 [Kategorie]
+ _*_C_r_o_n_o_s_*
+13.10.2013 20:08:56
+no ja viem, že robím niečo zle, len neviem čo.. pretože som do toho totálny
+magor...
+pravda je aj tá, že čo si napísal, že Apple má mať príponu .app a tá tam nie
+je, iba .exe myslíš, že mi v telekome poradia alebo ten problém vyriešia?
+[Smajlík]
+ Marek65
+13.10.2013 20:04:24
+tak potom je chyba v mašine, alebo robíš niečo zle...
+[Smajlík] [Muž]66 [Kategorie]
+ _*_C_r_o_n_o_s_*
+13.10.2013 19:48:41
+Cronos - áno, vzadu na škatuľke je napísané, že podporuje mac OS X 10.5, 10.6
+a 10.7.. čiže podľa toho som usúdil, že by mal byť kompatibilný aj s mojou
+verziou..
+ Marek65
+13.10.2013 19:35:28
+Si si vedomý, že Apple nepodporuje Windows programy s príponou ".exe", ale že
+má vlastnú koncovku ".app"? Je to usb vôbec Apple friendly? a ak je, máš
+správnu verziu Mac OS X?
+[Smajlík] [Muž]66 [Kategorie]
+ _*_C_r_o_n_o_s_*
+13.10.2013 19:24:57
+jedno slovo : Apple.....
+ _S_h_e_l_b_y_n_k_o [Muž]21 [Kategorie]
+13.10.2013 18:40:59
+Nie, malo by sputiť automaticky inštaláciu a mne ju nespustí, keď kliknem na
+ikonku ako CD pod názvom "TMCC", tak mi nabhne nabuľka a akonáhle chcem
+kliknúť na to čo mám prepne ma do aplikácií, že si mám jednu vybrať
+prostredníctvom ktorej to spustím :/ som fakt bezradný....
+[Smajlík]
+ Marek65
+13.10.2013 18:22:41
+a návod k tomu nedali?
+[Smajlík] [Muž]66 [Kategorie]
+ _*_C_r_o_n_o_s_*
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+

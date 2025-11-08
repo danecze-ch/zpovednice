@@ -1,0 +1,145 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+   Otázky - Vzkazy č.758148, vloženo _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+   14.10.2013 13:22:07               _s_t_r_á_n_k_a_]
+   Toto bude asi pre Ramena
+   Takže poďme načrieť trochu do linuxu :D
+
+   Ide o nasledovné, robím si web stránku cez joomlu, ale vyskytli sa mi
+   dáke problémy, ktoré sú momentálne v riešení u mojho providera...
+
+   (po inštalácií nových rozšírení joomla nastavuje týmto novým priečinkom
+   vlastnícstvo na 48 48 čím mi zakáže ich akokoľvek editovať a tým pádom
+   som v loji :D)
+
+   rieši to ten môj provider, no tiež si nad tým láme hlavu, že prečo sa
+   tak chová....
+   medzitým ešte čakám na vyjadrenie joomla supportu, či nevedia viac než
+   tuto my :D
+
+   No ale iné som chcel..
+
+   Aby som predišiel takýmto problémom, asi je fajn najskôr pracovať v
+   LAMPe a až potom to vlastne nahodiť na server, nie?
+
+   LAMP mám nahodený, aj joomlu nainštalovanú aj všetko na localhoste
+   krásne šlape, ale mám trochu bordel v tom uploadovaní na server, pretože
+   nie som si istý, čo na to povedia nastavenia mysql, configuration.php a
+   pod.. keďže ja mám v pc vytvorené iné databázy, vlastný server a proste
+   všetko..
+
+   našiel som na nete nejaké postupy ako na to, ale iba na dopotený
+   makintoš, čo mi je prd platne predpokladám..
+
+   takže otázka znie, poznáme nejaký komplexný článok, ktorý sa zaoberá
+   touto problematikou prepojenia LAMP vs. server? alebo samozrejme ak sa
+   ti chce to tu rozpisovať a poznáš nejaký bezpečný spôsob ako toto
+   naladiť, sem s ním :)
+    _J_a_k_u_b_ _s_p_o_d_ _M_a_n_í_n_a E-MAIL:_[_g_r_a_f_i_k_a_/_m_r_e_f_h_i_._g_i_f_]   [Muž]27 
+                      [Kategorie]  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+14.10.2013 20:56:29
+"Aby som predišiel takýmto problémom, asi je fajn najskôr pracovať v LAMPe a
+až potom to vlastne nahodiť na server, nie?"
+
+PS: Ak sa pýtaš na pripravenie aaabsolútne komplet vecí v LAMP, akože aj
+všetky updates pre Joomlu a aj DB update a všeeeetko a potom to prekopírovať
+na live stránku, tak samozrejme by to riešilo isté problémy. Lebo tu ide o
+spojazdnenie živej verzie u seba, otestovanie jej funkčnosti a potom iba
+nahodenie na "production" server. :) Takýto testing samozrejme schvaľujem, ale
+stále je tu problém najsamhlavnejší - provider a práva na adresároch. :-S
+
+"LAMP mám nahodený, aj joomlu nainštalovanú aj všetko na localhoste krásne
+šlape, ale mám trochu bordel v tom uploadovaní na server, pretože nie som si
+istý, čo na to povedia nastavenia mysql, configuration.php a pod.. keďže ja
+mám v pc vytvorené iné databázy, vlastný server a proste všetko.."
+
+Základné pravidlo: Ak na hocaký server dáš rovnaký kód, mal by zbehnúť
+rovnako. Ak kódu podsunieš rovnaké dáta, mali by sa správať rovnako.
+
+Samozrejme, rozdiel bude iba v configuration.php, kde sa špecifikujú
+prístupové údaje na databázu a parametre stránky, ale taktiež neradno zabúdať
+na to, že aplikácie ako Joomla si rady píšu konfiguračné veci ohľadom stránky
+aj do databázy. :-S. Takže u Teba na localhoste môžu byť iné, ako na ostrom
+servri. :-/
+
+Je to ale iba pár tabuliek a dalo by sa dumpnúť iba časť databázy okrem nich a
+blablabla, ale to sú už hardcore detaily. ;)
+[Smajlík] [Muž]96 [Kategorie]
+ _r_a_m_e_n
+14.10.2013 20:23:18
+No čaaaao. :D:D:D
+
+Keďže si ma uviedol rovno v názve odkazu, bolo by odo mňa dosť nempekné sa
+neozvať, že...? :D
+
+Tak... Nie celkom chápem to vlastníctvo 48, či je to ID užívateľa, alebo
+práva. Rozhodne to viac vyzerá na ID užívateľa, pretože v linuxe sú práva v
+osmičkovej sústave a 8 tam neexistuje. Full prístup je 777. :P
+
+Hmmmm, ten Tvoj provider, nie sú to nááááhodou nejakí windowsáci, čo sa hrajú
+na linuxákov? :D Lebo tak nejako mi to z diaľky vyzerá... :-S Ako keby sa
+niekto pokúšal cez IIS a FastCGI poskytovať službu, akože je to "linux+mysql".
+
+
+Nech je ako je, Joomla beží vždy s právami, ako beží WEB server, pokiaľ nie je
+špecifikované inak. Ibaže to "špecifikované inak" musí byť špecifikované
+providermi. :P Teda ak Joomla beží s právami užívateľa "WWW", čo je akože
+webserver, potom aj vytvára všetky súbory s týmto VLASTNÍKOM. Teda ak užívateľ
+WWW má ID=48, potom Joomla beží pod jeho právami a samozrejme vytvára aj
+všetky súbory s jeho oprávneniami, takže Owner bude ID=48. Ty, Jakub, si
+zrejme nejaký FTP užívateľ, ktorý má iné ID a tým pádom Joomla vytvorí súbor
+so svojím ID=48 a Ty, užívateľ s ID povedzme 10025 na daný súbor jednoducho
+nemáš práva. Normálka.
+
+Teda riešením by bolo, aby skripty pod Tvojou virtuálnou doménou zbehli s
+Tvojimi právami.
+
+Ani to LAMPovanie Ti nepomôže, lebo LAMP je niečo, ako pokusy v laboratóriu,
+ale real-life experience je o tom, čo nastavia správcovia servra.
+
+Ale myslím si, že toto je skôr na súkromnú debatu, ako na pretriasanie v
+odkazoch (hlavne ak nechceš robiť zlú reklamu providerovi ;) ). :D
+[Smajlík] [Muž]96 [Kategorie]
+ _r_a_m_e_n
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+
