@@ -1,0 +1,189 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+ Diskuze č.1045260, vloženo 04.03.2018 _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+ 20:05:13                              _s_t_r_á_n_k_a_]
+ Kodérsky problém vracania výdavku
+ Stretol sa niekto z vás už niekedy s problémom "Som cashier, mám zákazníkovi
+ vrátiť výdavok podľa toho aké bankovky a mince mám v kase a koľko, navrhni
+ algoritmus pre výpočet kombinácie peňazí".
+
+
+ Skúšal som niekoľko ciest, všetky narážajú pre konkrétne prípady. NApr. Ak
+ chcem vracať od največších po najmenšie, program nepochopí ako má vrátiť 8,
+ ak mám iba 5-ky a 2-ky.
+
+ Poznáte to? Má úloha vôbec riešenie?
+  Pythonista [Muž]  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+23.04.2025 13:16:30
+Příspěvek porušoval zákony ČR nebo pravidla Zpovědnice - byl odstraněn.
+05.03.2018 08:23:02
+Ciwe - aha, už chápem ako si to chcel povedať....znie to rozumne!
+[Smajlík]
+ Pythonista
+05.03.2018 08:20:12
+Ďakujem všetkým!!!
+
+Idem vaše metódy preskúmat jednu po druhej a testovať. Bude to pár dní trvať,
+takže dovtedy sa vrátim a prípadne doradím alebo aspoň poďakujem zase ;)
+
+
+Ste skvelí!!! :)
+[Smajlík]
+ Pythonista
+05.03.2018 00:12:40
+Dyť to je jenom modifikovaný batoh. Jsi retardovaný nebo co?
+ pex
+05.03.2018 00:06:15
+Pythonista: Nevim, jestli jsi mě správně pochopil. Moje myšlenka byla taková,
+že si ke každý bankovce/minci vytvoříme seznam všech možných kombinací, ze
+kterých je možný ji složit. Potom když např. největší možná bankovka je 5000 a
+my chceme vyměnit částku N, tak nás bude asi zajímat jen výpočet částky N
+modulo 5000. Ale je to jen taková přibližná úvaha, musíš se v tom pohrabat sám
+:)
+
+Druhá možnost je, že skutečně stačí ten backtracking v kombinaci s "hladovým
+algoritmem": začínáš od kombinace těch největších bankovek a postupně tu
+poslední zkoušíš nahradit menšíma a menšíma. Mám totiž podezření, že i zde se
+ten exponenciální výpočet dá nějak oříznout jen na těch posledních 5000.
+Oproti obecnýmu problému batohu má tenhle problém tu výhodnou pravidelnost, že
+typů bankovek je jen omezenej počet a daj se skládat, a to by se mělo využít.
+Sory, že ti neporadim konkrétně a jen tu tak kibicuju...
+
+Nevim, na co to vlastně potřebuješ. Jestli máte jen úkol z rekurzivního
+programování, tak tu optimalizaci moc neřeš. Jestli vám to dal někdo, kdo vás
+chce nachytat na tom, že budete používat exponenciální algoritmus tam, kde to
+jde s polynomiálním, tak bych to radši řešil.
+
+Další možnost studia:
+_h_t_t_p_s_:_/_/_w_w_w_._g_e_e_k_s_f_o_r_g_e_e_k_s_._o_r_g_/_f_i_n_d_-_m_i_n_i_m_u_m_-_n_u_m_b_e_r_-_o_f_-_c_o_i_n_s_-_t_h_a_t_-_m_a_k_e_-_a_-_c_h_a_n_g_e_/
+[Smajlík]
+ Ciwe
+04.03.2018 23:24:51
+Python neznam a s resenim ti asi nepomuzu. Ale sam bych asi pouzival pole a
+modulo.
+ _A_p_h_e_x [Muž]38 [Kategorie]
+04.03.2018 23:15:02
+Možná by ti stačilo postupovat řád po řádu a sledovat si, jaká hodnota ti do
+řádu zasáhla a pak ji postupně eliminovat. Takže ta osmička by vypadala tak,
+že:
+- zkusíš 5 Kč, zůstává 3 akceptuješ a uložíš si do pole [1] použití hodnoty 5
+zasahující do řádku korun
+- zkusíš 2Kč, zůstává ti 1 akceptuješ a uložíš si do pole [2] použití hodnoty
+2 zasahující do řádku korun
+- zkusíš 1 Kč a tu nemáš
+- z pole vyhodíš první index, navýšíš stav výpočtu na (1) + 5 a pokračuješ od
+hodnoty za 5 kou
+- zkusíš 2Kč, zůstává ti 4 ......
+ _M_S_-_f_a_n_o_u_s_e_k [Muž]50 [Kategorie]
+04.03.2018 23:03:08
+Ciwe - to nie je tak od veci riešenie... ale na vytvorenie takého systému by
+to bola obrovská úloha. Aké veľké mombinácie akých súm by si chcel zadať?
+Vypočítalo by to istw rýchlejšie než náhodný algoritmus, ale programovať sa to
+bude strašne dlho... asi.
+ Pythonista
+04.03.2018 21:55:37
+Když už o tom mluvíme... ve skutečnosti by to snad šlo i bez otrockýho
+backtrackingu a možná to ani neni exponenciální. (Nechce se mi namáhat nad tím
+důsledně přemýšlet.) Hodnoty bankovek a mincí se daj dobře skládat, takže by
+stačilo mít nějakej seznam kombinací, čím vším se dá nahradit stovka, čím
+padesátka atd. A zdá se, že s velikostí částky ani nebude složitost výpočtu
+narůstat.
+[Smajlík]
+ Ciwe
+04.03.2018 21:53:56
+Tohle je hlavně blbost vyrábět, protože reálný počet bankovek a mincí různých
+hodnot bude jiný než v počítači (byť jejich celková hodnota může sedět). To
+máš furt různý rozměňování a obdobný operace mimo běžnou transakci a navíc by
+se při každém příjmu peněz muselo zadávat, kolik kterých bankovek bylo. Na
+tohle nemá nikdo čas, ani obsluha, ani zákazníci ve frontě. Takový věci může v
+mžiku řešit bankomat či výdejní automat, nikoliv člověk v součinnosti s
+počítačem.
+
+Pokud děláš něco takového na zakázku, je čas otevřít klientovi oči. Pokud je
+to teoretický úkol do školy, no vlastně reaguj úplně stejně. Nebudeš se učit
+vyrábět něco, co by v praxi nikdy nikdo nepoužíval.
+[Smajlík]
+ vidíš a je to
+04.03.2018 21:37:27
+Vďaka, idem na to :)
+
+MS-fanousek - áno, skúšal, ale ao som spomenul, musel by som vymyslieť šikovne
+prekonbinovanie pre prípady keď mám 2,5,500 a vraciam 8 alebo 508.
+[Smajlík]
+ Pythonista
+04.03.2018 21:32:45
+Tohle zní jako speciální případ pro "Problém batohu" (viz wikipedia). Jinak
+jak bylo zmíněno, řešíš to backtrackingem.
+
+Pokud máš vrátit 8 a k dispozici máš pouze 5 a 2, tak tvůj program bude
+postupně zkoušet odečítat mince. Pokud bude výsledek záporný, zkusíš další
+minci v pořadí. Pokud ti dojdou mince, odstraníš nejvyšší minci a jedeš od
+začátku. Pokud jsi při odtraňování nejvyšších mincí nezbyla žádná, nejsi
+schopen částku vrátit:
+
+8 - 5 = 3, je to ok, protože 3 > 0, můžu pokračovat stejným krokem
+3 - 5 = -2, není to ok, protože -2 < 0, zkusím další minci v pořadí
+3 - 2 = 1, je to ok, zkusím stejný krok
+1 - 2 = -1, jsem v mínusu, další mince v pořadí už není, odstraním tedy minci
+5 a jedu od začátku
+8 - 2 = 6, ok
+6 - 2 = 4, ok
+4 - 2 = 2, ok
+2 - 2 = 0, výsledek je nula, končím
+[Smajlík]
+ Voice From The Past
+04.03.2018 21:30:33
+Obecně řečeno je to NP-úplnej problém, tzv. Problém batohu. Čili musíš zřejmě
+projít všechny kombinace a vyřadit ty, kerý nevyhovujou. Ale je normální a
+optimální to zkoušet od těch největších. Jestli to "program nepochopí", tak je
+to problém programátora ;-) Zkusil bych to přes rekurzivní fci vratPrachy
+(kolik).
+ Ciwe
+04.03.2018 20:59:40
+A zkoušels jít cestou od největších bankovek s omezením na disponibilní počet?
+ _M_S_-_f_a_n_o_u_s_e_k [Muž]50 [Kategorie]
+04.03.2018 20:52:03
+backtracking - podívej se na to a zkus pochopit :), s ním ti to půjde snadno
+ _l_i_b_i_k [Muž]34 [Kategorie]
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+
