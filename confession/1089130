@@ -1,0 +1,124 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+ Diskuze č.1089130, vloženo 26.02.2019 _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+ 14:56:32                              _s_t_r_á_n_k_a_]
+ Za 40000 let bude možné simulovat metr p
+ S tím jak se zvyšuje výkon počítaču se dá jednoduše vypočítat že počítače
+ budou již za 40000 let mít tolik výkonu na simulování metrů prostoru každých
+ deset let to pak bude o tisíc víc... Za milion let by mělo jít o celý vesmír
+ sice stále s občasnými záseky ale i tak dost strašidelné...
+  Bggggtr5354 [Muž]  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+27.02.2019 19:16:54
+Ježek second edition: Jo, tímhle směrem by se to mohlo ubírat. Dnešní počítače
+už také tak trochu předpovídají, ale zatím jenom podmíněné skoky (třeba u if/
+else se začnou provádět všechny větve najednou a až poté se vybere ta správná
+větev). Nebo se také počítá určí, která z větví je pravděpodobnější a spočítá
+se jenom ta. Kupříkladu u cyklů je pravděpodobnější, že podmíněný skok nastane
+(tedy cyklus se bude opakovat), než že nenastane (konec nastane jenom jednou,
+ale cyklus se většinou opakuje víckrát).
+ _V_e_s_m_y_9_7 [Muž]26 [Kategorie]
+27.02.2019 10:01:26
+Když máte po ruce jen kladivo, každý problém vypadá jako hřebík.
+ _S_o_l_o_m_o_n_ _S_h_o_r_t [Muž]40 [Kategorie]
+27.02.2019 09:38:10
+>Vesmy97
+Jsem si vědom toho problému s rozložitelností když některé části na sebe
+navazují, ale on je také dost problém s tím jak vypadá optimalizace úloh pro
+běžné stroje a pro dnešní superpočítače, kde se právě používá masivně-
+praralelní zpracovávání po blocích.
+
+Je docela dobře možné, že jednou bude počet jader tak veliký, že třeba u
+simulace něčeho (třeba prostoru) to nebude probíhat tak, že se nejdřív vyřeší
+simulace v jednom bodě a ostatní body okolo budou zahálet, ale že se vypočítá
+x možných variant současně a jakmile bude hotový výpočet té původní buňky tak
+se jen rychle vybere z těch předem vypočítaných variant ta správná a zbytek se
+zahodí. Takový výběr bude mnohem rychlejší než výpočet od začátku a tak se z
+vnějšího pohledu bude zdát, že jde o rychlý navazující proces. Ale to byl jen
+příklad. Myslím že v otimalizacích pro výkonnou masivně paralelní architekturu
+jsme teprve úplně na začátku, nemůžeme se na to dívat dnešníma očima.
+ _J_e_ž_e_k_ _s_e_c_o_n_d_ _e_d_i_t_i_o_n [Muž]42 [Kategorie]
+26.02.2019 18:42:11
+Ježek second edition: Zvýšení počtu jader je skutečně nejlevnější možnost, jak
+zvýšit výkon mikroprocesoru. Nicméně, zvyšovat počet jader už naráží také na
+své limity, což říká Amdahlův zákon. Kdežto dvě jádra přinesou téměř 2násobný
+výkon, 16 jader už přinese třeba jenom 6násobný výkon.
+
+Záleží to především na míře toho, jak dobře lze jednotlivé části procesu
+provádět paralelně. Kdežto vykreslování grafiky je velice dobře rozložitelný
+problém na jednotlivá jádra a vlákna, u klasických programů je mnoho
+závislostí a instrukce jsou často závislé na výsledcích předchozích instrukcí,
+a proto je nelze snadno provádět paralelně.
+
+Osobně to také vidím na to, že do několika desítek let dosáhne křemíková
+technologie svých limitů a bude třeba vymyslet něco nového. Tranzistory dnes
+měří jednotky nanometrů a zmenšovat je čím dál těžší. Zvětšovat mikroprocesor
+zas nelze kvůli již zmíněné omezené rychlosti světla. A zvyšovat frekvenci se
+zas nevyplatí (Pentium 4 se snažilo o 10 GHz, což se nejen že nepovedlo, ale
+navíc celá architektura NetBurst byla extrémně náročná na chlazení).
+ _V_e_s_m_y_9_7 [Muž]26 [Kategorie]
+26.02.2019 17:14:50
+>NNNNNNN
+Flobost. Omezení je jen na straně rozlohy jednoho jádra v zácislosti an
+frekvenci a tepelné emisi. nejen proto se zvyšuje výkon zvyčováním poštu jader
+a nemyslím si, že by tenhle trend jen tak ustal. Ostatně podívej se na dnešní
+grafické karty. V tomhle limity fakt na na hodně dlouhou dobu nevidím.
+ _J_e_ž_e_k_ _s_e_c_o_n_d_ _e_d_i_t_i_o_n [Muž]42 [Kategorie]
+26.02.2019 16:55:25
+Měl bys vědět, že zvyšování výkonu počítačů již před pár lety narazilo na
+fyzikální omezení (například, že se elektřina v čipech šíří jen rychlostí
+světla a víc ani ťuk), takže se zpomaluje (pročež je zatím snaha navyšovat
+počet jader procesorů ale ani to nejde do nekonečna) a jednou dojde k tomu, že
+již nebude možno výkon zvyšovat.
+ NNNNNNN
+26.02.2019 16:17:23
+V některých galaxiích je lidská inteligence považována za infekci..
+ trtkalkrtka
+26.02.2019 15:56:01
+A pak se to sekne kvůli nějaké chybě. Fuj, to bych nechtěl restartovat celý
+vesmír. To už to bylo a víme jak to dopadlo.
+ _J_e_ž_e_k_ _s_e_c_o_n_d_ _e_d_i_t_i_o_n [Muž]42 [Kategorie]
+26.02.2019 14:57:19
+Pán je počtář.
+ _M_o_ž_n_á_N_e_s_m_r_t_e_l_n_ý [Muž]19 [Kategorie]
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+
