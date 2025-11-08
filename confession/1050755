@@ -1,0 +1,147 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+   Otázky - Vzkazy č.1050755, vloženo _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+   11.04.2018 20:54:36                _s_t_r_á_n_k_a_]
+   Zdroj - chyba, nemožnost regulace U
+   Ahoj, před nějakou dobou jsem tu psal ohledně mého zdroje G400, ještě
+   jednou velké dík!
+
+   Teď jsem natrefil na problém - zdroj přestal regulovat napětí, od začátku
+   je konstantí přibližně maximum: 29V, potenciometr by měl být funkční. V
+   čem by mohl problém spočívat?
+
+   Odkaz na zapojení v komentářích, já mám verzi s P600.
+   Děkuju hrozně moc!
+    ElektroAmater [Muž]18  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+11.04.2018 22:35:47
+Potisk panelu
+ rm -rf.
+11.04.2018 22:33:43
+Zkus si stáhnou nějaké simulátory, třeba multisim nebo tinati, tam krásně
+uvidíš všechny průběhy signálů.
+ rm -rf.
+11.04.2018 22:27:13
+Ještě mě napadlo, jak se odborně jmenujou takové ty popisy na krabičce,
+například taková hroubnúcí šipka s nápisem U nebo I.
+
+Popisní štítek? Folie? Nálepní stupnice? Dá se to někde koupit nebo jenom
+vytisknout a nalepit?
+[Smajlík]
+ ElektroAmater
+11.04.2018 22:22:32
+D5, D6, D7 je pro zamezení toku proudu opačným směrem?
+
+Jak funguje samotná regulace U a I? Potočením potenciometru se změní jeho
+odpor, napětí z běžce jde na OZ a podle toho se otevře Q4?
+
+Na dnes by to bylo asi vše, děkuju za tvojí ochotu a čas, přeji hezký večer.
+[Smajlík]
+ ElektroAmater
+11.04.2018 22:08:36
+Paja má na svých stránkách odkazy kde je napsáno o tom co jednotlivé části
+dělají. Mě se o tom duplicitní elaborát psát nechce, ale odpovím ti na
+konkrétní otázky.
+
+D1-D4 Ano, (můstkový)
+C1 Ano
+
+KD503 není špatný někteří ho dokonce cpou i do audio zesilovačů. lepší však
+bude pokud zapojíš paralelně třeba 3x 2N3055 (párované) s odporem na emitoru
+0.01R a odporem do báze CCA 1R, ještě lepší by byly takto zapojený 3x KD503,
+ale pokud nemáš pořádný chladič s dobrým odvodem tepla, tak to bude zbytečný..
+ rm -rf.
+11.04.2018 21:48:37
+Mám tam TESLA KD503, osazený na poměrne velkém chladiči, mám tam taky trochu
+pasty.
+
+Upřímný té schémě moc nerozumím:
+ty diody P600 jsou tam jako usměrňovač mostíkové zapojení?
+ty velké kondenzátory C1A, C1B jsou filtr?
+jenže pak už se v tom strácím : /
+
+Kdybys byl tak hodný a nějak jednoduše to popsal, byl bych moc vděčný.
+[Smajlík]
+ ElektroAmater
+11.04.2018 21:39:31
+Nikoli 0V, bude tam regulovatelné napětí. mrkni na schému co ovládá emitor Q2
+a jak je připojen na výstup(R15).
+
+Q4 je výkonový tranzistor na kterém se mění rozdíl vstupního a výstupního
+napětí krát odebíraný proud na teplo. Máš ho na dostatečně vekém chladiči s
+pastou? jaký typ tam máš?
+ rm -rf.
+11.04.2018 21:31:29
+Ahoj, dík za odpověď, kamarád taky tipoval Q4 nebo ten tranzistor pod nim,
+teoreticky ještě ten integrovaný obvod.
+
+Napětí na vstupech OZ jsem neměral, podívám se na to zítra.
+
+Když vyndám Q4 tak by výstupní napětí mělo být 0?
+Jakou má vlastně Q4 funkci?
+
+Děkuju
+[Smajlík]
+ ElektroAmater
+11.04.2018 21:23:22
+Takže pokud otáčíš poťákem P1, tak se U na výstupu nemění? Jaké máš napětí na
+vstupech toho OZ IC1B?
+Můj typ je proražený CE na tranzistoru Q4, zkus ho vyndat a měřit napětí na
+výstupu, BEZ ZÁTĚŽĚ.
+ rm -rf.
+11.04.2018 21:06:54
+na zpovědnici je to samý elektrospecialista :-D né, sranda, třeba ti někdo zde
+opravdu hodnotně pomůže, ale spíš bych se na tvém místě obrátila na nějaké
+elektro hobby diskusní forum
+ _B_a_n_á_n_o_v_á_ _O_k_u_r_k_a [Žena]30 [Kategorie]
+11.04.2018 20:58:29
+Svůj příspěvek jsi vložil(a) do nespravné kategorie. Bylo provedeno přesunutí.
+V případě opakování hrozí blokování vstupu na portál. Prosím zvol příště
+správnou kategorii. Děkujeme za pochopení..
+[Smajlík]      [Muž] [Kategorie]
+ _A_d_m_i_n_i_s_t_r_á_t_o_r
+11.04.2018 20:55:19
+_h_t_t_p_:_/_/_p_a_j_a_-_t_r_b_._c_z_/_k_o_n_s_t_r_u_k_c_e_/_z_d_r_o_j_._h_t_m_l
+[Smajlík]
+ ElektroAmater
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+

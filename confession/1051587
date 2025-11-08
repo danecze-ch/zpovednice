@@ -1,0 +1,224 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+Zpověď č.1051587, vloženo 17.04.2018 22: _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+10:30                                    _s_t_r_á_n_k_a_]
+Hlavolamik
+Ahojky, pekný večer prajem :)
+Mám pre vás taký, že fest ťažký hlavolam na potrápenie mozgových zavitov :)
+Priznám sa, neviem správnu odpoveď, ani som ju nikde na stránke nenašla. Lámem
+si nad tým bezúspešne hlavu vyše dve hodiny no márne...:)
+Milujem úlohy s vyýrokovou logikou, ale na toto už moja kapacita nestačí..:D
+Kto sa nudí, poprípade chce sa zabaviť, sa môže dotoho rovno pustiť. Budem
+povďačná, ak dospejete k výsledku, za rozpísaný postup riešenia.
+
+Stretli sa traja matematici Adam, Boris a Cyril. Adam si zapísal dve čísla,
+ktorých súčet nepresahuje 100. Ani Boris ani Cyril nepoznajú tieto čísla. Adam
+však zašepkal Borisovi súčin týchto čísel a Cyrilovi ich súčet.
+B: Neviem, aké čísla si A zapísal.
+C: Vedel som, že to nebudeš vedieť.
+B: Stále neviem, aké čísla si A zapísal.
+C: Vedel som, že ani teraz ich nebudeš vedieť.
+B: Stále neviem, aké čísla si A zapísal.
+C: Ani ja neviem, aké sú to čísla. Z koľkých možností si môžeš vybrať?
+B: To ti nepoviem. Len toľko, že stále neviem, aké čísla si A zapísal.
+C: Není treba, už to viem.
+B: V tom prípade to viem aj ja.
+Aké čísla si to Adam napísal?
+
+veľa šťastia ;)
+ Tatiana1 [Žena]21  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+18.04.2018 14:20:18
+Kaiten - aha ;)
+Ale aspoň si v tom mal jasno :D
+Je pravda že je to zdĺhavé a človeku sa musí do toho chcieť :)
+[Smajlík]
+ Tatiana
+18.04.2018 14:09:17
+Ne ne ne... to není moje řešení - jak jsem psal, našel jsem to na netu.
+Stačilo mi, že má úvaha byla správná, a pak jsem byl fakt líný dotáhnout to do
+konce - takže jsem použil google. Ale díky, bavilo mě nad tím přemýšlet :)
+ _k_a_i_t_e_n [Muž]58 [Kategorie]
+18.04.2018 14:00:33
+Kaiten - no teda! Tak toto by som asi bez pomoci nedala.
+Ďakujem za vysvetlenie, uvažovala som tiež týmto spôsobom, len sa mi to dosť
+plietlo všetko :) A ako si to dlho riešil?
+[Smajlík]
+ Tatiana
+18.04.2018 11:20:04
+Poslední výrok matematika C je, že čísla určil. Jejich součet tedy musel být
+11, protože pro součet 13 existují dva součiny a pro součet 17 rovněž.
+
+Tedy : x + y = 11 a x * y = 30 => x = 5 a y = 6
+ _k_a_i_t_e_n [Muž]58 [Kategorie]
+18.04.2018 11:19:27
+1) Je-li součinem prvočíslo, pak lze rozložit jediným způsobem 1*p.
+
+2) Je-li součinem číslo č, které lze sice rozložit dvěma způsoby, a to na
+součin prvočísel p1*p2 a na součin 1*č, ale protože pro součin 1*č platí, že
+1+č>100, zůstává jediný možný rozklad.
+
+3) Je-li součinem číslo č, které lze rozložit na součin složeného čísla č1 a
+prvočísla p1, přičemž č1+p1=<100, ale pro každý jiný možný rozklad na č2 a p2
+by platilo č2+p2>100.
+
+Příklad: 268=4*67 a 268=2*134
+
+Jestliže si C uvědomil všechny možné součiny, které umožňují určit čísla
+okamžitě, musel sečtením dvojic činitelů zjistit, že žádná dvojice nedává jeho
+součet a přesvědčit se tak, že B číslo okamžitě neurčí.
+
+My tím pádem můžeme vyloučit všechny čtverečky, které symbolizují součet,
+který se rovná některému ze součtů jednoznačných činitelů. Pro kontrolu,
+množina součtů, která zbude, vypadá takto : S1={5, 7, 9, 10, 11, 13, 15, 16,
+17, 19, 21 23, 25, 27, 29, 31, 35, 37, 41, 43, 45, 47, 49, 53}.
+
+
+
+Matematik B po větě matematika C znal v této fázi rovněž množinu možných
+součtů. Existovaly proto pro něho v této fázi další „jednoznačné“ součiny, ze
+kterých by dokázal určit dvojici původně zadaných čísel. Součiny sami o sobě
+nejsou jednoznačné, ale když se vyloučí ty dvojice činitelů, jejichž součet
+buďto přesahuje stovku nebo není z množiny S1, vytvořené v předchozím
+odstavci, stanou se takovéto součiny jednoznačnými.
+
+Matematik C ale předem věděl, že žádný z takovýchto součinů nebyl sdělen
+matematiku B. Jinými slovy, žádná možná dvojice takovýchto činitelů nedává
+jeho součet. Tím se nám zužuje množina možných součtů na S2.
+
+Příklad: 282=2*141 a 2+141=143>100
+
+282=3* 94 a 3+ 94=97&#207;S1
+
+282=6* 47 a 6+ 47=53ÎS1
+
+Jiným způsobem součin 282 rozložit nelze. Čili 6*47 je jednoznačný součin a
+součet činitelů 6+47=53 nám vypadá z množiny S1, a tím postupně vytváříme
+množinu S2. V konečné podobě vypadá množina takto : S2={7, 11, 13, 17}.
+
+Ale ani v této fázi neurčil matematik B ze součinu výslednou dvojici. Zřejmě
+zbylo více dvojic dávajících stejný součin. Jaké jsou součiny zbylých dvojic?
+
+1x 6= 6
+
+2x 5=10 1x10=10
+
+3x 4=12 1x12=12
+
+1x16=16
+
+2x 9=18
+
+2x11=22
+
+3x 8=24
+
+4x 7=28
+
+5x 6=30 3x10=30 2x15=30
+
+4x 9=36
+
+5x 8=40
+
+6x 7=42 3x14=42
+
+4x13=52
+
+5x12=60
+
+6x11=66
+
+7x10=70
+
+8x 9=72
+
+B tedy dostal jeden z těchto čtyř součinů : N1={10, 12, 30, 42}. K výše
+vyznačeným skupinkám dvojic dávajících stejný součin si vypočítejme součty:
+
+7 11
+
+7 13
+
+11 13 17
+
+13 17
+
+C součet znal, ale ptal se B, kolik má možností. Kdyby byl součet 7,
+
+zbývaly by jednoznačně 2 možnosti a C by se neptal. Množina součtů se tak
+zúžila na S3={11, 13, 17}.
+
+B tedy ví, že součet není 7, a přesto mu to k určení dvojice nestačí. Sdělený
+součin není ani 10 ani 12. Pro ně by existovaly jednoznačné dvojice (1;10) a
+(1;12).
+
+Poslední výrok matematika C je, že čísla určil. Jejich součet tedy musel být
+11, protože pro součet 13 existují dva součiny
+ _k_a_i_t_e_n [Muž]58 [Kategorie]
+18.04.2018 07:18:02
+Riešenie sú čísla 5 a 6. Tak som to našla na nete.
+Zaujímal ma postup riešenia, ďakujem za vysvetlenie. :)
+Pravda, je to dosť zdĺhavé. :)
+[Smajlík]
+ Tatiana
+17.04.2018 23:12:20
+No vidíš. Kdyby Boris a Cyril byli hokejisti, vymlátili by to z Adama hned.
+[Smajlík]
+ jejich smůla
+17.04.2018 23:11:32
+Nedalo mi to, zkusil jsem to, ale je už večer, a moc mi to nemyslí. Našel jsem
+aspoň řešení na netu, tak kdyby ses chtěla nechat poddat, napiš :)
+ _k_a_i_t_e_n [Muž]58 [Kategorie]
+17.04.2018 22:51:19
+Musíš ten součin rozkládat tak dlouho, až ho rozložíš na prvočísla - až v tu
+chvili budou oba vědět, jaká dve čísla to byla.
+
+Např. kdyby součin byl 33, tak by Boris hned věděl, o jaká čísla se jedná (11
+a 3). A když Cyril věděl, že to Boris vědět nebude, je jasné, že ze součtu
+poznal, že to nebudou prvočísla (jeho součet se nedá na prvočísla rozdělit). A
+pak je potřeba rekurzivně pokračovat...
+
+...a na to jsem moc línej :)
+ _k_a_i_t_e_n [Muž]58 [Kategorie]
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+

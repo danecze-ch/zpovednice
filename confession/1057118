@@ -1,0 +1,160 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+   Otázky - Vzkazy č.1057118, vloženo _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+   26.05.2018 19:37:54                _s_t_r_á_n_k_a_]
+   XML a HTML
+   Ahoj,
+   prosím, byl byste tu někdo ochotný mi jednoduše vysvětlit, co je to
+   formát souboru XML a HTML? A k čemu se používají? Chápu správně, že HTML
+   je jen pro prezentaci informací na webu?
+   Není mi úplně jasný ten rozdíl mezi HTML a XML.
+   V xml si tagy pojmenovávám sama. Ale víc mi není jasné.
+   Pokud to půjde, tak bych poprosila o jednoduché vysvětlení, už jsem z
+   toho zoufalá - potřebuji do školy :-(
+
+   Děkuji moc!
+   V.
+    Viera23 [Žena]23  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+27.05.2018 09:46:09
+Viera23: A že by jsi sem napsala řešení (jak si to nakonec pochopila), ať to
+ví někdo kdo bude řešit stejný problém? :)
+ Vylity géniu
+27.05.2018 05:34:21
+Učit se pravil klasik
+ _M_o_u_d_r_ý_ _u_č_i_t_e_l [Muž]65 [Kategorie]
+27.05.2018 01:59:25
+Děkuji vám všem za odpovědi! Už vyřešeno:)
+ Viera23
+27.05.2018 01:00:07
+Co toto zase je?
+ newbie7890d
+26.05.2018 23:22:34
+Ac oba jazyky vypadaji velmi podobne tak jejich ucel je jiny. HTML v podtstate
+rika prohlizeci jak ma zobrazit stranku. Jednotlive tagy rikaji zdapeohlizec
+napriklad ma zobrazit dany text tucne nebo jestli to je odkaz na jiniu stranku
+a prohlizec (chrome, explorer, firefox) to podle techto to ragu zobrazi.
+Naproti tomu xml pouze popisuje data,
+Pomoci datoveho modelu ktery si sama urcis. Napriklad muzes rict ze polozka
+ferari gtx v eshopu je soucasti objektu auta. Ze Samsung s5 mini je soucasti
+objektu mobily. Ale uz neresisi pomoci xml ze mobily budou zobrazeny v
+prohlizeci modre a auta cervene. Tady pak musi prijit naradu html.
+ Psoug
+26.05.2018 21:39:39
+Asi 3 l vína, ale měl jsem si dát víc, zatím finále Lm nic moc...
+ Vylity géniu
+26.05.2018 20:58:19
+Kdysi jsem XML používal pro zobrazení matričních záznamů v HTML - když tak ti
+to můžu poslat přes uschovnu, abys viděla jak to v praxi vypadá.
+hodně laicky řečeno -
+v XML jsou data (eshop používá xml feed)
+přes XSL(T) což je script nasázím informace co se mi má zobrazit v HTML za
+informace
+
+Já jsem v tomto spíše praktik než teoretik a vysvětlit to nějak nedokážu; u
+xml je lepší sednout a vyzkoušet prakticky pro pochopení.
+
+Grada xml technologie Principy a aplikace v praxi
+xslt 2.0 a SVG prakticky Pavel Herout
+ _R_a_y_m_o_n_d [Muž]45 [Kategorie]
+26.05.2018 20:47:54
+Achjo:-( tak tomu nerozumím :-(
+[Smajlík]
+ Viera23
+26.05.2018 20:45:28
+Vylity géniu: Tys něco pil?
+[Smajlík]
+ Už nechlastej
+26.05.2018 20:37:18
+Viera23: Komunikace znamená aspoň jak to chápu já, že narozdil od html, kde ti
+server vrátí striktní odpověď na základě tagu, tady si můžeš definovat tag
+jaký chceš. Ovšem když já použiji pro naši komunikaci tag pozdrav "ahoj"
+pozdrav a doplním to o další steomovou strukturu, tak samozřejmě, že na to xml
+nestačí. proto je to značkovací strukturovaci jazyk, protože ti data rádi do
+logické stromové struktury třeba pro osobní nebo obchodní korespondenci, ale
+sám o sobě komunikovat nneumí. Proto to X znamená rozsiritelny třeba pomocí
+JavaScriptu, který dnes umí pracovat i na straně becjendu, takže to už pak
+řeší script...
+ Vylity géniu
+26.05.2018 20:28:40
+xxxx: viera.kl@seznam.cz
+
+Raymond: to už jsem četla , jen stale nevím, jak to uplatnit v praxi:/
+ Viera23
+26.05.2018 20:25:03
+Google nemá výpadek, jen tam nejsou věci popsaný jednoduše, jak potřebuji :X
+
+Vylity geniu- ja to cetla... jen mi v tomhle pripade tedy není jasné co je to
+ta komunikace a rozšířený popis:(
+ Viera23
+26.05.2018 20:23:58
+_h_t_t_p_:_/_/_w_w_w_._a_d_a_p_t_i_c_._c_z_/_z_n_a_l_o_s_t_i_/_s_l_o_v_n_i_c_e_k_/_x_m_l_/_ 
+
+_h_t_t_p_:_/_/_w_e_b_s_e_r_v_e_r_._i_c_s_._m_u_n_i_._c_z_/_b_u_l_l_e_t_i_n_/_a_r_t_i_c_l_e_s_/_2_6_8_._h_t_m_l_ 
+
+_h_t_t_p_s_:_/_/_w_w_w_._r_o_o_t_._c_z_/_c_l_a_n_k_y_/_x_m_l_-_u_v_o_d_/
+ _R_a_y_m_o_n_d [Muž]45 [Kategorie]
+26.05.2018 20:19:50
+Zanech mail
+ xxxx
+26.05.2018 20:17:06
+Rozdíl mezi HTML a XML jsme řešili v topicu níže. Já to chápu tak, že html je
+"formátovací jazyk textu", říká p jako paragraf znamená odstavec a proto ti
+text v tagu odradkuji. Zatímco XML je "formátovací jazyk dat", říká pouze
+popis data, které se nijak nezobrazuji, nejsou striktně standardizovany a
+navíc jsou rozsiritelne. V podstatě popisuješ značky data s významem, který si
+můžeš libovolně přenášet například pro komunikaci či rozšířený popis...
+[Smajlík]
+ Vylity géniu
+26.05.2018 20:13:29
+Google má nějaký výpadek nebo co?
+[Smajlík]
+ Už zase
+26.05.2018 19:51:05
+White Wolf: děkuji za radu :-) snad s tím poradí někdo jiný :-)
+ Viera23
+26.05.2018 19:45:13
+Ano s HTML vytvaris webove stranky. A s XML ti bude muset odpovedet nekdo jiny
+bo nemam tucha.
+ _W_h_i_t_e_ _W_o_l_f [Muž]25 [Kategorie]
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+

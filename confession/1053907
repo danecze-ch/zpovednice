@@ -1,0 +1,193 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+Zpověď č.1053907, vloženo 04.05.2018 07: _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+41:53                                    _s_t_r_á_n_k_a_]
+Praktická maturita, nebo SOČ?
+Ahoj, chodím na průmyslovku do Žďáru nad Sázavou a jsem student 3. ročníku
+oboru elektrotechniky (po druhém ročníku ještě specializace na automatizaci).
+Za rok budu maturovat, kromě maturity z ČJ, MAT, Elektrotechniky, automatizace
+a samozřejmě praktická maturita. Je tu ale jeden háček. Místo praktické
+maturity mám možnost dělat tzv. SOČ - středoškolskou odbornou činnost. Mám
+vyhlídlé, co bych na SOČ dělal:
+
+https://howtomechatronics.com/projec ts/diy-vending-machine-arduino-based-mec
+hatronics-project/
+
+Už mám zmapované součástky, znám rozměry, atd. Ještě jsem teda nezačal.
+Ale mi máme předmět řídící systémy, kde jsem měl průměr 1,5 a tam mi dal učitel
+rozhodující těžší příklad mezi 1 a 2, který mám vypracovat do června nějak a
+ten jsem udělal ještě za tu dvouhodinovku a dostal 1. Učitel mi doporučil spíše
+praktickou maturitu. Ono spousty lidí bude dělat SOČ a učitelé z toho nejsou
+moc nadšení. Já mám v plánu to oznámit, až budu mít tak nějak hotovo, do září.
+Akorát nevím, zda-li by ten projekt šel a bojím se, že když se zeptám učitele,
+že se mě bude snažit navést k praktické maturitě (prostě už SOČ dělá moc lidí,
+atd.). Jo praktická maturita, proč se jí bojím? Nějaké to schéma ze silnoproudu
+bych asi zapojil a pájet umím. Ale je tu riziko, že dostanu za úkol úlohu z
+mikroprocesorové techniky - naprogramování LCD v assembleru. To kdybych dostal,
+tak bych jim jenom takhle zamával a řekl, že se uvidíme až v září, protože
+assembleru vůbec nerozumím (kdybych to měl dělat přes Arduino, to by byla
+samozřejmě jiná). On ten assembler s tím se setkáte prý v praxi spíš, kdybyste
+programovali operační systémy.
+No riskovat, že tu úlohu s assemblerem dostanu je mi proti srsti a chci dělat
+spíše SOČ.
+
+Čistě selským rozumem, co byste mi radši doporučili?
+ Maturant 2019 [Muž]18  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+04.05.2018 22:45:41
+asitak: Aha :D v číslicové technice, kterou jsme měli minulý rok ve druháku
+jsme neprogramovali nic. Jediné, co jsme měli tak bylo programování v C, tam
+jsme programovali. No místo programování v jsme tam kecali s učitelem o
+životě. C si pak tak nějak "opakuji" v podobě wiringu na arduinu (programovací
+jazyk pro arduino, je to C). Letos máme mikroprocesorovou techniku v níž kromě
+probírání i programujeme ve winAVR procesory AVR. To je assembler ne? Dále
+programujeme PLCčka - Simatic S200 (staré), ty mi docela jdou, každou hodinu
+učitel zadá třídě zadání a čas, za který to máme udělat, lehčí úlohy bývali do
+15 minut 1 a pak po 5 minutách horší a horší, těžší úlohy, co dostáváme teď,
+do 30 minut 1. Je to jednoduché, zvládám to, mám 1, stačí u toho logicky
+uvažovat. Ale ten winAVR je pro mě nepochopenou noční můrou. Asi je to proto,
+že jsem s ním nikdy předtím nedělal, ani se k němu moc nemám. Třeba, kdybych
+chtěl napsat, že když se zmáčkne tlačítko, stane se to a to, tak v C napíšu if
+(podmínka),blablabla, ale ve winAVR? To musím nějak přes paměti uplně debilně,
+to je jako kdyby programovací jazyk, kterým se snad i programují operační
+systémy, či co. Zkrátka assembler nemám rád. Asi bych mu porozuměl, kdybych se
+mu věnoval doma, ale když programovat doma, tak arduino, tedy C. Asi proto
+radši budu dělat i tu SOČku. Takže tak. Na mikroprocesorovku máme přísného
+učitele, který ale umí naučit a rozumí tomu. Bohužel dalších takových moc
+není. Je mi jasné, že je to v platu. Programátor může mít peněz jak želez,
+pozice učitele by pro něho byla naprosto trapná, pokud to není vyloženě
+člověk, co jde do školství z vlastního přesvědčení. Ale takových asi moc není.
+Ta rozdílnost platů je strašná, já vím, když člověk maká a maká, tak ty peníze
+může mít a je demotivující snižovat platy těm, kteří to táhnou. Ale trocha
+toho socialismu by neškodila. . Ale to je zase na politické kecání, pardon,
+bavíme se o programování, já vím.
+ Maturant 2019
+04.05.2018 20:01:05
+Maturant 2019:
+
+jaký zbytek programu? Do asembleru jsi v podstatě napsal, že se má zapnout ta
+a ta část, zobrazit se něco, třeba "ahoj" a něco to má dělat. Podle toho
+vypadal celý program. Pak jsi propojil displej s PC, zapnul jsi "play" a
+odzkoušel jsi to. To bylo vždy všechno.
+ asitak
+04.05.2018 19:54:06
+Maturant 2019: fakt tak málo. Ten předmět se jmenoval Číslicová technika. A
+myslím, že jsme měli každý týden 2 hodiny teorie a 2 hodiny v kuse praxi. A
+učil nás to takový děda před důchodem stylem, že si přinesl zkopírované papíry
+z netu ve svém sešitě. Sám jsem s tím a hlavně s ním, dost bojoval a chtěl
+jsem to pochopit, ale ani on sám mi to nedokázal vysvětlit. Ani literaturu mi
+nedokázal doporučit, když už jsem byl za ním v kabinetu, že mi to fakt nejde :
+D. Když to beru zpětně, tak si myslím, že ten učitel se to učil od dalších
+učitelů taky nazpamět, aniž by rozuměl té posloupnosti příkazů :D. A ty
+programy nikdy nebyly moc dlouhé, takže jsem se je učil zpaměti, abych aspoň
+prolezl :D. Určitě bych si nezapamatoval zdroják o více než, řekněme, 20
+příkazech přesně za sebou :D
+
+Jednou dokonce přišel do hodiny a na začátku řekl, že si zapomněl ten svůj
+sešit v kabinetu a neví, co tam je dál. Z hlavy to prostě nedal a ještě se k
+tomu přiznal :D. V podstatě jsme měli volnou hodinu. Asi tak vypadala jeho
+výuka :D
+[Smajlík]
+ asitak
+04.05.2018 17:16:42
+Děkuji všem za odpovědi
+OMG: sice budu postupovat dle návodu, ale upřímně, na rovinu, kdo nepostupuje
+alespoň u části svojí práce podle někoho jiného? Koneckonců tomu člověku to
+vadit nebude, já jsem se ho tam v angličtině ptal a on mi napsal, že to klidně
+můžu na svůj školní projekt použít, dokonce to tam má i v popisu, že se to
+hodí pro studenty.
+Co se týče "debilniho automatu", má tam rozšíření, že vertikální a
+horizontální kolejnice vyzvednou výtah pro danou sladkost. To už není tak
+"debilni", ne? Nebo mám vytvořit něco lepšího ala teleport, perpetuum mobile,
+nebo rovnou létající koberec?
+
+Logika: děkuji za názor
+asitak: jenom na deset řádků? No my máme mikroprocesorovou techniku jenom rok
+a z toho dvě hodiny týdně věnujeme nějakému tomu programování, to ste museli
+programovat snad každý den, ne? Co vím, pracujeme v programu WinAVR a jenom
+zdroják zabral 10 řádku, ale zbytek programu? Inicializace, znaky, atd.? To
+zabere tak řádku 100,
+
+Lae: Co je mi bližší? Asi spíš ta Sočka, už kvůli tomu, že se pracuje s
+arduinem, že mě to zachrání od praktické maturity a hlavně, pokud to udělám a
+bude to fungovat, je to docela radost se na to koukat ne? :)
+ Maturant 2019
+04.05.2018 14:59:52
+Ber to, co je ti bližší, v čem jsi jistější. :) Vždycky se líp mluví o něčem,
+o co se zajímáš. Navíc u maturity jako na potvoru fungují zákony schválnosti,
+známe to.
+[Smajlík]
+ Lae
+04.05.2018 13:55:28
+Být tebou tak se vůbec nezajímám o to kolik lidí na vaší škole dělá SOČ.
+Možnost dělat SOČ by měl mít každý středoškolák bez ohledu na tento faktor.
+Moc teda nerozumím tvému dilema, protože se mi tvé možnosti nezdají
+srovnatelném Jednoznačně SOČ je lepší možnost, získáš z ní zkušenosti a stát
+před porotou a postoupit už něco znamená, u ní zužitkuješ aspoň úsilí.
+ Beowulff
+04.05.2018 13:14:45
+Vážně chceš jít na SOČ s nějakým debilní automatem, který navíc není tvůj
+výtvor, ale pouze budeš postupovat podle návodu...
+[Smajlík]
+ OMG
+04.05.2018 11:44:55
+souhlas s Logika. Učitelé jsou v programování často jen o kapitolu nebo 2 dál,
+než jejich studenti. Jinak by to prostě nebyli učitelé za 20k hrubého, ale IT
+specialisté za min. 100k hrubého.
+
+Jinak ta tvoje SOČ je poměrně jednoduchá. Assembler jsem měl na střední taky,
+tj. někdy před 20 lety a displej jsme programovali přímo v hodině. Ten zdroják
+je jen na pár řádků. Možná 10, víc ne. Po spuštění zobrazoval třeba blikající
+nápis nebo třeba odpočítávání. Žádné složitosti na několik stran, které pak
+byly na VŠ.
+[Smajlík]
+ asitak
+04.05.2018 08:00:13
+SOČ protože když makáš celý rok a předvedeš, co tvoje práce umí, tak i kdyby
+byla sebehorší, tak si na ní pracoval a tvoje známka bude minimálně za 4. To u
+praktické můžeš dostat za 5, když si vylosuješ nějakou otázku. A učitele na
+střední ani trochu neposlouchej, programovat neumí, proto to učí a nejsou ve
+firmách, kde je plat o mnoho vyšší. Neříkám, že všichni učitelé, ale rozhodně
+si vezmi SOČ a bohužel teprve po škole zjistíš, co se dělá pořádně v praxi.
+ Logika
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+
