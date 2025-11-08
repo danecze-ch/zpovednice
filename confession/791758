@@ -1,0 +1,144 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+Diskuze č.791758, vloženo 19.03.2014 16: _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+44:20                                    _s_t_r_á_n_k_a_]
+Linux
+Proč se všude tlačí produkty Microsoftu, které jsou dost drahé? Proč se třeba
+ve státní správě nepoužívá nějaký Linux? Když se dělá nějaký software pro
+státní správu tak se stejně dělá na míru tak by ta obslužná klikací část se
+holt udělala pro Linux místo Windows - pokud to teda už rovnou nejede jako
+webová aplikace, těm je už úplně jedno na jakém OS browser běží. Ty dnešní
+distribuce jsou už dost BFU-friendly, stačí napoprvé aby to někdo alespoň
+trochu znalý nakonfiguroval a pak už to funguje "navždy" (osobní zkušenost s
+Ubuntu a Xubuntu). Navíc Linux je zadarmo narozdíl od M$ produktů. Ale to bylo
+mělo začít už "od kolébky". Proč se kurwa na školách v informatice vůbec nic o
+Linuxu neučí? Proč se dětem cpe už od mala do hlavy že počítač = Wokna. Unixové
+systémy by se měly vyučovat a dbát na to aby se s tím už děti seznámily, že to
+funguje trochu jinak, nebát se příkazového řádku a podobné. Vždyť by klidně
+školní počítače mohly být jen s Linuxem a školy ba alespoň ušetřily na
+licencích. Je možné že Linux by spousta lidí ráda používala (i proto že je
+zadarmo) ale když o něm ani nevědí tak je to těžké, a navíc koupit hotový PC/
+notebook bez předinstalovaných (a zaplacených) Windows je celkem velké umění,
+se divím že tady ještě nezasáhla EU nebo náš ÚHOS.
+ CL4-TP [Muž]  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+19.03.2014 23:31:36
+Cumsprite: bohuzel nemas tak zcela pravdu. Podivej se na macos, kterej je
+zalozen na bsd a jak je rozsirenej. Bohuzel misto aby se linuxari vic
+unifikovali tak se tristej do milionu nesmyslnejch variant. Btw prikladem pro
+linux muze byt treba i freebsd kterej sem pouzival cca 5 let jako primarni
+system na notesu a jak to panecku vsechno pekne slapalo.
+ psoug
+19.03.2014 23:18:54
+Protoze te to ve finale vyjde draz, neni tolik lidi co by se zivili spravou
+desktopu na linuxu. A pak jsou tu dalsi veci:
+
+1. Slusny chybejici groupware typu ad/exchange/sharepoint atd na linuxu
+zkratka stale neni
+2. Rozstristenost dister - to je fakt peklo. Kazdy distro je jiny. Kdyz si
+treba vezmu tanecky kolem takoveho systemd (jaka je to s odpustenim sracka na
+nic) je mi blbe.. Tohle nechapu - i freebsd potazmo mac os to umi tak proc se
+k*rva ty lidi mezi sebou nedomluvej....
+
+3. Nekoncepcnost distribuci
+4. Odlisnost linuxu od komerecnich unixu
+5. Mizerna podpora enterprise hw - pravda lepsi se to ale na komerecni uxy
+typu aix, solaris to porad naprosto nema
+.
+.
+
+Linux je super napr. jako db server (Oral, postgre, atd), web server, aplikac
+(tomcat), backup server atd. Ale na nektery veci je dost nah*vno. Ostatne w2k8
+na tom jsou podobne. Tuhle jsem kojfiguroval jakousi oracle bazi na w2008 a
+vcelku jsem plakal. O nejake hlubsi analyze na windows ani nemluvim..
+ psoug
+19.03.2014 21:10:46
+To je začarovanej kruh... současný distribuce jako Ubuntu jsou opravdu BFU
+friendly. Bohužel, než linux dospěl do téhle podoby, ujel mu vlak. I dnes je
+linux vnímán jako hračka pro profesionály. Spousta lidí se bojí, že budou
+muset psát příkazy v shellu, další se toho bojí kvůli problémům s ovladači a
+jiným vadí, že na Linuxu si nezahrají oblíbenou hru nebo nebudou moc používat
+aplikaci pro Windows (věci jako wine nechme stranou).
+
+Windows byli defacto "první funkční" OS s intuitivním grafickým prostředím a
+získal si tak oblibu. Takže i výrobci HW (ovladače primárně pro Windows), tak
+vývojáři SW (většina komerčních aplikací je pro Win) se začali orientovat na
+Windows. Tím, že pro windows byla lepší SW a HW podpora, stali se Windows
+ještě populárnější. Je to v situaci, kdy každej umí s Windows, s linuxem
+málokdo. V takovém stavu se ani nevyplatí ani linux nasazovat do firem či
+úřadů. Nikdo s tím neumí. Na zaškolení lidí dáš víc než za ty Windows.
+
+To, že je Linux mnohem bezpečnější, to už nikoho moc nezajímá.
+ _C_u_m_s_p_r_i_t_e [Muž]34 [Kategorie]
+19.03.2014 19:35:44
+Je to prosté za objednávky a dodávky Linuxu nekápnou provize ;-)
+A po dlouhé době souhlasím se SKED. Já nejsem schopen nebo možná ochoten Linux
+používat ani na pracovních počítačích.
+ _M_S_-_f_a_n_o_u_s_e_k [Muž]50 [Kategorie]
+19.03.2014 18:23:59
+Linux je dobrej tak maximálně na hacking nebo pro servery, ale běžnýmu
+uživateli je to k ničemu. Znám lidi, kteří ani nevědí, co je to harddisk,
+takoví ať radši zůstanou u Windows. :D
+ _X_C_r_a_z_y_S_l_i_m_e_X [Žena]24 [Kategorie]
+19.03.2014 17:28:15
+Taky jsem kdysi tak uvažoval a víš v čem je problém? Linux zadarmo je za
+trest. Než to rozjedeš do stádia, kdy na tom jde pracovat, je to pár dnů
+práce. Windows instaluješ a jede bez problémů (vzpomínám na anabázi
+neexistujících open driverů na grafiky od ATI)
+A linux za prachy je daleko dražší než windows. Takže optimum je windows, jak
+cenově, tak co se týče lidí.
+Osobně zastávám názor, linux na servery, windows na pracovní stanice.
+ weerwolf
+19.03.2014 17:12:21
+na univerzitách se linux používá běžně.
+ _S_e_r_o_t_o_n_i_n [Muž]35 [Kategorie]
+19.03.2014 17:07:52
+a lidi se nekdy nejsou schopni naucit ovladat ani win :D
+ _S_K_E_D [Muž]69 [Kategorie]
+19.03.2014 17:07:19
+pak na tom beztak nepujde polovina veci ani zapnout atd....
+ _S_K_E_D [Muž]69 [Kategorie]
+19.03.2014 17:06:48
+nejaky linux pro socky si nech a necpi nam to.
+ _S_K_E_D [Muž]69 [Kategorie]
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+
