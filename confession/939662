@@ -1,0 +1,956 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+Diskuze č.939662, vloženo 16.05.2016 18: _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+10:44                                    _s_t_r_á_n_k_a_]
+Proč se 5 zaokrouhluje nahoru?
+Třeba pokud chceme zaokrouhlit 2,5 na jednotky. Podle pravidel zaokrouhlíme
+nahoru, tedy na 3. Jenže je to arbitrární pravidlo. Pětka je přesně uprostřed.
+
+Kdo to tedy vymyslel, že pětka se bude zaokrouhlovat nahoru? Proč ne třeba
+dolů? Anebo by se to nemělo zaokrouhlovat vůbec, protože je to přesně
+uprostřed. Nebo by se to mělo v polovině případů zaokrouhlit nahoru a v
+polovině případů dolů.
+
+Vidíte, jak je náš svět arbitrární? Máme tu nějaké pravidlo, ale přitom si
+neuvědomujeme, že to není úplně nejlepší pravidlo?
+ Numismat [Muž]24  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+19.05.2016 09:16:39
+Příklad s obchodem ukazuje, že 0, 10, 20, 30 apod. nepatří mezi čísla, která
+je potřeba zaokrouhlit na 10. Čísla 10, 20, 30 apod. totiž už jsou dělitelná
+deseti. Čísel, která je potřeba někam posunout, je vždy 9 po sobě, tedy lichý
+počet. A číslo končící cifrou "5" se v té řadě nachází uprostřed.
+Kdybychom měli používat řadu "10 až 19", znamenalo by to, že se rozhodujeme,
+jestli dané číslo chceme zaokrouhlit na 10 nebo na 19. Takže kupříkladu
+jednotky bychom pak zaokrouhlovali na některé z řady čísel "10, 19, 20, 29,
+30, 39".
+Jak tu někteří psali autorovi, že to nechápe: on to chápe, ale zastánci řady
+"10-19" vycházejí z chybného předpokladu, kdy začátek řady "10-20" nechají na
+místě, ale konec té řady posunou o 1 dolů, na 19 - asi proto, že jsou na to
+zvyklí ze školy...
+
+Čili nejde tu o žádnou analytickou geometrii, jde tu skutečně o zaokrouhlování
+množství. A právě v případě zaokrouhlování množství se 5 nachází uprostřed a
+jakékoli pravidlo o jejím zaokrouhlení je nutně arbitrární.
+ aligátor
+18.05.2016 16:36:26
+Oprava:
+<strike>Teda je to konkrétní hodnota, jež sama ale neleží na ose.</strike>
+Chtěl jsem napsat, že není součástí té řady. Dělení je vlastně operace. Když
+tedy dělíme dvěma, výsledkem jsou dva kusy něčeho. Tak jako když rozdělím svou
+řadu cifer na 0,1,2,3,4 a 5,6,7,8,9 nikde tam není 0,5 i když jsem to dělil
+dvěma a 1/2 je sice 0,5 nicméně 0,5 není v mé řadě. Tedy 0,5 pouze vyjadřuje
+to že jsem to rozdělil na dvě části. Čili to popisujeme co máme ale pouze
+abstraktně, protože konkrétně musíme uvést přesné hodnoty.
+ 9KJD
+18.05.2016 16:31:15
+Aligátor:
+Mám na to stejný pohled jako brindatko. Jsou dva pohledy na věc - analytická
+gerometrie - pro mě je 0.5 či lépe řečeno "polovina" - jakožto vyznačení
+středu - abstraktní pojem. Teda je to konkrétní hodnota, jež sama ale neleží
+na ose. Ale to se netýká jen polovin. Dělit můžeme třeba na čtvrtiny a pak 1/
+4 bude označení středu, atd. K tomu se váže můj příklad s cykly a rozdělení na
+cifry 0-4,5-9. Máš-li 10 cifer od nuly až po 9 pak je logické že první
+polovina jsou právě 0-4 a druhá polovina 5-9 o tom netřeba diskutovat.
+
+Numismat:
+V programování v cyklech se používají celá čísla a chtěl bych-li vypsat první
+polovinu použiju cyklus
+for(i=0; i<5; i++) ...
+druhou polovinu vyjádřím takto:
+for(i=5; i<10; i++) ...
+
+ale lze to taktéž vyjádřit takto:
+for(i=0; i<=4; i++) ...
+for(i=5; i<=9; i++) ...
+pokud například budu přidávat prvky do pole
+a=array(); b=array();
+for(i=0; i<=4; i++) a[i]=i;
+for(i=5; i<=9; i++) b[i]=i;
+bude pole "a" obsahovat tyto prvky: [0,1,2,3,4]
+a pole "b" bude obsahovat tyto cifry: [5,6,7,8,9]
+
+Máme tedy dvě poloviny a obě mají stejný počet cifer. Toto vysvětluje proč se
+provádí zaokrouhlování dolů a zaokrouhlování nahoru. Je li cifra v poli a,
+zaokrouhlí se na 0. Je-li cifra v poli b, zaokrouhlí se taky na nulu ale o řád
+výše. To bylo krásně vidět v mém prográmku.
+ 9KJD
+18.05.2016 15:29:22
+@aligátor
+[Smajlík]
+ Numismat
+18.05.2016 13:21:07
+A ještě jinak:
+Jsme v obchodě. Dnes už neplatíme ani padesátníkama, ale ceny se stále udávají
+v desetihaléřích.
+Pokud je cena v celých korunách, nemusíme žádné zaokrouhlení řešit. Pokud
+sebou máme dostatek mincí, zaplatíme cenu uvedenou na zboží.
+Pokud cena není v celých korunách, může nastat celkem 9 situací: zboží může
+stát x korun a 10 haléřů, x korun a 20 haléřů... a x korun a 90 haléřů. Počet
+situací, které je třeba řešit, je lichý. Padesát haléřů se nachází uprostřed
+řady těchto situací.
+
+Pomohlo vám to trošku?
+ aligátor
+18.05.2016 13:13:00
+Ještě k cyklům: například řada 10 až 19 prakticky znamená úsek od 9,5 do 19,5.
+Tedy úsek matematicky dost podivný. Můžeme pak leda říci, že 14 ještě
+zaokrouhlíme na 9,5, ale 15 už zaokrouhlíme na 19,5. Ale domnívám se, že řeč
+je o zaokrouhlování například na 10 versus na 20. Pak nemá smysl o nějaké řadě
+10 až 19 uvažovat.
+ aligátor
+18.05.2016 13:07:16
+Numismat má pravdu. Kdo argumentuje čísly 0-4, 5-9, je mimoň.
+Na druhou stranu: zaplaťpánbůh, že to arbitrární pravidlo máme, protože jinak
+by se například všichni při všech nákupech pořád hádali o to, jaká je cena.
+Takže obecně buďme sem tam vděčni za arbitrární pravidla - máme díky nim
+jednodušší život.
+To nic nemění na tom, že polemizovat na zpovědnici s arbitrárním pravidlem je
+zcela OK, a Numismat se tím snaží (jak vidím, ne příliš úspěšně) otevřít lidem
+oči a pomoci nahlédnout mimo zaběhnuté koleje.
+ aligátor
+18.05.2016 07:06:32
+9KJD: OK, no dobře.
+ Numismat
+18.05.2016 00:52:57
+Numismat
+Tvoje cykly v prográmku byly hezké, ale nedokazovaly, že se zaokrouhluje k
+devítce, jak tvrdíš.
+
+Takový nesmysl jsem nikde nepsal.
+
+Stačí se znovu podívat na můj pseudokód
+
+if x between 2,0 to 2,49 then x = 2,0
+if x between 2,50 to 3,49 then x = 3,0
+
+Já psal o tom pokad je to ještě levá polovina a pokad je to pravá polovina. Co
+je v levé polovině se zaokrouhluje dolů a co je v pravé polovině se
+zaokrouhluje nahoru.
+ 9KJD
+17.05.2016 23:03:52
+Z pohledu analytické geometrie má autor diskuze pravdu, protože čísla zde
+vyjadřují geometrické body na číselné ose. Např. číslo 2,5 zde skutečně leží
+přesně uprostřed mezi čísly 2 a 3. Pokud ovšem číslem vyjadřujeme "hodnotu"
+nějaké veličiny, jakékoliv, pak je vše jinak. Jednotlivé čísla zde vyjadřují
+uspořádanou řadu čísel (hodnot), kde platí, že číslo vlevo v této řadě (resp.
+hodnota tohoto čísla) je vždy menší, než číslo vpravo, tedy např. ... < 2 < 3
+< 4 < ...
+
+Zaokrouhlování čísel vyjadřujících "hodnotu", se provádí na počet platných
+míst. První neplatné místo se pak zaokrouhluje tak, jak bylo uvedeno v mnohých
+příspěvcích níže. Jedno platné místo může nabýt jen hodnot 0, 1, 2, ....9, tj.
+celkem deset možných hodnot. Prvních pět hodnot v pořadí 0, 1, .. 4 se
+zaokrouhluje dolů a druhých pět hodnot v pořadí 5, 6, .. 9 nahoru - tedy dolů
+i nahoru se zaokrouhluje stejný počet čísel, v závislosti na jejich pořadí v
+číselné řadě.
+ brindatko
+17.05.2016 22:27:22
+Časový bod 12:00 náleží oběma polovinám dne. To není žádný problém, protože je
+to BOD a je bezrozměrový, může tedy patřit oběma polovinám.
+ Numismat
+17.05.2016 22:25:32
+9KJD: Levá a pravá polovina dne jsou 12-hodinové INTERVALY. ABSOLUTNĚ PŘESNĚ v
+polovině dne (0,5) je ve 12:00 časový BOD.
+
+Čas ani nemusím zastavovat. Klidně ve 12:05 můžu říct, že v 12:00 (úplně
+přesně) bylo staré 0,5 dne.
+
+V 12:00 jsem "mezi" dvěma polovina dne. Přesněji řečeno, tento časový okamžik
+tyto poloviny ohraničuje.
+
+Tvoje cykly v prográmku byly hezké, ale nedokazovaly, že se zaokrouhluje k
+devítce, jak tvrdíš. Zaokrouhluje se k jednotkám, desetinám, desítkám a
+podobně.
+
+Každopádně matematika je zajímavá disciplína!
+[Smajlík]
+ Numismat
+17.05.2016 19:28:09
+9KJD
+To platí i pro plátek chleba, to platí i pro jeden bonbón, pokud chce někdo
+plátek nebo bonbón, musí koupit celý bochník, celé balení. Matematika v praxi
+to teda není.
+ dansk metal
+17.05.2016 18:12:02
+Matematika v praxi vypadá úplně jinak. Když si v obchodě tak se půlka chleba
+nebere jako půlka ale jako celek, tedy jeden kus. Když prodávaj celý chleba
+např 1000g a ty tam příjdeš že chceš půlku chleba (přičemž poloviny
+neprodávaj) tak máš smůlu. Buď si vezmeš celý, nebo si ukrojíš a vezmeš půl
+ale zaplatíš za celý chleba (opravdu jen v případě že poloviny neprodávaj. Je
+to stejné jak kdyby si řekl že chceš 50g bombúonů, které ale jsou v 100g
+sáčcích, no tak když ho otevřeš, tak musíš vzít celý sáček a ne že zaplatíš
+jen polovinu. Nebo že vezmeš jeden bonbón a dáš jim korunu :-) Tak to přece
+nefunguje. Takže jestli chceš půl chleba musíš vzít celý, ale i kdyby si vzal
+jen půlu tak to stejně berou jako jeden chleba :-)
+ 9KJD
+17.05.2016 17:59:07
+Když se dítě narodí v 0:00, tak ve 24:00 má 1 den
+jo, pokud tě zajímaj pouze dny.
+
+ve 12:00 má 0,5 dne.
+To záleží s jakou přesností to chceš. S přesností na jedno desetinné místo jo.
+Ale myslíš tu levou polovinu dne, ne tu pravou polovinu dne. Pokud bys to
+chtěl naprosto přesně, tak vlastně tím že si tam napsal minuty 00 tak se to
+bere jako že už se začal počítat další cyklus.
+
+Problém je v tom že čas nelze zastavit. Ale pokud by si zastavil cyklus přesně
+v 12:00 tak jsi mezi dvěma cykly (mezi dvěma polovinami dne). Kdyby se čas
+zastavil tak si na nule, čili na začátku jedné poloviny dne a pak by si mohl
+říct že dítě je staré půl dne. Jakmile čas uplyne tak už bys měl říkat, "dítě
+'bylo' staré půl dne", protože než dokončíš větu tak už ten čas uplynul a už
+se začíná počítat čas z druhé poloviny dne.
+
+Obrazně, tak jak si to řekl, by jedna polovina byla přesně uprostřed. Stejně
+jak když rozkrojíš chleba přesně uprostřed na dvě poloviny. Nemůžeš říct že
+jedna polovina je méně nebo více, je to prostě uprostřed v pomyslené nule
+kterou si nakreslíš uprostřed.
+
+Cykly samozřejmě jsou, jen je tam musíš vidět. Kdyby sis pořádně prohlédl ten
+můj program co jsem napsal tak by si viděl, že jsem použil pouze cykly čísel
+od 0 do 9. nepoužil jsem čísla větší než 9! A přesto ti jako výsledek vyšly
+čísla větší než 9.
+
+Půl pizzy nebo půl chleba. Kdyby si byl skutečně uprostřed tak si přesně ve
+středu. V reálném životě ale přesný střed nenajdeš, kromě případů kdy počítáš
+samostatné prvky jako prsty na rukou. Jak chceš najít číslo 0,5 prstů to je
+blbost. Prostě máš pět prstů na levé ruce a pět napravo. A pokud řekneš 0,5
+tak je to někde mezi, abstraktní pojem, vzduchoprázdno. Ale pokud to chceš
+brát takhle jako že si objednáš půlku pizzy pochybuju že tě nechá kuchař
+vybrat jestli chceš levou nebo pravou polovinu :-D To je prostě blbost.
+
+Dal bych ti radu aby ses pro začátek držel počítání na rukou a cyklů od 0 do
+9, jinak si jen vytváříš vlastní teorie, které ti nepomůžou to pochopit. K
+tomu musíš s čísly pracovat a přijmout fakt že to funguje tak jak to je a
+časem ti to snad někdy docvakne jak to vlastně funguje. Dítě se taky nenaučí
+chodit tím že bude skládat básničky o tom jak se chodí a snít o tom jaké to
+je, matematika je o tom že ji uplatňuješ v praktických příkladech ze života.
+Já na rozdíl od tebe nemusím vytvářet vlastní teorie, používám ji dennodenně a
+funguje to tak jak říkám.
+ 9KJD
+17.05.2016 13:58:47
+Tady je někdo solidně vypatlaný.
+ základka nestačí
+17.05.2016 13:09:10
+9KJD: Když se dítě narodí v 0:00, tak ve 24:00 má 1 den, ve 12:00 má 0,5 dne.
+
+A teď k jabkám a hruškám. No dobře, mám 10 kousků ovoce. Zaokrouhlování, jak
+už jsem psal dříve, se provádí na setiny, desetiny, jednotky, desítky, stovky
+atd. Pokud chceš zaokrouhlit na desítky 7 kousků ovoce, vyjde ti 10 ovocí.
+Pokud chceš zaokrouhlit na desítky 3 ovoce, vyjde ti 0 ovocí.
+
+Prostě jednotky, ke kterým se může zaokrouhlovat, jsou 2,0; 3,0; 4,0; 5,0 atd.
+Když máš číslo 4,6 tak zaokrouhlení na jednotky může teoreticky proběhnout k
+4,0 nebo k 5,0. Nemůžeš mít jako zaokrouhlovací bod 4,9. Číslo 4,9 NENÍ
+JEDNOTKA! 4,6 je blíže k 5,0, takže to zaokrouhlíš na 5,0. 4,2 je zase blíže k
+4,0, takže zaokrouhlíš na 4,0. 4,5 má stejnou vzdálenost jak k 4,0 tak k 5,0.
+
+Podívej se na pravítko na čísla 4,0; 4,5; 5,0. Nechceš mi snad tvrdit, že 4,5
+je blíže k 5,0 než k 4,0???
+
+Žádné "cykly" nejsou. Zaokrouhluje se na "kulatá" čísla. Buď jednotky (číslice
+na pozici jednotek, tedy první nalevo od desetinné čárky) nebo na desítky
+(číslice na pozici desítek, tedy druhé nalevo od desetinné čárky) atd.
+
+Číslo 9,61 můžeš zaokrouhlit na jednotky (10), na desítky (10), na stovky (0),
+na tisíce (0), na desetiny (9,6) atd.
+
+Číslo 420 můžeš zaokrouhlit na jednotky (420), na desítky (420), na stovky
+(400), na tisíce (0), na desetitisíce (0) atd.
+
+Programovat evidentně umíš, ale neuvědomuješ si, že číslo 2,5 je přesně
+uprostřed mezi 2 a 3 (viz pravítko).
+
+Prostě když máš půl pizzy (0,5), mohl bys to zaokrouhlit na jednotky na žádnou
+pizzu (0) nebo na jednu pizzu (1). Na základní škole se učí, že pětka se
+zaokrouhluje nahoru, ale je naprosto správně i to, když to zaokrouhlíš dolů.
+ Numismat
+17.05.2016 11:57:39
+Numismat:
+pětneníuprostřed: Do té osy musíš zahrnout i desítku.
+0 1 2 3 4 5 6 7 8 9 10
+Pokud zaokrouhluješ na desítky, dané číslo zaokrouhlíš buď na číslo 0 nebo na
+číslo 10.
+
+Ne to je špatně. Počítej v cyklech:
+0 1 2 3 4 5 6 7 8 9 | nový cyklus:
+10 11 12 13 14 15 16 17 18 19 | další cyklus:
+20 21 22 23 24 25 26 27 28 29
+atd.
+
+Respektive:
+00 01 02 03 04 05 06 07 08 09 | nový cyklus:
+10 11 12 13 14 15 16 17 18 19 | další cyklus:
+20 21 22 23 24 25 26 27 28 29
+Všimni si že první číslice označuje číslo cyklu.
+DDrruuhh?á ?č?ísslliiccee ssee nneemm?ěnn?í.. CCyykklluuss vv?žddyy zzaa?č?ínn?á ?č?ísslliicc?í 00 aa kkoonn?č?í 99..
+
+Vyzkoušej toto:
+_h_t_t_p_:_/_/_s_a_n_d_b_o_x_._o_n_l_i_n_e_p_h_p_f_u_n_c_t_i_o_n_s_._c_o_m_/_c_o_d_e_/
+_8_0_7_5_7_5_1_f_5_2_c_c_a_2_6_a_7_1_a_9_3_f_3_e_8_6_8_7_a_9_f_0_7_d_1_9_d_7_1_d_ 
+(click _h_t_t_p_:_/_/_t_i_n_y_u_r_l_._c_o_m_/_j_4_n_h_p_p_z_ 
+
+Klikni na Execute code
+[Smajlík]
+ 9KJD
+17.05.2016 11:44:53
+Tvoje zadání:
+
+Pseudokód:
+if (x in [2,0 .. 2,49]) then x = 2,0
+if (x in [2,50 .. 3,49]) then x = 3,0
+
+neboli
+
+if x between 2,0 to 2,49 then x = 2,0
+if x between 2,50 to 3,49 then x = 3,0
+
+Přesněji řečeno, správně to má být takto:
+
+if x between 11,,5500 to 2,49 then x = 2,0
+if x between 2,50 to 3,49 then x = 3,0
+ 9KJD
+17.05.2016 11:37:03
+Numismat:
+Pětka není uprostřed!
+
+Když se narodí dítě, je v ten čas staré přesně 0 hodin, 0 dnů, 0 měsíců a 0
+let! Ty počítáš od jedničky místo od nuly. Když by se narodilo dítě a v první
+minutě svého narození by mělo 1 den, 1 měsíc, 1 rok tak je to holý nesmysl. 5
+leží v druhé polovině. Nelže říct že je přesně uprostřed.
+
+Když by sis do jedné řady položil nejdříve 5 jablek a vedle nich 5 hrušek,
+kolik máš kousků ovoce? 10.
+
+A kde je střed? Mezi nimi. Páté jablko zleva a pátý hruška zprava neboli šestý
+kousek zleva. Střed leží mezi 5 a 6. A co je mezi 5 a 6? Nic. Jasně, můžeš
+říct že je tam 5.9 po zaokrouhlení ale to je blbost, protože ty nemáš 5.9
+jablek, to už by si bral 0.9 z hrušek.
+ 9KJD
+17.05.2016 10:14:52
+pětneníuprostřed: Do té osy musíš zahrnout i desítku.
+0 1 2 3 4 5 6 7 8 9 10
+Pokud zaokrouhluješ na desítky, dané číslo zaokrouhlíš buď na číslo 0 nebo na
+číslo 10.
+
+Pokud by to bylo jak říkáš, tak bys musel číslo 2,2 zaokrouhlit na jednotky
+buď na 2 nebo na 2,9, což je blbost, protože 2,9 není jednotka.
+
+Právě břehy té řeky jsou čísla 2,0 a 3,0. A pokud budeš uprostřed řeky, tedy v
+2,5, až tě kousne do nohy piraňa, můžeš plavat k jakémukoli břehu, protože to
+bude úplně stejná vzdálenost.
+
+San: To se zdá jako nejlepší řešení.
+troubové: A co z toho vyplývá?
+ Numismat
+17.05.2016 08:48:21
+položte si obě ruce na stůl a pokud máte deset prstů, tak kolik je přesně v
+půlce, tj. mezi palci? 5 a půl!
+ troubové
+17.05.2016 08:36:28
+Zaokrouhlování čísla 5 by se mělo provádět "Preferencí sudé" tj. zaokrouhlit k
+nejbližšímu sudému číslu - 1,5 = 2 a 2,5 = 2. a to ze dvou důvodů
+1. - Aritmetika - snížení průměrné chyby - např. z hodnot 1,5, 1,5, 4,5, 2,5 a
+1,5 se součtem 11,5 a s průměrnou hodnotou 2,3 získáme po zaokrouhlení půlek
+nahoru hodnoty 2, 2, 5, 3, 2, součet 14 a průměr 2,8, kdežto při preferenci
+sudé čísla 2, 2, 4, 2, 2, součet 12 a průměr 2,4, tedy menší průměrnou chybu.
+2. Zaokrouhlování s preferencí sudé číslice se používá v normě IEEE 754 pro
+zobrazení floating point čísel.
+
+To, že učitelé jsou vesměs tupí a neznalí, pak vede k naprostému nepochopení
+matematiky.
+ San
+17.05.2016 04:09:21
+Je irelevantní, že číslo 5 je v prvních deseti číslech desítkové soustavy (0-
+9) až za prostředkem v druhé polovině. Zaokrouhlovací pravidla se od tohoto
+vůbec neodvozují.
+---
+Tuhle větu nechápu, ale to není důležité.
+Protože je pětka blíž ke konci osy
+OSA: 0 1 2 3 4 5 6 7 8 9
+zaokrouhluje se to blíž k té ose. Je to logičtější, spravedlivější a přesnější
+(přesně o jedno místo) než zaokrohlouvat k osed na druhou stranu. Na základě
+toho se vytvořilo zaokrouhlovací pravidlo. Čtyřka je blíž tam dolů, proto se
+zaokrohluje dolů, pětka nahoru, proto se zaokrouhluje nahoru.
+
+Stojíš uprostřed řeky plné piraňů na kocábce která jde ke dnu, jeden břeh
+vpravo je vzdálený tři metry, druhý deset, kam to zkusíš skočit? Jestli jsi
+blb, tak na ten vzdálenější, jestli nejsi blb, na ten bližší. Zaokrouhlovací
+pravidlo funguje na podobném principu, krouhlí se tam kde je to blíž.
+ pětneníuprostřed
+17.05.2016 03:30:41
+Krololololololololo: Však jo, zaokrouhlováním na "kulatá čísla" mám na mysli
+zaokrouhlování na setiny, desetiny, jednotky, desítky, stovky a tak dále.
+Prostě normálně zaokrouhlit.
+
+Tedy pokud chci zaokrouhlit číslo 2,7 na jednotky, musím ufiknout číslici za
+desetinnou čárkou, respektive za číslicí na pozici jednotek (tedy za
+desetinnou čárkou) už budou jen nuly. Výsledek je 3,00000... (slovy: tři)
+
+Pokud chci zaokrouhlit číslo 228 na stovky, za číslicí na pozici stovek už
+budou jen nuly. Výsledek je 200,0000... (slovy: dvě stě)
+ Numismat
+17.05.2016 03:17:36
+Numismat:
+A co kdybys zaokrouhloval na čtyřky? To bys potom zaokrouhloval trojku dolů,
+protože je blíže kulatému číslu?
+
+Nejde o kulatá čísla, ale o řády, soustavy, ve kterých zaokrouhluješ.
+ Krololololololololo
+17.05.2016 02:49:54
+Krololololololololo: No tak to je dobrý. Navzájem se obviňujeme z trollingu :
+D
+
+pětneníuprostřed: Je irelevantní, že číslo 5 je v prvních deseti číslech
+desítkové soustavy (0-9) až za prostředkem v druhé polovině. Zaokrouhlovací
+pravidla se od tohoto vůbec neodvozují.
+
+Zaokrouhlovací pravidla se odvozují od toho, jakému "kulatému" číslu je
+zaokrouhlované číslo blíže. Takže například číslo 2,3 má vzdálenost 0,3 od
+čísla 2 a 0,7 od čísla 3, zaokrouhlí se tedy na 2, protože je to blíž. Číslo
+2,5 má k číslu 2 i 3 stejnou vzdálenost 0,5. Není tedy možné logicky vybrat
+jen jedno číslo, na které zaokrouhlíme. Ustálil zvyk, že číslice 5 se
+zaokrouhlí nahoru. Mohl se ustálit i zvyk, že číslice 5 by se zaokrouhlila
+dolů, z nějakého důvodu se tak ovšem nestalo. (Možná proto, že 0,5 by se
+zaokrouhlilo na 0, ale lidé z důvodu nutnosti optimismu v životě raději tu
+polovinu zaokrouhlili nahoru na 1. Viz poloprázdná a poloplná sklenice, již
+zmíněná níže.)
+ Numismat
+17.05.2016 02:31:44
+pětneníuprostřed:
+Děkuji!
+[Smajlík]
+ Krololololololololo
+17.05.2016 02:27:17
+Numismat:
+Jednoduše, pokud zaokrouhluješ na stovky, tak je šestka směrem dolů. I 49 je
+dolů. Pokud zaokrouhluješ na desítky, tak je šestka (stejně jako pětka) zase
+směrem nahoru. Simple.
+
+Spíš tahle diskuze je už od chvíle, kdy jsi ji založil trolling.
+ Krololololololololo
+17.05.2016 02:26:15
+Terminologie není důležitá, stačí vědět, že existuje deset čísel, které
+používáme. Víc jich není. Deset, proto desítková soustava. Seřaď těchto deset
+čísel za sebou, od nejnižšího k nejvyššímu. Najdi prostředek. Je mezi 4 a 5.
+Pět je nad prostředkem, zaokrouhluje se nahoru.
+
+10 = 0, 10 není konec těch deseti čísel, ale začátek další řady.
+
+Nesnaž se to chápat na letech v letopočtu, roky se začínají počítat prvním
+dnem prvního roku, stejně jako na prstech ruky, nula se vynechává.
+ pětneníuprostřed
+17.05.2016 02:21:52
+Tohle doslova bolí.
+
+Desítková soustava je soustava deseti čísel od nuly do devítky (ze kterých se
+skládají všechna celá čísla vyšší, 10, 11 atd.).
+Jedenáctková proto, že je čísel 11.
+
+Prsty nejsou desítková soustava, prsty začínají na jedničce a končí na
+desítce.
+
+Desítková soustava - pětka není uprostřed, prostředek je mezi 4 a 5. Proto je
+pětka nad prostředkem, zaokrouhluje nahoru.
+
+Taky bych nedokázal odpovědět proč a ptal se jako ty, ale ta vysvětlení tady,
+to je tak jasné, pochopitelné, perfektně vysvětlené, že to nejde nechápat.
+Nejde. Prostě nejde.
+ pětneníuprostřed
+17.05.2016 02:10:58
+Krololololololololo: Tak možná že konkrétně já potřebuji tu správnou
+terminologii, abych pochopil. Ale i obecně může být problém snažit se někomu
+vysvětlit přesnou vědu matematiku a nepoužívat přesnou terminologii.
+
+"Ještě poslední pokus... Pokud bys zaokrouhloval na stovky (stovková
+soustava), tak bys zaokrouhloval dolů i šestku, představ si to. A ano, pětka
+se dá zaokrouhlovat i dolů, pokud člověk zaokrouhluje na jedenáctky (0-10),
+jako ty. "
+
+Tak promiň, ale tímto jsi mi definitivně zavařil hlavu. I když neznáš přesnou
+terminologii, tak věz, že pro zaokrouhlování na stovky nemusíš používat
+stovkovou soustavu (která by měla sto různých ČÍSLIC, tedy sto různých ZNAKŮ).
+"bys zaokrouhloval dolů i šestku, představ si to" ... promiň, tohle si vůbec
+nedokážu představit, o čem tady mluvíš.
+
+Operuješ tady s nějakým termínem "desítky" (0-9) a "jedenáctky" (0-10), ale
+rozhodně nechápu, co tím myslíš.
+
+Hele, a netrollíš mě?
+ Numismat
+17.05.2016 01:57:52
+Numismat:
+Pokud nevíš co je desítková soustava, tak se v našem prostoru těžko můžeš
+bavit o běžně užívané matematice.
+
+Já rozumím tomu co říkám. Možná neoplývám znalostí terminologie (vážně běžně
+neoperuji s pojmy jako množina, interval, přirozené číslo...), ale pro
+člověka, který se snaží porozumět, jsou má tvrzení zřejmá.
+
+Ještě poslední pokus... Pokud bys zaokrouhloval na stovky (stovková soustava),
+tak bys zaokrouhloval dolů i šestku, představ si to. A ano, pětka se dá
+zaokrouhlovat i dolů, pokud člověk zaokrouhluje na jedenáctky (0-10), jako ty.
+ Krololololololololo
+17.05.2016 01:34:34
+Krololololololololo: "Chytám tě za slovo", abych poukázal na to, že ve
+skutečnosti přesně nerozumíš tomu, co říkáš.
+
+No hele, ohledně svojí teorie jsi mě nepřesvědčil. Prostě tam mícháš něco, co
+s tím vůbec nesouvisí a nedokáže to tedy ani nikomu vysvětlit. Zaokrouhlit
+znamená přiřadit NEJBLIŽŠÍMU KULATÉMU číslu.
+
+Pětka je uprostřed mezi dvěma kulatými čísly. Už jsem si přečetl i na
+Wikipedii, že pětka je specifický případ a musí se vymyslet nějaké řešení. Je
+zvykem, že tímto řešením je obvykle zaokrouhlení nahoru, ale můžeš to třeba
+zaokrouhlit i dolů a nikdo ti nemůže nic vytknout. S nějakou desítkovou
+soustavou (ani nevím, co to PŘESNĚ znamená) to nemá nic co do činění.
+ Numismat
+17.05.2016 01:19:41
+Numismat:
+Klidně si přirovnávej sklenice k dvojkám. Já zůstanu u desítek, protože si
+dokáži představit pouze soustavy čísel která končí číslicí nula (od desítky
+výš).
+ Krololololololololo
+17.05.2016 01:15:44
+Numismat:
+To už se vážně snažíš ignorovat mé tvrzení tím, že mě chytáš za slovo, ale
+dobře... Mluvil jsem samozřejmě o přirozených číslech (mezi devítkou a
+desítkou se nenachází ani jedno takové).
+ Krololololololololo
+17.05.2016 01:15:13
+Krololololololololo: Žádná desítková soustava by v té sklenici prostě nebyla.
+Spíš dvojková, binární. Takže bys musel říct buď 0 sklenic nebo 1 sklenice.
+ Numismat
+17.05.2016 01:11:38
+fordmustache:
+No, asi bych se napil a problém by byl vyřešen :D.
+
+Ne vážně, předstíral bych, že sklenicová soustava je desítková soustava. Tudíž
+začátek první desítky by začínal na nule (tedy žádná sklenice) a její konec na
+9,999999... (tedy téměř jedna sklenice). Přesně polovinu sklenice bych tedy
+zaokrouhlil na celou sklenici.
+ Krololololololololo
+17.05.2016 01:04:58
+Krololololololololo: No tak aspoň víme, v čem se neshodneme.
+
+Víš co, já myslím, že my dva víme houby, co to znamená, že naše číselná
+soustava je desítková.
+
+Napsal jsi svoje odůvodnění, proč se 5 zaokrouhluje nahoru. Moje odůvodnění je
+to, že se tak prostě rozhodlo, mohlo se rozhodnout i tak, že se bude
+zaokrouhlovat dolů.
+
+"Čísla jsou uspořádána do desítkové soustavy. Desítky máme 0-9, 10-19, 20-
+29... Každá desítka je intervalem desíti čísel." ... Spíš by se mělo říct, že
+čísla jsou vyjádřena v desítkové soustavě, ne? "Desítka je intervalem deseti
+čísel."?? Nebo jsi spíš chtěl říct množinou? A co bude s intervalem například
+(9, 10) nebo (19, 20). To nám jaksi vypadlo.
+ Numismat
+17.05.2016 00:49:37
+@Krololololololololo:
+kdyby sis jen precetl, co se tu psalo driv...
+
+Predstav si, ze mas z poloviny plnou sklenici vody a mas rict, kolik mas
+sklenic vody, zaokrouhleno na cele sklenice - a neplet do toho zadne ciselne
+soustavy, protoze je to uplne zbytecne
+ _f_o_r_d_m_u_s_t_a_c_h_e [Muž]99 [Kategorie]
+17.05.2016 00:39:33
+Numismat:
+Právě že při zaokrouhlování pětky je irelevantní desítka, nikoli devítka.
+
+Čísla jsou uspořádána do desítkové soustavy. Desítky máme 0-9, 10-19, 20-29...
+Každá desítka je intervalem desíti čísel. Pokud je číslo bližší začátku
+intervalu (desítky) ve kterém se nachází, tak ho zaokrouhlíme na začátek
+desítky ve které se nachází. Pokud je číslo bližší konci desítky ve které se
+nachází, tak ho zaokrouhlíme na spodní hranici vyšší desítky. Proto se tomu
+říká zaokrouhlování na desítky.
+
+Podobně je to se stovkami (0-99), tisícovkami (0-999)...
+ Krololololololololo
+17.05.2016 00:12:35
+Krololololololololo: Ale to spíš ty říkáš věty, které nedávají smysl.
+
+"Pětka je bližší devítce než nule, proto se zaokrouhluje na deset." ... To je
+sice hezké, že pětka je blíž devítce, jenže u zaokrouhlování je nějaká devítka
+irelevantní. Tam je důležité, co je bližší desítce.
+
+Mně spíš připadá, že si neuvědomuješ, že čísla jsou body. Můžeš mít interval
+2,0 až 3,0 a můžeš mít další interval 3,0 až 4,0. A vůbec to nevadí.
+
+Jenže tvůj problém je asi ten, že čísla jsou podle tebe intervaly. Máš
+představu, že třeba číslo 2,5 má na číselné ose nějakou šířku a že tuhletu
+šířku nemůžeš nijak přepůlit a že tedy dělicí čáru musíš provést mezi 2,4 a
+2,5.
+
+Jenže čísla jsou body, nikoli intervaly určité šířky. Tohle ti způsobuje
+zmatek.
+ Numismat
+16.05.2016 23:56:23
+Numismat:
+Pětka je bližší devítce než nule, proto se zaokrouhluje na deset. Interval 10
+až 20 je tvořen jedenácti čísly, pokud chceš zaokrouhlovat na desítky, musíš
+používat intervaly desíti čísel. Od toho se tomu taky říká desítková soustava.
+
+
+Z tvé diskuze vyplývá akorát to, že jsi buď troll ty, anebo jsi natvrdlý.
+ Krololololololololo
+16.05.2016 23:05:02
+Krololololololololo: Prosím tě, co je to za větu? "10 až 20 je jedenáctková
+soustava." Tahle věta je nesmyslná. 10 až 20 je interval čísel mezi 10 a 20,
+včetně těchto dvou čísel. Teď to neber osobně, ale nemá být tvoje přezdívka
+spíš Trololololo?
+
+Já myslím, že z dnešní debaty jasně vyplynulo, že zaokrouhlování pětky nahoru
+je arbitrární, neboť pětka není blíž hornímu číslu, nýbrž je stejně vzdálená
+jak od nižšího, tak od vyššího čísla.
+ Numismat
+16.05.2016 22:48:03
+Numismat:
+Inu, 15 je vážně přesně uprostřed mezi 10 a 20, ale to na zaokrouhlování nemá
+vliv.
+
+10 až 20 je jedenáctková soustava, tedy nonsense. po 10 až 20 by musela
+následovat 21 až 32. Wtf? A ještě před 10 až 20 by muselo být -1 až 9.
+ Krololololololololo
+16.05.2016 22:28:12
+Krololololololololo: "Tvá úvaha o tom, že 15 je přesně uprostřed mezi desítkou
+a dvacítkou je lichá." Ne, není. Patnáctka JE přesně uprostřed :)
+
+Pak tu říkáš nějaké intervaly 10-19 je prý správně, 10-20 je prý špatně. Jenže
+správně a špatně ohledně čeho.
+
+"Navíc mezi dvacítkou a třicítkou je přesně 11 čísel" ... Ano, pokud počítáš i
+dvacítku a třicítku. To máš 11 přirozených čísel a zjistíš že pětka je přesně
+uprostřed.
+ Numismat
+16.05.2016 22:26:16
+Neuniká Vám tak trochu význam zaokrouhlování? :O
+ _d_o_h_l_o_u_b_k_y [Muž]20 [Kategorie]
+16.05.2016 22:15:19
+mnd:
+Ale deset eur je už v druhé desítce. Nula se zaokrouhluje na nulu.
+ Krololololololololo
+16.05.2016 22:12:46
+V tom pripade v desiatkovej sustave vznika nepomer cisel zaokruhlovanych
+smerom hore/dole.
+Nulu nezaokruhlujeme - nic sa nezmeni. Zostavaju 1,2,3,4 smerom dole a ostane
+5,6,7,8,9 hore.
+Tiez v tom vidim nepresnost. Ak nieco stoji 10eur, tak predavačke predsa
+nepoviete, budem platit v desiatkovej sustave..tu mate 9 a dovidenia.
+Takze 4 vs 5.
+ mnd
+16.05.2016 21:35:08
+Numismat:
+Pětka by se dala zaokrouhlovat pouze v případě, že by nebylo 0-9, ale 1-10
+(což je nesmysl, vytratila se nám jaksi nula).
+ Krololololololololo
+16.05.2016 21:33:37
+Tvá úvaha o tom, že 15 je přesně uprostřed mezi desítkou a dvacítkou je lichá.
+
+
+10-19
+20-29
+
+Tak je to správně.
+
+10-20
+20-30
+
+Dvacítka je zdoublovaná, takže rozhodně špatně.
+
+Navíc mezi dvacítkou a třicítkou je přesně 11 čísel, ale my používáme
+desítkovou, nikoli jedenáctkovou soustavu.
+ Krololololololololo
+16.05.2016 21:32:42
+Siri chan: Ale mně nevadí, že 0-9 tvoří jakousi kategorii a že 10 už je v jiné
+jakési kategorii.
+
+Tady nehraje žádnou roli, že jsou tu údajně nějaké kategorie čísel v rámci
+desítkové soustavy. 2,5 je přesně uprostřed a pravidlo zaokrouhlovat pětku
+nahoru je arbitrární. Stejně tak se mohlo vymyslet pravidlo o zaokrouhlování
+pětky dolů.
+ Numismat
+16.05.2016 21:11:41
+Když se díváš na pravítko, tak ano, ale protože se díváš na 11 jednotek,
+jakoby tvořili jednu.
+Ale znovu: tohle je desítková soustava.
+
+Nakresli se číselnou osu a vymaluj si 0 - 9 jednou barvou (protože to je právě
+ta jedna "jednotka vyššího řádu" tvořená deseti podjednotkama, protože...
+desítková soustava!) a 10 - 19 jinou barvou a uvidíš to.
+ _S_i_r_i_ _c_h_a_n [Žena]21 [Kategorie]
+16.05.2016 20:55:56
+Siri chan: Ale souhlasíš snad s tím, že 2,5 je přesně uprostřed mezi 2 a 3?
+Klidně se podívej zde na číselnou osu, abys mi věřila: _h_t_t_p_:_/_/_1_u_r_l_._c_z_/_J_t_u_5_b
+ Numismat
+16.05.2016 20:55:04
+V matice je mi plno věcí zcela nejasných, ale diskutovat o tom...? Je to
+zkrátka dané, nelze to ovlivnit.
+ _a_i_u_t_o_-_a_n_i_m_a [Žena]19 [Kategorie]
+16.05.2016 20:40:35
+Ty ale pořád nevidíš, že těch deset čísel dává dohromady jednu pomyslnou
+jednotku, stejně jako deset těhle pomyslnejch jednotek dává dohromady další
+pomyslnou jednotku vyššího řádu.
+
+Ty ale vidíš "jednotky" po jedenácti a to je špatně, protože je to desítková
+soustava.
+ _S_i_r_i_ _c_h_a_n [Žena]21 [Kategorie]
+16.05.2016 20:34:22
+qwertzu 20:22: No to je fakt. Ale já vlastně nevím, jak to pravidlo o
+zaokrouhlování k sudému přesně zní.
+
+Siri chan: Na tohle už upozorňoval fordmustache.
+
+a=2,0, b=2,1, c=2,2, d=2,3, e=2,4, f=2,5, g=2,6, h=2,7, i=2,8, j=2,9
+ba=3,0, bc, bd, be, bf, bg, bh, bi, bj
+
+Chci zaokrouhlit na jednotky, tedy buď na číslo 2,0 nebo na číslo 3,0. Číslo
+2,5 je PŘESNĚ uprostřed, tedy za žádnou polovinou.
+ Numismat
+16.05.2016 20:32:52
+@qwertzu:
+bere se vzdycky cislice vyssiho radu, kdyby ses na tim aspon na moment
+zamyslel, urcite bys na to prisel
+
+
+@SiriChan:
+vsechna cisla jsou jen body na ciselne ose, je naprosto nesmyslne operovat s
+tim, ze by mely nejakou sirku (tak jak se o to snazi ta tva ilustrace)
+ _f_o_r_d_m_u_s_t_a_c_h_e [Muž]99 [Kategorie]
+16.05.2016 20:22:22
+Když chceš zaokrouhlit 15, tak 10 a 20 jsou sudá čísla, tak co teď? :)
+ qwertzu
+16.05.2016 20:21:37
+Představ si, že bychom místo číslic měli písmena:
+
+a, b, c, d, e, f, g, h, i, j
+ba, bc, bd, be, bf, bg, bh, bi, bj
+a tak nějak dál
+
+Už chápeš, proč se f zaokrouhlí na ba? f neni uprostřed, je za pomyslnou
+polovinou (pomyslnou, protože je to sudej počet a žádný celý písmeno neni
+uprostřed).
+ _S_i_r_i_ _c_h_a_n [Žena]21 [Kategorie]
+16.05.2016 20:17:33
+Příspěvek porušoval zákony ČR nebo pravidla Zpovědnice - byl odstraněn.
+16.05.2016 20:16:43
+Kámo, ty seš magor, příště nezapomeň založit diskuzi proč je 1 + 1 zrovna dvě
+a ne 2,5.
+ skokan
+16.05.2016 20:15:05
+Vidím to jako docela velkej problém. Děti se na základce naučí, že 5 se
+zaokrouhlí nahoru. Přitom je lepší užít pravidlo zaokrouhlení na sudé číslo,
+protože je pak menší pravděpodobnost kumulování chyby.
+
+Ale ještě bych měl otázku. Mohla by se 5 zaokrouhlovat třeba na liché číslo?
+Tipuju, že ano. Mohlo by to tak tedy být?
+ Numismat
+16.05.2016 20:13:22
+a jeste pro lidi pletouci do toho cislice:
+
+at nejste na ty cislice tak fixovani, proc se pulka zaokrouhluje zrovna k
+celku? Je to nejaka diskriminace pesimistu? ( viz glass half-full vs half-
+empty)
+ _f_o_r_d_m_u_s_t_a_c_h_e [Muž]99 [Kategorie]
+16.05.2016 20:12:46
+Je to přesně tak, jak to popisujou soudruzi pode mnou: máme desítkovou
+soustavu -> 10 číslic (0 - 9) -> sudej počet -> nic neni uprostřed.
+ _S_i_r_i_ _c_h_a_n [Žena]21 [Kategorie]
+16.05.2016 20:09:11
+fordmustache: No super, díky za vysvětlení!
+
+Dokonce jsi vysvětlil i to, proč se někdy může použít pravidlo o
+zaokrouhlování k sudému číslu, jak tu už někdo zmínil před tebou.
+
+Takže z toho plyne poučení, že dětem na základní škole by se mělo říct:
+"Když je něco přesně v polovině a my to chceme zaokrouhlit, je tu arbitrární
+pravidlo, že to zaokrouhlíme výš."
+ Numismatik
+16.05.2016 20:05:10
+Sice vidíš, že 2,5 je mezi 2 a 3, to je pravda, ale už si nevšímáš, že bereš
+11 číslic v desítkové soustavě ;), to je jako kdybych vzal 0,1,2 ve dvojkové.
+ qwertzu
+16.05.2016 20:03:00
+je to naprosto arbitrarni, a neni na tom nic spatneho, arbitrarni je i napr.
+pouzivani zrovna desitkove soustavy i kdyz by pro matematiku byly i vhodnejsi
+soustavy a historicky se jine soustavy taky pouzivaly napr u Inku (to jen
+kvuli argumentu 10 prstu)
+
+
+Lidi kteri do toho pletou cislice ignoruj, staci se podivat na ciselnou osu a
+je jasne , ze mas pravdu...
+
+Mimochodem, wikipedie zminuje u clanku o zaokrouhlovani nekdy pouzivane
+pravidlo zaokrouhlovani k sudemu cislu, aby se vyhnulo kumulaci chyb napr. pri
+vicenasobnem zaokrouhlovani
+ _f_o_r_d_m_u_s_t_a_c_h_e [Muž]99 [Kategorie]
+16.05.2016 20:02:17
+Numismat: problém je ale v tom, že máš určité řady těch čísel. 0-9, 10-19, 20-
+29, ... nezačíná se jedničkou, ale nulou, a nekončí se desítkou, ale devítkou.
+
+V binární soustavě, kde máš dvě čísla, taky neni 1 a 2, ale 0 a 1. Ve trojkové
+soustavě to bude 0, 1 a 2, ale už ne tři. Stejně tak v desítkové je to 0, 1,
+2, ..., 9, ale už ne 10.
+Proto ta pětka se zdá být uprostřed, ale v podstatě neni :D
+ _M_a_g_n_u_s_1_2_3 [Muž]20 [Kategorie]
+16.05.2016 19:56:19
+Černý Vlk: Tolikrát jsem to už zopakoval. Problém je v tom, že číslo 2,5 je
+PŘESNĚ UPROSTŘED mezi čísly 2 a 3. Podle pravidla, které se učí na základní
+škole se má zaokrouhlit nahoru.
+
+Otázka zní, proč nahoru, když 5 je přesně uprostřed?
+ Numismat
+16.05.2016 19:51:46
+Pět číslic zaokrouhluješ dolu a pět číslic nahoru, kde je problém?
+ _Č_e_r_n_ý_ _V_l_k [Muž]25 [Kategorie]
+16.05.2016 19:46:17
+Numismat: věřím, že taková dohoda by byla možná. Ta první varianta těžko.
+ _M_S_-_f_a_n_o_u_s_e_k [Muž]50 [Kategorie]
+16.05.2016 19:38:10
+A736: A proč zrovna na nejbližší sudé?
+
+A proč se na základní škole učí, že pětka se zaokrouhluje nahoru?
+
+MS-fanousek: Půjčím ti 2500, ale ty mi budeš muset vrátit zaokrouhleně 3000
+Kč. Nebude v tom problém, že? :)
+ Numismat
+16.05.2016 19:34:53
+qwertzu: Já teda koukám, co jsi označil za moje tvrzení :)
+
+Já každopádně vidím to, že 2,5 je přesně uprostřed mezi 2 a 3. Že 9,5 je
+uprostřed mezi 9 a 10. A tak dále.
+ Numismat
+16.05.2016 19:27:24
+Pětka se ale opravdu zaokrouhluje v některých případech nahoru a v některých
+dolů. Napříkald ve statistice se pětka zaokrouhlý vždy na nejbližší sudý
+číslo.
+
+2.15 na 2.2
+2.45 na 2.4
+ A736
+16.05.2016 19:26:02
+Numismat: to je jednoduchý. Půjčíš mi 2500 a já ti vrátím zaokrouhleně 2000.
+Budeš spokojenej?
+ _M_S_-_f_a_n_o_u_s_e_k [Muž]50 [Kategorie]
+16.05.2016 19:02:26
+Kategorie jednotky - 0,1,2,3,4,5,6,7,8,9 (10 čísel) - střed není
+Kategorie desítky - 10,20,30,40,50,60,70,80,90 (10 čísel) - střed není
+
+Tvoje tvrzení
+Kategorie jednotky - 0,1,2,3,4,5,6,7,8,9,10 - (11 čísel) střed 5. Desítka sem
+nemá patřit, protože má 2 čísla z kategorie jednotek a to je 1 a 0.
+
+Kategorie desítky - 20,30,40,50,60,70,80,90,100 (9 čísel) střed 60 - tady už
+tvoje tvrzení špatné, u desítek by se musela 60 zaokrouhlovat dolů, zatímco 6
+v jednotkách nahoru.
+
+Sice se ti zdá, že 5 je uprostřed, ale jenom protože jsi zvyklý při číslici 0
+nezvedat žádný prst tzn. že na deseti prstech dokážeš ukázat 11 čísel.
+ qwertzu
+16.05.2016 18:46:23
+qwertzu: Ty mi říkáš něco podobného, jako 9KJD, že? Jenže já to pořád nechápu.
+
+
+Prostě mě zajímá, když mám 2500 Kč, proč můžu říct, že mám zaokrouhleně 3000
+Kč, ale nikdy nemůžu říct, že má zaokrouhleně 2000 Kč. 2500 je ale přesně v
+polovině.
+
+Ty se mi snažíš říct, že 2,0 až 2,9 jsou čísla v jedné kategorii, a 3,0 je už
+v jiné kategorii?
+ Numismat
+16.05.2016 18:36:41
+2,02 dolů = 2,0
+2,12 dolů = 2,0
+2,22 dolů = 2,0
+2,32 dolů = 2,0
+2,42 dolů = 2,0
+
+5x
+--------------------------
+2,52 nahoru = 3,0
+2,62 nahoru = 3,0
+2,72 nahoru = 3,0
+2,82 nahoru = 3,0
+2,92 nahoru = 3,0
+
+5x
+---------------------------
+3,02 dolů = 3,0
+.
+.
+.
+
+Ty 2 setiny jsou tam schválně, protože by jsi mohl neprávem namítat, že když
+2,0 se má zaokrouhlit dolů, tak má vyjít 1,0.
+ qwertzu
+16.05.2016 18:30:27
+Numismat: protože když platíš v obchodě, platil bys míň, kdyby se
+zaokrouhlovalo dolů.
+ _K_l_o_k_a_n_5_0_2_4 [Muž]18 [Kategorie]
+16.05.2016 18:21:54
+9KJD:
+
+2,0 - 3,0
+2,1 - 2,9
+2,2 - 2,8
+2,3 - 2,7
+2,4 - 2,6
+2,5 - 2,5
+
+Chci zaokrouhlit číslo 2,5 na jednotky, tedy buď na číslo 2 nebo na číslo 3.
+Pravidlo říká, že mám zaokrouhlit na číslo 3. Jenže to je arbitrární, neboť
+2,5 je přesně uprostřed.
+
+Takže ne, zatím nechápu proč.
+ Numismat
+16.05.2016 18:20:15
+9KLD: není co dodat
+ _d_o_h_l_o_u_b_k_y [Muž]20 [Kategorie]
+16.05.2016 18:14:21
+V desítkové soustavě máš 10 číslic. Počítej na prstech levé ruky:
+0,1,2,3,4
+a na prstech pravé ruky:
+5,6,7,8,9
+už chápeš proč?
+ 9KJD
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+

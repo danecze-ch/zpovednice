@@ -1,0 +1,142 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+   Otázky - Vzkazy č.931942, vloženo _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+   31.03.2016 21:54:01               _s_t_r_á_n_k_a_]
+   Matika - prosím pomoc
+   Ahoj, pomůžete mi, prosím, vyřešit tuto úlohu?
+
+   Pro různé cifry A, B, C platí:
+   &#8730;BA(odmocnina platí i pro A) = A, A(na třetí) = CBA.
+   Určete 3A + 4B.
+   a) 15 b) 25 c) 23 d) 18 e) 11
+    agae [Muž]19  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+31.03.2016 22:41:11
+Trol:
+Ano, tento termín umožňuje tvoje řešení, ale není z toho úplně jasné, že je
+tohle směr, kterým se ubírat. Jenže když to vezmu podle mého postupu, je
+jasné, že to je špatně, protože ta čísla mi vychází stejná. Pak je třeba
+hledat, jestli jsem něco přehlédl a nebo je v zadání ukrytá jiná cesta a na tu
+jsi ty narazil.
+ _g_y_o_k_u_r_o [Muž]35 [Kategorie]
+31.03.2016 22:35:59
+gyokuro: V zadání je "Pro různé cifry" :D
+A dobrou noc
+[Smajlík]
+ Trol
+31.03.2016 22:28:38
+Trol, kokosovydort:
+Tak tohle mě vůbec nenapadlo, já to bral jako součin :D Takhle to samozřejmě
+jde.
+ _g_y_o_k_u_r_o [Muž]35 [Kategorie]
+31.03.2016 22:24:50
+To se mi nějak nezdá, podle mne to nejde. Leda bys začal pracovat s
+iracionálními čísly, ale pak zase nemůže být řešení mezi těmi čísly.
+
+
+Podle druhé rovnice B a C můžou být převrácené hodnoty, jako 1/2 a 2, ale
+podle první to nejde, aby A a B nebyly stejné. Když rovnici vykrátíš
+odmocninou z A, pak ti vyjde odmocnina z B=odmocnina z A. Tam by ti mohlo
+vyjít i, že A=-B, ale pokud bys pak dosadil, vyšlo by to odmocnina z (-A na
+druhou)=A a to by bylo Ai, ne A. Pak by platilo C=1/-A, tedy 1/B, ale v té
+první rovnici to nesedí.
+ _g_y_o_k_u_r_o [Muž]35 [Kategorie]
+31.03.2016 22:23:59
+Sorry, podle tvaru CBA, už taky blbnu, jdu radši spát :D
+Ale výsledek by pořád mohl být teoreticky dobře...
+ kokosovydort
+31.03.2016 22:22:04
+Gyokuro má pravdu, ovšem kdybych použil původní zadání:
+BA je dvojciferné číslo, které lze odmocnit, tedy 16, 25, 36, 49, 64 nebo 81.
+Zároveň výsledek po odmocnění A musí být stejný jako druhá cifra čísla A. To
+odpovídá pro čísla 5 a 6 (5*5=25 a 6*6=36). Cifra B tedy bude buď 2 (25) nebo
+3 (36).
+Následně můžeme vypočítat, že 5 na třetí je 125 a 6 na třetí je 216. Tvaru ABC
+odpovídá číslo 125, protože 5 může být A a 2 může být B. 6 by taky mohlo být
+A, ale 1 už nemůže být B podle předchozího kroku.
+Zbývá tedy vynásobit a sečíst podle: 3A + 4B, tedy 3*5 + 4*2 = 15 + 8 = 23.
+Odpověď by tedy mohla být c), pokud dobře počítám.
+ kokosovydort
+31.03.2016 22:21:29
+1) sqrt(BA)=A
+2) A^3=CBA.
+
+Pro jaké A platí 1? 5^2=25, 6^2=36. Takže víme, že áčko je pětka nebo šestka a
+podle toho béčko je dvojka nebo trojka.
+
+Co z toho by platilo pro 2?
+5^3 = CBA = C25
+Nebo
+6^2 = CBA = C36
+ Trol
+31.03.2016 22:18:43
+Jenom jseš línej zapnout mozeg.
+[Smajlík]
+ jedna je taky číslo
+31.03.2016 22:17:19
+Ono právě A a B musí být rozdílná čísla, to mně vůbec nedává smysl...
+Ale děkuju:)
+ agae
+31.03.2016 22:15:06
+Tak teď už fakt blbnu :D Myslím na to, kde je chyba a pak vidím chybu tam, kde
+není :D Takže původní zápis platí :D Asi už půjdu spát :D
+[Smajlík] [Muž]35 [Kategorie]
+ _g_y_o_k_u_r_o
+31.03.2016 22:13:47
+Sorry, mám ukliknutí, samozřejmě to mělo být 3A+4A=7, ne 7A ;)
+ _g_y_o_k_u_r_o [Muž]35 [Kategorie]
+31.03.2016 22:12:01
+Pak bych řekl, že A=B podle první rovnice a podle druhé rovnice A(na
+druhou)=BC. Pokud pak dosadíš z první rovnice do druhé, vyjde ti, že B(na
+druhou)=BC, tedy B=C, takže A=B=C. Ale pak mi nevychází žádný z výsledků,
+protože 3A+4B=7A a žádné z čísel není násobkem 7.
+ _g_y_o_k_u_r_o [Muž]35 [Kategorie]
+31.03.2016 22:07:01
+odmocnina z (AB) = A
+A (na třetí) = ABC
+ agae
+31.03.2016 22:01:21
+Zkus to napsat znovu a tentokrát tak, aby bylo trochu jasnější zadání. Vůbec
+nechápu tvůj zápis. Pak se těžko něco počítá...
+ _g_y_o_k_u_r_o [Muž]35 [Kategorie]
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+
