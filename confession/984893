@@ -1,0 +1,296 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+   Otázky - Vzkazy č.984893, vloženo _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+   05.02.2017 16:21:59               _s_t_r_á_n_k_a_]
+   Programování - jazyk?
+   Ahoj, potřebovala bych se zeptat na jednu otázku (v tomhle případě
+   někoho,
+   kdo tomu opravdu rozumí).
+
+   Už dlouho přemýšlím, jaký programovací jazyk zvolit. Delší dobu se učím
+   Python, ale
+   to mi nestačí. Hodně jsem přemýšlela nad C, C++, Javě a VB .NET.
+   (Pro tvorbu webu php)
+
+   Poradil by mi někdo? Případně, je tu někdo, kdo by byl ochotný mi s
+   programováním pomoct?
+   Případně napiště i na mail.
+
+   Děkuji za každou normální odpověd! :)
+    Malwa98cdR E-MAIL: _v_a_l_i_s_k_a_._k_o_l_a_r_i_k_o_v_a_@_g_m_a_i_l_._c_o_m  [Žena]12  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+06.02.2017 17:51:16
+Malwa98cdR: kdybys potřebovala s něčím pomoct, tak napiš. Zas tak špatní tady
+nejsme :-)
+ _M_S_-_f_a_n_o_u_s_e_k [Muž]50 [Kategorie]
+06.02.2017 17:33:35
+Cus nebyl jsem v CR tak mi to zahodilo odpoved takze znovu:
+
+1) Zustal bych u toho pythonu a zacal s nim resit realny problemy. Ja
+napriklad spousta frameworku pro vyvoj webovych aplikaci a muzes si v name
+napsat vlastni stranky. Ac se to ze zacatku nezda tak vyuziti tohoto jazyka
+jsou obrovske, pres zminene programovani webovych aplikaci, skriptovani a
+automzatizci, hromadnou analyzu dat (pandas), pres pluginy do radare (staticky
+disassemlber) atd atak podobne. Casem muzes zkusit neco noveho podle toho co
+te bude bavit treba C, Javu, SQL nebo neco obskurdnejsiho ale i tak zajimaveho
+jako treba LISP pripadne R.
+
+2) Co se linuxu tyce, tak bych si nainstalovat nejake jednoduche distro jako
+je treba zminene ubuntu. A zkusil bych si ho vymazlit tak aby pro me bylo
+pouzitelne. Nejde o to se trapit v prikazove radce ale jde o to s tim systemem
+realne pracovat, resit na nem prakticke ulohy a najit si seznam utilit,
+prikazu a postopu ktere me pocjopim a budou me fungovat. A je fuk jestli to
+bude na ubuntu, windows, macos nebo freebsd. Hele ja mam na novem notebooku
+taky ubuntu a to s linuxem delam uz nejakejch 20 let. Obcas skripu zuby ale
+nainstaloval jsem si ho tam z ciste lenost paac chci system o ktery se nebudu
+muset az tak moc starat. Uz me zkratka nebavi ladit tyden svuj slackware paac
+ten cas nemam.
+
+3) Ze se divas na google pri reseni nejakyh problem je naprosto normalni,
+clovek neumi vse, nepamatuje si vse a proc si to taky pamatovat kdyz je to
+nekde popsany. Co bys mela znat jsou principy co a jak funguje a proc to
+funguje. A kdyz neco nefunguje vedet co musis spravit. Je totiz velky rozdil
+kdyz se ptas googlu style "nefunguje internet linux" a nebo "jak nastavit
+resolving na ubuntu". V prvnim pripade dostanesatd miliony navadu a vetsinou k
+nicemu, v druhem pripade dostanes relevantni odpoved. Pokud Ti anglictina
+nedela muzu Ti poslat nejaky materialy ktere se tykaji RedHat linuxu a jsou
+pripravou na certifikaci. Pokud si ty materialy projdes a udelas si dana
+cviceni sem si jist ze do mesice budes umet na linuxu vic nez 99% procent
+zdejsiho osazenstva :)
+
+4) Je dobre se ucit spise obecne veci nez samotne technologie. Takze ano tcp/
+ip, routing, bringing resolving ale ne cisco (to az ripadne se znalosti prvne
+uvedeneho), ano databaze ale ne vyhradne postgre atd apod.
+
+
+Nenech se tady mistnima znechutit, pise sem hodne lidi ktery akorat flejmujou.
+Drzim palce :)
+[Smajlík]
+ psoug
+06.02.2017 16:15:09
+>Ježek second edition
+
+Vždyť ono to je stejně jedno...
+Je to má chyba, hledala jsem pomoc na špatné webové stránce. ;)
+ Malwa98cdR
+06.02.2017 14:44:08
+"Do té doby jsem s ním nebyla v kontaktu vůbec."
+
+Nelži! Určitě byla jen o tom nevíš. :-)
+[Smajlík]
+ Kancelářská sopnka
+06.02.2017 13:32:16
+Ježek second edition mi to vyloženě vzal z úst. Slečna si zaslouží spíš
+podporu než shazování.
+ _M_S_-_f_a_n_o_u_s_e_k [Muž]50 [Kategorie]
+06.02.2017 13:23:32
+Co kdybyste jí místo blbých keců podpořili když má zájem? Místo abyste ocenili
+že jí zajímá něco jiného než selfíčka na ksichtošmejdu, hulení a slepičení s
+postiženými kamarádkami, tak místo poskytnutí podpory jen blbé kecy. A pak z
+ní má vyrůst něco pořádného.
+ _J_e_ž_e_k_ _s_e_c_o_n_d_ _e_d_i_t_i_o_n [Muž]42 [Kategorie]
+06.02.2017 01:23:31
+Tak ona pochopila programování. Tohle je celoživotní úkol a naše malá geniální
+holčička to zvládla v pubertě. Plác plác, tleskáme.
+
+Nemáš ani tušení, o čem mluvíš.
+[Smajlík]
+ zalez a neozývej se
+05.02.2017 22:16:09
+>Kancelářská sponka:
+
+Tak jo, pokusím se to trochu všem objasnit, jak to s tím linuxem vůbec mám.
+Řekněme, že na Linux jsem přešla asi před 3 měsíci. Do té doby jsem s ním
+nebyla v kontaktu vůbec.
+
+Od té doby jsem vystřídala spoustu distribucí, i ty, které nejsou uživatelsky
+moc přívětivé (Kali, gentoo)
+Dokázala se naučit (alespoň z části) Python. Pochopila programování.
+
+80% mé práce na PC je pouze přes terminál. (nastavení a upravování proxy,
+zvuk, programy atd..)
+
+Tímhle chci jen říct, lidi.. ano, vím, jsem na samotném začátku v
+programování, práce s linuxem atd.. Ale proboha, mám linux 3 měsíce. Vzhledem
+na to, kolik mi je, a co umím, si myslím, že je do nadprůměr.
+
+Tak prosím, neodsuzujte mě.. Děkuji za pochopení..
+ Malwa98cdR
+05.02.2017 22:06:27
+"Myslela jsem tím to, že s linuxem pracuji"
+
+Většina distribucí je dnes hodně user friendly a člověk ani nemusí sáhnout na
+terminál, všechno si nakliká přes GUI a pokud občas terminál otevře, tak si
+vystačí s copy a paste - v podstatě tedy ani pořádně neví co dělá.
+
+Takže pracovat s nějakou linuxovou distribucí jako Ubuntu dnes dokáže i
+cvičená opice.
+
+Co se týče výběru jazyka, zmiňuješ tam Javu, VB.NET a PHP - místo těchto tří
+bych volil C# - v tom uděláš desktopové aplikace (primárně pro Win), mobilní
+appky(iOS, Android, Win), tak i ten web.
+
+Jinak zjisti si co je to objektově orientované programování. (toto paradigma
+uplatníš i v tom Pythonu (ikdyž doufám, že už jsi na to narazila :D))
+[Smajlík]
+ Kancelářská sponka
+05.02.2017 21:10:43
+>BlackWoIf:
+
+Ani slovem jsem neřekla, že zvládám tohle. Myslela jsem tím to,
+že s linuxem pracuji, tím pádem do budoucnosti by nebyl problém
+přesunout se o úroveň výš.
+ Malwa98cdR
+05.02.2017 21:08:13
+A jestli mi chce někdo tvrdit, že ve 12 letech zvládne správu serveru přes
+Linux apod., tak si ho rád proklepnu.
+ _B_l_a_c_k_W_o_I_f [Muž]25 [Kategorie]
+05.02.2017 21:02:17
+To víš že jo, už vidím jak 12letá nerdka ťuká do Linuxu zabezpečovací
+protokoly a celkově pracujr na administrátorské úrovni.
+
+Viděl jsem toho sice hodně, ale tohle nesežeru.
+ _B_l_a_c_k_W_o_I_f [Muž]25 [Kategorie]
+05.02.2017 19:44:13
+Dobře, děkuju za rady, moc :)
+
+>Vzhledem k tomu, že už umíš Python, tak se nauč práci s Linuxem.
+
+Používám jenom linux, takže v tomhle problém nevidím.
+Ještě jednou děkuji.
+ Malwa98cdR
+05.02.2017 19:40:51
+Tak 1. Jestli chceš dělat administraci databází tak se nauč s MySQL a SQL
+obecně, PHP a samozřejmě JSON.
+
+Jestliže web, tak samozřejmě CSS, HTML, JavaScript.
+
+Web API bych doporučil C#, ASP.NET, AJAX.
+
+Automatizace C nebo Basic by měli stačit, pokud půjde o kontroléry a Arduino
+nebo RaspBerry jenomže tu už musíš mít i znalosti elektra.
+
+Aplikace pro windows platformy C++
+
+K tomu se nauč něco o HTTP a protokolech v síti, doporučoval bych CISCO.
+
+Vzhledem k tomu, že už umíš Python, tak se nauč práci s Linuxem.
+ _B_l_a_c_k_W_o_I_f [Muž]25 [Kategorie]
+05.02.2017 17:10:44
+Tobě by nejspíš pomohl Karel.
+[Smajlík]
+ VLEVO-BOK
+05.02.2017 17:09:03
+Učit se programování jen proto, aby ses učila programování, když pak ani
+nevíš, k čemu to chceš využít, to je docela na hovno, nemyslíš?
+
+Většinou to je tak, že víš, že něco chceš udělat, třeba naprogramovat webový
+domeček pro panenky a podle toho se budeš rozhodovat, co použiješ...
+
+V opačném případě (tedy že nevíš, co chceš) si můžeš vybrat z top5 jazyků na
+trhu a trávit odpoledne učením syntaxe a technologií každého z nich...
+ levej
+05.02.2017 17:03:56
+levej:
+>Vždyť ani nepíšeš, co chceš dělat.
+
+Nenapsala jsem to schválně, jelikož já sama v tom ještě nemám jasno.
+ Malwa98cdR
+05.02.2017 17:01:17
+Vždyť ani nepíšeš, co chceš dělat. Ani nepíšeš, proč se chceš učit
+programovat.
+[Smajlík]
+ levej
+05.02.2017 16:57:48
+Myslím tím - Logické operátory, porovnávací operátory, operátory příslušnosti,
+ošetřování výjimek, aritmetické operátory, vstupy - výstupy, pygame.. jinak,
+nedokážu to říct takhle konkrétně.. zvládnu i jiné, ale ne 100% z mé hlavy..
+většinou se musím podívat na google.
+
+Jak říkám.. jen základy.
+ Malwa98cdR
+05.02.2017 16:56:30
+O jeden dotaz níž je diskuze o holení nohou.
+[Smajlík]
+ tam by ti bylo líp
+05.02.2017 16:48:37
+>MS-fanousek:
+
+Tak od všeho nějak ty základy. Když si občas s něčím nevím rady, google
+poradí.
+ Malwa98cdR
+05.02.2017 16:41:48
+Chce to určit si cíl a tomu podřizovat cestu. Co umíš v tom Pythonu?
+ _M_S_-_f_a_n_o_u_s_e_k [Muž]50 [Kategorie]
+05.02.2017 16:40:57
+Nejdřív se rozhodni, kam bys chtěla směřovat, jestli chceš dělat weby, iot,
+scripty, hry, mobilní apliakce nebo běžný software (jaká platforma?)
+ _A_z_a_t_h_o_t_h [Muž]27 [Kategorie]
+05.02.2017 16:37:17
+Tys dostala k vánocům ajfoun kamarádky? Tak to jo.
+
+No ale k tématu, spíše se uč programovat než přemejšlet o jazyku. Tzn. je to
+vcelku jedno, klidně zůstaň u Pythonu a pamatuj, že přepisováním textových
+řetězců v tutoriálech se zrovna moc nenaučíš.
+
+I když koukám na druhou stranu Azathoth píše vynikající volby.
+[Smajlík]
+ bože bože
+05.02.2017 16:35:59
+>Azathoth:
+
+Já měla na mysli modernější jazyky.
+Přesto děkuju.
+ Malwa98cdR
+05.02.2017 16:31:10
+Doporučuju Fortran, LISP, nebo Prolog
+ _A_z_a_t_h_o_t_h [Muž]27 [Kategorie]
+05.02.2017 16:29:56
+Troufám si tvrdit, že ano. Jinak, ten Iphone nebyl můj, ale kamarádky ;)
+ Malwa98cdR
+05.02.2017 16:26:01
+A už umíš víc než a=5; b=10; c=a+b; print(c), "expertko" na linux se zamrzlým
+ajfounem?
+[Smajlík]
+ bože bože
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+

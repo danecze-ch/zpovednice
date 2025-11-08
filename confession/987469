@@ -1,0 +1,153 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+Zpověď č.987469, vloženo 20.02.2017 18: _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+09:30                                   _s_t_r_á_n_k_a_]
+Google maps
+Google maps
+
+Milý a vážení členové toho serveru.
+Po přečtení pár příspěvků a zjištění že jsou lidé kteří nejen umí poradit, ale
+mají i široký prehled jsem se rozhodl že se na vás obrátím s žádostí o radu.
+
+Koukal jsem se partnerce do telefonu a v aplikaci Google maps jsem narazil na
+věci které si moc neumím vysvětlit.
+Jak je možné že mi to ukazuje různá místa na kterých nikdy nebyla a třebas i v
+době kdy byla v práci sice jen asi o 500-600 metrů dál ale ne na tom bodě
+který se mi ukázal.
+Navíc když v práci mají Wi-Fi takže to je dost silný bod vysílání proto aby
+družice určila přesnou polohu.
+No moc tomu nerozumím, partnerce věřím ale chtěl bych vědět jak je tohle možné
+a jak to vlastně funguje.
+
+Děkuji Zdeněk
+ Analogovej člověk [Muž]29  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+21.02.2017 11:33:46
+Lokalizace podle GPS je v podstatě přijetí signálu z jedné až ... 30 družic
+obíhajících Zemi na nízkých drahách letu. Nebudu se tady zabývat tím, že z
+principu není možné přijmout signál ze všech družic najednou, ale po většinu
+času je na místě s dobrým výhledem na oblohu zachytit signál 10-15 družic, což
+v pohodě stačí k určení polohy s přesností +/- 5 metrů. Ovšem v budově s malým
+oknem se dovnitř dostane méně signálů, třeba jen ze 3 družic a přesnost klesne
+na plus minus 20 metrů. A pak ještě na kmitočtu chrastí zářivka, monitor
+počítače a telefon zaměří polohu i o několik set metrů dál.
+
+K výpočtu polohy telefon internet nepoužívá, stejně jako ho nepoužívá klasická
+PNA navigace. Pouze u telefonů používajících google mapy se může využít
+informace o tom, jaké wifiny telefon "slyší," k upřesnění oblasti, v níž se
+telefon nachází, na počátku vyhledávání gps signálu nebo pokud gps signál není
+z nějakého důvodu (třeba vada telefonu) k dispozici. Google ale nemá k
+dispozici přesné umístění jednotlivých hotspotů. Získal o nich tušení
+monitoringem radiového spektra při průjezdu street-view auta PO SILNICI v
+okolí objektu a to v nějakém klidně i delším časovém horizontu.
+
+Moje osobní zkušenost s více mobily značek Samsung a Lenovo s OS Android.
+Používám jiný gps tracker než Google mapy, každých 15 sekund telefon vypočítá
+polohu a bod spojí čarou s bodem předposlední známé polohy. Dokud jedu autem
+po dálnici, výsledkem je celkem rovná čára s mírnými zlomy každýuch 15 s. Ve
+městě už je to horší, auto občas jede po chodníku a občas řízne zatáčku, ale
+to je holt těch 15 s prodlevy... Ovšem jakmile vlezu domů, začnou se dít věci.
+Tu poskočí gps 20 m severně, tu 150 m jižně, tu 600 m (!!!) východně atd.,
+takže výsledný obrazec je takový ježek se středem zhruba tam, kde skutečně
+jsem. A to je právě způsobeno tím nekvalitním příjmem signálu v budově.
+
+Na sledování partnerky budeš muset investovat trošku víc peněz...
+[Smajlík]
+ Kvido99
+20.02.2017 22:23:33
+Achjo... Kdybys raději své partnerce věnoval úsměv a hubičku.. to bys udělal
+mnohem líp...
+ Zničená partnerka
+20.02.2017 20:20:17
+V klidu. Když zadam přesnou, opakuji přesnou, adresu svého bydliště, ukazuje
+mi to dům o ulici vedle, cca. 250 metrů. Jemine, je to technologie. Snad věříš
+partnerce víc než nějakýmu programu, ne? Dyt si vezmi GPS navigace. Navedou tě
+doprostřed rybníka a občas mi na dálnici řekne "opusťte kruhový objezd." No,
+tak kdo si zaslouží víc důvěry, tvoje partnerka nebo software. :-)
+[Smajlík]
+ sweet-cherry
+20.02.2017 20:06:33
+navíc když zapnu lokaci podle IP, tak mě to našlo i o 150 km jinde... v čr je
+lokace podle IP dost zvrácená - od poskytovatele k poskytovateli....
+[Smajlík] [Muž]29 [Kategorie]
+ _W_h_o_l_a_l_a
+20.02.2017 20:04:35
+jsi debil, co chce dělat žárlivou scénu kvůli mapám?
+
+opravdu?
+
+je to jen technika - může selhat, nemusí se aktualizovat ... atd atd atd... mě
+jeden čas ukazoval mobil, že jsem o blok na východ... prostě mě posunul o 100m
+vedle... a přitom pro to nebyl žádnej důvod... po týdnu se to zázračně
+opravilo "samo"...
+
+jsi jen žárlivej imbecil... nedivim se, kdyby se tvoje stará začala tahat s
+jinym... kdo by s takovym žárlivym idiotem byl...
+ _W_h_o_l_a_l_a [Muž]29 [Kategorie]
+20.02.2017 19:53:19
+Doufal jsem že mi tu někdo poradi, ale asi jsem se spletl.
+Nechápu vaše reakce. Nerozumím tomu tak jsem se na vás obrátil s žádostí o
+radu a místo toho jen urážky a nebo výsměch.
+ Analogovej clovek
+20.02.2017 19:51:02
+Nevím proč mu nadavate do debilu
+ Jedna
+20.02.2017 19:47:29
+jak může být někdo takový debil?
+ _W_h_o_l_a_l_a [Muž]29 [Kategorie]
+20.02.2017 19:43:56
+Hele Google mapy fungují s přesností na pár metrů takže tvoje holka z tebe
+dělá volá brácho
+ Kevin23
+20.02.2017 18:43:19
+Teď vás trochu nechápu?
+Myslím to vážně
+ Analogovej clovek
+20.02.2017 18:30:06
+Není to zlé! Mno, mno, 8 možná ne, ale výborných 7 bych dal.
+[Smajlík]
+ wifi fakt pobavila
+20.02.2017 18:11:18
+8/10
+ Trollhunter
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+

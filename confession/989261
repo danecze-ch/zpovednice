@@ -1,0 +1,150 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+Zpověď č.989261, vloženo 04.03.2017 22: _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+09:31                                   _s_t_r_á_n_k_a_]
+Proč bajt označuje většinou 8 bitů?
+Proč bajt označuje většinou 8 bitů? Má to nějaký význam, protože hry nebo jen
+zvuk byly prý právě nejdříve osmibitove. Proč?
+ Ajtacek15 [Muž]15  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+05.03.2017 23:34:09
+Výlet do historie: o tom dost pochybuju. V pravěku by to nikdo nedělal. Taky
+proč, když je to nehospodárné. I pro ten sedmý bit musíš mít 'tranzistor',
+který využiješ jen z půlky. A nastavitelná délka? Nesmysl. Vždyť to nastavení
+ovlivňuje architekturu CPU, řadiče, paměti. Takže spíš jde o 2^X architekturu
+systému (8, 16, etc) a pak o SW změnu...aby si akademici mohli hrát a
+diskutovat.
+A dnes je tato úvaha zcela mimo.
+Nepleteš si to se sedmibitovým kódováním?
+ _z_l_o_m_y_s_l_n_ý_ _h_a_j_z_l [Muž]19 [Kategorie]
+05.03.2017 20:27:59
+výlet do historie: A kde ty historiku dneska potkáš 7bitovou mašinu? Ha!?
+ A1F4A
+05.03.2017 09:34:38
+Najdou se lidi co programují a neví, co je bajt.
+
+Teda "programují".
+[Smajlík]
+ řečeno přesněji
+05.03.2017 09:26:15
+Najdou se lidi co programují s delšími bajty.
+ GK3F
+05.03.2017 08:01:45
+zlomyslný hajzl: ano, většinou. Drtivou většinou, ale pořád ještě v praxi
+semtam můžeš potkat systém používajících třeba sedmibitový bajt. A v historii
+opravdu existovalo téměř cokoliv, od jednohobitovýho bajtu po šedesátibitový.
+Byly i počítače, které měly nastavitelnou délku bajtu.
+[Smajlík]
+ výlet do historie
+05.03.2017 07:39:47
+Většinou jo?
+[Smajlík]        [Muž]19 [Kategorie]
+ _z_l_o_m_y_s_l_n_ý_ _h_a_j_z_l
+04.03.2017 22:55:54
+Ono se experimentovalo s kdečím, dokonce s počítači založenými na trojkové
+soustavě, která přinášela proti dvojkové mnoho výhod, rychlejší výpočty a
+nižší nároky na kapacitu úložiště, ale tak strašně špatně se to programovalo,
+že tato větev byla opuštěna.
+
+Byly i jiné šílenosti, počítače desetibitové, dvanáctibitové, 22-bitové, 23-
+bitové, 40-bitové, 50-bitové, 60-bitové a další, ale víceméně všechno bylo
+opuštěno a zapomenuto a prosadily se systémy založené na dvojkové soustavě,
+tedy počítače čtyřbitové, osmibitové, šestnácti, 32, 64, 128 bitové a to kvůli
+tomu, že takové systémy lidský mozek umí programovat dobře. Pro stroje by byly
+i výhodnější soustavy, třeba ta trojková.
+
+V historii měl tedy bajt různou délku, někdy byly bajt a bit dokonce
+synonymum, někdy měl bajt tři nebo šest bitů. Osmibitový standard se prosadil
+s počítačem System/360, který byl komerčně extrémně úspěšný a oblíbený. To je
+jediný opravdový důvod, proč má dnes bajt osm bitů. Stejně jako třeba vyhrálo
+VHS nad Betou, prostě bylo komerčně úspěšnější a tak se jeho specifikace staly
+standardem.
+[Smajlík]
+ výlet do historie
+04.03.2017 22:49:47
+Tak mě to zajímalo a v jedné technické publikaci stálo: "Proč je 8 bitů jeden
+bajt? To je stejná otázka jako proč je dvanáct do tuctu." Takže asi tak.
+Původně bylo bitů 6 pak to nějak předělali v laboratořích IBM.
+
+Ale jinak to samozřejmě souvisí s binární soustavou a historickým kontextem
+doby.
+ Reign
+04.03.2017 22:35:01
+Bajt je 8 bitů, protože se to ukázalo časem jako příhodné. Bajt je totiž
+nejmenší adresovatelná jednotka v paměti. Když bude zvolen jako příliš malý,
+bude se s tím složitě manipulovat; když jako příliš velký, bude to
+neefektivní. Do 256 možných kombinací bajtu (2^8) se vleze celá znaková sada.
+
+S architekturou procesoru to přímo nesouvisí -- tam je pouze vhodné mít
+násobky 8 bitů.
+ _d_q_d [Muž]35 [Kategorie]
+04.03.2017 22:25:43
+Protože binární soustava :)
+ _B_l_o_o_d_y_E_l_f [Žena]28 [Kategorie]
+04.03.2017 22:25:41
+Vyřadte ho z adminské pozice, takovéhle chování adminů není na místě!
+Pokud se adminovy nelíbí váš názor má ho ignorovat a ne vás šikanovat! JEHO
+NÁZOR JE ZCESTNÝ!
+
+MJUNDA NESNESE PRAVDU, HNED VÁM SMAŽE VÁŠ NÁZOR NA JEHO CHABÉ MYŠLENÍ A DÁ VÁM
+BAN!!!!
+NEVĚŘTE JEHO KECŮM ŽE JE TO PSYCHOLOG, NENÍ, PROTOŽE PSYCHOLOG NEROZLIŠUJE
+JESTLI JSTE CHLAP NEBO ŽENSKÁ!!!!!
+A KDYŽ SE POTÉ VYJÁDŘÍTE SLUŠNĚ, PODOTÝKÁM VELICE SLUŠNĚ - K JEHO NESMYSLNÉMU
+"ženská má jiné myšlení" TAK VÁM TO SMAŽE, DÁ VÁM BAN. TOHLE JE NORMÁLNÍ
+CHOVÁNÍ?
+URČITĚ NE!
+PROSÍM ABY BYL VYŘAZEN Z ADMINSKÉ POZICE.
+PROTOŽE STEJNĚ VĚTŠINU ČASU NENÍ ONLINE. TAKŽE SI NEMYSLÍM ŽE BY MEZI ADMINY
+HRÁL NĚJAKOU DŮLEŽITOU ROLI!
+ MJUNDA VEN
+04.03.2017 22:15:28
+Jde o to, že PC fungují na bázi binární soustavy (0, 1) a 8 je 2 na 3. Proto
+libovolná paměť, se kterou se setkáš je 2 na několikátou = 8, 16, 256...
+ ME11
+04.03.2017 22:12:20
+Tohle je, pokud vím, jen historicky dané. Ty úspěšné stroje, které se
+prosadily, byly 8 bitové. Pokud vím, ta byly i 10 bitové bajty u některých
+strojů, ale ty se dále neprosadily a tak dnes máme bajty 8 bitové.
+ _c_y_n_i_k_ _s_t_ř_e_d_n_í_h_o_ _v_ě_k_u [Muž]37 [Kategorie]
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+
