@@ -1,0 +1,117 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+   Otázky - Vzkazy č.951138, vloženo _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+   23.07.2016 17:07:59               _s_t_r_á_n_k_a_]
+   Vysilacky z okoli Boleslavi
+   Potřeboval bych někoho kdo je z okoli Boleslavi kdo ma vysílačku aby
+   zakličoval na nějake frekvenci zda moje zařizeni přijma.Koupil jsem usb
+   dvb tv a rozjel na androidu-telefonu.A vypada ze to funguje ale ještě
+   jsem nikoho nechyt.Rozpěti frekvence 10mhz-2000mhz.
+    Anonnymouse E-MAIL: _S_p_i_k_e_._x_x_._v_k_@_s_e_z_n_a_m_._c_z  [Muž]22  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+24.07.2016 09:43:12
+To dekodovani byl jen priklad, analog samozrejme chytis taky. Chytis a
+zpracujez jakejkoliv provoz v tomhle pasmu a veskere signaly s sirkou do cca
+2mhz. Nech si vyhledat stranky od sdr a rtl-sdr. Je spousta informaci i v
+cestine
+[Smajlík]
+ psoug
+24.07.2016 09:12:40
+Zkus to probrat i tady
+_h_t_t_p_:_/_/_l_i_s_t_._h_w_._c_z_/_p_i_p_e_r_m_a_i_l_/_h_w_-_l_i_s_t_/_2_0_1_6_-_J_u_l_y_/_d_a_t_e_._h_t_m_l_#_4_9_0_7_6_9_ 
+_h_t_t_p_:_/_/_p_o_r_a_d_n_a_._n_e_t_/_ 
+_h_t_t_p_:_/_/_w_w_w_._z_i_v_e_._c_z_/_P_o_r_a_d_n_a_/_s_c_-_2_0_/_d_e_f_a_u_l_t_._a_s_p_x_?_c_o_n_s_u_l_t_=_1_ 
+To jsou poradny, kde by ti mohli poradit spíš.
+[Smajlík]
+ Yarda1
+23.07.2016 22:51:14
+Jak dekodovani musi udelat pc? To znamena ze nic nechytnu?radia v fm prijmu
+tak i vysilacky v analogu bych mel chytat.
+ Anonnymouse
+23.07.2016 22:19:12
+Staci naladit nejake radio ve verejnem pasmu 88-108 MHz
+
+Jinak pro ostatni zajemnce jedna se o dvb-t tunnnery s chipem rtl 8238u, staci
+si si na google vyhledat projekt rtl-sdr. Tyto dvb-t prijimace maji jen
+tunner, 8bitovy adc prevodnik a usb stack a veskerou demodulaci, dekodovani
+atd musi udelat pocitac. Protoze vsak tunner ma velmi slusny rozsah (cca 20
+mhz-2ghz, zalezi na typu) existuji i alternativni ovladace ktere z toho
+defacto udelaji sirokopasmovy digiralni prijimac (sdr). Neni to buhvi jaka
+kvalita ale to domaci zvyjani,a,seznameni se s tou technologii za 200kc je to
+super hracka. Mam osobne odzkouseno adsb, kde jsem trackoval letadla v okruhu
+cca 400 km, na jednoduchou antenu z par dratu a korku od vina.
+[Smajlík]
+ psoug
+23.07.2016 19:29:51
+Určitě ten bazmek co sis koupil má přijímat všechna možná vysílání nezávisle
+na tom co vysílají a jak jsou modulovaná? Nepřijímá jen digitální vysílání?
+Nebo nepotřebuje to nějak speciálně nastavit?
+ Yarda1
+23.07.2016 19:09:08
+10-2000 mhz vysila teměř vše včetně letiste ktere jsi napsal.Mam prave malou
+ale jezdil jsem i v aute po okoli a nic,s antenou na aute.Jinak radia a tv
+chytam...
+ Anonnymouse
+23.07.2016 18:59:08
+IMHO na 10 - 2000 milihertzích asi moc vysílaček nevysílá:-D
+Ale na obvyklých frekvencích bude spousta rozhlasových, televizních a jiných
+vysílaček, namátkou podle jejich stránek letiště Mladá Boleslav vysílá na
+frekvenci 123,6 MHz.
+Jakou máš anténu (pokud vůbec nějakou)?
+[Smajlík]
+ Yarda1
+23.07.2016 18:48:01
+Svůj příspěvek jsi vložil(a) do nespravné kategorie. Bylo provedeno přesunutí.
+V případě opakování hrozí blokování vstupu na portál. Prosím zvol příště
+správnou kategorii. Děkujeme za pochopení.
+[Smajlík]      [Muž] [Kategorie]
+ _A_d_m_i_n_i_s_t_r_á_t_o_r
+23.07.2016 18:43:58
+Mam prijmas usb ktery ma modulaci -FM,AM atd... Vaby nekdo zakličoval na
+domluvene frekvenci v Fm třeba.
+ Anonnymouse
+23.07.2016 18:18:37
+Jak to chceš ověřit s vysílačkou? Vždyť to má úplně jinou modulaci než TVB-
+T tuner.
+ _J_e_ž_e_k_ _s_e_c_o_n_d_ _e_d_i_t_i_o_n [Muž]42 [Kategorie]
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+

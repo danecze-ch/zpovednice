@@ -1,0 +1,259 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+Zpověď č.950837, vloženo 21.07.2016 18: _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+41:03                                   _s_t_r_á_n_k_a_]
+Boj o Wi-Fi síť
+Ahoj všichni, mám takový docela směšný problém :D
+Doma máme normální zaheslovanou Wi-Fi, ale nedosahne do druhého patra. A v
+druhém patře jsem chytila nezabezpečenou Wi-Finu sousedů. A protože byla
+pomalá (asi na ní bylo moc lidí), tak jsem vlezla do nastavení routeru
+(samozřejmě s defaultní IP a loginem admin:admin - klasika) a zaheslovala jsem
+jí :D Ale soused na to hned přišel a zresetoval jí do továrního nastavení. Ale
+nechal jí zase nastavenou defaultně a já to znova zaheslovala :D Takhle se to
+opakovalo asi 4x :D Nevíte, co mám dělat, aby jí furt neresetoval? Díky :D
+ Terezkaaa16 [Žena]16  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+22.07.2016 13:33:59
+MS-fanousek:
+Já tím myslel trojku mariáše. Nevím co máš za divné myšlenky z dob dospívání.
+[Smajlík]     [Muž]24 [Kategorie]
+ _L_S_D_ _n_e_b_o_ _U_S_B
+22.07.2016 08:01:22
+LSD nebo USB: napsals "a dost možná používáš i kreditku na netu. Takže si na
+platbu wifi bere tvé peníze" a "K čemu bude cizímu člověku cizí kreditka."
+
+Nepotřebuješ být v dosahu mé wifi ani mít můj router na stole. Mám doma RB951.
+Můžeš si odchytit provoz do souboru nebo si udělat k sobě eoip a odmirrorovat
+si provoz.
+
+Do trojky nejdu, jsem na holky. Taky to někdy zkus .-)
+ _M_S_-_f_a_n_o_u_s_e_k [Muž]50 [Kategorie]
+22.07.2016 06:50:11
+Tak si to shrneme - ty sousedovi znemoznis pristup k jeho vlastni wifi (tim ze
+tam nastavis heslo, ktere mu nereknes) a pak se divis, ze to resetuje?
+ Daniel
+21.07.2016 23:14:33
+psoug:
+Nebo můžeme dát klidně trojku, já se nestydím. Jenom nemám župan pro hobita.
+[Smajlík]     [Muž]24 [Kategorie]
+ _L_S_D_ _n_e_b_o_ _U_S_B
+21.07.2016 23:03:53
+LSD nebo USB: sorry kamo ale placas tu fakt paty pres devaty, mlzis, klickujes
+a vis o tom zjevne kulovy. Trochu pokory pls.
+
+Pokud se o tom chces dozvedet vic, zkus si nainstalovat wireshark a udelat si
+sniff ssl komunikace, nejlip na server kterej spravujes. Zkus si pohrat s
+nastavenim ssl treba pod apachen, zkus si vzit privatni klic a pres wireshark
+udelat desifrovani a analyzu toku. Neni to tak slozity jak to na prvni pohled
+vypada a da ti to slusnej backgroune o tom jak ssl funguje.
+ psoug
+21.07.2016 22:51:40
+psoug:
+To netvrdím, že to nejsou rozdílné věci. Nicméně pro lajka jsou takto nejvíce
+známy.
+[Smajlík]     [Muž]24 [Kategorie]
+ _L_S_D_ _n_e_b_o_ _U_S_B
+21.07.2016 22:46:25
+LSD nebo USB: SHA je hashovaci algoritmus (neco jako kontrolni soucet), SSL je
+mezivrstva ktera zajistuje sifrovani a overovani obou stran. Tudiz dve uplne
+rozdilne veci v tomto ma MS-fanousek naprostou pravdu
+
+Ms-fanousek: ohledne sifrovani asymetrickou kryptografii v ssl uz tak uplne
+pravdu nemas, hodne se pouziva diffie hielmann schema (doufam se tt jmena sem
+napsal dobre), v tom pripade se sifruje na zaklade session key, ktery se
+odvodi z nejakych prvocisel a pub/priv klic v certifikatu se pouzije pouze pro
+overeni obou koncu komujikace. Tudiz i kdyz znas privatni klic serveru tak pro
+desifrovani je ti k nicemu. BTW podobne funguje i ssh. To jen pro presnost
+akademicke diskuse ;)
+
+to tazatel/ka: zkusil bych zmenit kanal wifi, pomohla by i lepsi antena.
+[Smajlík]
+ psoug
+21.07.2016 22:03:42
+MS-fanousek:
+Přečti si ještě jednou mé příspěvky, to co popisuješ ty. Tedy to jak chceš,
+abych zjistil číslo tvé karty. To je úplně něco jiného.
+1. Já nemám dosah signálu tvé wifi.
+2. Já nemám doma na stole tvůj router.
+3. Stejně to zase pochopíš jinak.
+Tudíž jakákoliv diskuze k tomuto tématu je mimo mísu, jelikož ty nechápeš mě.
+[Smajlík]     [Muž]24 [Kategorie]
+ _L_S_D_ _n_e_b_o_ _U_S_B
+21.07.2016 21:54:06
+LSD nebo USB: tak jinak. Navrhuju sázku. Dám ti přístup na můj první router za
+PC. Zaplatím kartou a když mi řekneš číslo karty tak si vyhrál a když ne, tak
+si prohrál.
+Ten co prohraje zaplatí vítězi výhru 20 tis. Když tomu tak rozumíš, jsou to
+pro tebe jistý prachy. Bereš?
+ _M_S_-_f_a_n_o_u_s_e_k [Muž]50 [Kategorie]
+21.07.2016 21:11:11
+MS-fanousek:
+Sám jsi vzdělání.
+[Smajlík]     [Muž]24 [Kategorie]
+ _L_S_D_ _n_e_b_o_ _U_S_B
+21.07.2016 21:09:24
+Ach jo. Je to marný, je to marný, je to marný.
+Ani chvíli se nezamyslíš nad tím, že to co popisuješ by vůbec nedávalo smysl.
+Tak hlavně, když máš na to vzdělání.
+ _M_S_-_f_a_n_o_u_s_e_k [Muž]50 [Kategorie]
+21.07.2016 21:05:13
+MS-fanousek: Nepotřebuji studovat, když mám na to vzdělání. Bohužel, k této
+debatě přichází tvé "šifrovaně mezi počítačem se severem na základě veřejného
+a privátního klíče", což je věta, kterou sis opsal z wikipedie.
+Je mi z tebe smutno, že se tu musíš vyzdvihovat, jaký jsi king s vědomostma
+opsaných z wikipedie.
+Trapné. :D
+[Smajlík]     [Muž]24 [Kategorie]
+ _L_S_D_ _n_e_b_o_ _U_S_B
+21.07.2016 21:01:19
+Aha, to se omlouvám. Špatně sem tě nepochopil. Nicméně i tak seš mimo. Ta
+komunikace probíhá šifrovaně mezi počítačem se severem na základě veřejného a
+privátního klíče. Něco si o tom nastuduj, budeš překvapen.
+ _M_S_-_f_a_n_o_u_s_e_k [Muž]50 [Kategorie]
+21.07.2016 20:59:05
+MS-fanousek:
+Já nepsal router, ale server.
+Pochybuji, že ty víš že jsi uklízečka z Tesca.
+[Smajlík]     [Muž]24 [Kategorie]
+ _L_S_D_ _n_e_b_o_ _U_S_B
+21.07.2016 20:55:57
+LSD nebo USB: problém této debaty je v tom, že zjevně jen jeden z nás víc, jak
+vypadá https komunikace. A ty to zjevně nejseš.
+Jak tě proboha napadlo, že by to šifrování dělal router, kterej má zlomek
+výkonu počítače?
+ _M_S_-_f_a_n_o_u_s_e_k [Muž]50 [Kategorie]
+21.07.2016 20:53:26
+MS-fanousek:
+Ano, chytráku ty asi myslíš 128 bitový SHA, známý taky jako SSL. Jenže,
+balíčky, která odesíláš přes router, ke kterému máš jednoznačně fyzický
+přístup - tedy je u tebe doma. Jsou kódována až jdou serverem, který má toto
+zabezpečení. Trvalo by daleko delší čas, kdyby již balíčky počítač kódoval 128
+bity. K čemu, že mu bude kreditka?
+Musím se smát. :D
+K čemu bude cizímu člověku cizí kreditka. :D :D
+[Smajlík]     [Muž]24 [Kategorie]
+ _L_S_D_ _n_e_b_o_ _U_S_B
+21.07.2016 20:51:34
+>Zarcon
+Dá se to i vytrasovat, což je rychlejší než koukat do nastavení :)
+ _J_e_ž_e_k_ _s_e_c_o_n_d_ _e_d_i_t_i_o_n [Muž]42 [Kategorie]
+21.07.2016 20:48:38
+Ale prdlajz, veškeré platby na netu jedou přes zabezpečené platební brány.
+Sice by teoreticky znal každý bit komunikace, ale k čemu by mu to bylo?
+ _M_S_-_f_a_n_o_u_s_e_k [Muž]50 [Kategorie]
+21.07.2016 20:41:29
+MS-fanousek:
+Jaké nesmysly, snad on má vespod napsané heslo do nastavení routeru, který se
+spustí skrze zadání fyzické adresy 192.168. a dle výrobce zbývající dvě
+číslice. Heslo a přihlašovací je v defaultním režimu admin a admin.
+Pokud ona změnila pouze heslo na wifi, které je po přihlášení přes fyzickou
+adresu viditelné, mohl jí úplně jednoduše sledovat. Je to asi tak jednoduché,
+jako nakreslit si v malování čtverec.
+
+Tak jaképak nesmysly cucáku.
+[Smajlík]     [Muž]24 [Kategorie]
+ _L_S_D_ _n_e_b_o_ _U_S_B
+21.07.2016 20:23:47
+LSD nebo USB: No určitě už má opsanou kreditku :-):-) dost dobrý nesmysly
+píšeš .-)
+ _M_S_-_f_a_n_o_u_s_e_k [Muž]50 [Kategorie]
+21.07.2016 20:13:09
+Ok, děkuju všem, jste zlatý, jsem líná kupovat si repeater a složitě to
+nastavovat, radši nastavim QoS, díky všem :*
+[Smajlík]
+ Terezkaaa16
+21.07.2016 20:05:22
+Terezkaaa16: nemusíš nastavovat heslo, stačí nastavit QoS a rychlost pro
+jednotlivý klienty.
+popřípadě plno wifi krabiček podporuje vytvořit "návštěvnickou" síť s omezenou
+rychlostí, tak si uděláš jednu pro sebe s plnou rychlostí a heslem a další pro
+ně s omezenou.
+stačí jen počkat na čas, kdy si toho hned nevšimnou
+ _A_z_a_t_h_o_t_h [Muž]27 [Kategorie]
+21.07.2016 20:02:01
+Co když celou dobu ví heslo a jednoduše sleduje tvé akce na wifi, zná všechny
+tvé hesla a dost možná používáš i kreditku na netu. Takže si na platbu wifi
+bere tvé peníze?
+Co proti tomu uděláš? :D
+[Smajlík]     [Muž]24 [Kategorie]
+ _L_S_D_ _n_e_b_o_ _U_S_B
+21.07.2016 19:59:55
+A je ti jasné, že zaheslováním jsi ho od vlastní wifiny odpojila? Jak myslíš,
+že na to přišel?
+ _M_j_u_n_d_a [Muž]46 [Kategorie]
+21.07.2016 19:47:42
+Zarcon: Připojíš se na nezabezpečenou síť, a pokud je nastavený DHCP server,
+tak se jen podíváš, jakou bránu ti to přidělilo.
+ Domča
+21.07.2016 19:46:41
+Nelézt sousedovi do wifiny
+[Smajlík]
+ špekoun
+21.07.2016 19:41:16
+Tak mu třeba nelézt do routeru, koukám, že 16letá holka dokáže víc než dospělý
+člověk...
+ _Z_a_r_c_o_n [Muž]41 [Kategorie]
+21.07.2016 19:14:08
+prostě běž toho souseda seřvat. Co si to dovoluje restartovat router.
+ _M_S_-_f_a_n_o_u_s_e_k [Muž]50 [Kategorie]
+21.07.2016 19:13:16
+@Zarcon Stačilo vyzkoušet 192.168.1.1 a byla to ona :D
+[Smajlík]
+ Terezkaaa16
+21.07.2016 19:02:21
+To byla hezká pohádka.
+[Smajlík]
+ ještě tu o Karkulce
+21.07.2016 19:01:49
+a jak se někomu přihlásíš do routeru, když neznáš adresu?
+ _Z_a_r_c_o_n [Muž]41 [Kategorie]
+21.07.2016 18:50:47
+cože,to i holky umí takhle s kompama? xDD
+ diktatoridklol
+21.07.2016 18:45:06
+Stačí koupit wifi repeater, který bude opakovat a zesilovat tvůj wifi signál,
+nebo silnější wifi anténu a problém bude vyřešen.
+Takhle tě jednou plácne soused přes cecek a budeš mít oteklý problém.
+[Smajlík]     [Muž]24 [Kategorie]
+ _L_S_D_ _n_e_b_o_ _U_S_B
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+

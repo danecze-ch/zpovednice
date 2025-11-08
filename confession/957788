@@ -1,0 +1,179 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+   Otázky - Vzkazy č.957788, vloženo _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+   29.08.2016 22:33:09               _s_t_r_á_n_k_a_]
+   UTP rozvod po bytě
+   Dobrý večer, mám plnou hlavu věcí kolem rekonstrukce bytu a tohle je
+   jedna z nich. Jsem elektrikář, takže silovina a ani ten koax mi nedělá
+   starosti, ale internet ano.
+
+   Mám do bytu přívod UTP, který je smotaný na chodbě. Chci v bytě wifi,
+   jednu zásuvku ethernetu u TV, jednu v jednom pokoji a druhou v dalším.
+   Teď, jak mám udělat ten rozvod?
+
+   Mám přivést přívod internetu do wifiny a potom z těch portů zezadu (mám
+   tam 4 porty na UTP) zpět do zdi pro každou zásuvku zvlášť vývod? Bude to
+   tak správně? Existuje lepší řešení?
+
+   Děkuji moc za smysluplné odpovědi.
+    IT amateur [Muž]26  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+30.08.2016 18:26:42
+Děkuju všem za rady. Snad to zvládnu
+[Smajlík]
+ IT amateur
+30.08.2016 16:25:19
+Zdá se, že switch se tu stal velkým tématem, když jsem ho zmínil. Ten switch
+jsem doporučoval až za ten router v případě, že porty na routeru (respektive
+switchni v něm integrovaném) nebudou stačit, jakože v případě dvouzásuvek do
+každé místnosti stačit nebudou. Je nesmysl dávat switch v případě nutnosti do
+každé místnosti.
+ _A_Z_0_9 [Muž]43 [Kategorie]
+30.08.2016 00:57:42
+Podle vašich poznámek usuzuji, že máte Wifi připojení s anténou za oknem nebo
+na střeše. S tím mám určité zkušenosti. Na vesnicích, co lidi mají Wifi, bývá
+většinou jen access point se dvěma internetovými zásuvkami. Jedna je aktivní a
+druhou lze aktivovat většinou jen za příplatek.
+
+Pokud k takovéto Wifi připojíte switch,tak dosáhnete akorát toho, že budete
+moci používat jen jeden počítač, ale budete moci přenášet do různých místností
+k různým zásuvkám. Ale s ostatními počítači a notebooky se budete moci jedině
+tak fotit- potřebujete ROUTER, NIKOLI SWITCH - česky SMĚROVAČ NIKOLI
+ROZBOČOVAČ. A pokud jste už rozbočovat koupil, tak si ho můžete dát do jedné z
+těch místností, kde jen jedna zásuvka nebude stačit.
+ Daniel
+30.08.2016 00:39:06
+Svůj příspěvek jsi vložil(a) do nespravné kategorie. Bylo provedeno přesunutí.
+V případě opakování hrozí blokování vstupu na portál. Prosím zvol příště
+správnou kategorii. Děkujeme za pochopení.
+[Smajlík]      [Muž] [Kategorie]
+ _A_d_m_i_n_i_s_t_r_á_t_o_r
+30.08.2016 00:20:14
+Pokud už v tvém bytě nějaký router je, tak switch stačí. Jestli už doma máš
+nějaký router typicky poznáš podle toho, jestli si jen tak můžeš připojit
+tolik počítačů, notebooků a mobilů kolik chceš a všechny v pohodě fungují.
+ SprávceSítěAmatér
+30.08.2016 00:09:52
+U přívodu do bytu musíš mít "router" ­ to je asi to, čemu říkáš rozbočovač.
+Existuje i "switch", ale to je příliš tupá krabička, se kterou ti to v bytě
+fungovat nebude ani náhodou.
+
+Router ti totiž definuje tvou vlastní podsíť, kde jsi pánem ty a ty určuješ
+pravidla, kdo se do tvé sítě může připojit. Koho připojíš kabelem nebo
+bezdrátově do tvého routeru, bude bez problémů fungovat. Počítačů si můžeš
+doma připojit až 253 aniž by ses kohokoli musel ptát.
+
+Switch tě pouze fyzicky připojí do sítě, ale musíš se podřizovat pravidlům
+poskytovatele tvého připojení, v praxi bys musel kvůli připojení dalšího
+notebooku nebo třeba dvd přehrávače volat poskytovateli internetu, ať ti tam
+přidá další počítač. A on ti může říct ­- "další počítač = 50 Kč měsíčně
+navíc" nebo "sereme na vás, kupte si router"
+
+Na rozvod po bytě bych si koupil UTP zásuvky do zdi a propojil bych ty zásuvky
+UTP kabelem (použil bych "UTP drát" nikoli "UTP lanko"). UTP zásuvky ve zdi
+lankem nepropojíš ani náhodou.
+
+V místě, kde bych chtěl umístit router, bych do zdi dal 2 x 2 UTP zásuvky a
+nechal bych si udělat třeba čtyři 30cm UTP kabely (přímé, nikoli křížené),
+těmi bych router připojil do těch 2x dvou zásuvek. Případně si můžeš koupit
+"Krimpovací kleště RJ" na aukru za 149 Kč a můžeš si ty krátké UTP kabely
+vyrobit sám. Na normální kabely tahané po zemi se naopak víc používá UTP lanko
+(tady se pro změnu "drát" hodně blbý).
+ SprávceSítěAmatér
+30.08.2016 00:04:40
+Do zdi zasekej krabice pro UTP zásuvky - například https://www.mironet.cz/
+digitus-zasuvka-2x-rj45-pod-omitku-stp-cat6+dp132532/?gclid=CjwKEAj - wuo--
+BRDDws3x65LL7h8SJABEDuFRk47CgDF_QhBZj5F_WniBH3168f8NgJnUDSVUxre1NRoCS3jw_wcB -
+- dělají toho mraky, v různých cenách.
+V centrálním bodu sítě buď taky zásuvky nebo stačí _h_t_t_p_s_:_/_/_w_w_w_._a_l_z_a_._c_z_/
+_d_a_t_a_c_o_m_-_c_a_t_6_-_s_t_p_-_6_x_-_r_j_4_5_-_n_a_-_o_m_i_t_k_u_-_d_1_6_3_9_3_9_3_._h_t_m_?_c_a_t_i_d_=_1_8_8_5_2_1_5_8_ nebo malý
+rozvaděč na zeď jako https://www.alza.cz/19-rack-6u-rady-economy-
+d2922532.htm?kampan=adpla_obecna_notebooky-a-p - c&gclid=CjwKEAjwuo--
+BRDDws3x65LL7h8SJABEDuFRJtT65UdZvfuGucToS1AxPO2SAj-NvgNnZxUe9vvJnx -
+oCSqLw_wcB - a do něj http://www.vseprowifi.cz/lan-pasivni-w-star-patch-panel-
+w-star-19-1u-rack-24port-rj45-cat5 - e-narazeci-cerny-amp-typ-p-662.html -
+nebo menší...
+Každou zásuvku v bytě propoj kabelem ve zdi se zásuvkou v centrálním bodě a
+někde po trase nechej metr-dva navíc. Zapojení zásuvek se dělá podle barevného
+značení, na obou stranách podle stejné verze normy! návod např. _h_t_t_p_:_/_/
+_w_w_w_._i_m_l_o_k_._n_e_t_/_s_t_r_a_n_k_y_._p_h_p_?_s_t_r_a_n_k_a_=_r_e_c_e_n_z_e___h_w_-_z_a_p_o_j_e_n_i_-_s_i_t_o_v_e_-_z_a_s_u_v_k_y_ 
+Propojovací patch kabely buďto nakup, nebo vyrob a zapoj: přívod z venku do
+ethernet WAN portu wifi routeru, z LAN portů do těch centrálních zásuvek,
+odkud jde drát tam kde chceš něco připojit a na konec patch pak mezi zásuvku v
+místnosti a zařízení. Když má router málo LAN portů, na jeden z nich připoj
+switch a zásuvky zapoj z něj.
+Dělá se to takhle složitě proto, že když něco zničíš, tak kabel ve zdi málo
+kdy, patch kabel prostě vyměníš, do zásuvky vytáhneš ze zdi kousek kabelu z
+toho co je navíc a dáš novou...
+Rozumně zvol místo, kde bude wifi router a zároveň střed sítě, ať netaháš
+zbytečné metry kabelu, ale zase ať z toho místa wifi pokryje co největší
+plochu.
+ _S_e_m_i_z_a_r [Muž]49 [Kategorie]
+29.08.2016 23:14:01
+u nás to tuším máme z přívodu do bytu do rozbočovače a z toho potom k wifi a
+televizi...ale 4 "zásuvky" tu teda nemáme...
+ nejaky-student
+29.08.2016 22:56:57
+Proč rozbočovač?
+
+Přívod do bytu -> Wifi -> jeden vývod do rozbočovače -> 3 vývody z rozbočovače
+do zdi k zásvkám
+Takhle to myslíte?
+
+Ještě mi vrtá hlavou jestli se vyrábí nějaká krabička do zdi, přes kterou
+pustím do zdi ty UTP kabely. Myslím, že by vypadalo dost blbě, kdybych ty
+kabely jenom jenom zasádroval do zdi.
+
+Jinak děkuji za rady
+[Smajlík]
+ IT amateur
+29.08.2016 22:41:55
+Přesně tak, přívod k wifi a od něj kabel (nebo raději dva, dá se tam přidat
+switch) ke každé zásuvce (když dva tak dvojzásuvce). Když už tak dej zásuvku
+do každé místnosti, nikdy nevíš, kdy se bude hodit.
+ _A_Z_0_9 [Muž]43 [Kategorie]
+29.08.2016 22:41:31
+je možné, že to bude fungovat i takhle...ale není to úplně standardní
+řešení...měl by se na to použít nějaký rozbočovač
+ nejaky-student
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+
