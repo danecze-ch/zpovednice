@@ -1,0 +1,155 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+   Otázky - Vzkazy č.992919, vloženo _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+   29.03.2017 21:46:25               _s_t_r_á_n_k_a_]
+   Jak na vlastní e-mail + jak funguje posk
+   Všiml jsem si, že někteří nemají e-mail ve tvaru vylitýgenius@seznam.cz
+   ale vylitýgenius@sidloxyz.cz, je složité zřízení vlastní e-mailove
+   adresy? A ještě by mě zajímalo, jak funguje takové poskytování e-mailu a
+   protokol? Protože pokud si to mohu založit sám nemělo by to být složité
+   ani pro ostatní a také nevím když tam není DNS adresa jako u webu, tak
+   podle čeho se to ve větším množství filtruje?
+    Vylitý génius [Muž]24  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+29.03.2017 23:47:20
+Běžně se to dělá tak, že si v nějaké TLD (cz, com, nebo eu) zaplatíš
+registraci domény mojedomena.xy (stokoruny/rok) a buďto si někde zaplatíš
+službu mailserveru, nebo můžeš (tuším zadarmo) používat vlastní doménu na
+mailserveru seznam.cz
+Doménovým mx záznamem nasměruješ doručování pošty pro mojedomena.xy na IP
+mailserveru, na něm pak máš poštovní schránky - název schránky je to před
+zavináčem. Jak a co všechno nastavit ti poradí poskytovatel serveru.
+ _S_e_m_i_z_a_r [Muž]49 [Kategorie]
+29.03.2017 22:59:28
+Rád vidím, že ses posunul, hlavně nezabloudit
+ _M_S_-_f_a_n_o_u_s_e_k [Muž]50 [Kategorie]
+29.03.2017 22:57:43
+MS-fanousek: Jj, musím ti dát teď zpětně za pravdu, že jsem šel na to asi
+úplně špatně. Teď si říkám, že když jsem chtěl psát, prodávat atd. měl jsem si
+to dávno vymyslet "projekt" nainstalovat řešení a učit se za pochodu a ve
+volnu řešit zdrojaky. Aspoň bych měl na čem stavět, takhlen jsem furt na
+nule...
+[Smajlík]
+ Vylitý génius
+29.03.2017 22:45:19
+Vylitý génius: vypadá to, že jsi blízko prozření. Skutečně nemá smysl začínat
+tím, že chceš chápat vnitřek. Na všechno máš dnes řešení, kde nemusíš nic moc
+vědět. Stačí zvládnout konfiguraci.
+Do hloubky můžeš zamířit, když ti fungující řešení přestane vyhovovat.
+ _M_S_-_f_a_n_o_u_s_e_k [Muž]50 [Kategorie]
+29.03.2017 22:43:20
+MS-fanousek: Ok, mrknu na to. Jinak teď si říkám, jestli má vůbec v
+současnosti smysl řešit chápání zdrojového kódu a nestačí znát na každý
+problém opensource a konfigurace. Nejdříve jsem narazil na cms, pak jsem
+zjistil že existují eshopova řešení a teď i emailové řešení. :))
+ Vylitý génius
+29.03.2017 22:31:12
+Vylitý génius: asi nejrozšířenejší mail server je postfix. Vůbec nic o tom
+nemusí vědět, jen si uděláš pár konfiguráků podle netu a můžeš mailovat.
+Pak můžeš postoupit na vyšší level a spojit to s databází.
+ _M_S_-_f_a_n_o_u_s_e_k [Muž]50 [Kategorie]
+29.03.2017 22:28:49
+MS-fanousek: Ok, no budu muset už začít s PHP a MySQL (nebo v čem je to
+psané), protože pak ani nejsem schop pochopit technologií z roku 1973 :)).
+Ještě tak dumám nad tím jak to monetizuji, pokud je to pro širokou
+veřejnost...
+[Smajlík]
+ Vylitý génius
+29.03.2017 22:21:08
+Vylitý génius: poštovní server má nastavená pravidla, která určí co se má kam
+doručit. V tom nejjednodušším případě, tam máš několik schránek a co do nich
+přijde se uloží na disk do adresářů jednotlivých schránek.
+ _M_S_-_f_a_n_o_u_s_e_k [Muž]50 [Kategorie]
+29.03.2017 22:17:48
+MS-fanousek: No podle čeho pozná zpráva kam má dojít. Když zadám
+_w_w_w_._v_y_l_i_t_e_j_g_e_n_i_u_s_._c_z_ je to jedna DNS, ale teď mi došlo že
+uživatelx@vylitejgenis.cz a uživately@vylitejgenius.cz směřuje na stejnou dns,
+ale prichází na jiný účet v databázi na dané DNS. Nemyslel jsem filtrování
+spamu, i když i to může být zajímavé.
+ Vylitý génius
+29.03.2017 22:14:44
+The Law: a teď mi ještě popiš, jak by mu na tu mailovku chodily emaily.
+ _M_S_-_f_a_n_o_u_s_e_k [Muž]50 [Kategorie]
+29.03.2017 22:04:41
+Koní huba kecá, jako vždy!!!!!!!!!!!
+[Smajlík]          [Muž]24 [Kategorie]
+ _N_a_ _l_o_u_c_e_ _j_e_ _b_o_u_ř_e
+29.03.2017 22:03:13
+ok, tak se ti tu 10 minut smolím s odpovědí a mezitím tu máš dalších 5. No
+nic...popojedem
+ _Z_a_r_c_o_n [Muž]41 [Kategorie]
+29.03.2017 22:01:09
+MS-fanousek: Není pravda, že musí mít doménu aby mohl provozovat mail. Ovšem
+bez domény je velká pravděpodobnost, že ho brzo utnou, nebude mít totiž SPF a
+DKIM, jak jsem už zminoval. Ono v dnešní době není problém si přes PHP script
+poslat email z jakoukoliv koncovkou, ale pošleš si to tak jen parkrát.
+Díkybobu.
+
+Opravdu mu stačí jen ten mail server + DNS, domenu nepotřebuje, ale i tak bude
+mít asi problémy časem s blacklisty.
+ _T_h_e_ _L_a_w [Muž]23 [Kategorie]
+29.03.2017 21:59:36
+Kup si doménu a založ si email na seznamu.
+ _A_z_a_t_h_o_t_h [Muž]27 [Kategorie]
+29.03.2017 21:59:08
+Když si pořídíš doménu, tak potřebuješ mail server. Buď si zřídíš na serveru
+vlastní nebo se poohlédneš po hostingu, který poskytuje mailové služby.
+
+Co myslíš tím filtrováním?
+ _M_S_-_f_a_n_o_u_s_e_k [Muž]50 [Kategorie]
+29.03.2017 21:58:53
+A ještě nezapomeň nastavit DKIM a SPF, jinak hodně brzo skončíš na všechn
+možných blacklistech.
+ _T_h_e_ _L_a_w [Muž]23 [Kategorie]
+29.03.2017 21:56:22
+Potřebuješ DNS + mail server. DNS abys mohl nastavit hlavně MX záznamy, tedy
+záznamy pomocí kterých ostatní mail servery směrují poštu na tvůj server. A
+jsem si z 99% jistý, že tohle si sám doma na koleně nespíchneš, a budeš muset
+použit služeb třetí strany. Jeden z projektů na kterém jsem se podílel si
+nechává zprostředkovat mail server a stojí to zhruba 700 měsíčně.
+ _T_h_e_ _L_a_w [Muž]23 [Kategorie]
+29.03.2017 21:50:14
+Už zakládáš ten web orku??????? NAJEDNOU!!!!!!!!!!!!!!
+[Smajlík]          [Muž]24 [Kategorie]
+ _N_a_ _l_o_u_c_e_ _j_e_ _b_o_u_ř_e
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+

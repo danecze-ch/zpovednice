@@ -1,0 +1,108 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+   Otázky - Vzkazy č.997705, vloženo _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+   30.04.2017 14:48:01               _s_t_r_á_n_k_a_]
+   chci v pc nastavit síť na TKIP
+   Mám win7 32 bit (jestli to hraje roli). Vždycky jsem měl síť nastavenou
+   na WPA2 - TKIP a teď, když to na WPA2 - TKIP nastavím, tak se ukáže
+   takové to "omezený přístup, připojení k síti není k dispozici". Proč?
+   Vždycky mi to tak šlo nastavit v pohodě.
+
+   Neptejte se proč to tak potřebuji, ale potřebuji.
+    síťař [Muž]17  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+30.04.2017 16:34:23
+Zarcon: Pokud stolní PC ve stejný moment funguje tak může být chyba v obou
+wifinách (modem či PC), vyzkoušej místo řeinstalace ovladačů (to je zbytečné)
+restartovat Wifinu jako takovou. Tedy v zakázat a povolit adaptér. Pokud se to
+po tomto kroku chytne tak bych zvážil výměnu toho adaptéru v PC. Pokud to
+nechytne tak restart modemu (nebo AP). Jedno z toho bude KO.
+ _I_k_a_S_G_C [Muž]29 [Kategorie]
+30.04.2017 16:26:57
+Na stolním počítači přes UTP kabel se tento problém neprojevuje...
+ _Z_a_r_c_o_n [Muž]41 [Kategorie]
+30.04.2017 16:12:19
+Pokud se to děje tak jednou za měsíc a podobně tak může jít i o problém u
+poskytovatele internetu. Ten může mít výpadky. To by se v době výpadku dalo
+ověřit připojením na modem a tam se podívat na stav síťové konektivity.
+Případně pingnout něco přes diagnostiku (tu má většina modemů). Pokud by se
+zjistilo že je chyba opravdu ve Wifi noťasu tak je výměna wifi karty velmi
+jednoduchá. Takové wifiny se válí skoro všude. Prakticky tam bude pasovat
+jakákoli vifi třeba i z vyřazeného ntb. Jen je potřeba najít správné ovladače.
+ _I_k_a_S_G_C [Muž]29 [Kategorie]
+30.04.2017 15:53:55
+Díky, poznačím si a vyzkouším až se to znovu stane.
+ _Z_a_r_c_o_n [Muž]41 [Kategorie]
+30.04.2017 15:43:58
+Zarcon: Vadná wifi v noťasu je méně pravděpodobná, nejspíš bude chyba na
+straně AP... Doporučuji jakmile se to stane spustit automatické odstranění
+potíží (pravým na ikonku Wifi a dat "odstranit potíže"). Během toho se
+automaticky restartuje WiFi karta a na konci to vypíše jakou chybu to našlo.
+Dost často to bývá problém s DNS (Domain Name System) serverem který běží na
+AP. Řešení je mnoho. Pokud se Ap přehřívá tak je nejlepší koupit nové, také
+může mít špatné napětí na zdroji (ve starých zdrojích se nafouknou kondíky a
+pak kolísá napětí a procesor toho AP nefunguje korektně). Další možností je v
+PC si manuálně nastavit pevnou IP a pevně DNS třeba Google 8.8.8.8...
+ _I_k_a_S_G_C [Muž]29 [Kategorie]
+30.04.2017 15:33:57
+Něco podobného řeším u táty na notebooku cca každý měsíc (teď už je to myslím
+po páté). Ukáže to "připojeno, bez internetu". Nic nepomáhá, než komplet
+přeinstalovat ovladače wi-fi.
+ _Z_a_r_c_o_n [Muž]41 [Kategorie]
+30.04.2017 15:32:13
+Jo a ještě jedna věc, pokdu změníš šifrováni na AP tak musíš vymazat z PC
+uložené přihlašovací údaje na Wifi... Tedy přes Centrum síťových serepetiček
+najet do bezdrátových sítí a umazat tvou wifi. Pak se stačí znovu připojit na
+Wifi a ona si načte nové nastavení a uloží.
+ _I_k_a_S_G_C [Muž]29 [Kategorie]
+30.04.2017 15:30:09
+Ty asi nemáš nejmenší páru co děláš.... Kde to jako nastavuješ ??? WPA je
+nastavení šifrování a nastavuje se na AP nebo Modemu přes webové rozhraní
+onoho rozbočovače. Tedy jednoduše řečeno připojíš se na wifi tak aby
+fungovala, spustíš si CMD a napíšeš "ipconfig", pak si vyčteš IP adresu na
+Gateway a tu dáš do prohlížeče, zadáš uživatele (v 99% případu "admin") a
+hedlo (v 70% případu defaultně "admin" nebo "1234" pokud to někdo
+nezměnil)..... Pak stačí najít nastavení security a přenastavit wifi.....
+[Smajlík] [Muž]29 [Kategorie]
+ _I_k_a_S_G_C
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+

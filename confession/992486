@@ -1,0 +1,191 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+   Otázky - Vzkazy č.992486, vloženo _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+   26.03.2017 20:55:02               _s_t_r_á_n_k_a_]
+   Testy Scio OSP - úlohy typu zebra
+   Dobrý den,
+   procvičuji si příklady k testům Scio OSP a nerozumím řešení úloh typu
+   zebra, kde jsou 3 "podmínky".
+   Prosím o pomoc jak sestavit tabulku či jakým způsobem řešit. Předem
+   děkuji za odpověď.
+
+   Např.:
+   Pět mužů (Aleš, Cyril, Jan, Karel, Pavel) tvoří celkem 5 manželských
+   párů s pěti ženami (Dana, Kamila, Marie, Alena, Radka). Každý z párů
+   vlastní právě jednoho, jiného psa (bernardýn, pudl, kolie, vlčák,
+   jezevčík). Víme, že:
+   - Jan má bernardýna.
+   - Karel má pudla, ale jeho žena není Dana.
+   - Radčin pes je buď kolie, nebo vlčák.
+   - Kamila nemá ani jezevčíka, ani kolii.
+   - Aleš a Jana jsou manželé.
+   - Cyrilovou ženou je Marie, nemají ale vlčáka.
+
+   1) Které z následujících tvrzení je určitě nepravdivé?
+   A. Dana má jezevčíka
+   B. Pavel je manželem Radky
+   C. Pudl patří Kamile
+   D. Pavel má kolii
+   E. Marie a Cyril jsou manželé
+
+   2) Která z následujících dvojic tvoří manželský pár?
+   A. Dana a Pavel
+   B. Karel a Radka
+   C. Cyril a Alena
+   D. Jan a Dana
+   E. Pavel a Kamila
+
+   3) Jakého psa může mít Marie?
+   A. jen jezevčíka
+   B. jen kolii
+   C. jakéhokoli z dvojice jezevčík, kolie
+   D. jakéhokoli z dvojice kolie, vlčák
+   E. Jakéhokoli z dvojice pudl, jezevčík
+    Anonym [Žena]20  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+26.03.2017 23:54:59
+Pokud umíš aspoň trochu anglicky, je tohle výborné: _h_t_t_p_:_/_/_w_w_w_._l_o_g_i_c_-
+_p_u_z_z_l_e_s_._o_r_g_/
+[Smajlík]       [Žena]69 [Kategorie]
+ _C_r_a_z_y_K_i_d_s_D_a_n_n_y
+26.03.2017 22:48:47
+jinak krok za krokem ukazka reseni podobne ulohy napr. tady:
+_h_t_t_p_:_/_/_z_a_v_i_t_n_i_c_e_k_._s_w_e_b_._c_z_/_c_l_a___z_e_b_r_y_._h_t_m
+ JSBD
+26.03.2017 22:47:01
+muj postup u tehle ulohy:
+*** Radka ma bud kolii nebo vlcaka..kdo je jeji muz?
+-- Alese a Cyrila skrtame, o tech vime ze jsou s nekym jinym; zbyvaji Jan,
+Karel, Pavel
+-- Jan ma ale bernardyna -> skrtame
+-- Karel ma ale pudla -> skrtame
+-- zbyva Pavel, porad nevim jakeho maji psa, ale muzeme propojit Radku s
+Pavlem a vyloucit, ze by i Pavel mohl mit jezevcika (a samozrejme ani
+bernardyna a pudla)
+*** ted se podivame s kym je Dana
+-- podle zadani Karel neni jeji muz;
+-- vime, ze Ales, Cyril maji nekoho jineho
+-- a v minulem kroku jsme zjistili , ze Pavel je s Radkou
+-- takze zbyva Jan -> o nem vime, ze ma Bernardyna
+÷÷÷ prvni trojice: Jan + Dana + bernardyn
+*** ted zjistime ke ktere zene patri Pudl a Karel (protoze vime, ze to je
+dvojice)
+-- pudl nemuze patrit Dane (vime ze neni s Karlema zjistili jsme, ze ma Jana a
+bernardyna)
+-- nemuze patrit Marii (protoze ta je vdana za Cyrila)
+-- nemuze patrit Alena (vdana za Alese)
+-- nemuze patrit ani Radce (protoze ta ma bud kolii nebo vlcaka a zjistili
+jsme, ze je vdana za Pavla)
+-- takze zbyvaji Dana a Kamila
+-- jenze ze zadani vime, ze Karel (tedy ani pudl) s Danou nepece -> musi to
+tedy byt Kamila
+÷÷÷ druha trojice: Karel + Kamila + pudl
+*** dve trojice jsme vyskrtali, ale zamen uz taky i zbyle pary muz+zena a
+zbyva priradit jim kolii, vlcaka a jezevcika:
+--Ales + Alena muzou mit kohokoliv
+--Cyril + Marie muzou mit kolii nebo jezevcika
+--Pavel + Radka muzou mit kolii nebo vlcaka
+->> dal s tim nehneme, nemuze to dal jednoznacne urcit...
+
+... Ale potrebujeme to znat presne, abychom odpovedeli na otazky?
+- Tak se mrkneme na otazky a doplnime, co vime:
+1) A [BCE jsou urcite pravdive, D nevime - muze byt pravdive]
+2) D [pary mame vsechny, takze easy]
+3) C [jezevcika NEBO kolii - protoze pudla a bernardyna jsme uz priradili a ze
+zadani vime, ze nemaji vlcaka.]
+
+Doufam, ze je to spravne, ze ta uloha SCHVALNE nema uplne vyreseni vsech
+trojic a ze po vyskrtnuti dvou se da i tak spravne odpovedet a de facto neni
+treba znat kazdou trojici.
+Pokud to ovsem nekdo vyresil tak, ze zna presne kazdou trojici, at sem hodi
+napovedu nebo ukaze chybu v mem postupu/uvaze, prosim.
+ JSBD
+26.03.2017 21:53:17
+1) je A
+2 je D
+ Inge2
+26.03.2017 21:39:53
+oops sorry, prehlidl jsem opravu.. nejak jsem se dotoho zabrla endavlo mit
+smysl:-)
+ JSBD
+26.03.2017 21:38:10
+"Aleš a Jana jsou manželé."
+Jaka Jana?! v zadani zadna neni.. ma to byt Dana?
+ JSBD
+26.03.2017 21:33:10
+Ehm, Houstone, je tu ještě jeden malý problém.
+Uvědomila jsem si, že se v integracích objevuje konstanta, kterou většinou
+hážeme před něj, ale zároveň existuje vzorec, že integrace konstanty c je cx.
+Nějaké nápady, nebo je mám dal vesele vytýkat před integrál (už jenom protože
+nebudu muset rozepisovat vzorec pro integraci x^n)?
+ _P_ř_e_m_o_u_d_ř_e_l_á_S_t_u_d_e_n_t_k_a [Žena]19 [Kategorie]
+26.03.2017 21:24:17
+No a ty to potřebuješ vypočítat? Tak to zkus sám podle toho trojúhelníku, jak
+jsem ti poradila, pak sem dej odkaz na obrázek. Já ti to zkontroluju.
+Předpokládám ale, že výsledky máš, tak musíš pochopit spíš ten postup, tak to
+zkus.
+Nebo zkus metodu tabulky, viz víc tady _h_t_t_p_:_/_/_b_l_a_c_k_-_h_o_l_e_._c_z_/_c_e_n_t_a_l_/_w_p_-_c_o_n_t_e_n_t_/
+_u_p_l_o_a_d_s_/_2_0_1_0_/_0_3_/_J_A_K_-_N_A_-_Z_E_B_R_Y_._p_d_f
+ Inge2
+26.03.2017 21:20:23
+V otázce mám chybu - *Aleš a Alena jsou manželé. (Jana tam není).
+ Anonym
+26.03.2017 21:06:41
+V tomhle konkrétním případě při řešení grafem se udělá trojúhelník, na jednu
+stranu si uděláš pět čárek a pojmenuješ je mužskými jmény, druhou stranu
+uděláš se ženami a třetí se jmény psů a podle těch podmínek, které tam jsou
+napsané, tak si uděláš čáry kdo s kým a pak doplníš na trojúhelníky, vždy
+jeden trojúhelník musí být muž - žena - pes. Pak podle toho vyplněného grafu
+odpovídáš na otázky, kt. máš zadané.
+Můžeš to udělat taky vylučovací metodou, že si napíšeš ke každému všechny
+možnosti a pak je podle zadání vyškrtáváš, ale první metoda je elegantnější.
+ Inge2
+26.03.2017 21:01:53
+Nezáviď.
+Zítra k tomu sednu, dnes mám vlastní oříšky.
+ _P_ř_e_m_o_u_d_ř_e_l_á_S_t_u_d_e_n_t_k_a [Žena]19 [Kategorie]
+26.03.2017 21:00:13
+Samozřejmě, chybí zde inge, naše nová orčí hvězda!!!!!!!!!!!!!!!!
+[Smajlík]          [Muž]24 [Kategorie]
+ _N_a_ _l_o_u_c_e_ _j_e_ _b_o_u_ř_e
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+

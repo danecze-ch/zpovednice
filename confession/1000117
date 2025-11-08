@@ -1,0 +1,137 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+   Otázky - Vzkazy č.1000117, vloženo _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+   16.05.2017 19:59:12                _s_t_r_á_n_k_a_]
+   Oprava video súboru
+   Čaute, vedel by mi tu niekto poradiť?
+
+   Zmazal som si v mobile jedno video. Podarilo sa mi ho obnoviť naspäť, ale
+   po obnovení nie je šanca ho prehrať. Dopracoval som sa postupne k tomu,
+   že je zrejme poškodená (prázdna ? ) hlavička súboru, keďže všade tam
+   vypisuje nuly v hlavičke.
+
+   Teraz otázka. Je možné tú hlavičku nejako upraviť? A ak áno, bolo by
+   reálne, aby som do nej nejako nekopíroval údaje z iného videa, ktoré je
+   urobené tou istou kamerou (mobilom), aby to fungovalo?
+
+    _a_k_t_y_X E-MAIL:_[_g_r_a_f_i_k_a_/_m_r_e_f_h_i_._g_i_f_]   [Muž]27 [Kategorie]  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+27.05.2017 12:13:14
+Aj tak by sa to dalo, keby to VLC otvoril :D
+Môj ntb na to nemá a nemám čas sadnúť k druhému kmpu, že čo on na to povie :
+D Ale mam návod, to je hlavné.
+[Smajlík] [Muž]31 [Kategorie]
+ _a_k_t_y_X
+22.05.2017 02:53:31
+No zalezi na tom. Ak mas slabsi/priemerny ntb tak to moze zozrat kopu casu
+taky konverting.
+
+Kazdopadne, raz som jedno video zachranoval takym sposobom, ze som zapol
+nahravanie plochy a nasledne som video pustil v tom VLC. Nechal som ho prehrat
+a potom som v NLE iba ustrihol zaciatok a koniec a dobre to dopadlo.
+ JsM
+21.05.2017 12:04:15
+Diki Jakub, trocha teórie na pochopenie.
+Akurát mám v oboch pokusoch rovnaký problém, aj keď skúšam čo písal UFO aj to
+tvoje, tak asi bude problém veľkosť súboru, lebo to akože začne makať, ale nič
+sa nedeje. Ešte skúsim druhý komp, možno to len môj ntb nevie rozdýchať, že čo
+mu dávam také ťažké úlohy :D
+
+Napíšem, že či sa to podarilo
+[Smajlík] [Muž]31 [Kategorie]
+ _a_k_t_y_X
+20.05.2017 08:25:17
+Video sa sklada z troch casti
+
+Audio stopa (zakodovana audio kodekom)
+Video stopa (zakodovana video kodekom)
+Indexovy zaznam
+
+V pripade ak je poskodeny iba tento indexovy zaznam, video sa da zachranit,
+pretoze ten iba hovori prehravacu aky je pouzity kodek, ake fps a ine
+zaujimavosti o subore.
+
+VLC player je schopny asi ako jediny prehravac, prehrat video aj s poskodenym
+indexovym zaznamom. Vyskusaj to tam, ak to pojde prehrat tak je dobre. Ak to
+VLC neprehra, tak bude problem aj v audio alebo video stope, teoreticky aj to
+by bolo riesitelne ale to by som vedel zistit iba na mojom PC.
+
+Vo VLC sa daju konvertovat videa (pozri na nete navod) isiel by som asi touto
+cestou. Prebehni ho VLC konverterom, a ten by mal vytvorit ten index nanovo.
+
+Daj vediet ci si to vyriesil.
+ JsM
+17.05.2017 21:52:34
+skusal som vselico webu, ale realne opravit vedelo len toto:
+
+_h_t_t_p_:_/_/_w_w_w_._r_e_g_i_s_t_r_a_t_o_r_v_i_e_w_e_r_._c_o_m_/_i_n_d_e_x___e_n_._h_t_m_l_ 
+
+- das File a Repair broken file.... + treba mat ine funkce video z toho
+zariadenia
+ _U_F_O_P_o_r_n [Muž]32 [Kategorie]
+17.05.2017 21:13:41
+Upload viac menej nebude schodný, má to cez 6 GB a to by bolo na dlho. Zase až
+tak veľmi po ňom netúžim :D
+Iba ak by si mi vedel dať návod, ako na to, inak kašlem na to, nechám si ho
+bokom a raz na to možno prídem, ako to urobiť.
+[Smajlík] [Muž]31 [Kategorie]
+ _a_k_t_y_X
+17.05.2017 12:50:46
+- akurat minule som toto riesil, uploudni mi ho dakam a posli link
+ _U_F_O_P_o_r_n [Muž]32 [Kategorie]
+17.05.2017 03:55:05
+Příspěvek porušoval zákony ČR nebo pravidla Zpovědnice - byl odstraněn.
+16.05.2017 21:42:49
+Ak to video mať nebudem, tak nebudem, ale potešilo by, ak by som ho nejako
+zachránil.
+Každopádne vďaka, aspoň viem, čo zhruba hľadať.
+[Smajlík] [Muž]31 [Kategorie]
+ _a_k_t_y_X
+16.05.2017 20:55:22
+Záleží jak důležité to video bylo. Jen zaměnit hlavičku nepomůže, chtělo by to
+nastudovat něco o použitém kontejneru a kodecích, co všechno tam je uloženo a
+jakým způsobem.
+Některá poškozená videa otevře VLC player a taky existují repair utility pro
+různé typy video souborů, skus hledat, třeba něco zabere .
+ _S_e_m_i_z_a_r [Muž]49 [Kategorie]
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+
