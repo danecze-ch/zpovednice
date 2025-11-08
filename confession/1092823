@@ -1,0 +1,187 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+Zpověď č.1092823, vloženo 04.04.2019 12: _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+00:06                                    _s_t_r_á_n_k_a_]
+pracovní frustrace, obor magorů
+Ahoj, jenom se chci vypsat ze své pracovní frustrace. Trochu si ulevit, nic
+víc.
+
+Mám léta praxe jako pracovník v IT, ten obor mě dříve bavil, ale poslední roky
+to naopak začínám nesnášet. Leze mi na nervy ta "security" nebo česky
+bezpečnostní mantra, která se šíří jako mor. Jedna věc je pochopit co a kde
+potřebujete udělat a potom to udělat, druhá věc je, že v rámci přidání
+"bezpečnostních opatření" je vše mnohem složitější. Nemůžete snadno přistoupit
+na systém, nemůžete pracovat s daty a přenést snadno trace software vendrovi,
+všechno je blokované, každá cesta je zabezpečená a vy jak magor kopírujete
+soubory mezi sítěmi , 6 RDP s timeoutem 5 minut. Totální kretenismus, který
+magor vymyslel tenhle způsob?! IT se mělo zjednodušovat, být uživatelsky
+přívětivé, místo toho se na profesionální úrovně všechny možnosti zakážou, aby
+bylo vše bezpečnější. Nejlepší je, že ty pravidla navrhnou magoři, kteří tu
+securitu sami obcházejí přes jiný přístup, protože když tu securitu navrhli tak
+věděli, že sami mají zadní vrátka, ale ostatní je použít nemůžou. Za den
+pracujete v deseti terminálech a xkrát se musíte znovu odhlásit a přihlásit
+heslem co má 33 znaků všeho možného typu bez možnosti kopírování protože to
+windows debil admin zakázal. Zakáže i uložení hesla do session. Takže vám
+pomůže jenom RDP manažer, který je sto let za opicemi a neumí nic jiného než
+reconect. Pokud chce použít jiný nástroj tak na vás řve auditor. Všichni mluví
+o zabezpečení, ale všichni zároveň ví, proč je to nanic. Když něco spacká
+uživatel, tak nepomůže nic. Když je securita špatně a přehnaně nastavená tak se
+v případě nouze nikdo nikam nedostane. Windows doména je úžasná umožňuje hodně
+věcí jak adminům tak uživatelům. Navrhnuté to bylo dobře, než vypatlaní admini
+přestali používat uživatelské profily a na místo jedné domény je jich v
+korporaci 600, každá s jiným profilem, s jinými právy, na jiné verzi OS a s
+jiným heslem. Jedno heslo vám vyprší za tři měsíce, druhé za 3 týdny. Pokud
+jste si ho nezměnili včas, máte smůlu, musíte žádat support o reset, ale co
+když se nedostanete ani na portál supportu kvůli problému s heslem? Jste v
+háji, musíte to řešit telefonicky, jo, a pokud se dostanete tak daleko tak Vám
+nové heslo podle pravidel bezpečnosti mohou zaslat jenom do emailu, pro který
+heslo žádáte a tím jste zase v háji. Proč se to řeší ručně a ne nějak
+automaticky s logikou, proč se nepoužívá OTP?! Neexistuje seznam domén, všechno
+je chaos a zmatek. Vše je nastavené tak jak se jednotlivý admin vyspal. Buď
+máte v korporaci všude na síti default administrátora s heslem administrátor
+nebo je to druhý extrém a šílíte z toho.
+
+Když si koupíte produkt na doma, tak zjistíte, že vyvojáři neprovedli update
+svojí aplikace, no v nových OS, nebo v prohlížečích si ani neškrtnete a musíte
+opět řešit, jak nějaké vykopá starou portable verzi a fungovat s tím.
+
+IT jde prostě do háje se vším všudy, autorská práva, přehnaná securita, jenom
+aby korporace mohli zakrývat daňovou optimalizaci, soustředění IT jenom na
+bankovní sektor a vývojářský chaos.
+
+nechápu ty *** firmy, co svěří správu svoji IT infrastruktury nadnárodní
+korporaci, místo toho aby měli svoje spolehlivé adminy se znalostmi jejich
+prostředí. Všichni to dělají jenom v rámci mantry outsourcingu a opět lepší
+daňové optimalizaci, fakt zoufalství.
+
+Pokud to čte nějaký windows admin z korporátu. Prosím, prosím začněte používat
+funkce, co tam jsou od windows server 2000, jako uživatelské rooming profily,
+tak že se každý přihlásí na server a má tam to co k práci potřebuje, začněte
+používat stejná password policy ať mi nevyskakuje paskvil jako, že si nemůžu
+změnit heslo protože cituju „nesplňuji pravidlo 0 znaků, minimálně 12 číslic,
+alfabetické charaktery a podobně“ Jak mám do háje mít heslo co má nula znaků?!
+Proč nemůžeme mít v korporaci sdílené osobní uložiště dostupné pod našim heslem
+tak ať můžeme přenášet důležitá data kdy a kam potřebujete. Ten bordel v IT
+infrastruktuře nikoho stejně nezajímá, přihlásit se hacker do IT korporátu tak
+se z toho poblije a jde pryč.
+
+Pokud tohle čte síťař z korporátu. Tak se zkuste zamyslet nad tím jak
+nastavujete VNP, který idiot vymyslel, že přes ní musíte posílat všechen
+trafic?! Pořád musíte zvyšovat propustnost, protože blbečci v práci čučí na
+youtube na HD videa a všechno vesele frčí přes VPN, takže pokud se vůbec
+zvládnete do přetížené sítě připojit tak je všechno pomalé a vše padá. Proč
+proboha posíláte interní komunikátor také přes VPN, když to může jit mimo?! Buď
+změňte VPN pravidla tak ať přes ni směřuje jenom něco a nebo zakažte mediální
+traffic.
+
+Pokud tohle to čte manažer IT oddělení z korporátu, který vůbec většinou neví
+vocogo, ale přitom o všem rozhoduje na základě chybných domněnek --> JDI
+KONEČNĚ DO ***!
+ magor454646 E-MAIL: _x_i_n_d_l_@_t_e_s_t_._c_o_m  [Muž]60  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+04.04.2019 20:16:46
+A teď ti to můžu povědět z druhé strany barikády za securitu (konkrétně
+identity and access management). Ony divoké léta kdy počítače začínaly už
+naštěstí skončily (ano pamatuju je, i když mám jen polovinu vašeho věku).
+Začnu tím že ve firmách existují určité procesy. Když se něco pokazí, tak je
+třeba znát kdo to pokazil a kdo to může opravit (většinou jedna a ta samá
+osoba). Ono minuta neplánovaného downtime může znamenat tisíce eur pokuty. A
+sám víte, že za minutu nerestartujete ani jeden blbý server, natož, když je
+chyba někde jinde. A nic jiného procesy nejsou, třeba hlídat člověka co dělá
+jakékoliv změny, třeba plánovat kdy ty změny udělá, a třeba kontrolovat, na
+které data šahá (třeba u bankovních zákazníků tohle je hoodně kritické)
+
+A spousta lidí v IT se automaticky považuje za odporníky když dokázali
+nainstalovat distro linuxu a instalovali si ve windowsu gcc kompilátor.
+Nejsou, učil jsem se co všechno dělá co dělá a proč to dělá, už nějaký ten rok
+programuju právě aplikace pro IAM a můžu prohlásit - neznám všechno a nikdy
+nebudu všechno znát. Chybu můžu udělat velice jednopduše jedním blbým
+překlepem. MIM útok přes můj počítač může udělat i script kiddie který ani
+nevím co to co spouští dělá, pokud nemám zabezpečený počítač. Stačí abych měl
+otevřený port na routeru (potřebuju NAT pro hraní) a protože mám net od UPC,
+tak tím automaticky otvírám bránu pro hromadu lidí. Kdo zaručí že na PC není
+něco co čte schránku a odchytává hesla?.. A další a další příklady.
+
+Já vím co se může stát (a vím že hromada dalších věcí nevím, nebo zatím
+zranitelnosti nejsou veřejné/objevené), ale typický běžný franta uživatel ne.
+Ale chtěl by přístupy na všechno možné i nemožné, protože.. eee.. prostě chce.
+Chce obcházet procesy, chce dělat spousta věcí jinak a jednoušeji (ono i
+přístup na server přímo bez jump serveru je riziko, kopírováníá souborů?
+jasnéé a kdo zaručí že nejsou zavirované?) Potom se něco pokazí a kdo bude
+vinmík? po kom půjde firma? Samozřejmě né po tom co to udělal, ale po tom, kdo
+mu dal ten přístup.
+
+Proto nejlepší definice toho co dělám zní "Chráním lidi před jimi samými". A
+jen na okraj, v tomhle věku jste už ztratil kontakt s novými technologiemi. Už
+dávno nemáte dělat admina ale spíš projekťáka, incident/problem managera,
+shift supervisora nebo podobné pozice, kde se zúročí léta práce v IT, ale
+které nevyžadují znalosti nejmodernějších technologií.
+ weerwolf
+04.04.2019 15:20:12
+Murphyho zákony označují širokou škálu různých rčení či epigramů týkající se
+chybovosti a lidského selhání. Základní formou všech těchto „zákonů
+schválnosti“ je tvrzení „Co se může pokazit, to se pokazí“.
+ IQ tykve
+04.04.2019 13:11:57
+Tohle ale není tak úplně problém přehnané security tlačené evropskou nebo
+národní legislativou. Tohle je problém v tom, že máte ve firmě bordel a
+neschopné řízení.
+ _R_a_d_e_k_ _z_ _P_r_a_h_y [Muž]37 [Kategorie]
+04.04.2019 13:07:41
+Tvůj problém je s vašim IT oddělením, my ke všemu máme dokumentace a použití
+"cestovních profilů" v rámci domény je u nás téměř samozřejmostí. Ohledně
+hesel panuje poslední dobou velký nešvar a dostáváme příkazem nechat projít
+minimálně 8 znaková hesla s podmínkou velkých malých písmen a číslice. Osobní
+složky na file serveru je také samozřejmostí. Jediné co jsem nepochopil je
+nutnost 6 vzdálených připojení ?!
+Takže závěrem, nezanevřete na nás. IT je velice nevděčné, když vše běží
+neexistuje a když se něco sesype jsme ty největší kreténi co když si nepospíší
+s řešením tak bude zle.
+U Vás nejspíše bude ale problém v častém střídání administrátorů, protože
+kdyby se o to starala pořád jedna a ta samá skupina udělá si v tom pořádek
+ KOLONOSKOPIE
+04.04.2019 12:03:17
+Problémy 21.století.....
+[Smajlík]
+ to bude dobrýý
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+

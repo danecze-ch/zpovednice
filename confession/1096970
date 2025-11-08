@@ -1,0 +1,312 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+ Diskuze č.1096970, vloženo 14.05.2019 _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+ 16:51:01                              _s_t_r_á_n_k_a_]
+ Totální zoufalost
+ Dobrý den, dámy a pánové. Jak rozjíždíte kabelové připojení k internetu,
+ když nemáte dostupné žádné krabičky kolem a počítač vám hlásí vadný kabel,
+ přitom s kabelem zaručeně nic není, a částečné obnovení systému nezabírá?
+ Tovární nastavení není vhodné riskovat kvůli datům, ne? (Na zálohování dat
+ by nebyl čas.)
+
+ ...Tohle je diskuze o tom, jak byste to udělali vy, co nejjednodušeji a co
+ nejrychleji... :(
+  Aninka [Žena]  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+14.05.2019 21:59:51
+Kdyžtak zkus třeba i zítra zavolat svému poskytovateli připojení na nějaký
+helpdesk / technickou podporu. Minimálně by měli být schopní prověřit, jestli
+ten problém není na jejich straně. A vzhledem k tomu, že budou asi vědět jak
+je to tam připojené, tak by z informací od tebe mohli asi i lépe odvodit, kde
+by mohl být zakopaný pes...
+ _C_u_m_s_p_r_i_t_e [Muž]34 [Kategorie]
+14.05.2019 21:34:26
+Cumsprite: No tak do sveho pocitace nepustim ani svou rodinu, natoz nekoho
+ciziho. To by se asi nekdo dobre podivil. :D :D ...Budu to muset zkusit jeste
+zitra vecer, dnes bohuzel moc nestiham. Ale opravdu ti dekuji za tipy, sama
+bych nevedela vubec nic, krome uplnych zakladu.
+ Aninka
+14.05.2019 21:28:50
+Oshiioff: Jako že by si náhodou vypla síťovku v BIOSu? To je blbost...
+
+Aninka: Mě by spíše tedy zajímala ta topologie té sítě. Pokud tam máš nějakou
+datovou zásuvku na zdi a tu jen kabelem napřímo propojuješ s počítačem, tak
+předpokládám, že ta "wifi" není tvoje "soukromá wifi". Pak už rozumím, že
+nemáš jak resetovat nějaký router nebo switch... protože to bude někde v
+baráku. Zároveň ale nikdy nebudeš schopna ověřit, že ten problém není na
+kabelu (protože ten kabel z té datové zásuvky vést nějak do nějakého switche).
+Byť asi opravdu nebude.
+
+Hele, ještě můžeš zkusit to, co jsem psal už předtím. Otevřít si příkazový
+řádek a pomozí příkazu ping zkusit odezvu na tvou výchozí bránu (default
+gateway), jejíž adresu zjistíš pomocí toho ipconfig/all (výchozí brána je
+vlastně ta "krabička"). Nebo zadej jen příkaz třeba
+ping 8.8.8.8
+(pokud ti to vrátí nějakou odezvu, tak ten problém nebude u tebe, ale u tvého
+poskytovatele.... pokud ti to napíše, že vypršel časový limit žádosti, tak je
+chyba někde "po cestě", čili kdekoliv... )
+
+
+Jinak to, co psal aaaaa s tím TeamViewerem fungovat taky nebude. TeamViever je
+program, který pokud by sis nainstalovala, by umožňoval se vzdáleně připojit k
+tvému počítači a pracovat s jeho plochou tak, jako kdyby člověk seděl u něj
+(takže třeba opravit nějakou chybu) - ale to by prvně musel mít funkční
+připojení k internetu, aby bylo možné navázat to spojení.
+ _C_u_m_s_p_r_i_t_e [Muž]34 [Kategorie]
+14.05.2019 21:02:41
+Ja uz pisu i mekke i misto tvrdeho... Uz aby dnesek i zitrek skoncil.
+
+aaaa: A to je co presne?
+ Aninka
+14.05.2019 21:01:54
+Pokud ti nejede komp a nikdy jsi pred tim lanku k tomu nemela pripojenou, ale
+ostatni veci se pripoji, zkus se podivat, zda to mas vubec zapnuty v biosu.
+
+Pokud tomu nerozumis (jakoze ne), zavolej na zakaznickou linku a budes to mit
+rychleji nez tu vysedavat.
+ Oshiioff
+14.05.2019 20:55:09
+Chápu. Bohužel mě pak už nenapadá co jiného zkusit...
+ _C_u_m_s_p_r_i_t_e [Muž]34 [Kategorie]
+14.05.2019 20:53:08
+Jestli píše, že je vadný kabel, tak je buď skutečně vadný nebo je vadná síťová
+karta, moc si jinak neumím představit. Nechceš na TeamViewer? Kouknul bych se
+ti na to.
+ aaaaa
+14.05.2019 20:48:17
+Cumsprite ty krabicky jsou nekde ukryte. Ja mam jen neco jako zasuvku. Ale
+tipovala bych ti krabicky na ty hranate bez tech antenek.
+ Aninka
+14.05.2019 20:44:15
+Cumsprite: Musela bych to najit na pocitaci a ulozit jako obrazek, poslat na
+mobil, nahrat nekam na net a pak pro to vytvorit odkaz. Navic je tam IP a kdo
+vi co jeste, takze mam strach to davat sem. Krome toho jsem uz v takovem
+stresu z nestihani, ze predstava, ze jeste pul hodiny ztratim timhle, me
+privadi k silenstvi.
+ Aninka
+14.05.2019 20:23:59
+Zvláštní...
+
+a vypadá ta "Krabička" zepředu spíše nějak takhle (může to mít jinou barvu,
+může to být hranaté apod.)
+1) _h_t_t_p_s_:_/_/_t_i_n_y_u_r_l_._c_o_m_/_y_3_n_e_c_a_a_y_ 
+nebo spíše nějak takhle:
+2) _h_t_t_p_s_:_/_/_t_i_n_y_u_r_l_._c_o_m_/_y_y_6_l_x_f_9_l_ 
+
+
+Když spustíš příkaz:
+ipconfig /all
+Dokážeš udělat screenshot a poslat nám obrázek toho, co se ti vypíše?
+Něco takového _h_t_t_p_s_:_/_/_t_i_n_y_u_r_l_._c_o_m_/_y_5_g_z_3_l_l_l_ (zejména bychom potřebovali vidět
+ten odstavec pod Ethernet adapter, pokud možno i ten Wireless LAN adapter )
+ _C_u_m_s_p_r_i_t_e [Muž]34 [Kategorie]
+14.05.2019 20:08:12
+Router bohuzel nemam k dispozici. Ale z jedne krabicky sem jde net i do jineho
+zarizeni a tam net jde. Nechapu to. Ale s mym pocitacem se tohle stalo uz i v
+jinych sitich, jen se to vzdy samo vzpamatovalo. Ale tentokrat vubec.
+ Aninka
+14.05.2019 20:06:17
+Cumsprite zadala jsem vsechny tri prikazy a odentrovala a stejne nic.
+[Smajlík]
+ Aninka
+14.05.2019 20:05:24
+Viděl bych na problém s routerem (krabičkou). Zkus to, co jsem psal v minulém
+příspěvku, hlavně resetovat ten router.
+ _C_u_m_s_p_r_i_t_e [Muž]34 [Kategorie]
+14.05.2019 19:55:55
+Mne uz nejde ani wifi... tzn. kabelem to byt nemohlo ani omylem.
+[Smajlík]
+ Aninka
+14.05.2019 19:55:54
+To vypadá tedy na něco softwarového.
+1) Každopádně se ujisti, že je kabel v pořádku a je správně zacvaknutý do
+portu jak v počítači, tak na "krabičce". Mimochodem, pokud jsi s tím něco
+zkoušela nebo přepojovala, ujisti se, že ten kabel, který vede z krabičky do
+tvého počítače, je v krabičce zapojený do portu označeném jako LAN (může tam
+být třeba LAN1, LAN2, LAN3...)
+2) Vyresetuj tu krabičku (router) - potrně na něm bude čudlítko pro vypínání.
+Prostě vypni, chvilku počkej a zapni a počkej pár minut až naběhne. Pokud
+čudlítko nebude (docela bych se ale divil), natvrdo ho na chvilku odpoj ze
+zásuvky. Mohlo se na něm něco kousnout...
+2) Na svém počítači si spusť si příkazový řádek (klávesová zkratka Win + X,
+pak napiš "cmd"). Pak zadej příkazy:
+ipconfig /release
+ipconfig /renew
+ipconfig /flushdns
+(tohle uvolní IP adresu, požádá o novou a vysype nakešované DNS záznamy).
+
+
+Mimochodem, to, co jsem ti radil v předchozím příspěvku, by by dělalo to, že
+by se tvůj počítač pokusil odelat jakousi "žádost o odpověď" na ten router
+(krabičku) a podle toho, jestli by dostal odpověď, by se dalo odvodit, jestli
+nějaká komunikace proběhne a je problém někde jinde (třeba nefunkční DNS),
+nebo jestli je nějaký problém na "železe" (třeba vadný kabel, špatný kontakt
+na vymletém portu, problém se síťovou kartou...)
+ _C_u_m_s_p_r_i_t_e [Muž]34 [Kategorie]
+14.05.2019 19:28:15
+Cumsprite: Nic nove nemam, musela jsem to vcera vypnout natvrdo a od te doby
+ten net nejde. Nemam uz na to dneska bohuzel cas, akorat jsem ve stresu a to
+je vsechno. Ten kabel je zapojeny do nejake krabicky, ale tam to funguje.
+Chyba je nekde u me v pocitaci. Zitra se na to budu muset podivat nebo to dat
+nekam do opravny. Horsi je, ze to na vikend potrebuji a nevim, kde mi to kdo
+tak rychle spravi a jestli vubec. Kdyz si pujcim jiny pocitac, budu tam muset
+instalovat programy, ktere si taky sama nainstalovat neumim. To je na tom to
+nejhorsi. No nic, uz zase zacinam panikarit, tak jdu radeji delat to, co je
+ted nejakutnejsi. Jeste jednou diky za pomoc i tak.
+ Aninka
+14.05.2019 19:02:28
+Potřebujeme informace.
+
+1) Jaký druh připojení máš od svého poskytovatele? Vede ti někde z chodby domu
+ethernetový kabel až k tobě do pokoje a ten připojuješ do koncového zařízení?
+(ať už přímo počítače, do routeru apod.)? Nebo ti jde kabel nejdříve do nějaké
+"krabičky" (gateway, router) a teprve z něj ti jde kabel do počítače?
+2) Máš nové zařízení či nové připojení? Nebo to prostě kdysi fungovalo, nic
+jsi s tím nedělala a teď najednou to nefunguje?
+3)Zkus si spustit příkazový řádek (klávesová zkratka Win + X, pak napiš
+"cmd"), v něm zadej příkaz "ipconfig /all" (bez uvozovek) a v textu co to
+vyflusne najdi v odstavci pojmenovaném nějak jako Ethernet adapter IP (nebo
+IPv4) adresu výchozí brány (default gateway) - bude to nějaká čtveřice čísel
+oddělená tečkami. Pak zadej příkaz "ping" a za něj tu nalezenou IP adresu
+(takže něco jako "ping 192.168.1.1."). Co to vrátí? Hodí to nějakou odezvu
+nebo to vypíše něco jako "Vypršel časový limit žádosti" (případně request
+timed out)?
+ _C_u_m_s_p_r_i_t_e [Muž]34 [Kategorie]
+14.05.2019 18:12:31
+Kašlu už na to, jeden adaptér se ani ne ai staloval zpátky a ostatní se tváří,
+že za nic nemůžou. Nemám na to čas už. Všem díky za pomoc, i když to bylo
+nakonec marné a otestovala jsem si tím jen svou tupost. Ale radili jste určitě
+dobře, jen bych nesměla být dementní a mít před sebou tohle. Nevím, co budu
+dělat potom, ale tohle je jen ztráta času a nervy v kýblu.
+ Aninka
+14.05.2019 18:07:23
+Já do tý bedny občas praštím pěstí. Vopatrně, občas to pomáhá.
+Někdy ho potrestám tak, že když to nečeká, vyrvu kabel ze zdi.
+Potřebuješ ještě s něčím poradit, prcku?
+[Smajlík]     [Muž]51 [Kategorie]
+ _z_d_a_r_j_a_k_s_v_i_ň_a
+14.05.2019 17:58:27
+Bože proč jsem tak uboze dementní... Je tam nějaký controller, ale ne
+ethernet. Tak to odinstaluji a děj se vůle Boží... Stejně se ten krám ani tak
+nerozjede.
+[Smajlík]
+ Aninka
+14.05.2019 17:49:52
+Ta karta je nějaký TAP 9? Abych neodinstalovala něco, co nemám. Ale je tam
+napsáno, že pracuje správně.
+ Aninka
+14.05.2019 17:45:34
+Můžeš zkusit přeinstalovat síťovku.
+Spusť Správce zařízení (nejrychleji ho najdeš přes lupu), v něm uvidíš seznam
+zařízení. Někde tam bude položka síťové adaptéry, když ji rozklikneš, tak
+uvidíš jednu nebo víc dalších položek. Pokud
+tam je jen jedna položka nebo pokud poznáš, co z toho je tvoje síťová karta,
+tak na ni klikni pravým a dej Odinstalovat zařízení. Jestli je tam toho víc,
+tak síťová karta bude mít asi v názvu Ethernet Controller. Přinejhorším
+odinstaluj všechny. Pak zrestartuj komp. Síťovka by se měla znovu sama najít a
+nainstalovat. A možná se tím problém vyřeší.
+ _M_u_a_d_*_D_i_b [Muž]43 [Kategorie]
+14.05.2019 17:43:47
+Ježek: Jak to chceš udělat? :D Já už jsem z toho na prášky. Mám podezření, že
+je na vině ta zpropadená díra, do které se ten kabel strká. Nereaguje totiž na
+žádné kabely ani v jiných sítích. Ten počítač je už celkově rozpadlý krám.
+Každou chvíli tam něco blbne. Jenže ten net potřebuji. Ach jo.
+[Smajlík]
+ Aninka
+14.05.2019 17:37:20
+Anče, pusť mě k tomu, hezky si sedni do křesla, dej si něco dobrého a zbytek
+nech na mně jo? Věřím že to bude méně stresující pro oba.
+ _J_e_ž_e_k_ _s_e_c_o_n_d_ _e_d_i_t_i_o_n [Muž]42 [Kategorie]
+14.05.2019 17:29:49
+Windows 98 ten problém někdy mají. Zkus novější verzi OS.
+ Jaa
+14.05.2019 17:28:40
+Právě jsem z toho vyjela a už mám jen černou obrazovku... Bože to mi fakt
+dneska chybělo tohle. Vždy když mám nejmíň času...
+[Smajlík]
+ Aninka
+14.05.2019 17:26:27
+měl by tam být nouzový režim s prácí v síti. Tam by mělo jít zjistit jestli to
+funguje a pak je problém někde výš (virus, nebo tak něco) a nebo nefunguje a
+pak je problém hlouběji. Když už budeš v tom nouzáku můžeš otevřít příkazový
+řádek (cmd) a zkusit příkaz ping a nějaké url
+ _V_a_n_ _G_e_n_e_r_a_t_o_r [Muž]38 [Kategorie]
+14.05.2019 17:22:25
+Muad*Dib: Podívám se hned jak vyjedu z toho nouzového režimu. Nechápu, co s
+ním.
+[Smajlík]
+ Aninka
+14.05.2019 17:19:00
+A co v tom nouzovém režimu mám dělat? Mám tam nějakou černou obrazovku na
+příkazy.
+[Smajlík]
+ Aninka
+14.05.2019 17:16:23
+Ani, co se stane, když do prohlížeče jako adresu zadáš _h_t_t_p_:_/_/_8_8_._1_4_6_._2_4_8_._4_3_/_ 
+?
+ _M_u_a_d_*_D_i_b [Muž]43 [Kategorie]
+14.05.2019 17:12:29
+Otázka jestli v tom nouzovém režimu běží síť... Nicméně kolik tam máš
+nepostradatelných dat na systémovým disku? To by neměl být takový problém to
+někam překopírovat... pak reinstal, ale když to pak stejně nepojede, tak to
+nasere, to je jasný
+ _H_o_n_z_a_z_b_r_n_a [Muž] [Kategorie]
+14.05.2019 17:09:15
+https://servis.eset.cz/knowledgebase/article/View/74/0/jak-spustit-system-
+windows-v-nouzov - em-rezimu#win8 -
+ _V_a_n_ _G_e_n_e_r_a_t_o_r [Muž]38 [Kategorie]
+14.05.2019 17:05:47
+Van Generator. Na zapojeném kabelu jedna svítí zeleně a druhá bliká oranžově.
+Tomu ostatnímu nerozumím. Jsem na to analfabet. Routery a modemy a podobné
+věci mi nejsou na dosah.
+[Smajlík]
+ Aninka
+14.05.2019 17:01:42
+Zavolám na zákaznickou linku poskytovatele připojení
+ _U_m_ě_l_á_ _i_n_t_e_l_i_g_e_n_c_e [Muž]66 [Kategorie]
+14.05.2019 17:01:38
+Zkusil bych co to dělá v nouzovém režimu. Taky bych se kouknul do zadu na
+kisnu, jestli tam svítí kontrolky připojení. jedna by měla svítit a druhá
+poblikávat. To samé na switchi či routeru.
+ _V_a_n_ _G_e_n_e_r_a_t_o_r [Muž]38 [Kategorie]
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+
