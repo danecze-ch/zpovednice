@@ -1,0 +1,123 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+   Otázky - Vzkazy č.904075, vloženo _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+   28.10.2015 13:27:23               _s_t_r_á_n_k_a_]
+   ověření pravosti.... pro IT
+   Lze nějakým způsobem lze ověřit autentičnost souboru (jako např.
+   dodatečné změny, vytváření kopií), když není k dispozici žádný MD5, SHA
+   součet?
+    _Z_a_r_c_o_n [Muž]37 [Kategorie]  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+30.10.2015 16:32:52
+Sta67: samozrejme ze tyto reseni nejsou postaveny jen na technicke casti, ale
+musi k tomu patrit i odpovidajici procesy (strasny slovo). Takze napriklad v
+bankach mas kompletne pokrytej prevoz do externiho trezoru mrte papirama kdo s
+nema kdy prisel do styku. Navic nic ti nebrani data sifrovat, delat nad
+volumama auditing, nastavit konkretni policy co se kdy s tou ci danou
+informqci bude dit.
+
+Tohle je nad ramec diskuse ale muzem zalozit novou na tema archivece kde se
+muzem vyradit. Ja sem ted totiz strasne chytrej paac takovy vetsi prostredi
+lrave spravuju a je to docela prdel ;)
+[Smajlík]
+ psoug
+29.10.2015 23:49:47
+Zarcon: Kopie souboru je samozřejmě 100% totožná, a nijak zaručeně ji nelze
+odlišit od toho původního. Zkoumat to mohli akorát v béčkovém filmu.
+
+psoug: Tam zase nemáš záruku, že to někdo nepřehrál na jiný WORM, a
+nepozměnil.
+ _S_t_a_6_7 [Muž]28 [Kategorie]
+29.10.2015 20:05:09
+Ono muze zalezet i na tom na cem jsou originalni data ulozeny/archivovany
+(zamerne nepisu soubor - to je jen reprezentace dat). Existuji napriklad ruzne
+archivacni hw platformy, ktery umi k originalu lecos prirazit, podepsat,
+verzovat ho atd, takze po "zkopirovani" je to jiny soubor. Vse je muze byt
+napr. ulozene na worm mediich tak ze je zarucena nemennost originalu. Nicmene
+to jsou specialni pripady kdy je potreba zajistit autenticitu dat atd.
+ psoug
+29.10.2015 18:24:21
+Bylo to v myslím nějakém filmu, měli soubor (obrázek) a řešili tam pravost
+souboru a jestli nebyl třeba okopírovaný. Je mi jasné, že když se 100%
+zkopíruje, tak vlastně vzniklý soubor "B" je stejný originál jako soubor "A".
+[Smajlík] [Muž]41 [Kategorie]
+ _Z_a_r_c_o_n
+29.10.2015 02:06:35
+Soubor jako takový je jenom shluk bytů, nemůžeš tedy ověřit, jestli je
+"původní" nebo "nepůvodní", protože v tom není žádný rozdíl.
+
+Pokud se jedná o konkrétní formát (exe, doc, pdf atd.), tam už nějaký
+standardní vzor/postupy jsou a lze zjistit něco netradičního, ale pořád bez
+záruky - když to někdo udělá "správně", nelze nic zjistit.
+ _l_i_b_i_k [Muž]34 [Kategorie]
+28.10.2015 18:20:37
+Ještě mne napadá: Pokud máš zálohu, o které víš, kdy byla pořízena, a že od té
+doby na ní nikdo nesáhl. Ale pak je to jasné. (Takovou celkem spolehlivou
+zálohou u politicky neexponovaných věcí je _h_t_t_p_:_/_/_w_w_w_._a_r_c_h_i_v_e_._o_r_g_/
+ _S_t_a_6_7 [Muž]28 [Kategorie]
+28.10.2015 17:55:53
+Ok, díky za potvrzení mojí teorie.
+ _Z_a_r_c_o_n [Muž]41 [Kategorie]
+28.10.2015 16:29:04
+Nelze. Bez digitálního podpisu opatřeného zaručeným časovým razítkem od
+autority, které věříš, to nejde.
+
+Navíc MD5 už je prolomeno, a už toho bylo zneužito k nekalým účelům (falešný
+podpis podstrčené aktualizace pro Windows XP).
+ _S_t_a_6_7 [Muž]28 [Kategorie]
+28.10.2015 15:47:41
+není soubor jako soubor :)
+
+pokud je to texták, tak na to zapomeň, pokud je to binárka, tak záleží, o co
+se jedná.
+ plain file
+28.10.2015 15:46:10
+Potřebuješ mít buď kopii souboru před změnou nebo jeho hash z téže doby (nebo
+aplikace toho hashe, jako např. digitální podpis). Pak můžeš shodu ověřit, s
+různou spolehlivostí podle použitého hashovacího algoritmu a citlivosti
+souboru. Jinak to jde jen ve vysoce speciálních případech, s malou
+pravděpodobností úspěchu a ještě jen negativně (pokud někdo ten soubor změnil,
+tak to možná poznáš; nedokážeš ale rozlišit případ, kdy se soubor nezměnil, od
+případu, kdy se sice změnil, ale není to v něm vidět).
+ x1x1x1
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+

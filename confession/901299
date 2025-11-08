@@ -1,0 +1,205 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+Zpověď č.901299, vloženo 10.10.2015 23: _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+32:53                                   _s_t_r_á_n_k_a_]
+Může bejt programování nebezpečný?
+Hele jenom takovej dotaz. Učím se tak trochu programovat. Zatím jenom začínám
+ty úplně nejjednodušší věci (je teď lhostejno v čem) a skoro vůbec se v tom
+ještě nevyznám, takže pochopitelně zkouším různým věci metodou pokus omyl
+prostě zkouším co to udělá a jak se to bude v počítači chovat. Akorát mě
+napadlo, jestli to nemůže bejt nebezpečný pro počítač, kdybych něco zkazil,
+jako abych se třeba někde omylem nezacyklil a nesežralo mě to třeba všechnu
+paměť v počítači, nebo nějak jinak nenarušilo chod. Možná hloupej dotaz, ale
+zajímá mě jestli to přecijen nemůže bejt nebezpečný, když tomu člověk zatím
+nijak zvlášť nerozumí.
+ pokuss [Muž]13  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+12.10.2015 12:17:28
+blejkle: To šlo jen s hodně starými CRT.
+ _S_t_a_6_7 [Muž]28 [Kategorie]
+12.10.2015 08:53:36
+hardware jde znicit taky, ale uz to potrabuje hodne nadstandartni pokusy s
+pristupem k I/O portum urcenym pro hardware nebo aspon DMA rozhranni a
+podobnym vecem za kteryma je ten hardware schovany a posloucha podle prikazu
+co mu posles.
+
+jednou jsem tak odpalil monitor, kdyz nezvladnul rozliseni. za rozzureneho
+syceni a piskani se rozskocil obraz na dva a ty postupne jely k vnejsim
+okrajum obrazovky, kde se preklopily jak kdyz prelozis papir a pak jely zase k
+sobe ale uz obracene. no a pak uz nic. jen rana a smrad.
+ blejkle
+11.10.2015 17:02:25
+newbie78900rr46: Když do nějakého zařízení bez řídící konzole a JTAG nahráváš
+nově sestavený firmware, stačí chyba v zavaděči, a už to nenapravíš.
+ _S_t_a_6_7 [Muž]28 [Kategorie]
+11.10.2015 16:43:37
+Hele já nejsem programátor, ale vím, že například ve vidnousu nemůžeš
+přepisovat program za běhu, systém malou chybou zacyklíš a v lepším případě
+přeplníš paměť a program spadne, v horším ti spadne systém... a takové věci
+jsou NEŽÁDOUCÍ!!!
+
+Řekni, který profesor na VŠ Ti doporučil programovat ve vindousech... Ano
+žádný, a dokonce Ti řekli, že budeš prograovat pouze v terminálu...
+
+HOWG tímto pro mě tahle debata končí.
+ _r_m_ _-_r_f [Muž]1 [Kategorie]
+11.10.2015 12:31:42
+Jak poznám " kvalitní systém" pro programování ? :D
+
+Pročítat celou syntaxi abych si byl jistý že při první kompilaci nebude žádná
+chyba je totální hovadina :D i když to jde ale nic si nevyděláš :D :D
+ _D_a_v_e_2_9_9 [Muž]29 [Kategorie]
+11.10.2015 12:05:39
+Proč na hovno? Možná si je jen nepochopil...
+rm -rf
+---------
+Je úplně jedno na jakým OS programuješ a jestli je to virtuál, žádný program,
+který dokáže udělat začátečník ti systém neshodí.
+
+A ještě vtipnější je "vždy si ověř, zda v tvém kódu nejsou chyby. " :D, dělat
+chyby a následně je opravovat je denní chleba programátora... Jestli zvládneš
+nabušit kód, který bude vždy bezchybný a k tomu to ještě budeš bušit relativně
+rychle, můžeš si říct klidně o pětikilo na hodinu.
+
+Problém je, že kdybys bral pětikilo na hodinu, tak tady nedáváš tyhlety "rady"
+:).
+ _l_i_b_i_k [Muž]34 [Kategorie]
+11.10.2015 11:43:23
+libik: Proč na hovno? Možná si je jen nepochopil...
+ _r_m_ _-_r_f [Muž]1 [Kategorie]
+11.10.2015 10:18:56
+Normálně nabootuj kvalitní systém, který je pro programovnání určený... vždy
+si ověř, zda v tvém kódu nejsou chyby.
+rm -rf
+------------
+Lol, obě rady totálně na hovno, ale pobavily :D
+ _l_i_b_i_k [Muž]34 [Kategorie]
+11.10.2015 10:11:33
+Normálně nabootuj kvalitní systém, který je pro programovnání určený... vždy
+si ověř, zda v tvém kódu nejsou chyby.
+ _r_m_ _-_r_f [Muž]1 [Kategorie]
+11.10.2015 08:49:26
+Programovani muze byt velice nebezpecne pro samotneho programatora. Znam par
+jedincu, kteri nezvladli stres, tlak na termin, nebo se v prubehu nasazeni
+ukazalo ze to nemaji spravne dle zadani, nebo neco opomeli atd.. To vse se pak
+dohani pod velikym stresem aby treba nestala vyroba, byly splnene terminy a
+nepadaly pokuty.. Zkratka znam par programatoru co trpi nespavostmi, maji
+psychicke potize a jeden kolega je ve 40ti po infarktu.
+
+Takze to posledni oc bych se bal je pocitac :)
+ Nespavec123
+11.10.2015 08:06:11
+Bacha na to práce programátora je dost nebezpečná, pokud programuješ způsobem
+pokus omyl tak se může stát že tvůj program bude do nekonečna generovat
+kvantum dat a začne si ti přehřívat CPU = tvůj PC se promění na malou
+nukleární bombu.
+
+V lepším případě se ten program vyvine, zabije tvého notebooka a z jeho
+součástek si poskládá tělo a pak uteče s tvojí přítelkyní.
+ _D_a_v_e_2_9_9 [Muž]29 [Kategorie]
+11.10.2015 03:08:33
+Dokud nezačneš pracovat se souborama, nemáš ani potenciální šanci něco náhodou
+zkazit.
+ _l_i_b_i_k [Muž]34 [Kategorie]
+11.10.2015 01:42:14
+Sta67: Ty umis spatnym ovladacem pokazit hardware? To jsi docela umelec.
+ newbie78900rr46
+11.10.2015 01:38:23
+No hlavně abys nenaprogramoval něco, co pak sežere tebe.
+[Smajlík]
+ Blp
+11.10.2015 01:14:42
+Všechny tvé chyby vyřeší tlačítko Reset.
+
+To až teprve při psaní ovladačů na hardware lze dělat chyby, po kterých musíš
+koupit nový stroj. Aby se něco podobného povedlo náhodou, je téměř vyloučené.
+ _S_t_a_6_7 [Muž]28 [Kategorie]
+11.10.2015 01:12:21
+I kdyby tvůj program sežral všechnu paměť, tak Windows ukážou chybové hlášení
+a ten program se ukončí. Poté se okamžitě uvolní i všechna paměť, kterou
+sežral. Každá aplikace běží izolovaně od ostatních, tvoje pokusná aplikace
+tedy nemá šanci přepsat paměť, která by patřila něčemu důležitému ve Windows.
+Bacha je třeba dávat pouze při zápisu do souborů, abys nepřepsal nebo nesmazal
+co nemáš.
+
+Pokud budeš dělat začátečnický kraviny typu kalkulačka nebo utíkání tlačítka
+před myší, tak nehrozí vůbec nic.
+ Karel I.
+11.10.2015 00:47:28
+Hlavně mít veškerá data zálohovaná. Počítač se dá v nejhorším resetovat,
+hardware nezničíš, software se dá přeinstalovat.
+ _L_U_F [Muž]99 [Kategorie]
+11.10.2015 00:05:29
+Nevratnym zpusobem nemuzes nic pokazit dokud nezacnes treba mazat soubory z
+disku. Muzes zpusobit pad systemu, osobne by me zajimalo jak novejsi systemy
+zvladaji napr. fork bombu, ale vzdycky staci zabit dany proces nebo
+restartovat pocitac a zase bude vsechno fungovat.
+ newbie78900rr46
+11.10.2015 00:03:11
+Hovnov:
+
+Ty jedeš tak leda sračky, ty ocasu a ne céčko a asík. Pokud myslíš
+"naprogramování" pohyblivého buttonu, tak to pak ale jo.
+ Kajícník
+10.10.2015 23:56:22
+Džáva je trapná. Já jedu v Céčku a v asíku.
+[Smajlík] [Muž]52 [Kategorie]
+ _H_o_v_ _h_o_v
+10.10.2015 23:46:37
+Hov hov
+právě proto má Java garbage collection, a pokud programuje viz. amatér, těžko
+si něco zničí.
+[Smajlík] [Muž]96 [Kategorie]
+ _W_h_o_i_s_i_t
+10.10.2015 23:44:52
+Koukni se vždycky do správce úloh, co ten tvůj program vyvádí. Kolik sežral
+paměti, jestli si nealokuje nekontrolovatelně paměť zběsilým vytvářením GDI
+objektů a jak to zatěžuje procák.
+[Smajlík] [Muž]52 [Kategorie]
+ _H_o_v_ _h_o_v
+10.10.2015 23:34:16
+Ne, rozhodně ne. Protože na to bys musel být opravdu odborník a psát stovky
+řádků.
+[Smajlík] [Muž]96 [Kategorie]
+ _W_h_o_i_s_i_t
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+
