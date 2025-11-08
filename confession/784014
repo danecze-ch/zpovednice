@@ -1,0 +1,163 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+   Otázky - Vzkazy č.784014, vloženo _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+   11.02.2014 15:49:13               _s_t_r_á_n_k_a_]
+   a disk read error occurred
+   Mám hodně velký problém - mám windows 7 je uplne novy, disk taky a ramky
+   taky a zdroj taky.
+
+   nevim si rady, ale vyskocila mi modra smrt a resetlo se to -> kdyz se to
+   zapinalo tak mi vyskocilo "a disk read error occurred" (disk je funkcni
+   a bez chyb) tak jsem nabotoval HIREN`S BOOT (MINI XP) zapnul jsem
+   kontrolu disku a disk jaku uz jsem psal je poho, ale po dokonceni
+   kontroly mi to hodilo tu samou modrou smrt a ted kdyz dam nabootovat
+   mini xp tak se pri nacitani seknou. vubec nevim a to se v pc docela
+   vyznam.PROSIM POMOCTE. :(
+
+   OS : WINDOWS 7 32bit (novy)
+   RAM : 4GB (nove)
+   Processor :AMD ATHLON 64 X2 DUAL CORE 4600+
+   HDD : 500 GB (samsung) (novy)
+   Grafika : Nvidia GForce 8600 (500MB)
+   Zdroj : 500W (novy)
+    problemek - pc [Muž]21  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+12.02.2014 15:08:28
+Vyřešeno bylo to opravdu tou chybou - a zjistil jsem že mám jedem USB kabel
+rozbitý a ten spůsoboval tu chybu a ty problémy.
+
+PS : Omlovám se že jsem vás všechny otravoval protože to nakonec začátečnická
+chyba,
+ale já jsem vlastně ve WIN 7 začátečník, protože dříve jsem mněl jenom XP-čka
+a asi
+15 distrbucí Linuxu - takže jenom oznamuji že je to vyřešeno :D
+[Smajlík]
+ problemek - pc
+12.02.2014 01:38:55
+Hms ta chyba znamena ze system prestal komunikovat se i/o zarizenim (disk, dvd
+). Zkusil bych update firmwaru desky toho stroje + co nejnovejsi drivery pro
+tu desku (radic). Zkusil bych vygooglit souvztaznost s deskou co mas a chybou
+0xc0000185. Ta co sem koukal je vcelku bezna a smrdi neodladenejma ovladacema.
+ psoug
+11.02.2014 19:02:05
+ono to muze bejt pomalu cokoliv a nakonec ti to hodi hlasku na zalezitost co
+momentalne zpracovava, a se kterym ma nejvetsi problemy. muze to bejt i
+falesna hlaska, kord kdyz neco muzes mit nacateho.
+ _l_i_x_i_q [Muž]25 [Kategorie]
+11.02.2014 18:58:01
+udelej co sem ti rikal s tim zdrojem, pak zkontroluj teplotu cpu..popripade se
+bude muset sundat chladic vyfoukat, vycistit a nandat pastu... pridal sis
+ramky, nedal sis kapku jiny frekvence ?
+sice kdyz das 800mhz ma 667. tak se ti v biosu podtaktujou na ty co si tam
+mel, ale muze to delal blbosti.
+zkontroluj jestli nemas na zakladni desce nafoukle kondenzatory, nebo studene
+spoje. opalene kontakty apod. rovnou ji vycisti.
+pro disk pouzij jiny ide slot a mechaniku nechej vyplou zatim. mel si uz
+rovnou pouzit satu pokud mas a vyuzivat jiny casti el. obvodu. pouzij rovnou
+jiny ide kabel.
+ _l_i_x_i_q [Muž]25 [Kategorie]
+11.02.2014 18:43:05
+Nemohla by to spůsobovat tato chyba ???
+
+------------------------------------------------------------------------------
+-----------
+
+WerFault.exe - Chyba aplikace
+
+Instrukce na 0x0061A840 se odkazovala na pamět na 0x0061A840
+Požadovaná data nebyla umístěna do paměti kvůli vstupně-výstupní chybě na
+0xc0000185.
+
+Kliknutím na tlačítko OK ukončete program
+ problemek - pc
+11.02.2014 18:08:09
+az mi ta modra smrt vyskoci dam ji sem
+ problemek - pc
+11.02.2014 18:06:00
+Tim "koupil jsem ho" -> myslim ten Win 7 ne HDD
+ problemek - pc
+11.02.2014 18:03:00
+tu chybu mi to hazi kdyz mam chvilku zaplej komp tak mi vzskoci modra smrt a
+kdy se resetne tak je tam to " a disk read error occurred" tak skusim zapnout
+MIINI XP a ty mi taky vyhodi modrou smrt -> tak pc vypnu necham ho 10 min
+vychladnout a pak vse de.
+
+A jeste sem zapomnel rict ze mi asi pred 4-ma dnema bouchnul starej IDE disk
+na kterym byly XP-cka a potom sem na ten novej 500GB HDD nainstaloval Win 7
+(koupil jsem ho na "vyhodnysoftware.cz" .
+
+A pak jsem taky zapomnel ze mi asi pred 2 mesicema zacal blbnout Processor -
+> je uplne neuveritelne zatizenej i kdyz mam zaplej jenom prohlizec a hry co
+mi v poho sli i na XP-ckach a na 2GMB RAM se mi ted sekaji.
+
+Takze uz si nevim rady.
+[Smajlík]
+ problemek - pc
+11.02.2014 17:59:07
+Hodil by se vypis ty modry smrti
+ psoug
+11.02.2014 16:29:42
+jinak co si koupil za ramky ? jaky tam driv byly ? .. ddr2/800mhz ? teploty
+sis kontroloval ?
+ _l_i_x_i_q [Muž]25 [Kategorie]
+11.02.2014 16:21:30
+neblbne ti deska ? taky sem zazil, ze z biosu chvilema mizely HW resp disk,
+mechanika. bootovani se podarilo az po par restartech kdy to vlastne do biosu
+naskocilo..
+
+asi nebude primo ten problem, ale nejaky pikacoviny ti muze delat.. kdy ti hdd
+hazi modrou ? pri bootovani , nebo az ti nabootoje a najizdej winy ?.
+
+zkontroluj si zdroj abys mel HDD a mechaniku na jine vetvi a pouzivej
+konektory co jsou nejblize ke zdroji,to jsou kabelem temer naprimo a ne pres
+dalsi konektor, to taky dela kraviny.
+
+muzes taky zkusit jiny winy, jestli je nemas nejaky ne uplne kvalitni. ja
+pouzivam win7 ultimate x64, zkus jinej zdroj stahnouta vypalit.
+
+jak ti to casto hazi ? temer porad, nebo nahodile ?
+ _l_i_x_i_q [Muž]25 [Kategorie]
+11.02.2014 16:15:18
+Co říká S.M.A.R.T.?
+ _N_e_u_t_r_i_n_o [Muž]26 [Kategorie]
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+
