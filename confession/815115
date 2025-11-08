@@ -1,0 +1,102 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+Diskuze č.815115, vloženo 03.07.2014 01: _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+25:56                                    _s_t_r_á_n_k_a_]
+HDD?
+Dobrý večer, mám jeden problém s ntb... myslím že môže ísť o disk. No tak poďme
+k veci jednoducho povedané vždy pri nejakej činnosti mi pc začne sekať a disk
+sa začne zasekávať. Niekedy to je počuť ako sa zasekáva ale inokedy len počujem
+ako Ntb pracuje... potom prestane a potom zase na chvíľu pracuje a tak sa to
+opakuje. Stáva sa mi to väčšinou pri spustení nejakej aplikácie ako napríklad
+TS keď sa chcem pripojiť na server tak mi tak na 10 s toto spraví. Alebo keď
+kontrolujem PC antivírom... niekedy mi ho kontroluje aj hodinu len kvôli týmto
+"breakom" , tiež pri inštalácii nejakého programu. Miesto 2 min ho inštalujem
+10 ! Nevie nejaký odborník čo s tým môže byť ? Je to zaprášené alebo
+poškriabané/poškodené ? Nie som nejaký expert a servis nebudem platiť keďže
+poznám tie ich cenníky.
+ jojo18 [Muž]23  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+07.07.2014 00:19:26
+Spusti si nastroj na kontrolu hardisku napr. Chkdsk, a daj konrolovat vsetko
+co sa na, vratane povrchu. Ked to zbehne (po niekolkych hodinach), nastroj si
+poznaci ktore sektory su poskodene a tie pouzivat nebude. Nasledne este daj
+defragmentovat disk, co ti trochu da do laty rozhadzane fragmenty. Vsetko to
+ale nieco trva, idealne je to spustat na noc.
+ Xrecevt
+03.07.2014 20:42:15
+Mensi preklep :D miesto RAM vyuziva hdd co predlzuje cely cas
+ _T_v_o_j_T_a_t_k_o [Muž]18 [Kategorie]
+03.07.2014 20:27:39
+Tazko povedat mozno skapinahdd, mozno dosrany system(treba preinstalovat) a
+mozno je problem v niecom inom treba sa s tym pohrat.Co je to za
+znacku?Odporucam ti ten hdd skontrolovat programom hd tune alebo Hard Disc
+Sentine,ono ti to prebehne cely hdd a ked bude nejaky sektor poskodeny je cas
+menit hdd inak prides o data.Kazdopadne by som skusil ten ntb prebehnut
+programom malwarebytes a pozri si v spravcovi uloh vyuzitie ram a
+procesora.Mozno virus a mozno mas len zasranu ram blbostami tak miesto hdd
+vyuziva hdd co predlzuje cely cas...Aku mas vlastne velkost RAM-ky?Musis sa
+viac rozpisat.Nemas nejakeho kamarata co sa vyzna trochu do pc?Viem aka je to
+mordovacka pre neznaleho...Odkial si?Za flasku oranginy by som pomohol :D
+ _T_v_o_j_T_a_t_k_o [Muž]18 [Kategorie]
+03.07.2014 05:13:20
+Až nie si žiaden expert, tak by ozaj možno nebolo odveci pozreť sa po nejakom
+servise, také drahé to zas neni...
+
+Osobne si však myslím, že to HDD nebude... Zamŕzanie väčšinou spôsobuje SW
+problém... až by si mal nejaký HW problém, tak by ti skôr ten NTB vypínalo,
+resp. by ti ho vyplo a už by si ho nezapol.. pri probléme s prachom by ti ho
+prehrievalo a následne na to vypínalo....
+
+Takže skús si na to prizvať skôr nejakého kamoša, čo sa rozumie softu a
+upratovaniu windowsu, možno by som sa pozrel po dákych vírusoch, lebo to
+zamŕzanie mi skôr príde ako keby si tam mal nejaký soft čo ti zamrdáva cache
+pamäť a preto ten PC nestíha robiť základné úkony tak ako by mal...
+
+ako základ by som ti možno navrhol dať do riti ten antivirák čo tam máš teraz
+(dúfam že nemáš dva) :D a nainštaluj si tam AVAST - je zadarmo a ponúka
+parádny test systému - test po reštarte... toto je výborná vec, pretože kopa
+vírusov sa vie dneska tak nejak obaliť, že ho v spustenom windowse antivirák
+nenájde...
+[Smajlík]
+ JsM
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+

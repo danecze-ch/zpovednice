@@ -1,0 +1,181 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+Zpověď č.812619, vloženo 21.06.2014 16: _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+20:00                                   _s_t_r_á_n_k_a_]
+Někdo kdo umí s PC a programovani?!!!!!!
+Ahoj prosím potřebuju pomoct, Dostala jsem na vysvedceni 5ku z ICT :( nechavam
+se prezkouset u komisionalni komise nb jak se tomu nadava, jenze nechapu moc
+funkce s promennou nebo funkce s parameztry, nevím jak se tomu presne rika.
+Třeba jsme meli priklad udelat funkcí obsah kvádru. Pomohl by mi s tím nekdo?
+ja nevím jak se to dela, nebo aspon nejaky zaklad toho :( Promenne atd umim,
+ale tohle nevím jak, ani v sesite to nemohu najit, prosim pomozte mi nekdo :(
+ Nevííííííííííííííím E-MAIL: _N_e_v_i_m_N_e_v_i_m_1_9_9_2_@_s_e_z_n_a_m_._c_z  [Žena]18  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+21.06.2014 17:47:47
+mejdr: Já to taky nepsal ale našel. Přece se nebudu namáhat, když ani
+neukázala kozy.
+[Smajlík]
+ JavaMaster 3000
+21.06.2014 17:15:06
+Tak jak by to tedy bylo napsane cele i s tim zacatkem <html> <head> .......
+aby mi to tedy vypocitalo ten obsah kvadru( a*b*c). Musi to tedy obsahovat i
+to document.write ze? Já sem na tohle fakt uplne blbá ach jo :(
+ Nevíííííííííííííííím
+21.06.2014 17:03:38
+ZakMcCracken
+Ano, tak to mělo být.
+[Smajlík] [Muž]96 [Kategorie]
+ _W_h_o_i_s_i_t
+21.06.2014 17:02:11
+Mejdr: spíš tu někdo -míchá- javascriptu a javu: function kvadr(int ...)
+Buďto int kvadr(int x, int y, int z) nebo function kvadr( x, y, z) ještě je
+možno var místo int, ale není to nutné v hlavičce funkce, protože parametry
+mají vždy lokální platnost.
+A učitě nejde napsat (int x, y) ani v Javě ani v C.
+
+Nevíím: správně to je takto: int tam být nesmí a var nemusí
+
+function kvadr (a,b,c)
+{
+return a*b*c;
+}
+ _Z_a_k_M_c_C_r_a_c_k_e_n [Muž]40 [Kategorie]
+21.06.2014 16:47:13
+No je tam spousta začátečnických chyb. Např. do proměnné typu double nebudu
+přiřazovat integerovský literál, ale rovnou double literál, jinak dochází ke
+zbytečné implicitní konverzi navíc, tedy správně je:
+
+double edge = 0.;
+
+Takových studentských chyb je tam hafo, ale nechce se mi to tu celé vypisovat.
+[Smajlík]
+ mejdr
+21.06.2014 16:46:37
+mejdr: Tady si někdo plete JavaScriptMastera 3000 a JavaMastera 3000.
+[Smajlík]
+ JavaMaster 3000
+21.06.2014 16:46:19
+newbie7890rr45
+OMG, máš recht.
+[Smajlík] [Muž]96 [Kategorie]
+ _W_h_o_i_s_i_t
+21.06.2014 16:45:28
+Neutrino: prave naopak, nezalezi v jakem je to jazyce, tohle jsou ciste
+zaklady, jediny rozdil je v syntaxi. Ona zde mluvi ciste o deklaraci,
+vytvoreni jedne funkce s parametry a nejake potencionalni vystupy
+(predpokladam celkovy obsah toho kvadru na zaklade 2 parametru ktery bude
+vkladat uzivatel - a,b ?
+
+Co urcite budes potrebovat: vzorecek na obsah kvadru, spetku trpelivosti a
+internet(pripadne jakoukoli knihu zakl.progaram.)
+
+Jinak urcite je lepsi napsat si na forum ktere se tyka IT.
+ iff
+21.06.2014 16:44:53
+return je navratova hodnota funkce, to je cislo nebo retezec ktery ta funkce
+"vrati" pote co dokonci to co ma delat. Tzn vysledek.
+
+Int je integer - cele cislo. Nastuduj si co jsou datove typy.
+ newbie7890rr45
+21.06.2014 16:44:31
+Funkce s návratovou hodnotou, vrátí ti to, že vynásobí a s b s c, pak stačí
+jen tu funkci zavolat a dosadit parametry, i když u js jsi nejsem moc jistej.
+[Smajlík] [Muž]96 [Kategorie]
+ _W_h_o_i_s_i_t
+21.06.2014 16:43:04
+Tady si někdo plete javascript a Javu :-D.
+[Smajlík]
+ mejdr
+21.06.2014 16:41:46
+Jezis co to je? :-o to asi nebude to co potrebuju :D ... jinak k: Whoisit-
+proc tam je to retur a to int? to tam musi byt?
+ Nevíííííííííííííííím
+21.06.2014 16:39:50
+function kvadr ( int a,b,c)
+{
+return a*b*c;
+}
+[Smajlík] [Muž]96 [Kategorie]
+ _W_h_o_i_s_i_t
+21.06.2014 16:38:55
+import java.util.Scanner;
+
+public class Cube {
+
+public static void main(String[] args) {
+Scanner input = new Scanner(System.in);
+
+double edge = 0;
+double surfaceArea = 0;
+
+System.out.print("Enter the length of edge of Cube : ");
+edge = input.nextDouble();
+
+surfaceArea = 6 * (edge * edge);
+
+System.out.println("");
+System.out.println("The Surface Area of Cube is : " + surfaceArea);
+}
+
+}
+[Smajlík]
+ JavaMaster 3000
+21.06.2014 16:37:28
+Ale to je jedno, jeslti obsah kvadru, Proste jestli by byl nekdo schopnej mi v
+nejakem prikladu vysvetlit jak ta funkce funguje :(
+ Nevíííííííííííííííím
+21.06.2014 16:35:26
+Obsah kvádru, to je neřešitelný problém v jakémkoliv jazyce.
+[Smajlík]
+ mejdr
+21.06.2014 16:30:46
+Omlouvám se, Javascript
+ Nevíííííííííííííííím
+21.06.2014 16:30:23
+Nevííííííííííííííím
+[Smajlík] [Muž]96 [Kategorie]
+ _W_h_o_i_s_i_t
+21.06.2014 16:27:39
+Chybí to nejdůležitější - o jaký programovací jazyk se jedná?
+ _N_e_u_t_r_i_n_o [Muž]26 [Kategorie]
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+

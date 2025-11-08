@@ -1,0 +1,246 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+Zpověď č.812041, vloženo 18.06.2014 17: _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+02:15                                   _s_t_r_á_n_k_a_]
+Problém e přeinstalací win
+Ahojte
+
+Po drbání se půl dne v počítači a čtení internetu jsem došla až sem ..
+Asi spíš malá naivnost v mé duši mi říká ať se zkusím optat tu
+Na základě toho , že mi známí do starého PC nainstaloval win 8 , který zcela
+zpomalují celý počítač (furt nějaké aktualizace apod . )
+Ale abych se dostala do bootu bo UEFI bo co to má , prostě nelze .. Zaprvé při
+zapnutí počítače musím povytahovat , klávesnici , myš z usb portů , jinak se
+PC nezapne . A hlavně než to stihnu zpět zapojit a překliknout se do daného
+místa , tak už jsem ve win , už jsem zkoušela vypnout rychlí start , ani to
+nezafungovalo . Nevím co s tím .
+Potřebuju win 8/ přeinstalovat na win xp a nejde to . Ani instalačku to nebere
+. Stáhla jsem si win xp ovšem koncovku mám CDFS , ale z internetu jsem vyčetla
+že potřebuji NTFS .. Jsem už z toho všeho jelen , takže někdo kdo by mi
+polopaticky vysvětlil , co mi ten starej krám chce říct ?
+
+Díky moc
+ _P_a_l_e_F_a_c_e [Žena]21 [Kategorie]  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+18.06.2014 20:37:55
+@PaleFace:
+
+1)"...že mi známí do starého PC nainstaloval win 8 , který zcela zpomalují
+celý počítač (furt nějaké aktualizace apod . )"
+
+/// Instalaci aktualizací lze buďto vypnout nebo nastavit tak, aby uživatel PC
+jejich stažení a instalaci nejprve potvrdil. Osobně se osmičkám nebráním, sám
+je používám na NTB (Win 8.1) i PC (zatim Win8) a naopak mi ve srovnání se
+staršími systémy přijdou rychlejší. Pokud nemáš vyloženě starou šunku s 512mb
+ram a pomalým procesorem, problém bude jinde.
+
+------------------------------------------------------------------------------
+------------ - --- -
+
+2) " Zaprvé při zapnutí počítače musím povytahovat , klávesnici , myš z usb
+portů , jinak se PC nezapne ."
+
+/// Zkusil bych vyjmout baterii ze zákl. desky, poté znova vložit. Pro vstup
+do BIOSu/UEFI musí klávesnice reagovat.
+
+------------------------------------------------------------------------------
+------------ - --- -
+
+3) "Potřebuju win 8/ přeinstalovat na win xp a nejde to ."
+
+/// Nechci tady nijak propagovat a vychvalovat Osmy, ale XPčkám skončila
+podpora a jsou už považovány za "zastaralý" systém a ani tvůrci SW s ním už
+moc nepočítají. Pokud máš na XP licenci a nepoužíváš PC na kdovíjaké náročné
+úkony, XP vpoho postačí, jinak bych se držel minimálně Windows Sedmiček.
+
+------------------------------------------------------------------------------
+------------ - --- -
+
+4) "Stáhla jsem si win xp ovšem koncovku mám CDFS , ale z internetu jsem
+vyčetla že potřebuji NTFS"
+
+/// CDFS určitě nebude přípona souboru. Pokud se nepletu, CDFS je souborový
+systém optického disku (klasického cédéčka), zatímco NTFS/FAT32 souvisí obecně
+s paměťovými médii typu HDD, fleška, externí hadr apod. Čili Windowsy musí být
+nainstalovaný na NTFS oddílu, při reinstalaci přeformátuješ HDD zase na NTFS.
+Takže tyto dva pojmy spolu jako takhle nesouvisí.
+
+------------------------------------------------------------------------------
+------------ - --- -
+
+5) "Ani instalačku to nebere ."
+
+/// Pokud máš WinXP stažené jako obraz disku (nejčastěji s příponou .ISO) -
+máš 2 možnosti:
+
+a) Vypálit na cédéčko, vložit do mechaniky, nastartovat do boot-menu (menu,
+kde vybíráš z čeho bude PC startovat - běžně HDD) a projít instalačním
+průvodcem
+
+b) Pokud máš volnou flešku, použij freeware program "Novicorp WinToFlash",
+který ti daný iso obraz převede na flešku ze které poté opět nastartuješ PC.
+Doporučuji jej, nemusíš nic složitého nastavovat, pouze zvolíš zdroj a cíl a
+za chvilku máš hotovo.
+
+------------------------------------------------------------------------------
+------------ - --- -
+
+Jestli je něco nejasnýho, klidně dej vědět: bendi777@seznam.cz
+
+Zatím hodně štěstí a zdar.
+[Smajlík] [Muž]18 [Kategorie]
+ _B_e_n_d_i_R_1_8
+18.06.2014 20:13:34
+ovšem koncovku mám CDFS , ale z internetu jsem vyčetla že potřebuji NTFS
+----------
+Tak to jsem se zasmál nahlas :).
+ _l_i_b_i_k [Muž]34 [Kategorie]
+18.06.2014 19:56:03
+Toho telefonu mi ani tak líto není, zasloužil si to! Ale nedávno jsem rozsekal
+DVD mechaniku, protože nechtěla načíst DVDčko s čerstvě zakoupeným
+Battlefieldem. Po pár dnech jsem ale zjistil, že to nejde načíst skoro nikomu,
+takže DVD mechanika byla v pořádku. Na tuhle už ani nesáhnu. :P
+ _P_R_A_V_Ý_r_á_k_o_s [Muž]28 [Kategorie]
+18.06.2014 19:48:29
+PRAVÝrákos .:
+Ty seš expert :D :D To snad neee :D
+[Smajlík] [Žena]21 [Kategorie]
+ _P_a_l_e_F_a_c_e
+18.06.2014 19:22:29
+PaleFace:
+
+To bude asi nejlepší nápad, tyhle rady přes net jsou beztak k ničemu. Já si
+jenom vždycky vzpomenu, kolik věcí už jsem takhle v záchvatu zlosti rozflákal,
+žejo. Naposledy to byl pomalý smartphone. :D
+ _P_R_A_V_Ý_r_á_k_o_s [Muž]28 [Kategorie]
+18.06.2014 19:17:39
+PRAVÝrákos .: Paradoxem , je že se vůbec do toho BIOSU nemůžu dostat .
+
+Pokud to nevyřeším zítra já , odvezu to kamošovi . Nebo u toho těžce ztrácím
+nervy .
+
+Prostě mě udivuje , že ty vstupy na klávesnici a myš při zapnutí nefungují .
+Normálně vše jelo ..
+Dík moc za rady ..
+
+Problém to asi tak vážnej nebude , když se tomu tak řechtáš :D
+[Smajlík] [Žena]21 [Kategorie]
+ _P_a_l_e_F_a_c_e
+18.06.2014 19:01:23
+Před nedávnem jsem chtěl nainstalovat XP z nějaký CDčka, ale za nic na světě
+to nešlo. Už jsem myslel, že s tím fláknu o zem, až jsem zjistil, že to CD s
+XPčkama nebylo bootovací, takže se to nenačetlo a jenom to skočilo do
+windowsu. Tak jsem tam hodil Win7 a ten nabootoval hnedka. Jak už tu psal
+týpek pode mnou, vymaž pamět CMOS, přehodíš tam jeden jumper a smaže se
+nastavení BIOSu, takže by to mělo být v poho. Nebo rovnou skoč do BIOSu a dej
+default setting. Já mám na svém PC taky jeden problém a vůbec nevím co s tím
+dělat. Někdy je to o nervy. :D
+ _P_R_A_V_Ý_r_á_k_o_s [Muž]28 [Kategorie]
+18.06.2014 18:55:22
+PRAVÝrákos .: Teď už se k tomu PC nedostanu . Popíšu Ti to sem zítra ,
+přesněji co to píše . Antivirákem jsem to projela , aj Ccleanerem .. Nic to
+nenašlo , vše je jak má být . Víš co pro nás ty 8 čky můžou být pohodlné . Ale
+pro mého otce je to něco jako další šplouch něčeho , čemu nebude nikdy rozumět
+. A chce se v tom PC lehce orientovat orientovat . Takže pro něj to bude
+nejideálnější .
+[Smajlík] [Žena]21 [Kategorie]
+ _P_a_l_e_F_a_c_e
+18.06.2014 18:45:57
+PaleFace:
+
+Tak přesně popiš, co PC dělá! Když to PC bude zavirovaný, tak ti nepomůže nic.
+Win8 je nenáročný, ani to nemá aero jako např. Win7, takže to nemusí být tak
+zlý. Po čase se každý PC zpomalý, takže je třeba se o to starat! Takže si
+sosni CCleaner, pročisti to. Zkontroluj antivirákem, jestli nemáš nějaký
+spyware nebo virus, co zpomaluje PC. Taky si ani nenapsala, co vůbec máš za
+kompa. Jaký CPU, velikost RAMek, co za grafiku, hardisk!
+[Smajlík]   [Muž]28 [Kategorie]
+ _P_R_A_V_Ý_r_á_k_o_s
+18.06.2014 18:36:58
+Jana412 : Hele , položila jsem otázku lidem kteří o tom něco ví , takže bych
+prosila ať už se nadále do toho tématu nezapojušeš , takhle mi vůbec nepomůžeš
+!
+
+PRAVÝrákos .: Hele , ajťák kterej to do tohodle komplu nainstaloval musel
+počítat s tím že když to je tak slabý že to časem nepošlape .. A dík , taky
+jsi mi moc nepomohl ..
+
+
+Meshugener .: Problém bude v tom , že ty win odepírají nainstalování
+bootovacího programu , to byla první věc která mě napadla . Tohle jsem dělala
+před rokem na svém noťasu a vše šlo hladce .Ještě vyčkám do zítřka až se
+zastaví bratr . Zítra se k tomu počítači dostanu .
+
+Si myslím .: No to je to . Když mi pošítač přivezl , normálně mi to bralo
+klávesnici , myš , zkrátka veškeré zařízení které jsem připojila . Tátovi
+tohle začalo dělat v listopadu , takže mě samotnou zajímá , co se od září
+podělalo . Vypla jsem tam i rychlej start , koukala do nastavení . Prostě jsem
+z toho celkem jojo . Nikdy jsem neměla problém s instalací a s tímhle jsem se
+setkala poprvé .
+ _P_a_l_e_F_a_c_e [Žena]21 [Kategorie]
+18.06.2014 17:57:04
+No pokud má UEFI BIOS, tak to asi tak starej krám není!
+ _P_R_A_V_Ý_r_á_k_o_s [Muž]28 [Kategorie]
+18.06.2014 17:39:27
+PRVNI SI VEM KURZ: jAK NA POČÍTAČ A VUBEC SE DO TOHO NESE.....
+ JANA412
+18.06.2014 17:14:06
+CDFS vám to samozřejmě nevezme, buď si vaši kopii Windows XP musíte vypálit,
+anebo vytvořit bootovací USB jednotku, kam si ty Windows dáte, nejlépe fleška,
+ale jde to i z SD karty nebo externího disku. Když si na Google zadáte "A
+bootable USB", tak tam si to můžete nastudovat a rovnou si pomocí prográmku
+vytvořit takové medium. Pozor, tu USB jednotku budete formátovat, takže její
+obsah zálohovat!
+
+Být vámi, tak bych vytáhl baterii ze základní desky, tím zresetujete EFI do
+továrního nastavení u většiny základních desek.
+ Meshugener
+18.06.2014 17:06:06
+Tak za prvé na nějaký starý vrak dávat osmičky... kopni toho známýho
+do...kuřího oka.
+
+No a pokud jde o ten zbytek, tak to bude asi krapet komplikovanější. Zkoušela
+jsi zjistit možnou příčinu nezapínání se klávesnice a myši? Máš v biosu
+zapnuté bootování z cd?
+ Si myslím
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+

@@ -1,0 +1,146 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+   Otázky - Vzkazy č.815789, vloženo _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+   06.07.2014 09:56:48               _s_t_r_á_n_k_a_]
+   Prehranie DVD disku
+   Ahojte, nejde mi prehrať DVD. Keď si to tam vložím, ozve sa to známe
+   hučanie, no nenaskočí mi okienko s otázkou: Čo chcete urobiť? Mám na
+   prehrávanie DVD iba VLC Media Player a keď si ho spustím a kliknem na
+   Prehrať, takisto sa nič nedeje. Keď si dám Tento počítač a pozriem sa na
+   disk I, je tam napísaný názov DVD a je tam možnosť "Prehrať vo VLC Media
+   Player", ale keď na to kliknem, zobrazí sa síce VLC Media Player, ale
+   nič sa nezačne prehrávať. Čakal som asi minútu a len to hučalo. Nakoniec
+   ma to prestalo baviť a vybral som stadiaľ DVD. Neviete, v čom môže byť
+   chyba a ako ju mám odstrániť?
+    Mám problém [Muž]16  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+31.07.2014 17:55:08
+Ach, zabudol som vymazať VPS. No nič, snáď to nevadí.
+ Mám problém
+31.07.2014 17:54:08
+Pre začiatok sa musím ospravedlniť. Ten test trval strašne dlho, preto som ho
+vypol. Teda, nevypol som ho v pravom zmysle slova, ale vytiahol som DVD z
+počítača. V okamihu, ako som stlačil tlačidlo pre výber, test sa skončil.
+Písalo sa tam: Niektoré súbory nemohli byť otestované. Dám vám tu report
+testu. Snáď aj to, čo sa tam zatiaľ uchovalo, vám pomôže pri riešení môjho
+problému. Musel som však z bezpečnostných dôvodov vymazať číslo VPS. Ale to
+číslo snáď nie je dôležité. Takže, tu je report môjho testu.
+
+*
+* avast! report
+* Tento súbor je automaticky generovaný
+*
+* Spracováva sa úloha 'Test výmenných médií'
+* Spustená 31. júl 2014 17:35:56
+* VPS: 140731-0, 31.07.2014
+*
+
+Disk I: Boot Record [+] je OK
+I:VIDEO_TSVIDEO_TS.BUP [+] je OK
+I:VIDEO_TSVIDEO_TS.IFO [+] je OK
+I:VIDEO_TSVIDEO_TS.VOB [+] je OK
+I:VIDEO_TSVTS_01_0.BUP [E] Chyba údajov (cyklická kontrola nadbytočných
+údajov) (23)
+I:VIDEO_TSVTS_01_0.IFO [E] Chyba 0x00000022. (34)
+I:VIDEO_TSVTS_01_0.VOB [E] Zariadenie nie je pripravené (21)
+I:VIDEO_TSVTS_01_1.VOB [E] Zariadenie nie je pripravené (21)
+I:VIDEO_TSVTS_01_2.VOB [E] Zariadenie nie je pripravené (21)
+I:VIDEO_TSVTS_01_3.VOB [E] Zariadenie nie je pripravené (21)
+I:VIDEO_TSVTS_01_4.VOB [E] Zariadenie nie je pripravené (21)
+I:VIDEO_TSVTS_02_0.BUP [E] Zariadenie nie je pripravené (21)
+I:VIDEO_TSVTS_02_0.IFO [E] Zariadenie nie je pripravené (21)
+I:VIDEO_TSVTS_02_0.VOB [E] Zariadenie nie je pripravené (21)
+I:VIDEO_TSVTS_02_1.VOB [E] Zariadenie nie je pripravené (21)
+I:VIDEO_TSVTS_03_0.BUP [E] Zariadenie nie je pripravené (21)
+I:VIDEO_TSVTS_03_0.IFO [E] Zariadenie nie je pripravené (21)
+I:VIDEO_TSVTS_03_0.VOB [E] Zariadenie nie je pripravené (21)
+I:VIDEO_TSVTS_03_1.VOB [E] Zariadenie nie je pripravené (21)
+I:VIDEO_TSVTS_04_0.BUP [E] Zariadenie nie je pripravené (21)
+I:VIDEO_TSVTS_04_0.IFO [E] Zariadenie nie je pripravené (21)
+I:VIDEO_TSVTS_04_0.VOB [E] Zariadenie nie je pripravené (21)
+I:VIDEO_TSVTS_04_1.VOB [E] Zariadenie nie je pripravené (21)
+I:VIDEO_TSVTS_05_0.BUP [E] Zariadenie nie je pripravené (21)
+I:VIDEO_TSVTS_05_0.IFO [E] Zariadenie nie je pripravené (21)
+I:VIDEO_TSVTS_05_0.VOB [E] Zariadenie nie je pripravené (21)
+I:VIDEO_TSVTS_05_1.VOB [E] Zariadenie nie je pripravené (21)
+I:VIDEO_TSVTS_06_0.BUP [E] Zariadenie nie je pripravené (21)
+I:VIDEO_TSVTS_06_0.IFO [E] Zariadenie nie je pripravené (21)
+I:VIDEO_TSVTS_06_0.VOB [E] Zariadenie nie je pripravené (21)
+I:VIDEO_TSVTS_06_1.VOB [E] Zariadenie nie je pripravené (21)
+I:VIDEO_TSVTS_07_0.BUP [E] Zariadenie nie je pripravené (21)
+I:VIDEO_TSVTS_07_0.IFO [E] Zariadenie nie je pripravené (21)
+I:VIDEO_TSVTS_07_0.VOB [E] Zariadenie nie je pripravené (21)
+I:VIDEO_TSVTS_07_1.VOB [E] Zariadenie nie je pripravené (21)
+I:VIDEO_TSVTS_08_0.BUP [E] Zariadenie nie je pripravené (21)
+I:VIDEO_TSVTS_08_0.IFO [E] Zariadenie nie je pripravené (21)
+I:VIDEO_TSVTS_08_0.VOB [E] Zariadenie nie je pripravené (21)
+I:VIDEO_TSVTS_08_1.VOB [E] Zariadenie nie je pripraven
+ Mám problém
+31.07.2014 17:41:49
+Dnes som zistil, že mám v počítači ešte Windows Media Player. Skúsil som to s
+ním. Ale dlho sa to načítavalo (najmenej 5 minút), tak som to radšej vybral.
+Ale potom ma niečo napadlo. Znova som to tam to DVD dal, a keď sa to spustilo,
+zapol som Avast! a spustil som test výmenných médii. Nastavil som aj
+generovanie reportu, takže keď sa ten test dokončí, dám vám tu report.
+Nemyslím si, že je tam malware, skôr si myslím, že je tam nejaká chyba v
+programe. Test práve beží. Dám vám tu report hneď, ako to bude možné.
+ Mám problém
+27.07.2014 14:17:59
+A kde? Ja nemám iný softvér na prehrávanie, iba VLC Media Player.
+ Mám problém
+24.07.2014 10:28:31
+Skúšal si to prehrať niekde inde?
+ _B_l_o_o_d_y_ _f_l_o_w_e_r [Žena]31 [Kategorie]
+06.07.2014 18:45:16
+Ešte som zabudol doplniť: chcel som antivírusom vykonať aj kontrolu výmenných
+médii, ale dlho sa to spúšťalo, tak som to DVD radšej vybral. Test sa následne
+v mihu sekundy vykonal, ale nepreukázal nič (DVD už bolo vonku). Naozaj
+neviem, čo s tým robiť. Prosím vás, pomôžte mi, už som zúfalý.
+ Mám problém
+06.07.2014 09:58:14
+Svůj příspěvek jsi vložil(a) do nespravné kategorie. Bylo provedeno přesunutí.
+V případě opakování hrozí blokování vstupu na portál. Prosím zvol příště
+správnou kategorii. Děkujeme za pochopení..
+[Smajlík]      [Muž] [Kategorie]
+ _A_d_m_i_n_i_s_t_r_á_t_o_r
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+
