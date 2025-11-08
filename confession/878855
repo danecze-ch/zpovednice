@@ -1,0 +1,162 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+Diskuze č.878855, vloženo 26.05.2015 19: _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+10:25                                    _s_t_r_á_n_k_a_]
+Truecrypt, TOR
+Používáte tyhle nástroje, které na 99% používají jen pedofilové a teroristi?
+ _M_a_x_i_m_i_l_i_a_n [Muž]84 [Kategorie]  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+27.05.2015 00:45:45
+Párkrát jsem přes TOR nakoupil "party potřeby". Fungovalo to skvěle. Občas ho
+použiju, když potřebuju anonymní ip, třeba abych hlasoval v anketě bez
+cookies.
+[Smajlík] [Muž]28 [Kategorie]
+ _N_T_N
+26.05.2015 23:41:55
+Nevěřím na bezpečnost TORu.
+
+Bezpečnost hidden volume TrueCrypru pak závisí na tom, jak bolestivé bude
+tvrdit, že tam žádný není. A pokud tam žádný není, pak hodně.
+ _S_t_a_6_7 [Muž]28 [Kategorie]
+26.05.2015 23:34:20
+Problém s tajnou datovou "schránkou" mě zaujal a tak jsem nad ním trošku
+popřemýšlel.
+Napadla mě následující možnost, ale je to jen takový "nástřel" bez toho, abych
+se zabýval technickou realizací.
+
+Velký disk, na něm velkou partition naformátovanou nějakým běžným nešifrovaným
+FS. Toto místo zaplněné nějakými běžnými datovými soubory, např. rodinnými
+fotkami. Tyto fotky by sloužily jako nosič utajovaných dat. Data by byla
+utajována pomocí steganografie. Nad těmito soubory s fotkama by byl aktivován
+třeba StegFS (Steganographic file system). Takto vybudovaný datový prostor by
+byl dále šifrován pomocí dm-crypt. - Tím bychom získali tajný šifrovaný datový
+prostor.
+
+Počítač by standardně bootoval operační systém, který by neměl žádné nástroje
+na práci s dm-crypt a StegFS. Bootoval by třeba běžné Windows. Tento systém by
+prostě pouze viděl soubory s rodinnýma fotkama, nic víc.
+
+Když by vyvstala potřeba pracovat s utajenýma datama, z flashky by se
+nabootoval druhý systém - speciální, takový, který by měl nástroje pro práci s
+utajeným diskem vybudovaným v datech fotek, a který by tedy namountoval tajný
+datový prostor jako běžný disk.
+
+Předpokládám, že tento způsob by mohl poskytovat dost velkou míru bezpečí jak
+před odhalením tajných dat, tak také i předtím aby ten, kdo po těch datech
+pátrá, vůbec získal tušení, že na disku ta data jsou.
+
+Nevýhodu na první pohled vidím v tom, že pro získání jen relativně malého
+tajného prostoru by bylo třeba mít k dispozici hodně velký disk.
+Možná tam jsou ještě další nevýhody, které nevidím. Je to opravdu je takový
+prvotní nápad, jak by se ten problém snad možná dal řešit.
+[Smajlík]
+ StaráPáka
+26.05.2015 23:10:10
+Hidden volume je dobry koncept ale stale ne dost dobry, protoze je znamy. Ja
+jsem vytvoril vlastni reseni ktere je sice take docela zname ale v mem pripade
+muzu snadno tvrdit ze to je neco uplne jineho nebo jsou to proste nahodne data
+ktere zbyly po mazani disku.
+ newbie78900rr46
+26.05.2015 22:28:28
+newbie78900rr46: TC umoznuje vytvorit hidden volume, zkus se podivat, jestli
+by to neresilo tvuj problem.
+ _k_a_i_t_e_n [Muž]58 [Kategorie]
+26.05.2015 22:23:51
+newbie78900rr46:
+Tak to teda vážně nevím jak by se tohle dalo udělat standardními nástroji
+Linuxu, ale nejsem žádnej expert na bezpečnost dat.
+Standardní šifrování - ten, kdo by ti prohledával disk, by sice věděl, že tam
+něco máš, ale nedostal by se na to. Pokud bys chtěl, aby ani netušil, že tam
+vůbec něco je, tak to teda opravdu nevím jak řešit. Snad možná Kali Linux by
+na to mohl mít nějaké nástroje, ale to je jen odhad.
+ StaráPáka
+26.05.2015 21:19:40
+StaráPáka: Zcela transparentni sifrovani je sice pekny napad ale treba pro me
+je zakladnim pozadavkem aby nebylo vubec patrne ze mam na disku nejaka
+sifrovana data.
+ newbie78900rr46
+26.05.2015 21:10:09
+TOR, Truecrypt nepoužívám, protože pro to nevidím pro to důvod.
+Kdybych chtěl šifrovat obsah disku, tak bych asi použil Linux (ten sice
+používám, ale nešifruji, páč jsem línej zdržovat se zadáváním hesel, snímáním
+otisků prstů, příp. obličeje,.... :-P ) a šifroval bych filesystem - buď jen
+svůj domovský adresář, nebo komplet celý disk. Linux toto umí dělat zcela
+transparentně, takže to vůbec neobtěžuje.
+Dále také můžeš použít šifrování+aktivaci celého disku OPAL SED (Self
+Encrypting Drive). Avšak abys tuhle technologii mohl používat, tak na to
+potřebuješ počítač, který toto podporuje v BIOSu (většinou tím bývají vybaveny
+notebooky té nejvyšší business kategorie) a dále také SSD disk, který tuhle
+technologii podporuje. Naproti tomu šifrování filesystému v Linuxu žádný
+speciální hardware nevyžaduje.
+Výhodou OPAL je, že pokud ti někdo ukradne disk nebo notebook, tak bez
+znalosti hesla je mu disk naprosto k ničemu, nemůže ho ani přemazat a
+přeinstalovat jiným OS. Disk bude prostě mrtvá krabička, takže zloděj má po
+vejdělku.
+
+Kdybych chtěl anonymně vstupovat do internetu, tak asi jedině ten TOR.
+Anonymní, nabouraná, apod... wifi, nebo bazarový mobil s novou SIM... to
+všechno jsou značně nepohodlné způsoby. :-P
+Já bych tajným agentem, nebo zločincem asi být nemohl, páč by mě všechna ta
+nutná konspirační opatření značně obtěžovala, takže bych je nejspíš nedělal a
+hned bych byl odhalenej. :DD
+[Smajlík]
+ StaráPáka
+26.05.2015 21:05:04
+Lebo kto nič zlé nerobí, nepotrebuje šifrovať, však?
+LOL ...
+[Smajlík]   [Muž]30 [Kategorie]
+ _p_e_t_k_o_ _o_p_e_t
+26.05.2015 20:16:52
+TC ano, povazuju ho za nejbezpecnejsi. Pokud jsem tomu spravne porozumel,
+radeji s jeho vyvojem skoncili, nez by podlehli tlaku na zabudovani backdoor.
+
+TOR ano, jen ze zajimavosti a zcela vyjimecne.
+ _k_a_i_t_e_n [Muž]58 [Kategorie]
+26.05.2015 19:37:09
+Já teda vůbec nemám tušení co to je.
+ _T_V_T [Muž]26 [Kategorie]
+26.05.2015 19:32:05
+Truecrypt je mrtvy pokud vim, pouzivam jine sifrovadlo, TOR pouzivam. Nejsem
+pedofil ani terorista.
+ newbie78900rr46
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+
