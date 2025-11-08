@@ -1,0 +1,114 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+Zpověď č.1067319, vloženo 09.08.2018 15: _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+00:12                                    _s_t_r_á_n_k_a_]
+grafika
+ahoj, prosím mohli byste mi poradit? :) mám fotku, která je celá šedá, ale
+chtěl bych, aby tam jeden obejkt byl "vytažený" v originální barvě. Nevíte, jak
+to udělat? děkuju za rady, případně jaký program atak :)
+ negramota [Muž]22  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+09.08.2018 22:15:05
+presne, ja tu barevnou mám, jdu to vyzkouset, dekuji vám :)
+ negramota
+09.08.2018 18:53:46
+Zarcon a další: Ale on tu původní barevnou evidentně má, on jen neví, jak
+barevnou a odbarvenou (příp. černobílou) zkombinovat, aby to udělalo ten
+efekt. Lépe řečeno teď už to ví. Čtěte taky trochu, když už odpovídáte.
+[Smajlík]
+ nemáš zač
+09.08.2018 18:50:46
+V GIMPU je to úplně stejný. Akorát se nejspíš budeš muset spokojit s tou
+odbarvenou fotkou namísto černobílý, pokud se nedá něco lepšího pro GIMP
+stáhnout jako plugin (je to i docela možný, ale nevím). Jinak v postupu jako
+takovým se vůbec nic neliší.
+[Smajlík]
+ nemáš zač
+09.08.2018 18:48:35
+Pokud máš odbarvenou fotku, tak je to nevratný, leda nějakým složitým
+procesem, jak se kolorovaly staré filmy, to bez dalších zkušeností a
+kvalitního softu neuděláš
+ _Z_a_r_c_o_n [Muž]41 [Kategorie]
+09.08.2018 18:34:20
+aha aha, diky :) A v tom GIMP bys nějak navod neměl? :D :D photoshop není k
+dispozici :))) :D
+ negramota
+09.08.2018 16:56:01
+Takže. Grafický editor jako Photoshop nebo GIMP. Spodní vrstva bude ta barevná
+fotka. Nad ní bude vrstva s černobílou fotkou. Nevím, co přesně si
+představuješ pod "klasickým filtrem", ale na 90% myslíš odbarvení. Nedělej to.
+Odbarvená fotka pořád není černobílá fotka. Odbarvená je prostě nevýrazná
+šedivá. Photoshop má vynikající nástroj na převedení fotky na černobílou
+(Image->Adjustment->Black&White nebo Alt+Shift+Ctrl+B), uvidíš, že dosáhneš
+mnohem lepšího výsledku.
+
+Inu. Nyní je třeba z té horní černobílé vrstvy odstranit část, která má být
+barevná. Mohli bysme tu rozebrat práci s maskou, která umožňuje cokoliv
+opravit nebo vrátit později, ale smiřme se s tím, že to je na tebe moc vysokej
+level. Vezmi prostě gumu a odstraňuj části na černobílé vrstvě. Když se ti
+něco nepovede, tak dáš Undo/Step Backward a znova. Podle toho, co je to za
+objekt, budeš asi chvilkama potřebovat gumu s tvrdým okrajem, chvilku s
+měkkým, někde u okrajů objektu se možná spíš vyplatí snížit přítlak/
+průhlednost nástroje. To fakt záleží, co je to za objekt a jak přesně si
+představuješ finální dílo. Je to prostě část plná pokusů a omylů.
+[Smajlík]
+ nemáš zač
+09.08.2018 15:28:05
+asdfghjjhgfdsa: Google je plný nástrojů na obnovení barvy u černobílých
+obrázku.
+[Smajlík]
+ G9CL
+09.08.2018 15:24:41
+obrázek je puvodně barevný, ale klasickym filtrem jsem dal do šedé celé, ale
+jen ten jedne objekt chci do té původní / barevné :)
+ negramota
+09.08.2018 15:11:19
+G9CL : Je potřeba přesně opačná věc než radíš . . .
+ asdfghjjhgfdsa
+09.08.2018 15:06:18
+Na to stačí Paint.NET nebo GIMP, pak ten objekt označit - invertovat výběr -
+dát pouze odstíny šedi. Pokud ten obrázek ale nemáš barevný, tak to bude dobrá
+piplačka...
+[Smajlík]
+ G9CL
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+
