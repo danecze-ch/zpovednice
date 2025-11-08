@@ -1,0 +1,127 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+   Otázky - Vzkazy č.1032063, vloženo _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+   11.12.2017 21:01:04                _s_t_r_á_n_k_a_]
+   JAVASCRIPT POMOC
+   https://codepen.io/win32exe/pen/EoYrJp
+
+
+   MŮŽE MI NĚKDO ŘÍCT CO MÁM UDĚLAT ABY PŘI ZAPSÁNÍ NOVÉHO TEXTU DO PROMĚNNÉ
+   MESSAGE PŘIBILA NOVÁ ZPRÁVA A NEMĚNILA SE FURT TA STEJNÁ PROMĚNNÁ??? DÍKY
+   MOC POPŘ. MĚL BY NA MĚ NĚKDO ČAS MI RADIT? UČÍM SE A POTŘEBOVAL BYCH
+   NĚJAKÉHO FRAJERA KTERÝ TO ZVLÁDÁ LEVOU ZADNÍ, KDYŽ TAK ZANECH SKYPE ČI
+   TAK...
+    NEWBIE [Muž]  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+11.12.2017 21:42:21
+Vesmy: Ano, vždyť píšu NĚCO NA BACKENDU. Čili nemusí to být php+db, může to
+být node.js+db (ne nutně relační db, ale v chatu je to výhodnější, Mongo bych
+kvůli chatu nenasazoval). Nebo úplně jiný řešení, třeba microsoftí nebo ruby.
+A na malý soukromý chat pro pár kamarádů ani nemusíš použít db, texťák fakt
+stačí. To už je úplně jedno, zkrátka něco na serveru. Jako když už se to učí,
+tak ať počítá s tím, že jenom čistě pomocí JS na straně klienta nelze udělat
+úplně vše.
+[Smajlík]
+ chvilku hledej
+11.12.2017 21:41:28
+Pokud se chceš něco naučit, zjisti si nejprve, co je front-end, co back-end...
+a dělej vhodný příklady... tohle ti absolutně nic nedá. :o)
+ _N_e_ž_á_d_o_u_c_í [Muž]19 [Kategorie]
+11.12.2017 21:37:07
+chvilku hledej: Dneska už jsou způsoby, jak udělat v JavaScriptu jak klienta,
+tak i server a databázi. Taková kombinace klientského JavaScriptu, Node.js a
+MongoDB je pak jen těžko překonatelná, protože máš všechno v jednom jazyce a
+všechno do sebe hezky pasuje.
+ _V_e_s_m_y_9_7 [Muž]26 [Kategorie]
+11.12.2017 21:28:04
+Vesmy97 díky moc už to funguje
+
+Jenom se to učím, nemíním dělat nic převratnýho.. Snažím se to spojit nějak
+dohromady s HTML a zkouším nějaké postupy atd. aby mi to jelo :D Ale díky všem
+moc za rady..
+ newbie
+11.12.2017 21:24:13
+Sakra může mi někdo vysvětlit alespoň náznakem co to všechno má beejt?!?
+Suasizpralesa
+ neboco
+11.12.2017 21:24:10
+Teda zapomněl jsem napsat, že čistě pomocí JS bys chat stejně nevyřešil, anžto
+běží lokálně, to by každý uživatel viděl jen své příspěvky. AJAX (HTTP
+request) a něco na backendu zpřístupňující aktuální obsah chatu všem
+uživatelům budeš muset tak jak tak použít.
+[Smajlík]
+ chvilku hledej
+11.12.2017 21:22:53
+žádný praktický využití to nemá,učím se to a snažím se přitom dělat nějaké
+cvičení u čeho by to mohlo nějak fungovat :D
+ NEWBIE
+11.12.2017 21:21:13
+Stačí na 14. řádku změnit „=“ na „+=“.
+[Smajlík] [Muž]26 [Kategorie]
+ _V_e_s_m_y_9_7
+11.12.2017 21:15:22
+Vytvářej třeba novej div (nebo jinej tag... tady máš teda tag pro odstavec...
+nechápu, ale ok) po každým použití proměnný. Jaký že to má mít praktický
+využití?
+ _N_e_ž_á_d_o_u_c_í [Muž]19 [Kategorie]
+11.12.2017 21:15:02
+Pokud to chceš takhle extrémně jednoduše, tak extrémně jednoduchý řešení je do
+proměnný načíst její původní obsah + ten nový.
+
+message = message+new_message
+
+Není to ideální řešení a chat se takhle opravdu neřeší, ale do začátku
+postačí. Tutoriálů, jak si vyřešit malý chat pomocí JS (AJAXu) a třeba php+db
+nebo i obyčejnýho textovýho souboru je na internetu hodně.
+[Smajlík]
+ chvilku hledej
+11.12.2017 21:02:32
+přibyla omlouvám se za chybu :(
+ NEWBIE
+11.12.2017 21:02:32
+Svůj příspěvek jsi vložil(a) do nespravné kategorie. Bylo provedeno přesunutí.
+V případě opakování hrozí blokování vstupu na portál. Prosím zvol příště
+správnou kategorii. Děkujeme za pochopení.
+[Smajlík]      [Muž] [Kategorie]
+ _A_d_m_i_n_i_s_t_r_á_t_o_r
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+
