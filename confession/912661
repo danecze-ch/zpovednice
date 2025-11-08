@@ -1,0 +1,167 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+   Otázky - Vzkazy č.912661, vloženo _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+   19.12.2015 23:11:56               _s_t_r_á_n_k_a_]
+   Je bezpodmínečně nutná pevná IP?
+   Už roky mám připojení ADSL s veřejnou IP. Protože bude ale poskytovatel
+   měnit podmínky a budu mu moci utéct tak přemýšlím, že bych šel ke
+   konkurenci. Kde je ale veřejná IP s příplatkem. Otázka tedy je, k čemu
+   je nutná ta veřejná pevná IP. Hraju prohlížečové hry, sleduju
+   streamovaná videa na nejmenované službě nejmenované komerční televize,
+   taktéž i videa na nejmenované veřejnoprávní televizi a přenosy utkání na
+   nejmenované sázkovce. Pak klasika mail, tlachání na diskusích. Otázkou
+   je, jestli fakt tu pevnou IP potřebuji. Jestli třeba není nutná k tomu,
+   abych kdekoliv neslízl ban za někoho apod. Jsem v tomhle celkem lamka
+   tak prosím poraďte.
+    InternetovyAmater [Muž]32  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+20.12.2015 17:16:18
+Mno zase je ale fakt, že dynamická IP se přeci mění, ne? Takže kdybych
+nedejbůh vyfásl momentálně nějakou IP která je zatížená banem tak za určitou
+dobu je klid, ne? Takže to nemusí být tak strašlivé. Ono je to o tom, že
+příplatek je nějakých 120 Kč měsíčně a opravdu zatím mám pocit, že pro mě je
+to vyhození peněz.
+ InternetovyAmater
+20.12.2015 10:52:30
+Ano, kupodivu, statická ip adresa je jediné řešení jak mít jistotu, že z ní
+nebude přistupovat někdo jiný a ty se tak jeho vinou neocitneš na nějakém
+blacklistu.
+Jinak ji doma potřebuješ pouze v případě, že je uvedená mezi výjimkami někde
+na nějakém firewallu - ale kdyby to tak bylo, určitě bys o tom věděl.
+ odpočinkový
+20.12.2015 08:35:54
+InternetovyAmater: nic, jako presumpce neviny zde neexistuje. Většina portálů
+umožnuje neregistrovaný přístup. Nelze tedy blokovat konkrétní účet a jediný
+způsob ochrany je blokace IP adresy. Já osobně sem kvůli cizím lumpárnám na
+zpovědnici bloklej minimálně každé čtvrtletí aspoň jednou.
+ _M_S_-_f_a_n_o_u_s_e_k [Muž]50 [Kategorie]
+20.12.2015 03:32:09
+verejnou IP potrebujes pouze u nekterych sluzeb( i z nich se nektere bez ni
+obejdou, ale budou omezene)
+
+to je priklad peer 2 peer sluzeb (torrenty - bez verejne IP mas omezene
+moznosti);
+problematicky by mohla byt sofistikovanejsi IP telefonie - ale Skypu a
+podobnych chatovacich, telefonich, videofonnich programku se tohle netyka;
+sluzby, kde by tvuj pocitac hral roli verejne dostupneho serveru/hostitele
+(treba multiplayerove hry, ve kterych tvuj komp delal hostitele a ne jen
+klienta);
+atd...
+
+shrnuto, pokud ses obycejnej uzivatel, tak se te asi muzou tykat jen ty
+torrenty (a i ty budou fachat byt omezene); popr. by ses mohl setkat s
+nekterymi ulozisti a omezenim na jedno aktualni stahovani z jedne IP (mohlo by
+se stat, ze nekdo jiny s tou samou IP by zrovinka stahoval, tak by sis musel
+pockat); ale bezne sluzby neverejna IP neomezi vubec: web, mail, skype,...
+
+co se tyce banu, tahle moznost tady je, ale zrovna TENHLE server bych jako
+priklad nebral, mam dojem, ze obcas nahodne vygeneruje komukoliv hlasku o banu
+a a spoliha na to, ze si nekdo zacvaka odblokovani (bo obcas se mi objevi tady
+ban, ikdyz jsem tu treba dny nebyl - pravda vetsinou je to, kdyz se pripojuji
+pres neverjnou IP mobilniho operatora...) - mam neverejnou IP roky a nijak
+zvlast me to neomezilo (a to si troufam tvrdit, ze prece jen ten komp vyuzivam
+trosku sireji nez ty)...
+ whatismyipDOTorg
+20.12.2015 00:35:51
+InternetovyAmater: To, že si třeba na svém počítači spustíš server, ke kterému
+se mohou ostatní připojit. Nebo ty zvenku, přímo bez prostředníka.
+ _S_t_a_6_7 [Muž]28 [Kategorie]
+19.12.2015 23:57:13
+Odpověděl sis sám...
+ qupidupiqip
+19.12.2015 23:55:39
+Ještě co se týče banů. Nevím jaké jsou směrnice na zpovědnici, chatových
+službách etc. ale já jsem dělal na podpoře jedné hry a tam jsme banovali pouze
+uživatelský účet na základě daného nicku. Právě proto, abychom při banování
+jednoho hráče nezabanovali i potenciální nevinné lidi, třeba když uživatel A
+udělá přestupek tak aby jeho bratr B hrající ze stejné domácnosti využívající
+totéž připojení neměl problém se do hry dostat. Zda rozhraní pro správu
+nabízelo nadřízenému zabanovat konkrétní IP netuším. Jinak aktuálně vlastní
+server neprovozuji, jsem pouhý konzument obsahu. Jak jsem psal, tak mě zajímá
+jen online obsah, který je buď placený (služba komerční TV resp. sportovní
+přenosy přes sázkovky), šířený volně dle určitého autorského práva
+(veřejnoprávní TV). Nestahuji nic. Na hry jako takové mám slabé PC a
+multimediální obsah fyzicky na disku mít nepotřebuji. Zvlášť v době Youtube.
+ InternetovyAmater
+19.12.2015 23:51:08
+Když se musíš ptát na tyto základní věci, pak jsou to jen vyhozené peníze.
+Žádná presumce neviny není, když máš třeba celý dům za jedním routerem (tedy z
+venku není možné zjistit vnitřní architekturu sítě....což je pro společnosti
+právě ten důležitý bezpečností prvek). Pokud máš na mysli ban tady na zp, tak
+to převážně dělá automat.
+ qupidupiqip
+19.12.2015 23:39:47
+Nerozumím formulaci "připojovat se ke svého připojení z internetu" mohl bys to
+prosím nějak polopaticky? A co se týče eventuálních banů tak nepostupuje se
+dle presumpce neviny? Tj. zabanovat lze pouze tehdy, je-li nezvratný důkaz o
+tom, že z dané IP adresy byl spáchán určitý přečin a blokace by se nemohla
+dotknout většího množství osob? Např. kdyby došlo k zabanování školních anebo
+firemních počítačů, případně celého vchodu v paneláku? Opravdu jsem za těch x
+let nějak nepocítil benefity té pevné IP tak se teď zamýšlím nad tím, zda má
+smysl tu cca tisícovku ročně vynakládat.
+ InternetovyAmater
+19.12.2015 23:38:40
+pevna != verejna
+
+pevnou ip nepotrebujes vubec - to se da nahradit pomoci dyndns apod. (navic se
+stejne bezne meni jen pri restartu DSL modemu)
+
+Verejna se teoreticky hodit muze, ale pokud se ptas, jestli to potrebujes, tak
+to spis nepotrebujes (koneckoncu, pocitace ze modemem uz stejne maji privatni
+adresy, takze je to jen jeden NAT navic) - nicmene muze tu byt ten problem s
+bany, ale pravdepodobnost, ze by te to zasahlo je docela mala
+ _f_o_r_d_m_u_s_t_a_c_h_e [Muž]99 [Kategorie]
+19.12.2015 23:32:55
+Když neprovozuješ vlastní server, tak to na 99% nepotřebuješ. Taky záleží na
+poskytovateli, kolik uživatelů sdruženo na jedné IP a kolik z nich bude chodit
+na stejnou stránku jako ty. Pokud už používá IP v.6 tak není důvod proč
+setřit, když může mít vlastní IP třeba každý atom ve vesmíru.
+ _Z_a_r_c_o_n [Muž]41 [Kategorie]
+19.12.2015 23:18:34
+Obecně pevnou IP potřebuješ, pokud chceš ke svému připojení přistupovat z
+internetu (typicky kamery) nebo pro svou "unikátní identifikaci" (některé
+stahovací servery a místa, kde se blokuje přístup podle IP).
+
+Takže z toho co píšeš to má skutečně smsl jen, jako prevence proti banům.
+ _M_S_-_f_a_n_o_u_s_e_k [Muž]50 [Kategorie]
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+

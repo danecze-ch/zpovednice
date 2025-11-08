@@ -1,0 +1,166 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+   Otázky - Vzkazy č.918033, vloženo _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+   16.01.2016 11:32:42               _s_t_r_á_n_k_a_]
+   Počet bezpečnostních kodu
+   Na klávesnici jsem napočítal 26 písmen a 10 numerických znaků, které
+   mohou být použity v bezpečnostních kodech zpovědnice.cz. Takže máme 36
+   prvků. Bezpečnostní kody zde na zpovědnici čítají 4 znaky s možností
+   opakování se.
+
+   k=4
+   n=36
+
+   Vypočtu tedy počet možností tak, že C´(k, n) = (n+k-1) nad (n-1) = (n+k-
+   1) nad (k)
+   => C´(4, 36) = (4 + 36 -1) nad (4)
+
+   je to tak??? podle kalkulačky mi vyjde 82 251 možných kodů, což je teda
+   strašně málo, takže sem někde udělal chybu, poradíte mi někdo, kde jsem
+   chybu udělal? Kdyby byl někdo tak ochotný a rozepsal mi to zde podobným
+   způsobem jako jsem to psal já...? :)
+    _d_o_h_l_o_u_b_k_y [Muž]19 [Kategorie]  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+16.01.2016 20:27:55
+Je to 36^4..
+Vždy když takhle chci zjistit počet kombinací, vzpomenu si na číselný zámek,
+kterej jsem jednou otevíral bruteforce metodou. Zámek měl 3 číslice, 0-9
+(10číslic). Tedy čísla od nuly(včetně) do 999, což je tisíc hodnot. A to
+vychází na 10^3, tedy (počet znaků)^(počet míst).
+
+Kombinací je teda 1 679 616. Což se může zdát dost, ale vzhledem k výpočetní
+rychlosti počítačů, i normální desktopový počítač by to zvládl během 0.4
+milisekund.
+ Domča
+16.01.2016 13:00:52
+Nejenom matematika, ale ani logika není tvou silnou stránkou :) Kódy jsou
+automaticky generovány, to že jsi nenarazil na 4 stejné znaky je dáno tím, že
+je šance pouze 1 : 46656 že narazíš na takovou kombinaci.
+ Shak
+16.01.2016 12:55:08
+Já bych předpokládal, že aaaa je možné. Protože pro počítač je to unikátní
+"slovo".
+ _D_e_m_o_n_i_z_e_d_ _M_i_n_d [Muž]28 [Kategorie]
+16.01.2016 12:49:05
+aha, takže se nám stejně nepovede zjistit celkový počet kodu na zpovědnici,
+když nevíme, jestli je možné aaaa. 4 stejné znaky jsem tu ještě nepotkal, ale
+3 ano...
+ _d_o_h_l_o_u_b_k_y [Muž]20 [Kategorie]
+16.01.2016 12:40:33
+Když je možná kód aaaa platí 36^4 a neplatí variace
+
+Když by se v kódu nemohli znaky opakovat (tedy nemohlo by být aaaa ani třeba
+aabc nebo abca), tak by platila variace.
+
+Kombinace nebude platit nikdy, protože v kombinaci je abcd = dcba, protože
+jedna kobinace je množina členů bez ohledu na pořadí, tedy abcd, dcba, acdb,
+cdba, ... jsou matematicky 1, protože pořád tam máš ty samé členy abcd a je
+jedno, na kterém místě je který napsaný
+ _D_e_m_o_n_i_z_e_d_ _M_i_n_d [Muž]28 [Kategorie]
+16.01.2016 12:33:59
+demonized mind:
+A kombinace to nebude 100 % protože různé variace stejných členů počítá jako
+jednu kombinaci.
+
+Jako jedinou možnost tedy vidím vyřešit to jako variaci s tím, že tam dokážeš
+doplnit možnost výsledku a a a a, což absolutně nevím jestli jde a jak by se
+to udělalo.
+
+Takže za předpokladu, že je možné mít kod aaaa už neplatí to 36^4 ?
+
+
+sorry mě matika nikdy nešla, jen mě to prostě zajímá, tak mějte pochopení pro
+mé nepochopení :)
+ _d_o_h_l_o_u_b_k_y [Muž]20 [Kategorie]
+16.01.2016 12:25:00
+Klasika na jednoduché příkladu:
+
+a b, tedy 2*2 = aa bb ab ba = čtyři možnosti
+
+variace ab jsou = ab ba
+
+a kombinace je pouze jedna = ab
+ _D_e_m_o_n_i_z_e_d_ _M_i_n_d [Muž]28 [Kategorie]
+16.01.2016 12:21:43
+dohloubky
+
+Teď jsem to naspal. Variace nezahrnuje opakování ale součin (n násobek) to
+naopak zahrnuje.
+ _D_e_m_o_n_i_z_e_d_ _M_i_n_d [Muž]28 [Kategorie]
+16.01.2016 12:20:42
+36^4 zahrnuje 36 znaku na kazde misto kodu coz je presne to co se na
+zpovednici deje. Mozna jsou nejake vyjimky, treba si nepamatuju ze bych nekdy
+psal nulu ale to jako uzivatele asi neodhadneme.
+ zeleny caj.
+16.01.2016 12:20:21
+Jo už jsem si vzpomněl na středoškolskou matematiku. Ty používáš variace a
+kombinace. Což je dle mého názoru blbost. Už si to vůbec nepamatuji, ale u
+obou vybíráš členy z množiny, ale v té množině se členy neopakují, jsou v
+určitém pořadí.
+
+Proto nemůžeš dostat z variace čtyř členů a b c d výsledek a a a a, myslím...
+čímž tedy nejlogičtější řešení V(4,36) neplatí pro tento případ.
+
+A kombinace to nebude 100 % protože různé variace stejných členů počítá jako
+jednu kombinaci.
+
+Jako jedinou možnost tedy vidím vyřešit to jako variaci s tím, že tam dokážeš
+doplnit možnost výsledku a a a a, což absolutně nevím jestli jde a jak by se
+to udělalo.
+ _D_e_m_o_n_i_z_e_d_ _M_i_n_d [Muž]28 [Kategorie]
+16.01.2016 12:18:12
+36^4 ale nezahrnuje opakování znaků ne?
+ _d_o_h_l_o_u_b_k_y [Muž]20 [Kategorie]
+16.01.2016 11:57:50
+Je to samozrejme 36^4 jak pise demonized mind. Tvemu vypoctu nerozumim ale
+nebochybne je to blbost.
+ zeleny caj.
+16.01.2016 11:44:37
+Hele nechci dělat chytrého, nechápu tu divnou rovnici, přijde mi to jako
+nějaká blbost.
+
+Když použiji selský rozum, ten výpočet je prostě: 36*36*36*36 neboli 36^4
+
+Fakt nevím, co se tou rovnicí snažíš dokázat. Možná to řešíš zbytečně složitě.
+ _D_e_m_o_n_i_z_e_d_ _M_i_n_d [Muž]28 [Kategorie]
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+

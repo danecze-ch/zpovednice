@@ -1,0 +1,213 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+Zpověď č.915249, vloženo 01.01.2016 23: _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+17:15                                   _s_t_r_á_n_k_a_]
+ASIO4ALL
+Ahoj, mam FL Studio a potřeboval bych poradit.
+V nastavení Audia, je na výber ASIO4ALL a FL Studio ASIO...
+To FL Studio ASIO co jsem se dočetl, je něco novýho.
+Nevíte jaký je mezi tím rozdíl a co vytváří kvalitnější zvuk ? Mě osobně
+přijde poslechově kvalitnější ASIO4ALL.
+Jestli tady tomu někdo rozumíte :D
+ Býýtmejkr [Muž]20  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+02.01.2016 11:53:03
+Me jde spis o to, podle ktrreho mam delas mastering :)
+ Býýtmejkr
+02.01.2016 02:31:47
+Pokud vim, tak ASIO nema zadny vliv na vysledny render. Hodi se to na snizeni
+latence, kdyz chces skladat live za pomoci keyboardu, nebo klavesnice.
+
+Osobne jsem vzdy pouzival ASIO4ALL a nemenil bych, proste proto, ze to funguje
+tak jak ma a nijak jinak to ani fungovat nema a nemuze. Nema cenu zkouset neco
+jineho.
+[Smajlík] [Muž]28 [Kategorie]
+ _3_7_1_0_P_1
+02.01.2016 01:27:27
+Takže která možnost je podle tebe nejlepší ? Já mam na výber ASIO4ALL a FL
+ASIO..
+Moje zvukovka asio nepodporuje
+ Býýtmejkr
+02.01.2016 01:24:00
+Celé FL studio je použitelné jen se zvukovou kartou podporující ASIO. ASIO4ALL
+je jen ubohá nahrážka, která stejně nezvládá přehrát zvuk v dobré latenci.
+Pokud máš k dispozici nativní ASIO, použij ho, jinak si pořiď kartu
+podporující ASIO.
+ _N_T_N [Muž]28 [Kategorie]
+02.01.2016 01:06:58
+A s ASIO4ALL neslyším ostatní zvuky z Windows :D
+ Býýtmejkr
+02.01.2016 01:04:38
+Původně ASIO4ALL znělo lépe a FL ASIO hůř....měl jsem zapnuté efekty
+Teď když je mam vyplé, tak zní oboje jako původní ASIO4ALL
+ Býýtmejkr
+02.01.2016 01:03:24
+Nemělo, ne? Aspoň já to celou dobu chápu tak, jak to píšeš teď.
+
+Každopádně je nech vyplý. K produkci vylepšováky zvuku prostě nepatří, stejně
+jako k ní nepatří konzumní bedničky se zkreslením výšek a basů apod.
+ _N_e_v_n_í_m_á_m_ _r_e_a_l_i_t_u [Muž]88 [Kategorie]
+02.01.2016 01:02:27
+Dobře, ale mě právě ASIO4ALL znělo lépe.
+ Býýtmejkr
+02.01.2016 01:01:43
+Je to jedno, ale používal bych ASIO4ALL, dokud bych neměl ověřenou informaci o
+tom, že ten jejich experiment vyšel a funguje správně ve všech ohledech.
+ _N_e_v_n_í_m_á_m_ _r_e_a_l_i_t_u [Muž]88 [Kategorie]
+02.01.2016 01:01:07
+Teď jsem zkusil opět zapnout efekty, a celkovej zvuk zní hůř bez ASIO4ALL...
+přitom by to mělo být naopak, tak už jsem z toho jelen
+ Býýtmejkr
+02.01.2016 00:58:13
+Jo, už rozdíl neslyšim :) Takže pokud jsou obě stejné, je lepší dělat
+mastering na ASI4ALL ? :) Nebo je to jedno ?
+ Býýtmejkr
+02.01.2016 00:54:16
+No prostě nesmí zkreslovat zvuk, jinak je fajn.
+
+Takže bych hledal všude, kde to jde. V ovladačích zvukovky i ve windowsáckých
+nastaveních bych proklikal vše, co najdu a povypínal všechny efekty. Dokud je
+tam nějakej rozdíl, tak máš někde chybku. Na dálku ti s tim bohužel už víc
+nepomůžu.
+ _N_e_v_n_í_m_á_m_ _r_e_a_l_i_t_u [Muž]88 [Kategorie]
+02.01.2016 00:51:57
+Už to vidim..žádný nejsou nastavený
+ Býýtmejkr
+02.01.2016 00:51:07
+Jinak o žádných efektech neni v nastavení ani zmínka
+ Býýtmejkr
+02.01.2016 00:50:07
+OK díky :) Takže ASIO4ALL mi je k ničemu
+ Býýtmejkr
+02.01.2016 00:48:49
+Tak ti řikám, že musíš používat tu, kde to zní hůř, jinak pracuješ se
+zkreslením a po exportu nebudeš chápat, co se stalo.
+ _N_e_v_n_í_m_á_m_ _r_e_a_l_i_t_u [Muž]88 [Kategorie]
+02.01.2016 00:47:21
+Ano, ale když budu dělat mastering, tak by to v obou variantách vyšlo jinak
+ Býýtmejkr
+02.01.2016 00:42:41
+Prostě jde o to, že po renderu to stejně bude znít tak, jako to zní z toho, co
+ti zní hůř. Takže to, že ti to z jednoho zní líp, je ti totálně k ničemu.
+Proto se ti snažim říct, abys ty efekty na zvuk ve windows vypnul. Pohrab se v
+nastavení zvuku (repráček vpravo dole u hodin snad najdeš) a dej tam zákaz
+všech efektů.
+[Smajlík]         [Muž]88 [Kategorie]
+ _N_e_v_n_í_m_á_m_ _r_e_a_l_i_t_u
+02.01.2016 00:38:07
+Já pořád nerozumim, co je teda lepší.
+ Býýtmejkr
+02.01.2016 00:37:19
+Efekty ?
+ Býýtmejkr
+02.01.2016 00:26:20
+Ne, jde o to, že máš nastavený ve windows různý efekty navíc, který v tom ASIO
+slyšet jsou a v tom druhym ne, jestli to dobře vidim. Takže nastavení, který
+je potřeba změnit, neni u těch driverů, ale jinde. A máš tam i obrázky na tom
+linku, co tam je někde v prvnim příspěvku.
+ _N_e_v_n_í_m_á_m_ _r_e_a_l_i_t_u [Muž]88 [Kategorie]
+02.01.2016 00:23:45
+Ocenuju pomoc, ale s mýma znalostma angličtiny :D
+Ale jak řikal SechemEmPet, neměl bych slyšet rozdíl, takže nejspíš nemam
+ASIO4ALL nastavený
+ Býýtmejkr
+02.01.2016 00:10:55
+Aha, už to mám... Já totiž nikdy neměl zapnutý žádný efekty ve windows. Pokud
+to nima jeden driver projede a druhej ne, tak to vše vysvětluje.
+
+Zkus tohle:
+_h_t_t_p_:_/_/_t_i_n_y_u_r_l_._c_o_m_/_p_h_n_e_l_6_r_ 
+
+Tak samozřejmě to musí znít dobře bez těch efektů... Render je nebere v úvahu.
+ _N_e_v_n_í_m_á_m_ _r_e_a_l_i_t_u [Muž]88 [Kategorie]
+02.01.2016 00:02:48
+Tak to je zvláštní, já tam slyšim celkem výraznej rozdíl. Ten zvuk s ASIO4ALL
+mam o dost lepší
+ Býýtmejkr
+02.01.2016 00:00:58
+Nikdy jsem neslyšel rozdíl mezi ASIO4ALL a něčim jinym, pokud bylo stejný
+nastavení vzorkovací frekvence, bitový hloubky a počtu kanálů. Neni tam žádnej
+jinej parametr, kterej by mohl něco ovlivnit.
+ _N_e_v_n_í_m_á_m_ _r_e_a_l_i_t_u [Muž]88 [Kategorie]
+01.01.2016 23:59:48
+Okey :)
+ Býýtmejkr
+01.01.2016 23:57:51
+Napíš mi na profil zajtra sa ti ozvem a všetko ti vysvetlím je to celkom
+jednoduché.Mám malé štúdio a som v tom zbehnutý,poriešime to za pár minút.
+[Smajlík]    [Muž]85 [Kategorie]
+ _S_e_c_h_e_m_E_m_P_e_t
+01.01.2016 23:53:34
+Tak po větě "Samozrejme ich musíš mať nainštalované a nakonfigurované", začla
+moje noční můra, páč jsem v tomhle jelito a budu to dělat rok :D
+Jiank věci co jsem dosud složil byli dělané přes FL ASIO a zvuk v klubu nebyl
+zlý.
+ Býýtmejkr
+01.01.2016 23:41:13
+Jedná sa o ovládače zvukovej karty.Za normálnych okolností by si mal ísť cez
+ASIO,pokial tvoja zvuková karta ASIO nepodporuje zvol ASIO4ALL.Samozrejme ich
+musíš mať nainštalované a nakonfigurované,myslím si že ich ani nemáš
+nainštalované prípadne si ich zle nastavil kedže cítiš medzi nimi rozdiel
+jedine že by to bolo placebo :D.ASIO je nutnosť ak sa chceš tomu venovať
+seriózne.ASIO pocítiš hlavne pri live skladaní keď zapojíš keyboard
+master,windowsácke drivery sú totož pribrzdené a odozva je otrasná.
+ _S_e_c_h_e_m_E_m_P_e_t [Muž]85 [Kategorie]
+01.01.2016 23:28:53
+Jde mi hlavně o to, když budu skládat a pak dělat mastering... Podle čeho je
+lepší dělat mastering
+Podle mě logicky přes ASIO4ALL
+ Býýtmejkr
+01.01.2016 23:22:41
+No ale ovlivňuje to kvalitu generovanýho zvuku ne ? :) Pokud budu ukládat
+tvorbu, tak by měl být vytvořená nahrávka lepší.
+ Býýtmejkr
+01.01.2016 23:20:58
+FL Studio jsem nikdy nepoužíval, ale ASIO4ALL bych věřil víc, než čemukoliv z
+fruity.
+
+Jinak se zvukem by to nemělo mít moc společnýho, pokud tam neni jiný nastavení
+(v Hz, bit...), jen s odezvou. A tu odezvu by to mělo rovnou ukazovat. Jestli
+má ASIO4ALL menší, tak už neni co řešit (a pokud nemá, tak bych se divil).
+[Smajlík]         [Muž]88 [Kategorie]
+ _N_e_v_n_í_m_á_m_ _r_e_a_l_i_t_u
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+
