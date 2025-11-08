@@ -1,0 +1,167 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+   Otázky - Vzkazy č.851205, vloženo _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+   30.12.2014 22:52:59               _s_t_r_á_n_k_a_]
+   Potřebuji pomoct s nastavením biosu
+   Mám následující problém vytáhl sem z notebooku harddisk, dal jej do
+   stolního pc udělal zálohu nabootoval a upravil oddíl na NTFS sformátoval
+   a nainstaloval na něj windows 7 pak jej zase spátky dal do notebooku ale
+   nemužu nastavit bootovaní ... protože se nemužu dostat do biosu do biosu
+   sem se předtím dostal pomocí nastavení ve windows .. ale bios ted nezná
+   pořádí hdd potřebuju upravit bootovací jednotku jak se dostanu do biosu
+   ?? F1 -F12 nic nejde ani DEL
+    _u_n_g_l_a_u_b_l_i_c_h_e [Muž]23 [Kategorie]  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+31.12.2014 15:41:08
+Nějak ti vůbec nerozumím. Ještě jsem nikdy neslyšel o tom že by někdo
+přistupoval do BIOSu přes Windows. BIOS je samostaný program nahraný odděleně
+na čipu CMOS, tak asi těžko se k němu bude přistupovat přes Windows když ti
+počítač ještě nenabootoval. Obvykle se mačká některá z kláves delete, F2, F12
+nebo tak nějak a někdy můžeš použít F11 k nabootování.
+ Hejtman
+31.12.2014 09:08:19
+Dr. Ruffus to jsi hodne levnej. Uz pred 10 lety si radoby IT technici brali
+500/hod.Ted to bude tak litrik/hod
+
+Navic pises, ze vyjizdis, takze si nezapomen nechat k hodinove sazbe proplatit
+i cestovne + diety.
+ ajtak amater
+30.12.2014 23:53:25
+i kdyby bios neznal poradi bootovani, tak bere dle poradi od 1 do n. tzn, ze
+pokud mas na prvem disk, tak ti pusti disk.. pokud mechaniku, tak zkontroluje
+jestli tam mas bootovaci cd a pote preskoci na druhou pozici a pokud tam mas
+disk, tak se bootne disk..
+
+jenze ty si nainstaloval operacni system na stolnim a vlozil do notase, se
+nediv, ze se ti OS nespusti.. ti to hodi modrou obrazovku, nebo se to vubec
+neodstartuje.
+
+tenhle postup muze fungovat kdyz disk prendas do jineho nejlepe podobneho
+notase, premazes winy a hodis disk z5.. mel si to proste dat do stolniho,
+udelat zalohu a cakknout z5 a premazat v notasu.
+
+na desce u pameti mas 2 kontakty na desce , kdyz je zkratujes a pri tom pustis
+notas, tak komplet resetnes bios poradne. nektere ntb maj lepsi ochranu a
+nektere casti biosu se neresetujou baterkou.. osobne sem to nekomu musel
+udelat, protoze si tam nastavil na bios heslo a neslo ani resetnout ani
+baterii kdyz sem vyndal.. nasel jsem tenhle postup na google.. jenze tyhle
+piny vedou k urcitemu integrovanemu obvodu a jinym typem ntb se muzou piny
+lisit.. tyhle merici body a ochcavky jsou vyrobcem predpripravene pro
+servisaky.
+
+nevim co mas za typ ntb.. zkus najit cim se dostavas do biosu a zkus to mackat
+furt dokola pri zapnuti ntb..
+ _l_i_x_i_q [Muž]25 [Kategorie]
+30.12.2014 23:26:34
+Svůj příspěvek jsi vložil(a) do nespravné kategorie. Bylo provedeno přesunutí.
+V případě opakování hrozí blokování vstupu na portál. Prosím zvol příště
+správnou kategorii. Děkujeme za pochopení.
+[Smajlík]      [Muž] [Kategorie]
+ _A_d_m_i_n_i_s_t_r_á_t_o_r
+30.12.2014 23:09:46
+seru se stím od pul desáte od rána problém byl takovej že jsem ráno najel do
+biosu pomocí win 8
+On systems with Windows 8 pre-installed, you can access the UEFI (BIOS) setup
+screens from the Windows 8 boot menu:
+1.Press the Windows () key + C, or swipe in from the right edge of the screen
+to open your Charms.
+2.Click Settings.
+3.Click Change PC Settings.
+4.In PC Settings, select General.
+5.Under Advanced startup, click Restart now. The system will restart and show
+the Windows 8 boot menu.
+6.In the boot menu, select Troubleshoot.
+7.In the Troubleshoot menu, select Advanced options.
+8.In the Advanced options menu, select UEFI Firmware Settings.
+9.Click Restart to restart the system and enter UEFI (BIOS).
+The Windows 8 boot menu will also show automatically after Windows 8 fails to
+start successfully three times
+
+
+a potom jsem nastavil bootovací jednotky podel toho jak sem potřeboval pěkne z
+USB flash disku jsem najel do Partition recovery a zformátoval hdd změnil
+formát na NTFS a potom instal win 7 ted tam je ale při prvním restartu mi to
+napsalo nenalezen oprrační system pokusil jsem se dostat do biosu pomocí F2
+nebo change boot priority F12 ale již nereagovalo nic usoudil jsem že je to
+tím že sem tolikrát dnes v biosu byl atd že uděám reset tak sjem vymontoval z
+notebooku zkaladní desku vydělal baterku na bios a bylo zapnu pc s nadějí že
+už jen najedu do boot manageru a vyberu jako prmární jednotku hdd s win 7
+bohužel se mi po vysunutí baterie bios opět nastavil na UEFI nebo jak se ten
+nesmysle menuje pro win 8 a nemužu najet do biosu proste to nejde nedostanu
+ani nabídku z čeho chci bootovat ale win 7 prostě nenajede,,, seru se stím od
+pul 11 od rána rozebral jsem i svuj notebbok protože sem zrovna nememl externí
+hdd pro zalohu 400 gb dat nicmene zalohované to mam jen ten nastavt
+konfiguraci biosu do ketreho se nemohu dostat tak me napadlo jestli neexistuje
+neco co stáhnu na flash disk a okamžitě mi to zpřístupní bios... nebo jej to
+nastavví na NE UEFI ...
+ _u_n_g_l_a_u_b_l_i_c_h_e [Muž]23 [Kategorie]
+30.12.2014 23:02:15
+MS-fanousek :
+
+..je to malo vid,ja vim, holce bych dal slevu D
+..no a jeste nocni pohotovostni priplatek sem zapomnel vidis D
+ _D_r_ _R_u_f_f_u_s [Muž]29 [Kategorie]
+30.12.2014 23:01:57
+Ruffuse ber, má za hodinu míň jak holka na E55. A když ho ukecáš, tak to máš
+jasný. A ser na nějakej bios, nebo co to jde. Tady to bude BIO.
+[Smajlík] [Muž]99 [Kategorie]
+ _B_R_U_T_U_S_Á_K
+30.12.2014 23:00:01
+Dr Ruffus: ty děláš v noci za takový prachy?
+ _M_S_-_f_a_n_o_u_s_e_k [Muž]50 [Kategorie]
+30.12.2014 22:57:33
+No jednak ti win nenajede, ale bios by měl, resetni ho.
+ _*_h_m_m_m_m_* [Muž]46 [Kategorie]
+30.12.2014 22:57:01
+klávesa esc nejde?
+ _a_r_g_u_m_e_n_t_u_j_e_m_ _r_á_d [Muž]23 [Kategorie]
+30.12.2014 22:56:27
+325kč/hod
+
+Dej adresu a vyjizdim
+[Smajlík]  [Muž]29 [Kategorie]
+ _D_r_ _R_u_f_f_u_s
+30.12.2014 22:55:44
+Tak to seš pěkně v prdeli....
+ _A_r_i_a_1_9_8_8 [Žena]26 [Kategorie]
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+

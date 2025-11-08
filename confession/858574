@@ -1,0 +1,102 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+   Otázky - Vzkazy č.858574, vloženo _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+   06.02.2015 20:17:32               _s_t_r_á_n_k_a_]
+   Čip pro generaci náhodných čísel
+   Ráno jsem se zde ptal na nějakou knížku o eletrotechnice.. (http://
+   zpovednice.cz/detail.php?statusi k=858468&orderby=ide) nakonec jsem si
+   zašel pro "Poznáváme elektroniku" a od oběda četl a četl :) A ptám se,
+   dá se nějak vyřešit generování náhodných čísel čipem/obvodem? Na
+   internetu nemůžu nic najít.. Dík :)
+    RadceNaFinance [Muž]14  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+07.02.2015 00:40:43
+Vezmeš jakýkoliv čip z platební karty položíš na dlaň, zavážeš si oči, nožem
+nebo sekerou
+přez ruku a máš vygenerované náhodné číslo od 1- 6
+[Smajlík]
+ superčipB869
+07.02.2015 00:02:56
+Žádný čip! Vezmeš diodu, pustíš do ní vhodný konstantní proud, a zesiluješ
+šum. Ten pak odečítáš D/A převodníkem. To je téměř dokonalý bílý šum. Ten pak
+matematickými postupy převádíš na náhodná čísla, abys eliminoval systematické
+nepravidelnosti v hodnotách, vliv teploty na hodnoty (nikoliv však jejich
+náhodnost)
+
+Tento generátor má jednu nevýhodu: Je ovlivnitelný silným elektromagnetickým
+polem.
+
+Další generátor, který zatím nikdo fyzikálně ovlivnit neumí, se dá udělat
+pomocí vhodného radioizotopu (ideální jsou beta zářiče, protože detektory
+generují přímo elektrické impulsy, a dají se odstínit od vnějších signálů.)
+Pak měříš přesnými hodinami čas mezi jednotlivými rozpady, a pak jej opět
+převedeš na náhodná čísla s vhodným rozložením.
+
+Pokud zvolíš vysoce aktivní izotop (např. tritium), data půjdou ven rychle.
+Ale generátor sníží svou aktivitu na polovinu každých 10 let. Použiješ-li
+dlouhožijící izotop, takové problémy mít nebudeš, ale generátor bude pomalý.
+ _S_t_a_6_7 [Muž]28 [Kategorie]
+06.02.2015 22:08:19
+obecně potřebuješ něco co generuje pulsy, něco co je počítá a něco co to
+zastaví a přečte číslo
+ _M_S_-_f_a_n_o_u_s_e_k [Muž]50 [Kategorie]
+06.02.2015 21:16:11
+potřebuju nějak vygenerovat číslo 1-6
+ RacdeNaFinance
+06.02.2015 21:14:59
+ata: asi tak 37?
+ Dotaz
+06.02.2015 21:09:55
+Záleží, jak vysokou míru entropie vyžaduješ.
+ ata
+06.02.2015 21:02:24
+Asi ten 555 bazmek by to mohl umet, vygoogli si navod.
+ newbie7890rr
+06.02.2015 20:29:54
+Kybergramotný: Trošku nechápu tvou odpověď..
+ RacdeNaFinance
+06.02.2015 20:20:12
+Za dvě minuty v Excelu...
+[Smajlík]
+ Kybergramotný
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+
