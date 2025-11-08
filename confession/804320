@@ -1,0 +1,192 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+Zpověď č.804320, vloženo 14.05.2014 16: _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+05:52                                   _s_t_r_á_n_k_a_]
+Programovani
+Potřebuju pomoct.
+Máme naprogramovat program, který ze zadaných hodnot udělá graf. Nevím jak na
+to.
+Nejlíp kdyby to bylo v delphi. Prostě se program zeptá např na města potom na
+hodnoty těch měst( např. počet obyvatel) a udělá se graf kde bude svisle název
+těch měst a potom třeba hvězdičkama označená ta hodnota.
+
+Př.
+Praha **********
+Brno *****
+Liberec **
+New York ************************
+
+
+Věděl by někdo ???
+ Programator E-MAIL: _p_r_o_g_r_a_m_a_t_o_r_4_5_6_@_s_e_z_n_a_m_._c_z  [Muž]17  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+14.05.2014 16:52:24
+Programator: nejsou, je to jen o logice :) Když umíš správně použít cykly
+(for, do a while), umíš pracovat s řetězcema, 2D polema a 3D polema,
+podmínkama atd., tak jsi na dobrý cestě, ale základ je umět si to představit,
+jak to bude fungovat a pak to jen přenést do kódu ..., ta logika v tom je
+důležitá :)
+ _Z_b_y_n_a_s_e_k [Muž]29 [Kategorie]
+14.05.2014 16:44:51
+Ty základy jsou těžký jak sviň :D Nějak si neumím představit, kdy budu
+programovat něco větśího než jen počítání nebo stringy :D Asi mě čeká ještě
+hodně dlouhá cesta no :D
+ Programator
+14.05.2014 16:44:12
+Pak napiš, jestli se ti to podařilo rochodit :) Kdyby něco, ptej se :)
+ _Z_b_y_n_a_s_e_k [Muž]29 [Kategorie]
+14.05.2014 16:41:02
+To jsou základy :) Já to mám lehčí v tom, že třeba
+
+debil = get_string("zadejte text") mi vyhodí tabulku, kam uživatel zadá něco a
+to se uloží do té proměnné debil třeba
+
+no a real() dělá to, že mi převede formát proměnné z řetězce na číselný
+řetězec :)
+[Smajlík] [Muž]29 [Kategorie]
+ _Z_b_y_n_a_s_e_k
+14.05.2014 16:38:13
+Wow, díky moc :) Seš borec
+ programator
+14.05.2014 16:34:39
+Tak haleluja, snad nejsi úplně blbej a přepíšeš si to, stačí to fakt převést
+jen do svého jazyka: (Psáno v GML)
+
+// "pocet" a "i" atd. jsou proměnné, kdybys nepochopil
+// "mesto[pocet]" atd. je pole, to snad pobíráš :)
+
+CREATE (prostě, když se spustí program)
+pocet = 0;
+
+ACTION - ENTER (Po reakci na nějakou klávesu)
+pocet += 1; //rozšíříme pole, chápeš?
+mesto[pocet] = real(get_string("Zadejte název města"));
+value[pocet] = real(get_string("Zadejte hodnotu"));
+
+DRAW (Vykreslení - nebo prostě výpis textu)
+
+nejvetsi_hodnota = 0; //aby jsme nastavili zatím nejnižší hodnotu
+
+//ted budeme hledat největší hodnotu v proměnné value
+i = 1; //proč zrovna 1 bys mohl taky pochopit
+while (i <= pocet){
+//bude se opakovat, dokud je i menší nebo rovno pocet
+if (value[i]>nejvetsi_hodnota) nejvetsi_hodnota=value[i];
+//tím jsme přepsali největší hodnotu na ještě větší, pokud existuje
+i += 1;
+} //konec cyklu
+
+
+//ted známe nejvyšší hodnotu, ta bude 10 hvězdiček
+//a tak budeme z toho počítat všechny hodnoty
+//klasická trojčlenka pyčo
+i = 1;
+while (i <= pocet){
+hvezdicek[i] = 10 / nejvetsi_hodnota * value[i];
+//to byla ta trojčelnka
+i += 1;
+} //konec cyklu
+
+//a poslední cyklus, ten výpis
+//tady už si porad, příklad:
+i = 1;
+while (i <= pocet){
+draw_text(x,y,string(mesto[i])+" - "+string(hvezdicek[i]);
+//tím jsem to vypsal takto "Město - 8" třeba
+i += 1;
+} //konec cyklu
+
+
+//pokud to budeme chtít převést to číslo na počet hvězdiček, to snad zvládneš?
+
+//třeba while cyklem
+m = 0;
+while (m < hvezdicek[m]){
+retezec_hvezdicek[m] = string(retezec_hvezdicek[m])+"*";
+m += 1;
+}
+ _Z_b_y_n_a_s_e_k [Muž]29 [Kategorie]
+14.05.2014 16:24:12
+ok, mmt
+ _Z_b_y_n_a_s_e_k [Muž]29 [Kategorie]
+14.05.2014 16:22:20
+To už je jedno, ale musí se ty hvězdičky tam vejít a předpokládat, že ten
+uživatel tam může napsat napsat hodnotu jako 350 a třeba 1000000, to je právě
+na tom to nejtěžší :D
+ programator
+14.05.2014 16:19:40
+Tak ještě odpověz na tamto a jdu na to, ale počítej tak 15 minut, než to můj
+zakrněnej mozek vymyslí :) Teda už mám základ, ještě chvíli :)
+ _Z_b_y_n_a_s_e_k [Muž]29 [Kategorie]
+14.05.2014 16:18:30
+Jo jasný, to ovládám :D to bys byl hodnej :)
+ Programator
+14.05.2014 16:17:56
+A ještě, má se to brát třeba jakože 1 hvězdička = 10 000 obyvatel, nebo prostě
+bude 10 hvězdiček a zbytek se dopočítá podle největší hodnoty, těch 10
+hvězdiček?
+ _Z_b_y_n_a_s_e_k [Muž]29 [Kategorie]
+14.05.2014 16:17:07
+Napíšu ukázku, ale v jazyce, který by ti fakt neprošel, ale ty už to přepíšeš
+do svého, to není těžké :) Předpokládám, že základní funkce v tvém jazyce,
+jako je získání hodnoty od uživatele, vypsání textu a while cyklus znáš? :)
+ _Z_b_y_n_a_s_e_k [Muž]29 [Kategorie]
+14.05.2014 16:14:19
+Jo budu k tomu muset dělat prezentaci a ukazovat i zdroják :-/ Já bych to asi
+nějak naprogramoval, ale za boha nemůžu přijít na to jak tu hodnotu převést na
+ty hvězdičky :D
+ programator
+14.05.2014 16:12:08
+Zeptám se jinak, chtějí vidět kód, nebo hotový program? Budeš muset říct, v
+čem jsi to naprogramoval?
+ _Z_b_y_n_a_s_e_k [Muž]29 [Kategorie]
+14.05.2014 16:11:15
+Jak to myslíš ?? Jsem programátor začátečník a žádné pokoročilejší funkce bych
+neměl ovládat, nejlíp by bylo, kdyby se to dalo nějak přes řetězce a větvení
+no :-/
+ programator
+14.05.2014 16:08:17
+Jo, ale můžeš použít k tomu cokoliv, co ti nakonec hodí exáč? :) Pak bych
+věděl.
+ _Z_b_y_n_a_s_e_k [Muž]29 [Kategorie]
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+

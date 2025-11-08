@@ -1,0 +1,156 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+Diskuze č.804120, vloženo 13.05.2014 16: _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+06:05                                    _s_t_r_á_n_k_a_]
+Věřit člověku nebo počítači?
+Mě tak napadá, proč člověk víc věří člověku než stroji? Nedávno jsem viděl
+dokument o tom jak se v roce 2002 nad Německem srazily dvě letadla. Přitom
+kdyby piloti dělali podle toho co na křičely přístroje a ne podle dispečera co
+jim říkal přesný opak, tak by se bezpečně vyhnuli.
+
+Já vždycky říkám, člověk je tvor omylný, zapomnětlivý. Člověk snadno na něco
+zapomene nebo splete, ale správně naprogramovaný počítač se nikdy nesplete,
+neopomene něco nebo se o něčem zapomene zmínit.
+ to je otázka [Muž]20  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+14.05.2014 18:58:21
+MS-fanousek: To, co popisuješ, není ovšem selhání programu, ale selhání
+hardware.
+
+To je často ještě zákeřnější. Třeba jsem se setkal s pamětí RAM s vadnou
+buňkou. Ale ne jen tak obyčejně vadnou. S buňkou vadnou tak, že když je její
+hodnota 1, a ve všech ostatních buňkách okolo jsou nuly, tak se ta vadná buňka
+také vynuluje.
+
+Obyčejný test paměti chybu nenašel. Dokonce i software na tom stroji dlouho
+běžel bez problémů. Akorát za určitých speciálních podmínek se ta chyba
+projevila jako poškození souboru na disku.
+
+Až teprve pokročilý test paměti tu chybu po několika hodinách testování
+různých kombinací nul a jedniček našel. Běžný uživatel by asi místo toho
+vyměnil disk, a divil by se, že se závada opakuje.
+ _S_t_a_6_7 [Muž]28 [Kategorie]
+14.05.2014 09:18:05
+Mluvíš o té nehodě, jak řídídí provozu říkal pokyny "stupuej"/"klesej" opačně,
+než TCAS? Takže by stačilo, aby obě letadla poslouchala totéž?
+A dokonce TCAS byl na tu variantu připravenej a když jeden pilot dělal opak,
+tak pokyny prohodil (a problém byl, že stejně prohodil pokyny i řídící)?
+To snad byl problém v tom, že letecké předpisy nedefinovaly, koho poslechnout.
+Dneska piloti ví, že TCAS.
+
+Jak říká Sta67 i cmos, stroje taky můžou udělat problém.
+ Trol
+13.05.2014 22:29:48
+Hmm, a co ty situace (stalo se to v USA i SSSR) někdy kolem 60., 70. roku, kdy
+počítač ohlásil mezikontinentální střely protivníka a obsluze "napadeného"
+státu zbývalo pár minut na rozhodnutí o (nukleárním) protiútoku?
+
+Kdyby se v té době spoléhali na počítače, tak už jsem tu možná nebyli. Tenhle
+omyl se stal dokonce několikrát. Nevím jaké byly příčiny u ostatních, ale v
+jednom konkrétním případě šlo o "špatný" odraz slunečních paprsků na nějaké
+detekční čidlo.
+ _c_m_o_s [Muž]36 [Kategorie]
+13.05.2014 17:39:30
+No jasně, počítač se zaviruje nebo zkratuje a jsi v prdeli. :D
+[Smajlík]     [Žena]24 [Kategorie]
+ _X_C_r_a_z_y_S_l_i_m_e_X
+13.05.2014 17:25:02
+Víš, kolik neodhalených chyb zůstane i v otestovaných systémech jenom proto,
+že daná kombinace vstupních parametrů nikoho nenapadla?
+
+Již jsem opravoval několik softwarových chyb (často potenciálně fatálních),
+které v poklidu číhaly v kódu třeba dvacet let, než někdo splnil podmínky, při
+nichž to selže.
+
+Jednu podobnou chybu jste mohli vidět před 2 lety v MHD: Systémy ukazovaly o
+hodinu špatně. Algoritmus, který počítal datum přechodu na letní čas, byl
+špatně napsaný. Projevilo se to pouze tehdy, když:
+- Poslední neděle v měsíci, kdy přechod probíhá, byla přesně 7 dnů před prvním
+následujícího měsíce.
+- A pokud byl zároveň přestupný rok.
+ _S_t_a_6_7 [Muž]28 [Kategorie]
+13.05.2014 16:44:31
+MS-fanousek : To je sice hezké, ale z hlediska pravděpodobnosti je na tom furt
+líp než člověk, protože člověk nejenom, že selže častěji, ale navíc v případě,
+že neselže, to neudělá úplně správně, zatímco program ano.
+
+Plus jsem psal, že by ten program měl kontrolovat člověk (pro případ, že z
+jakéhokoliv důvodu selže).
+ _p_*_r_*_a_*_s_*_e_*_z_*_l_*_e_*_s_*_a [Muž]22 [Kategorie]
+13.05.2014 16:42:39
+p*r*a*s*e*z*l*e*s*a: bavíme se o tom, že i 1000x vyzkoušený program může
+selhat, když zrovna ve vedlejší místnoti zapnej bojler nebo sekretářka otevře
+ledničku pod kterou někdo inteligentně umístil spojku na koax.
+ _M_S_-_f_a_n_o_u_s_e_k [Muž]50 [Kategorie]
+13.05.2014 16:33:26
+MS-fanousek : Cestiček k čemu? Myslíš k napadení programu? O tom se tu snad
+vůbec nebavíme, bavíme se o tom, jak člověk nebo program chybují.
+ _p_*_r_*_a_*_s_*_e_*_z_*_l_*_e_*_s_*_a [Muž]22 [Kategorie]
+13.05.2014 16:32:28
+p*r*a*s*e*z*l*e*s*a: to je teorie. V praxi se ukazuje, že existuje mnoho
+cestiček.
+ _M_S_-_f_a_n_o_u_s_e_k [Muž]50 [Kategorie]
+13.05.2014 16:31:16
+zase jsem to já : A? Ale naprogramuje ho jednou a může to zkontrolovat.
+Nepřipadá ti pravděpodobnější, že udělá chybu spíš v případě, že něco dělá
+víckrát a musí reagovat okamžitě?
+ _p_*_r_*_a_*_s_*_e_*_z_*_l_*_e_*_s_*_a [Muž]22 [Kategorie]
+13.05.2014 16:29:55
+Mystik737 : Ten program se chová furt stejně. Jak je jednou dobře napsaný, tak
+se mu dá věřit. Člověk může být blbě vyspaný, vystrašený, cokoliv. Lidé by
+jenom měli kontrolovat, jestli program nehází nějaké chyby nebo nesmysly.
+ _p_*_r_*_a_*_s_*_e_*_z_*_l_*_e_*_s_*_a [Muž]22 [Kategorie]
+13.05.2014 16:17:26
+Hmm..ale ten počítač naprogramuje zase jen "ten" člověk.
+ _z_a_s_e_ _j_s_e_m_ _t_o_ _j_á [Žena]44 [Kategorie]
+13.05.2014 16:17:17
+to mi pripomnelo vtip o promoci u informatiku, kdy se, po proslovu o
+dulezitosti a odpovednosti sveho oboru, prihlasil pouze jediny novopeceny
+inzenyr, ze by vstoupil do letadla, pro ktery sam programoval software,
+protoze si byl jisty, ze by se ani neodlepilo od zeme
+ _f_o_r_d_m_u_s_t_a_c_h_e [Muž]99 [Kategorie]
+13.05.2014 16:09:02
+Problém je, že chyba může být už v samotném programu!!!
+[Smajlík]  [Muž]25 [Kategorie]
+ _M_y_s_t_i_k_7_3_7
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+

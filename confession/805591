@@ -1,0 +1,226 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+Zpověď č.805591, vloženo 19.05.2014 23: _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+33:23                                   _s_t_r_á_n_k_a_]
+neštěstí s PC:( budu celou noc na tom a
+a stejnak to nevyřeším bych to viděl:(
+Mám OS Windows 7 Ultimate 64bit! orig. kopie rok 2009 a nikdy jsem s ním neměl
+problém. Mnohokrát jsem instaloval na nějaký disk tento systém a pak provedl
+aktualizace a všechno bylo ok:)
+Jenže nedávno se mi stala taková věc.
+Zapínám PC a ve správě zpouštění systému čtu, že se pc zpouští s pamětí ram
+3GB a něco ale vždy jsem to měl na max tj. 4096 MB
+Tak kouknu na vlastnosti a co nevidím! Nainstalovaná paměť 4GB použitelné 3...
+64bit systém ale zůstává a stejně nic.
+Po pár dnech jsem se do toho pustil a teď jsem si již nainstaloval os na novo
+a hned po nainstalování zase čtu, že mám použitelných 3 GB ram a přitom jsem
+instaloval 64bit který tu i pochopitelně mám.
+No, zkoušel jsem se dívat i do biosu a vše nastaveno normálně, zkoušel jsem se
+podívat na fyzický stav pamětí ram a ok a zkoušel jsem je i několikrát
+vyndávat a zandávat, protože to někomu dle diskuze pomohlo.
+bios mám nejnovější verzi ale ne od teď ale už dávno....
+Nevím co s tím asi mi z toho jebne.
+Mám tu aktualizace kterých ještě bude tak na celej den práce v kuse a pak
+potřebuju nějak vyřešit tu ram paměť protože je to fakt divný protože těch 3GB
+ram pracujou asi divně, když mi PC běží rychlostí jak 386 nebo co to tehdy
+vlastně bylo:D
+A to jsem vám ješte neřekl, že mám grafiku optimalizovanou na výkon. Teda co
+to kecám. PC mám optimallizovaný na výkon, takže to tu mám bez grafických
+efektů celkově a stejně se to občas hryzne a někdy mi i zbělá monitor a já se
+minutu modlím aby to nespadlo. I toto okno jsem měl už párkrát jako zastavený
+procesor i jako neodpovídá...
+Asi mi z toho jebne ale proč proboha mám v os 64bit NA NOVO INSTALOVANÝ!!!
+OMEZENOU PAMĚŤ NA 3GB KDYŽ JE TO ZÁROVEN PLNÁ ORIG. VERZE?????????
+PS SPÁT DNES NEJDU ALE ODPOVÍDAT TU NEBUDU MOC SCHOPEN....... Vlastně budu ale
+hodně pomalu
+ neštastnýpckluka [Muž]20  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+05.11.2016 06:11:01
+zde je návod :
+_h_t_t_p_s_:_/_/_s_u_p_p_o_r_t_._m_i_c_r_o_s_o_f_t_._c_o_m_/_c_s_-_c_z_/_k_b_/_9_7_8_6_1_0
+ ric
+20.05.2014 08:42:19
+no tak kecu tady mate vsichni milion, screenshoty z "vlastnosti" (kdovi co to
+je) ale poradit nikdo neumi.
+
+Jednoduse - odpojit periferie a zbytecny hardware, nabootovat jiny os a projet
+memtestem. Memtest staci nechat jet tak hodinu a budes vedet na cem si. Pak
+reklamovat pamet nebo desku. Nebo oboje.
+ newbie7890rr45
+20.05.2014 08:15:52
+Vytáhni jednu paměť zapni pc podívej se do biosu na časování a údaje o paměti,
+najeď do windowsu zkontroluj si údaje biosu s windowsem, to samé proveď u
+druhé paměti, pokud se údaje budou lišit, vezmi paměti třeba ke kamarádovi a
+otestuj je u něj. Rovněž bych se podíval na specifické údaje od výrobce na
+základní desku, zda-li přesně tento typ pamětí podporuje tím mám na mysli
+přímo číslo, takové číslo hledej (typ modulu Kingston - KHX1600C9D3/4G)
+ lustig
+20.05.2014 07:33:23
+Tak pokud ti to před tím běžělo normálně a pak to začalo dělat kraviny, tak ti
+mohlo něco odejít, zkus to rozběhnout jen s jednou ramkou. Pokud to bude stále
+pomalý, tak je zkus vysřídat (a třeba vystřídat i sloty)
+ _m_a_l_i_č_k_e_j [Muž]27 [Kategorie]
+20.05.2014 01:50:42
+ghjk: Já vím ale s PC tu taky hodně lidí dle mne dělá a věděli by nějakej typ
+třeba...
+Každopádně mám časování furt na 8.8.8.20 a mělo by to být 9.9.9.24 a frekvence
+v těch programech myslím je údaj na jaký frekvenci to zrovna běží, takže při
+zatížení by to mohlo vypadat normálně ale jako fyzická paměť 3 GB když jsem s
+tím nikdy neměl problém? Nebo alespoň ne na dlouho? Tak to mě poser:(:D
+ neštastnýpckluka
+20.05.2014 01:35:20
+zkus se podívat raději na forum zaměřené spíš na peoblémy s PC zde těžko
+najdeš někoho, kdo ti bude schopen poradit ohleně PC ... toto je spíš poradna
+jak se chovat co si myslet a co nedělat v životě né s PC
+ ghjk
+20.05.2014 01:19:54
+Ještě dvakrát mi to někde vypíše 3GB fyzická a rosekám to tady všechno jako
+válec na simsona za 1560kč zajetý asi 25km:DD Škoda že tady na to nemám sekeru
+s kterou se ten válec potkal:D
+ neštastnýpckluka
+20.05.2014 01:16:25
+Jako co to má být? Dodělal jsem aktualizace, tak jsem si skočil do biosu,
+zadal si časování ručně a teď si to vyjedu a furt to samé? vtf?
+RAM
+Memory slots
+Total memory slots 4
+Used memory slots 2
+Free memory slots 2
+Memory
+Type DDR3
+Size 4096 MBytes
+Channels # Dual
+DRAM Frequency 544,0 MHz
+CAS# Latency (CL) 8 clocks
+RAS# to CAS# Delay (tRCD) 8 clocks
+RAS# Precharge (tRP) 8 clocks
+Cycle Time (tRAS) 20 clocks
+Command Rate (CR) 2T
+Physical Memory
+Memory Usage 49 %
+Total Physical 3,00 GB
+Available Physical 1,52 GB
+Total Virtual 12 GB
+Available Virtual 10 GB
+SPD
+Number Of SPD Modules 2
+Slot #1
+Slot #2
+ neštastnýpckluka
+20.05.2014 00:55:46
+nic
+ asdfsdfsdf
+20.05.2014 00:42:43
+třeba tady _w_w_w_._s_u_n_t_e_c_h_._c_z_/_p_r_o_d_u_k_t_/_1_1_2_8_0_7_-_e_v_o_l_v_e_o_-_z_e_p_p_e_l_i_n_-_2_x_2_g_b_-_d_d_r_3_-_1_3_3_3_m_h_z_-
+_c_l_9_-_d_i_m_m_/_ 
+nebo tady _h_t_t_p_:_/_/_w_w_w_._a_l_z_a_._c_z_/_z_e_p_p_e_l_i_n_-_4_g_b_-_k_i_t_-_d_d_r_3_-_1_3_3_3_m_h_z_-_d_1_4_8_2_5_4_._h_t_m
+ neštastnýpckluka
+20.05.2014 00:38:46
+*hmmmm*: Jo jo naprosto všude mi všechno vypíše os 64bit a i vím že jsem ho
+zaškrtnul dát instalovat.... Jinak časování mojich pamětí má být 9.9.9.20
+myslím Najdu je ještě určitě na netu......Počkej chvíli....
+nebo teď jsem prostě našel třeba popisek někde co odpovídá na moje paměti....
+EVOLVEO DDR III 4GB 1333MHz (KIT 2x2GB) EVOLVEO Zeppelin GOLD (s
+chladičem,box),
+Mám prostě zeppelin 1333MHz zlatý s chladičem z alzy stály něco pod 1000kč:d a
+časování si pamatuju 9.9.9 nebo jak.
+Taky teĎ docela čumím co mi to teda tady jebe:D
+ neštastnýpckluka
+20.05.2014 00:31:43
+Tak frekfence se vždy je podle tej slabší ramky. Máš stejné typy paměti? U
+těch ultimatek sis jistý, že si instul 64bit?
+ _*_h_m_m_m_m_* [Muž]46 [Kategorie]
+20.05.2014 00:20:18
+Masemeno Nasaku: Jasně, však říkám, že nechápeš co jsem tím chtěl říct. Jinak
+řečeno, není všechno zlato co se třpití, jako není všechno útok.
+ neštastnýpckluka
+20.05.2014 00:18:36
+4,00GB Dual-Channel DDR3 @ 533MHz (8-8-8-20)
+Masakr:D Asi mi něco v PC fejkuje, protože ta frekvence pamětí je vtipná a
+časování s biosem taky nesouhlasí:D
+ neštastnýpckluka
+20.05.2014 00:10:41
+Není to nemoc. Jen chci říct, že Zpovědnice je tady od něčeho jiného. A svůj
+tón si odpusť mladej, nemusíš tady být, když se ti nelíbí uživatelé.
+ _M_a_s_e_m_e_n_o_ _N_a_s_a_k_u [Muž]23 [Kategorie]
+20.05.2014 00:09:50
+No třebas to je fuk, ale možná stahni "speecy" vajede to komplet nastavení a
+konfiguraci.
+ _*_h_m_m_m_m_* [Muž]46 [Kategorie]
+20.05.2014 00:07:16
+Masemeno Nasaku: No jde vidět, že si nepochopil co jsem chtěl tím říct. Ale to
+už je vaše egojistická nemoc tady na zpovědnici bych to tak viděl.
+*hmmmm*: Myslíš nejlíp Ovládací panelySystém a zabezpečeníSystém?
+teď ale leda fotku monitoru foťákem v ruce a dát to někam na nahraj soubor či
+tak....
+ neštastnýpckluka
+20.05.2014 00:01:33
+Hoď někam screen z vlastností.
+ _*_h_m_m_m_m_* [Muž]46 [Kategorie]
+20.05.2014 00:00:53
+A každej nesračka dá ajťácký problém na Zpovědnici...
+ _M_a_s_e_m_e_n_o_ _N_a_s_a_k_u [Muž]23 [Kategorie]
+19.05.2014 23:59:59
+Záhádná deska. Mě třeba deska podporuje zapnout najednou integrovanou i
+externí grafu. Ale těžce pochybuju, že by integrovaná vzala 1gb ramek.
+ _*_h_m_m_m_m_* [Muž]46 [Kategorie]
+19.05.2014 23:57:35
+Masemeno Nasaku:To umí každej debil stejně jako místo toho se snažit něco
+vyrobit, dokázat, tak to raději jít koupit že? sračky tito lidé!
+Nespavec2: To spíše se základkou, protože v biosu mám ram 4096ok....
+chytrolín: Tady problém nebude:(
+ neštastnýpckluka
+19.05.2014 23:49:01
+Kup si raději nový počítač...
+[Smajlík]        [Muž]23 [Kategorie]
+ _M_a_s_e_m_e_n_o_ _N_a_s_a_k_u
+19.05.2014 23:42:14
+ja bych tusil HW problem s pametovymi moduly nebo xakl.deskou. Zkus si pujcit
+jinou pamet.
+ Nespavec2
+19.05.2014 23:36:30
+nejspíš si ty widle nainstaloval na komp s integrovanou grafikou a ta kus ram
+schroustá.
+[Smajlík]
+ chytrolín
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+
