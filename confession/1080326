@@ -1,0 +1,182 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+   Otázky - Vzkazy č.1080326, vloženo _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+   05.12.2018 17:43:36                _s_t_r_á_n_k_a_]
+   Konvexnosť, konkavnost, inflexne body
+   Najprv sa pokúsim zhrnúť ako sa zisťujú infexné body ( body obratu) a
+   následne pomocou nich konvexnosť (zrýchlenie ekonomiky) a konkavnost
+   ( spomalenie ekonomiky):
+   Najprv je potrebné zistiť prvú deriváciu danej funkcie. Tá sa zisťuje
+   podľa určitých vzorcov. Po zderivovani funkcie, treba z prvej derivácie
+   zistiť druhú deriváciu tak že zderivovanu funkciu opäť zderivujem podľa
+   tých istých vzorcov. Ak už mám druhú deriváciu funkcie, musím zistiť jej
+   inflexne body ( body obratu), ktoré poukazujú na to v ktorom bode sa
+   zmenila funkcia z konkavnej na konvexnu alebo naopak.
+   Zistím všetky inflexne body a potom si nacrtnem ciselnu os, na ktorej
+   tieto body zaznačim a tym si predelím definicny obor (D(f)) funkcie na
+   časti. Ak má napríklad funkcia len jeden inflexny bod, tak definicny obor
+   všetkých reálnych čísel sa predeli na dve časti. Prvá časť je od mínus
+   nekonečno pod inflexny bod a druhá časť je od inflexneho bodu po
+   nekonečno.
+
+   Ak by druhá derivácia funkcie bola napríklad:
+   f''(x)=(x2-4) tak body obratu (infexné body) vypočítam takto:
+   (x2-4)=(x-2)(x+2)=0;
+   x - 2 = 0 a x + 2 =0; x(prvý bod obratu) = 2 a x(druhý bod obratu)= -2
+   infexné body (body obratu) : 2;. -2
+
+   Ďalej ak chcem zistiť konvexnosť (zrýchlenie ekonomiky) a konkavnosť
+   ( spomalenie ekonomiky) funkcie tak vypočítam to takto:
+   Na miesto x vo vyraze(funkcii) : (x-2) (x+2) si dosadim ľubovoľne číslo z
+   reálnych čísel(R) ktoré sa nachádza na číselnej osi od mínus nekonečno po
+   -2 (napr. -3) a zistím že: - krát - = +
+   Podľa toho zistím, že výraz je väčší ako 0 ( f''(x)>0) a tak, že na
+   definicnom obore D(f'')= (mínus nekonečno;-2) ekonomika zrýchľuje
+   (funkcia je konvexna)
+   Ďalej si namiesto x dosadim ľubovoľne číslo z reálnych čísel (R) od -2 do
+   2 (napr.1), zistím že:
+   - krát + = - ; (f''(x)<0)
+   Na D(f'')= (-2;2) ekonomika spomaľuje (funkcia je konkavna)
+   Nakoniec si dosadim namiesto x ľubovoľné číslo z R od 2 do nekonečno
+   (napr. 4):
+   + krát + = + ; (f ''(x)>0)
+   Na D(f'') ekonomika zrýchľuje ( funkcia je konvexna)
+
+   A teraz moia otázka: Ako mám zistiť inflexne body z funkcii v ktorých sa
+   nachádza e× ?
+
+
+   f(x)=e× ; D(f)= R
+   Prvá derivácia (podľa vzorca sa e× zderivovane rovná tiež e×, takže
+   e×'=e×):
+   f'(x)=e× ; D(f')= R
+   Druhá derivácia (podľa toho istého vzorca):
+   f''(x)= e× ; D(f'')= R
+
+   Ako mám zistiť body obratu (inflexne body) ktore sa zisťujú takto: e×=0,
+   ak nepoznám hodnotu e?
+
+   Akosi som nepostrehla aby to niekto niekedy objasnil a ani na internete
+   som nejak nenašla zisťovanie inflexnych bodov z funkcií, v ktorých je e×.
+
+
+
+    Matematicka otázka [Žena]20  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+05.12.2018 19:37:16
+Svůj příspěvek jsi vložil(a) do nespravné kategorie. Bylo provedeno přesunutí.
+V případě opakování hrozí blokování vstupu na portál. Prosím zvol příště
+správnou kategorii. Děkujeme za pochopení.
+[Smajlík]      [Muž] [Kategorie]
+ _A_d_m_i_n_i_s_t_r_á_t_o_r
+05.12.2018 19:01:19
+Oprava : f(x)=X2.e-×
+ Matematicka otázka
+05.12.2018 18:59:27
+f(x)=x&#178;e-× vyšetriť konvexnosť, konkavnost a inflexne body
+Napríklad tento príklad mám s ktorým si neviem poradiť.
+ Matematicka otázka
+05.12.2018 18:41:51
+Tak už víš jak na to? Rádo bych šlo už pryč.
+ Matematik
+05.12.2018 18:30:13
+e je konstanta. To se žádné nule nerovná. Nemáš tam raději nějakou konkrétní
+rovnici?
+ Matematik
+05.12.2018 18:22:22
+Ak je druha derivácie funkcie napr. 3 na x-tú=0, upravím rovnicu tak, že ľavú
+a pravú stranu odmocnim x: x- tá odmocnina z 0= 3
+
+Viem , že každá odmocnina z nuly je vždy 0, ale 0 sa nerovná 3 a preto
+neexistuje žiadny inflexny bod pre túto funkciu. Takže ak neexistujú žiadne
+body obratu, celá funkcia na definicnom obore reálnych čísel je buď konvexna
+alebo konkavna. Či je konvexna alebo konkavna zistím tak, že ľubovoľne číslo
+dosadim do vyrazu 3 na x-tú. Napríklad 3 na druhú=9 (+) ; cela funkcia je
+konvexna ( ekonomika zrýchľuje)
+
+Ak mám ale funkciu e×=0 tak mám rovnicu s dvomi neznámymi.
+Môžem dosadzovanim prísť na to, že e×=0 plati iba v prípade, že e=0
+ale potom by pre všetky x bola funkcia vždy rovná 0 a neexistovala by
+konvexnosť ani konkavnost.
+
+Ak by sa e nerovanalo nule , tak neexistovali by žiadne inflexne body pre túto
+funkciu. Ale nedalo by sa ani zistiť či je funkcia konvexna alebo konkavna
+pretože nepoznám hodnotu e.
+
+Preto neviem ako mam postupovať pri funkciách s e×.
+[Smajlík]
+ Matematicka otázka
+05.12.2018 18:21:42
+Musíš si vyjádřit z rovnice x. Osamostatnit ho. e^x = 0, tzn. teoreticky x =
+log e (0). I když tohle je nesmysl, ale jen abys věděla, že to potřebuješ
+zlogaritmovat. Pokud se ptáš právě na tohle. A kalkulačka už to e přepočítá
+sama na čísla.
+ Matematik
+05.12.2018 18:08:06
+Abych to rozvedl, funkce e^x by neměla mít inflexní body, jen v bodě "mínus
+nekonečno", kde se y blíží nule.
+První derivací můžeš zjistit, na jakém intervalu je funkce rostoucí a kde
+klesající. Druhou derivací zjistíš, kdy je první derivace klesající a kdy
+stoupající - a podle toho, jaký je průběh té derivace, lze určit, zda je
+funkce konvexní nebo konkávní na daném intervalu (kdybys sestrojila před
+inflexním bodem, za ním a v něm kolmice, všimneš si, že úhel svíraný s osou x
+napovídá o tom, zda funkce roste nebo klesá - v inflexním bodě bude rovnoběžná
+s osou x, případě kolmosti s osou y tam žádná derivace neexistuje).
+e^x má takový jediný bod právě v mínus nekonečnu, takže na intervalu (mínus
+nekonečno; plus nekonečno) není žádná změna. Jen už si nepamatuju, kdy je
+konkávní a kdy konvexní.
+ Kwisatz
+05.12.2018 18:06:55
+Dej sem celou funkci. Pokud obsahuje ještě něco jiného nex e^x, pak to nejspíš
+půjde.
+ Matematik
+05.12.2018 18:04:13
+Podívej se v grafu na průběh f-ce e^x a zjistíš, že se tam nic z konvexnosti
+na konkávnost ani naopak nemění. Ta funkce nemá inflexní bod.
+ Matematik
+05.12.2018 17:53:05
+Polož si otázku: pro jaká x se e^x rovná nule? V tom x bude řešení.
+Ale pokud se pamatuju dobře, graf e^x takový bod nemá, neboť nemůžeš e
+vynásobit samo sebou tak, aby bylo rovno nule.
+ Kwisatz
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+

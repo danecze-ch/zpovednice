@@ -1,0 +1,138 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+   Otázky - Vzkazy č.1071513, vloženo _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+   14.09.2018 08:10:33                _s_t_r_á_n_k_a_]
+   Podivné vyjádření pravděpodobnosti
+   Ahoj,
+   pokud mám dvě možnosti a jedna z nich je správná, říká se, že mám šanci
+   1:1 jedna ku jedné.
+   Velice často ale narážím třeba na internetu na články, kde se píše třeba,
+   že nějakou nemoc má u nás jeden člověk ze sta a v dalším odstavci se
+   potom objeví, že tedy šance, že tu nemoc máte vy, je 1:100. Což je ale
+   teda špatně, ne? Protože správně by to mělo být 1:99.
+   Zkusila jsem se zeptat pár lidí, jak by vyjádřili jednoprocentní
+   pravděpodobnost tím poměrovým systémem a všichni mi odpověděli bez
+   váhání, že je to přece 1:100.
+   Tak jsem blbá já nebo všichni ostatní?
+    PravděpodobněZmatená [Žena]14  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+14.09.2018 17:40:49
+1% je 1:99. Říkat, že je to 1:100 je chyba. Ono se to používá a ta chyba není
+velká, ale metodicky je to špatně.
+To mnohem větší chyba je říkat "jednou tolik". Já mám 100kg brambor a ty máš
+jednou tolik. Míněno je 200kg, ale "jednou tolik" je 100x1, tedy opět 100. Buď
+by se mělo říkat "ještě jednou tolik" a nebo "dvakrát tolik". Když někdo řekně
+"jednou tolik" a myslí 200kg, kolik je pak podle něj 2x tolik?
+ _n_e_m_o_3_3 [Muž]49 [Kategorie]
+14.09.2018 15:53:56
+Pravděpodobnost 1/100 = 1:99
+ _Z_a_h_r_a_d_n_í_k [Muž]99 [Kategorie]
+14.09.2018 13:10:46
+Jak říkám, je tu jemnej rozdíl mezi pravděpodobností a šancí. Když někdo řekne
+"pravděpodobnost je 50%" (nebo 0.5), tak bys to měla chápat jinak, než když
+řekne "šance je jedna ku jedné". Prostě přirozenej jazyk není totéž co jazyk
+matematiky či počítačů. Přirozenej jazyk je víc matoucí, protože je bohatší.
+[Smajlík]
+ Ciwe
+14.09.2018 12:59:23
+Díky za pokusy o vysvětlení, ale stále to nechápu :-D
+Chápu, že jsou 2 způsoby, když řeknu X ku Y, tak X je vždycky počet třeba těch
+správných možností a Y může být buď počet všech nebo jen těch nesprávných. A
+rozlišit se to teda asi nedá?
+
+Většinou, když je někde 1:100 - tak to znamená jeden ze sta. Takže správně je
+jeden a sto jich je celkem. Procentuelně 1%.
+Pokud je ale někde 1:1, tak to vždycky znamená jeden ze dvou. Na jedné straně
+jeden a na druhé straně druhej. Procentuelně 50%.
+
+Podle Ciwe je teda správnější ten první způsob. Takže jedno procento by mělo
+být 1:100. A padesát procent by pak muselo být 1:2. Ale přitom nikdy nikdo
+neřekne: "Hele vyber si, máš dvě možnosti, jedna je správná, takže máš šanci
+jedna ku dvěma."
+ PravděpodobněZmatená
+14.09.2018 11:58:15
+Prostě máš dva způsoby vyjadřování šancí. Jeden vyjadřuje poměr počtu situací,
+kde nastane A, k počtu situací, kde A nenastane. Ten druhej vyjadřuje poměr
+počtu situací, kde nastane A, k počtu všech situací.
+
+Symbolicky, ten jeden je A / ~A, a ten druhej je A / (A v ~A)
+
+Oba způsoby se používaj k vyjádření šance, ale přísná pravděpodobnost se
+vyjadřuje jen tím druhým způsobem. Oba sou na sebe jednoduše převoditelný,
+takže v tom není problém. Jen člověk musí vědět, kterej způsob máš zrovna na
+mysli :)
+[Smajlík]
+ Ciwe
+14.09.2018 11:42:45
+Jedna (varianta) ku jedné (druhé variantě) 1:1, 50 %
+Jedna (varianta) ku stu (1 varianta + 99 dalších variant) 1:100, 1 %
+ Počtář
+14.09.2018 11:29:18
+Aninka Putinka: Po škole budeš, k tabuli pomažeš! Už si chystám ukazovátko.
+Řekněme, že reálná distribuce opravdu je 1 nemocný a 99 zdravých, pak je
+nicméně vyjádření této (ne)skutečnosti pomocí pravděpodobnosti 1:100, se s tim
+smiř.
+
+Co se receptu týče, je to jen poměr, ale jestli teda vaříš na základě
+pravděpodobnosti, tak svačinu raději ani nenos.
+[Smajlík]     [Muž]99 [Kategorie]
+ _b_i_t_c_h_ _p_l_e_a_s_e
+14.09.2018 09:36:18
+No ono jde vlastně o to, jestli to : budu číst jako /. Protože je mi jasné, že
+je to jako 1/100, jedna setina. Ale zápis 1:99 může znamenat něco jako jedna
+oproti dalším 99. Takže vlastně nevím, v kterém případě je správný jaký zápis.
+Nemám ráda zapisování něco ku něčemu, protože si to lze vyložit dvěma způsoby.
+Ale 1:2 při vaření také znamená, ať někam naliji třeba litr mléka a 2 litry
+vody, tzn. celkem tam budou 3 litry. Jsem z toho blázen...
+[Smajlík]       [Muž]28 [Kategorie]
+ _A_n_i_n_k_a_ _P_u_t_i_n_k_a
+14.09.2018 09:19:24
+Zkuste se na to podívat takhle: Šance, že AP prodělala neposkvrněné početí je
+1/100, šance že to tak nebylo je 99/100.
+[Smajlík]     [Muž]99 [Kategorie]
+ _b_i_t_c_h_ _p_l_e_a_s_e
+14.09.2018 09:12:29
+Taky bych řekla, že 1:99. Na tohle jsem byla vždycky blbá. Ale připadá mi to
+jako 1:99, protože celkem je to 100 přece a ne 101.
+ _A_n_i_n_k_a_ _P_u_t_i_n_k_a [Muž]28 [Kategorie]
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+

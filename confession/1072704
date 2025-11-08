@@ -1,0 +1,113 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+   Otázky - Vzkazy č.1072704, vloženo _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+   24.09.2018 20:04:16                _s_t_r_á_n_k_a_]
+   Matematika
+   Ahoj potřebuju poradit v Matematice.Když mám zjistit kolik je třeba 1
+   polovina z 8 patnáctin tak jak se to počítá?zapomněla jsem si sešit ve
+   škole a zítra mám být zkoušená takže jsem celkem jako asi v prdeli no za
+   prázdniny se mi všechno uplně popletlo a teď si to nějak nepamatuji navíc
+   jsem dneska přišla do školy po nemoci a učitelka mi řekla že mě zítra
+   vyzkouší a navíc u tabule takže bych byla moc ráda kdyby mi to tady někdo
+   vysvětlil například ta 1 polovina z 8 patnáctin nebo 5 šestnáctin z 48
+   setin.Pokud mi někdo odpoví do zítra a já díky tomu zvládnu ten test tak
+   vám budu moc vděčná
+    zabijmě [Žena]15  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+25.09.2018 08:36:53
+Stačí si všechno důkladně promyslet, aby se to dalo počítat automaticky.
+
+Představ si koláč, rozděl si ho na patnáct dílů a osm z nich si dej k jídlu.
+Pak si řekneš - to je moc. Sním z toho jenom půlku.
+
+Nebo si rozděl koláč na dva díly - tedy dvě poloviny. Půlku dáš kamarádovi a z
+druhé půlky sníš jen dvě třetiny. Kolik jsi snědla?
+
+Roděl si koláč na osm dílů, nech si jich šest a sněz z nich jen tři. Kolik jsi
+snědla z celého koláče? atd. atd.
+
+Pak zjistíš, že 1/2 * 8/15 = 8/30 = 4/15
+2/3 * 1/2 = 2/6 = 1/3
+3 * 1/8 = 3/8 atd.
+
+Z toho Ti vyplyne, že PŘI NÁSOBENÍ mechanicky vynásobíš čitatele a jmenovatele
+mezi sebou. V případě, že číslo není ve tvaru zlomku (např. 2), pak si ho
+představ jako zlomek "lomeno jedna". Tedy 2=2/1
+
+PŘI SČÍTÁNÍ a odečítání to takto nelze dělat. Musí se zlomky převést na zlomek
+se společným jmenovatelem, tzn. to číslo "dole" musí být u všech zlomků
+stejné.
+
+Pro představu když sníš půlku koláče a ještě třetinu koláče, pak jsi snědla 1/
+2 + 1/3 -> z poloviny a třetiny plyne společný jmenovatel šestina -> tedy
+snědla jsi 3/6 koláče a 2/6 koláče, tedy 5/6 koláče a 1/69 koláče zbyla. Zase
+si namaluj celý koláč, rozděl na šest dílků, pak si zabarvi polovinu z něj a
+třetinu z něj a podívej se, kolik je zabarveno a kolik zbylo. Musí to sedět.
+
+Jakmile získáš jistotu u těchto malých čísel, nebude Ti dělat problém
+mechanicky sčítat a násobit i nepředstavitelné zlomky: 5/16 * 48/100 = 240/
+1600 = 24/160 = 3/20
+
+(Na konci si na zlomku škrtnu po jedné nule v čitateli i jmenovateli -tj. oba
+dělím deseti a pak odhadnu, že 24 i 16 jsou dělitelné 8 a čitatele i
+jmenovatele podělím osmi). Nebo pomaleji 24/160 = 12/80 = 6/40 = 3/20. To je
+právě důsledek praxe, že už vím, že když si koláč rozdělím na dva díly a sním
+polovinu, snědl jsem 1/2 koláče. Když si ho rozdělím na 6 dílů a sním tři nebo
+na deset dílů a sním pět nebo ho rozdrobím na 1000 dílů a sním 500 dílů, tak
+vždycky jsem ho snědl stejně. Tedy 1/2 = 3/6 = 5/10 = 500/1000 = 189/378 atd
+atd atd.
+ _K_v_i_d_o_9_9 [Muž]58 [Kategorie]
+24.09.2018 21:16:08
+Ale zabíjet tě nebudu.
+[Smajlík]       [Muž]28 [Kategorie]
+ _A_n_i_n_k_a_ _P_u_t_i_n_k_a
+24.09.2018 20:33:59
+Prostě si to řekni logicky. Chceš půlku z něčeho. Takže uděláš to něco krát
+půlka. 8/15*1/2= 8/30=4/15
+ Kingoš
+24.09.2018 20:07:41
+Normálně mezi sebou vynásobíš oba čitatele a pak oba jmenovatele a máš
+výsledek.
+[Smajlík]       [Muž]28 [Kategorie]
+ _A_n_i_n_k_a_ _P_u_t_i_n_k_a
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+
