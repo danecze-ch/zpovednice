@@ -1,0 +1,128 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+   Otázky - Vzkazy č.942380, vloženo _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+   02.06.2016 08:57:55               _s_t_r_á_n_k_a_]
+   Notebook po babičce
+   Zdravím, rád bych se dotázal zkušenejších jestli by mi dokázali poradit
+   s problémem.Dostal jsem starší notebook acer aspire one 751h z roku 2009
+   malý 11,6 lehký, intel atom 1,6 jedno jádro, 1gb ram..Vím že to není
+   žádné dělo ale nejde mi o to na tom pařit gamesy na to mam stolní pc
+   chci to mít na internet, do školy nějaký ten word, a´film atd..notas mám
+   po přibuzném který se o to vubec nestaral cili notebook byl totlně
+   zasekaný zavirovaný a já nevím co všechno takže nějaká práce na něm
+   nemožná..No tak jsem to v pohode sformátoval a místo puvodního windows
+   xp jsem nainstaloval windows 7..Jenže i když byl pc uplně čistý jen s os
+   tak práce v něm velice pomalá okna se otevírají jakoby sekaně je to celé
+   spomalené video témeř nekoukatelné..Myslel jsem že je win 7 na notebook
+   moc náročný tak jsem vyzkoušel nenáročné xubuntu..Jenže je to uplně
+   stejné čili hádám že se slabým hardware problém není..Přijde mi to jako
+   by ramka byla nejaká zasekaná nebo kdyby byl nějaký jiný problém vážně
+   nevím.Muze to být nějakým virem?Stačí zformátování disku nebo se musí
+   ještě něco udelat s ram?Díky za tipy.
+    davert [Muž]21  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+02.06.2016 16:45:13
+Mám podobný počítač, tam je problém v procesoru který jede pořád na 100% to je
+použitelné tak akorát pro děti na hraní.
+[Smajlík]
+ Ne bude hůře
+02.06.2016 12:21:29
+2GB RAM se dá sehnat bazarově za 300Kč, SSD disk 120GB již od 1000Kč. A udělá
+to z toho o třídu rychlejší stroj.
+ _C_h_a_r_l_e_s [Muž]49 [Kategorie]
+02.06.2016 12:19:00
+Svůj příspěvek jsi vložil(a) do nespravné kategorie. Bylo provedeno přesunutí.
+V případě opakování hrozí blokování vstupu na portál. Prosím zvol příště
+správnou kategorii. Děkujeme za pochopení.
+[Smajlík]      [Muž] [Kategorie]
+ _A_d_m_i_n_i_s_t_r_á_t_o_r
+02.06.2016 10:50:06
+To je strašně dýchavičný stroj. Mám doma podobný. 1GB ram je dnes bída. Jednu
+polovinu v lepším ukousne systém, druhou prohlížeč při 2-3 záložkách, a potom
+začne hrabat na pomalý disk. Procesor je taky šnek.
+ it guy
+02.06.2016 10:40:43
+Zkus testování stavu počítače (teplota, diagnostika disků). To, co popisuješ,
+může odpovídat zaseknutému nebo ucpanému větráku (poznáš podle vysoké teploty
+CPU; pár sekund až desitek sekund po zapnutí jede slušně, pak zpomalí).
+Teplotu uvnitř počítače přečteš v BIOSu, v Xubuntu by mohl být nástroj
+sensors, ale ten se složitě konfiguruje. Nebo odcházejícímu disku (pozná
+diagnostika S.M.A.R.T.; jede trhaně). Někdy to bývá v BIOSu, v xubuntu je na
+to snad smartctl.
+ _S_t_a_6_7 [Muž]28 [Kategorie]
+02.06.2016 10:36:19
+Vyhod to, je to k nicemu.
+ zeleny caj.
+02.06.2016 10:28:52
+1 GB je strasne malo, na tom win prakticky nebezi, protože svapuji i jadro na
+disk. Atom je bida s nouzi, takze rychle to urcite nebude. Když k tomu doplnim
+znacku Acer, dost pochybuji, ze je jakakoliv modernizace rentabilni. Maximalne
+bych zkusil najit original ovladac videa pro Acer, jestli by to pomohlo a
+pokud ne, instaloval bych jej do kontejneru nebo bazaru
+ _A_l_f_a_r_d [Muž]59 [Kategorie]
+02.06.2016 10:07:32
+Tak může nějaký komponent odcházet. Mně nedávno odešel HDD a než umřel, taky
+to brzdilo a zasekávalo se to. Po výměně disku to zase chodí.
+ _g_y_o_k_u_r_o [Muž]35 [Kategorie]
+02.06.2016 09:45:47
+Vždyt ale píšu že mi tam nejede ani xubuntu které by mělo být náročné asi jako
+win 98...Ram mám 1gb, píšu to tam..Požadavky na win 7 to splnuje..Problém je
+že dřív to jelo rychleji, prý teda..=)
+ daver
+02.06.2016 09:35:36
+Mrkni sem, tam je sepsaná požadovaná konfigurace pro win7
+
+_h_t_t_p_:_/_/_w_i_n_d_o_w_s_._m_i_c_r_o_s_o_f_t_._c_o_m_/_c_s_-_c_z_/_w_i_n_d_o_w_s_7_/_p_r_o_d_u_c_t_s_/_s_y_s_t_e_m_-_r_e_q_u_i_r_e_m_e_n_t_s_ 
+
+Že by se viry dostaly jinam, než na HDD, si nemyslím, spíš bude problém jinde.
+Pokud máš malou RAM, zkus dokoupit. Tyhle staré už stojí pár korun. Taky
+mrkni, jak velký je HDD, aby se tam něco vešlo a případně sežeň nový, i to je
+otázka pár stovek maximálně. Obojí se dá běžně sehnat třeba na aukru.
+ _g_y_o_k_u_r_o [Muž]35 [Kategorie]
+02.06.2016 09:29:19
+Rozšířit RAM, obvykle tam bývalo jen 1GB. Nevím ale kolik tento model
+podporuje maximálně, tuším, že je tam jen 1 paměťový slot. Na 2GB jde určitě,
+na více nevím.
+A k tomu vyměnit disk za SSD disk a pak to bude použitelné.
+ _C_h_a_r_l_e_s [Muž]49 [Kategorie]
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+

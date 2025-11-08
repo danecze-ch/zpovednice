@@ -1,0 +1,191 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+   Otázky - Vzkazy č.943661, vloženo _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+   09.06.2016 17:34:50               _s_t_r_á_n_k_a_]
+   OOP PHP
+   Viem že je to objektovo orientované PHP, ale čo potrebujem vedieť, aby
+   som si mohol povedať OOP PHP programátor? Čítam plno pracovných ponúk na
+   OOP PHP.
+    _a_r_g_u_m_e_n_t_u_j_e_m_ _r_á_d [Muž]19 [Kategorie]  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+09.06.2016 18:47:01
+Ono je to jiný způsob myšlení. U obyčejné hello world aplikace to nemá smysl,
+ale když se k tomu přidá připojení na systémy třetích stran, vesměs s
+asynchroním zpracováním úloh, připojení na nějakou složitější databázi než dvě
+tabulky v 1:N, řízení přístupových práv, okoření se to správou uživatelů
+uložených v ADčku... no pak hodně štěstí se strukturovanýcm programováním.
+Jasné tohle už je příklad použitý spíš u enterprise aplikace, kde se PHP
+nepouužívá vůbec (díky bohům)
+
+Ale jinak i pro web to má svoje výhody. Existuje spoustu návrhových vzorů,
+které se strukturovaně velice obtížně řeší - Singleton (pro sdílení
+konektivity na další systémy), ORM mapování (pro zjednodušený přístup k DB),
+Observer (pro zjišťování stavu zdrojů). A ano i když je počáteční návrh
+složitější, tak v budoucnu řeší spoustu problémů, které si člověk hned
+neuvědomuje.
+Co když vyměním databázi (licence, výkon...)? Stačí přejít z MySQL na DB2, u
+strukturovaného návrhu se musí přepsat všechny dotazy a všechno co komunikuje,
+nbásledně i části co propagují výše a tak dále. u OOP? jednoduše se vymění
+jedna komponenta za jinou, ORM se postará o detaily.
+
+Řešit výkon, zátež procesoru a tak není třeba řešit, paměti jsou levné výkon
+přebytečný a neviděl jsem aplikaci, kteroá by byla kvůli OOP pomalá, všechny
+optimalizace byly vždycky na straně kódu - špatně použité cykly, načítání z
+pomalých zdrojů bez cache, výpočty co byly k ničemu....
+ weerwolf
+09.06.2016 18:36:55
+Ono se bohužel často hraje spíš na čas :D proto se i frameworky často dávají i
+na úplně primitivní weby, protože ti pořeší věci jako routování, mají třeba
+šablonovací systém apod. Zkrátí ti to vývoj o pár dní a to se často vyplatí
+víc, než to mít o pár milisekund rychlejší.
+Ale pochopitelně se to taky nehodí na všechno a ne vždy jsou nějaké super
+technologie použitelné na daný typ problému
+[Smajlík]  [Muž]20 [Kategorie]
+ _M_a_g_n_u_s_1_2_3
+09.06.2016 18:34:21
+argumentujem: z toho je vidno, že používáš selský rozum. Představ si, že máš
+normální desktopovou aplikaci napsanou objektově. Máš v ní objekty viditelný
+(jako tlačítka) i neviditelný, každý objekt drží nějakou informaci, reaguje na
+události, zpracovává je, posílá je dalším objektům, tady maj objekty smysl.
+Ale tohle všechno je zbytečný, když posíláš požadavek na vygenerování stránky,
+jediný čeho dosáhneš je vyšší nárok na zpracování.
+
+Ano, pravda. Objektově orientovaný kód se daleko líp udržuje, daleko líp můžou
+s tvým kódem pracovat jiní. To je důvod, proč spousta lidí chce OOP i v PHP.
+Můžou tě vyrazit z práce a kód zůstane nádherně čitelný i bez jeho autora. :-
+D Má to svoje výhody, ale podle mě je nevýhoda té mnohem vyšší náročnosti
+kruciální.
+ jen do toho
+09.06.2016 18:30:23
+V případě PHP jde asi jen o princip :-) Stejně to skončí u nějakého frameworku
+ _M_S_-_f_a_n_o_u_s_e_k [Muž]50 [Kategorie]
+09.06.2016 18:27:21
+OOP ale vůbec neni o tom, že nějaké funkce nastrkáš do tříd, aby to mělo
+nějaký ucelený název. Podívej se na to, co jsem ti psal, a uvidíš, jaké má OOP
+výhody oproti procedurálnímu kódu. Mezi hlavní výhody OOP patří
+znovupoužitelnost a pokud to neuděláš blbě, tak i snadná rozšiřitelnost. Můžeš
+snáz přidávat knihovny třetích stran atd.
+Že se OOP na web nehodí, je hodně diskutabilní. Psát i sebemenší systém typu
+eshop bez objektů je docela sebevražda. Je to pochopitelně náročnější na
+zdroje a výkon, ale k tomu jsou různé způsoby cachování (opcode, first-level /
+second-level cache atd.) a pokud neděláš aplikaci se zatížením jako Facebook,
+pak je obvykle lepší koupit dražší HW a usnadnit vývoj SW, protože se to
+finančně vyplatí (a to i do budoucna).
+ _M_a_g_n_u_s_1_2_3 [Muž]20 [Kategorie]
+09.06.2016 18:21:58
+Našiel som na nete:
+"PHP obsahuje stovky volných funkcí, které nikam nepatří. Je jich tolik, že se
+v nich již nikdo nevyzná. Např. většina funkcí na poli začíná názvem array_
+(např. array_reverse()), funkce k setřídění pole se však jmenuje jen sort().
+Kdyby funkce náležely objektu pole, tyto problémy by neexistovaly a člověk by
+nemusel trávit tolik času v manuálu. To samé platí u konstant. Naštěstí i
+samotní vývojáři PHP začínají chápat, že jsou objekty potřeba a dodávají
+objekty např. pro práci s datem a časem, databází a podobně."
+
+Nechápem načo majú byť zákl. funkcie OOP.
+ _a_r_g_u_m_e_n_t_u_j_e_m_ _r_á_d [Muž]23 [Kategorie]
+09.06.2016 18:12:51
+argumentujem rád: OOP v PHP by nebyla blbost, pokud by celá aplikace běžela
+jako desktopová (samozřejmě je zas kvůli výkonu blbost psát takovou aplikaci v
+PHP, ale technicky to jde). OOP v PHP je nesmysl v případě webu, viz můj
+příspěvek v 17:56.
+ jen do toho
+09.06.2016 18:07:53
+jen do toho:
+OOP v PHP je blbosť? prečo?
+
+zeleny caj.:
+ja hlavne neviem načo je OOP dobré pri úplne jednoduchých veciach? konkrétne
+načo namiesto
+printf("Hello world"); //C
+písať
+Console.Write("Hello world"); //C#
+
+neobjektový spôsob je zjavne jednoduchší.
+proste zatiaľ nemám vymytý mozog OOP.
+ _a_r_g_u_m_e_n_t_u_j_e_m_ _r_á_d [Muž]23 [Kategorie]
+09.06.2016 18:05:28
+zeleny caj: Jasně, tak jsem to nemyslel. :-D Myslel jsem to, co se skutečně
+odehrává u uživatele, jinak vše co je v PHP jen jedním přístupem, samozřejmě.
+A dá se udělat i neobjektový PHP a přitom nemít špageťák, ale přehlednej a
+vcelku modulární kód, jen to chce ještě víc hlídat se.
+ jen do toho
+09.06.2016 18:00:23
+jen do toho: Pokud pouzijes takovy priklad s javascriptem tak mas samozrejme
+pravdu ale myslel jsem variantu backend napsat v php bez objektu a frontend v
+php objektove, nebude to k nicemu, jenom zmatek v kodu.
+ zeleny caj.
+09.06.2016 17:56:09
+zeleny caj: OOP má smysl tam, kde je perzistentní spojení. To v případě webu
+prostě není. Prohlížeč je perzistentně spojen s frontendem webu, takže nějakej
+rozsáhleší javascript může mít smysl psát objektově. Ale na backend je každej
+HTTP požadavek novej, jeho vyřízením prakticky vše v PHP zaniká a žádnýho
+objektu se už nedovoláš. Nemá smysl vytvářet objekty a zbytečně zatěžovat
+paměť a procesor jejich zrůdnou náročností, jen aby hned umřely. Místo toho
+radši postavit backend tak výkonnej, jak to jen jde. Ono se to neprojeví při
+deseti uživatelích, ale při tisících už zásadně.
+ jen do toho
+09.06.2016 17:49:47
+Vis co to je objektove orintovane programovani? Psal jsi nekdy objektovy kod?
+Pokud na obe otazky odpovis ne tak asi pozice nebude pro tebe.
+
+jen do toho: Proc by mel byt frontend napsany objektove a backend ne?
+ zeleny caj.
+09.06.2016 17:43:22
+Zaprvý musíš být dost velký frikulín, abys prosazoval myšlenku, že patlat
+backend webu pomocí oop má smysl. Jsi? Výborně! Nauč se objektově orientovaný
+přístup, výhodný pro desktop nebo frontend a narvi ho na backend! Sláva tě
+nemine, i díky tobě prodají výrobci hardwaru víc železa, zajišťujícího
+potřebný výkon.
+[Smajlík]
+ jen do toho
+09.06.2016 17:40:53
+Nechápu, proč se na to ptáš zrovna tady, a ani moc nevim, co ti na to
+smysluplně odpovědět. Nauč se pracovat s objekty, nauč se něco o dědičnosti,
+kompozici, polymorfismu atd., pak si pročti nějaké základní návrhové vzory
+(pro PHP často MVC/MVP, DI, Singleton radši moc ne) a nějaká základní pravidla
+(jako třeba single responsibility).
+Jestli s tím ale začínáš teď, tak si dej několik měsíců čas, aby sis to vůbec
+vyzkoušel, protože to budeš dělat ze začátku hodně špatně :D
+ _M_a_g_n_u_s_1_2_3 [Muž]20 [Kategorie]
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+

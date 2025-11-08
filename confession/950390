@@ -1,0 +1,142 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+Zpověď č.950390, vloženo 18.07.2016 22: _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+59:33                                   _s_t_r_á_n_k_a_]
+Nespočítám odpory
+Prostě mě štvalo, že asi jako jediná v práci nechápu elektriku. Sice se to po
+mě nechce, ale kolikrát jsem si připadala trapně. Chtěla jsem to pochopit a
+navíc se věčně nudím, takže jsem shlédla pár nejjednodušších videí s
+vysvětlením Ohmova zákona, kde by to pochopil snad úplný debil. Měla jsem
+radost když jsem se naučila vypočítat odpor a ty další kraviny okolo u
+paralelně a sériově zapojených rezistorů. To ještě bylo OK. Pak jsem si jen
+tak cvičně chtěla spočítat příklady, kde se to už složitěji větví, pár jich
+tam je třeba sériově, pár paralelně a v těch větvích třeba ještě zas sériově.
+A tohle už prostě nedám, tady můj rozum končí :(
+A ještě třeba podobné příklady: Odpor dvou vodičů spojených paralelně je 1/
+7 ohmů; jsou-li spojeny za sebou, výsledný odpor je 0,7 ohmů. Jaký je odpor
+každého vodiče?
+Prostě to už nedám :( Je tam sice všude vysvětlení a řešení, ale ani tak to
+nepobírám.
+Tohle ale přece počítají děti na základce, ne? Ještě to je pojmenované jako
+"jednoduché" příklady, takže začínám dost pochybovat o svém IQ.
+To jsem fakt tak blbá?
+
+
+ pochybuju o sobě [Žena]23  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+19.07.2016 11:05:39
+Odmaturovala jsem z elektroniky za 1 a taky ti už neřeknu, jak se to počítá :
+D Dalo se to čekat, že to zapomenu, je to 9 let a nevěnuju se tomu. Není to o
+IQ, je to prostě o tom, že tě to nemá kdo pořádně naučit.
+ emilly
+19.07.2016 09:20:56
+chce to pochopit princip, ponorit se do toho, tak si najdi pohodoveho
+konzultanta
+ _p_i_n_k_F [Muž] [Kategorie]
+19.07.2016 08:09:53
+Mně se to třeba tady zdá srozumitelné:
+
+_h_t_t_p_:_/_/_w_w_w_._d_m_a_s_t_e_r_._w_z_._c_z_/_t_e_o_r_i_e_/_s_p_o_j_o_v_a_n_i_/_s_p_o_j_o_v_a_n_i_._h_t_m
+ Jdujenkolem
+19.07.2016 05:35:23
+Nejsi blba, jen sis asi vybrala spatnou praci. Uprimne, ja bych to taky
+nespocital a to si o sobe, neskromne, myslim, ze inteligentni jsem. Jsem jen
+zamereny na jiny druh IQ. Kdyby IQ bylo jen o matematice a fyzice, byl bych za
+debila. Nastesti je lidska osobnost mnohem komplexnejsi a to, ze nekdo
+nespocita odpory, z neho nedela cloveka druheho radu. Jsem presvedceny, ze
+jine veci umis zase lepe nez ostatni.
+ _d_a_v_i_d_r_e_d [Muž] [Kategorie]
+19.07.2016 00:29:09
+mas pravdu, tohel by spocitali i deti na zakladce, ses blba jak broky
+ Afrikan24
+19.07.2016 00:11:33
+Dredovanej pudl: dík, sice to vypadá jednodušší než to vysvětlení hned u toho
+příkladu, ale i tak je to teda mazec.
+Já jsem to nejdřív taky takhle nějak začala počítat, ale pak jsem se v tom
+zamotala.
+ pochybuju o sobě
+18.07.2016 23:26:41
+No, tak tam je pěkně debilní, že budeš mít rovnici, kde budeš mít dvě rovnice:
+
+R1+R2=0,7
+1/(R1)+1/(R2)=1/7
+
+z toho získáš:
+R1=0,7-R2
+1/(0,7-R2)+1/(R2)=1/7
+a pak musíš z tohoto vypočítat R1, docela drbačka. Nesmíš se splést u převodů
+jmenovatelů zlomků. A pak podle první, té jednodušší rovnice R1=0,7-R2
+
+Omlouvám se, píšu to v rychlosti a z hlavy. Porovnej si to.
+
+On ten Ohmův zákon je v podstatě naprostej základ. Já za sebe říkám, že celá
+elektronika je Ohmův zákon.
+ _D_r_e_d_o_v_a_n_e_j_ _p_u_d_l [Muž]55 [Kategorie]
+18.07.2016 23:14:22
+Dredovanej pudl: dík. Já se to zatím naštěstí učit nemusím, spíš jsem si jen
+tak chtěla otestovat na co mám a na co už ne.
+ pochybuju o sobě
+18.07.2016 23:10:22
+Ročild: dík za povzbuzení:) Podle toho jak to nazývají "jednoduché" příklady,
+tak mi přišlo že to snad běžně dávají skoro všichni :D Přítel mi to zkoušel
+vysvětlit, ale on to zas počítá nějakou svojí vlastní logikou, z těch vzorečků
+je prý blbý taky.
+[Smajlík]
+ pochybuju o sobě
+18.07.2016 23:08:15
+Tak to ti nezávidím, ono tohle není pro každýho. ne a s tím 1/7 Ohm a 0,7 Ohm,
+to je potřeba vědět jak na to a napsat si soustavu rovnic a pak to vypočítat.
+Ale koukal jsem, že na Androidu existují nejrůznější prográmky, který pomůžou,
+kde si to můžeš spočítat. To za mých mladých časů nebylo, to jsem musel pěkně
+s tužkou a kalkulačkou..
+On je taky problém, když někdo nevidí smysl v některých věcech, tak se do nich
+nutit. Musíš to nějak zvládnout.
+ _D_r_e_d_o_v_a_n_e_j_ _p_u_d_l [Muž]55 [Kategorie]
+18.07.2016 23:05:32
+Já 4 roky studoval IT.. Avšak mě ty 4 roky doprovázela elektronika.. Vím jak
+co funguje.. Ale můžu tě ubezpečit že rok od maturity si z těch počtů pamatuju
+jen ohmův zákon. :D Odmaturoval jsem se samejma, jsem na VŠ (průměr 1,3).. Je
+to sice blbý, že to neumím, ale chci ti říct, že nejsi sama.. :)
+[Smajlík]
+ Ročild
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+

@@ -1,0 +1,123 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+Diskuze č.942339, vloženo 01.06.2016 21: _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+47:26                                    _s_t_r_á_n_k_a_]
+alternativa k truecrypt
+Truecrypt má po nájezdu státních institucí na vývojáře, kterým bylo vyhrožováno
+někdy v roce 2014 prakticky na 100% zadní vrátka, Bitlocker je i dle samotných
+vývojářů z microsoftu rovněž prolezlý backdoory.
+
+Náměk k diskuzi je jasný, jaká je bezpečná pokud možno user friendly
+alternativa ?
+ _M_2_1 [Muž]28 [Kategorie]  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+02.06.2016 11:28:32
+osman:
+mas zasifrovanej sooubor/kontejner nebo disk(pripadne oddil diku) nebo celej
+system?
+v tom prvnim pripade nevidim zadnej problem, kdyz si stahnes preposledni verzi
+TC (7.1a - z bezpecneho zroje), ani ten druhej pripad - zasifrovana cela
+partition by nemel delat problemy - pokud se v tom uz ovsem nehrabaly winy...
+ JSBD
+02.06.2016 11:22:58
+Prave protoze kod truecryptu je otevrenej a vyvojari do nej nedali zadnej
+backdoor (coz potvrdil nezavislej audit) tak byl "ukoncen" -takze truecrypt je
+jeden z mala, o kterym lze rict ze nema zadni vratka, a je bez chyb, ktere by
+ohrozily bezpecnost zasifrovanych dat - proto je to i dnes jasne PRVNI VOLBA
+pokud chce clovek bezpecny sifrovani... - jedina nevyhoda TC je ta, ze uz se
+nevyviji a zastarava a tak treba kombinace GPT+skryty zasifrovanyOS+novejsi
+win je uz problem udelat - zasiforvany OS musi byt v MBR nebo na linuxu...
+Ikdyz otazka je, jestli ma vubec smysl pouzivat sifrovaci nastroj, kdyz clovek
+zaroven pouziva bonzovaci systemy win 8 nebo win 10 - tam uz je to asi tak
+zbytecny jako nasadit si kondom az po sexu...
+Verycrypt je pokracovatelem TC - soustreduji se prave na podporu novych
+systemu a noveho typu deleni disku (GPT) atp., jinak vychazeji kompletne z TC
+- snad jen "cisti" trosku puvodni kod
+U ostatnich sifrovacich nastroju je zakladnim problemem duvera v tvurce: velke
+spolecnosti nemaji volne overitelny kod a je o nich znamo, ze spolupracuji s
+teroristy jako FBI a NSA a dalsimi (Microsoft, Google, Apple a pod.), navic
+maji vlastni komercni zajem o data ... A pokud najdete nejaky sifrovaci
+nastroj, ktery je free, tvari se jako nezavisly, tak nemate jistotu, co je
+vlastne zac - ikdyby byl kod overitelny, urcite jeste nebude zauditovany jako
+kod TC .. jednoduse: bud program nadnarodni korporace spolupracujici s vladou,
+majici vlastni zajmy nebo neznamy programek, ktery nebyl nikym zvnejsku
+zkontrolovan, takze nevite, co vlastne dela... proto je stale nejlepsi volbou
+TrueCrypt.. a casem mozna VeraCrypt - ale pokud tvurci tvrdi, ze chteji
+prespat kompletne kod tak az v pripade, ze tento novy kod bude take
+zauditovan.
+ JSBD
+01.06.2016 23:46:41
+Luks je pritel muj ;) Mam naky data sifrovany i geli, nicmene oba projekty
+jsou cli only a windows verze neni.
+ psoug
+01.06.2016 23:18:34
+Stačilo by mi rozběhnout původní TrueCrypt (snad 4.2?). Data mám, ovšem
+zakryptovaná. Moje debilita při výměně počítače. Myslí někdo, že ještě mám
+šanci ten archiv ve Win 10 rozběhnout? Nějaké neúspěšné pokusy byly.
+[Smajlík]
+ Osman
+01.06.2016 23:17:26
+Používal jsem poslední verzi TC, ale vyskytnul se nějaký problém s
+kompatibilitou s mým systémem, tak jsem přešel na VeraCrypt.
+
+Je zpětně kompatibilní a měl by být čístý.
+ _A_z_a_t_h_o_t_h [Muž]27 [Kategorie]
+01.06.2016 22:31:52
+Souhlas s kaitenem, myslim ze v tomto smyslu vydali i nejake prohlaseni.
+Pouzivam dm-crypt nebo nebo neco takoveho, vlastne ani poradne nevim co to je
+za algoritmus.
+ zezeny caj.
+01.06.2016 22:31:19
+kaiten: To všichni
+ ancap
+01.06.2016 22:26:40
+Domnívám se, že vývojáři ukončili projekt TrueCrypt proto, že byli k zadním
+vrátkům tlačeni a odmítli to. Používám předposlední verzi
+ _k_a_i_t_e_n [Muž]58 [Kategorie]
+01.06.2016 21:57:21
+Používám EncFS. Na mobilu s tím umí pracovat (částečně) BoxCryptor.
+ _S_t_a_6_7 [Muž]28 [Kategorie]
+01.06.2016 21:56:57
+VeraCrypt
+ ancap
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+
