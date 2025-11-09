@@ -1,0 +1,163 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+Diskuze č.623479, vloženo 05.05.2012 19: _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+08:44                                    _s_t_r_á_n_k_a_]
+Anonymní okno - ochrana před pornem
+Zdravím všechny,
+mám takový dotaz, na počítači rodičů sem tam se podívám na něco jiného než
+učení a asi chápete porno, pokaždé smažu celou historii a promažu všechno a
+vždy mám strach, že to najdou, i přesto, že jsem to smazal, dneska jsem si ale
+na google chrome všiml anonymního okna a tam co zadán není v historii. Otáka
+ale je dá se to nějak zjistit jestli se to neuloží někam jinam a pak by bylo po
+srandě.
+Prosím prosím poradte a jak by jste to dělali vy nebo děláte
+Děkuji
+ Prostě koukám [Muž]18  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+03.01.2017 16:28:28
+Klikni na start a do vyhledávací kolonky napiš cmd. Pak to zpusť a otevře se
+ti příkazový řádek. Když tam tví rodiče napíšou ipconfig -displaydns tak se
+jim zobrazí všechny stránky na které ses díval když tam napíšeš ipconfig -
+flushdns tak je úplně smažeš a nikdo to už nikdy nezjístí.
+ anonym
+08.11.2013 10:35:23
+stiahni si ccleaner , ked das analyzovat pred vycistenim PC stav Pc, tak sa ti
+ukazu vsetky jpg a nazvy stranok ktore si presiel, das to potom vycistit, ale
+aj tak v cmd sa historia este ukaze, takze najlepie ako zistit navstvuz
+stranok je Win+R a potom zadas ipconfig /dispalydns a ked to naopak chces
+zmazat, tak ipconfig /flushdns a mas to
+[Smajlík]
+ factus
+05.05.2012 21:24:13
+Kromě historie se ukládají cookies a soubory do dočasných adresářů. Stačí si
+prohlédnout adresář temp, protože tam jsou všechny obrázky dočasně uložené i
+když zavřeš prohlížeč. Závisí to na tom jak je nakonfigurován tvůj prohlížeč.
+Smazání historie - nejsem si jistý jestli se tím smažou i dočasně uložené
+soubory.
+ Fanfán tulipán
+05.05.2012 20:48:53
+Private mode sice zabezpecuje, ze browser neuklada historiu, cookies, atd.,
+avsak to neznamena, ze sa neda zistit kde si browsoval. Odhliadnuc od toho, ze
+by tam mohol byt priamo nejaky softver na sledovanie cinnosti (a pokial nema
+tvoj ucet administratorske prava a nevies co hladat, tak ho ani nemusis
+objavit, skryva sa to ako rootkit), tak ta moze prezradit vsetko "okolo"
+browsera:
+
+Jednotlive sucasti prehliadaca:
+- rozsirenia prehliadaca (add-on/extension, napr. AdBlock) si mozu ukladat
+informacie o navstivenych strankach, mozno toto je uz v novsich verziach v
+private mode osetrene, predtym nebolo,
+- zasuvne moduly (plugin, napr. Flash plugin, ktory sa pouziva na reklamy,
+prehravace videa, atd.) si tiez mozu ukladat vlastne cookies a historiu.
+
+System, ktoreho sluzby prehliadaca vyuziva:
+- v DNS cache systemu ostanu vsetky domeny, ktore sa prekladali. Ak mas
+Windows, stlac Win+R, zadaj "cmd" a v prikazovom riadku napis "ipconfig /
+displaydns". DNS cache vymazes cez "ipconfig /flushdns".
+
+Pripojenie, cez ktore sa prehliada (pokial nejdes cez Tor, kde je to sifrovane
+alebo pod.):
+- na routri moze ostat tiez DNS cache, pripadne niektore maju rovno logovanie
+navstivenych stranok.
+ _T_h_e_Q [Muž]24 [Kategorie]
+05.05.2012 20:31:18
+Svůj příspěvek jsi vložil(a) do nespravné kategorie. Bylo provedeno přesunutí.
+V případě opakování hrozí blokování vstupu na portál. Prosím zvol příště
+správnou kategorii. Děkujeme za pochopení.
+[Smajlík]      [Muž] [Kategorie]
+ _A_d_m_i_n_i_s_t_r_á_t_o_r
+05.05.2012 20:29:33
+Ctrl-P velmi chytré :D
+ _Z_a_r_c_o_n [Muž]41 [Kategorie]
+05.05.2012 19:47:49
+Z anonymního okna v Chromu se neukládají cookies ani historie , takže to
+nemají jak zjistit.
+
+1.) Nehoň si u kompu rodičů.
+2.) Jsi na tom špatně když se v 18 bojíš rodičů , že zjistí , že čumíš na
+péčko.
+ _N_O_N_O_R_M_A_L [Muž]16 [Kategorie]
+05.05.2012 19:45:50
+V anonymním režimu se žádná historie neukládá a po uzavření prohlížeče by se
+měly smazat i cookies. Anonymnímu režimu se také přezdívá "porno režim". Ve
+Firefoxu je anonymí režim Ctrl+P.
+ hmmm2
+05.05.2012 19:42:33
+_h_t_t_p_:_/_/_9_g_a_g_._c_o_m_/_g_a_g_/_1_3_7_8_1_9_5_ 
+
+...
+ale k věci.
+a) když se tak bojíš, že budou rodiče dolovat jaké stránky jsi navštěvoval tak
+je vidět, že nemají k tobě důvěru a naopak ty také nemáš důvěru v je...což je
+smutné. Nejednosušší je nechodit na tyto citlivé stránky a nemusíš řešit
+potenciální odhalení
+b) když už si nemůžeš pomoct...pak mají jak FF tak Chrome ten anonymní režim,
+z té doby se neuchovávají žádné cookies, nebo historie je to poměrně
+jednoduché pro méně znalé uživatele a myslím, že to z 99% vyřeší tvůj
+"problém"
+c) použít nějakou Free Proxy, tady je ale dost často malá rychlost a omezení
+dat, výpadky apod, takže na multimedia se to moc nehodí a už samo když třeba
+tedy náhodou zjistí jsi byl několik hodin na proxy tak mu dojde, že něco
+zatajuješ...
+d) seznámit se s nějakou dívkou a body a) b) c) jsou vyřešeny
+ _Z_a_r_c_o_n [Muž]41 [Kategorie]
+05.05.2012 19:23:34
+Sice tomu zatím nerozumím, ale navštívené stránky by se měly (i přes to, že se
+neukládají do historie tvého PC) ukládat někde u provozovatele sítě.
+Na tvém PC se, myslím, jinak (než přes historii) navštívené stránky zjistit
+nedají.
+ _M_a_g_n_u_s_1_2_3 [Muž]20 [Kategorie]
+05.05.2012 19:20:06
+Používej proxy :)
+[Smajlík] [Muž]30 [Kategorie]
+ _J_a_c_t_o_m
+05.05.2012 19:19:09
+souhlasím s hater.
+ _j_a_b_k_o_ _v_ _ž_u_p_a_n_u [Žena]21 [Kategorie]
+05.05.2012 19:11:28
+Nebo si prostě nehoň na počítači rodičů vole.
+ hater
+05.05.2012 19:10:12
+Dej si anonymní okno, pak vymaž historii a cookies, a mrdej na to.
+ nigahiga
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+
