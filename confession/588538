@@ -1,0 +1,228 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+   Otázky - Vzkazy č.588538, vloženo _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+   25.12.2011 21:16:32               _s_t_r_á_n_k_a_]
+   sháním program
+   Ahoj,
+   existuje nějaký program na editaci registru, abych mohl hromadně
+   nahradit znaky začínající na d: na c:? Cokoliv kromě regedit.exe ve
+   kterém tuto funkci nemám.
+    ddestiny [Muž]21  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+27.12.2011 13:52:21
+pan V:
+Ríkal jsem ti, že už to mám vyřešeno. Ke zmene konfigurace sidků doslo. Pouzil
+jsem zmineny postup.
+
+Regedt32 jsem nepouzival, nastaveni opravněni jde udelat v regedit.
+
+Na druhou stranu se vynoril problem s thunderbirdem, ktery nelze spustit a
+tvrdi ze je uz spusteny, coz se mi nezda. Pred zmenou pismene to fungovalo
+hladce.
+ ddestiny
+27.12.2011 08:11:47
+@ddestiny: Regedt32 umí pracovat právě i s oprávněními na registru (zámky
+apod.) :)
+
+Jinak změna písmene systémového disku je popsána v MSDN: _h_t_t_p_:_/_/
+_s_u_p_p_o_r_t_._m_i_c_r_o_s_o_f_t_._c_o_m_/_k_b_/_2_2_3_1_8_8_ Proto jsem ti celou dobu říkal, že máš hledat
+lépe. Obecně ale se tento zásah nedoporučuje pokud nedošlo ke změně
+konfigurace disků v daném PC.
+
+Hezký den ;)
+ _p_a_n_ _V [Muž]99 [Kategorie]
+26.12.2011 21:28:17
+pan V
+regedt32 jo ale to vypada uplne stejne nevim jaky je v tom rozdil.
+Svuj problem jsem už vyresil a uhadl si to spravne. Chtěl jsem to vyzouset a
+neslo to. Vlastne jsem zedivoval vsechny hodnoty ale po restartu to tam bylo
+zas. Ale jak rikam svuj problem jsem uz vyresil.
+ ddestiny
+26.12.2011 18:28:54
+Nesnažíš se náhodou změnit písmeno přidělené systémovému disku? Pořád říkám -
+hromadné změny tohoto typu v registrech téměř nikdy nedělají to, co bys čekal.
+Najdi lepší řešení svého problému...
+
+Jinak ad oprávnění - předpokládám, že na program regedt32 jsi už narazil :)
+ _p_a_n_ _V [Muž]99 [Kategorie]
+26.12.2011 15:54:21
+Tak ono to je zapsáno v .reg jako binární hodnota, ale v registru se to dá
+normálně přečíst:
+
+[HKEY_CLASSES_ROOTCLSID{1ABCFC13-2340-11d2-B601-006097DF5BD4}InProcServer32]
+@=hex(2):43,00,3a,00,5c,00,57,00,49,00,4e,00,44,00,4f,00,57,00,53,00,5c,00,73,
+
+00,79,00,73,00,74,00,65,00,6d,00,33,00,32,00,5c,00,6d,00,73,00,69,00,65,00,
+66,00,74,00,70,00,2e,00,64,00,6c,00,6c,00,00,00
+"ThreadingModel"="Apartment"
+
+Je výchozí hodnota:
+C:WINDOWSsystem32msieftp.dll
+ ddestiny
+26.12.2011 14:46:58
+Podle toho návodu se mi to povedlo nainportovat i do registru users. Mám to
+ale rozdělené na více částí a jedna část ještě naimportovat nejde, takže si s
+tím pohraju.
+
+Nejsem si ale jistý jestli to zabere. Protože tam jsou ještě binární hodnoty,
+které neumím změnit. Pomocí programu Registry Workshop jsem našel hotnoty d:
+uložené v binárním formátu. Takže pokud to tam je, tak se to klidně může
+přepsat zpátky. Jak jinak si vysvětlit, že po úspěšném naimportování hodnot do
+localu, se po restartu v localu opět vyskytuje d: ?
+ ddestiny
+26.12.2011 14:27:40
+Co se týče těch zámků snad by mi mohlo pomoci tohle:
+_h_t_t_p_:_/_/_j_o_h_n_s_o_n_y_i_p_._c_o_m_/_h_o_w_-_t_o_-_u_n_l_o_c_k_-_w_i_n_d_o_w_s_-_r_e_g_i_s_t_r_y_-_p_e_r_m_i_s_s_i_o_n_s_-_t_u_t_u_r_i_a_l_s_._h_t_m
+
+a pa k spustit/importovat ten soubor .reg.
+ ddestiny
+26.12.2011 11:41:17
+@ddestiny: Ono jednotlivé klíče na sobě mohou mít zámky a nepůjdou upravit do
+té doby, dokud je neodemkneš. Proto ti (mimo jiné) celou dobu říkám, že
+hromadně editovat registr není dobrý nápad.
+
+Už je to nějaký čas, co jsem si hrál s registry a řešil přístup k zámkům,
+tyhle materiály by ti ale měly dát potřebné znalosti:
+_h_t_t_p_:_/_/_m_s_d_n_._m_i_c_r_o_s_o_f_t_._c_o_m_/_e_n_-_u_s_/_l_i_b_r_a_r_y_/_w_i_n_d_o_w_s_/_d_e_s_k_t_o_p_/_m_s_7_2_4_8_7_1_(_v_=_v_s_._8_5_)_._a_s_p_x
+
+_h_t_t_p_:_/_/_m_s_d_n_._m_i_c_r_o_s_o_f_t_._c_o_m_/_e_n_-_u_s_/_l_i_b_r_a_r_y_/_w_i_n_d_o_w_s_/_d_e_s_k_t_o_p_/_m_s_7_2_4_8_7_5_(_v_=_v_s_._8_5_)_._a_s_p_x
+
+a především
+_h_t_t_p_:_/_/_m_s_d_n_._m_i_c_r_o_s_o_f_t_._c_o_m_/_e_n_-_u_s_/_l_i_b_r_a_r_y_/_w_i_n_d_o_w_s_/_d_e_s_k_t_o_p_/_m_s_7_2_4_8_7_8_(_v_=_v_s_._8_5_)_._a_s_p_x
+
+
+Ale ještě jednou - hromadná editace registrů není dobrý nápad, stejně nakonec
+narazíš na to, že některé klíče nepůjdou změnit bez toho, abys získával
+oprávnění systému. Ať už řešíš jakýkoli problém, tak ho zkus vyřešit lépe,
+tohle není správná cesta.
+ _p_a_n_ _V [Muž]99 [Kategorie]
+26.12.2011 01:30:29
+pan V:
+Po větvích to nejde, když nevím v které větvi co je a je to napráskané skoro
+všude.
+
+Ale zdá se že tvoje doporučení o souboru s registrem asi taky nebo ve stylu
+víš co děláš, když mi to nakonec stejně hlásí chyby...
+ ddestiny
+26.12.2011 01:27:31
+pan V:
+To jsem už udělal (zeditoval ty soubory) ale je problém během importu. Akorad
+classes.reg slo bez problemu. Ostatni bud nejdou kvuli nejake chybe v pristupu
+do registru nebo se do registru nepovedlo importovat vsechna data.
+
+Ta druha možnost - dělat to cele ručně v regeditu by byla dost na dlouho a
+nevim zda uspesna.
+ ddestiny
+26.12.2011 00:56:46
+@ddestiny: Já textové operace vždycky dělal v nějakém Unixu, kde s tímhle není
+žádný problém :)
+ _p_a_n_ _V [Muž]99 [Kategorie]
+26.12.2011 00:47:32
+pan V:
+Ty největší soubory s registry zabírají 13 a 40 MB. Tak to nevím v čem to
+editovat abych se zbavil řádků, kde se nenachází hledaná hodnota...
+ ddestiny
+26.12.2011 00:46:16
+Vyexportování celého registru by bylo náročné a byl by to velký soubor. Ano
+mohl bych to tak udělat, ale tohle řešení se mi zdá divné.
+Je to nejjednodušší řešení, které ti bude fungovat, pokud si nejsi schopný
+napsat program sám a pokud si nechceš zasírat PC dalšími programy. Mimochodem
+- zas tak velký soubor by to nebyl - když to budeš exportovat po jednotlivých
+větvích (HKLM, HKCU, ...), tak s tím půjde i vcelku v pohodě pracovat.
+
+Pointa mého poukazování na "víš co děláš" je v tom, že si myslím že se
+pravděpodobně pokoušíš ne úplně šikovně opravit problém, který by se dal
+opravit mnohem lepším (systémovějším) zásahem. Hromadné nahrazování všeho v
+registrech není úplně košer cesta. Nicméně samozřejmě nevím, co řešíš - a je
+mi to jedno, bylo to z mé strany pouze konstatování :)
+ _p_a_n_ _V [Muž]99 [Kategorie]
+26.12.2011 00:40:10
+pex:
+Kdybych to uměl tak bych to napsal zadarmo a dal všem na internet ke stažení a
+nedělal bych ze sebe bůhvíco.
+
+pan V:
+Vyexportování celého registru by bylo náročné a byl by to velký soubor.
+Ano mohl bych to tak udělat, ale tohle řešení se mi zdá divné.
+Větu: "Když víš co děláš tak ne. " samozřejmě že si ji můžeš vyložit více
+způsoby ale ve slovíčkách bych se nerad babral. Nemyslím si že člověk musí mít
+VŠ na to aby mohl říct "Doufám, že víš co děláš!".
+ ddestiny
+26.12.2011 00:20:49
+@ddestiny: pex má pravdu, kdybys opravdu věděl, co děláš, tak by ses na
+takovouhle blbost ptát nemusel. Tohle "hromadné nahrazování" v registrech bývá
+obvykle zoufalá snaha opravit problém, který se dá mnohdy opravit naprosto
+jinak a systémověji.
+
+
+Ale pro mě za mě:
+
+1) Můžeš (třeba) registry exportovat, v tom exportovaném souboru provést
+požadované změny a změněný soubor opět importovat.
+
+2) Můžeš si napsat celkem jednoduchý program, který požadované změny udělá.
+ _p_a_n_ _V [Muž]99 [Kategorie]
+26.12.2011 00:04:53
+Očividně ne, programovat neumíš a google používat taky ne...
+ pex
+25.12.2011 23:54:41
+pex:
+To si trochu pleteš pojmy brouku, protože nejsem programátor abych něco
+takového dělal.
+ ddestiny
+25.12.2011 23:50:15
+Za 10 tisíc ti ten program i napíšu.
+ pex
+25.12.2011 23:49:25
+Kdybys věděl co děláš, tak by ses tu nepotřeboval ptát, ale napsal by sis na
+to pomocí MSDN examplů program: _h_t_t_p_:_/_/_g_o_o_._g_l_/_v_9_H_K_B
+ pex
+25.12.2011 22:48:36
+Když víš co děláš tak ne. Mám ten systém zazálohovaný. Ale je to jediná
+možnost jak opravit chybu.
+ ddestiny
+25.12.2011 22:31:04
+Mohu se zeptat? Na co? Hromadné nahrazení v něčem tak ctlivém je hloupost,
+jelikož to může znehybnit systém jedním šmahem...
+ _p_a_n_ _V [Muž]99 [Kategorie]
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+

@@ -1,0 +1,232 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+Zpověď č.586014, vloženo 15.12.2011 20: _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+07:32                                   _s_t_r_á_n_k_a_]
+Jak zjistím prvočíslo?
+Mám dotaz. Nevím jak zjistím jestli je číslo prvočíslo. Prosím vysvětlete mi
+to. :)*
+ emily123456 [Žena]16  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+17.12.2011 01:07:15
+Program prvocisla;
+uses CRT;
+var X,Y,I:integer;
+
+
+BEGIN
+
+ClrScr;
+
+WriteLn('zadej cislo');
+ReadLn(X);
+
+Y:=0;
+
+for I:=2 to X-1 do
+begin
+
+if (X mod I)=0 then
+begin
+Y:=Y+1;
+end;
+
+end;
+
+if Y=0 then
+begin
+WriteLn('je to prvocislo');
+end
+else
+begin
+WriteLN('neni to prvocislo');
+end;
+
+ReadLn;
+
+END.
+[Smajlík]
+ MrWee
+16.12.2011 07:19:24
+emily123456 jej prepáč, až teraz som si všimol tvoj vek. Som myslel že to
+potrebuješ na nejakú úlohu na výšku. :) v tomto prípade tak ako povedal
+Pomocnik alebo Akvíd.
+
+Proste zoberieš si číslo povedzme že to čislo je 100, a skúšaš ho deliť
+všetkými číslami ktoré je menše ako 100 a väčšími ako 1, ak sa nebude bez
+zvyšku dať tak to prvočíslo neni.
+tu vydíš že 100 / 50 = 2 zvyšok 0 takže prvočíslo to neni.
+
+Zoberme si menšie čislo. 13.
+
+13/12 = 1 zvysok 1
+13/11 = 1 zvysok 2
+13/10 = 1 zvysok 3
+13/9 = 1 zvysok 4
+13/8 = 1 zvysok 5
+13/7 = 1 zvysok 6
+13/6 = 2 zvysok 1
+13/5 = 2 zvysok 3
+13/4 = 3 zvysok 1
+13/3 = 4 zvysok 1
+13/2 = 6 zvysok 1
+nikde nevznikol zvyšok 1 takže to prvočíslo je.
+
+alebo majme číslo 15
+15/14 = 1 zvysok 1
+15/13 = 1 zvysok 2
+15/12 = 1 zvysok 3
+15/11 = 1 zvysok 4
+15/10 = 1 zvysok 5
+15/9 = 1 zvysok 6
+15/8 = 1 zvysok 7
+15/7 = 2 zvysok 1
+15/6 = 2 zvysok 3
+15/5 = 3 zvysok 0
+ako vydíš pri 15/5 sme maly zvyšok 0 a tu môžme skončiť lebo už vieme že 15
+prvočíslo neni.
+
+ak máš väčšie číslo, napríklad číslo 67 tak nemusíš to skúšať úplne na všetky,
+ale stačí ti začať deliť číslami menšími alebo rovnými ako je odmocnina z toho
+čísla, v tomto prípade odmocnina zo 67 čiže odmocnina(67) = 8.aj nejaké drobné
+takže náš prípad bude vyzerať takto:
+67/8 = 8 zvysok 3
+67/7 = 9 zvysok 4
+67/6 = 11 zvysok 1
+67/5 = 13 zvysok 2
+67/4 = 16 zvysok 3
+67/3 = 22 zvysok 1
+67/2 = 33 zvysok 1
+Čiže je to prvočíslo
+
+alebo skúsme to pre 74, odmocnina zo 74 je 8 a zase nejaké drobné čiže:
+74/8 = 9 zvysok 2
+74/7 = 10 zvysok 4
+74/6 = 12 zvysok 2
+74/5 = 14 zvysok 4
+74/4 = 18 zvysok 2
+74/3 = 24 zvysok 2
+74/2 = 37 zvysok 0
+
+a tu vydíme že 74 je delitelné 2 čiže to prvočíslo neni.
+[Smajlík] [Muž]33 [Kategorie]
+ _a_t_m_e_l_5_1
+16.12.2011 07:00:10
+lidská demence: To vôbec neni neoptimálny algoritmus, prvočísla sa blbo
+zisťujú a tým že si nepoužil rekurziu si zistal v pameťovej náročnosti stále v
+O(1) pričom na rekurzii by bola o dosť väčšia, záleží na tom ako by sa
+rekurzia napísala samozrejme, ale v triede polynomiálnej zložitosti by si
+zostal.
+
+A čo sa týka časovej zložitosti tak z O(n) sa nedostaneš, ale každopádne
+existujú metódy na typovanie prvočíselnosti. Nedávno som o tom čítal zaujímavú
+prehladovku. Mám pocit že to bola táto práca: thales.doa.fmph.uniba.sk/
+sleziak/papers/aks.pdf ale niesom si istý či je to ona. Každopádne ak áno tak
+by sa dala nájsť metóda O(1) ktorá ti z určitou celkom vysokou
+pravdepodobnosťou zahlási či sa jedná alebo nejedná o prvočíslo.
+ _a_t_m_e_l_5_1 [Muž]33 [Kategorie]
+15.12.2011 21:35:24
+A jak je velke? Pro mrnava cisilka rekneme tak do 1000000000000 viz "lidská
+demence", pro vetsi se hodi napriklad Milleruv-Rabinuv algoritmus.
+ _D_E_A_D_B_E_E_F [Muž]47 [Kategorie]
+15.12.2011 20:40:37
+lidská demence: nepřesnosti se můžeš dopustit tak v dokumentaci, v kódu je to
+chyba a mých zranění se nedotýkej.
+ _t_e_n_ _p_r_a_v_ý [Muž] [Kategorie]
+15.12.2011 20:36:07
+ten pravý: koukam, ze jsem te tou nepresnosti opravdu hodne ranila, a tak z
+toho mas depresi :) jdi se napit caje.
+[Smajlík]       [Žena] [Kategorie]
+ _l_i_d_s_k_á_ _d_e_m_e_n_c_e
+15.12.2011 20:31:46
+lidská demence: za to machrování na někoho bez základů ti to patří - a jestli
+tě to nepraštilo do očí, jdi dělat něco jiného, nebo se příště víc soustřeď
+ _t_e_n_ _p_r_a_v_ý [Muž] [Kategorie]
+15.12.2011 20:27:43
+ten pravý: ok tak v te podmince na zacatku ma byt porovnani se dvojkou no,
+stane se
+ _l_i_d_s_k_á_ _d_e_m_e_n_c_e [Žena] [Kategorie]
+15.12.2011 20:27:42
+Brbna: Tak se klidně div :D Jen jde o to, že jsem to prostě po dvou letech
+nepoužívání zapoměla no... zase si pamatuju jiné věci... :)
+ emily123456
+15.12.2011 20:26:12
+lidská demence: jednička není prvočíslo
+ _t_e_n_ _p_r_a_v_ý [Muž] [Kategorie]
+15.12.2011 20:24:39
+Já taky jisté věci zapomínám... ale stejně se nestačím divit.
+ _B_r_b_n_a [Žena]15 [Kategorie]
+15.12.2011 20:22:25
+nejjednodussi, celkem neefektivni algoritmus, ale pro pochopeni nejlepsi:
+boolean prvocislo(int cislo) {
+if (cislo < 1) return false;
+for (int i = 2; Math.sqrt(cislo) > i; i++)
+if (cislo%i == 0)
+return false;
+return true;
+}
+[Smajlík]       [Žena] [Kategorie]
+ _l_i_d_s_k_á_ _d_e_m_e_n_c_e
+15.12.2011 20:15:55
+Použij Eratosthenovo síto a pokračuj do nekonečna.
+ _Ó_ó_ó_ _B_o_ž_s_k_á [Žena]66 [Kategorie]
+15.12.2011 20:11:45
+Nikdy nikomu nevěř a na všechno se znova přeptej u nezávislého zdroje.
+ _t_e_n_ _p_r_a_v_ý [Muž] [Kategorie]
+15.12.2011 20:10:10
+Pokud už to číslo nemá jiné dělitele, než samo sebe a jedničku, je to
+prvočíslo.
+ _v_š_e_c_h_n_o_ _j_e_ _j_i_n_a_k [Žena]32 [Kategorie]
+15.12.2011 20:10:09
+Prvočíslo je číslo, které je dělitelné pouze jedničkou a sebou samým.
+[Smajlík]
+ xoxoxo
+15.12.2011 20:09:26
+Je to cislo, ktere je delitelne jenom cislem 1 nebo sebou samym.. To znamena..
+3, 5, 7, 11, 13, 17 atd.. 3:1 = 3... 3:3 = 1 a jinym cislem to sice vydelis,
+ale ne v cele cislo.. Takze asi tak..
+[Smajlík]
+ Pomocnik
+15.12.2011 20:09:22
+jde bezezbytku dělit pouze jednou nebo samo sebou
+ Akvíd
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+
