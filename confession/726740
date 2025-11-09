@@ -1,0 +1,135 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+   Otázky - Vzkazy č.726740, vloženo _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+   27.05.2013 14:03:57               _s_t_r_á_n_k_a_]
+   Pomoc s CSS
+   Zdravím,
+
+   chtěl bych vás poprosit o pomoc s CSS kódem, protože se mi na pozadí
+   nedaří nastavit dva obrázky najednou. Jeden má být vlevo a odsazen 2% od
+   okraje a druhý vpravo s týmž odsazením. Oba se mají ještě vertikálně
+   opakovat.
+
+   Oba kódy (vždy funguje jen jeden), vypadají takto:
+
+   body {background-image: url(levy_ornament.jpg); background-repeat:
+   repeat-y; background-position: 2% 0%}
+
+   body {background-image: url(pravy_ornament.jpg); background-repeat:
+   repeat-y; background-position: 98% 0%}
+
+   Jak je skloubit, aby fungovaly dohromady? Děkuji mnohokrát.
+    mlpokn [Muž]  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+27.05.2013 18:59:13
+Ano, dělám s tím poprvé a vůbec tomu neorzumím - začal jsem včera večer. To je
+ale docela pochopitelné, když se tady na to ptám, ne?
+
+S velikostí potíže nemám a co si tam kdo strká, mě nezajímá. To, na co jsem se
+zeptal, mi bylo dostatečně zodpovězno - s tím jsem vlastně tak nějak počítal
+(důvody jsem uváděl), a proto jsem také napsal sem, a ne jinam.
+ mlpokn
+27.05.2013 18:30:35
+Margin u BODY zruš a DIVu nastav padding. Výsledek bude stejný - po krajích
+obrázky a mezi ně vmáčklý obsah.
+
+Příjde mi, že tomu hlavně moc nerozumíš ty. To děláš s CSS poprvé? Hoď se
+raději dotaz na velikost penisu nebo co si tam ženský strkaj a uvidíš kolik
+tomu bude rozumnět lidí.
+ ITsupport
+27.05.2013 17:43:07
+Jenže co když ten obrázek potřebuju umístit mimo <body></body>? Mám totiž
+pomocí margin udělaný vnější okraj (zleva a zprava) a na každou stranu chci
+právě jeden obrázek.
+
+Vzhledem k tomu, že nejde o nic důležitého a vím, že sem chodí i lidé, kteří
+tomu rozumí, rozhodl jsem se zeptat tady.
+ mlpokn
+27.05.2013 16:01:03
+Místo aby obsah stránky vkládál přimo do <body>...</body>, tak tam vložíš
+navíc <body><div>...</div></body>
+
+V CSS pak dáš jedno pozadí k body a druhé k div. Naví musíš nastavit pro div
+min-height a min-widht na 100%, aby se i v připadě krátké stránky roztáhl přes
+celou plochu.
+
+P.S. Proč se na takové věci neptáš raději na specializovaném fóru. Na
+Zpovědnici jsou odborníci akorát na sex a vztahy.
+ ITsupport
+27.05.2013 15:39:56
+ITsupport: to je ono, děkuji moc. Nicméně třeba zrovna u IE 9 (ačkoliv u něj
+by to fungovat mělo), to nejde, což může být trochu problém. Takže by možná
+bylo vhodnější druhé řešení s DIV. To se dělá přesně jak?
+ mlpokn
+27.05.2013 15:14:15
+Více pozadí naráz umožňuje až CSS3. Viz _h_t_t_p_:_/_/_w_w_w_._c_s_s_3_._i_n_f_o_/_p_r_e_v_i_e_w_/_m_u_l_t_i_p_l_e_-
+_b_a_c_k_g_r_o_u_n_d_s_/_ 
+Ale počítej s tím, že starší prohlížeče to neumí (na konci odkazované je
+seznam podporovaných).
+
+Obezličkou je dát jeden do BODY a přidat ještě jeden kontejner DIV a do něj
+dát druhý.
+ ITsupport
+27.05.2013 15:04:52
+jak pise typek nize ty obrazky bych nejakym zpusobem spojil, moc sem
+nepochopil jak to presne chces ale je prasarna nastavovat jednomu elementu dve
+ruzne css hodnoty jednoho stylu. Nech jen jeden obrazek na pozadi a druhy dej
+do divu a ten k tomu nejak priplacni
+ MHHB
+27.05.2013 14:52:59
+Jenže já potřebuju, aby ty obrázky byly vždy vedle textu z každé strany a
+jelikož má každý jiné rozlišení, nevycházelo by to tak u všech.
+ mlpokn
+27.05.2013 14:46:32
+jo tohle ti takhle nepůjde kamaráde.
+Ty obrázky spoj jednoduše do jednoho.
+ css killer
+27.05.2013 14:38:03
+Tak to bohužel nefunguje.
+ mlpokn
+27.05.2013 14:17:31
+Vůbec se mi nechce to studovat, ale možná by pomohlo nastavit obtékání z leva
+a z prava?
+float: left, float: right, či jak to bylo?
+ _y_e_a [Muž]23 [Kategorie]
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+

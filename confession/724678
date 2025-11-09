@@ -1,0 +1,425 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+Zpověď č.724678, vloženo 19.05.2013 10: _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+57:59                                   _s_t_r_á_n_k_a_]
+Problém s netom
+Zdravím vás IT maniaci ;) potrebujem pomoc ohľadom netu-keď idem priamo cez
+kábel tak net ide v pohode,avšak keď idem cez modem,píše mi žiadny prístup na
+internet...Neviete mi s tým pomôcť?
+ _h_a_d_a_j_k_t_o [Muž]15 [Kategorie]  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+20.05.2013 14:00:14
+hhaaddaajjkkttoo, niet zač. Moc rád! :)
+[Smajlík] [Muž]96 [Kategorie]
+ _r_a_m_e_n
+20.05.2013 13:46:03
+Ramen díky,už som to spravil :) fakt díky za tvoju ochotu ;)
+ _h_a_d_a_j_k_t_o [Muž]15 [Kategorie]
+20.05.2013 07:15:42
+Som vďačná za TeamViewer a za schopných ľudí :D
+ _B_l_o_o_d_y_ _f_l_o_w_e_r [Žena]31 [Kategorie]
+19.05.2013 20:52:25
+A s tým pingom si to skúsil...?
+
+Cez gombík Štart, tam je (asi) "Spustiť...", v tom boxe dať "cmd" a OK gombík.
+
+Otvorí sa čierne okno s dajakým žvástom typu:
+
+"C:blablabla>"
+
+Tam zadáš:
+
+ping 77.234.X.X
+
+Prosto tú Tvoju externú IP adresu a potvrdíš enterom.
+Ak bude budeš mať odozvu v štýle:
+
+OOddppoovvee?ď oodd 7777..223344..XX..XX:: bbaajjttyy==3322 ?čaass==22 mmss TTTTLL==225555
+
+potom všetko super, teda veľmi zle, lebo ťažko povedať, kde je problém, možno
+v routovaní, ale ak budeš mať odpoveď:
+
+?Čaass ppoo?žiiaaddaavvkkyy uuppllyynnuull..
+
+Alebo hocičo iné, potom máš problém medzi PC a routerom. A to by sme vedeli
+ďalej diagnostikovať. Teda... rozhodne lepšie diagnostikovať, ako ten prvý
+prípad. ;)
+[Smajlík] [Muž]96 [Kategorie]
+ _r_a_m_e_n
+19.05.2013 20:39:33
+Takto mám aj nastavené,a nejde :/
+ _h_a_d_a_j_k_t_o [Muž]15 [Kategorie]
+19.05.2013 20:35:55
+Nebooooj, nemá tam byť vôôôbec nič, práveže všetko má byť nastavené na DHCP.
+Pre ukážku asi najlepšie obrázok, musí to vyzerať takto:
+
+_h_t_t_p_:_/_/_d_o_p_i_c_e_._s_k_/_6_2_8_ 
+
+Všeeeetko na DHCP.
+[Smajlík] [Muž]96 [Kategorie]
+ _r_a_m_e_n
+19.05.2013 20:30:02
+"Čo napokon môžeš aj Ty. Pozri si prosím detaily wifi adaptéra, v rámci neho
+TCP/IP protokol, či tam náhodou nemáš nejaké veci nastavené. Všade by malo byť
+nastavenie DHCP. A to isté aj na routri, na LAN a WIFI musí byť DHCP SERVER,
+aby automaticky priraďovalo IP adresu. "
+
+Vieš ako,mám 15 rokov končím základnú školu,to čo si mi tu napísal je aj
+troška moc,nerozumiem veľmi tomu :P ako to má byť nastavené,čo tam má byť čo
+nemá
+ _h_a_d_a_j_k_t_o [Muž]15 [Kategorie]
+19.05.2013 20:15:38
+Ne neeeee, teamviewer je len systém vzdialenej pomoci, ktorý ja používam pri
+riešení podobných problémov u klienta. Že sa im na diaľku pripojím na počítač,
+chvíľku magicky zašibrinkujem myšou a potom zrazu všetko funguje. :D Teda
+aspoň tak to vyzerá z pohľadu nezaujatého pozorovateľa/užívateľa.
+
+Prosto vtedy si viem pozrieť v rámci systému všetky nastavenia, do hĺbky a
+vyriešiť problém na mieste. :)
+
+Ako napríklad prekontrolovať nastavenia wifi karty. :)
+
+Čo napokon môžeš aj Ty. Pozri si prosím detaily wifi adaptéra, v rámci neho
+TCP/IP protokol, či tam náhodou nemáš nejaké veci nastavené. Všade by malo byť
+nastavenie DHCP. A to isté aj na routri, na LAN a WIFI musí byť DHCP SERVER,
+aby automaticky priraďovalo IP adresu.
+
+:)
+[Smajlík] [Muž]96 [Kategorie]
+ _r_a_m_e_n
+19.05.2013 20:02:05
+nie nie už to je asi nastavené v pohode,len neviem prečo to nechce ísť...cez
+ten teamviewer by to išlo?na čom to funguje :P
+ _h_a_d_a_j_k_t_o [Muž]15 [Kategorie]
+19.05.2013 19:56:37
+A hlavne, ak si niečo konfiguroval na wifi adaptéri pc/nb, potom tie všetky
+nastavenia vynuluj. Napríklad, ak by si nááááhodou gateway pre wifi kartu
+nastavil. Lebo teraz ona môže ukazovať kadekde. :-S
+
+Ach jo.... Väčšinou ja takéto veci riešim cez teamviewer/skype, to je úúúúplne
+iný level supportu! :D :)
+[Smajlík] [Muž]96 [Kategorie]
+ _r_a_m_e_n
+19.05.2013 19:56:02
+blikajú všetky kontrolky okrem 1 taký počítač a vnom 1...inac ten bezpecnostny
+kod som mal teraz heil :D
+ _h_a_d_a_j_k_t_o [Muž]15 [Kategorie]
+19.05.2013 19:45:53
+hadajkto, skús prosím v cmd okne ping na IP adresu, ktorú si začiernil. :)
+
+Ak Ti neodpovie, potom máš zrejme problém priamo v routri pri prenose medzi
+wifi a WAN časťou.
+[Smajlík] [Muž]96 [Kategorie]
+ _r_a_m_e_n
+19.05.2013 19:42:56
+Si pozri na router či ti svieti kontrolka vysielania wifi signálu.
+ _a_k_t_y_X [Muž]31 [Kategorie]
+19.05.2013 19:42:18
+to sa nejak dá?lebo akurát mi píše len žiadny prístup na internet
+ _h_a_d_a_j_k_t_o [Muž]15 [Kategorie]
+19.05.2013 19:40:18
+Tak máš na routri vypnuté wifi predpokladám.
+ _a_k_t_y_X [Muž]31 [Kategorie]
+19.05.2013 19:38:32
+cez kábel ano ide,akurat som cez neho :D
+ _h_a_d_a_j_k_t_o [Muž]15 [Kategorie]
+19.05.2013 19:38:01
+Čiže cez kábel ide?
+ _a_k_t_y_X [Muž]31 [Kategorie]
+19.05.2013 19:33:35
+ved ja to robim len pre istotu vieš ako bezpečnosť nadovšetko :D no nejde len
+ked sa snazim pripojit cez wi-fi
+ _h_a_d_a_j_k_t_o [Muž]15 [Kategorie]
+19.05.2013 19:31:46
+Inač tú IP-čku fakt nemusíš začierňovať :D
+Ja tu napr. vidím celú pri tvojích príspevkoch ;)
+[Smajlík] [Muž]31 [Kategorie]
+ _a_k_t_y_X
+19.05.2013 19:29:41
+Nejde ti len cez wifi alebo ani keď máš pripojený kabel?
+ _a_k_t_y_X [Muž]31 [Kategorie]
+19.05.2013 19:16:43
+Stalo sa to pred týždňom v sobotu :D no už som to tak spravil a nabehlo to
+kukaj
+
+_h_t_t_p_:_/_/_i_m_g_1_9_4_._i_m_a_g_e_s_h_a_c_k_._u_s_/_i_m_g_1_9_4_/_7_8_0_0_/_b_e_z_n_z_v_u_z_j_x_._p_n_g_ 
+
+no ale internet stále nejde :(
+[Smajlík] [Muž]15 [Kategorie]
+ _h_a_d_a_j_k_t_o
+19.05.2013 19:04:37
+Že si tvoj poskytovateľ zakladá na MAC znamená asi toľko, že keď ťa pripojí do
+netu, tak si uloží adresu tvojej sieťovky a tým vie, že si to ty. Ale keď si
+kúpiš novú sieťovku, tak sim sala bim a net ti nepôjde, lebo MAC tvojej novej
+sieťovky ti zablokuje, kým si to s ním nevybavíš a nenahlásiš mu zmenu. To
+isté platí aj keď pripojíš nový router. Net ti nepôjde, lebo má inú MAC ako
+oni evidujú.
+
+Čiže keď ti ide net v kompe, tak si naklonuj tú istú adresu do routra a
+vybavené. Alebo počkaj, kým to opravia.
+
+By ma zaujímalo, čo kto stvára v neďeľu poobede, že pretrhne v zemi zakopaný
+kábel :D
+ _a_k_t_y_X [Muž]31 [Kategorie]
+19.05.2013 18:43:40
+Vážený zákazník,
+chceli by sme Vás touto cestou informovať o probléme, ktorý ste zrejme
+zaregistrovali ako výpadok našich služieb.
+
+Dnes o 12:30 došlo k pretrhnutiu optického kábla na trase Dolný Kubín -
+Námestovo, kontrétne v katastri obce Vavrečka.
+
+Táto situácia bola veľmi vážna, a preto sme zmobilizovali všetky potrebné
+sily. Na miesto sme bezodkladne vyslali tým technikov, ktorí problém
+odstránili natiahnutím a zazváraním časti poškodenej optickej trasy. K
+obnoveniu dodávky primárnych služieb došlo po 15:00, niektoré služby ako
+napríklad digitálna televízia IPTV stále vykazujú chybovosť.
+
+Funkčnosť služieb bude postupne obnovovaná v najbližšom čase.
+
+Tento problém nebol spôsobený chybou našej spoločnosti, no každopádne došlo k
+výpadku našich služieb, preto by sme sa Vám touto cestou chceli za vzniknutú
+situáciu ospravedlniť.
+
+DSiDATA, s.r.o.
+
+táto správa prišla od poskytovateľa služieb
+ideme dalej
+
+"Totiž..... ak Tvoj poskytovateľ internetu si zakladá na MAC adresách, potom
+kábel z PC nemôžeš len tak strčiť do routra, lebo sa nezhodujú hardvérové MAC
+adresy a potom samozrejme nepridelí všetky tie potrebné údaje WAN strane
+routra. :-S "
+tak trošku nerozumiem :P
+
+"PS: Ak nezafungovalo PPPoE na routri, aj napriek zadaniu správneho
+prihlasovacieho mena/hesla, potom fakt kontrolujú MAC adresu a tú môžeš na
+routri, teda na lepších modeloch nastaviť. Nazýva sa to "clone MAC address".
+Vtedy je dobré si opísať v PC MAC adresu sieťového adaptéra a napučiť ju do
+routra na WAN strane. A voila, všetko funguje! :D Nie raz som to takto
+riešil... :P :)"
+no mal som to v nastaveniach,čiže dať to clone mac adress a skúsiť to dalej
+robit?
+ _h_a_d_a_j_k_t_o [Muž]15 [Kategorie]
+19.05.2013 18:24:39
+ppnnaakk: Naaahooodooooou, Tvoje rady boli úplne super v rámci dostupných
+informácií. :) Tiež som to isté chcel poradiť, lebo ten gateway tam zjavne
+chýbal. Len potom mi nabehol heuristický modul a som začal vymýšľať
+alternatívne [hororistické] scenáre, a že čo by to ešte asi tak mohlo byť. :D:
+D:D
+
+Takže v úplne pohode! :) A vôbec, toto len také súkromné info pre Teba:
+nevzdávaj to, bo čo tak semo-tamo čítam Tvoje príspevky, si fajn. :) A nie raz
+som sa dobre na nich zachechtal. Hehehe. :D ;)
+[Smajlík] [Muž]96 [Kategorie]
+ _r_a_m_e_n
+19.05.2013 18:12:16
+Fuh... po Tvojom dodatočnom objasnení som ešte viac zmätený.... :-S
+
+Tak pokúsim sa sám sebe si ujasniť, ako sa veci majú a prosím aj Tvoju
+súčinnosť, oki? :)
+
+Predpokladám teda, že nič sa v zariadeniach u Teba doma nezmenilo, všetko
+pôvodne fungovalo ako má, ibaže nastala neočakávaná udalosť a sa to všetko
+pototo. Je môj predpoklad správny? Ak áno, ideme ďalej.
+
+"takže vysvetlím ako sa to stalo,jedného pekného sobotného dňa sa stala taká
+nehoda-pretrhol sa kdesik vonka kábel,odvtedy wi-fi nejde,"
+
+Tu mi uniká súvislosť medzi Wi-fi a káblom kdesi vonku. Máš dvoch
+poskytovateľov internetu? Jeden cez wifi a druhý cez kábel?
+Alebo wifi router je napojený na INÝ kábel toho istého providera? Prosto tuto
+mám veľku nejasnosť... :-S
+
+"o 5 večer sa to opravilo,cez kábel internet ide,cez wi-fi nie"
+
+Toto ukazuje na tie dve súbežné pripojenia. Ako keby jeden pretrhnutý kábel
+opravili, čo ide rovno do PC, ale ten druhý, čo ide do wifi routra nie.
+Totiž..... ak Tvoj poskytovateľ internetu si zakladá na MAC adresách, potom
+kábel z PC nemôžeš len tak strčiť do routra, lebo sa nezhodujú hardvérové MAC
+adresy a potom samozrejme nepridelí všetky tie potrebné údaje WAN strane
+routra. :-S
+
+Ak je to tento prípad, potom možno musíš vydržať ešte 2+ hodiny a opraví sa aj
+wifi strana! :D:D Sama od seba. ;)
+
+Ale inak, medzi nami dievčatami, doporučoval by som teraz kompletne všetky
+zariadenia doma vypnúť a zapnúť, možno sa to vyrieši samo. Lebo tak... nie raz
+som riešil problém, ktorému pomohlo vypnúť/zapnúť zariadenie. :D
+
+PS: Ak nezafungovalo PPPoE na routri, aj napriek zadaniu správneho
+prihlasovacieho mena/hesla, potom fakt kontrolujú MAC adresu a tú môžeš na
+routri, teda na lepších modeloch nastaviť. Nazýva sa to "clone MAC address".
+Vtedy je dobré si opísať v PC MAC adresu sieťového adaptéra a napučiť ju do
+routra na WAN strane. A voila, všetko funguje! :D Nie raz som to takto
+riešil... :P :)
+[Smajlík] [Muž]96 [Kategorie]
+ _r_a_m_e_n
+19.05.2013 17:41:23
+ramen:zle som sa vyjadril :D kuaaa :D presne tak prestanem pouzivat tie
+odborne slova :D takže vysvetlím ako sa to stalo,jedného pekného sobotného dňa
+sa stala taká nehoda-pretrhol sa kdesik vonka kábel,odvtedy wi-fi nejde,nešlo
+to ani cez kábel od poskytovateľa internetu :) o 5 večer sa to opravilo,cez
+kábel internet ide,cez wi-fi nie-neviem či som to nereštartoval úplne do
+základov,a tu sa vyskytol problém...a tá tvoja teória,by si neveril ale tak to
+aj robím-dám si pekne pppoe pripojenie,meno heslo a nič...a práve to wan
+neviem nastaviť
+[Smajlík] [Muž]15 [Kategorie]
+ _h_a_d_a_j_k_t_o
+19.05.2013 17:39:57
+ramen
+
+ze ide cez kabel podla mna znamena, ze kabel od netu srtci do pc a je spokojny
+:D
+ze ide cez modem, podla obrazkov sudim, ze nevie o tom, zo to co ma je wifi
+router a nie modem.
+
+a mi akosi vobec nenapadlo, ze ked je to novy router, tak moze byt problem s
+tymi udajmi :D proste vravim, nesypem to z rukava :D
+ pnak
+19.05.2013 17:19:46
+Pooočkaj, pooooooočkaj. :D
+
+Čo to znamená, že ideš cez kábel a čo, že ideš cez modem? :-S
+Táto kombinácia slov mi nedáva moc totok.... :-/ Funkčný význam.
+Pomohlo by, keby si opísal, čo je to ten kábel a čo je to ten modem. Prosto,
+aká je topológia Tvojej siete. *dá si dve zauchá a novoročný záväzok, že
+nebude prehnane používať odbornú terminológiu* :D:D
+
+Lebo totiž podľa obrázkov, na WAN strane nemáš priradenú IP adresu, ba ani
+ostatné potrebné údaje ako netmask a gateway, takže táto WAN strana rozhodne
+nevyžiadala svoje dáta cez DHCP a/alebo si ich nenastavil ručne.
+
+Prvý obrázok s WIFI a LAN nastaveniami je irelevantný.
+
+Môžem vysloviť moju vlastnú teóriu, ako asi tak sa celá vec má? O:-D
+Máš zrejme internet od dajakého providera, ktorý chce PPPoE pripojenie, teda
+musíš sa naň nahlásiť menom a heslom. Ten ujo, čo prišiel od tej firmy k vám
+nastavil Tvoj NB/PC, nakonfiguroval PPPoE pripojenie priamo cez ethernet
+kábel, lenže Ty si teraz kúpil nejaký nový ROUTER (to asi mal byť ten MODEM :
+D:D), napchal si kábel od providera do neho a teraz sa čuduješ, že ak ideš na
+router cez wifi, tak internet nefunguje. Samozrejme, že nie, lebo si nezadal
+tie PPPoE prihlasovacie údaje do ROUTRA.
+
+Od toho tam máš ten gombík, že Connect. A hlavne niekde treba zadať tie
+prihlasovacie údaje. A ešte hlavnejšie, nájsť asi najprv zmluvu, kde by mali
+byť tieto prihlasovacie údaje napísané. ;)
+[Smajlík] [Muž]96 [Kategorie]
+ _r_a_m_e_n
+19.05.2013 17:14:32
+neviem ti to tak cez net, ked to nevidim. az tak to vsetko z rukava sypat
+neviem :D
+ pnak
+19.05.2013 16:55:03
+ako gateway daj ip routra. to je ta, ktoru si pisal do prehliadaca napr.
+192.168.0.1
+ pnak
+19.05.2013 16:45:22
+akú gateway dať? ked som dam do prikazoveho riadka ipconfig tak mi pise
+0.0.0.0 maska podsiete 255.255.255.255 ale to cez sirokopasmove pripojenie
+[Smajlík] [Muž]15 [Kategorie]
+ _h_a_d_a_j_k_t_o
+19.05.2013 16:17:50
+už u náš práveže bol,a nevie čím to môže byť že to nejde
+ _h_a_d_a_j_k_t_o [Muž]15 [Kategorie]
+19.05.2013 16:12:15
+tak nech ti to pride urobit
+
+nestaci tam zapojit kabel, zeby to fungovalo
+[Smajlík]
+ pnak
+19.05.2013 16:10:29
+sestrin frajer tak nič nenastavoval a išlo to :P
+ _h_a_d_a_j_k_t_o [Muž]15 [Kategorie]
+19.05.2013 16:08:38
+:D ale to nenastavujes cez net, to sa len dostanes do nastaveni routra
+
+tam si musis ponastavovat dns, gateway, ip a masku (subnet)
+masku si daj 255.255.255.0, dns si mozes dat 8.8.8.8 ale ostatne uz musis
+vediet ty
+ pnak
+19.05.2013 15:57:28
+pripojis ku PC,do prehladiaca das ipcku a ides
+ _h_a_d_a_j_k_t_o [Muž]15 [Kategorie]
+19.05.2013 15:51:21
+ako cez web, ked sa cez neho nikam neripojis? a co ti nejde cez cd?
+ pank
+19.05.2013 15:47:02
+cez cdčko to nastaviť nejde,musim len cez web
+ _h_a_d_a_j_k_t_o [Muž]15 [Kategorie]
+19.05.2013 15:45:27
+nemas k tomu cd-cko?
+ pnak
+19.05.2013 15:43:52
+tak ako ho nastaviť :P to je ten problém
+ _h_a_d_a_j_k_t_o [Muž]15 [Kategorie]
+19.05.2013 15:37:27
+to je mozne, ale nastaveny ho nemas
+[Smajlík]
+ pnak
+19.05.2013 15:34:22
+nastavoval som práveže :P
+ _h_a_d_a_j_k_t_o [Muž]15 [Kategorie]
+19.05.2013 15:27:55
+zaciernovat ip-cku to da rozum :D
+
+mozno by pomohlo keby si si ten router nastavil
+[Smajlík]
+ pnak
+19.05.2013 15:07:52
+pre istotu :D
+[Smajlík] [Muž]15 [Kategorie]
+ _h_a_d_a_j_k_t_o
+19.05.2013 14:49:27
+to si naco zaciernoval?? :D :D
+ pnak
+19.05.2013 14:22:58
+_h_t_t_p_:_/_/_i_m_g_8_9_._i_m_a_g_e_s_h_a_c_k_._u_s_/_i_m_g_8_9_/_8_5_5_1_/_b_e_z_n_z_v_u_l_e_t_._p_n_g_ 
+
+_h_t_t_p_:_/_/_i_m_g_2_0_8_._i_m_a_g_e_s_h_a_c_k_._u_s_/_i_m_g_2_0_8_/_9_8_7_7_/_b_e_z_n_z_v_u_1_v_._p_n_g
+[Smajlík] [Muž]15 [Kategorie]
+ _h_a_d_a_j_k_t_o
+19.05.2013 13:37:09
+posli screeny
+ _U_F_O_P_o_r_n [Muž]32 [Kategorie]
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+

@@ -1,0 +1,176 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+Zpověď č.728681, vloženo 04.06.2013 14: _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+32:50                                   _s_t_r_á_n_k_a_]
+Prosím pomoc - Elektrotechnika
+Zdravím,nevěděl by mi tady někdo prosím pomoci? Mám zadání:
+
+1)
+Mějme kontrolní linku, kde na běžícím pásu jedou výrobky, spuštění výrobku na
+pás provádí obsluha tlačítkem. Výrobek prochází čtyřmi kontrolními stanicemi.
+Každá stanice vydá negativní impuls (log. 0), pokud výrobek splnil požadavky
+kontroly. Výstupem bude signální dioda, která se rozsvítí, pouze pokud výrobek
+splnil všechny kontroly. Počítáme s tím, že na páse bude vždy jeden výrobek.
+2)
+Z katalogu součástek nebo z internetu vyberte obvody a určete cenu vámi
+navrženého obvodu.
+
+Pozor na to, že stanice vydávají pouze impulzy a ne konstantní signál. Vámi
+navržený obvod si tedy musí pamatovat stavy jednotlivých kontrol, aby je mohl
+vyhodnotit. Řešení je hned několik, ale jen některá jsou jednoduchá.
+
+Já vážně nevím a každý,kdo by mi pomohl předem děkuju.
+ HBC [Muž]18  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+04.06.2013 23:37:48
+Nějaký AND hradla a invertory, dokonce 4x klopný obvod, LOL? Aneb jak udělat
+obvod z desítek součástek či milionu kombinací hradel?
+
+Mě napadlo co třeba 4 tyristory (každý pro jedno tlačítko) které by sepínaly
+napětí na 4 tranzistory v sérii (v sérii by byla i ta LEDka).
+
+Ale ještě primitivnější mi přijde prostě vzít 4 bistabilní relátka zapojené do
+série s diodou.
+
+EHM... = 4 součátky + LED dioda + reset button
+
+Kdyžtak mě opravte, nejsem elektronik.
+ Veterinář
+04.06.2013 21:26:17
+dghnjdtyjdty:
+
+jee, rslogix =) jeste se mi tu nekde vali jeden starej bredlacek..
+
+no ve skole maji zvykem prednasku na odpoledne kterou z praxe pochopi kazdej
+nymand hned prvni den omylat celej rok a jeste mizerne bez vlastniho
+porozumeni, takze se mu nemuzem divit..
+ dzoux
+04.06.2013 21:10:32
+dghnjdtyjdty: Jeste si zapomnel napsat, ze od 15 bydlis sam.
+[Smajlík] [Muž]69 [Kategorie]
+ _S_K_E_D
+04.06.2013 20:53:45
+dghnjdtyjdty: Né každej má asi štěstí na to,že mu to leze do hlavy pouze z
+teorie. Já jsem třeba ten typ,kterej to musí vidět prakticky,jinak to
+nepochopim. A tady u nás nás bohužel učí pouze teoriii a praxe téměř nulová..
+to je pak pro mě těžků se to naučit... a to i takové blbé obvody...
+ HBC
+04.06.2013 20:06:30
+jezisikriste za co me trestas?
+Cely zivot programuju roboty a prumyslovou automatizaci, vymyslim nova
+schemata a prevadim do RS Logix 5000,
+4 posrany kontrolni body a jedna pitoma LED, a jedno tlacitko.
+18 letej kluk, v tech letech u nas ve Fordu takovi kluci programujou cely
+linky v karosarne i lakovne.
+ dghnjdtyjdty
+04.06.2013 19:03:16
+Taky děkuju :)
+ HBC
+04.06.2013 17:59:10
+jednoduche reseni:
+
+soucastky:
+- tri rele, kazde ma jeden spinaci jeden rozpinaci kontakt
+- tri-packetove spinaci tlacitko pro ucely resetu/dalsiho vyrobku
+- par dratu
+
+jedina podminka je, ze vystup kazde kontrolni stanice umozni sourcovat proud
+pro jednu civku rele..
+
+zapojeni:
+kazde rele ma civku zapojenou v serii se jedni svym spinacim (v klidu
+rozeplym) kontaktem. kazdej tento spinaci kontakt je preklenut jednim packetem
+resetovaciho tlacitka. druhe rozpinaci (v klidu seple) kontakty jsou seriove
+propojeny navzajem, se zdrojem, led diodou a zemi.
+
+a) Po zapnuti je na vsech kontrolnich stanicich napeti, civky rele jsou vsak
+vypnute protoze produ netece kvuli prerusenemu vlastnimu spinacimu kontaktu s
+nimz je civka v serii.
+
+b) po stisknuti reset tlacitka dojde k preklenuti vlastniho "samodrzneho
+kontaktu", vsechny rele sepnou a tlacitko uz neni treba drzet. Rozpinaci
+kontakty odepnou a led dioda zhasne
+
+c) negativni impulz, neboli chvilkovy vypadek napeti na jedne ze stanic: dane
+rele odpadne, kontakt jez je v serii s led sepne..
+
+d) pokud se bod c) stane na vsech rele, led dioda se rozsviti.
+
+e) stisk reset v jakekoliv fazi (krom casu kdy je aktivni impulz nektere
+kontrolni stanice) uvede obvod do stavu v b)
+
+je to nejjednodusi zapojeni -cista elektro-mechanicka obvodarina, zadnej
+kremik, zadne slozitejsi technologie nez namotani civky dratu blizko vhodne
+uzpusobenych kontaktu, ustoji to EMP, sirokej rozsah napajeni, etc..
+
+cena 3x10 korun za telata a tlacitko je nad ramec zadani.
+
+tlacitko by slo nahradit za jednoduchy + 3 diody ale komu by se chtelo to
+prznit takovejma novotama jako je dioda :D
+
+PS: V praxi se samozrejme pouzije prumyslovej automat a ne takova dratova
+hovadina =)
+ dzoux
+04.06.2013 16:12:10
+Děkuju moc. Hodně jste mi pomohli. Snad to nějak sestavím.
+
+Ostatní samožřejmě stále můžou radit. Za každou radu budu vděčný.
+ HBC
+04.06.2013 15:50:13
+Potřebuješ 4x RS klopný obvod (RSKO), 4 vstupový AND a 4x obvod pro negaci
+log. hodnoty
+
+Ke každé stanici připojíš její výstup přes negaci na vstup Set u RSKO a z
+tlačítka připojíš výstup na Reset k RSKO
+
+výstupy RSKO pripojíš na vstup AND a jeho výstup na diodu
+ Aaaaa
+04.06.2013 15:40:34
+Nejlepší by bylo nakreslit schéma, ale s tím se mi nechce hrát teď.. Prostě z
+každé stanice veď signál do RS klopáku, a pak všechny signály z klopáků spoj
+ANDem. AND spoj s diodou a od té veď zpětnou vazbu, kterou vynuluješ všechny
+KO (tady se hodí dát ještě nějaký zpožďovač, aby dioda svítila třeba 5s..
+čítač např)..
+Snad to pobereš, není to nic těžkého. Najít součástky a cenu není tak těžké.
+ Zzzzz
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+

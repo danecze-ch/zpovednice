@@ -1,0 +1,226 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+   Otázky - Vzkazy č.722206, vloženo _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+   08.05.2013 09:28:12               _s_t_r_á_n_k_a_]
+   Počítač "chcípá" - pomoc
+   Dobrý den.
+   Už jsem sem jednou psal, ale chtěli jste podrobnosti.
+   Každé ráno musím zapínat počítač kvůli práci.
+   Když zapnu počítač, zapíná se a poté chcípne obrazovka. Musím ho násilně
+   vypnout a poté zase zapnout, napodruhé (někdy napotřetí) se už zapne a
+   naskočí StartupRepair "Your computer was unable to start".
+   Hledá problémy, až je najde tak je opravuje. Podrobnosti napíši níže.
+   Poté se restaruje a normálně zase celý den jede. Takže to asi dělá, jen
+   když je studený.
+   Ovšem, druhý den se to stane znova.
+   Opravdu potřebuji pomoc, za odpovědi vám budu velice vděčný. Jen prosím
+   nepište, že si musím koupit počítač nový...
+   +mám něco s mezerníkem, takže napsat tuto zpověď bylo opravdu náročné.
+   Děkuji mnohokrát.
+
+   Podrobnosti:
+
+   Startup Repair diagnosis and repair log
+   ---------------------------
+   Last successful boot time: 7/5/2012 4:34:15 PM (GMT)
+   Number of repair attempts: 1
+
+   Session details
+   ---------------------------
+   System Disk = DeviceHarddisk0
+   Windows directory = E:Windows
+   AutoChk Run = 0
+   Number of root causes = 1
+
+   Test Performed:
+   ---------------------------
+   Name: Check for updates
+   Result: Completed successfully. Error code = 0x0
+   Time taken = 0 ms
+
+   Test Performed:
+   ---------------------------
+   Name: System disk test
+   Result: Completed successfully. Error code = 0x0
+   Time taken = 0 ms
+
+   Test Performed:
+   ---------------------------
+   Name: Disk failure diagnosis
+   Result: Completed successfully. Error code = 0x0
+   Time taken = 266 ms
+
+   Test Performed:
+   ---------------------------
+   Name: Disk metadata test
+   Result: Completed successfully. Error code = 0x0
+   Time taken = 31 ms
+
+   Test Performed:
+   ---------------------------
+   Name: Target OS test
+   Result: Completed successfully. Error code = 0x0
+   Time taken = 78 ms
+
+   Test Performed:
+   ---------------------------
+   Name: Volume content check
+   Result: Completed successfully. Error code = 0x0
+   Time taken = 110 ms
+
+   Test Performed:
+   ---------------------------
+   Name: Boot manager diagnosis
+   Result: Completed successfully. Error code = 0x0
+   Time taken = 31 ms
+
+   Test Performed:
+   ---------------------------
+   Name: System boot log diagnosis
+   Result: Completed successfully. Error code = 0x0
+   Time taken = 0 ms
+
+   Test Performed:
+   ---------------------------
+   Name: Event log diagnosis
+   Result: Completed successfully. Error code = 0x0
+   Time taken = 62 ms
+
+   Test Performed:
+   ---------------------------
+   Name: Internal state check
+   Result: Completed successfully. Error code = 0x0
+   Time taken = 0 ms
+
+   Test Performed:
+   ---------------------------
+   Name: Boot status test
+   Result: Completed successfully. Error code = 0x0
+   Time taken = 0 ms
+
+   Test Performed:
+   ---------------------------
+   Name: Setup state check
+   Result: Completed successfully. Error code = 0x0
+   Time taken = 532 ms
+
+   Test Performed:
+   ---------------------------
+   Name: Registry hives test
+   Result: Completed successfully. Error code = 0x0
+   Time taken = 2406 ms
+
+   Test Performed:
+   ---------------------------
+   Name: Windows boot log diagnosis
+   Result: Completed successfully. Error code = 0x0
+   Time taken = 0 ms
+
+   Test Performed:
+   ---------------------------
+   Name: Bugcheck analysis
+   Result: Completed successfully. Error code = 0x0
+   Time taken = 625 ms
+
+   Test Performed:
+   ---------------------------
+   Name: Access control test
+   Result: Completed successfully. Error code = 0x0
+   Time taken = 8797 ms
+
+   Test Performed:
+   ---------------------------
+   Name: File system test (chkdsk)
+   Result: Completed successfully. Error code = 0x0
+   Time taken = 0 ms
+
+   Test Performed:
+   ---------------------------
+   Name: Software installation log diagnosis
+   Result: Completed successfully. Error code = 0x0
+   Time taken = 0 ms
+
+   Test Performed:
+   ---------------------------
+   Name: Fallback diagnosis
+   Result: Completed successfully. Error code = 0x0
+   Time taken = 0 ms
+
+   Root cause found:
+   ---------------------------
+   Unspecified changes to system configuration might have caused the
+   problem.
+
+   Repair action: System files integrity check and repair
+   Result: Failed. Error code = 0x2
+   Time taken = 456172 ms
+    Karel55 [Muž]  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+08.05.2013 10:19:38
+Svůj příspěvek jsi vložil(a) do nespravné kategorie. Bylo provedeno přesunutí.
+V případě opakování hrozí blokování vstupu na portál. Prosím zvol příště
+správnou kategorii. Děkujeme za pochopení.
+[Smajlík]      [Muž] [Kategorie]
+ _A_d_m_i_n_i_s_t_r_á_t_o_r
+08.05.2013 10:08:26
+aku mas nastavenu graficku kartu v biose? pripajas monitor cez VGA alebo DVI
+port? Mas integrovanu a aj extra graficku kartu?
+ graficka karta
+08.05.2013 10:08:09
+Nezájem: Zkopíroval jsem to z jedné stránky na které to někdo taky řešil,ale
+nikdo nepřišel na to, jak to opravit. Jinak to přesně odpovídá.
+ Karel55
+08.05.2013 09:49:31
+Máš špatně nastavené datum, je 2013, ne 2012 :D
+ _N_e_z_á_j_e_m [Muž]21 [Kategorie]
+08.05.2013 09:30:40
+Pardon, má to být:
+
+Session details
+---------------------------
+System Disk = DeviceHarddisk0
+Windows directory = C:Windows
+AutoChk Run = 0
+Number of root causes = 1
+ Karel55
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+

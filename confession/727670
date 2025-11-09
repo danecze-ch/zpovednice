@@ -1,0 +1,225 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+   Otázky - Vzkazy č.727670, vloženo _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+   31.05.2013 12:38:14               _s_t_r_á_n_k_a_]
+   6:2(1+2)
+   Narazila jsem na tenhle příklad, vyšla mi 1, ale nejsem si jistá, jestli
+   má násobení přednost před dělením?
+    len [Žena]27  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+01.06.2013 15:11:41
+Matika: To není definováno. Násobení má stejnou prioritu, jako dělení. Nic
+jako přednost zleva doprava neexistuje.
+"Špatná ale běžná a uznávaná" implementace: Kalkulačky často řeší zleva
+doprava, takže místo NaN nebo rovnou E postupují takhle: 6:2(1+2)=6:2*3=3*3=9,
+a není to bráno jako bug.
+ Trol
+01.06.2013 14:55:58
+9
+[Smajlík] [Muž]31 [Kategorie]
+ _a_k_t_y_X
+01.06.2013 01:08:39
+já bych tak řekla 9 a to sem na gymplu matiku nesnášela:), vždycky sme to
+dělali tak, že nejdřív se sečetla závorka...
+ _8_3_5_2_0_8 [Žena]25 [Kategorie]
+31.05.2013 16:00:49
+Nechápu, jak jste tu závorku natáhli na 6:[2*(1+2)]. To není totéž co 6:2(1+2)
+ Alakak
+31.05.2013 15:53:27
+1111111jedna: V pořádku, odpuštěno. :-) A tvé matematické interpretaci dávám
+za pravdu.
+ _H_á_d_a_l_k_a [Žena]23 [Kategorie]
+31.05.2013 15:52:47
+1111111jedna: Kdybys ten příklad napsala jako (1+2)*6:2, vyšel by úplně
+stejně. Výsledek samozřejmě je 9. Ale většina lidí tu dělá úplné kraviny,
+které pak obhajují slovy "čte se zleva doprava", což ale jako pravidlo
+nestačí.
+ _p_r_a_s_e_z_l_e_s_a [Muž]6 [Kategorie]
+31.05.2013 15:49:03
+Hádalka: A jéj, promiň :-D A to mi v reálu lidé často komolí jméno a mě to
+štve, tak bych si na to měla dát pozor :-D
+ _1_1_1_1_1_1_1_j_e_d_n_a [Žena]20 [Kategorie]
+31.05.2013 15:48:06
+ůbfjů: Není to ve zlomku, ale mohlo by klidně být. Vždyť zlomek je v podstatě
+čitatel děleno jmenovatel, ne? Co to zase má být "jak kdyby bylo". Samozřejmě,
+že to můžeš napsat ve zlomku. Jenom ten zlomek bude vypadat jinak, než Hádanka
+myslela.
+ _1_1_1_1_1_1_1_j_e_d_n_a [Žena]20 [Kategorie]
+31.05.2013 15:46:42
+1111111jedna: Já jsem Hádalka, ty Hádanko!!! Ne, v pohodě. :-) A asi máš
+pravdu, já se v tom nějak extra nevyznám.
+ _H_á_d_a_l_k_a [Žena]23 [Kategorie]
+31.05.2013 15:43:53
+prasezlesa: to teda je. Kdyby to bylo naopak první krát - 3x2/3 - tak bys
+přece nejprve vynásobil 3x2 a pak to vydělil třemi.
+Děleno nemá přednost před krát. Takže postupuješ postupně. Je to 9, jak jsem
+psala hned na začátku.
+Děleno a krát má akorát přednost před +-.
+
+Hádanka: do zlomku to dát můžeš, ale nebude to 6/to ostatní. Bude to 6/2
+(zlomek) x ten zbytek.
+ _1_1_1_1_1_1_1_j_e_d_n_a [Žena]20 [Kategorie]
+31.05.2013 15:41:04
+_h_t_t_p_:_/_/_t_i_n_y_u_r_l_._c_o_m_/_l_r_x_m_r_w_v
+[Smajlík] [Muž]99 [Kategorie]
+ _D_a_l_e_k
+31.05.2013 15:38:31
+ůbfjů: Ok, uznávám, radši se přít nebudu. Ber to jako revoluční matematickou
+úvahu mladé školačky. :-)
+ _H_á_d_a_l_k_a [Žena]23 [Kategorie]
+31.05.2013 15:35:28
+Hádalka: Není to ve zlomku. Jak kdyby bylo?
+ ůbfjů
+31.05.2013 15:22:08
+Je to 9, jiný výsledek je nesmysl.
+[Smajlík] [Muž]99 [Kategorie]
+ _D_a_l_e_k
+31.05.2013 14:54:40
+Je to o prioritách těch operací, ne o tom, co je vlevo. Většina z vás tady
+samozřejmě nezvládá ani základní matematiku, tak si to zkuste dát do
+kalkulačky, když to nevíte. 1 to fakt není.
+ _p_r_a_s_e_z_l_e_s_a [Muž]6 [Kategorie]
+31.05.2013 14:50:49
+ůbfjů: Viz co jsem psala předtím.
+ _H_á_d_a_l_k_a [Žena]23 [Kategorie]
+31.05.2013 14:46:04
+Hádalka: Myslím, že to má být 3x3 = 9. Proč bys to nejdřív dělila?
+ ůbfjů
+31.05.2013 14:45:27
+1111111jedna: Ale kdyby to bylo jakoby ve zlomku, což v podstatě dělení je,
+tak nejdřív vynásobíš jmenovatel, a pak to dělíš. Ale já nevím, říkám jen svůj
+názor, já žádná matematička nejsem.
+ _H_á_d_a_l_k_a [Žena]23 [Kategorie]
+31.05.2013 14:42:23
+Hádanka: Ale snad čteme zleva, ne?? proč nejprv děláš to, co je druhé a až pak
+to, co je prvé?
+ _1_1_1_1_1_1_1_j_e_d_n_a [Žena]20 [Kategorie]
+31.05.2013 14:35:24
+ůbfjů: No vždyť. Vynásobíš 2(1+2), to jest šest. A pak šest děleno šesti.
+ _H_á_d_a_l_k_a [Žena]23 [Kategorie]
+31.05.2013 14:26:48
+Hádalka: No snad násobit. Vidíš tam někde 6:2 : (1+2)?
+ ůbfjů
+31.05.2013 14:17:06
+Dělení nemá přednost před krát. To si je rovno. Tedy dělám nejdřív to, co je
+první (a čtu zleva, no ne?).
+ _1_1_1_1_1_1_1_j_e_d_n_a [Žena]20 [Kategorie]
+31.05.2013 14:14:44
+To máš blbě, dělení má přednost, takže je to 9. Tohle je lehký, radši sem dej
+něco s neznámou x. :D
+ _X_C_r_a_z_y_S_l_i_m_e_X [Žena]24 [Kategorie]
+31.05.2013 13:32:35
+BatyPuff: A proč jako do jmenovatele dáváš i tu závorku? :-D
+Kdyby to jako bylo třeba 6:2x5, tak bys to udělala jako 6/10? :-D
+Je to šest polovin krát tři, ne? ;-)
+ _1_1_1_1_1_1_1_j_e_d_n_a [Žena]20 [Kategorie]
+31.05.2013 13:06:22
+OPRAVA:
+ehh samozrejme mozek myslel rychleji nez ruka psala:
+" pri roznasobeni zavorky je to 6÷4 coz je 1,5...."
+
+1 ) muze vyjit jen pri poruseni pravidla "resi se zleva doprava" nasobeni ma
+prednost pred scitanim a aodcitanim, ne pred delenim (ktere je vlastne jen
+nasobenim inverzni hodnoty)
+ Škrábal
+31.05.2013 12:59:53
+vse zalezi na dohodnutych pravidel - matematika neni veda - je to jen formalni
+jazyk vedy
+Obecna pravidla (pokud neni urceno jinak) rikaji:
+1/ nejdriv vyresit obsah zavorek
+2/ reseni se provadi zleva doprava
+3/ nasobeni (a tudiz i deleni!) ma prednost pred scitanima (a tudiz i
+odcitanim)
+.. za dodrzeni techto podminek pak=>
+6÷2×(1+2) = 6÷2×3 = 3×3 = 9
+
+mnoho lidi nejdriv roznasobi zavorku - jako se to dela u prikladu 6÷2×(a+b)..
+vysledek je pak 1 .. jenze to odporuje dohodnutym pravidlum. (U algebraickych
+vyraz vsak naprosto legitmni operace)
+
+Proto je vzdy dobre stanovit pravidla dopredu ( Jsou totiz i systemy
+matematickych operaci kde treba ani nasobeni nemusi byt komutativni
+(zamenitelne), tzn., kde neplati a×b=b×a .. atd)
+ Škrábal
+31.05.2013 12:59:12
+BatyPuff: Vychází ti to 1, protože to počítáš blbě, neznáš základní pravidla
+matematiky.
+ _p_r_a_s_e_z_l_e_s_a [Muž]6 [Kategorie]
+31.05.2013 12:56:54
+Tak když si to dáš do zlomku, tak máš v čitateli 6 a ve jmenovateli 2(1+2).
+Tak se ti dvojka se šestkou zkrátí a nahoře bude tři a dole 1+2, což je 3/3 =1
+
+
+Když to ale počítáš jako prasezlesa, tak to vyjde taky... Hmm, vyzkoušej
+kalkulačku...
+[Smajlík] [Žena]17 [Kategorie]
+ _B_a_t_y_P_u_f_f
+31.05.2013 12:55:23
+Když dva počítají totéž, není to totéž :-D
+ _1_1_1_1_1_1_1_j_e_d_n_a [Žena]20 [Kategorie]
+31.05.2013 12:51:18
+Nejdřív se vydělí to, co je před závorkou, takže máme 3, pak se sešte to, co
+je v závorce, takže dostáváme zase 3. Takže máme 3*3, a to je 9.
+ _p_r_a_s_e_z_l_e_s_a [Muž]6 [Kategorie]
+31.05.2013 12:48:35
+ůbfjů: A proč bych to nedělila? Co bys s tím chtěl/a dělat jiného?
+ _H_á_d_a_l_k_a [Žena]23 [Kategorie]
+31.05.2013 12:46:44
+prasezlesa drž hubu ty zmrde přednost mám já
+ asfas
+31.05.2013 12:45:58
+Hádalka: Proč to dělíš?
+ ůbfjů
+31.05.2013 12:44:25
+Dělení má přednost, omg..
+ _p_r_a_s_e_z_l_e_s_a [Muž]6 [Kategorie]
+31.05.2013 12:42:14
+6:2(1+2)=6:6=1
+ _H_á_d_a_l_k_a [Žena]23 [Kategorie]
+31.05.2013 12:40:51
+6:2x3 = 9, nebo se pletu?
+ _1_1_1_1_1_1_1_j_e_d_n_a [Žena]20 [Kategorie]
+31.05.2013 12:40:23
+MG tak si to představ jako zlomek, děvko.
+ fejku
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+
