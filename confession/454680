@@ -1,0 +1,163 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+   Otázky - Vzkazy č.454680, vloženo _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+   18.05.2010 17:54:50               _s_t_r_á_n_k_a_]
+   stejná IP adresa?- problem,blokace
+   ahoj :-)
+
+   Mám takový problém. Na jedné stránce mám účet, který mám něco přes rok,
+   teď ho zablokovali s tím, že jsem vážně porušila jejich podmínky.
+   Zjistily prý zcela prokazatelně spojistost s nějakým mě neznámým učtem,
+   který měl nebo má? u nich nějaký problém. Psala jsem, že opravdu nechápu
+   o co se jedná, a vůbec o ničem nevím, což je pravda. ten účet je pro mě
+   dost důležitý, a potřebovala bych ho zpět, ale nevím jak můžu dokázat
+   to, že je to opravdu omyl?
+
+   Může mít někdo stejnou IP adresu jako já? aspoň podle toh si myslím že
+   to zjistily, nebo to dje i podle něčeho jiného?v těchto věcech se moc
+   nevyznám, tak dkyby mi poradil někdo zkušenější :-)
+    malamilamaja [Žena]21  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+19.05.2010 12:13:40
+Co se týče toho IP dobré vysvětlení podobně jsem to myslel ale neumím to
+podat!
+[Smajlík] [Muž]29 [Kategorie]
+ _c_d_e_r_y
+19.05.2010 11:26:17
+libik - kouzelné vysvětlení!:-D
+[Smajlík]  [Muž]37 [Kategorie]
+ _k_r_i_s_t_u_s_e_k
+18.05.2010 23:50:24
+IP Adresa je jedinečná která je vydáná poskytovatelem internetu, avšak jí lze
+ručně vypsat. Na server tě nepustí asi proto že jsi tam někomu napsala nebo
+náhodou klikla na blbý tlačítko mě už se to taky stalo přímo tady na
+zpovědnici mě zabannovaly a nevím proč asi budeš muset počkat!
+cdery
+-------------
+Proč reaguješ na něco, čemu nerozumíš? :)
+
+Odpověď:
+************
+Ano, můžeš mít sdílenou stejnou IP adresu jako třeba 30 jiných lidí.
+************
+
+Jak to funguje?
+**************
+DODATEK:
+Už jsem to dopsal a všiml jsem si, že občas zaměňuji slova přidělovač adres a
+překladač adres. Jde o totéž, původně mělo být všude přidělovač adres.
+
+Tak kdo chce vědět, jak je možné, aby dva lidé měli stejnou IP adresu? A
+dokonce i ve stejný moment?
+Jednoduše řečeno - než se dostanete z počítače na internet, musíte projít
+nějakým přidělovačem adres(na základě vašeho poskytovatele). Tento přidělovač
+adres může sdružovat třeba 10 lidí pod jednou veřejnou IP adresou.
+
+Já mu pošlu zprávu : -Já s touto (lokální) IP adresou A na tomto portu B
+posílám na tuto IP adresu C s tímto portem D takovýto dotaz -.
+
+Překladač adres si zapamatuje - Tato (lokální) IP adresa A chtěla odpověď na
+tomto portu B z této IP adresy C z tohoto portu D.
+
+No a následně pošle na internet: Tato (veřejná) IP adresa E(kterou už může mít
+třeba 30 lidí) na portu F(pokud 30lidí se stejnou veřejnou IP adresou pošle
+najednou dotaz, každému musí přiřadit jiný port - tento port není nijak
+závislý na portu B) chci odpověď z této IP adresy C a z tohoto portu D(toto je
+již totožné s tím, co posílal původní počítač).
+
+No a pak přijde z internetu odpověď : Já s IP adresou C na portu D posílám
+informace IP adrese E na portu F.
+
+Překladač adres si pamatuje, že nějaký počítač chtěl odpověď od IP adresy C na
+portu D. Podívá se do tabulky a pod daným záznamem si najde počítač A na portu
+B. A může mu to vítězoslavně poslat :).
+ _l_i_b_i_k [Muž]34 [Kategorie]
+18.05.2010 21:49:39
+Jo, ja jsem tady pres souseda )(a se mnou dalsi 4 lidi :D) a zrejme taky chodi
+se sestrou na zpovednici nebot jsem taky mela BAN bezduvodne to jsem tady ani
+nechodila!
+ _F_i_a_l_o_v_á_ _K_r_á_v_a [Žena]29 [Kategorie]
+18.05.2010 21:18:20
+Co ty víš, třeba máš zavirovaný počítač a nějaký virus přes tebe páchá
+trestnou činnost. Nebo škodlivou činnost. Máš aspoň antivirák? A jaký druh
+připojení máš.
+ andy
+18.05.2010 18:23:51
+Oba dva ste mimo. IP Adresa sice je jedinečná, ale jakou dostanou IP adresu
+lidi co jsou za routerem/natem? Maj svou lokální IP adresu kterou ma milion
+dalsich lidi v podsiti (zalezi na spravci - 192.168.xxx.xxx, 10.0.xx.xx, ..
+atd) a pak jednu, s kterou vystupuji na internetu ZA routerem - je tedy
+neverejna (paradoxně se pouziva pro verejny pristup). Verejnou IP adresu ma
+ten, kdo ji ma jako jediny - tedy nekoliduje s dalsi IP adresou na svete.
+Pokud máš zakazanej přístup na web, bud si sama udelala nejakej prusvih, nebo
+nekdo jiny. Muzes se tam dostat, ale neni to jednoduchy, zvlast pro holku
+ktera tohle stoprocentne nezna. Jde o pripojeni pres cizi proxy (neco jako
+router) treba z Japonska - vyssi odezva, pomalejsi prenos), ale pristup se ti
+povoli = hlavni princip anonymniho internetovyho pristupu.
+ _M_u_s_s_o_l_i_n_i [Muž]19 [Kategorie]
+18.05.2010 18:21:33
+Svůj příspěvek jsi vložil(a) do nespravné kategorie. Bylo provedeno přesunutí.
+V případě opakování hrozí blokování vstupu na portál. Prosím zvol příště
+správnou kategorii. Děkujeme za pochopení.
+[Smajlík]      [Muž] [Kategorie]
+ _A_d_m_i_n_i_s_t_r_á_t_o_r
+18.05.2010 18:09:19
+Existují nástroje na skrytí IP takže se nechová jako statická... Často se
+stává, že jeden poskytovatel (většinou ti malí třeba na vesnicích) přidělují
+automaticky všem stejnou..
+ _W_7_S [Muž]19 [Kategorie]
+18.05.2010 18:07:06
+Ano máš asi veřejnou IP adresu, to se mi taky stávalo, třeba i tady na ZP. Ale
+myslím, že by měl mít pak ještě každý svoji nějakou podadresu??? A tu asi oni
+zjistit nemůžou a nevím jestli by bylo rozumné jim ji vůbec posílat, nevím jak
+se zachovat a prokázat se v takové situaci, snad ti tady někdo poradí,
+každopádně je to možné.
+ _Z_b_y_t_e_k_m_o_z_k_u [Žena] [Kategorie]
+18.05.2010 18:06:40
+IP Adresa je jedinečná která je vydáná poskytovatelem internetu, avšak jí lze
+ručně vypsat. Na server tě nepustí asi proto že jsi tam někomu napsala nebo
+náhodou klikla na blbý tlačítko mě už se to taky stalo přímo tady na
+zpovědnici mě zabannovaly a nevím proč asi budeš muset počkat!
+[Smajlík] [Muž]29 [Kategorie]
+ _c_d_e_r_y
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+
