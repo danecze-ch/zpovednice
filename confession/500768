@@ -1,0 +1,164 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+Zpověď č.500768, vloženo 17.01.2011 19: _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+42:26                                   _s_t_r_á_n_k_a_]
+Pomoc s otázkou ke zkoušce... AUDIO
+Ahoj, už dlouho se učim na jednu zkoušku a nějaký věci mi moc neříkaj, přesto
+se to nějak nadrtit potřebuju. I když mam poznámky z přednášek, nevim co bych
+napsal k této otázce:
+
+Jaký má vliv diskretizace zvukového signálu na jeho spektrum
+
+Mam s tím předmětem celkově docela problém, ale doufám, že ot nějak zvládnu.
+Můžete mi s tím někdo poradit nebo kam se mam obrátit, kde by mi co
+nejrychleji někdo odpověděl?
+
+Nemůžu o tom najít skoro žádné informace, nevím pod čím to mám hledat, nevím
+jak to vyzkoušet...
+
+Díky moc za odpovědi, především těch, co tomu rozumí. Už nevim kam se obrátit,
+potřeboval bych to vědět co nejdřív, za pár hodin jdu na zkoušku, snad ani
+nebudu vůbec spát...
+ fffffffffffffff [Muž]  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+18.01.2011 10:37:31
+Pane kolego více méně tu vše podstatné bylo řečeno. Diskretizace, spektrum je
+periodické, zároveň je třeba si dát pozor na prosakování ve spektru splnění
+Nyquistova teorému zvolením vhodné vzorkovací frekvence.
+
+Pozdravujte pana Husníka a Tkadlece.
+ FRund
+17.01.2011 21:24:58
+Smějící se Jack: Super, díky!
+[Smajlík]
+ ffffffffffff
+17.01.2011 21:24:40
+Smějící se Jack: Super, díky!
+[Smajlík]
+ fffffffffff
+17.01.2011 21:07:36
+Resp. ne nekonečný, ale prostě hodně široký.
+ _S_m_ě_j_í_c_í_ _s_e_ _J_a_c_k [Muž]33 [Kategorie]
+17.01.2011 20:54:03
+ffffffffffff: Jde o to, že reálný signál má obvykle nekonečný spektrum. Aby
+byla splněna vzorkovací podmínka, musí se signál nejdřív prohnat
+antialiasingovými filtry, které jeho spektrum ořežou. Pak už to ale není
+původní signál, protože chybí ty vysoké kmitočty. Vem si, že např. zvuk na CD
+má vzorkovací frekvenci 44,1 kHz, takže maximální frekvence zvuku bude asi 22
+kHz, i když u původního analogového byla třeba daleko vyšší.
+ _S_m_ě_j_í_c_í_ _s_e_ _J_a_c_k [Muž]33 [Kategorie]
+17.01.2011 20:38:36
+Smějící se Jack: Není? Aha, já myslel, že to je tak, když ta vzorkovací
+frekvence je dvojnásobná než maximální frekvence toho signálu (aspoň se to tak
+skoro všude píše a každej na to hraje - Shannonův teorém) :) Asi to nebudu dál
+rozpitvávat, tohle je oblast, která mi fakt nic neříká a musim ji přetrpět.
+ ffffffffffff
+17.01.2011 20:35:52
+weerwolf & Smějící se Jack: Ok, už to tak nějak chápu, díky moc za vysvětlení.
+Jinak studuju web a multimedia na stm, taky fel. Ale spíš teda ten web, než
+multimedia... Tohle mi prostě do hlavy neleze, i když se to učim už přes
+týden... Takže ještě jednou díky.
+ ffffffffffff
+17.01.2011 20:32:39
+A jak píše weerwolf, vzorkovací podmínka není splněna u reálných signálů v
+podstatě nikdy.
+ _S_m_ě_j_í_c_í_ _s_e_ _J_a_c_k [Muž]33 [Kategorie]
+17.01.2011 20:28:55
+fffffffff: No ta periodizace spektra proběhne vždycky, ale pokud není splněna
+vzorkovací podmínka, dojde k překrytí sousedních replik spektra a tím pádem ke
+zkreslení signálu při jeho převodu zpět na spojitý.
+ _S_m_ě_j_í_c_í_ _s_e_ _J_a_c_k [Muž]33 [Kategorie]
+17.01.2011 20:27:38
+Původní signál se diskretizací vždycky zkreslí. Ten získáš zase pomocí
+fuierky, sice nebude nikdy přesně jako ten původní, tolik harmonických tam
+nikdo nenaváže, ale bude ho dobře aproximovat.
+ weerwolf
+17.01.2011 20:22:26
+weerwolf: Pravděpodobnost je docela velká...
+
+Smějící se Jack: Super, díky. Konečně jedny z normálních slajdů, co vidím, kde
+to je aspoň i nějak popsané a ne jen nějakým přihlouplým obrázkem jako v našem
+předmětu... Takže jestli tomu teda dobře rozumim, tak vliv to má jenom když ta
+vzorkovací frekvence neodpovídá té podmínce, tím pádem pak nejde už zjistit
+spojitý signál (původní)?
+[Smajlík]
+ fffffffff
+17.01.2011 20:18:52
+Jo jinak na tohle lze přijít i intuitivně pomocí jednoduchýho příkladu se
+sinusovkou a vůbec k tomu nepotřebuješ znalosti matematiky ani nic jinýho, jen
+vědět, co je to sinusovka a co je to frekvence.
+ _S_m_ě_j_í_c_í_ _s_e_ _J_a_c_k [Muž]33 [Kategorie]
+17.01.2011 20:14:30
+Co studuješ za obor?
+ _S_m_ě_j_í_c_í_ _s_e_ _J_a_c_k [Muž]33 [Kategorie]
+17.01.2011 20:10:33
+Trochu tomu rozumím, konkrétně studuju softwarove inženýrství se specializací
+na umělou inteligenci. Se signálama si hrajeme hlavně při rozpoznávání EEG vln
+a analýzy hlasu. Ale myslím že to co bereme my asi trochu přesahuje nějaký
+obecný rozhled co předmět multimedia asi je. Jinak to co linkoval Jack by to
+mělo vystihnout. Stejně pravděpodobnost že si tuhle otázku vytáhneš je hodně
+malá, tak na to spoléhej.
+ weerwolf
+17.01.2011 20:03:42
+Spektrum se vzorkováním signálu stane periodickým - repliky se objeví na
+násobcích vzorkovací frekvence, tj. periodou bude vzorkovací frekvence.
+
+Tady
+homo-technicus.org/d ownload/fel_4.semestr/sas/SAS05.pdf
+máš popsaný vliv vzorkování signálu na jeho spektrum, konkrétně slajdy 21 až
+25. Taky si nastuduj, co jsou to fourierovy řady, fourierova transformace
+(FT), DtFT, DFT a FFT. (Viz slajdy na stránce, na kterou odkazuji výše.)
+ _S_m_ě_j_í_c_í_ _s_e_ _J_a_c_k [Muž]33 [Kategorie]
+17.01.2011 19:58:01
+weerwolf: Předmět se jmenuje multimedia (2) :)
+Já fakt nevím, pod tímhle to právě hledám, ale zvuk je něco, co mě nikdy
+nebavilo a přesto to mam. Ty tomu trochu rozumíš? Diskretizací se rozumí
+převedení analogového signálu na digitální?
+ ffffffffff
+17.01.2011 19:53:43
+A co to je za předmět? Podle toho záleží na komplikovanosti odpovědi. Hledej
+něco jako: Umělá inteligence, Zpracování signálu, Fourierova analýza...
+Bohužel momentálně nemůžu víc pomoct, předmět zpracování signálu mám až v
+dalším semestru.
+ weerwolf
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+

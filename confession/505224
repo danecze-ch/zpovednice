@@ -1,0 +1,281 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+Zpověď č.505224, vloženo 06.02.2011 10: _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+56:42                                   _s_t_r_á_n_k_a_]
+Opět trable s c++
+Ano...já si uvědomuju, že to tu bylo už včera... též si uvědomuju, že jsem
+nemožná...
+leč...
+mám problém...
+Zadání příkladu zní:
+Načtěte z klávesnice řadu přirozených čísel ukončených nulou a na monitor
+vypište součet těch, která jsou větší,než nula.
+Nu... Mně je jasný, že se to dělá přes cykly... a kdyby tam nebyly ty blbý
+kladný čísla, dám tam while...nebo pro mě za mě i for...
+ale já prostě nějak nepobírám, jak tam mám přidat ještě tu druhou podmínku,
+jako že jak ho mám překecat, aby udělal i++ jen tehdy, když je číslo kladný...
+a zároveň skončil program a vypsal součet, když je to nula... Mořím se s tím
+už od včera a vůbec mi to nejde...
+Pokud by se našel nějaký trpělivý dobrák, budu mu nadosmrti zavázána...
+ zoufalá [Žena]19  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+06.02.2011 16:46:38
+pex: jo takže se jedná jenom o filosofii toho zadání. no nic a kyž jsem si
+nakrmil nějakoého c++ master trolla tak tím líp, co si vykrmím to taky sejmu a
+sežeru.
+Jinak konečně někdo kdo to napsal tak jak by to mohlo být, pro začátečníka
+přehledné, funkční, vstupy ošetřené.
+Feed the troll, kill the troll, eat the troll!
+ weerwolf
+06.02.2011 15:55:26
+c++ master: Uč někoho programovat až to budeš sám umět. Nějak to funguje není
+dobrý přístup k programování.
+
+
+Jinak, já bych to řešil nějak takto. Je to hrubý nástin:
+_h_t_t_p_:_/_/_p_a_s_t_e_b_i_n_._c_o_m_/_4_m_9_7_7_A_h_7
+ pex
+06.02.2011 15:52:07
+Zenový mistr Pi-Tcha: weerwolf je trochu technicky mimo, řešit v diskusi na
+zpovědnice o deseti řádkové úloze doplňkový kód je trochu...
+ pex
+06.02.2011 15:52:06
+ok.. mozna ten program nebude fungovat pro pole vetsi nez 50 a je trochu
+debilni, ale jinak to hazi presne to co chtela v zadani.. jako DÚ to beztak
+projde a o to slo..
+[Smajlík]
+ c++ master
+06.02.2011 15:48:17
+weerwolf: Mluvíš o úplně něčem jiném, já se tu bavím o zadání. Říci všechna
+přirozená čísla větší než 0 je blbost nebo přinejmenším redundance, která nemá
+v zadání co dělat.
+ pex
+06.02.2011 15:33:20
+pex: Dobrá poznámka s těmi přirozenými čísly, to mě v tu chvíli vůbec
+nenapadlo. Tím se celý program ještě kapku zjednoduší :-)
+
+weerwolf: Díky, že jsi nás všechny poučil o interní reprezentaci čísel u
+počítačů a o doplňkovém kódu! Jinak si myslím, že anonymní uživatel "c++
+master" je obyčejný troll, kterému jsi skočil na návnadu. Tvé následující
+poučující a vysvětlující výstupy taky moc nechápu. Ale to bude možná tím, že
+občas programuju v moderních blbostech jako Java nebo C# :-)
+[Smajlík]             [Muž]1 [Kategorie]
+ _Z_e_n_o_v_ý_ _m_i_s_t_r_ _P_i_-_T_c_h_a
+06.02.2011 15:23:48
+pex: ne mluvím o tom samém co ty, prostě neexistuje možnost jak načíst jenom
+přirozené číslo, můžeš načítat buď znak, potažmo celý řetězec, číslo s
+plovoucí desetinnou čárkou (tzv. float), nebo obecné číslo (typu integer). Ale
+nic víc, omezení na přirozené číslo už musí udělat programátor podle hodnoty
+načteného.
+Většinou se to provádí následovně:
+1) načte se řetězec ukončený ASCII nulou
+2) na ten se pustí knihovní metody které ho zkusí převést na číslo, když to
+nejde tak řetězec číslo neobsahuje
+3) toto číslo pak zkontrolujeme jestli padne do zadaného intervalu, když ne
+tak ho zahodíme
+
+A jestli jde jenom o filosofickou logiku toho zadání tak tu radši nechám
+filosofům, my technici takovéhle blblsti neřešíme
+ weerwolf
+06.02.2011 15:13:07
+* je větší než 0
+ pex
+06.02.2011 15:12:36
+weerwolf: Mluvíš o něčem jiném. V případě, že načtu přirozená čísla, tak jsou
+větší než 0. Protože přirozené číslo je větší než 1.
+
+Proto je: Načtěte z klávesnice řadu přirozených čísel ukončených nulou a na
+monitor vypište součet těch, která jsou větší,než nula.
+
+Podle mě podivné.
+ pex
+06.02.2011 15:09:05
+pex: právě proto se musí ošetřovat vstupy. V ALU (jádro procesoru) nic jako
+přirozené číslo neexistuje, teda existují bezznaménkové typy ale ty se v praxi
+používají minimálně. Většina čísel má symetrický (ne sice doslova, je tam
+přesah o jedničku) rozsah +- 2^velikost. Takže vnitřně jsou to vlastně celá
+čísla.
+ weerwolf
+06.02.2011 14:56:57
+viz weerwolf a osobně si myslím, že by se tu neměly řešit domácí úkoly, člověk
+by je měl vyřešit sám a ne hledat odpovědi na internetu.
+
+Já nepobírám ani zadání:
+
+>> Načtěte z klávesnice řadu přirozených čísel ukončených nulou a na monitor
+vypište součet těch, která jsou větší, než nula.
+
+Dle mého názoru jsou všechna přirozená čísla větší než nula. (Pokud mezi
+nepočítám 0 a to očividně nedělám, když pomocí ní vstup ukončuji.)
+ pex
+06.02.2011 14:41:00
+C++ master: k tvému programu, je to pitmost prvního řádu
+1) co když těch čísel bude víc jak 50? dostaneš se mimo paměť a program padne,
+
+2) co když číslo bude záporné? proč ho ukládat?
+3) když máš statické pole proč používat nekonečný cyklus?
+4) proč se připojovat do jmeného prostoru std?
+5) proč vypisovat na konzoli výzvu pokaždé?
+6) nakonec co když uživatel je vtipálek a místo čísla napíše řetězec? program
+ti padne
+
+což je na takovýhle kratičký program HODNĚ chyb, nám tady jde o to aby to
+slečna pochopila, ne aby měla hotový program. Když se člověka naučí správně
+dekomponovat program tak je už jedno v čem ho napíše. Tobě doporučuju víc
+studovat programování, nějaký potenciál máš ale na nasazení v průmyslu to
+ještě není.
+ weerwolf
+06.02.2011 13:45:31
+!!! cely to mas tady _h_t_t_p_:_/_/_l_e_t_e_c_k_a_p_o_s_t_a_._c_z_/_2_7_3_9_5_6_4_8_0_ !! pro ostatni, takovy
+rady, me z vas jebne:D
+
+#include <iostream>
+int main(){
+using namespace std;
+int i=0, cislo[50], soucet = 0;
+while(1){
+cout << "Zadej cislo (nula ukonci zadavani cisel): ";
+cin >> cislo[i];
+if(cislo[i] == 0)
+break;
+i++;
+}
+for(i=0; i<50; i++){
+if(cislo[i] > 0)
+soucet += cislo[i];
+}
+cout << "Soucet cisel vetsich nez nula je: " << soucet << "n";
+system("pause");
+return 0;
+}
+[Smajlík]
+ c++ master
+06.02.2011 13:02:25
+-Takže znova základ je dekomponuj si problém, nakresli si třeba vývoják.
+-Potřebuješ načítat řadu, nevíš jak je dlouhá -> nejvíce se tedy používá
+nekonečný cyklus while(1)
+-první věc v tom cyklu je našíst vstup ze stdin (v ANSI C scanf(), v C++
+myslim cin)
+-ten cyklus musíš nějak zastavit, dáš do něj zastavovací podmínku která tě
+vyhodí z cyklu (break)
+-pokud program nezareaguje tak asi by bylo dobré ty načtené data nějak
+zpracovat
+-a za tělem cyklu jednoduše vypíšeš výsledek
+
+na podobné dotazy technického rázu taky doporučuju _w_w_w_._d_a_n_y_k_._w_z_._c_z_ je to sice
+server zaměřený primárně na elektro ale schází se nás tam dost lidí jejichž
+záběr je docela široký co se techniky týče. tam ti poradíme líp než na
+builderu
+ weerwolf
+06.02.2011 12:21:19
+Zenový mistr Pi-Tcha: Jaj, tak to díky za rébus! Já to fakt dělám už od včera!
+nejsem z těch, co by nevěděli a tak letěli na zpovědnici... Jenže tys tam dal
+příkazy, který vůbec neznám! Nevím ajk fungujou a tak...:)
+[Smajlík]
+ zoufalá
+06.02.2011 12:19:14
+weerwolf: ...
+[Smajlík]             [Muž]1 [Kategorie]
+ _Z_e_n_o_v_ý_ _m_i_s_t_r_ _P_i_-_T_c_h_a
+06.02.2011 12:17:14
+timwood: já vím, já vím, jenže to jsou postupy, které mi vůbec nic neříkají...
+to nemůžu použít...
+Zenový mistr Pi-Tcha: Ale jinak moc děkuju za snahu a ochotu!
+ zoufalá
+06.02.2011 12:16:45
+zoufalá: Napsal jsem to záměrně trochu komplikovaněji (ten std::vector je
+vyloženě plýtvání a není v tom algoritmu vůbec potřeba), abys to neměla tak
+jednoduché... snaž se trochu!
+[Smajlík]             [Muž]1 [Kategorie]
+ _Z_e_n_o_v_ý_ _m_i_s_t_r_ _P_i_-_T_c_h_a
+06.02.2011 12:08:46
+Zenový mistr Pi-Tcha ti zaslal reseni :). Inak, na podobne dotazy bych ti
+odporucil web: _w_w_w_._b_u_i_l_d_e_r_._c_z_ 
+
+- je to web specialne o programovani...
+ timwood.
+06.02.2011 11:57:28
+weerwolf: Jo, no...jako, to co napsal zenový mistr, to mi teda vůbec nic
+neříká:D
+Každopádně ty na mě musíš pomalu:) Mohl bys mi to napsat ještě jednou a
+představovat si u toho, že hovoříš s idiotem?:)
+[Smajlík]
+ zoufalá
+06.02.2011 11:56:20
+Překlep, ukládat takže celý program , myslel jsem samozřejmě ukládat všechna
+čísla, stačí jenom jejich součet
+ weerwolf
+06.02.2011 11:54:59
+Za tu první, třeba do else větve, ale bacha v Devku můžeš psát i kód pro ANSI
+C, C++ je defacto objektová nadstavba takže pro normální konzoloidní věci je
+to zbytečné.
+To co napsal zenový mistr je sice nádherný kus kodu ale z edukativního
+hlediska absolutní blbost, navíc ty čísla není třeba ukládat takže celý
+program je jenom nádherná ukázka toho jak programuje někdo kdo pravděpodobně
+nikdy neslyšel o šetření pamětí nebo to ignoruje, popřípadě programuje spíš v
+moderních blbostech typu java, C#
+ weerwolf
+06.02.2011 11:32:44
+weerwolf: Pochopil jsi to brilantně... je to c++...dělám v Dev C++...
+Jenže já prostě zaboha nemůžu vymyslet, jak tam tu druhou podmínku mám
+vecpat... Kam s ní, se sviňou? Vnořit, čí dát za to? A jak by to teda potom
+mělo vypadat?
+[Smajlík]
+ zoufalá
+06.02.2011 11:20:11
+Jestli jsem dobře pochopil to zadání tak použiješ nekonečný cyklus while, v
+něm načteš vstup z konzole. pak budou následovat dvě podmínky, první, pokud je
+vstup nulový => konec řady vyskočíš z cyklu breakem, druhý, pokud je vstup
+větší než nula tak ho přičteš k proměnné která bude uchovávat celkový součet.
+btw, je to c++ nebo ANSI C? V tom JE rozdíl, neplést si to.
+ weerwolf
+06.02.2011 11:20:00
+_h_t_t_p_:_/_/_p_a_s_t_e_b_i_n_._c_o_m_/_J_i_x_0_E_f_J_0
+ _Z_e_n_o_v_ý_ _m_i_s_t_r_ _P_i_-_T_c_h_a [Muž]1 [Kategorie]
+06.02.2011 11:18:34
+U takových dotazů zkus spíš třeba _w_w_w_._x_c_h_a_t_._c_z_,_ nebo _w_w_w_._l_i_d_e_._c_z
+ _l_o_p_e_z_z [Muž]38 [Kategorie]
+06.02.2011 11:09:46
+Kdyztak mi posli sve icq na elwenyr@seznam.cz a muzem to na icq probrat :)
+ jahoo
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+

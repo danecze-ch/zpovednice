@@ -1,0 +1,299 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+   Otázky - Vzkazy č.505013, vloženo _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+   05.02.2011 11:42:12               _s_t_r_á_n_k_a_]
+   Pro někoho, kdo ovládá jazyk C
+   Mám udělat program, kde zadám vstupní data z klávesnice a vyplivne mi to
+   kořeny kvadratické rovnice... Nejsem nikterak programátorsky nadaná,
+   spíše začátečník a program sice jede, ale vyhazuje mi kraviny...
+   Nevěděla jsem, kam to jinam napsat, protože na nějakým fóru by mi
+   odpověděli až za dlouho... Vím, že to sem moc nepatři, ale klidně to
+   potom smažu...
+   Netušíte někdo, kde mám chybu?
+
+   #include<stdlib.h>
+   #inc lude<stdio.h>
+   #include<math.h& gt;
+
+   main ()
+   {
+   float a, b, c, D, x1, x2;
+
+   printf("Zadejte cleny kvadraticke rovnicen");
+   scanf("%f %f %f", &a, &b, &c);
+
+   D=(b*b)-(4*a*c);
+
+   x1=((-b) +sqrt(D))/(2*a);
+   x2=((-b)-sqrt(D))/(2*a );
+
+   if(D==0)
+   printf("Diskriminant je 0. Rovnice ma jedno reseni, x je %10.2n.", x1);
+   else
+   {
+   if(D<0)
+   printf("Diskriminant je mensi nez 0. Rovnice nema reseni v mnozine
+   realnych cisel!n");
+   else
+   printf("Diskriminant je 2.2fn", D);
+   printf("x1 je 2.2fn", x1);
+   printf("x2 je 2.2fn", x2);
+   }
+   system("PAUSE");
+   }
+
+    zoufalá [Žena]19  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+05.02.2011 14:14:34
+Svůj příspěvek jsi vložil(a) do nespravné kategorie. Bylo provedeno přesunutí.
+V případě opakování hrozí blokování vstupu na portál. Prosím zvol příště
+správnou kategorii. Děkujeme za pochopení.
+[Smajlík]      [Muž] [Kategorie]
+ _A_d_m_i_n_i_s_t_r_á_t_o_r
+05.02.2011 12:38:08
+Si piš, že stačí...:) Naše škola a linuxy nebo leopardi? Na to nejsme
+dostatečně na úrovni:D
+ zoufalá
+05.02.2011 12:29:53
+zoufalá
+
+To je jak z bláta do louže, taky je to vázaný na OS - takže ten příklad ti
+bude fungovat jen pod Windows. Ale to asi pro školní potřebu stačí ...
+ _f_r_u_i_t_y_-_l_o_o_p_s [Muž]29 [Kategorie]
+05.02.2011 12:27:24
+No...já jsem si to stejně vymazala a předělala zpět na system pause, aby
+profesorovi nebylo podezřelý, že dělám něco, co neumím:D A ono to funguje
+taky:)
+ zoufalá
+05.02.2011 12:23:44
+zoufalá
+
+Je to stará Miscrosoftí knihovna (z dob MS-DOS) pro textový vstup výstup. Její
+použití zde je úplně zbytečný, dokonce bych řekl že je to chyba, protože pro
+načtení znaku z klávesnice (tady máš použito getch()) jde použít funkce
+getchar(), která je v ISO C ... a nemusí se sem linkovat ten odpad.
+ _f_r_u_i_t_y_-_l_o_o_p_s [Muž]29 [Kategorie]
+05.02.2011 12:18:12
+fruity-loops: Jo, zkoušela jsem si udělat program jen pro výpočet
+diskriminantu a sviňa nejel taky...
+Co je špatnýho na conio.h?
+ zoufalá
+05.02.2011 12:16:04
+timwood.
+
+conio.h? Děláš si srandu? :D
+
+zoufalá
+
+Zkus si vypsat na obrazovku jednotlivý kroky výpočtu, tzn. ověř si že se ti
+správně načítají data z terminálu co tam zadáš, pak že se ti správně vypočítá
+D atd...
+ _f_r_u_i_t_y_-_l_o_o_p_s [Muž]29 [Kategorie]
+05.02.2011 12:14:02
+timwood:
+Já mám Dev C++, a nějak mi nechtěl vzít to void u mainu, tak jsem to oddělala
+a už to jede, takže díky, ó šlechetný zachránce...:)
+Co jsem tam ksakru měla špatně, to mi není jasný...:)
+[Smajlík]
+ zoufalá
+05.02.2011 12:09:15
+Program som prave skompiloval v MS VisualStudiu a funguje......
+ timwood.
+05.02.2011 12:07:39
+Konstrukciu System(" ") sa sice pouziva, ale nie vsetky prekladace to beru :)
+
+Prepisal som program "zastavenia obrazovky" s funkciou getch():
+
+Pred kazdou funckiou printf()...je znak pre odriadkovanie, spovednica neberie
+take znaky, ma ta byt " lomka n".
+
+Program:
+
+#include <stdlib.h>
+#include <stdio.h>
+#include <math.h>
+#include <conio.h>
+
+void main (void)
+{
+
+float a, b, c, D, x1, x2;
+
+printf("Zadejte cleny kvadraticke rovnice: ");
+scanf("%f %f %f", &a, &b, &c);
+
+D = (b*b)-(4*a*c);
+
+x1 = ((-b) +sqrt(D))/(2*a);
+x2 = ((-b)-sqrt(D))/(2*a );
+
+if( D == 0 )
+{
+printf("nDiskriminant je 0. Rovnice ma jedno reseni, x je %10.2f", x1);
+}
+else
+{
+if( D < 0 )
+{
+printf("nDiskriminant je mensi nez 0. Rovnice nema reseni v mnozine realnych
+cisel!");
+}
+else
+{
+printf("nDiskriminant je %2.2f", D);
+printf("nx1 je %2.2f", x1);
+printf("nx2 je %2.2f", x2);
+}
+}
+
+getch();
+
+}
+
+
+asi ma zato zablokuju :D
+ timwood.
+05.02.2011 12:06:58
+timwood: Krom toho, že za knihovnama není středník mi to ještě vyhazuje chybu
+na šestým řádku... a já nevím co s tím:D
+fruity-loops: Noo, ono to prostě nepočítá... Jako spustí se to, ale vypočítá
+se mi diskriminant nula a potom kořeny uplně divně a záporně...
+Já se naotravuju, co?
+Holky by neměly být nuceny k programování....:)
+ zoufalá
+05.02.2011 12:00:47
+oprava: u main nemáš návratový typ
+ _f_r_u_i_t_y_-_l_o_o_p_s [Muž]29 [Kategorie]
+05.02.2011 12:00:39
+Exactus Leo:
+Ty seš vtipnej šmudla.
+ Exp Serum
+05.02.2011 12:00:16
+Riesenie:
+
+#include<stdlib.h>
+#include<stdio.h>
+#include<math.h>;
+
+void main (void)
+{
+
+float a, b, c, D, x1, x2;
+
+printf("Zadejte cleny kvadraticke rovnice: ");
+scanf("%f %f %f", &a, &b, &c);
+
+
+
+D=(b*b)-(4*a*c);
+
+x1 = ((-b) +sqrt(D))/(2*a);
+x2 = ((-b)-sqrt(D))/(2*a );
+
+if(D==0)
+{
+printf("nDiskriminant je 0. Rovnice ma jedno reseni, x je %10.2f", x1);
+}
+else
+{
+if(D<0)
+{
+printf("nDiskriminant je mensi nez 0. Rovnice nema reseni v mnozine realnych
+cisel!");
+}
+else
+{
+printf("nDiskriminant je %2.2f", D);
+printf("nx1 je %2.2f", x1);
+printf("nx2 je %2.2f", x2);
+}
+}
+
+system("PAUSE");
+
+}
+ timwood.
+05.02.2011 12:00:03
+Píše to při překladu nějakou chybu?
+
+Ještě u int nemáš definovaný návratový typ
+
+void main(void){
+
+}
+
+Ale tohle by nemělo mít vliv na výpočet. Jinak už mě nic moc nenapadá ..
+ _f_r_u_i_t_y_-_l_o_o_p_s [Muž]29 [Kategorie]
+05.02.2011 11:57:59
+No vida, to je chyb...ale ani tak to nefunguje správně:D
+[Smajlík]
+ zoufalá
+05.02.2011 11:54:52
+A taky ...
+
+D je typu float, proto v těch podmínkách musí být ta 0 uvedena jako desetinné
+číslo, jinak se to tuším porovnává celočíselně. Takže takhle:
+
+if (D == 0.0)
+
+a
+
+if (D < 0.0)
+ _f_r_u_i_t_y_-_l_o_o_p_s [Muž]29 [Kategorie]
+05.02.2011 11:51:05
+Jo, a taky ti v poslední větvi else chybí složené závorky ... :D
+ _f_r_u_i_t_y_-_l_o_o_p_s [Muž]29 [Kategorie]
+05.02.2011 11:51:02
+fruity-loops: Jo, no, to jednak, ale i tak to nepočítá dobře..
+Exactus Leo: Nemáš zač, ráda pomůžu
+[Smajlík]
+ zoufalá
+05.02.2011 11:48:15
+díky, chtěl jsem nedavno v C udělat kvadratickou rovnici, takže si ten skript
+beru a trochu ho předělám. Fakt dík, moc si mi pomohla
+[Smajlík]    [Muž]25 [Kategorie]
+ _E_x_a_c_t_u_s_ _L_e_o
+05.02.2011 11:47:33
+V těch posledních třech printf ti chybí znak % ...
+ _f_r_u_i_t_y_-_l_o_o_p_s [Muž]29 [Kategorie]
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+

@@ -1,0 +1,197 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+   Otázky - Vzkazy č.501261, vloženo _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+   19.01.2011 23:01:37               _s_t_r_á_n_k_a_]
+   Matematické vzorce, vysvětlení pro laiky
+   Přeji hezký večer, potřebovala bych od Vás pomoci v postupném laickém
+   vysvětlení matematických vzorců. Na matematiku jsem byla vždy dost slabá
+   a momentálně jsem začala chodit na "hromadné "doučování" " kde je po nás
+   vyžadují a ten s odpuštěním idiotský kantor se na mě dívá při dotazu
+   "jak na to" jako na vola. Na druhou stranu asi není divu, pomohli by
+   jste mi prosím? Snad si o mně nebudete myslet že jsem naprostý pitomec,
+   chci jenom poradit, díky moc!
+
+   ( a + b) na třetí = a na třetí + 3a na druhou b + 3ab na druhou + b na
+   třetí
+
+
+   ( a &#8722; b) na třetí = a na třetí &#8722; 3a na druhou b + 3ab na
+   druhou &#8722; b na třetí
+
+
+   a na třetí + b na třetí = (a+b) ( a na druhou - ab + b na druhou )
+
+
+   a na třetí - b na třetí = (a-b) ( a na druhou + ab + b na druhou )
+    terka [Žena]33  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+20.01.2011 01:00:42
+Taky jsem to v asi 6 třídě ze začátku moc nechápal, nám to matikářka rvala do
+hlavy zpaměti a přitom bohatě stačilo říct, jakým způsobem se musí jednotlivé
+členy roznásobit.
+Váš matikář bude asi podobné pedagogické individuum.
+
+Začni tím nejjednodušším: (a +b)^2
+to se dá rozepsat jako: (a+b)*(a+b)
+Začneš násobit. Vezmeš první áčko a vynásobíš ho s áčkem v druhé závorce,
+vyjde a^2
+Opět vezmeš první áčko a tentokrát ho vynásobíš s béčkem v druhé závorce,
+vyjde +ab
+První áčko už jsi tedy roznásobila se všemi členy druhé závorky, přesuneš se k
+prvnímu béčku.
+
+První béčko vynásob s druhým áčkem, vyjde +ba
+První béčko pak vynásob s druhým béčkem, vyjde +b^2
+
+Teď už máš všechno roznásobeno, sepiš, co ti vyšlo: a^2 + ab + ba + b^2
++ba můžeš napsat i ve tvaru +ab (při násobení na pořadí čísel nezáleží), takže
+po úpravě to bude: a^2 + ab + ab + b^2
++ab tam máš dvakrát, takže uděláš poslední úpravu a konečný výsledke bude:
+a^2 + 2ab + b^2
+
+(Poznámka: Zkus si do předchozího postupu dosadit místo a třeba 2 a místo b
+třeba 3
+výraz tedy bude (2+3)^2 což je z hlavy 25, tak jestli ti to vyjde stejně)
+
+Jdeme na složitější:
+
+(a+b)^3
+to se dá rozepsat jako (a+b)*(a+b)*(a+b)
+Výraz (a+b)*(a+b) už máš hotový z předchozího příkladu,je to a^2 + 2ab + b^2,
+takže
+ho výrazu (a+b)*(a+b)*(a+b) nahradíš, po úpravě to bude (a+b)*(a^2 + 2ab +
+b^2)
+A zvolíš úplně stejný postup jako v prvním příkladě. První člen první závorky
+(a) vynásobíš s každým členem závorky druhé a druhý člen první závorky (b)
+vynásobíš taktéž s každým členem druhé závorky.
+
+Vezmeme první člen, tedy první áčko a násobíme: aa^2, tedy a^3
+dále + a2ab, tedy +2a^2b ("dvě á na druhou bé"), potom +ab^2
+
+Vezmeme druhý člen, tedy první béčko a násobíme: +ba^2, dále +b2ab, tedy
++2ab^2 (čti "dvě á bé na druhou"), potom bb^2, tedy b^3
+
+Sepíšeme to, co vyšlo: a^3 +2a^2b +ab^2 +ba^2 +2ab^2 + b^3
+výraz ab^2 sečteme s výrazem 2ab^2, vyjde 3ab^2
+výraz +ba^2 upravíme na +a^2b a sečteme ho s 2a^2b, vyjde 3a^2b (čti "tři á na
+druhou bé")
+Sepíšeme co zůstalo po zjednodušení: a^3 + 3a^2b + 3ab^2 + b^3
+a to je výsledek.
+
+Zkouška pro a=2, b=3
+
+Nejdřív z hlavy:
+(a+b)^3
+(2+3)^3 = 5^3 = 5*5*5 = 125
+
+Vezmeme vzorec, který jsme vypočítali a dosadíme do něj
+
+a^3 + 3a^2b + 3ab^2 + b^3
+2^3 + 3*2^2*3 (čti "tři krát dvě na druhou krát tři") + 3*2*3^2 (čti "tři krát
+dvě krát tři na druhou") + 3^3 = 8 + 36 + 54 + 27 = 125
+
+--------------------------------- -------------------------------------
+D ávej pozor u vzorců, kde je záporné znaménko, třeba (a - b)^2
+Při násobení dvou záporných čísel vyjde číslo kladné, takže:
+
+(a - b)^2 = (a - b)*(a -b) = a^2 -ab -ba +b^2 ("plus bé na druhou !") =
+= a^2 -ab -ab +b^2 = a^2 -2ab + b^2
+
+Zkouška, opět z hlavy pro a=5, b = 2
+(a - b)^2 = (5-2)^2 = 3^2 = 9
+
+Podle zjištěného vzorce:
+a^2 -2ab + b^2
+5^2 -2*5*2 + 2^2 = 25 - 20 + 4 = 5 + 4 = 9
+
+------------------
+tady je ještě od
+ _M_a_r_d_ _d_r_a_M [Žena]43 [Kategorie]
+19.01.2011 23:47:45
+Svůj příspěvek jsi vložil(a) do nespravné kategorie. Bylo provedeno přesunutí.
+V případě opakování hrozí blokování vstupu na portál. Prosím zvol příště
+správnou kategorii. Děkujeme za pochopení.
+[Smajlík]      [Muž] [Kategorie]
+ _A_d_m_i_n_i_s_t_r_á_t_o_r
+19.01.2011 23:41:16
+Finta je v tom, že (a+b)(a+b) můžeš zapsat jako a(a+b)+b(a+b) a to můžeš
+zapsat jako aa+ab + ba+bb a dál to jde samo:
+
+(a+b)^2=
+(a+b)(a+b)=
+aa+ab+ab +bb=
+aa+2ab+bb=
+a^2+2ab+b^2
+
+(a+b)^3 =
+(a+b)(a+b)(a+b)=
+(aa+ab+ab+bb)(a+b)=
+aaa+aab+aab+abb+aab+abb+abb+bbb=
+aaa+ 3aab+3abb+bbb=
+a^3+3a^2b+3ab^2+b^3
+ Igorax
+19.01.2011 23:25:29
+no to je prosté.. máš (a+b)^3 a to je to samé, co (a+b)*(a+b)*(a+b). Tzn
+roznásobit všechno závorku po závorce, tak z toho po sečtení a odečtení
+dostaneš níže uvedené vzorce. Minimálně pro první dva případy to platí.. ten
+zbytek - nevim, nikdy nebylo k ničemu dobré, nepoužívám
+ _J_i_z_a_h [Muž]32 [Kategorie]
+19.01.2011 23:24:44
+No tak si to rozepiš a uprav - pak si to nemusíš pamatovat, ne?
+Tady máš příklad, ostatní už zvládneš sama:
+(a + b)^3 = (a + b) * (a + b) *(a + b) = (a + b) * (a^2 + ab + ab + b^2) = a^3
++ a^2b + a^2b + ab^2 + a^2b + ab^2 + ab^2 + b^3 = a^3 + 3a^2b + 3ab^2 + b^3
+ _B_o_r_n_e_o [Žena]4 [Kategorie]
+19.01.2011 23:19:16
+A teď tu otázku...
+ TallMan
+19.01.2011 23:12:38
+Nevím, co chceš vysvětlit..
+ _G_r_e_t_c_h_e_n_R_o_s_s [Žena]15 [Kategorie]
+19.01.2011 23:11:23
+A co cheš jako vysvětlit? Normální binomická věta.
+ _T_i_k_T_a_k [Muž]24 [Kategorie]
+19.01.2011 23:03:55
+No všechno je to rozložení stejných vzorců na druhou... jestli ti to pomůže...
+ _G_o_l_d_e_n_S_t_a_r [Žena] [Kategorie]
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+
