@@ -1,0 +1,237 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+   Otázky - Vzkazy č.412884, vloženo _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+   01.10.2009 15:40:32               _s_t_r_á_n_k_a_]
+   VBS-Script programování
+   Ahoj,
+   jsem tu zas:)
+
+   nevite nahodou, jak udelat u tohoto prikladu:
+
+   dim TRUEORFALSE
+   do until TRUEORFALSE = vbNo
+   dim KLIENTACCNUMBER, checkacount, checkdelkaacount
+   do until checkdelkaacount = 10 and checkacount = true
+   KLIENTACCNUMBER = InputBox ("Zadej CLIENT ACCOUNT")
+   checkdelkaacount = Len(KLIENTACCNUMBER)
+   checkacount = IsNumeric(KLIENTACCNUMBER)
+   loop
+   autECLSession.autECLPS.SendKeys KLIENTACCNUMBER
+   TRUEORFALSE = MsgBox ("Chceš pokračovat??", vbYesNo)
+   loop
+
+   aby KLIENTACCNUMBER bylo pokazde jine, tedy aby kdyz kliknu na tlacitko
+   ANO se mi znovu zobrazil inputbox pro zadani promenne KLIENTACCNUMBER?
+   Kdyz tam nemam vnitrni cyklus do until, tak to funguje,ale takto ne.
+   Proc?
+
+   diky
+    vjalgjerlg [Muž]22  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+07.10.2009 10:39:13
+timwood vedel ze ramen takto reagovat:) i ked pri DP nejde o jazyk javu, ta je
+minimalna, zaklady stacia..skor ten system ako to funguje to DP..ale nevadi:)
+ _t_i_m_w_o_o_d [Muž] [Kategorie]
+07.10.2009 06:55:52
+timwood: Ahaaaaa, tak potom google neklamal, lebo prvý hit pre "distribuované
+programovanie" obsahoval čosi takôto: "Sieťové a distribuované programovanie v
+Jave: identifikácia hostiteľských počítačov (DNS), spojovaná komunikácia
+(TCP), nespojovaná komunikácia (UDP)..." a ramen naivne pevne dúfal, že to
+nebude presne to, čo timwood opísal. :D:D:D A prečo? Bo v Jave programoval v
+dobe, keď sa ešte voda sypala a piesok mal zamálo sa liať webovské
+astronomické applety ako vypočítavanie fázy Mesiaca a polohy Jupiterových
+štyroch mesiacov (Galileove) a odvtedy sa jej nechce dotknúť ani 10-metrovým
+papekom, lebo:
+1. je svinsky pomalá
+2. no je to proste g*c
+3. už netrpí sebapoškodzovaním/masochizmom :D
+Takže ne, s týmto ramen asi nevypomôže... :(((
+Možno niekedy v budúcnosti, až bude bezdomovcom, tak bude vonku na ulici stáť
+s tabuľkou v ruke "Will code in Java for food". :oD
+;)
+[Smajlík] [Muž]96 [Kategorie]
+ _r_a_m_e_n
+06.10.2009 22:06:22
+ramen: ejej :) Timwood myslel nieco take ako:
+
+"..vytvorenie funkčného systému typu peer-to-peer pre zdieľanie súborov s
+webovským (jednoduchým) rozhraním s názvom ShareMe." :)
+
+Cele by to malo bezat pod Javou a netreba vsetko robit od piky, je k
+dispozicii kniznica, ktoru de facto treba pouzit :P
+
+Niektore typicke ulohy, ktore treba riesit:
+
+- Prijímanie správ od bežiacioch uzlov
+- Vytvorenie a udržovanie aktuálneho zoznamu známych uzlov
+- Vyhľadávanie súborov u ostatných uzlov (RMI)
+- Vyhľadávanie súborov - sprístupnenie služby pre iné uzly
+...
+
+Potrebne materialy a dokonca aj postup ako na to, Timwood doda ;) a tiez sa
+pyta kolko by to cele stalo od Ramena?
+ _t_i_m_w_o_o_d [Muž] [Kategorie]
+06.10.2009 18:12:55
+timwood: Podľa toho, čo konkrétne myslíš pod distribuovaným programovaním. Ak
+či ramen napísal nejakú aplikáciu klient-server (tcp/ip), tak áno, firemný
+talker s centralizovaným servrom. Ak či ramen napísal php aplikáciu nad mysql
+distribuovanými databázami na x servroch, tak áno, napísal. :P
+Alebo teda, čo timwood myslel svojou otázkou?
+:D
+ _r_a_m_e_n [Muž]96 [Kategorie]
+06.10.2009 15:07:20
+Tono-KS: to není výhovorka. Kdyz to nechci adresovat primo jemu, tak mu asi
+nebudu psat do profilu. Chci se zeptat vsech a kdo odpovi, ten odpovi. Pokud
+ramen nechce odpovidat, tak na zpoved odpovidat nebude. A hotovo. Me to je
+docela jedno, kdo mi poradi.
+ vjalgjerlg
+05.10.2009 19:12:58
+A ovlada ramen aj distribuovane programovanie? ;)
+ _t_i_m_w_o_o_d [Muž] [Kategorie]
+02.10.2009 15:44:26
+vjalgjerlg - aké nútenie k odpovedi? Proste to zmaže, keď nechce odpovedať a
+hotovo. Výhovorka.
+[Smajlík] [Muž] [Kategorie]
+ _T_o_n_o_-_K_S
+02.10.2009 09:34:53
+ramen: Diky, to me nenapadlo, vyzkousim.
+
+pro ostatni: Na netu jsem to hledala driv, nez jsem sem napsala, ale tam mate
+vzdy obecne jak se to tvori a konkretne co potrebuju,tam vetsinou nenajdu.
+Knihy jsem si o tom taky vypujcila, ale tam je vetsinou to samy, co najdu na
+netu.
+
+Jinak pokud za to dostanu v praci odmenu, tak mam v planu poslat ramenovi na
+ucet neco z toho. Ted o tom sefova jedna, jestli mi za to neco daji, ale
+rikala, ze asi ne moc (jenom symbolicka castka-no taky jsem zacatecnik, skoro
+ani to ne). No ale kdyby mi dali vic, tak na nej samozrejme nezapomenu.
+
++ nepisu mu to do jeho profilu pro to, ze chci, aby se mohl rozhodnout sam za
+sebe, jestli mi poradi nebo ne. Kdybych mu psala do profilu, tak bych ho tim
+nutila k odpovedi. Ale takhle ma kazdy na vyber, jestli na tuto zpoved bude
+reagovat, nebo ne a treba je tu vic lidi, co to umi.
+ vjalgjerlg
+01.10.2009 18:47:20
+Ale ved ramen vždy rád pomôže čo sa týka tejto zvláštnej reči počitačovej :
+) Keby to pocitoval ako využívanie tak by na to určite nereagoval a navyše
+takéto problémy sú pre neho úplná malina tak prečo by nepomohol :)
+ anonym
+01.10.2009 18:42:11
+wyctorya - dotyčná sem píše už asi štvrtý krát a zakaždím sa s ňou bavil len
+ramen, takže je podľa mňa úplne jasné, komu je tento odkaz určený. Preto
+nechápem, že mu to nepíše aspoň do profilu, ale musí tým spamovať celý
+priestor. A čo sa týka pomáhania, tak je rozdiel medzi žiadaním o pomoc a
+zneužívaním. Dotyčná by si to fakt mohla preštudovať v nejakých publikáciach
+na nete či v knihách, lenže zjavne je na to príliš lenivá. To je ako keď sem
+niekto píše žiadosť o pomoc, pričom by ju mohol nájsť pár sekundami
+premysleného googlovania a browsovania stránok. Lenže ľudská lenivosť je
+nekonečná a je pohodlnejšie zneužívať niekoho dobrotu.
+ _P_a_t_e_r_ _H_o_v_a_d_o [Muž] [Kategorie]
+01.10.2009 18:32:17
+Alt+F4.
+ramen - daj sem mail nech píše rovno tam. :)
+ _T_o_n_o_-_K_S [Muž] [Kategorie]
+01.10.2009 18:04:50
+Wow, to som si neuvedomila, že to sem dala dotyčná takto priamo aj s venovaním
+pre ramena, kým jeho, chudáka, v škôlke neučili povedať nie... čo takto sa
+zmieriť s tým, že niektorí ľudia proste dokážu pomôcť aj bez nároku na odmenu
+či štipľavých poznámok??
+ _w_y_c_t_o_r_y_a [Žena] [Kategorie]
+01.10.2009 18:04:35
+Pater Hovado: No jo..... Nehovorím, že nemáš pravdu, alebo čo...
+A vskutku uvažujem nad netovským helpdeskom, aspoň pre mojich interných
+klientov v prvej fáze, takže vskutku dobrý nápad ten Tvoj. :)
+ _r_a_m_e_n [Muž]96 [Kategorie]
+01.10.2009 17:52:52
+ramen, ale teraz úplne vážne. Ja viem, že nemáš problém pomáhať ale nemusíš sa
+takto nechať zneužívať. Dotyčná dáma si to dokáže naštudovať aj sama, akurát
+je príliš lenivá...
+ _P_a_t_e_r_ _H_o_v_a_d_o [Muž] [Kategorie]
+01.10.2009 17:45:57
+Pater Hovado, anonym: No jooooo, to je moje oficiálne povolanie. :D Hmmmmm....
+Nie márna rada s tým netovým fórom. :D ;o)
+
+No a k Tebe, vjalgjerlg, máš tam iba miniatúrnu chybičku. Totiž keď si
+všimneš, Tvoj vnútorný loop vypadne práve vďaka tomu, že checkdelkaacount = 10
+a checkacount = true. To si aj chcela dosiahnuť, čo je fajn. Leeeenže, DIM
+zjavne nevynuluje premenné a tieto ostávajú v pôvodných hodnotách, a preto sa
+script na vnútorný loop vyflákne. Riešenie je teda veľmi jednoduché: nastaviť
+hociktorú premennú, aby nevyhovovala podmienke v loope.
+
+Takto:
+
+
+dim TRUEORFALSE
+do until TRUEORFALSE = vbNo
+dim KLIENTACCNUMBER, checkacount, checkdelkaacount
+do until checkdelkaacount = 10 and checkacount = true
+KLIENTACCNUMBER = InputBox ("Zadej CLIENT ACCOUNT")
+checkdelkaacount = Len(KLIENTACCNUMBER)
+checkacount = IsNumeric(KLIENTACCNUMBER)
+loop
+autECLSession.autECLPS.SendKeys KLIENTACCNUMBER
+' ****** pridal ramen ********
+checkdelkaacount = 0
+' ****** koniec toho, co pridal ramen ******
+TRUEORFALSE = MsgBox ("Chceš pokračovat??", vbYesNo)
+loop
+
+---------------------- -------
+
+Ooooki? :P
+[Smajlík] [Muž]96 [Kategorie]
+ _r_a_m_e_n
+01.10.2009 17:45:21
+ine je pomoct..ine je vyuzivat ramena na to ze si blby a nedokazes trosku
+studovat...
+[Smajlík]          [Muž]17 [Kategorie]
+ _n_e_v_i_e_m_ _c_i_ _p_o_r_a_d_i_m
+01.10.2009 16:30:34
+ramen - nechceš si založiť netové fórum, kde budeš radiť ľuďom s
+programovaním? Zavesíš tam niekoľko bannerov a máš vystaráno.
+ _P_a_t_e_r_ _H_o_v_a_d_o [Muž] [Kategorie]
+01.10.2009 16:09:50
+hej RAMEN predtým než poradíš nadiktuj číslo účtu a pýtaj prachy. toto už
+predsa patrí k tvojej práci no nie ? :-D
+ anonym
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+

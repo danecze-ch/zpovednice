@@ -1,0 +1,211 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+Diskuze č.412663, vloženo 30.09.2009 03: _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+36:43                                    _s_t_r_á_n_k_a_]
+JAKÝ OBOR VŠ MÁ PERSPEKTIVU
+Podle mě jenom medicína protože nemocných lidí bude pořád nadbytek programování
+perspektivu nemá protože se zjednouší a budou je dělat malé děti.
+ _B_h_a [Muž]56 [Kategorie]  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+01.10.2009 10:56:31
+Medicína, chemie, genetika, IT, strojárna, stavárna, elektro, ...
+ Bc.
+30.09.2009 20:51:14
+Medicína? Hm, to jo, no... poprvé s Tebou souhlasím. Jen tak dál, chválím!
+[Smajlík]  [Žena]18 [Kategorie]
+ _R_e_g_i_n_a_0_0_4
+30.09.2009 17:27:57
+GordonFreeman : Javu nenávidím :)
+ _l_i_b_i_k [Muž]34 [Kategorie]
+30.09.2009 16:55:48
+libik: prosimtě promiň, ale zůstaň u javy a do tohohle moc nešťourej. udělali
+jsme z toho tady diskuzi o vláknech. já ti říkám, že masivní nasazení
+multihtreadingu nás teprve čeká. teď budu mluvit o win32: timery se dají řešit
+přes events ve winapi, mít vlastní vlákno pro progress bar je nesmysl - ten
+jenom sedí a čeká na message která mu řekne že se má posunout atd atd.. hudba
+ve hrách, no to radši nechám uplně bejt.. nechme toho
+ _G_o_r_d_o_n_F_r_e_e_m_a_n [Muž]26 [Kategorie]
+30.09.2009 16:50:55
+qwe : Ale tady nejde o to, kolik co používá jader. Vícevláknové programování
+se používá zcela běžně kvůli FUNKČNOSTI. GordonFreeman správně podotknul, že
+pokud jde o programování pro více jader, které právě využívá více vláken, tak
+to ještě moc rozšířené není. Ale věř mi, že vícevláknový přístup je dneska v
+každém druhém programu. Obvykle se dělají aspoň dvě vlákna - tj. GUI a zbytek
+(aby se ti nestalo, že při nějakém načítání něčeho ti všechno ztuhne a ty
+nevíš, co se děje).
+
+Nevím co má nebo nemá crysis, ale je to silně nepravděpodobné. U her se zase
+velmi často používá druhé vlákno pro hudbu(což si jistě občas všimneš, že hra
+se ti třeba seká, nebo i ztuhne, ale hudba jede dál).
+ _l_i_b_i_k [Muž]34 [Kategorie]
+30.09.2009 16:21:06
+To o cem se bavis je ale multithread u CPU ja se tady celou dobu bavim o
+vicevlaknovem programovani.To ze multihreading existuje u procesu a vetsina
+operacnich systemu ho podporuje to ti nijak nevyvracim.ALE u programovani je
+to jinak zatim se multithreading moc neuziva i takova hra Crysis Warhead je
+jednovlaknova ano umi vyuzivat vice jader ale ne efektivne.Dobre tento rok uz
+najdes vicevlaknove hry ale aspocitas je na svych prstech protoze moc jich
+neni.A to stale nevyvraci fakt ze jsi mluvil o multithreading u CPU a ne u
+programani:D
+ qwe
+30.09.2009 15:53:05
+qwe : Panebože, to není možnost, ale u rozsáhlejších algoritmů prakticky
+NUTNOST. Představ si takovou srandičku - pracuje ti program a ukazuje ti v
+procentech jak dalece je tento proces dokončen - tradá, pravděpodobně
+multithread.
+
+Jede ti hudba u nějaké hry? Tradá, pravděpodobně multithread.
+
+Je někde puštěný timer? (tj. každých x vteřin se něco vykoná - často to bývá
+právě u her) - Tradá, pravděpodobně multithread.
+
+Já osobně jsem musel taky dělat multithread a to u semestrálky z javy, kde
+hrála hudba - aby ta hudba byla nezávislá na zbytku a mohla v pohodě běžet,
+musela být ve vlastním vláknu.
+
+A těch příkladů využití a použití jsou stovky a tisíce. Znovu se ptám - proč
+se vrtáš v něčem, čemu nerozumíš? :)
+Ohledně AI máš pravdu, i když stroje, které vyrábí auta, nejsou dobrým
+příkladem :). Existují už např. neuronové sítě, které jsou inspirované funkcí
+neuronových sítí v mozku, a ty se již do jisté míry učit dokáží(ale samozřejmě
+s opravdovou inteligencí to zatím ještě zdaleka nemá nic společného).
+ _l_i_b_i_k [Muž]34 [Kategorie]
+30.09.2009 15:38:13
+libik:
+to ze tu je uz ta moznost neznamena ze ji vsichni vyuzivaji a dale viz
+GordonFreeman ten to dobre popsal.
+
+Bha:
+K AI mame jeste hodne daleko takze se nebojim ze by programatori ztratili
+behem 50 let sve mista. A spis bych napsal ze programy budou lepsi nez ze AI
+bude lepsi protoze AI jako takova jeste neni zatim to jsou jen programy ktere
+trebas umi trebas vyrabet auta ale tomu rikas inteligence?Pro je inteligence
+to ze ji muzu vedome rozsirovat kdezdo u programu co mu naprogramujes to je
+dane nic vic neumi a ani se sam nerozsiri(zase mu musis udelat nejakou
+aktualizaci aby se rozsiril).
+
+A k tem filmum ano jsou lepsi editory na delani filmu ale furt ten clovek musi
+SAM poskladat vertexy a otexturovat jednotlive modely protoze proste pc nemuze
+vedet zda chces aby ta opica byla cervena a mela jednu ruku delsi.
+[Smajlík]
+ qwe
+30.09.2009 12:58:46
+jistě, že strojařina... kdo jinej by těm ajťákům vyráběl stroje na výrobu
+počítačů, brejlatej pascalista?
+[Smajlík] [Muž]32 [Kategorie]
+ _J_i_z_a_h
+30.09.2009 12:26:40
+libik:
+to je sice pravda, ale s nástupem vícejádrovejch procesorů teprve dojde k
+nutnosti využití multithreadingu. s tím souvisí obrovská řada problému.
+zejména mezivláknová komunikace/synchronizace/sdílení paměti. implementace
+paralelních algoritmů je daleko náročnější a né každý ji zvládne. dnešní
+multithread aplikace jsou spíš stylem - volám blokující funkci, použiju na to
+vlákno - než - mám 128 jader použiju na řešení postal worker rings only once
+128 vláken.
+ _G_o_r_d_o_n_F_r_e_e_m_a_n [Muž]26 [Kategorie]
+30.09.2009 12:21:12
+qwe : No ty toho ocividne o programovani taky moc nevis... vicevlaknove
+(multithread) programovani uz tady hezkych par let je a je to naprosto bezna
+soucast vetsiny programu...
+ _l_i_b_i_k [Muž]34 [Kategorie]
+30.09.2009 11:48:59
+Největší perspektivu má studovat theologii, doslova nadčasovou a věčnou. V ní
+je zároveň obsažena i převážná část světové filosofie, kratší, přehlednější a
+zábavnější formou. Krom toho se dá tahle škola uplatnit i praktickým způsobem
+i v dočasném životě. Počítá se jako vejška a co do všeobecného vzdělání se víc
+než vyrovná všem humanitárním oborůn.
+ Toník
+30.09.2009 11:33:40
+push eax
+[Smajlík]      [Muž]26 [Kategorie]
+ _G_o_r_d_o_n_F_r_e_e_m_a_n
+30.09.2009 11:20:16
+Zapomínáte na to že bude umělá inteligence v počítačích a ta bude mnohem
+inteligentnější než tlupa nejlepších světových programátorů.
+
+Máte jenom strach o svoje výhody jste zbabělci.
+[Smajlík] [Muž]59 [Kategorie]
+ _B_h_a
+30.09.2009 11:10:50
+demence Bha vždycky pobaví;
+jinak k tématu: zastávám názor, že je a pořád bude potřeba technických oborů
+- tzn. strojárny, fely, infárny, stavárny, architektury, popř. školy typu
+matfyz či fakulty typu FAV,
+dále bude potřeba určitě lékařů a učitelů, zbytek je dost diskutabilní
+ worghos
+30.09.2009 10:34:59
+Peogramování se musí zjednodušit protože jinak by to programátoři nemohli
+zvládnout ten nárůst potřeby tvorby nových programů, když si vezmu třeba
+filmování za mého mládí jak to bylo složité a dneska všechno udělá automatika
+[Smajlík] [Muž]59 [Kategorie]
+ _B_h_a
+30.09.2009 10:24:51
+Programovani se zjednodusi hahaha:D :D
+Co tam proboha muzes zjednodusovat myslis ze pc bude samo logicky myslet a
+doplnovat if then jak ho to napadne?:D Uz vidim jak kdyz vytvoris algoritmus s
+blbym otviranim dveri klickem tak urco nejaky program si rekne: Aha co kdyz
+ten vul tam da jiny klic -naprogramuju.Aha co kdyz bude otacet opacnym smerem-
+naprogramuju.Aha Co kdyz ma jine dvere-naprogramuju.Aha co kdyz dvere jsou
+zasekle-naprogramuju... to proste pc nemuze nikdy napadnout protoze nemysli!!!
+
+a to nemluvim o vicevlaknovem programovani co za chvili bude:D :D to se teprv
+programatori poserou:) Takze nez zacnes psat kokotiny tak si o tom neco zjisti
+nazdar.
+[Smajlík]
+ qwe
+30.09.2009 10:17:47
+Ono je rozdíl být programátor a hrát si na programátora. Stejně tak jako být
+doktor a hrát si na něj, což děti taky dokáží.
+[Smajlík]     [Muž]29 [Kategorie]
+ _f_r_u_i_t_y_-_l_o_o_p_s
+30.09.2009 10:04:18
+Co to plácáš?
+
+Já jdu na logistiku, je to mladý obor, málo kvalifikovaných odborníků.
+ Erzsebet
+30.09.2009 09:36:17
+ty toho o programování asi moc nevíš :-D
+[Smajlík]      [Muž]26 [Kategorie]
+ _G_o_r_d_o_n_F_r_e_e_m_a_n
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+

@@ -1,0 +1,341 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+Zpověď č.419087, vloženo 04.11.2009 16: _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+07:31                                   _s_t_r_á_n_k_a_]
+C++
+ahoj kto vie programovať /aspom trochu/ v c++?
+
+dakujem za odpovede
+ buDá [Muž]16  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+06.11.2009 17:03:23
+To čo napísala /ooo/ mi pomohlo trochu som si to skrtil a bolo to trochu
+uveritelne ze som to robil ja takze dakujem
+[Smajlík]
+ buDá
+06.11.2009 11:44:04
+timwood: Oh. Tiež pravda... No ako pozerám, isdigit sa tiež vzťahuje iba na
+jeden char, tož asi tak či tak by musel urobiť nejaký loop na celú dĺžku
+čísla, žeeee..? :P
+Chudák buDá z nás už bude mať riadny chaos... :-S :D
+[Smajlík] [Muž]96 [Kategorie]
+ _r_a_m_e_n
+05.11.2009 21:14:38
+sak to v Ccku staci napisat cez makra..napr. isdigit(c) kt. vrati nenulovu
+hodnotu ak c je znak cislice, inak vrati 0 (false) abo nieco na sposob cez if
+(c>= 'a' && c <='z'){} ..aby mu ucitel uveril, ze to sam pisal ;)
+ _t_i_m_w_o_o_d [Muž] [Kategorie]
+05.11.2009 19:03:02
+timwood: Haha, už by si dostal o stupeň horšie ohodnotenie. :P V zadaní bolo:
+"Ešte k zadaniu: tie 3 čísla su lubovolne a bude tam cykls FOR"
+takže aspoň jeden cyklus tam načim ponechať. :D ;) S ošetrovaním súhlasím, to
+by sa patrilo, lebo u nás profák prišiel a testoval, či je program
+blbuvzdorný, že začal báchať do klávesnice a inputovať všetko možné. :D A ak
+program vypadol s chybou, tak sa tváril veľmi víťazne. :oP
+Lenže tu by asi mal najprv premenné zadefinovať ako string a konvertovať cez
+atoi na num po vykonaní testu napríklad takouto rutinou (funguje v C#, neviem
+či aj v C++):
+
+public static bool JeCislo(string CisloText)
+{
+  bool jecislica = true;
+
+  foreach(char c in CisloText)
+  {
+     jecislica = char.IsNumber(c);
+     if (!jecislica)
+     {
+        return jecislica;
+     }
+  }
+  return jecislica;
+}
+
+:P
+[Smajlík] [Muž]96 [Kategorie]
+ _r_a_m_e_n
+05.11.2009 18:07:58
+ramen: to rovno ten for prepis elegantne na while :) ..a tiez treba osetrit
+stavy ak zada znak namiesto cisla ;)
+ _t_i_m_w_o_o_d [Muž] [Kategorie]
+05.11.2009 15:30:23
+timwood: No heeej, rovnako dobre by sa to dalo napísať aj v basicu. :D:D
+
+Inak... v rámci optimalizácie, alebo buDá ak ste nebrali polia, tak by som ten
+kód:
+
+for (i = 0;i < 10;i++)
+{
+cout << "Zadaj " << i+1 << ". cislo: ";
+cin >> cislo[i];
+}
+j=0;
+for (i = 0;i < 10;i++)
+{
+if (cislo[i] == 0)
+{
+j++;
+}
+}
+cout << "Nulovych cisel je: " << j << "\n";
+
+
+zjednodušil na:
+
+int cislo;
+
+j=0;
+for (i = 0;i < 10;i++)
+{
+   cout << "Zadaj " << i+1 << ". cislo: ";
+   cin >> cislo;
+   if (cislo == 0)
+   {
+      j++;
+   }
+}
+cout << "Nulovych cisel je: " << j << "\n";
+
+
+ušetrí sa tým jeden cyklus FOR a práca s poľom. O:-)
+[Smajlík] [Muž]96 [Kategorie]
+ _r_a_m_e_n
+05.11.2009 11:56:36
+to zadanie je zrele tak na jazyk C ...nevidim tam pouzitie ziadnych tried...i
+ked do talianska sa da ist aj cez rusko :D
+ _t_i_m_w_o_o_d [Muž] [Kategorie]
+05.11.2009 11:08:56
+ja som programoval v Turbo pascale 7.0 :-D urobil som v nom remake hry Galaxy
+Invaders v textovom móde, to bola pecka ten pascal :-)))
+ ujo fero
+05.11.2009 08:48:04
+buDá: Oh, ale ak myslíš:
+
+/* nejaký_múdry_text */
+
+tak to je obyčajný comment - poznámka pre potrebu programátora, ktorú kompiler
+ignoruje, keďže nie je súčasťou funkčnej časti kódu. Je to dobrá vec si
+program okomentiť, aby človek aj po rokoch vedel, čo daným blokom programu
+myslel a nemusel ho zdĺhavo študovať, škrabať sa za ušami a zisťovať, čo asi
+tak robí. :P
+Mnohokrát som si gratuloval, že som nebol lemravý písať poznámky, lebo tak...
+sú dve vcelku také... nenávidené práce v programovaní: písanie komentov a
+písanie dokumentácie. :D
+[Smajlík] [Muž]96 [Kategorie]
+ _r_a_m_e_n
+05.11.2009 07:58:50
+jasne ja viem . raz som si normalne naprogramoval taki program ze jako
+normalne sa zapol a hned aj vipol. bol som na seba strasne hrdi.
+[Smajlík]
+ ajtak
+04.11.2009 19:57:01
+buDá:
+Uh... ale čo ja tam vidím hviezdičky, tak to sú len všetko špeciálne efekty -
+na okrasu, aby to len pekne vyzeralo. :D
+Napríklad v tomto riadku:
+cout << "*Zadaj 1 pre vstup 10 cisel *\n";
+Alebo niečo mi uniká...? Nevidím totiž nikde použitie hviezdičky ako súčasť
+kódu ako takého (* sa používa pri pointeroch ako dereferenčný operátor).
+A to [] je pre polia. V hranatých zátvorkách sa uvádza číslo prvku poľa.
+ _r_a_m_e_n [Muž]96 [Kategorie]
+04.11.2009 19:43:36
+a co znamena /*/?
+ buDá
+04.11.2009 19:40:53
+buDá:
+switch - je pre rozhodovanie sa, môžeš ho rovnako dobre nahradiť s IF, pokiaľ
+vás ho neučili. Nie je to také elegantné s if, no ale účel splní. :)
+break - je na ukončenie for, while a switch, to by ste mali brať, ak ste brali
+FOR. Pomocou break môžeš s cyklu hocikedy vyskočiť. Napríklad, ak for beží pre
+10000 položiek a vyhovuje už tretia, tak načo si vyčkať zvyšných 9997? Ušetrí
+sa čas. :P
+default - znamená, že ak nevyhovuje vo switch žiadna zo špecifikovaných
+hodnôt, tak sa vykonajú príkazy uvedené v default. V prípade kódu od ooo
+znamená default ukončenie behu while, keďže "a" sa nastaví na 1 a to skončí
+nekonečnú slučku while.
+[Smajlík] [Muž]96 [Kategorie]
+ _r_a_m_e_n
+04.11.2009 19:25:20
+diki moc :) aj keď to malo byť kratšie ale aspom niečo a niektore vyrazy sme
+sa tam neučili napr.
+
+switch
+*
+[
+break
+default
+ buDá
+04.11.2009 19:14:53
+hmm nejak to z toho programu vymazalo tabulatory a medzery :( pozri si to mne
+to islo pekne spustit, takze by to malo byt ok, dufam ze si to takto nejako
+myslel to zadanie.
+ ooo
+04.11.2009 19:12:13
+#include <iostream.h>
+int main ( )
+{
+int a, i, j, c, k, l, m, cislo[10];
+a=0;
+while (a == 0)
+{
+cout << "**************************** *\n";
+cout << "*Zadaj 1 pre vstup 10 cisel *\n";
+cout << "*Zadaj 2 pre vstup 3 cisel *\n";
+cout << "*Zadaj 3 pre koniec *\n";
+cout << "**************************** *\n";
+cin >> c;
+switch (c)
+{
+case 1:
+{
+for (i = 0;i < 10;i++)
+{
+cout << "Zadaj " << i+1 << ". cislo: ";
+cin >> cislo[i];
+}
+j=0;
+for (i = 0;i < 10;i++)
+{
+if (cislo[i] == 0)
+{
+j++;
+}
+}
+cout << "Nulovych cisel je: " << j << "\n";
+}
+break;
+case 2:
+{
+cout << "Zadaj cislo K: ";
+cin >> k;
+cout << "Zadaj cislo L: ";
+cin >> l;
+cout << "Zadaj cislo M: ";
+cin >> m;
+if (m < l)
+{
+cout << "Interval <L,M> neexistuje preto sa neda urcit ci K je z intervalu
+<L,M>\n";
+}
+else
+{
+if ((k >= l) && (k <= m))
+{
+cout << "Cislo K je z intervalu <L,M>\n";
+}
+else
+{
+cout << "Cislo K nie je z intervalu <L,M>\n";
+}
+}
+}
+break;
+default:
+{
+a=1;
+}
+break;
+}
+}
+return 0;
+}
+[Smajlík]
+ ooo
+04.11.2009 19:07:08
+Tak ako nejde to? :(
+ buDá
+04.11.2009 18:31:47
+TO: buDá tak za polhodku sa zastav, skusim sa na to kuknut.
+ ooo
+04.11.2009 18:24:02
+Ja som to vedel tak pred dvoma rokmi ale nerobím s tým tak som to zabudol. :)
+[Smajlík] [Muž] [Kategorie]
+ _T_o_n_o_-_K_S
+04.11.2009 18:18:51
+To: ooo - Zadanie znie:
+
+Na vstupe je 10 čísel zistite kolko z nich je nulových.
+Na vstupe sú 3 čísla K,L,M
+Zistite či K je z intervalu <L,M>
+
+Akože pomoc by som si nepýtal ale fakt si s tým neviem rady a potreboval by
+som vidieť ako celý program vyzerá.
+Ešte k zadaniu: tie 3 čísla su lubovolne a bude tam cykls FOR
+Začiatok by mal vyzerať asi takto ale dalej neviem:
+# include <iostream>
+int main ( )
+{
+int k,l,m;
+
+Za pomoc velmi dakujem
+buda
+ buDá
+04.11.2009 17:53:18
+no ja som mal C++ 2 roky tak ked chces , z niecim ti pomozem, ak budem vediet,
+napis co by s chcela.
+ ooo
+04.11.2009 17:37:48
+Já, jenom jááááá...
+..
+Naopak doufám, že pomůže někdo jiný. Třebas méně kompetentní, ale o to víc
+zapálený. V nejhorším holt napiš do profilu, ale víc než strejda Google fakt
+C++ neumím.
+ _P_r_y [Muž]33 [Kategorie]
+04.11.2009 17:30:33
+mám to za úlohu a neviem sa pohnut dalej prave sa to začiman ucit a v skole
+nam hned zadali tazsi priklad s ktorym si neviem rady
+[Smajlík]
+ buDá
+04.11.2009 17:00:20
+Jestli se chceš naučit programovat, nauč se nejdřív hledat už vyřešené
+problémy. Pořád něco nebudeš vědět a pořád budeš potřebovat najít, co už je
+někde napsané. Nevěřím, že máš nějkaý naprosto specifický problém, který před
+tebou ještě nikdo neřešil.
+ _M_a_r_e_k_-_l_i_b [Muž]35 [Kategorie]
+04.11.2009 16:28:46
+a mohol by mi s niečím pomôcť? dáš mi na neho e-mail prosím?
+ buDá
+04.11.2009 16:26:47
+moj brat
+ mamamamia
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+

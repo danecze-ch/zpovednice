@@ -1,0 +1,348 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+Zpověď č.411348, vloženo 23.09.2009 17: _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+29:12                                   _s_t_r_á_n_k_a_]
+Šílená úloha z fyziky
+Ahoj, ve škole jsme dostali tuto úlohu:
+
+Auto jede z bodu A do bodu B průměrnou rychlostí 30 km/h.
+Z bodu B do bodu C je to stejně daleko jako z A do B.
+Celková průměrná rychlost (z A do C) je 60km/h.
+Jaká je průměrná rychlost mezi B a C?
+
+Primitivní, že?
+No, tak to jsem si taky myslel, ale už jsem popsal přes dvacet stránek a
+strávil jsem několik hodin s mnoha způsoby řešení a nic. Zoufalství maximální,
+učitel mě zítra sežere zaživa... :(
+
+Pomóc!
+ Zoulafý student [Muž]12  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+23.09.2009 20:18:56
+P.S. Dělat průměr rychlostí jako (v1+v2)/2 je nesmysl. Je to zmíněné už někde
+níže.
+
+Řešení přes trojúhelníky nechápu. Určitě to nějak půjde, ale je to jako
+počítat cenu za nákup integrálním počtem.
+ KCK
+23.09.2009 20:12:59
+!!! PŘÍKLAD NEMÁ ŘEŠENÍ !!!
+
+s = vzdálenost z A do B = vzdálenost z B do C
+2*s = vzdálenost z A do C
+v(AB) = rychlost z A do B
+v(AC) = rychlost z A do C
+t(AB) = čas z A do B
+t(BC) = čas z B do C
+
+t(AC) = t(AB)+t(BC)
+
+s = v * t (dráha = rychlost * čas)
+
+s = v(AB) * t(AB) /kolik ujedu z A do B/
+2*s = 2 * v(AB) * t(AB) /jen vynásobím dvojkou/
+2*s = v(AC) * [ t(AB)+t(BC) ] /kolik ujedu z A do C (čas je součet dílčích
+časů)
+
+2*s = 2*s
+2*v(AB)*t(AB) = v(AC)*[ t(AB)+t(BC) ]
+2*30*t(AB) = 60*[t(AB)+t(BC)]
+60*t(AB) = 60*t(AB) + 60*t(BC) |-[ 60*t(AB) ]
+0 = 60*t(BC)
+
+Takže druhý úsek zvládneš za 0 sekund. Takže rychlost se bude blížit
+nekonečnu, což vzhledem k tomu že jsi na zemi je díky teorii relativity
+nemožné.
+
+Takže úloha nemá řešení
+
+Pokud někdo něčemu nerozumí, tak rád dovysvětlím...
+[Smajlík]
+ KCK
+23.09.2009 18:44:01
+qwe: Jestliže je přímo v zadání, že se jede přes bod B, tak je úplně fuk jakej
+úhel ty cesty svírají. Nakonec nikdo ani netvrdí, že jsou ty cesty vůbec
+rovný. Mluví se o průměrných rychlostech, takže to auto klidně může jezdit
+někde na okruhu pořád dokola.
+ heh
+23.09.2009 18:39:17
+to PrycZNudy:
+\"Dejme tomu ze z A do B je to 300km (z B do C taky 300km, tudiz z A do C
+600km).\"
+no to je pekna blbost a ty znas uhel ktery sviraji to ze znas 2 strany
+trojuhelniku?Nikde nepise ze je to pravouhly trojuhelnik takze pythagora
+nemuzes pouzit.
+ qwe
+23.09.2009 18:34:51
+DobreVlocky: První kilák ujedeš třicítkou za 2 minuty. Druhý kilák ujedeš
+devadesátkou za 40 sekund. Dohromady jedeš 2 minuty a 40 sekund (160 sekund,
+což je 0,0444 hodiny), dráha je 2 km. Tedy průměrná rychlost v = s/t = 2/(160/
+3600) = 45 km/h.
+ heh
+23.09.2009 18:33:49
+Fuj, matika. Sral bych na to.
+ _w_r_e_t_i_p [Muž]20 [Kategorie]
+23.09.2009 18:31:52
+DobreVlocky: tak je vysledek 45km/h
+
+Dejme tomu ze z A do B je to 1km (z B do C taky 1km, tudiz z A do C 2km).
+Prvni cast (A --> B) jede 1/30 hodiny(2min) druhou cast (B --> C) jede pri
+rychlosti 90km/h 1/90 hodiny (40 vterin), tudiz prumerna rychlost je:
+2 / (1/30 + 1/90) = 45km/h
+[Smajlík]
+ PrycZNudy
+23.09.2009 18:30:01
+Jakubus Nahubus: Nechceš si už fakt raději uvědomit, jak se počítá průměrná
+rychlost? Ten tvůj postup s průměrováním průměrných rychlostí totiž funguje
+jen za předpokladu, že oba dva ty úseky jedeš stejně dlouho. Takže když třeba
+pojedeš HODINU třicítkou a potom HODINU devadesátkou, tak celkově jedeš DVĚ
+HODINY a tvoje průměrná rychlost je 60. Jenže v téhle úloze neplatí, že t1 =
+t2, ale s1 = s2.
+
+Kdybys nebyl trubka, tak bys si tam už dávno dosadil a přestal se ztrapňovat.
+Dosaď si tu vzdálenost AB třeba 30 km. Potom první část jedeš hodinu. Když
+pojedeš druhý úsek devadesátkou, zvládneš to za 20 minut. Celkem tedy pojedeš
+hodinu a dvacet minut. Celková dráha je 60 km. Tudíž tvoje průměrná rychlost
+je 60/1,333 = 45 km/h.
+
+Než někomu začneš nadávat do idiotů, tak se raději dvakrát zamysli, ty
+matematiku :-D
+ heh
+23.09.2009 18:27:33
+Etneksa, Charlemagne, Heh:
+
+Ö díky díky, lidu moudrý. :) Mě to nakonec taky tak vycházelo, ale nechce se
+mi tomu věřit selským rozumem. Přece není možné. aby když na to nedupnu jsem
+to na těch 60 nevytáhl, no né? Jenomže když jste mi vy tři mé logické závěry
+potvrdili, začínám věřit neuvěřitelnému. :)
+Ještě jednoiu díky.
+[Smajlík]
+ Zoufalý student
+23.09.2009 18:22:55
+jinak je to jednoduchy jako facka ...
+
+zvdalenost AB= vzdalenosti BC
+takze jede 30km rychlosti 30km/h ... dalsich 30km pojede 90km/h ... takze je
+prumerna rychlost 60km/h ...
+
+90km/h je spravna odpoved ...Heh je idiot jestli tvrdi neco jineho
+
+ten vzorec je spravne
+
+(30km/h + rychlost na trase BC) : 2 = 60km/h /*2
+30km/h + rychlost na trase BC = 120km/h / -30km/h
+rychlost na trase BC = 90km/h
+[Smajlík]        [Muž]25 [Kategorie]
+ _J_a_k_u_b_u_s_ _N_a_h_u_b_u_s
+23.09.2009 18:22:34
+Když je těch 90 km/h teda blbost, tak jaká je teda moje průměrná rychlost celé
+trasy (z A do C), která má má 2km, a já ten jeden kilák (z A do B) jedu 30km/
+h a ten druhej (z B do C) 90km/h?
+ _D_o_b_r_e_V_l_o_c_k_y [Žena] [Kategorie]
+23.09.2009 18:22:19
+Me jenom prekvapuje, jak studenti v 16 a vic letech zcela postradaj logiku...
+Napr. pan Nahubus.
+ Charlemagne
+23.09.2009 18:21:41
+Jakub Nahubus: Nemáš pravdu. Celková průměrná rychlost se spočítá jako celková
+dráha dělená celkovým časem. Když pojedeš 29 km třicítkou a pak se jeden km
+teleportuješ, tak budeš mít celkovou průměrnou rychlost jen něco málo přes 31
+km/h. Ten, kdo vyjel zároveň s tebou a jel celou dobu čtyřicítkou, tak má
+průměrnou rychlost právě těch 40 a už je dávno v cíli, takže ty můžeš mít
+těžko vyšší průměrnou rychlost, natožpak nekonečnou.
+ heh
+23.09.2009 18:20:47
+Presne tak, musel bys trasu z bodu B do C urazit v case 0. Jen pro ukazku:
+
+Dejme tomu ze z A do B je to 300km (z B do C taky 300km, tudiz z A do C
+600km).
+Prvni cast (A --> B) jede 10 hodiny druhou cast (B --> C) pri rychlosti 300km/
+h jede hodinu, tudiz prumerna rychlost je:
+600(km) / 11(hodin) = 54.54km/h
+
+Dejme tomu ze z A do B je to 3000km (z B do C taky 3000km, tudiz z A do C
+6000km).
+Prvni cast (A --> B) jede 100 hodiny druhou cast (B --> C) pri rychlosti
+3000km/h jede hodinu, tudiz prumerna rychlost je:
+6000(km) / 101(hodin) = 59.41km/h
+
+atd... na 60km/h se nedostanes nikdy
+[Smajlík]
+ PrycZNudy
+23.09.2009 18:20:07
+60*2-30=90
+ Marihuana Bush
+23.09.2009 18:16:46
+Heh: kdyby si jel 29km rychlosti 30km/h a pak ten jeden kilometrem jel
+nekonecne km/h i tak je prumerna rychlost nekonecne km/h ...ikdyby jel jenom
+posledni cm rychlosti nekonecno km/h tak bude prumerna rychlost nekonecne
+mnoho km/h ...
+ _J_a_k_u_b_u_s_ _N_a_h_u_b_u_s [Muž]25 [Kategorie]
+23.09.2009 18:15:22
+viz ostatni. Jinak zkus si dosadit nejakou realnou hondotu, treba ze z A do B
+je to 30 km a z A do C 60 km. Pak pri prumeru 30 km/h potrebujes do bodu B
+hodinu, ale zaroven podle zadani bys pri prumeru 60 km/h potreboval z A do C
+taky hodinu.
+ Charlemagne
+23.09.2009 18:15:19
+Jakub Nahubus: prosím tě nepleť mu hlavu a zkus si tam raději dosadit nějaké
+konkrétní hodnoty. Těch 90 km/h je nesmysl.
+ heh
+23.09.2009 18:13:43
+Zkus si představit extrémní příklad, že bys jel třeba 30 km trasu. Třicítkou
+bys jel skoro hodinu, ujel 29 km, zbýval by ti poslední km. V ten okamžik, ať
+vypálíš jakkoli vysokou rychlostí, na tom jednom km už nemáš šanci celkovou
+průměrnou rychlost téměř vůbec ovlivnit. Kdybys jel nekonečnem, tak bude
+celková průměrná rychlost jen něco málo přes 30 km/h.
+
+V zadání to není tak extrémně položeno, ale ve výsledku to vyjde na stejno. Dá
+se to i celkem snadno poctivě vypočítat, tak že ti vyjde t2 = 0.
+ Heh
+23.09.2009 18:12:30
+oprava:
+
+(30+x):2=60 / *2
+.
+.
+.
+ _J_a_k_u_b_u_s_ _N_a_h_u_b_u_s [Muž]25 [Kategorie]
+23.09.2009 18:11:46
+(rychlost AB + rychlost BC) : 2 = prumerna rychlost (AC)
+
+(30+x):2=60 / :2
+30+x-120 / -30
+x=90
+
+chapes?
+ _J_a_k_u_b_u_s_ _N_a_h_u_b_u_s [Muž]25 [Kategorie]
+23.09.2009 18:10:52
+Sakra, že jsem o tom začal přemýšlet, ono to asi opravdu nebude tak jasné.
+Nicméně ukaž učiteli, kolik jsi toho při řešení popsal a řekni, kolik času jsi
+tím trávil a myslím, že tě nesežere.
+ Petan
+23.09.2009 18:03:29
+Charlemagne:
+
+Jak jsi to prosím tě myslel?
+Mě to totiž jednu dobu taky tak vycházelo, ale prostě se mi tomu nechce
+věřit...
+
+Mohl bys to prosím nějak vysvětlit?
+ Zoufalý student
+23.09.2009 18:03:11
+Je to chyták. Jestliže auto první část cesty jede 30 km/h, pak by muselo
+druhou (stejně dlouhou) část cesty profrčet nekonečnou rychlostí (v nulovém
+čase), aby celková průměrná rychlost byla 60 km/h.
+
+Kdyby jelo druhou část cesty 90 km/h, tak celková průměrná rychlost bude
+opravdu jen 45 km/h. Kdyby jelo druhou část třeba 300 km/h, tak průměrná
+rychlost bude stále jen necelých 55 km/h. Pokud rychlost druhé části bude růst
+k nekonečnu, bude se celková průměrná rychlost limitně blížit těm 60 km/h.
+
+Vtip je v tom, že celková průměrná rychlost se nepočítá průměrem dílčích
+průměrných rychlostí (30 + 90 / 2), ale jako celková dráha / celkový čas.
+[Smajlík]
+ Heh
+23.09.2009 18:00:23
+Ajajaj, tady je ale spatnych reseni... Je to opravdu nekonecno, respektive to
+nema reseni. Ale tak vetsina odpovidajicich zatim nema ridicak, tak si to
+neumej v realu predstavit :-) Kdyz jede auto ma jet auto 60 kou, tak potrebuje
+na ujeti vzdalenosti z A do C cas t, pokud jede 30kou, tak za cas t ujede
+presne polovicni vzdalenost, coz je presne z A do B. Na to, aby dohnal prumer,
+uz mu nezbyva ani vterina, musel by tedy pokracovat nekonecnou rychlosti. Jak
+proste mily watsone.
+ Charlemagne
+23.09.2009 17:58:48
+Vy co tu píšete to řešení 90km/hod (kromě Charlemagne), zkoušeli jste si
+doplnit pro zkoušku nějakou konrétní vzdálenost? :)
+
+Očividně ne, ono aby zdvojnásobil tu průměrnou rychlost, musel by ujet
+vzdalenost A->C za polovicni dobu nez za jakou ji ujede dosavadni rychlosti.
+Ouha ale, tu polovicni dobu jsme se snazili dostat z A do B, takze z B do C se
+musíme dostat v nulovém čase.
+
+Z čehož vyplývá že při žádné reálné rychlosti toho docílit nejde a úloha nemá
+řešení.
+[Smajlík] [Muž]30 [Kategorie]
+ _E_t_n_e_k_s_a
+23.09.2009 17:55:23
+Moc díky za snahu, ale jste na tom úplně stejně jako já na začátku. Bože.
+
+90 km/h bylo to první, co mě napadlo. Když si to ale přepočítáte, vyjde (i
+když je to neuvěřitelné) průměrná rychlost z bodu A do C 45 km/h (a ne
+očekávaných 60).
+
+Ahriman:
+to se bohužel resetuje - vychází, že na druhou půlku cesty nezbyde žádný čas.
+
+Pomóc!
+ Zoufalý student
+23.09.2009 17:49:18
+Já bych to viděl také na těch 90km/h. Stačí si z toho zadání uvědomit, že znáš
+průměrnou rychlost první poloviny cesty (AB), celkový průměr (AC) a počítáš
+průměr v ruhé polovině (BC).
+ Petan
+23.09.2009 17:45:16
+aha a já kam se mi ztratilo moje předešlý rozřešení
+[Smajlík] [Muž]32 [Kategorie]
+ _J_i_z_a_h
+23.09.2009 17:42:19
+pokud je celkový aritmetický průměr 60 km/h pak dosad do vzorce pro výpočet ar
+průměru co znáš následnou rovnici ekvivaletně uprav.... není problem jinak
+Hanka
+ _a_h_r_i_m_a_n [Muž]27 [Kategorie]
+23.09.2009 17:41:32
+Potvrzuju předchozí tvrzení 90 km/h :).
+[Smajlík]  [Žena]17 [Kategorie]
+ _V_e_n_e_s_s_i_e_l
+23.09.2009 17:34:48
+Viz. Hanka2204 - najisto
+ _i_v_o_r_y_9_9_9 [Muž]24 [Kategorie]
+23.09.2009 17:34:34
+Takhle od oka bych rekl, ze by ta rychlost mezi B a C musela byt nekonecno. Je
+to chytak.
+ Charlemagne
+23.09.2009 17:31:42
+90 km/h - tipuju.
+ _H_a_n_k_a_2_2_0_4 [Žena]19 [Kategorie]
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+

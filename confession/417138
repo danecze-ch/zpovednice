@@ -1,0 +1,248 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+Diskuze č.417138, vloženo 25.10.2009 12: _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+32:13                                    _s_t_r_á_n_k_a_]
+HTML
+Co si myslíte o používání tzv. wysiwyg editorů pro tvorbu webových stránek v
+html?
+
+Myslím, že je v obecném povědomí, že nejlepší je psát kód ručně, v PSPadu či
+něčem podobném.
+Ale slyšela jsem i názor, že v dnešní době jsou tyto editory na vysoké úrovni a
+je dobré je používat, i když člověk kód dobře umí.
+
+Jak to vidíte vy?
+
+ _p_o_č_ů_r_a_n_á_ _r_u_k_a [Žena] [Kategorie]  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+27.10.2009 12:54:42
+Bezne prizpusobujes svym potrebam sve pozadavky. Zalezi co v tom delas a jak
+ti vyhovuje - nekdo chce kontrolu, nekdo chce nestandartni veci...
+
+wysiwyg - ale ano. Z pohledu potreby finalniho outputu je to to nejlepsi.
+Setri cas.
+ _o_v_e_r_b_u_r_n [Muž]33 [Kategorie]
+26.10.2009 23:21:30
+Není a není a není. Tyhle editory přidávají do kódu taková svinstva, až se
+chce jednomu blejt. Bylo to tak, je to tak a bude to tak nejspíše ještě
+nějakou tu chvilku. U programování se musí myslet, jenže to tyto programy
+nedokážou.
+[Smajlík]
+ survik1
+25.10.2009 14:04:22
+Sosarian: A možná proto jsem tak v balíku :))))))
+[Smajlík]
+ loOol
+25.10.2009 14:01:57
+2loOol: tak jelikoz ja jsem psal
+"ve Visual Studiu muzes udelat cely stranky prez "wysiwyg"&qu ot;
+tak sem asi myslel ten editor ve visual studiu....
+
+
+"vygeneruje nějaký ASP, se kterým nemám zkušenosti."
+mozna proto delas tak predrazeny stranky :)
+ _S_o_s_a_r_i_a_n [Muž] [Kategorie]
+25.10.2009 13:57:56
+Sosarian:
+
+Já psal k normálním wysiwyg editorům. A tohle popravdě ani neznám :) Očekávám,
+že to automaticky vygeneruje nějaký ASP, se kterým nemám zkušenosti.
+
+Pak to asi hodně usnadní práci, když něco někam stačí přesunout a hele, ono to
+dokonce i funguje :-)
+[Smajlík]
+ loOol
+25.10.2009 13:52:38
+2loOol:
+"wysiwyg není k programování"
+jiste ze je
+
+
+_h_t_t_p_:_/_/_g_r_i_m_._h_a_v_o_c_._s_w_e_b_._c_z_/_d_x_i_i_n_t_ erface.gif
+
+v tehle strance neni jedinej radek skutecnyho kodu, vsechno je udelany prez
+wysiwyg editor ( par veci pripadne jen prez jejich markup language, protoze
+mam pomalej pc na designer :) )
+
+
+
+a celej Microsoft Workflow Foundation je prakticky "wysiwyg" editor... (i kdyz
+se tomu tak obycejne nerika)
+ _S_o_s_a_r_i_a_n [Muž] [Kategorie]
+25.10.2009 13:45:36
+Sosarian: To je to samý... wysiwyg není k programování... Když někdo něco
+udělá v HTML a ve WYSIWYG tak co z obou případů bude? HTML, v tom prvním
+případě lepší než v tom druhém, ale vždycky bude výsledkem HTML.
+[Smajlík]
+ loOol
+25.10.2009 13:43:01
+počůraná ruka: Není, proč?
+
+Asi takhle, pro HTML ti stačí znát tohle:
+h1 - h6, p, br, a, span, div, strong, em, img ... a na formuláře pak form,
+input
+
+Víš, že jsou párový a nepárový značky. Nepárový z tohohle seznamu jsou jen br,
+img a input.
+
+Takže nic těžkýho :-) Ono samo o sobě CSS taky není těžký, tam je to spíš o
+myšlení "rozkrájení" konkrétního grafického návrhu...
+
+null-pointer: Heh, škoda že jsem vás nepotkal, bych vás zkásnul aspoň o litr,
+pak bych byl asi už unavenej :D
+[Smajlík]
+ loOol
+25.10.2009 13:40:56
+2loOol: nerikal sem ze ho bude delat v html, rikal sem ze ho udela ve wysiwyg
+ _S_o_s_a_r_i_a_n [Muž] [Kategorie]
+25.10.2009 13:37:21
+Sosarian: Fórum asi těžko někdo bude dělat v HTML, tak tu nešiř bludy ;)
+
+počůraná ruka: Používej si co chceš, pokud ti to vyhovuje. Pokud se chceš
+naučit tvořit weby, pak se stejně nevyhneš, že většinu si budeš psát sama
+ručně. Navíc, v tom HTML fakt není nic těžkýho. Jde hlavně o kaskádový styly -
+CSSko. Tam už je to i trošku o přemýšlení.
+A funguje to tak, že člověk udělá jeden web a pak když bude dělat nový,
+použije základní věci z toho prvního, aby se to nepsalo znova. Je tedy dobré
+myslet na znovupoužitelnost.
+ loOol
+25.10.2009 13:37:02
+loOol: LOOL xD
+
+hehe si vzpomínám že jsme šli s kámošem z koncertu a cestou do hospody jsme
+rozdávali prachy za otázky z programování a html tagů :-D
+
+jeden borec dostal pade za tag
+[Smajlík]     [Muž]24 [Kategorie]
+ _n_u_l_l_-_p_o_i_n_t_e_r
+25.10.2009 13:33:59
+loOoL:
+
+"HTML se dá naučit za 10 minut. S CSS je to horší, tam je to otázka několika
+hodin."
+- není to spíš naopak?
+[Smajlík]      [Žena] [Kategorie]
+ _p_o_č_ů_r_a_n_á_ _r_u_k_a
+25.10.2009 13:33:06
+Náhodou jsem včera cestou v MHD zaslechnul dva týpky, kteří se bavili o tom,
+že si budou dělat web. Mohlo jim bejt tak 26 a docela vtipný mi to přišlo.
+Prej, že teda bude mít novej web, doménu ještě neví a koncovku ORG, že je
+levná, že je .CZ je drahá, že stojí o stovku víc :D Tak dobrý no. Pak jsem se
+dozvěděl, že nejlepší stránky je jen tak mít v PDFku, kam se nasype všechno,
+že žádnej web vlastně ani není potřeba.
+A ten jeden z nich snad už jeden web měl, že mu ho někdo dělal asi za 5000 Kč.
+A že to je přijatelná cena. No dneska stránky dělá za 5000 Kč fakt jenom
+začátečník :-)
+
+Tak jsem je nechal v jejich hezkejch představách, jejich web bude asi pohřben
+někde na dně oceánu :-) A pokud by se tady z nich někdo našel, tak jedna rada:
+Nechte si radši nechat udělat stránky od někoho zkušenýho, zaplatíte víc, ale
+v budoucnu se vám to může vrátit.
+[Smajlík]
+ loOol
+25.10.2009 13:26:38
+loOol: ani ne píšu k tématu wysiwyg editor ve stránce pro tvorbu stránky :-P
+
+wysiwyg pro kompletní tvorbu stránky by mě ani nenapadlo používat
+
+btw taky se živím tvorbou webů
+ _n_u_l_l_-_p_o_i_n_t_e_r [Muž]24 [Kategorie]
+25.10.2009 13:26:21
+Používám Adobe Dreamweaver....je to dobrá volba?
+[Smajlík]      [Žena] [Kategorie]
+ _p_o_č_ů_r_a_n_á_ _r_u_k_a
+25.10.2009 13:22:43
+Proč ne? I v nich se daj udělat hezký stránky, nic proti nim nemám.
+ _j_u_f_o_n_k_a [Žena]33 [Kategorie]
+25.10.2009 13:21:46
+tak ve Visual Studiu muzes udelat cely stranky prez "wysiwyg" (jako aji veci
+jako forum, blog apod)
+
+jinak v notepadu pisou lidi jen proto ze si mysli ze je to cool, neni zadnej
+duvod nepouzivat nejakej editor, hlavne neni zadnej duvod na vsechno
+nepouzivat Visual Studio :) nebo specializovanejsi Expression Studio
+ _S_o_s_a_r_i_a_n [Muž] [Kategorie]
+25.10.2009 13:21:19
+Živím se tvorbou webů. HTML se dá naučit za 10 minut. S CSS je to horší, tam
+je to otázka několika hodin.
+WYSIWYG editory používají jen začátečníci, případně lidi, kteří si chtějí
+spatlat nějaké ty jednoduché stránky sami.
+Nejlepší je to psát v nějakém editoru, který umí dobře zvýraznit syntaxi -
+dobře obarvuje kód. PSPad je dobrý, ale pokud máš opravdu hodně velký soubor,
+psaní v něm je hrozné - funguje velmi pomalu a jedno písmenko se napíše třeba
+až za vteřinu (ale to nikoho jako začátečníka nepotká), takže i ten PSPad je
+použitelný.
+
+Případně používej spíš ty editory, kde píšeš kód ručně, ale napomáhají ti k
+tomu různí průvodci. Například abys nemusela sama ťukat tabulku, klikneš si na
+vytvoření tabulky, vyplníš data a on ti vytvoří kód s daty automaticky.
+
+
+null-pointer píše tak trochu mimo téma, FCK Editor je sice wysiwyg editor, ale
+už ve stránce a dává se např. do různých systémů pro správu webu, tj. není to
+program na tvorbu webu.
+[Smajlík]
+ loOol
+25.10.2009 12:48:01
+počůraná ruka: no ty wysiwyg editory nejsou nic zázračnýho takže je někdy
+potřeba zasáhnout ručně pokud děláš něco náročnějšího
+
+html není žádná věda, je tam pár párových tagů a nepárových a na tom celým se
+to staví :-P pokud umíš základ tak není těžký přijít na zbytek
+ _n_u_l_l_-_p_o_i_n_t_e_r [Muž]24 [Kategorie]
+25.10.2009 12:43:12
+null-pointer:
+
+ok, to jsem ráda. :)
+Ale pokud html neumím (jen se v něm trochu orientuju) a používám editory, můžu
+se pak hlásit k tomu, že html umím, když ho v podstatě neumím? :)
+ _p_o_č_ů_r_a_n_á_ _r_u_k_a [Žena] [Kategorie]
+25.10.2009 12:35:31
+na stránkách co jsem dělal používám FCKeditor a funguje dobře, dají se
+upravovat configuráky tak aby uživatel mohl používat moje vybrane css styly :
+) atd...
+
+jinak bys přece po uživateli nechtěla aby psal html kód.
+uživatel je zvíře líné a primitivní :-P
+ _n_u_l_l_-_p_o_i_n_t_e_r [Muž]24 [Kategorie]
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+

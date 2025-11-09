@@ -1,0 +1,139 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+   Otázky - Vzkazy č.414711, vloženo _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+   11.10.2009 12:22:06               _s_t_r_á_n_k_a_]
+   Matematika - limita
+   Ahoj, nevíte někdo, proč se limita log (e na -x), x se blíží k nekonečnu
+   rovná mínus nekonečno? Válčím s tím už přes hodinu, ale pořád mi vychází
+   nula :-/ - díky za odpovědi
+    TeEs [Muž]19  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+12.10.2009 14:01:48
+Obě nekonečna se dle definice o nich splývají. Tam nehraje + čí - žádnou roli.
+[Smajlík]          [Žena]38 [Kategorie]
+ _D_a_n_i_e_l_a_-_H_i_l_d_e_g_a_r_d
+11.10.2009 17:16:51
+no jasne,
+mne slo o to, jestli neni zaporna...
+a neni :-)
+ _j_c_d_s_1_2_3 [Muž]20 [Kategorie]
+11.10.2009 17:03:17
+Ono si stačí uvědomit, že ten exponent můžeme vyhodit před logaritmus a je to
+jasný. Páč pak ten log(.) bude konstanta.
+ _S_m_ě_j_í_c_í_ _s_e_ _J_a_c_k [Muž]33 [Kategorie]
+11.10.2009 16:50:31
+oprava: dek. log e je kladna konstanta, jenom je to mensi nez jedna..
+zaporny by to bylo jen, kdyby promenna byla mensi nez jedna, ale e je asi tak
+2.71828...
+ _j_c_d_s_1_2_3 [Muž]20 [Kategorie]
+11.10.2009 16:42:29
+Pravdu má samozřejmě libik a vf38exfzp (ano, je to korektní matematickej
+postup), ale nikdo z vás si asi neuvědomil, že je upe buřt, jakej je tam
+logaritmus a jaká je konstanta, kterou umocňujeme proměnnou. Funkce bude
+vždycky přímka směřující do minus nekonečna. Typ logaritmu a konstanta pouze
+určují její sklon. A tedy čím menší základ logaritmu, tím přímka poběží do
+minus nekonečna rychleji, a čím menší konstanta, kterou umocňujeme (teď si
+fakt nevzpomenu, jak se jí říká, ale určitě má nějaké jméno - že by
+mocněnec?), tím přímka ubíhá do minus nekonečna rychleji.
+ _S_m_ě_j_í_c_í_ _s_e_ _J_a_c_k [Muž]33 [Kategorie]
+11.10.2009 16:07:47
+viz Jizah,
+libiku, tenhle pripad je zrovna ln e , protoze kdyby to byl dekadicky, pak by
+log e bylo zaporny a nasobeny zapornym x jde do plus nekonecna... jinak je to
+ale vzdycky konstanta krat -x, takze zalezi jen na jejim znaminku...
+ _j_c_d_s_1_2_3 [Muž]20 [Kategorie]
+11.10.2009 14:34:12
+Jizah - to by tam muselo být ln e^x, nikoli LOG!
+
+Tak já už to taky nějakou dobu nedělal, ale snad ti to zodpovím správně :
+
+máš log e na minus xtou.
+
+Takže jsou dvě možnosti jak to vyřešit :
+1)Je důležité si uvědomit, že "e" je konstanta. Když si za "x" dosadíš minus
+nekonečno, vyjde ti nějaká konstanta na minus nekonečno(není důležité, jestli
+je tam zrovna eulorovo číslo nebo třeba tisícovka).
+
+čili (1/e) na nekonečno. Čili to je číslo, které je téměř nula(ne úplně, ale
+blíží se nule). Čemu se bude rovnat ten celý výraz log (1/e) na nekonečno?
+Když máš třeba log 100, tak si řekneš deset na kolikátou je 100? Na duhou.
+Takže log 100 = 2. V našem připadě si musíš říct, deset na kolikátou je
+(téměř) nula? Kladné mocniny budou zvětšovat číslo až do nekonečna, čili to
+nebude ono. Ale na -1 to bude jedna desetina, na -2, jedna setina, na -3 jedna
+tisícina atd... Jelikož se chceš přiblížit nule, tak 10 na minus nekonečno
+bude něco strašně malinkého, téměř nula - a to ty přesně chceš. Proto je
+výsledek minus na nekonečno.
+
+2)Mnohem jednodušší, ale ten horní příklad byl obecnější a využiješ ho vždy,
+to co ti řeknu tady využiješ v tomto příkladě, ale zase to bude rychlovka :).
+
+Je důležité znát toto pravidlo :
+log x^y = y*log x
+
+V našem případě tedy
+log e^-x = -x*log e.
+
+log e je konstanta, dosadíme za x nekonečno a vyjde nám "minus nekonečno krát
+konstanta". Minus nekonečno krát konstanta je zase minus nekonečno. Tradá máš
+výsledek.
+ _l_i_b_i_k [Muž]34 [Kategorie]
+11.10.2009 13:08:43
+Spravnej matematickej postup uz si nepamatuju, ale (e^-x) pro x->nekonecno mi
+vychazi 0. A log(0) je minus nekonecno (limitu si domysli).
+ _v_f_3_8_e_x_f_z_p [Muž]39 [Kategorie]
+11.10.2009 12:45:46
+případně by se to snad i dalo rozložit na lim (x->oo) -x * log(e), kde log(e)
+je jednička, takže zbyde pouze lim (x->oo) -x .. což jde jaksi do -nekonečna
+úměrně s rostoucím x.
+
+Pokud nevěříš, tak check this shit out yo!
+_h_t_t_p_:_/_/_r_e_c_h_n_e_r_o_n_l_i_n_e_._d_e_/_f_u_n_c_t_i_o_n_-_g_r_ aphs/
+
+jenom je otázka, jestli je to myšleno jako přirozený, či dekadický logarimtus
+[Smajlík] [Muž]32 [Kategorie]
+ _J_i_z_a_h
+11.10.2009 12:42:11
+asi proto, že log a e^x jsou vůči sobě inverzní, tudíž se požerou a zbyde tam
+jen -x , což je funkce se směrnicí -1, takže jde pro x->oo k -nekonečnu
+ _J_i_z_a_h [Muž]32 [Kategorie]
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+

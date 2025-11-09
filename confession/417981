@@ -1,0 +1,112 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+   Otázky - Vzkazy č.417981, vloženo _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+   30.10.2009 08:21:35               _s_t_r_á_n_k_a_]
+   Jak to udělat - grafici poraďte
+   Ahoj, vymyslela jsem si, že chci černobílkou fotku, kde by byl
+   zvýrazněný jeden barevný detail - třeba rudý rty. Jelikož nejsem grafik,
+   tak nevím, jak na to:-) Jediný co mám, je corel Draw X4, poradite někdo,
+   jde to v tomhle programu udělat? A jak? Případně jaká knižní příručka (a
+   že jich je v knihkupectví hodně) vám skutečně pomohla a dá se z ní
+   naučit i totalni dřevo, jako jsem já? ;) Díky všem!
+    Choice of the cat [Žena]20  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+01.11.2009 00:26:08
+Ta fotka je barevna a budes ji prevadet do cernobila ? NEbo uz je cernobila a
+budes kolorovat ?
+
+Pomerne dobre se tohle dela v LAB prostoru v photoshopu. Vezmes fotku das
+convert t oprofile lab. Pak udelas duplikaci vrstvy, zmenis vrstvu na cb. Pak
+kliknes pravym tlacitkem na vrstvu, das blending options a dole vyberes spodni
+vrstvu. Hejbes se soupatkama tak dlouho dokud budou barevny pouze rty nebo
+okraje a rty. Pokud se ti nepodari vybrat jen je, pouzijes na vrtsvu masku a
+zbytek umazes v te masce. Vyhoda je ta ze nemusis delat zadne slozite vybery a
+vetsinou je to do 5 minut hotove
+ _V_e_l_d_r_a_n_e [Muž]34 [Kategorie]
+30.10.2009 18:13:02
+Nemášzaco- ale mám, dík moc, jsi zlatej. Tak budu muset zapátrat po nákých
+freeware photoshop (ikdyž to pochybuju, že to bude víc než 30denní zkušební
+verze) tak zkusím ten gimp, díkas.
+ Choice of the cat
+30.10.2009 18:09:09
+v corelu - vezmi jednu fotku hoď jí do corela, dej ctrl+c, pak jí převeď na
+rastr (nahoře v menu). rastr zvol stupně šedý, výchozí dpi. pak ctrl v ti hodí
+původní fotku nad ní a teď
+A) si nakresli čtverec, převeď ho na křivky - ctr+q, zvol druhou ikonku v
+panelu nástrojů, taková šipka ukazující na bod na křivce - nevimjaksejmenuje,
+řikám tomu tvarovátko, čapni bod na čtverci a vytvaruj čtverec podle rtů,
+druhym tlačítkem volíš vlastnosti spojovacích bodů a vektoru, to budeš muset
+vychytat. až pudeš mít obrys hotovej, klepni na fotku - efekty- oříznutí
+powerclip - změní se ti kurzor, klepni na linku kolem rtů a obrázek se podle
+ní ořízne. dej průhlednou konturu a dotvaruj rty podle potřeby. když se ti to
+rozhodí, dej na druhym, tlačítku upravit obsah schránky a posuň si to. z
+powerclipu se pak dostaneš v levym spodnim rohu - dokončit úpravy úrovně. .
+když ne, tak tohle dělat nemusíš. můžeš přes to hodit nějakou průhlednost či
+čočku, aby to vypadalo přirozeně. označíš vše vyexportuješ do jpg a voilá..
+B) pokud máš celej corelovej balík, tak zvol photopaint (upravit rastr v
+corelu) a vygumuj vše kromě rtů, dej uložit a vypni photopaint, hodí tě to do
+corelu, vyexportuj a voilá..
+C) dělej to celý v photopaintu, vymaskuj rty magií anebo lasem a zbytek převeď
+na stupně šedý, nicméně photopaint je udělanej úplně debilně
+D) vyser se na corel, protože to neni vhodnej nástroj, použij photoshop, gimp,
+něco co je určený na bitmapy,corel je primárně na vektory a tyhle věci z něj
+nelezou dobře. kontroluj manuály na netu
+ nemášzaco
+30.10.2009 10:59:47
+jak rika inferno. ten nastroj je i v photofiltru,ten se ti bude lip hledat.
+kdybys chtela cernobilej obrazek,kde by zustala jedna barva,tak najit korekci
+barev.
+[Smajlík]    [Muž]16 [Kategorie]
+ _T_u_h_e_j_K_r_á_l_í_k
+30.10.2009 10:48:32
+No já se to naučila sama v Zoner photostudio 10, je to jednoduchý. Je tam na
+to nástroj - myslim že kouzelná hůlka nebo tak nějak :D a ta ti vybere pixely
+stejný nebo podobný barvy, který jsou vedle sebe (takže třeba tu pusu) a nebo
+to můžeš normálně vybrat ručně, to je přesnější, ale pracnější. No a pak
+invertuješ výběr a změníš ho na černobílej.
+[Smajlík]     [Žena]22 [Kategorie]
+ _I_n_f_e_r_n_o_A_n_g_e_l
+30.10.2009 08:27:19
+Nevím, na to mám lidi (teda jednoho) :D
+ _Z_n_u_d_ě_n_e_j [Muž]16 [Kategorie]
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+
