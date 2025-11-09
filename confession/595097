@@ -1,0 +1,114 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+   Otázky - Vzkazy č.595097, vloženo _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+   18.01.2012 15:45:02               _s_t_r_á_n_k_a_]
+   FYZIKA
+   Ahooj potřeboval bych pls pomoct se třema přikladama z fyziky nwm si vbc
+   rady jak to spočítat :(
+   1-Dělník naložil na nákladní auto písek o objemu 4 m3. Na lopatu nabral
+   průměrně písek o
+   objemu 3 dm3 a házel ho do výšky 2,4 m. Průměrná hustota písku je 2 600
+   kg.m-3.
+   a) Jakou práci vykonal?
+   2-Motocykl o výkonu 5 kW a celkové hmotnosti 250 kg jede do kopce se
+   stoupáním 12%.
+   Jakou maximální rychlostí může vyvinout?
+   3-Výkon motoru hoblovky při pracovním zdvihu je 3 kW. Účinnost hoblovky
+   je 90%. Určeteřeznou sílu, je-li řezná rychlost 20 m.min-1.
+   Předem díky za pomoc.
+    tomas353 [Muž]16  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+18.01.2012 17:53:55
+nikde nikdo? Ha ha..
+K jedničce bych řekl jenom toliko - práce je standartně definována jako součin
+síly a vzdálenosti, na které působí. Můžeš to i nazvat potenciální energií,
+která je taktéž závislá na rozdílu výšek. No každopádně, vraťmě se zpět k
+práci. Jak už bylo řečeno, je to součin síly a dráhy - v našem případě budeme
+za onu sílu považovat sílu gravitační, tzn od váhy písku na lopatě a jako
+vzdálenost budeme brát onu výšku, do které ho házel. Tzn můžeme napsat
+A = Fg*h
+
+Aby si spočítal gravitační sílu tak potřebuješ hmotnost a tíhové zrychlení,
+viz vzorec
+Fg = m*g
+
+g známe, to je těch slavných 9,81 m/s^2. Hmotnost m pak musíme spočítat, což
+není nic stašného, protože určitě znáš vzorec pro hustotu
+ro = m/V -> m = ro*v
+
+samozřejmostí je, že hustota je udávána v jednotkách kg/m^3 -tak, jak to máš v
+zadání, tzn že i ono množství naložitelné na lopatu (3 dm^3) budeš muset
+převést na metry krychlové aby to sedělo.
+
+A teď, když už máš vzorce, tak jenom stačí dosadit a vypočítat práci na jedno
+vyhození lopatou, ale.. v zadání je dáno, že dělník tam musí nasypat 4 m^3
+písku. Tzn přes objem na lopatě a celkové množství musíš spočítat, kolikrát
+takle musí hodit.. tímto počtem následně vynásobíš výše vypočtenou práci a jsi
+doma.
+
+..případně se na to vykašleš, pokud jsi chytrej a řekneš si, že prostě musí
+přemístit 4 m^3 písku do výšky 2,4 m.
+
+
+Dvojka přímo vychází ze vzorce pro výkon
+P = F*v
+kde P je výkon, F odporová síla a v je rychlost. S tím, že odporová síla zde
+bude patrně brána jako síla od stoupání. Lze si nakreslit těleso na nakloněné
+rovině a z něho odvodit následující - že síla od stoupání je rovna
+F = m*g*sin(alfa)
+kde alfa je úhel stoupání onoho kopce - 12°. Úpravou vzorce a dosazením pak
+dostaneš, že rychlost v je
+v = P/F = P/(m*g*sin(alfa)) = ..
+samozřejmě se musíš držet správných jednotek. Tzn kW převést na watty, sinus
+úhlu počítat ve stupních atd..
+
+A k trojce.. nevim, to bych musel moc přemýšlet.. každopádně zase bych se
+držel výše zmíněného vzorce
+P = F*v
+s tím že, hoblovka má účinnost (0,9) a o tu zmenší celkový využitelný výkon,
+který jest roven 0,9*P. A viz vzorec
+F = P/v = 0,9*P/v = ..
+s tím že, rychlost opět nutnto převést na SI soustavu jednotek. Chápeme? Ne?
+Tak jdeme dál..
+ _J_i_z_a_h [Muž]32 [Kategorie]
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+

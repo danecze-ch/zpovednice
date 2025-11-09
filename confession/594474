@@ -1,0 +1,131 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+   Otázky - Vzkazy č.594474, vloženo _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+   16.01.2012 06:27:14               _s_t_r_á_n_k_a_]
+   Zdrojové kódy
+   Dobrý den,
+   s Linuxem (Ubuntu) se již rozhodně nemohu řadit mezi úplné neznalce.
+   Přesto je toho hodně co se učit. Tak bych ocenil, kdyby mi tu někdo
+   vysvětlil, co to jsou zdrojové kódy-tedy vím, že je to nezkomplimvaný
+   balíček, který se musí do balíčku zkomplimovat, ale konečně bych tomu
+   rád porozuměl a ne jen tupě komplimoval do balíku dle návodu. Tak trochu
+   umím jazyk C, rozhodně to není nějaký zázrak, ale co vím, tak by měl mít
+   v Linuxu využití-ale jaké-k čemu ho mohu použít?-myslím kromě tvorby
+   programů. A ještě se vrátím k balíkům-na této stránce: http://
+   wiki.ubuntu.cz/Vytvoření .deb balíku
+   Pojednává se tam o vytvoření deb balíku, ale je tam upozornění pro
+   pokročilé uživatele-a ne náhodou-rozumím tomu sice trochu, ale stejně se
+   budu muset prvně naučit mnohem víc-tak kdyby mi tu někdo pomohl-děkuji.
+    Samms [Muž]16  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+16.01.2012 17:13:10
+Pocitac, respektive procesor nerozumi nicemu jako je jazyk c, java, python
+pascal etc. Rozumi pouze strojovemu kodu - assembleru. Assembler a strojovy
+kod je vyjadrenim tehoz, rozdil je pouze v zapisu - Assembler je zapsi ve
+tvaru jednotlivych instrukci a tak trochu pripomina zapis v Cecku, strojovy
+kod je pak prepis tohoto zapisu primo do jednotlivych kodu ktere zna procesor.
+Jednotlivym "prikazum" se rika instrukce a vetsinou jsou popsany 1 az treba
+32byty (jaka je nevetsi instrukce uz nevim). Instrukce jsou obecne velmi
+jednoduche, vetsinou kopiruji ruzna data mezi ruznymi castmi pameti, umi
+zakladni arytmeticke operace a jednoduche testy. Programovani v assembleru je
+tedy znacne nepohodlne i kdyz ma i urcite vyhody, jake je treba rychlost kodu.
+Assembler je obecne pouzivan za tzv low level jazyk, tedy jazyk se pouziva na
+urovni procesoru. Zasadni nevyhodou low level jazyku je jejich jednoduchost.
+Pokud chces psat slozitejsi aplikace, je mnohem pohodlnejsi psat je v nejakem
+vyssim programovacim jazyce jako je treba java, c (take se mnekdy radi mezi
+low level jazyky ale to je nad ramec tohodle postu), pascal atd atd. Tento
+program pak nejakym zpusobem musis prevest do reci, ktere "rozumi" procesor
+coz je strojovy kod (assembler). V zasade se pouzivaji dve techniky -
+kompilace a pouziti interpretu.
+
+Kompilace je jednorazovy prevod vyssi jazyk (c, pascal..) -> strojovy kod.
+Vysledkem je vetsinou soubor zapisu programu ve strojovem kodu, ktery operacni
+system umi vzit, zavest do pameti a rovnou spustit.
+
+Na druhou stranu tzv. interpretry funguji malicko jinak. Poskytuji jakesi
+rozhrani smerem k uzitaveli, ktery muze svuj program primo zadavat ve vyssim
+programovacim jazyce. Tento program pak rovnou prevadi v pameti na strojak kde
+se rovnou provadi. Interpretry byly hodne popularni napriklad v dobe osmibitu,
+kdy vetsina pocitacu mela v sobe zabudouvan interpret basicu. Clovek tedy
+ihned po zapnuti pocitace mohl zacit v tomto basicu programovat.
+
+Dale se chci zminit jeste o jedne ceste kterou pouziva napriklad java, kde se
+program nejdrive prelozi do tzv. bytecodu a teprve pak se tento bytekod v
+dalsim kroku prelozi do strojaku a zavadi do pameti.
+
+
+Co se tyka druhe casti Tveho prispevku. Obecne drtiva vetsina kodu linuxoveho
+jadra je psana v C.
+ _V_e_l_d_r_a_n_e [Muž]34 [Kategorie]
+16.01.2012 14:16:05
+A kurva, ve škole panu programátorovi neřekli, kde najde zdrojové kódy. A
+google mlčí. To je den...
+ _t_e_n_ _p_r_a_v_ý [Muž] [Kategorie]
+16.01.2012 09:19:31
+Jestli nevis, co je zdrojovy kod, tak Cecka teda neumis vubec. Asi tak nejak.
+
+Budes toho muset precist vice. Jestli umis cist anglicky, tak na siti je toho
+spousta:
+- cela knizka zdarma "Running Linux" (klasicka): _h_t_t_p_:_/_/_z_k_r_a_c_o_v_a_t_k_o_._c_z_/_O_k_P_k_v_S_ 
+- The Linux Documentation Project: _h_t_t_p_:_/_/_t_l_d_p_._o_r_g_/_ (ceske zrcadlo na _h_t_t_p_:_/_/
+_l_i_n_u_x_d_o_c_._l_i_n_u_x_._c_z_/_ ); ; v odkazu "Guides" ( _h_t_t_p_:_/_/_t_l_d_p_._o_r_g_/_g_u_i_d_e_s_._h_t_m_l_ ) jsou
+cele - knihy
+- _h_t_t_p_:_/_/_e_n_._w_i_k_i_b_o_o_k_s_._o_r_g_/_w_i_k_i_/_C___P_r_o_g_r_a_m_m_i_n_g_ 
+- The C Book: _h_t_t_p_:_/_/_p_u_b_l_i_c_a_t_i_o_n_s_._g_b_d_i_r_e_c_t_._c_o_._u_k_/_c___b_o_o_k_/_ 
+- _h_t_t_p_:_/_/_e_n_._w_i_k_i_p_e_d_i_a_._o_r_g_/_w_i_k_i_/_S_o_u_r_c_e___c_o_d_e_ 
+- cesky server pro zacatecniky v Linuxu: _h_t_t_p_:_/_/_a_b_c_l_i_n_u_x_u_._c_z
+ Starsi
+16.01.2012 08:58:06
+Lidi, co neumí zapnout pc ví, co je to zdrojový kód
+ tojejedno
+16.01.2012 08:37:49
+Jestli umíš C, tak snad musíš vědět, co je to zdrojový kód...
+
+Ale polopaticky: zdrojový kód je to Cčko (v tvém případě), ten zdrojový kód se
+tzv "přeloží" a vznikne tak spustitelná aplikace.
+ _p_a_n_ _V [Muž]99 [Kategorie]
+16.01.2012 08:03:15
+trochu umis C a pritom nevis, co je zdrojovy kod? tak ty si dobry..
+[Smajlík]       [Muž]35 [Kategorie]
+ _a_s_d_f_j_k_a_s_h_d_f_k_a_h
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+

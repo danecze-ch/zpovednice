@@ -1,0 +1,106 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+Diskuze č.597112, vloženo 25.01.2012 14: _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+02:25                                    _s_t_r_á_n_k_a_]
+Windows 8 a Storage Spaces?
+Co jsem tak stačil pochytit, chystá MS pro nové Windows (zatím asi ale jen pro
+servery) dva systémy souborů - ReFS a Storage Spaces - o kterém slyším prvně.
+
+Moc se mi ta myšlenka ale nelíbí. Jde o to, že k počítači budeme moct připojit
+libovolné úložiště (HDD, karty, flash disky apod. v libovolném počtu) rovnou za
+běhu a navýšit tím kapacitu celkového úložiště. To by bylo ještě ok, i když
+nechápu, kdo by to permanentně využíval - snad jedině na desktopu. Kdo by se s
+tím ale tahal na notebooku? Tam mi stačí maximálně jeden externí HDD a jedna
+flashka. Navíc, když se dělají čím dál tím datově objemnější disky v základu =
+třeba 1 a víc TB na jeden interní disk...
+
+Ale hlavní kámen úrazu vidím v tom, že takhle pospojovaný úložiště se bude
+tvářit jako virtuální disk (a to ještě třeba s větší kapacitou než bude
+skutěčně fyzická - to nechápu, k čemu?) a tudíž uživatel vůbec nebude vědět, na
+jakým disku který data vůbec leží. To se mi teda vůbec nelíbí. Co když to budu
+chtít odpojit a určitý data přenést jinam?
+
+Tenhle systém souborů bude umět taky zrcadlení, což je sice dobrý, ale pro
+běžný uživatele si myslím zbytečný. Za prvý to nechrání proti blbosti uživatele
+(smazání, přepsání dat), ale jen proti závadě na disku - to znamená, že to jen
+snižuje celkovou kapacitu úložiště. Za druhý, kdo má o tohle zájem, má už třeba
+NAS s touhle funkcí. Nebo prostě zálohuje jinak.
+
+No nevim, tuhle novinku bych asi nechtěl, radši zůstanu u klasickýho NTFS nebo
+uvidíme, co přinese jeho nástupce ReFS. Tam už se mi to zdá jako krok správným
+směrem.
+ _c_m_o_s [Muž]22 [Kategorie]  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+26.01.2012 00:25:49
+Neprobouzí to ve mně žádné nadšení.
+Mám rád, když vím, na kterém disku se fyzicky data nacházejí, umístění si
+raději optimalizuji sám. Nemluvě o tom, když budu chtít přenést někam větší
+objem dat, vezmu sebou konkrétní disk, na kterém se data nacházejí, ale takhle
+nebudu ani pořádně vědět, kde co je.
+S dynamickými svazky mám ve Windows spíše špatné zkušenosti.
+ _C_h_a_r_l_e_s [Muž]49 [Kategorie]
+25.01.2012 15:33:43
+Hms asi snaha priblizit se zfs ci co. Kdyby se misto toho zamerili na poradny
+lvm bylo by to asi vic fajn. Uvidime jaka bude implemtace a co to ve finale
+bude umet.
+ _V_e_l_d_r_a_n_e [Muž]34 [Kategorie]
+25.01.2012 14:43:16
+Drake: JJ, zatím by to mělo být jen pro serverovou verzi. Takže kdo ví, jak (a
+kdy) to bude pro domácnosti. Možná až ve W9, kde budou třeba další změny.
+ _c_m_o_s [Muž]36 [Kategorie]
+25.01.2012 14:19:40
+ReFS bez podpory komprese a k tomu určitě další overhead kvůli kontrole chyb.
+To fakt nebude pro exterňáky a flashky moc košer. Využití vidim spíš na
+serveru, kde admin zapíchne novej disk, přidá do SS a tím jeho práce končí.
+Pro osobní použití leda na speciální případy.
+ Drake
+25.01.2012 14:08:23
+Ani nechci vědět, co se stane, když mi jeden z disků spadne. Protože dnešní
+"dynamické svazky", které MS používá udělají často to, že při pádu jednoho z
+disků jsou nedostupná data na všech ostatních. Doufám, že tohle nějak ošetří.
+
+A jinak externí úložiště, která nechceš zapojit do tohoto systému samozřejmě
+zůstanou v systému viditelná jako externí a tudíž v přenášení souborů nevidím
+problém.
+ _V_o_t_r_a_p_a [Muž] [Kategorie]
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+

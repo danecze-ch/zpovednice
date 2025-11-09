@@ -1,0 +1,219 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+Zpověď č.591636, vloženo 05.01.2012 23: _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+52:27                                   _s_t_r_á_n_k_a_]
+matice matika dotaz
+ahoj pořád se tu všichni chvástaj vysokýma školama apod tak mě napadlo se tu
+taky zeptat na matematickou otázku:
+když počítám soustavu rovnic pomocí matic, můžu s nima provádět úpravu že
+vynásobím např 1 řádek číslem -2 a druhý řádek číslem 3 jako když chci dělat
+společnýho jmenovatele a pak je sečíst nebo nemůžu? já to nikde nenašla ale ty
+matice mi nevycházej tak možná to je tim
+
+případně co se dělá když se potřebuju zbatvit nějakýho lichýho čísla a v
+řádcích nad tím jsou čísla sudý?
+
+a když vyjde
+
+číslo číslo číslo číslo
+číslo číslo číslo číslo
+číslo číslo číslo číslo
+nula nula číslo nula (pokud poslední sloupec je pravá strana rovnice) znamená
+to že soustava nemá řešení nebo jsem dospěla k nesmyslnýmu závěru?
+
+moc díky
+
+klidně pošlete i odkazy ale ráno jsem se v tom hrabala a nic moc jsem
+nevykoumala ani na netu natož ve skriptech kde je to psaný jak pro robota (a
+přednášky z předmětu jsem neměla jenom seznam co mám umět)
+ _m_y_s_s_h_k_a_1_2_3 [Žena]22 [Kategorie]  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+06.01.2012 17:47:24
+mysshka123: Pro zajímavost, na jaké jsi škole?
+ Pravoslav
+06.01.2012 10:06:31
+No my jsme na střední matice taky probírali. A to dokonce na střední
+průmyslové škole strojní. V podstatě jsme tam dělali to co píše *War*
+
+Ted je to kapanek jiny kafe :D
+ jsemdivnej
+06.01.2012 01:34:52
+mysshka123: No jo, tak počítej.. :-)
+ _*_W_a_r_* [Muž] [Kategorie]
+06.01.2012 00:59:52
+*War*:
+no mi máme dva samostatný předměty v jednom jsou matice a vektory
+a v druhým to chutnější- derivace a integrály ale to mám díkybohu až 3 února
+ _m_y_s_s_h_k_a_1_2_3 [Žena]22 [Kategorie]
+06.01.2012 00:49:26
+mysshka123: Já na střední měl matice, násobení matic, inverzní matice, atd...
+Na vysoké teď mám něco mnohem horšího. :-)
+
+Příklad:
+Vypoctete soucin ctvercovych matic radu n, kde n > 1 je prirozene
+cislo:
+
+( 1 1 1 1 ... 1 1 1 1 )
+( 2 1 1 1 ... 1 1 1 1 )
+( 2 2 1 1 ... 1 1 1 1 )
+( ::: ::: ::: ::: ::: ::: ::: ::: )
+( 2 2 2 2 ... 2 1 1 1 )
+( 2 2 2 2 ... 2 2 1 1 )
+( 2 2 2 2 ... 2 2 2 1 )
+
+krát
+
+( 1 1 1 1 ... 1 1 1 1 )
+( 1 1 1 1 ... 1 1 1 2 )
+( 1 1 1 1 ... 1 1 2 2 )
+( ::: ::: ::: ::: ::: ::: ::: ::: )
+( 1 1 1 2 ... 2 2 2 2 )
+( 1 1 2 2 ... 2 2 2 2 )
+( 1 2 2 2 ... 2 2 2 2 )
+
+
+A tohle je příklad, který se bere na první přednášce a kdyby ho někdo dostal u
+zkoušky, tak věz, že tam začne radostí tancovat kozáčka. ;-)
+[Smajlík] [Muž] [Kategorie]
+ _*_W_a_r_*
+06.01.2012 00:29:42
+Míras Míras Míras: je zajímavý že kromě jednoho gymplu to nikde nebrali a i
+kamarádka co studuje na pedagogický mi říkala že je to vysokoškolský učivo a
+na většině středních se to ani nebere jsou rádi že stihnout projet rychle před
+maturitou základy statistiky, permutace, logaritmy a grafy funkcí a tím to
+končí
+ _m_y_s_s_h_k_a_1_2_3 [Žena]22 [Kategorie]
+06.01.2012 00:27:15
+Panebože, tohle neni vysoká škola, ale střední škola... Matice se berou ve
+třeťáku nebo čtvrťáku skoro všude.
+
+A s každyn řádkem můžeš dělat co chceš, ale vždycky musíš brát celej řádek,
+jako celej sloupec. Nejde si vzít jedno číslo z řádku a prohodit ho s jinym,
+musíš furt zachovávat celou lajnu, ať už je zezhora dolu, nebo zleva doprava.
+(Samosebou nemůžeš roznásobovat sloupce, ale jen řádky)
+[Smajlík]          [Žena]1 [Kategorie]
+ _M_í_r_a_s_ _M_í_r_a_s_ _M_í_r_a_s
+06.01.2012 00:18:31
+atmel51: i když třeba mám v řádku číslo 2 a v druhým řádku 3 a chci dostat
+nulu tak jedno vynásobim -3 a druhou soustavu 2 kou a tím odečítám -6 od 6?
+
+díky za link hned na to kouknu aspon budu dělat něco užitečnýho když mě přešla
+chut na seminárku kteerou asi budu psát zítra v půlnoci a celou sobotu :-(
+[Smajlík]   [Žena]22 [Kategorie]
+ _m_y_s_s_h_k_a_1_2_3
+06.01.2012 00:15:20
+Zkontroluj si ty znamenka, tady je mas v prepisu ze soustavy do matice dve
+blbe.
+ _b_r_o_s_k_e_v [Žena]23 [Kategorie]
+06.01.2012 00:15:16
+mysshka123: Môžeš...
+ _a_t_m_e_l_5_1 [Muž]33 [Kategorie]
+06.01.2012 00:13:44
+atmel51:
+odpověd na otázku jestli můžu dva řádky který chci sčítat oba vynásobit
+nenulovým koeficientem jsem bohužel nenašla :-(
+
+ale možná je to můj blbej výmysl se kterým geniální matematikové nepočítali a
+kterej mi to zbytečně komplikuje
+ _m_y_s_s_h_k_a_1_2_3 [Žena]22 [Kategorie]
+06.01.2012 00:12:36
+tu to mas celkom pekne vysvetlene ;)
+_h_t_t_p_:_/_/_w_w_w_._m_a_t_h_e_m_a_t_i_c_a_._s_k_/_A_l_g_e_b_r_a_/_T_h_e_o_r_y_/_0_7_T_h_e_o_r_y_._x_m_l
+ commander
+06.01.2012 00:12:04
+tak jo zadání zní najděte řešení soustavy rovnic
+
+2x1 - 3x2 - x3 + 11 x4 = 0
+-X1 + 2x2 -7X4 = 0
+3x1 + X2 - 7X3 = O
+
+a matici mám
+
+2 -3 +1 11 0
+1 2 0 -7 O
+3 1 -7 0 0
+
+ted koukám že jsem měla blbě jedno znamínko ale stejně jsem se proklikala do
+váze
+
+2 -3 -1 11 0
+0 1 1 3 0
+0 0 6 0 0
+ _m_y_s_s_h_k_a_1_2_3 [Žena]22 [Kategorie]
+06.01.2012 00:11:33
+když máš homogenní soustavu (pravé strany rovny nule), tak má vždycky alespoň
+triviální řešení, řešení tvoří vekt. prostor dimenze (počet neznámých)-
+(hodnost matice soustavy)
+[Smajlík]
+ sádlo
+06.01.2012 00:07:57
+eh, neviem presne čo chceš od nás... Ale ak si dáš do wiki Gausovú elimináciu
+myslím že dostaneš odpoveď na svoju otázku.
+
+Dúfam :D
+ _a_t_m_e_l_5_1 [Muž]33 [Kategorie]
+06.01.2012 00:07:15
+v současném stau opilosti jsem schopny pčeís jen číslo číslo číslo číslo
+číslo číslo číslo číslo
+číslo číslo číslo číslo
+ _p_i_z_z_a_b_o_y [Muž] [Kategorie]
+06.01.2012 00:06:50
+napiš to sem radši číselně
+ _J_i_z_a_h [Muž]32 [Kategorie]
+06.01.2012 00:05:04
+jo a máš pravdu vypad mi tam omylem poslední sloupec
+ona už celá ta soustava začínala divně protože 4 neznámý s různým koeficientem
+se pokaždý rovnaly nule takže vlastně na posledním sloupci byly pořád samý
+nuly po kterýkoli úpravě a ještě to mělo dovětek určete bázi prostoru řešení a
+k tomu jsem se zatím ani nedostala co to je ale teoreticky když nemá řešení
+tak nemá ani bázi ne?
+ _m_y_s_s_h_k_a_1_2_3 [Žena]22 [Kategorie]
+05.01.2012 23:59:51
+to je soustava o 4 neznámých... ale možná že stačí vyeliminovat to poslední
+číslo a řádek škrtnout a počítat jenom tu o 3 neznámých?
+ _m_y_s_s_h_k_a_1_2_3 [Žena]22 [Kategorie]
+05.01.2012 23:58:01
+já jsem línej něco dělat, tak se zeptám - tvoje soustava rovnic je maximálně
+soustava 3 rovnic o 3 neznámých?
+ _J_i_z_a_h [Muž]32 [Kategorie]
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+

@@ -1,0 +1,107 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+   Otázky - Vzkazy č.591929, vloženo _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+   07.01.2012 11:09:12               _s_t_r_á_n_k_a_]
+   POMOC! s fyzikou
+   Ahoj, potřeboval bych pomoci s jedním příkladem z fyziky. Pro mě
+   neřešitelný problém. Byl bych vám neskonale vděčný, kdybyste mi někdo
+   napsal, jak to vypočítat, popřípadě princip těchto příkladů. Připravuji
+   se na písemku a moc by mi to pomohlo. Děkuji
+
+   Příklad:
+   <b> Ke zdroji o elektromotorickém napětí 1,5 V je připojen rezistor o
+   odporu 2 Ohmy a obvodem prochází proud 0,5 A. Jaký prous prochází
+   obvodem při zkratu? </b>
+
+   Věděl by si s tím někdo rady? Nějaký vzoreček, nebo hlavně princip
+   počítání takovýhle příkladů?
+    No Nerd [Muž]17  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+26.08.2012 15:36:38
+Dobrý den, byl bych neskonale rád, kdyby mi někdo pomohl vypočítat tento
+příklad.
+
+Vypočtěte paraxiální ohniskovou vzdálenost tmeleného jednorádiusového dubletu,
+který má pomoměry křivosti R1=100mm, R2=-100mm a R3=100mm. Index lomu první
+čočky je n1=3/2, druhé n2=5/3. Obě čočky uvažujte jako tenké, dublet je
+umístěn ve vzduchu.
+ Cinlid
+07.01.2012 12:21:07
+mistr Flanwen: moc díky :)
+ No Nerd
+07.01.2012 12:19:50
+1,5 A, protože při zkratu se počítá jen s vnitřním odporem, který je 1 Ohm
+(R=U/I=1,5/0,5=3 Ohmy minus 2 Ohmy na rezistoru = 1 ohm - to je Ri - vnitřní
+odpor)
+
+Není za co
+[Smajlík]      [Muž] [Kategorie]
+ _m_i_s_t_r_ _F_l_a_n_w_e_n
+07.01.2012 11:36:30
+Předpokládám zdroj napětí s vnitřním odporem Ri. I = Uem/(Ri + R). Kde I je
+proud při zátěži, Uem je EMN zdroje a Ri + R je celkový odpor proudu s
+vnitřním odporem a připojenou zátěží. Představit si obvod se zdrojem napětí s
+vnitřním odporem lze jako ideální zdroj napětí bez odporu s připojenou zátěží
+navíc v sérii, která představuje vnitřní odpor. Tedy
+
+(0.5 A) = (1.5 V)/(Ri + 2 Ohm) - upravit dále na...
+Ri + 2 = 1.5/0.5
+Ri = 1.5/0.5 - 2
+Ri = 1 Ohm.
+
+Vnitřní odpor zdroje EMN je tedy 1 Ohm.
+
+Pokud chceš spočítat jaký proud prochází obvodem nakrátko (při zkratu).
+Odpojíš veškerou přídavnou zátěž a necháš pouze zdroj napětí s jeho vnitřní
+odporovou zátěží a svorky propojíš pouze drátem s pomyslným nulovým odporem.
+
+Ik = Uem/Ri , kde Ik je proud nakrátko
+
+Ik = (1.5 V)/(1 Ohm)
+Ik = 1.5 A
+
+Maximální proud tedy proud nakrátko je v tomto obvodu 1.5 A.
+Ideální zdroj napětí má ale proud nekonečný.
+Omlouvám se za případné chyby.
+ Postmoderní skeptik
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+

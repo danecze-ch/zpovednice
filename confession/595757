@@ -1,0 +1,109 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+   Otázky - Vzkazy č.595757, vloženo _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+   20.01.2012 22:05:08               _s_t_r_á_n_k_a_]
+   Elektrodotaz
+   Zdravím pánové,
+   mohl by mi někdo vysvětlit jak je to s elektrickým proudem? Uvedu
+   konkrétní příklad. Mám baterii 1,2V, je tam uvedeno 1000mAh. Když ji
+   chytnu v jedné ruce za plus a druhou rukou z mínus, nic mi to neudělá.
+   Je naprosto neškodná i když je nabitá. Ale adaptér, je tam uvedeno 4,5V
+   a 800mA (na výstupu), zapojený v zásuvce, když ho chytnu levou rukou za
+   jeden odizolovaný konec a druhou rukou za druhý odizolovaný konec zabije
+   mě to? Nechci to zkoušet, ale je to jenom zvědavost, jestli to je
+   nebezpečné. Smrtelný proud je prý 100-200mA. A druhá otázka, může nějaké
+   elektrické zařízení způsobit vážný úraz i když má malé napětí, např.
+   4,5V nebo 16V? Myslím teda takové zařízení, které strčíte do zásuvky
+   220V, tam se to přetransformuje na malé napětí, ale co rozhoduje o tom,
+   jestli bude toto zařízení s malým napětím nebezpečné?
+    Svítítko [Žena]18  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+21.01.2012 16:04:08
+vf38exfzp:
+Tak jsem se ho ptala a říká, že to fáze nebyla, že to spíš to první. Že
+zkoušel "primární cívku s malým počtem závitů se sekundární cívkou s extrémně
+velkým počtem závitů. A naopak. Byly to cívky z nějaké staré televize a bez
+usměrňovače. Takže na vstupu bylo asi 16V a na výstupu tím pádem asi více." On
+mi to teda jakože píše, ale já tomu stejně nerozumím.
+[Smajlík]
+ Svítítko
+21.01.2012 12:06:28
+Svítítko: Je mozny, ze vyrobil transformator, ktery mel na vystupu naprazdno
+(bez pripojeni spotrebice) velky napeti, ale byl schopen dodat jen maly proud.
+Clovek zacina citit stridavy proud prochazejici telem nekde kolem 1mA, zarovka
+muze k rozsviceni potrebovat mnohem vic. Druha moznost (asi pravdepodobnejsi)
+je, ze sahnul nekam, kam sla faze primo ze zasuvky.
+ _v_f_3_8_e_x_f_z_p [Muž]39 [Kategorie]
+21.01.2012 09:29:46
+I=U/R
+[Smajlík]      [Muž] [Kategorie]
+ _m_i_s_t_r_ _F_l_a_n_w_e_n
+21.01.2012 08:27:41
+Dreamingfish
+díky za objasnění. Můj kluk si hraje elektrickým proudem a tak jsem se chtěla
+zeptat. Povídal jak kdysi na trafu od vláčků udělal transformátor, aby
+vyzkoušel jak v praxi funguje poměr mezi počty závitů mezi vstupními a
+výstupními cívkami (tak mi to popsal). Říkal, že když zapojil žárovku, že
+skoro vůbec nesvítila, vlákno se sotva rozsvítilo (napětí teda bylo asi velmi
+malé), ale přesto dostal ránu jak prase (vyskočil metr od země lol), když to
+špatně chytl (asi chytl současně kontakt žárovky i kontakt drátu) :-) Ale asi
+to moc nedává smysl, když napětí bylo tak malé, jak mohla "žárovka" kopnout.
+ Svítítko
+20.01.2012 23:05:09
+Baterie ti neublizi, protoze 1000mAh je jeji kapacita a ne proud. Proud, ktery
+tvym telem bude protekat stanovis z Ohmova zakona:
+R=U/I, respektive z tvaru I=U/R kde U bude napeti zdroje (1,2 pro baterii, 16
+treba pro nejaky adapter od notebooku) a R odpor lidskeho tela. Jeho hodnota
+je dost zavisla na okolnostech, ale pro obecne vypocty se pouziva cca 2000
+Ohm.
+Aby jsi citila nejaky ucinek stejnosmerneho proudu (o ten v pripade adapteru
+nebo baterie pujde), musi tvym telem protekat cca 3-5 mA.
+
+Proto ti baterie nic neudela, protoze skrz tebe bude prochazet 0,6 mA.
+V pripade 16V adapteru to bude 8 mA, to uz by citit byt melo, ale zivot by te
+to stat nemelo.
+
+Hodnota na adapteru 4,5V a 800mA je jmenovite napeti a maximalni proud, ktery
+je schopen adapter dodat. Z toho adapteru tedy nepotece trvale 800mA.
+ _D_r_e_a_m_i_n_g_f_i_s_h [Muž]99 [Kategorie]
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+

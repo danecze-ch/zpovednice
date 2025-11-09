@@ -1,0 +1,114 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+   Otázky - Vzkazy č.598280, vloženo _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+   29.01.2012 14:38:24               _s_t_r_á_n_k_a_]
+   Sifrovani, heslovany, cryptovani
+   Chci byt pred totalitou, ktera nastane, v bezpeci, uchranit sve
+   soukromi, proto se vas ptam:
+
+   Jak funguje to sifrovani harddisku? To musim nejdriv prazdny harddisk
+   encryptovat a pak na nej nahravat data? A neznici se mi to, nejak?
+
+   Kdyz obsah zkomprimuju ve winraru a zahesluju je to stejne bezpecne a
+   ucinne jako u encrytpovani?
+
+   90% toho co mam na hardisku jsou me sourkome prasarny kde si honim,
+   mocim do ksichtu a hratky s mejma holkama nebo klukama (su bi), tak
+   opravdu nechci aby nekdo na to cumel, to radsi pudu do basy za hacknuti
+   pentagonu.
+
+   Ja kvuli tem hajzlum prestavam chodit do kina a kupovat vse co souvisli
+   s umenim, doufam ze to budete delat taky at si za buzeraci vypijou svoji
+   vlastni medicinu az do dna.
+
+   Dekuji za informace k mym otazkam.
+    Veci neznaly uzivate [Muž]  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+29.01.2012 22:11:07
+Jak funguje to sifrovani harddisku? To musim nejdriv prazdny harddisk
+encryptovat a pak na nej nahravat data? A neznici se mi to, nejak?
+Existují dva přístupy, jak data šifrovat: hardwareový a softwareový:
+SSWW pp?ř?íssttuupp prostě znamená to, že nainstaluješ nějaký program (např.
+TrueCrypt), ten spustíš a on ti zašifruje co potřebuješ (možno i celý disk).
+Při zavádění OS to pak funguje tak, že ten šifrovací program předřadí svůj
+dešifrovací nástroj před zavaděč OS a při bootu PC se tě zeptá na heslo.
+Zadáš-li správné, disk je možno přečíst a pokračuje se zavedením OS. TrueCrypt
+ti ještě udělá disk, který obsahuje nouzový dekryptor, kterým můžeš celý disk
+odšifrovat - například když se ti zhroutí OS.
+Naproti tomu HHWW ssiiffrroovv?ánn?í probíhá buď na samotném disku nebo na sběrnici - OS
+pak ani nepozná, zda se šifruje či ne. Dešifrování probíhá např. pomocí hesla
+nebo třeba tokenu. Bez správného hesla se ti data na disku jeví jako náhodný
+balast.
+
+Riziko poškození dat tu jistě je - nicméně se vším se dá pracovat. Ty
+kryptované chtějí trochu jiný přístup a to už nezvládne kdejaký "Pepík z
+hospody", ale to neznamená, že to nejde. Jsou ale věci, na které si to chce
+dát pozor: napíklad u TrueCryptu to chce zálohovat hlavičku šifrovaného oddílu
+- bez té je případné obnovení dat skutečně výrazně horší, ne-li skoro nemožné.
+Když dojde k poškození jakékoli jiné části, tak zbytek dat jde celkem
+jednoduše vytahat, ale hlavička je v tomto případě skutečně důležitá.
+
+
+Kdyz obsah zkomprimuju ve winraru a zahesluju je to stejne bezpecne a ucinne
+jako u encrytpovani?
+V podstatě ne, jelikož programy typu WinRAR si různě schovávají dešifrovaná
+data, takže když někdo přijde a vyškubne PC ze zásuvky (aby se to nestihlo
+smazat z tempu), tak má celý tvůj "zabezpečený" archiv jako na dlani - i když
+chceš rozbalit jen jeden soubor, tak se archiv rozbaluje zpravidla celý. Toto
+z principu nefunguje s kryptovaným diskem, jelikož tam jakmile se vypne PC,
+tak se vymažou klíče z RAMek a konečná.
+ _p_a_n_ _V [Muž]99 [Kategorie]
+29.01.2012 15:56:32
+Ruzne sifrovaci nastroje funguji tak ze berou informace, ktere jdou od
+uzivatele na disk a v teto ceste je zasifruji nejakym klicem a obvykle
+symetrickou sifrou (defacto stejnym klicem se sifruje i desifruje). Priznam se
+ze uplne nevim jaky algoritmus pouziva winrar nebo zip, dneska je standart AES
+256bit, pouzivaji se i jine sifry jako 3des, blowfish etc. takze bych si tip
+ze to bude podobne co se bezpecnosti tyce za dodrzeni jistych pravidel. Obecne
+lepsi vysledky co se bezpecnosti tyce dostanes pomoci nejake asymetricke sifry
+(jinym klicem se sifruje a jinym desifruje) jako je rsa nebo elgamal, nicmene
+dan je rychlost techto algoritmu.
+
+Ber to s rezervou nejsem kryptoanalytik.
+ _V_e_l_d_r_a_n_e [Muž]34 [Kategorie]
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+

@@ -1,0 +1,298 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+Diskuze č.598325, vloženo 29.01.2012 17: _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+28:36                                    _s_t_r_á_n_k_a_]
+Linux (no flame please)
+Chtěl bych se normálních lidí zeptat co si myslí o Linuxu na desktopech. Na
+internetu se to hemží fanatiky, co ho nechutným způsobem vnucují, naopak ve
+svém okolí znám spoustu uživatalů, kteří to prostě používají a nemluví o něm.
+Ale potom se člověk, který se o tuhle problematiku přímo nezajímá o možnosti
+použít něco jiného než systémy od MS nedozví, maximálně z úst zabedněných
+fanatiků, a ti je spíš odradí. Mě osobně připadá jako zbytečný luxux mít systém
+za tisíce při tom co na tom většina uživatelů dělá (pominu li hry). Navíc
+(pominul-li nemožnost, nebo problémy s instalací některých specializovaných
+programu (CADy) ) připadá mi (např ubuntu) celkově (můj čistě suběktivní názor)
+lepší.
+A taky bych se chtěl zeptat, co si myslíte o stavu desktopových porstředí. Před
+pěti lety jsem své staré zubařce nainstaloval na počítač PCLinuxOS 2007 s KDE
+3.5 a ona ho dodnes v naprosté spokojenosti používá na věci, na které předtím
+používala MS W. Ale dneska bych si nic takového netroufl. Všechna hlavní velká
+prostředím (KDE plasma-dektop, GNOME shell, Unity) se mi na jedné straně líbí,
+na druhé ale mají svoje chyby, přes které bych se dokázal přenést, ale jiný
+spíš ne - prostě to není tak vyladěné.
+
+V poslední řadě bych chtěl říct, že tenhle příspěvek je takový experiment,
+jestli lze vést o tomto tématu na internetu rozumnoou diskusi. Proto prosím
+všechny slušné diskutéry, aby ignorovali neslušné, nebo flame vyvolávající
+příspěvky. Uvidíme, kterých bude nakonec více
+ linuxak [Muž]23  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+30.01.2012 08:35:35
+@atmel51: Inu, netřeba se jakkoli omlouvat :-) Ten příspěvek byl spíš takovým
+konstatováním pro pobavení - jestli to vyznělo jako obvinění, tak se omlouvám
+- rozhodně to nebyl úmysl. Jinak ona to není chyba Linuxu, nicméně ten problém
+dopadá na uživatele a to nedělá linuxu dobrý obrázek.
+
+Ad jádro - je stabilní, ale je tam pár věcí, co mě dostaly. Při vývoji jednoho
+driveru jsem rodil ježky proti srsti. Změnila se totiž struktura
+file_operations, takže jsem to musel skutečně porodit takřka znovu z fs.h a
+existujících driverů. Nejhorší na tom bylo to, že ten modul se kompiloval pro
+X různých verzí a samozřejmě nekteré měly "starou verzi" FOps, ostatní ne.
+#ifdefové peklo :-)
+
+
+Jinak co se týče vývoje - na Linuxu se mi z nějakého důvodu dělá s C/Cpp lépe.
+Asi jde o zvyk, ale když to jde, tak Cčkuju pod Linuxem. Co se týče vývojových
+platforem, tak jsem měl tu čest s vývojem na WinMo zařízení od verze 5.0 dál a
+samozřejmě i na desktopové Windows. Pro desktopy je to docela fajn - když
+potřebuješ rychle prototypovat nějakou aplikaci, tak vezmeš VB.NET a GUI
+prostě bleskově naklikáš včetně callbacků a veškerých serepetiček okolo - o
+tom jsem si jinde mohl nechat jen zdát. Jinak v tom vývoji není až zas takový
+rozdíl, záleží na nástrojích co použiješ.
+
+Dál jsem pod Windows skutečně žehnal MSDN. Upřímně - tohle mi pro Linux chybí.
+Solidní, jednotná up-to date dokumentace API, dobře prolinkovaná a doplněná o
+examply. Když jsem řešil např. ty FOps, tak jsem s Googlem tvrdě narazil,
+jelikož všechny examply a dokumentace prostě popisovaly neaktuální stav věcí.
+Na WM5, když jsem potřeboval řešit BT, tak jsem otevřel MSDN, et violá -
+všechny volání, včetně verzí systému, od kdy jsou podporované.
+ _p_a_n_ _V [Muž]99 [Kategorie]
+30.01.2012 03:16:07
+pan V: čo sa týka ndiswrapperu tak to je naša chyba toto sa rieši na našej
+fakulte a ospravedlňujem sa ti. Ale v zádade to neni chyba linuxu, čo sa týka
+týchto vecí jadro je pomerne stabilné a ide len o vývoj driverou. Toto neni
+podla môjho názoru problém linuxu.
+
+linuxak: ja už od základnej školy som zaseknutý v linuxe a popravde keby som
+schopný vyvýjať a pracovať z iným operačným systémom tak asi zdrhám, ale
+bohužial inde nemám znalosti. Neviem, ale z mojho pohladu ja linux doporučiť
+nemôžem. Na druhú stranu z inými operačými systémami nemám skúsenosti tak
+neviem zodpovedne povedať že iné je lepšie.
+ _a_t_m_e_l_5_1 [Muž]33 [Kategorie]
+30.01.2012 00:12:27
+@linuxák: S tou wifi jsi měl kliku, já řešil v posledních cca 5ti letech
+několik notebooků, kde byla wifi skutečné peklo. Ovladač nebyl (natož podpora
+v jádře), byl k tomu jen binární démon. Takový bastl, co nešel zkompilovat a
+když už se to povedlo, tak běžel vskutku prapodivně. A ndiswrapper taky ani
+ťuk - maximálně rozpoznal že se jedná o wifi, ale scan už nedal. Natož pak
+připojení.
+
+Grafika - totéž. ATI mají buď binární bastl /tuším fglrx/, který se občas
+chová tak, že (nejen) rozum zůstává stát a nebo free verzi, která vznikla
+reverzováním - balík se jmenoval tuším xf86-video-ati. FGLRX jelo dobře ve 3D,
+nicméně to rádo padalo a video-ati pro změnu měl mizerný 3D výkon. O nějakém
+TwinView si člověk mohl nechat zdát, v tomhle směru oba ovladače stály za prd
+- sice se to spustilo, nicméně CPU vytížený na 100%... To samozřejmě bylo cca
+2 roky zpátky, dnes už věřím, že to alespoň trochu pokročilo. nVidia v tomto
+směru byla napřed - tam mi ovladače vcelku fungovaly.
+
+Tiskárny a scannery fungovaly nečekaně dobře - až na tu, co jsem měl já. Měl
+jsem Canon LBP2900 - opět nic v jádře a k dispozici pouze binární démon
+podivného chování, kdy 3/5 stránek zakončily svou existenci jako na 100%
+vytížený child toho démona. Patch byl kill -9 <demon> a zkusit znova. Obyvkle
+na několikátý pokus stránka prošla - nicméně to není nic, čím bych mohl
+ohromovat potencionální nové uživatele linuxu.
+
+Další jsou TV karty a webky - to je taky kapitola sama pro sebe. Vzhledem k
+tomu, že se velká část těchto zařízení se na USB hlásí jako 255 (vendor
+specific ID), tak buď má člověk kliku na ovladač přímo v jádru nebo má peška a
+musí si ho naspat sám... Není lepší pocit, než když kamera na dotaz o tom, co
+z ní leze na formát vrátí "vendor specific format"... S tím pak dál souvisí
+srandy typu V4L vs V4L2 - se svou TV kartou (WinFast PVR něco - <tuším 2000>)
+mi při použití V4L jel pouze zvuk, při použití V4L2 pro změnu pouze obraz.
+
+A tak dále - myslím, že každý si na Linuxu s HW užil své a mohl by hodiny
+vyprávět ;-) Na druhou stranu mi ten systém umožnil vcelku jednoduše
+uskutečnit mé poměrně zvláštní požadavky na chování systému a pracovního
+prostředí, což mi ve Windows chybí...
+ _p_a_n_ _V [Muž]99 [Kategorie]
+29.01.2012 22:39:55
+Děkuji, za zatím rozumné komentáře. Až na ten poslední, který není úplně
+nejhorší, ale přecejenom jen tak konstatovat že "linux je na desktopu k
+ničemu" je velice odvážné, až flame vyvolávající tvrzení. Myslím že se většina
+lidí shodne, že linux na desktopu není ke všemu, ale k něčemu by třeba být
+mohl. Analogie s autem patří spíš do dřívějších dob a dnes se týká jen jednoho
+způsobu možného používání linuxu - ano možnost hrabat se v něm přetrvává.
+Nicméně v nejrozžířenšjších distribucích (ubuntu) pozoruji právě opačný jev -
+prostředích gnome a unity je možnost nastavení velice nízká a autoři
+předpokládají, že uživatel bude mít od začátku plný komfort a nebude nic
+měnin.
+
+Každopádně problémy a nedostatky jsou. Podpora hardwaru je z mé zkušenosti
+"zvláštní" V průběhu času (2007 - 2012) mi "out of box" fungují okamžitě
+všechny tiskárny, wifi, scanery ... a naopak (opět v mém případě u dvou
+desktopů a čtyř levných notebooků) Čím dál hůř grafika a gradické karty.
+
+Problémy které popsal atmel54 jsou docela zásadní, ale netýkají se tolik
+obyčejného uživatele, kterému by mohlo stačit instalovat z repozitářů a nemusí
+neustále aktualizovat software.
+
+Problém s rozšířením je podle mě v tom, že ten kdo má zájem to vyzkoušet
+narazí na problém s nějakou speciální čiností, kterou potřebuje například v
+práci. Naopak naprosto průměrný uživatel, by to sice mohl bez problému
+používat stejně jako systémy od MS, ale s win mu v s případným problémem
+poradí kdokoli z okolí. S Lin bohužel ne.
+
+Ale je to taky hodě o pocitech. Jednomu známému jsem nainstaloval poslední
+Ubuntu a fungovalo mu úplně vše a byl z toho nadšený a teď by prý už zpátky
+neměnil. Jsem si ale jistý, že kdyby se z počátku náhodou objevil byť jediný
+drobný problém (HW nekompatabilita), už by to na něj udělalo špatný dojem a
+neměl by potřebu přecházet.
+
+Co se týká nepříjemných borečků na fórech co každého linuxem obtěžují, tak
+naprosto souhlasím.
+ linuxák
+29.01.2012 22:21:11
+Mám jak Windows, tak Linux. Každý na něco trochu jiného. Poslední dobou jsem z
+lenosti pozvolna přesedlal na desktopu na Windows - prostě mě nebavilo
+rebootovaní při dualbootu. Navíc rozjetí některých věcí na Windows je
+mnohonásobně jednosušší. Některé věci na Linuxu pro změnu nešly rozjet vůbec a
+v poslední době prostě nemám čas na to, abych seděl dva dny a dvě noci u PC
+abych rozjel po X-té rekompilaci kernelu nějaké reverzované drivery s
+polovinou funkcí těch originálních ve Windows...
+
+Z toho, abych někomu vnucoval nějaký OS (a nedejbože instaloval) jsem dávno
+vyrostl - ono pak není moc sranda když pořád někdo volá, že dostal tuhle a
+tamtu webku a že to nejede a kdesi cosi...
+ _p_a_n_ _V [Muž]99 [Kategorie]
+29.01.2012 20:59:23
+tak tak, pro běžného uživatele systém k ničemu..
+
+je to jako s autem někdo si chce koupit nový auto s moderními technologiemi
+aby ho mohl plně využívat pro svou potřebu a měl záruku komfortu, kvality a
+podpory v každém servisu, někdo si koupí neznámej pekáč, kterej si postupem
+času vymazlí k obrazu svému, což ho jistě potěší ale těch peněz co to sežere
+(v případě linuxu ''času'') místo toho aby ho mohl plně využívat po celou dobu
+a ne si furt lámat hlavu co a jak
+
+jinak u mobilů ale chválím OS Android, kterej má jádro na společném základu s
+linuxem, což ho v jistých možnostech činí velice variabilním a do mobilu je to
+asi nejlepší volba v dnešní době
+ šméčko
+29.01.2012 20:57:57
+Desktop chci odzkoušet, používám pro server. Kdo má čas to zkoušet, ať zkouší.
+S win je výhoda, že může někdo těm nezkušeným poradit.
+Btw chci postupně přejít na desktop...trochu jsem zkoušel PC BSD, vzhledem k
+podobnosti s ostatními BSD.
+ _*_m_a_t_o_u_c_h_* [Muž]44 [Kategorie]
+29.01.2012 20:14:17
+Linux je fajn, ale nejsem ten typ, kterej by měl chuť hrabat se v systému,
+ladit a experimentovat. Proto používám, co používám.
+ _O_k_u_r_k_a_ _v_ _l_á_h_v_i [Muž]11 [Kategorie]
+29.01.2012 19:43:39
+Kdyby tu nebylo tak snadný systémy stahovat z netu, tak by to tu bylo určitě
+rozšířený/oblíbený víc.
+Já sem s tím pokusoval/pokusuju jen ze zvědavosti. Nemám to jako primární
+systém, ale mám to navirtualizovaný.
+ _v_e_s_n_i_č_a_n [Muž]22 [Kategorie]
+29.01.2012 18:55:01
+Na svém soukromém ntb (než jsem ho prodal) jsem používal Kubuntu. Hodně
+dlouho. Z hlediska běžného člověka s normálními potřebami
+(net+hudba+video+textové dokumenty) jsem nespatřoval zásadní rozdíl v
+používání oproti Windows (pravda, prvotní nastavení vyžádalo trochu času).
+Podotýkám, že hry nehraji. Nyní mám pracovní ntb, kde byly předinstalované
+Windows a používají se mi také dobře.
+ _V_o_t_r_a_p_a [Muž] [Kategorie]
+29.01.2012 18:51:19
+TE6:
+"Nic linux je na desktop jenom na psani nejakych dokumentu a vylozene
+jednoduchou kancelarskou cinnost."
+
+což pokrývá veškerou činnost půlky světa
+[Smajlík]     [Muž]24 [Kategorie]
+ _n_u_l_l_-_p_o_i_n_t_e_r
+29.01.2012 18:44:16
+Nic linux je na desktop jenom na psani nejakych dokumentu a vylozene
+jednoduchou kancelarskou cinnost. Tam muze byt dobry. Jeste sem v jedne firme
+videl VariCAD. Pro technika tj pro me je jako desktop idealni winXP, vsechno
+na nem funkuje kompatlibilita 20let dozadu, zadne koumani nad verzema knihoven
+a jadra.
+Jak rikam pro skutecnou "komercni" praci je lin k nicemu, aspon pro me.
+Problem linuxoveho desktopu je, ze do nej vrta moc lidi kazdy ma pocit ze to
+vymysli lip nez ten druhej a vysledek stoji za nemnoho je nekompatibilni atd.
+Viz take konzola, na ktere toho je "linuxoveho" ovsem ideove pomalu, unixove
+programy jako grep a pod existovaly davno pred linuxem a ktera je skvela.
+Jo jeste jsem strasne otravenej borecky na forech, ktrei nemaji ani maturitu a
+vsem vnucuji linux protoze prece misto v SolidEdge to jde kreslit v Gimpu. To
+neni pokus o flame ani utok na tebe, jen to tak obecne cejtim.
+ TE6
+29.01.2012 18:38:56
+používám ubuntu s gnome už tak 6 let a bez problémů :)
+(bash rulezz)
+ _n_u_l_l_-_p_o_i_n_t_e_r [Muž]24 [Kategorie]
+29.01.2012 18:29:15
+Měl jsem Ubuntu a po nějaké době jsem shledal, že je mi to vlastně k ničemu.
+ _F_i_l_d_a_5_6_8 [Muž]21 [Kategorie]
+29.01.2012 18:26:37
+Ja linux na desktopy moc nemám rád, vždy keď príde nový kernel na kopu knižníc
+stratíš podporu a tým pádom aj aplikácie ktoré sú na nich závislé, častou
+zmenou kernelu strácaš aj podporu na hw na ktorý bol driver písaný. Linuxáci
+sa sťažujú že nik pre nich nepíše driver, ale tak sa pozrime na firmu AMD, oni
+cca každý mesiac musia vydať nový driver pre linux lebo vždy sa spravilo kopu
+zmien v jadre a starý by nefungoval.
+
+Ak by si človek niekedy nainštaloval gentoo, alebo ešte lepšie nejako si
+spackal sám nejakú raw distribúciu tak uvidí aké je to peklo, a často krát
+neriešitelné, a ono sa to potom tie problémi objaujú ale pomenej aj u
+dlhodobých uźivatelou.
+
+Ja verím že keď Linus zomrie pán Morton odstráni tieto problémi, je to schopný
+architekt, ale kto vie kolko to bude trvať.
+
+Mimochodom, ja myslím že tu flame bude,
+ _a_t_m_e_l_5_1 [Muž]33 [Kategorie]
+29.01.2012 18:14:39
+Já měl Linux (Ubuntu) jeden čas nainstalovaný, ale asi po 14 dnech jsem prostě
+definitivně shledal, že jsem s Linuxem nekompatibilní...
+ _N_e_u_t_r_i_n_o [Muž]26 [Kategorie]
+29.01.2012 17:43:48
+_h_t_t_p_:_/_/_d_i_s_t_r_o_w_a_t_c_h_._c_o_m_/_ 
+To používá Bha
+_h_t_t_p_:_/_/_d_i_s_t_r_o_w_a_t_c_h_._c_o_m_/_t_a_b_l_e_._p_h_p_?_d_i_s_t_r_i_b_u_t_i_o_n_=_s_u_s_e
+[Smajlík] [Muž]59 [Kategorie]
+ _B_h_a
+29.01.2012 17:43:40
+Linux používáme ve firmě, je fajn, ovládání podobné jako u Windows. Víc k tomu
+nenapíšu, protože o tom nic nevím :-D
+ _Z_n_u_d_ě_n_e_j [Muž]16 [Kategorie]
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+

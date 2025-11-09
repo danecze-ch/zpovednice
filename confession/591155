@@ -1,0 +1,126 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+   Otázky - Vzkazy č.591155, vloženo _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+   04.01.2012 13:28:22               _s_t_r_á_n_k_a_]
+   Pomoc s procesorem
+   Zdravím,
+   rozhoduju se, že si koupím nový notebook a potřeboval bych poradit.
+   Nějak jsem nepochopil princip více jádrového procesoru a trochu mě to
+   mate. Když mám například notebook, u kterého je napsané, že má 2jádrový
+   procesor jehož jádra pracují na frekvenci 2,53GHz, znamená to, že obě
+   jádra mají 2,53GHz nebo že každé má zvlášť 2,53GHz? Někde jsem si už
+   četl něco o tom, jak to funguje, že počítač nepracuje s oběma jádry
+   zároveň, ale že využívá každé samostatně nebo něco takového, takže ne,
+   nečekám že budu mít notebook s 5GHz procesorem. Teda aspoň myslím. Kdyby
+   mi to tu mohl někdo více vysvětlit, byl bych moc vděčný. Děkuju.
+   popř co si myslíte o http://www.alza(tečka)cz/sony-vaio-eb1m1 e-wi-
+   d288908.htm#popis rozjedu na tom takový crysis 2 slušně?
+    Ikarius [Muž]18  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+04.01.2012 18:26:26
+Běžnej jednojádrovej procesor umí na jednou zpracovat jen jednu věc. A mezi
+nima prostě přepíná. 2,5GHz je frekvence kolik prokmitů proudu je za vteřinu a
+ty kmity ženou ty data- (64bit - 64 nul a jedniček na každej z těch 2,5GHz
+kmitů) atp. skrz ten procesor a zpracovávají ty výpočty, aby z toho něco
+vylezlo. Mno a když máš vícejádrovej procesor 2,4,6,8... tak jsou ty jádra
+jakoby na sobě, pořád jsou hnaný tou rychlostí 2,5GHz - ten kmit/s jde do
+všech stejně, akorát se neposunou data jen v jednom ale ve všech jádrech
+současně a proto to umí zpracovat najednou tolik věcí, kolik to má jader.
+Například v jednom jádru ti půjde hra a ve druhým youtube, ve třetím web a to
+vše naráz. Některé aplikace přímo podporují více jader a tím když to třeba hra
+podporuje ti půjde rychlejc na dvoujádru protože to za jeden knit zpracuje
+2x64bit namísto 64bitů. Mno takže teoreticky je to jakoby 5GHz, ale samo
+reálně tuším cca +40% výkonu. Mno ale jde i o další věci co to umí, jakou ma
+cash pamět, aby to stíhalo do tohoprocesoru ty data vůbec tak rychle dostat,
+jak dobře umí operace s plovoucí čárkou, jaké má instrukce na podporu dx11 a
+dalších věcí.
+Teď ideálně počkej tak do března kdy vyjde novější řada a tím se zlevní
+současné Intel Sandy Bridge procesory, které jsou snad nejlepší, ale to bych
+se nehádal.
+[Smajlík]   [Muž]28 [Kategorie]
+ _J_a_s_i_m_y_s_l_i_m
+04.01.2012 16:48:31
+Svůj příspěvek jsi vložil(a) do nespravné kategorie. Bylo provedeno přesunutí.
+V případě opakování hrozí blokování vstupu na portál. Prosím zvol příště
+správnou kategorii. Děkujeme za pochopení.
+[Smajlík]      [Muž] [Kategorie]
+ _A_d_m_i_n_i_s_t_r_á_t_o_r
+04.01.2012 15:04:57
+Jak uz ti tady lidi psali, kazde jadro je taktovano na 2,5GHz, takze v
+idealnim pripade se to tvari jako 5GHz procesor.
+
+Idealni pripad = program je napsany pro pouziti vice (resp. dvou) procesoru a
+problem, ktery resi, lze matematicky rozdelit na 2 nezavisle ulohy.
+ Starsi
+04.01.2012 14:54:15
+Já bych to tak nedramatizoval, to Lenovo už vypadá na slušný stroj. Najdi si
+nějaké benchmarky a testy téhle karty, youtube videa a tak...
+ hmmm2
+04.01.2012 14:48:24
+Doporučuju konzole!Hlavně SONY Ps3
+ _D_a_n_8_5_5 [Muž]22 [Kategorie]
+04.01.2012 14:20:07
+Svůj příspěvek jsi vložil(a) do nespravné kategorie. Bylo provedeno přesunutí.
+V případě opakování hrozí blokování vstupu na portál. Prosím zvol příště
+správnou kategorii. Děkujeme za pochopení.
+[Smajlík]      [Muž] [Kategorie]
+ _A_d_m_i_n_i_s_t_r_á_t_o_r
+04.01.2012 14:16:47
+Rozjedeš na tom původní crysys 2 bez nových dx11 textur a ještě sotva na
+nejmenší detaily, jestli chceš hrát, tak možná s notebook od pětadvaceti
+ technikpc
+04.01.2012 14:08:53
+Více jader si představ jako více nákladních aut. Bude-li více nákladu, odvezou
+za stejný čas více nákladu (více práce, zmákne to procesor rychleji). Naopak
+bude-li práce málo, odveze to jen jeden náklaďák svou maximální rychlostí
+(tzn., že neplatí, že by se frekvence procesoru sčítaly)
+ shark
+04.01.2012 13:50:22
+_h_t_t_p_:_/_/_w_w_w_._a_l_z_a_._c_z_/_l_e_n_o_v_o_-_i_d_e_a_p_a_d_-_g_7_7_0_-_d_a_r_k_-_m_e_t_a_l_-_d_2_7_5_9_9_9_._h_t_m_ a co na tomhle?
+ Ikarius
+04.01.2012 13:36:01
+Každé jádro je taktováno na těch 2.5 GHz, ale aby aplikace používala obě, musí
+pro to být přímo napsána, třeba staré programy ti pojedou jen na jedno jádro.
+Crysis určitě hratelné bude, ale IMHO nebude to žádný zázrak.
+ hmmm2
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+
