@@ -1,0 +1,172 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+   Otázky - Vzkazy č.450690, vloženo _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+   25.04.2010 21:11:10               _s_t_r_á_n_k_a_]
+   tvorba webových stránek
+   Ahoj..koupila sem si knihu o tvorbě webů (Drupal), ani jsem nestihla
+   začít a už mám problém.. pokud je tu někdo, kdo ví o čem mluvím, byl by
+   ochoten zodpovedět mi prá otázek?
+
+   Pro instalaci programu Drupal potřebuju vytvořit zkušební server a
+   nevím, zda si mohu doménu a jméno serveru vymyslet, nebo jak..
+    Karolína [Žena]22  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+25.04.2010 22:17:22
+Dneska se stránky dělaj jinak než se to dělalo před deseti lety. Z internetu
+si stáhneš redakční systém, upravíš pár php souborů, nakopíruješ na ftp
+server, spustíš to, nakonfiguruješ přes webové rozhraní a už jedeš. Dříve se
+všechno dělalo ručně. Kdo nemusí a nechce, používá RS.
+ Tajtrdlík4567
+25.04.2010 22:07:31
+Tajtrdlík4567: Pravda :) Nečetla jsem moc pozorně.
+Jen nevím, jestli to jen takhle rovnou bez jakýchkoliv základních znalostí
+dokáže používat. Podle mě v tom bude mít dost bordel.
+ nuninka
+25.04.2010 22:03:44
+Tedy neřek jsem to úplně nejpřesněji. Co se týče toho doplňku a někdo mě může
+vzít za slovo, ale to je jedno. Berte to tak, že jsem mluvil o znalostech.
+PHP+MySQL základ k nainstalování a obsluze RS jako je Wordpress.
+ Tajtrdlík4567
+25.04.2010 22:00:58
+nuninka:
+Tak teď bych si dovolil oponovat. Tedy máš pravdu v tom, že na
+_w_w_w_._j_a_k_p_s_a_t_w_e_b_._c_z_ najde navod jak pracovat s html a css a javascriptem. Ovšem
+vzhledem k tomu, že uživatelka si koupila knížku o redakčním systému (RS),
+předpokládám, že bude chtít nejjednoduší cestu k vytvoření webu. A ta je skrze
+RS, dejme tomu Wordpress. Na to nepotřebuje znát javascript ani css. Pokud
+chce rozjet RS pak potřebuje v první řadě umět PHP, protože na PHP stojí
+zmíněné RS. PHP je tedy první podmínkou a to je nezávislé na znalostech html.
+
+Html samotné je docela jednoduché a na internetu lze najít spoustu návodů pro
+začátek. V RS je html pouze jako doplněk, nikoliv podmínkou k tomu, aby RS
+fungoval. Jde mi jen o to, aby se uživatelka neučila zbytečně navíc věci,
+které jsou pro rozjedí těch webových stránek nepotřebné.
+ Tajtrdlík4567
+25.04.2010 21:57:52
+děkuju všem:-), jdu se do toho pustit..
+ Karolína
+25.04.2010 21:53:32
+1)
+_w_w_w_._j_a_k_p_s_a_t_w_e_b_._c_z_ 
+Tam najdeš hezky popsané html, css a javascript. Tím začni. Na html a css
+knihu kupovat nepotřebuješ.
+
+2)
+Až to budeš umět, tak můžeš teprve začít s php a sql. Na to php by mohlo bejt
+dobrý si koupit nějakou knihu.
+
+3)
+_w_w_w_._w_3_s_c_h_o_o_l_s_._c_o_m_ 
+Užitečn á stránka, jsou tam referenční příručky html, xml, css, sql, php,...
+ nuninka
+25.04.2010 21:52:24
+Moc děkuju. Zkusím:-).
+ Karolína
+25.04.2010 21:50:29
+Zkus ji prodat na zmíněné diskusi. Maj tam na to kategorii. Myslím, že je ti
+fakt k ničemu. Protože Drupal je pro odborníky. Ale jak chceš, tvoje volba.
+Jak jsem již napsal, potřebuješ se naučit základy html, php a mysql, aby si
+mohla pracovat s tím dejme tomu Wordpressem, který je asi nejjednodušší. Jdi
+na tu diskusi a tam se ptej.
+ Tajtrdlík4567
+25.04.2010 21:43:02
+To sem si zase jednoum usmysleal, že se něco naučim a najednou mi dochází, jak
+těžce sem se unáhlila. Opravdu díky:-)
+ Karolína
+25.04.2010 21:41:06
+Jo to jediný sem pochopila:-D (že to musím mít na vlastním počítači). Spíš jde
+ted o to, jakou knihu si pořídit pro začátek. Tuhle si nechám, stejnak sem už
+použila to cdčko.
+ Karolína
+25.04.2010 21:37:31
+A zapoměl jsem na phpmyadmin - to je php aplikace, která běží na php. To se
+taky budeš muset naučit. Takže ještě knihu o mysql a phpmyadminovi (to by snad
+mohlo být v jednom.) Jdi na stránky diskuse.jakpsatweb.cz a ptej se na vhodnou
+literaturu pro začátečníky. Počítej tak minimálně půlroku až rok než budeš
+schopna něco sama udělat, anebo jdi do kurzu pro začátečníky kde tě to naučí a
+budeš to umět dřív. Tvorba webových stránek dnes není zas tak jednoduchou
+záležitostí, jelikož náročnost webových aplikací stoupá co se týká vzhledu,
+výkonu, funkčnosti atd.
+ Tajtrdlík4567
+25.04.2010 21:31:51
+Uvědom si, že Drupal je o programování. Wordpress je mnohem snadnější, ale
+musíš trochu umět to html a php. Jdi tu knihu vyměnit za jinou. Nejlépe html i
+php - začátky. A měl by tam být i ten návod na nainstalování serveru,
+kopírování věci na ftp. A tak.
+
+jinak jen pro základní vysvětlení. Když děláš webové stránky, měla bys je
+dělat na svém počítači. Nainstaluješ si ten server, pak si nainstaluješ PSPad
+(editor - najdeš na netu), topStyle Lite - program na úpravu css stylů (to se
+týká vzheldu stránek), a až budeš chtít dát stránky na net budeš potřebovat
+FileZillu nebo jiný program, který ti to nakopíruje na ftp účet.
+ Tajtrdlík4567
+25.04.2010 21:30:05
+Zkušební server? Tady máš všechno v jednom (PHP Apache MySQL) - Wampserver.
+
+_h_t_t_p_:_/_/_w_w_w_._w_a_m_p_s_e_r_v_e_r_._c_o_m_/_ 
+
+Pro zkoušení na localhostu je to pro začátek celkem postačující. Jinak
+souhlasím s tím, že pokud nemáš ani elementární znalosti html, (css by zatím
+ani nebylo potřeba, ale časem určitě doporučuji :)), php a databází, zřejmě
+sis vzala moc velké sousto.
+ _N_e_u_r_č_i_t_ý_*_I_n_t_e_g_r_á_l [Muž]28 [Kategorie]
+25.04.2010 21:23:17
+Ahoj.. taky sem si povšimla, že předpokládá, že o to m už něco vím.. Byla sem
+naprosto zděšená, jelikož než můžu nainstalovat samotný program je nutný
+vytvořit si ten server a opravdu tam o něčem takovém nic nepíše.-(.. koupila
+sem si jí s neuvěřitelným nadšením:-(..
+
+Ach jo..
+[Smajlík]
+ Karolína
+25.04.2010 21:17:41
+To sis asi vybrala knihu, které nebudeš rozumět. To není kniha pro
+začátečníky. Soudě i podle toho, že tam není návod na to co se ptáš. Jaký druh
+stránek chceš tvořit. To co sis vybrala jsou redakční systémy (Drupal). Máme
+tři nejznámější RS a to je Wordpress, Joomla a Drupal. Z toho Wordpress je
+nejjednodušší a Drupal nejtěžší. Pro tvorbu webových stránek potřebuješ umět
+aspoň trochu html a php. To je minimum. Nebo jiný serverový skriptovací jazyk.
+Takže sis spíše měla najít knihu jak začít s php nebo něco takového. Nebo
+začátky s html.
+ Tajtrdlík4567
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+

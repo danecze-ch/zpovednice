@@ -1,0 +1,140 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+   Otázky - Vzkazy č.444419, vloženo _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+   20.03.2010 20:32:08               _s_t_r_á_n_k_a_]
+   Problém s PC a celkem vážný
+   Ahoj
+   Teďka jsem přijel od sestry, protože měla problémy s Pc. Zkoušel jsem to
+   opravit a nešlo to.
+   Problém: při zapnutí pc došlo k bootování, to trvalo tak 3 minuty a pak
+   naskocila cerna obrazovka s napisem reboot neco insert neco. Vlozil jsem
+   tam tedy CD s linuxem, abych zachranil nejaky data. Tak jsem to rozjel
+   na Live CD a nezobrazil se Hardisk. Jinak se vždy zobrazí. Tak jsme to
+   vyndal a znovu sputil a najel jsem do BIOSU a tam nebyla ani známka o
+   Hardisku. Jenom nejaky USB a bla bla bla. tak jsem zkusil nainstalovat
+   windowsi a zase se nezobrazil hardisk kam by se to nainstalovalo. Nevíte
+   co s tím je?
+   Počítač byl předtím normálně běžel. Pak se zapnul a už to nešlo. Plomba
+   je nepoškozená, tak s tim nikdo nemohl nic dělat. je to celkem aukutní
+
+   P.S. na Pc byl nainstalovan Windows Vista. visty jsou blbi, ale uz si na
+   to sestra zvykla, tak tajto tam dat.
+
+    _Z_e_l_e_n_é_ _o_č_i [Muž]17 [Kategorie]  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+23.03.2010 15:11:41
+Zkoušel jsi ten disk a kabely co z něj vedou trochu postrkat? Tedy trochu s
+tím zaklepat, apod.? Mohlo se stát, že se někde částečně uvolnil nějaký spoj a
+ono to teď nemůže ten hardisk detekovat. Otevři počítač a přitlač na všechny
+kabely, co tam jsou :).
+
+Operační systém v tomto případě nehraje roli.
+ _l_i_b_i_k [Muž]34 [Kategorie]
+22.03.2010 12:14:57
+Svůj příspěvek jsi vložil(a) do nespravné kategorie. Bylo provedeno přesunutí.
+V případě opakování hrozí blokování vstupu na portál. Prosím zvol příště
+správnou kategorii. Děkujeme za pochopení.
+[Smajlík]      [Muž] [Kategorie]
+ _A_d_m_i_n_i_s_t_r_á_t_o_r
+21.03.2010 09:43:58
+No tak jsem si říkal, že tu bude i nějaká rada s biosem, ale koukám, že ne no
+:D:D Takže se tu můžu rozepsat... :)
+
+Já bych zkusil najet do BIOSU, protože někteří počítače s určitým biosem
+potřebují (z nějakého nevysvětlitelného důvodu) znovu najít a vyhledat Master
+a Slave harddisky.. při zapnutí počítače by se to mělo v Quick Bootu najít
+samo, ale v tvém případě se to nestává... Takže najeď do BIOSu a podívej se,
+jestli je hárddisk přiřazený, protože pravděpodobně BIOS ti ten nenajde. Hodně
+se to stává, pokud byl harddisk odpojen a zapojen na jiný konektor na základní
+desce.
+ _F_í_l_a [Muž]38 [Kategorie]
+21.03.2010 00:48:47
+jedna malo znama informace. Pokud na HDD vyplnis prvni sektor 00 tak se
+harddisk nezobrazi, nelze ho formatovat ani s nim jinak pracovat. Musi se
+nabootovaat odjinud a diskeditorem ten sektor opravit na treba FF. Jinak se po
+disku podivej nejakym diskeditorem, ten Ti rekne vic. Jinak bbych asi
+nabootoval z nejakeho freedosu a pouzil nortoni diskeditor na zjisteni
+pritomnosti (ne na slozitejsi editaci, pod dosem to nejde, mozna jen ten prvni
+sektor, pokud by to byl on)
+ _A_l_f_a_r_d [Muž]59 [Kategorie]
+20.03.2010 21:12:42
+no, pokud je tam plobma a je to ještě v záruce, pokus se z nich vyrazit
+opravu, ale reálně to nevidím, bo ti vykuci ti napíšou, že neručí za problémy
+vzniklé použitím produktů třetích stran
+
+jinak viz zmíněné níže - jednou už jsme zažil i problém se zdrojem, dělalo to
+skoro totéž
+ Zombie36
+20.03.2010 20:50:44
+Pc s plombou jsem si koupil jednou a stejně jsem jí za pár měsíců musel
+porušit, jelikož díky prachu jsem měl na procesoru přes 70°C, což jsem
+nehodlal tolerovat.
+ mrazak
+20.03.2010 20:47:44
+Tak já se na to ještě kouknu přez linux a nechame to odvist do prodejny :-)
+Děkuju všem za rady :)
+ _Z_e_l_e_n_é_ _o_č_i [Muž]17 [Kategorie]
+20.03.2010 20:44:46
+Zkusil bych jeste nabootovat z toho linuxu, podival bych se pres lspci a dmesg
+jestli vidis radic
+ _V_e_l_d_r_a_n_e [Muž]34 [Kategorie]
+20.03.2010 20:44:07
+To může být cokoliv. Mě třeba odešel řadič nebo napájení, takže mi to postupně
+likvidovalo disk. Pomůže jenom měnit a hledat, která součástka zlobí. Ovšem pc
+s plombou bych si nikdy nekoupil.
+ reed
+20.03.2010 20:42:17
+No s tim kablikem si to myslim taky. Jsem to neotviral, protoze by to ztratilo
+zaruku a radsi to sestra odveze do prodejny. Ale jako jestli tam nemuze byt i
+problem nekde pri nacitani
+ _Z_e_l_e_n_é_ _o_č_i [Muž]17 [Kategorie]
+20.03.2010 20:40:13
+To vypada ze tam neni harddisk :)).
+
+Ne ted vazne - spis bych si tipnul ze bud hdisk odesel do vecnych lovist a
+nebo je nekde povytazenej kablik ci tak neco
+ _V_e_l_d_r_a_n_e [Muž]34 [Kategorie]
+20.03.2010 20:39:42
+Nejspíš kleknul disk. Zkusil bych ho v jiným PC jestli se tam bude hlásit.
+ pepaZdepa
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+
