@@ -1,0 +1,115 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+Zpověď č.557845, vloženo 29.08.2011 21: _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+44:08                                   _s_t_r_á_n_k_a_]
+problem s matikou prosim poradte
+mám strašný problém zítra dělám přezkoušení z matiky a zjistila sem že některé
+příklady vůbec neumím! Musím to zvládnout, ale na internetu nemužu najit jak
+se to počíta prosím pomožte mi. dělají mi problem přiklady exponencionalnich
+rovnic typu:
+4na -x*2na x-3=16na 4
+(1/25) na x=(1/5) na x-3 *5na x
+Prosím poradte jak se to počíta sem upe v prdeli nevím co mám dělat a zkoušku
+mám už zítra v 8:30!!
+ matika [Žena]17  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+29.08.2011 22:44:53
+(1/25)^x = [(1/5)]^(x-3) * 5^x
+vše se dá hodit na společný základ 5
+(5^-2)^x = [5^-1]^(x-3) * 5^x
+5^-2x = 5^-x+3 * 5^x
+společný základ hotový, takže počítáš jen s exponenty
+
+-2x = -x+3 + x
+-2x = 3
+x = - 3/2
+ _P_e_t_r_-_8_4 [Muž]27 [Kategorie]
+29.08.2011 22:36:15
+jo Petr-84 ma pravdu, kdyz je tam nasobeni tak po prevedeni je to scitani.
+kdyby tam bylo umocneni tak po prevedeni je to nasobeni (deleni->odecitani a
+odmocneni->deleni)
+ _I_g_n_o_r_a_n_t [Muž]22 [Kategorie]
+29.08.2011 22:33:31
+Jak psal Ignorant, převedeš si to na stejný základ, tady 2. Akorát mi to vyšlo
+trochu jinak.
+
+4^-x * 2^x-3 = 16^4
+2^2*(-x) * 2^x-3 = 2^4*4
+2^-2x * 2^x-3 = 2^16
+když máš stejné základy, napíšeš jen exponenty. Násobení mezi dvojkami se mění
+na sčítání (dělení by se měnilo na mínus)
+tzn.
+-2x + (x-3) = 16
+-x = 3 + 16
+x = -19
+
+když jsem to hodil do excelu do té původní rovnice, tak mi to vyšlo, tak snad
+je to tak dobře, nevím...matiku už jsem chvilku neměl :)
+ _P_e_t_r_-_8_4 [Muž]27 [Kategorie]
+29.08.2011 22:23:05
+Parmazan:
+
+Teď si mě rozesmál :D :D
+ _S_a_m_p_l_e_O_f_M_a_n [Muž]20 [Kategorie]
+29.08.2011 22:15:48
+To máš lehký stačí se řídit vzorcem g15x delta 96 - Xd 79:3w a potom to
+převedeš do decimetrů krychlových a na čtvrtou a pak jen odečteš por 65. No a
+výsledek je na světě, pak ho jen převedeš na kvadratické kvanty. Je na tom
+snad něco složitýho ?:D
+ _P_a_r_m_a_z_a_n [Muž]30 [Kategorie]
+29.08.2011 22:07:10
+v expo rovnicich jde o to, upravit si cleny na stejny zaklad. napr 4^-x * 2^x-
+3 = 16^4 muzes napsat jako 2^2 * 2^-x * 2^x * 2^-3 = 2^4*4 tedy 2^16
+
+potom, kdyz mas stejne zaklady tak si napises jen ty exponenty
+2*(-x)*x*(-3) = 16 -> -2x * (-3x) = 16 ->6x^2 = 16 -> x^2 = 8/3 tedy x1 se
+rovna 8/3 a x2 = -8/3
+
+snad jsem to spocital spravne, tohle uz jsem pred sebou nemel nejaky ten
+patek...ja uz znam jen integraly a derivace a cauchyho vety a podobne nesmysly
+o kterych pochybujes jestli opravdu plati :-D
+ _I_g_n_o_r_a_n_t [Muž]22 [Kategorie]
+29.08.2011 21:59:54
+no vidíš - a to jsi na to měla celý prázdniny ... tak snad za rok
+ hepra
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+

@@ -1,0 +1,118 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+   Otázky - Vzkazy č.551563, vloženo _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+   07.08.2011 20:52:45               _s_t_r_á_n_k_a_]
+   gta sa mp report crash
+   AHOJTE mam problem s gta sa:mp ze pustim hocijaky server a nacitava sa a
+   potom my vyhodi report crash:
+
+   SA-MP 0.3c-R3
+   Exception At Address: 0x00747249
+
+   Registers:
+   EAX: 0x00000000 EBX: 0x00000000 ECX: 0x0000004E EDX: 0x0000004D
+   ESI: 0x00000000 EDI: 0x75951225 EBP: 0x750AF9B0 ESP: 0x0028F770
+   EFLAGS: 0x00010246
+
+   Stack:
+   +0000: 0x00749055 0x0028F928 0x7EFDE000 0x018295DA
+   +0010: 0x01580000 0x00000000 0x008295E3 0x00857590
+   +0020: 0x008A6A08 0x7EFDE000 0x008A6A10 0x008E59A8
+   +0030: 0x00857590 0x7EFDE000 0x008A6A08 0x0028F7B8
+   +0040: 0x0082C28F 0x00C9D4C8 0x0028F7F4 0x0082493E
+   +0050: 0x00000008 0x0082265D 0x00822657 0x008A6A10
+   +0060: 0x008A6A08 0x7EFDE000 0x00857590 0x0028F7CC
+   +0070: 0x008267D4 0x75951225 0x00000000 0x7EFDE000
+   +0080: 0xFFFFFFFF 0x00822657 0x00000065 0x00000065
+   +0090: 0x0028F928 0x008254F1 0x00400000 0x00000000
+   +00A0: 0x01773CBB 0x0000000A 0x00000094 0x00000006
+   +00B0: 0x00000000 0x00001770 0x00000002 0x74E30800
+   +00C0: 0x7728435B 0x7728435B 0x76E5DAC0 0x77257D83
+   +00D0: 0x00000000 0x7724295A 0x01E99F84 0x0028F838
+   +00E0: 0x7725C449 0x0028FF78 0x77290AE5 0x00000000
+   +00F0: 0x01770000 0x017E8068 0x0028F880 0x00000001
+   +0100: 0x00000020 0x0028F8E0 0x00000000 0x01770000
+   +0110: 0x017E8068 0x7724E752 0x017E8068 0x00890017
+   +0120: 0x000000D0 0x01473FDC 0x7724E785 0x76E5DA68
+   +0130: 0x017E7C40 0x00000001 0x00825388 0x00000000
+   +0140: 0x00001770 0x7EFDE000 0xC0000005 0x7EFDE000
+   +0150: 0x01773CBB 0x00000044 0x017B2AF0 0x017B3840
+   +0160: 0x017B3AF8 0x00000000 0x00000000 0x00000000
+   +0170: 0x00000000 0x00000000 0x00000000 0x00000000
+   +0180: 0x00000000 0x00000000 0x00000000 0xFFFFFFFF
+   +0190: 0xFFFFFFFF 0xFFFFFFFF 0x00000000 0x00000000
+   +01A0: 0x0028F818 0x0028F344 0x0028FF78 0x008267D4
+   +01B0: 0x00889098 0x00000000 0x0028F978 0x75953677
+   +01C0: 0x00001770 0x7EFDE000 0x01496894 0x63281647
+   +01D0: 0x01491925 0x00000000 0x00000000 0x00000000
+   +01E0: 0x00000000 0x00000000 0x00000000 0xFFFFFD34
+   +01F0: 0x000002E4 0x00000000 0x00001770 0x7EFDE000
+   +0200: 0x00010000 0x0000003C 0x0028FEAC 0x00CBC8C2
+   +0210: 0x01493000 0x00000000 0x00001770 0x7724FD2F
+   +0220: 0x00000001 0x00000001 0x00000000 0x0028FA14
+   +0230: 0x0028F9DC 0x0028F9F8 0x74E01029 0x00000001
+   +0240: 0x00000000 0x0028FA14 0x74E010B4 0xAA074DDC
+   +0250: 0x00000000 0x017C43C0 0x00000002 0x03810210
+   +0260: 0x03810381 0x03810381 0x00000000 0x75940000
+   +0270: 0x0028F9BC 0x03010301 0x0028FE60 0x74E26560
+
+   SCM Op: 0x0, lDbg: 0
+
+   Game Version: UNKNOWN
+    das [Muž]  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+09.08.2011 07:40:32
+To nevies citat crash logy?
+V tychto dvoch riadkoch mas to co si hladal:
++0190: 0xFFFFFFFF 0xFFFFFFFF 0x00000000 0x00000000
++01A0: 0x0028F818 0x0028F344 0x0028FF78 0x008267D4
+
+To znamena, ze nieco je zle.
+ alternator
+07.08.2011 21:01:13
+Svůj příspěvek jsi vložil(a) do nespravné kategorie. Bylo provedeno přesunutí.
+V případě opakování hrozí blokování vstupu na portál. Prosím zvol příště
+správnou kategorii. Děkujeme za pochopení.
+[Smajlík]      [Muž] [Kategorie]
+ _A_d_m_i_n_i_s_t_r_á_t_o_r
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+

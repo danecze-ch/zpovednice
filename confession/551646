@@ -1,0 +1,169 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+   Otázky - Vzkazy č.551646, vloženo _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+   08.08.2011 07:28:41               _s_t_r_á_n_k_a_]
+   PC experti sem - jsem v p*deli.....
+   Nazdar všichni počítačoví odborníci. Asi se mi podělal notebook -
+   naběhne úvodní obrazovka a pka to napíše press F2 to run (něco) or F12
+   to (zase něco). Nepamatuju si co, protože píšu z pevnýho PC. Ale ať
+   zmáčknu cokoliv, nic se nestane. Na notebook jako takovej seru, ale mám
+   v něm asi 5000 fotek, který bych rád zachránil. Dokážete mi prosím
+   prosím někdo poradit co s tím???
+
+   Vřelé díky!
+    _D_u_r_c_e_t_ _z_e_ _S_o_d_o_m_y [Muž]34 [Kategorie]  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+09.08.2011 08:15:52
+to libik,
+jo tuhle chybu znam, je to vlastne to, co jsem popisovak. Je to chyba biosu.
+Kdyz bios hleda disky, nacte nulty sektor. Ten ma povinne definovanou
+strukturu. Pokud ho vyplnis nulama, tak BIOS selze a zaskne se. Nejde pak nic.
+Ten disk se pak hodne slozite opravuje. A kdyz tam das klicenku, tak se obcas
+chova tak, jako by mela na nultem sektoru nuly
+ _A_l_f_a_r_d [Muž]59 [Kategorie]
+08.08.2011 20:13:01
+Vřelé díky všem! Už je v servisu.... :-)
+ _D_u_r_c_e_t_ _z_e_ _S_o_d_o_m_y [Muž]35 [Kategorie]
+08.08.2011 18:38:09
+to to nejspis nebude. To co popisujes vznikne az pri bootovani os a to tak, ze
+klicenka nebo fotak se identifikuje jako disk a hloupe jako systemovy a system
+se z nej pokusi bootovat. Tohle mi prijde spis na hlasku biosu o chybe setupu
+(jedna radka v nejvyssi lince a vetsinou s press Fx
+Alfard
+-----------
+Do této části počítačů nevidím, takže argumentovat objektivně nemůžu.
+
+Ale problém byl fakt ten, že se to zaseklo na úvodní obrazovce (kde bylo
+napsané, že máš pro setup zmáčknout F12), ale ani při mačkání F12 to nic
+nedělalo, kompletně to vytuhlo... Ani do biosu nešlo zajít, i když jsem mačkal
+příslušnou klávesu hned od startu počítače. Když by se to snažilo nabootovat
+OS z externího disku, tak by to vypsalo nějakou chybu při načítání, že nelze
+načíst operační systém nebo tak něco, ne? Nebo by mě to hlavně nechalo zajít
+aspoň do toho biosu, ne?
+
+Já vím, je to divný, ale bylo to tak :)
+ _l_i_b_i_k [Muž]34 [Kategorie]
+08.08.2011 17:56:04
+to libik
+to to nejspis nebude. To co popisujes vznikne az pri bootovani os a to tak, ze
+klicenka nebo fotak se identifikuje jako disk a hloupe jako systemovy a system
+se z nej pokusi bootovat. Tohle mi prijde spis na hlasku biosu o chybe setupu
+(jedna radka v nejvyssi lince a vetsinou s press Fx
+ _A_l_f_a_r_d [Muž]59 [Kategorie]
+08.08.2011 17:41:08
+Možná je řešení jednodušší než si myslíš :).
+
+Už u několik počítačů jsem zaznamenal takové zaseknutí při startovní
+obrazovce, když k nim byl připojen externí hardisk nebo někdy i jiné
+zařízení...
+
+Takže co už se mi už přinejmenším na dvou počítačích ukázalo při tomto
+problému jako řešení, zkus také - odpoj všechny kromě zdroje elektřiny a zkus
+zapnout.
+ _l_i_b_i_k [Muž]34 [Kategorie]
+08.08.2011 16:20:20
+Co znamená -naběhne úvodní obrazovka-? Myslíš tu černou co naběhne po cca 2-
+3 vtěřinách od zapnutí? Já bych to viděl na cosi okolo BIOSu.
+ _B_u_r_n_ _t_h_e_ _p_r_i_e_s_t [Muž]24 [Kategorie]
+08.08.2011 13:09:32
+O jaky notes jde
+pokud je to neco HP/compaq, pak je nejspis blbost, co Ti tu radi. Tahle hlaska
+nejspis znamena, ze se zboril setup v CMOS pameti. Takle hlaska je totiz od
+Biosu a ne od bootu. Takze nejlepe opis, co to presne chce a ja Ti podle toho
+zkusim poradit. Nejspis tam bude F12 pro setup, spustis setup a nastavis
+parametry a zase to pojede. A jinak soukroma rada, nezalohovane fotky ma jen
+blazen nebo ten, co se jich chce zbavit
+ _A_l_f_a_r_d [Muž]59 [Kategorie]
+08.08.2011 12:17:36
+Stáhni a vypal Live Linux a fotky zálohuj. Zvládne to i úplný počítačový
+negramota.
+ slax
+08.08.2011 11:48:29
+těžko ti poradit, když ani nevíš, co ti to napíše; tvoje sdělení něco a zas
+něco má opravdu nulovou hodnotu, aby jsme ti poradili konkrétněji, takže se
+řiď radami, které tu už byly psány: dej ntb kamarádovi, co tomu alespoň trochu
+rozumí a on už se o hdd postará
+ nechcipsatsvejmeno
+08.08.2011 10:52:25
+V nejhorším případě jsou na to firmy, který ti to i z mrtvýho disku vykuchaj.
+Pohopitelně za solidní finanční obnos.
+[Smajlík]
+ EatMeatOrDie
+08.08.2011 10:15:15
+I windows jde upravit a dát na bootovací flash disk http://
+www.techrepublic.com/article/solutionbase-boot-windows-xp-from-a-usb-flash-
+drive/59 - 28902 - . Linux je sice fajn, ale pro normálního uživatele má pár
+zrad. JInak jak tady radí vyrvat ze střev harddik, připojit ho do stolňáku
+(třeba přes nějaký ide/sata-usb převodník) a modlit se, ať funguje.
+ weerwolf
+08.08.2011 10:02:41
+Jestli se necejtíš na pojmy Linux nebo připojit disk externě, tak radši
+přenechej ntb někomu zdatnějšímu z řad kamarádů :)
+ _F_i_n_r_e_i_r [Muž]42 [Kategorie]
+08.08.2011 09:28:21
+zpust linux z cd a přetáhni si co potřebuješ
+ _D_r_Z_l_o_u_n [Muž]30 [Kategorie]
+08.08.2011 08:09:32
+tomas414564 : No jo, ale někdo mi říkal, že takovej počítačovej pitomec, jako
+jsem já, se s Linuxem nikdy nemůže naučit zacházet. Já fakt umím počítač
+zapnout, najít si co potřebuju, popřípadě přesunout soubory a defragmentovat
+disk, ale tím to končí... :-(
+[Smajlík]         [Muž]35 [Kategorie]
+ _D_u_r_c_e_t_ _z_e_ _S_o_d_o_m_y
+08.08.2011 08:05:47
+Zkuš si na cd vypálit linux slax, dá se spustit bez operačního systému přímo z
+cd a měl by ti umožnit přesunou fotky z pc na flashku.
+ tomas414564
+08.08.2011 07:55:02
+V lepším případě klekl systém. V horším padl za vlast harddisk.
+ zelená opice
+08.08.2011 07:49:24
+Zdarec Durcet....
+Nejspíš se Ti pobořil systém(win)...
+Dostat data z Note je nejrychlejší-vytáhnout fyzicky disk , připojit na kšandu
+jako externí a přetáhnout data do druhého PC,nebo Note...
+Prostě disk zazálohovat...Přes víkend jsem dělal zrovna dva kousky pro
+záchranu dat..
+[Smajlík] [Muž] [Kategorie]
+ _c_o_m_m_e_x
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+
