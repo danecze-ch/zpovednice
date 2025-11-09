@@ -1,0 +1,221 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+   Otázky - Vzkazy č.466315, vloženo _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+   25.07.2010 21:03:08               _s_t_r_á_n_k_a_]
+   Nefunguje mi zvuk
+   Sice jsem uplynulou hodinu strávila na Googlu, nicméně buď jsem tak
+   zabedněná nebo je můj problém krajně ojedinělý, každopádně jsem se
+   řešení nedobrala.
+
+   Nefunguje mi zvuk, pokud to mohu posoudit, tak to vypadá na
+   odinstalovaný ovladač. Instalační CD každopádně nemám, už jsem si stáhla
+   nějaký program Everest, který mi ale zvukovou kartu vůbec neukazuje
+   (abych zjistila jaký typ mám) - no, možná to není směrodatné. Ve Správci
+   zařízení vypadají "Řadiče zvuku videa a herních zařízení" v pořádku, ale
+   u "Další zařízení", jakož i u podsložek "Neznámé zařízení", "Síťový
+   adaptér Ethernet" a "Zvukové zařízení na sběrnici High Definition Audio"
+   jsou žluté otazníky s vykřičníky.
+
+   Mohla bych problém opravit stažením nějakých ovladačů z Internetu? V
+   okolí bohužel počítačům nikdo nerozumí a v češtině už vůbec nikdo. Z
+   Googlu také moudrá nejsem, tak pokud mi někdo můžete poradit, tak budu
+   vděčná.
+    _H_e_b_ _d_ä_ _L_a_t_z E-MAIL:_[_g_r_a_f_i_k_a_/_m_r_e_f_h_i_._g_i_f_]   [Žena]71 [Kategorie]  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+25.07.2010 22:18:55
+Vždy mi to píše, že následující soubory už na mém počítači jsou, zda je to má
+přepsat, tak jsem poprvé dala že ano, podruhé že ne, každopádně uvidím po tom
+restartu. Děkuji vám oběma za pomoc :-)
+ _H_e_b_ _d_ä_ _L_a_t_z [Žena]71 [Kategorie]
+25.07.2010 22:16:53
+pak ti bude poslán odkaz,co stáhnout
+ sestřice
+25.07.2010 22:14:50
+Podívej se na krabici a zjisti, co je to za typ,pak ti poradím dál
+ sestřice
+25.07.2010 22:11:39
+CD čeho? Windows? Určitě je tam nějaká podnabídka, jako zvolit cestu ručně,
+vyhledat na internetu..... pokud cestu můžeš vybrat ručně, tak buď do složky,
+kde se ti rozbalily ty ovladače, a nebo do složky windows a nebo do složky c:
+windowssystem nebo system32
+
+ale myslím, že by to mělo proběhnout bez nějakejch ocapinek
+
+
+Jinak jak jsem psal poprvé - přes obnovení systému se vrátit do doby, kdy to
+bylo všechno v pořádku (maximálně přijdeš o programy, který byly instalovány
+potom)
+[Smajlík]
+ plysacek
+25.07.2010 22:00:56
+To první byl ovladač zvukové karty, to druhé ten samý ovladač ale maličko
+starší verze, to třetí ovladač sběrnice pro zvukovku (nebo tak něco)
+
+Já myslím, že to první by mělo stačit, pokud ne, tak znovu ručně ty vykřičníky
+odeber a restartuj, případně ten ovladač č.1 přeinstaluj
+
+Po restartu to možná ještě bude hlásit, že bylo nalezeno nové zařízení zvuková
+karta....atd.. mělo by proběhnout automaticky
+
+
+Hezký večer
+ plysacek
+25.07.2010 22:00:29
+Heb dä Latz: K instalaci žádné CD nepotřebuješ.
+ _D_i_v_i_n_e_ _D_i_v_i_n_i_t_y [Muž] [Kategorie]
+25.07.2010 21:58:43
+plysacek: No, pokud to ale chápu správně, tak to vypadá, že instalace nemůže
+být dokončena, protože nemám to CD.
+ _H_e_b_ _d_ä_ _L_a_t_z [Žena]71 [Kategorie]
+25.07.2010 21:57:23
+plysacek: Děkuji, začala jsem tím prvním, ale byly tam nějaké chybové hlášky a
+požadovalo to restart, což bych provedla, ale bohužel by to pro mě znamenalo
+pro dnešek konec Internetu (je tu takové divné připojení), takže zkusím ty
+další a nebo to udělám zítra. Každopádně díky za pomoc, doufám, že to půjde.
+ _H_e_b_ _d_ä_ _L_a_t_z [Žena]71 [Kategorie]
+25.07.2010 21:48:04
+_h_t_t_p_:_/_/_t_i_n_y_u_r_l_._c_o_m_/_3_8_h_f_b_6_m_ 
+tady si stáhni ovladače zvuku
+ plysacek
+25.07.2010 21:42:48
+Divine Divinity: Zkusila jsem instalovat to z tvého odkazu a šlo to, ale jsou
+u toho zase ty žluté otazníky s vykřičníky. No, rozdělávat počítač, to by v
+mém případě mohlo špatně dopadnout :-)
+
+plysacek: "Přehled informací Hodnota
+Název základní desky Hewlett-Packard HP ProBook 4510s
+"
+ _H_e_b_ _d_ä_ _L_a_t_z [Žena]71 [Kategorie]
+25.07.2010 21:37:36
+"zvukovka" je fyzická hardwarová věc. Drivery (neboli česky ovladače) jsou
+něco, co ti pomůžou integrovat tu zvukovku do pc (jinými slovy připojit...
+Jsou dva druhy hardwaru, ty, co se musí intalovat a ty, co jsou tzv. plug and
+play (neboli připoj a jeď).
+
+Zjisti si ale co máš za zvukovku, já ale nevím jak se to dá přesně zjistit,
+snad jen rozdělej pc a podívej se, co je na té zvukovce napsaný (pokud to
+poznáš)...
+
+Ale většinou ti to řekne prodejce, ne? Já mám třeba sound blaster audigy 4 a
+tak nějak mi to bylo obeznámeno, když jsem pc koupil :-)
+
+pak napíšeš do google název tvé kardy (např. sound blaster audigy 4...) a za
+to dodáš (audio driver) :)
+ _D_i_v_i_n_e_ _D_i_v_i_n_i_t_y [Muž] [Kategorie]
+25.07.2010 21:35:54
+Napiš typ notebooku přesně s číslem....nebo si sama na stránkách výrobce najdi
+podporu a stáhni ovladač ke zvukovce tam
+ plysacek
+25.07.2010 21:33:49
+Divine Divinity: Jo, už to mám, já jsem klikala na tu nadřazenou položku,
+proto to nešlo. Takže to mám odinstalované a teď musím prostě nějak zjistit,
+co mám za zvukovku a pak instalovat. A mám teda instalovat ovladače, nebo
+přímo tu zvukovku?
+ _H_e_b_ _d_ä_ _L_a_t_z [Žena]71 [Kategorie]
+25.07.2010 21:27:23
+Heb dä Latz:
+
+Jednoduše, v tom správci zařízení klikneš pravím na položku a dáš
+"odinstalovat"
+
+A pak si jednoduše vygooglíš svoji zvukovou kartu a nainstaluješ (možná se ji
+win bude snažit nainstalovat sám... to ignoruj)
+
+třeba tohle by mohla být ona:
+
+_h_t_t_p_:_/_/_w_w_w_._d_o_w_n_l_o_a_d_a_t_o_z_._c_o_m_/_d_r_i_v_e_r_/_i_ tem_eurocom-m548r-everest-x-audio-driver
+-5-10-0-5324-windows-xp-32bit.html
+
+Al e nejsem si jistý verzí, musíš si zjistit přesně, co to je za typ atp.
+ _D_i_v_i_n_e_ _D_i_v_i_n_i_t_y [Muž] [Kategorie]
+25.07.2010 21:23:43
+Divine Divinity:
+- Windows XP
+- Jak mám ovladače odinstalovat? A můžu je pak opět nainstalovat bez CD?
+- Ten program s informacemi o PC právě mám, to je ten Everest, ale tu zvukovku
+tam nevidím, možná se skrývá pod nějakým kódem, ale nevím.
+
+plysacek:
+- Jak to mám odebrat?
+- Mám notebook, nevím jakou mám zvukovku.
+- Ano, dřív mi to fungovalo v pohodě, pak měl ten notebook někdo jiný, tak je
+možné, že tam něco provedl.
+- Bydlím v Praze, ale teď jsem na delší dobu v Německu.
+
+Když dám "Přeinstalovat ovladač" ve složce "Správce zařízení" u těch chybných,
+tak to nejde bez toho CD. Jinak díky za odpovědi.
+ _H_e_b_ _d_ä_ _L_a_t_z [Žena]71 [Kategorie]
+25.07.2010 21:08:07
+To s vykřičníkama odeber a restartuj.
+
+Máš zastrčený kábly a zapnutý bedýnky? Máš notebook nebo velké PC?
+Integrovanou zvukovku?
+
+Fungovalo ti to někdy? Co jsi měnila v systemu? Nejde se přes
+start>programy>přislusenstvi>sy stemove nastroje>obnoveni systemu vratit do
+nějakého předchozího kontrolního bodu (např odinstalace, instalace)?
+
+Kde bydlis?
+ plysacek
+25.07.2010 21:07:46
+Jaký máš operační systém?
+
+Zkoušela jsi ty ovladače odinstalovat a zase nainstalovat, nebo dát "vrátit
+změny ovladače" nebo "aktualizovat ovladač" ?
+
+Jinak jestli nevíš, jakou zvukovku máš, tak to je pak těžký, zkus najít
+nějakej program, kterej ri zobrazí rozsáhlý infromace o pc (třeba na
+stahuj.cz) Třeba:
+_h_t_t_p_:_/_/_w_w_w_._s_t_a_h_u_j_._c_e_n_t_r_u_m_._c_z_/_u_t_i_ lity_a_ostatni/systemove_nastroje/ostatn i/
+gpu-z/
+Nebo
+_h_t_t_p_:_/_/_w_w_w_._s_t_a_h_u_j_._c_e_n_t_r_u_ m.cz/utility_a_ostatni/systemove_nastroj e/ostatni/
+system-explorer/
+
+Ale nevím, jestli to pomůže, nevím, jak přesně tyto porgramy fungují. Pak si
+jednoduše stáhneš ovladače a mohlo by to teoreticky pomoct.
+
+Jinak zkus se zeptat tady pc.poradna.net - ale pozor, jsou tam bezdůvodně
+občas argoantní (asi jako na zpovědnici)
+ _D_i_v_i_n_e_ _D_i_v_i_n_i_t_y [Muž] [Kategorie]
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+

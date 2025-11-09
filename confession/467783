@@ -1,0 +1,156 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+   Otázky - Vzkazy č.467783, vloženo _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+   02.08.2010 21:54:35               _s_t_r_á_n_k_a_]
+   analog x digital-rozdíl?
+   Ahoj...
+   Tak zase večer nemám co dělat, a tak jsem si zase něco početl zajímavého
+   v 21. století.
+   Mimojiné jsem se dostal k digitálnímu a analogovému signálu.
+   Tak jsem si to vygůglil a jediné, co jsem z té haldy pochytil bylo to že
+   1)digitální signál je v proudu jedniček a nul
+   2)analogový signál je jakoby "původní" ale může být ovlivněn spoustu
+   faktory
+   3)digitál zabírá míň místa
+
+   Ale nic víc a to mi připadá setsakramenstky málo.
+   Jaké jsou výhody a nevýhody digitálu a analogu?
+   A proč bysme právě měli přejít na ten digitál?
+    flek [Muž]19  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+03.08.2010 02:04:26
+Problem je slozitejsi. Analogovy signal se pouziva od zacatku TV vysilani.
+Tzn. pouziva se amplitudova modulace obrazu, tedy cim svetlejsi bbod, tim
+mensi amplituda nosne vlny (negativni modulace). Tento signal se tak predaval.
+Samozrejme ruseni se k nemu nepridava, ale jak se prenasi vzduchem, ta se ta
+vlna poskozuje okolnimi zdroji signalu. Jeste horsi to bylo v 60. letech, kdy
+se rozhodovalo o barevne televizi a bylo receno, ze musi byt zpetne
+kompatibilni s cernobilou. A tak se k barevnemu signalu pridala barevna slozka
+pomoci tv kvadraturni modulace. Protoze na ni nebylo v signalu dostatek mista,
+primodulovava se s pomocnou nosnou. A tak bylo potreba signal upravit, pomoci
+filtru, cimz se opet zhorsily sumove podminky. A ta pridana barevna slozka
+byla choulostiva na kde co. Tomu systemu se rikalo PAL. Byl choulostivy na
+sum, na fazove zkresleni, na odrazy. Ale porad bylo mozno v signalu vysledovat
+ten obraz. Proto analogovy.
+Pak prisly digitalni metody. To znamena, ze kazdy bod obrazu se prvede
+prevodnikem na cislo. Cim jasnejsi bod, tim vetsi cislo. Barvy se koduji
+samostatne. Tim ovsem vzznik obrovske mnozstvi dat, ktere se prakticky neda
+prenest. Takze tato data se musi zkomprimovat, to znamena, ze se jich cast
+zamerne ztraci (jako u MP3). Zde se pouziva dvojsmerna transformace,
+oznacovana jako MPEG2 nebo MPEG4. V prvnim pripade se pouziva diskretni
+cosinova transformave, ve druhem waweletova tr. Tim se obraz podstatne zmensi.
+Jeste predtim se obvykle provadi diferencialni komprese, to znamena, ze se
+porovnaji po sobe nasledujici snimky a uloi se jen rzdily, protoze vetsina
+snimku byva stejna. Takze se vzdy pouzije 1 keyframe a za nim treba 20
+diferencialnich. Tim se to zase hodne zmensi. A aby to vubec nebylo
+jednoduche, tak se na takto zmenseny datovy tok pouzije RLE komprese. To
+znamena, ze nejcasteji se vyskytujici kombinace (predstav si jako pismena
+abecedy) jsou nahrazeny co nejkratsim retezcem. Tim se datovy tok dostane asi
+na 1- Mb/s, to znamena asi milion jednicek nebo nul za sekundu. Dolni se
+ochranne prvky a namoduluje se to na nosnou vlnu. Diky tomu, ze jsou v ni jen
+nuly a jednicky, je daleko men e citliva na ruseni. Diky te kompresi se do
+puvodniho kanalu vejde nekolik digitalnich.Jen ten puvodni obraz uz z toho bez
+pocitace (set-top-boxu) videt neni. Vypocet je hodne slozity. A proc se
+nepouzil digital rovnou. No to je proste. Nebyly pocitace, co by se k tomu
+daly pouzit.
+ _A_l_f_a_r_d [Muž]59 [Kategorie]
+02.08.2010 22:29:44
+U digitálu máš kvalitnější obraz, poněvadž v něm není šum. Nevýhodou je však
+to, že zatímco analog se snižováním úrovně signálu do obrazu pouze přidával
+šum (který se v obraze vyskytoval stále a nešlo ho plně potlačit - jedná se o
+fyzikální problém), digitál do určitý úrovně jede naplno a bez šumu v obraze
+(pointa je v tom, že šum se v kanále přidává k analogovému signálu, kdežto v
+přijímači je z toho analogového signálu sejmut digitální signál, u kterého je
+do jisté míry buřt, jak velký šum tam je, páč např. hodnota 0,6 i 1,2 je
+shodně vyhodnocena jako jednička), ale od určitý úrovně začne kostičkovat,
+záhy se zasekne a máš po ptákách. To by se ale dalo vyřešit vhodným pokrytím
+vysílači a vhodným nastavením vysílacího výkonu. Nicméně pokud jsi v dosahu
+signálu, pak dává digitál kvalitnější obraz i zvuk.
+ _S_m_ě_j_í_c_í_ _s_e_ _J_a_c_k [Muž]33 [Kategorie]
+02.08.2010 22:10:58
+No hlavni duvod je nejspis uvolneni frekvenci v preplnenych pasmech. Rozdil
+pro normalniho cloveka je v tom, ze pro digitalni prijem staci slabsi signal a
+kvalita signalu nijak neovlivnuje kvalitu obrazu a zvuku. Kdyz ale klesne pod
+urcitou hranici, zacne se prijem zasekavat a program je nesledovatelny -
+narozdil od analogu, kde se spatny signal nejdriv projevi spatnym obrazem.
+Navic u digitalu je moznost prenosu HDTV, tzn. vyssiho rozliseni, coz se u nas
+zatim nevyuziva. K tomu je potreba mit televizi, ktera umi HDTV zpracovat a
+zobrazit.
+ _v_f_3_8_e_x_f_z_p [Muž]39 [Kategorie]
+02.08.2010 22:05:12
+Svůj příspěvek jsi vložil(a) do nespravné kategorie. Bylo provedeno přesunutí.
+V případě opakování hrozí blokování vstupu na portál. Prosím zvol příště
+správnou kategorii. Děkujeme za pochopení.
+[Smajlík]      [Muž] [Kategorie]
+ _A_d_m_i_n_i_s_t_r_á_t_o_r
+02.08.2010 22:02:01
+podle mě je digitál horší kvalita. Zvolili špatnej kodek (příliš úspornej) a
+taky to má horší odolnost vůči zeslabenýmu signálu, než analog. Neumí si
+poradit s chybama přenosu. Při vysálání vzduchem (jednosměrně) prostě vznikaji
+přenosový chyby, neni to jako přenos dat na netu. Nemůže si to poslat
+požadavek, aby se nějaká část dat odeslala znova.
+Kde analog fungoval 100%, tak digitál vypadá asi takhle :
+_h_t_t_p_:_/_/_w_w_w_._y_o_u_t_u_b_e_._c_o_m_/_w_a_t_c_h_?_v_=_9_R_B_n_n_8_ ydwRw
+[Smajlík] [Muž]29 [Kategorie]
+ _R_V_L_-_X
+02.08.2010 22:01:50
+Proč přejít? no protože to za chvilku vypnou, myslím ten analog a já bych měl
+"analogovou" tmu:)) krom toho, mně to připadne lepší. Lepší kvalita, víc
+programů a bez problémů...k analogu bych se už nevrátil.
+ _S_T_E_F_I_I_N_O [Muž]43 [Kategorie]
+02.08.2010 22:01:13
+Proč přejít? Protože analogové vysílání skončí.
+Jinak minimálně ve městě nám digitál poskytuje čistější obraz (při bouřkách
+ale občas lítaj kostičky). Navíc u nás místo 4 kanálů na analogu jich vysílá
+na digitálu 9.
+ _s_o_u_k_m_e_n_o_v_e_c [Muž]29 [Kategorie]
+02.08.2010 21:55:56
+_w_w_w_._d_i_g_i_c_t_._c_z_ 
+
+google
+"vyhody digitalniho vysilani"
+
+a je to
+[Smajlík]        [Muž] [Kategorie]
+ _e_n_d_ _o_f_ _t_h_e_ _l_i_n_e
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+

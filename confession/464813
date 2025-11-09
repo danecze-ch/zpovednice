@@ -1,0 +1,267 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+   Otázky - Vzkazy č.464813, vloženo _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+   17.07.2010 17:40:04               _s_t_r_á_n_k_a_]
+   localhost - connection fail
+   Nedávno jsem to tu už řešil, ale nakonec jsem to uzavřel s tím, že jsem
+   asi něco přehlídl. Nepřehlídl jsem nic. Prostě je to tak, že když
+   odpojím internet (a Apache je spuštěný) tak Firefox ani Internet
+   Explorer nenajdou localhost.
+
+   Tak třeba teď: odpojil jsem počítač ze sítě. Napíšu localhost. Zdá se,
+   že localhost najel. Kliknu na složku kde má najet index.php a dostanu
+   hlášku, chyba připojení.
+
+   Vy jste něco takového nezaznamenali? To není možné, protože mě to přijde
+   jako něco naprosto neslýchaného, prostě určitě nějaký bug od Microsoftu.
+
+
+   Zkouším další pokus: http://127.0.0.1/mojeslozka/index.php . Soubor
+   najede (asi z cache). Provádím změnu v souboru a žádná změna se
+   neprojeví.
+
+   Tato anomálie se však neprojevuje u Opery. Opera normálně eviduje, že v
+   souboru proběhla změna. Předpokládám, že je to chyba ve Windows, asi
+   nějaká aktualizace, která rozhodila to co tam předtím fungovalo. Tohle
+   mě doslova sere, protože nemohu odpojit internet. Ladit www mi přitom
+   vyhovuje v FF, protože s jejich vývojářskými nástroji jsem velice
+   spokojen. V OP to není ono.
+    Ajťák E-MAIL: _f_u_c_k_@_b_i_l_l_._g_a_t_e_s_._c_o_m  [Muž]22  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+18.07.2010 11:06:45
+Dneska nemám čas ani chuť to řešit. Mimochodem. Chodí sem spousta lidí ptající
+se na různé věci - od úplných blbostí přes počítače, až přes zdravotní a
+sexuální problémy. Ti by taky mohli chodit na tímto směrem zaměřené stránky.
+Nikomu to nevadí a lidi rádi odpovídají. Ty máš očividně nějaký problém, že ti
+to vadí.
+[Smajlík]
+ Ajťák
+18.07.2010 01:24:17
+Mimochodem, zeptat se na to jinde, odpověděl bych Ti automatickou otázkou
+jestli jsi zkontroloval error log, ajťáku.
+ Blubec
+18.07.2010 01:19:30
+Chci jít spát s dobrým pocitem, takže si v konfiguraci apache zkontroluj,
+jestli Ti naslouchá na všech dostupných rozhraních/adresách (výchozí), nebo
+jen na localhostu. Možná Ti blikne, že se mu nebude líbit, když mu utrhneš
+připojený socket pod prdelí a buď přejdeš na jiný http server kterému to
+nevadí, nebo _nakonfiguruješ_ démona kterého ses rozhodl používat.
+A nauč se hledat zdroje informací, namísto lepení plakátů v průjezdu kudy
+chodí všichni včetně ajťáků, ajťáku - leda že bys z toho chtěl udělat srdeční
+záležitost hrozící skončit sebevraždou.
+ Blubec
+18.07.2010 01:14:22
+Blubec:
+Kvůli lidem jako jsi ty, budu v pohodě pokračovat v kladení nedůležitých
+otázek na servery jako je Zpovědnice. Mě zase dělá dobře, když vím, že tě to
+sere. Takže čau, zase někdy na zpovědnici. A nezapomeň. Zpovědnice je pro
+všechny.
+ Ajťák
+18.07.2010 01:11:54
+Blubec:
+Tak tedy nechápu proč se zdržuješ čtením této diskuse. My dva komunikujeme
+každý na jiných kanálech, takže je to zbytečné ti cokoliv psát. Pro mě si
+prostě primitiv a tím to končí. S volama se budu setkávat pořád, ale je lépe
+se jim vyhnout. Takže tímto končím dnešní noční debatu s tebou.
+ Ajťák
+18.07.2010 01:08:11
+afk:
+Konfiguraci budu řešit zítra, už se chystám na kutě. Zas tak moc to nehoří.
+Spíš jen štve.
+ Ajťák
+18.07.2010 01:06:06
+Rád bych řekl, že to dělám v dobrém úmyslu, ale není to tak. Jen si do tebe v
+klidu a pohodě reju, protože pokládat tvé otázky tady, na to jeden potřebuje
+slušné zatmění. Pokračuj, je s tebou sranda. Třeba o tom že jsi nemohl hledat
+na netu (to byl dobrý fór), nebo že Tě nic lepšího než napsat sem nenapadlo
+(je Ti známo že na stránkách například recepty.cz jsou taky povolené komentáře
+a chodí tam ajťáci?), nebo o tom co bys mi všechno udělal kdybys na mě
+dosáhl... Hlavně pokračuj.
+ Blubec
+18.07.2010 01:05:35
+Ajťák
+Uz ti to jede? :P
+ afk
+18.07.2010 00:55:51
+Blubec:
+Od tebe a tobě podobných žádnou odpověď neočekávám. Co jsi zač si už názorně
+předvedl a to stačí. Zas tak moc si mě nepřekvapil, si nemysli. To, že Český
+národ nepatří k moc vřelým a ochotným lidem, to totiž dobře vím. V zahraničí
+se tohle moc neřeší, ale je to známka tvoji vlastní degradace, že tě baví na
+tohle reagovat a provokovat.
+ Ajťák
+18.07.2010 00:42:56
+Udělej něco sobě ty vtipálku :-D čím víc se točíš tím víc mě baví do tebe rýt,
+třeba ti pak blikne že tohle vážně není IT zaměřený server a já bych musel mít
+hodně dobrou náladu abych se Tě chtěl zbavit odpovědí která by ti k něčemu
+byla - jenže pak bys sem přišel s jinou obdobně stupidní ptákovinou zase.
+ Blubec
+18.07.2010 00:30:46
+afk:
+Jo za to si může blubec sám, pouze reakce na jeho narážky. Ale nemluvím takhle
+s každýma a kdybych ho tu měl, tak bych mu fakt něco udělal, ale za to přece
+nemůžu, nemá si otvírat hubu. Hold někdo neumí udržet jazyk, někdo neumí
+udržet hněv. Každý jsme nějaký.
+
+Tahle diskuse vůbec nemusela být. Stačilo napsat, asi máš špatně
+nakonfigurovaný server nebo špatně nakonfigurovanou adresu. Případně kam se
+obrátit tu celou dobu nepadlo. A hledat na netu jsem nemohl, když jsem neměl
+tušení, že by se to mohlo týkat serveru.
+ Ajťák
+18.07.2010 00:11:43
+ale kdez... ja jsem jen opravdu zlomyslny parchant vuci takovym lidem, kteri
+radi triskaji s cizimi hlavickami o zed, proto ta nesmyslna odpoved,
+kombinujici nevhodny postup s mixnutymi prikazy. take mne vadi, ze se
+_napriklad_ mazou zadosti o preklad nejakych cizojazycnych vet a frazi, coz je
+obcas oriskovy problem, ale tyhle absolutni blbosti se tady klidne nechavaji,
+pricemz staci mit klicova slova a mas prakticky vyhrano, protoze tyhle
+prkotiny pred tebou resily tisice lidi, kdezto preklad u "vet na prani" tezko
+hledas. ale abych to uz vice obsirne neprodluzoval a nebavil se na tvuj ukor
+rozebiranim neceho, co s tim nema zadnou souvislost - tohle by ti mohlo mozna
+pomoct zkracovatko.cz/up8 a jestli neumis anglicky, tak napis vzkaz, at ti to
+nekdo prelozi :))
+ afk
+17.07.2010 23:30:15
+afk:
+Myslíš, že odpojení sítě vyžaduje restart serveru? To by bylo zvláštní... Mě
+vůbec přijde zvláštní, že nikdo nenapsal, že by to bylo normální, nebo něco
+takového. Že by to nikdo nezažil?
+ Ajťák
+17.07.2010 23:07:34
+start - spustit - cmd - /etc/init.d/apache2 restart
+jestli tohle nepomuze, tak nevim...
+[Smajlík]
+ afk
+17.07.2010 23:01:53
+pex,
+Proč si pod pojmem Ajťák představuješ vysokoškolsky vzdělaného člověka se
+zaměřením na IT? Pro mě je Ajťák kdokoliv, kdo má zájem o počítače a pracuje s
+nimi. Nehraje roli jestli je to začátečník nebo pokročilý to je jedno. Přišel
+jsem si postěžovat (od toho Zpovědnice) a doufat, že tu někdo na něco přijde,
+ale asi nic.
+ Ajťák
+17.07.2010 22:31:43
+blubec: Ty jsi ten kretén odpočinek?
+[Smajlík]
+ další ajtý
+17.07.2010 20:43:59
+Ty si říkáš ajťák a neumíš vyřešit takové triviální problémy. Se nedivím, že
+jsi pak všichni lidi myslí, že ajťáci jsou úplně mimo.
+ pex
+17.07.2010 20:13:37
+Ten soubor obsahuje toto:
+127.0.0.1 localhost
+ Ajťák
+17.07.2010 20:11:17
+dwedwe:
+V opeře je volba Historie a cache/Kontrola změn dokumentů - vždy ... tak teda
+asi proto.
+
+127.0.0.1/adresar/slozka/index .php - taky nenašlo nic. Takže tím souborem to
+asi nebude
+ Ajťák
+17.07.2010 20:09:53
+Blubec: Ježiš. Psal jsem sem normálně lomítka a ono je to vyhodí doprčic.
+
+Na disku, kde máš windows, složka system32 - drivers - etc - tam je soubor s
+nazvem "hosts" .. nema koncovku
+ dwedwe
+17.07.2010 20:07:25
+Jen jestli nekecáš. Ale jestli chceš, přidám si Tvou poníženou virtuální
+prosbu o skutečný taneček do sbírky k ostatním trubicoidním výkřikům do tmy.
+ Blubec
+17.07.2010 20:07:02
+dwedwe:
+Díky za reakci, ale mám XP. A kde přesně se nachází ten soubor a jakou má
+koncovku?
+ Ajťák
+17.07.2010 20:05:31
+To je jednoduchý.
+
+Pokud zadáš 127.0.0.1 tak vše funguje, ale pokud zadáš localhost, tak to
+nejede. Možná máš Windows 7, že?
+
+A proč to v Opeře funguje? Tam asi máš nastaveno, aby nenačítala obsah z cache
+a nebo to třeba sama kontroluje.
+
+Stačí otevřt soubor : ..windowssystem32driversetshos ts
+
+a tam odkomentovat řádek (komentář začíná #) tak, aby tam byl řádek
+
+
+127.0.0.1 localhost
+ dwedwe
+17.07.2010 20:00:39
+Mít tu tvou hlavu po ruce, už bych s ní třískl o zeď.
+ Ajťák
+17.07.2010 19:52:45
+Řeznictví je obchod, který se specializuje na maso a masné výrobky. Asi bys
+tam nepřišel ptát se jak na skvrny od vajec a třešní, nebo ano? Už?
+
+Na otázky které sem nepatří odpovídat nechci, ale to neznamená, že mě nebaví
+dát s nějakou horkou tupou hlavou řeč.
+ Blubec
+17.07.2010 19:43:38
+Blubec:
+Já normální jsem, ale ty asi ne, když nedokážeš odpovědět na otázku. Když tě
+to tak se re tak nech bejt a nestarej se
+ Ajťák
+17.07.2010 19:26:56
+Jsi normální? Ajťáci chodí i do řeznictví - ptáš se lidí naslepo i tam nebo
+co?
+ Blubec
+17.07.2010 19:14:33
+Blubec
+A kde se mám ptát? Vím že sem chodí ajťáci, tak co by ne?
+ Ajťák
+17.07.2010 19:10:52
+stejně jako ho napsat coby kontakt a ptát se na takové věci tady
+ Blubec
+17.07.2010 18:54:49
+Dobrý nápad psát na smyšlený mail :)
+[Smajlík]
+ Ajťák
+17.07.2010 17:49:28
+Přesný návod máš v mailu.
+ Blubec
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+
