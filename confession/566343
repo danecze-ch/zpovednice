@@ -1,0 +1,300 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+Diskuze č.566343, vloženo 30.09.2011 23: _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+07:34                                    _s_t_r_á_n_k_a_]
+Programování
+Ahoj,
+chtěl bych začít s programováním (umím jen základy php a klasické úpravy v
+pspadu).
+Mohl by mi někdo doporučit kvalitní literaturu, popř. web?
+Vítán je jakýkolik poč. jazyk:
+HTML, CSS, PHP, JS, XML,SEO, WBA, ASP.NET, SQL...
+Díky moc:)))
+ nothingbad [Muž]19  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+01.10.2011 17:48:36
+Fidor: To může rovnou používat Brainfuck
+ _S_o_s_a_r_i_a_n [Muž] [Kategorie]
+01.10.2011 17:28:45
+A co takhle Python? Ten je podle mě super i pro začátečníka
+ Fidor
+01.10.2011 13:53:53
+S Pascalem rozhodně nezačínat :)) to je jak kdybys chodil do autoškoly, kde by
+učili v trabantu a tvé první auto pak byl Mercedes.
+
+Z těch "klasických" jazyků si vyber buď C# a nebo Javu, C# je samozřejmě
+lepší, protože je od Microsoftu, takže tvorba aplikací je přizpůsobená
+nejpoužívanějšímu systému, kde narozdíl pokud uděláš drobný prográmek v Javě,
+potřebuješ k tomu instalovat další knihovny pro Javu, abys ho vůbec spustil.
+
+Z těch webových, HTML a CSS se dá naučit velmi rychle, u HTML stačí projít
+seznam tagů a pročíst k čemu vlastně jsou U CSS tak trochu i zkoušet, co to
+udělá.
+PHP - podívat se na základy a pak přihodit nějaký framework, třeba Nette /
+Zend. Během toho se podíváš na MySQL.
+ hmmmmmm
+01.10.2011 12:55:47
+Fatkid: Talent je potřeba na to umět napsat dobrý objektový návrh a psát
+elegantní kód
+ _S_o_s_a_r_i_a_n [Muž] [Kategorie]
+01.10.2011 11:56:45
+Jak jsem psal já začínal s programováním na vejšce, kde po nás chtěli Javu,
+ale před tím jsme měli předměty jako algoritmy a objektový modelování, který
+nás na to trochu připravili. Díky supportu od Javy to nebyl problém. A ani
+nesouhlasim s tim, že je potřeba na programování talent. Přišlo mi to jako
+matika... Stačí se naučit postupy a pak hodně trénovat.
+
+Tohle jsem měl pak u zkoušky (po 2 semestrech programování):
+Vytvořte program, který bude poskytovat funkce jednoduchého diskusního fóra. V
+tabulce bude k dispozici seznam vláken (témat), která bude možné přidávat,
+upravovat a mazat a u kterých bude uveden název, popis, datum a čas naposledy
+přidaného příspěvku. Po klepnutí na vlákno se uživateli rozbalí podle času
+seřazené příspěvky. Příspěvky je možné přidávat a mazat. Každý příspěvek vždy
+obsahuje jméno uživatele, jeho e-mail, titulek, text zprávy, datum a čas, kdy
+byl vložen. Aplikace bude umožňovat uložení vybraného vlákna (témata) a všech
+jeho příspěvků do textového souboru.
+ _F_a_t_k_i_d [Muž]26 [Kategorie]
+01.10.2011 11:40:42
+C# je do začátku dobrej, jen pokud budeš ignorovat objekty, jinak je to
+zbytečně moc složitý.
+
+Rozhodně ale nezačínej s C/C++, tím nic nezískáš a díky ukazatelům akorát
+ztratíš...
+
+
+
+A když uź jsme u Eclipse vs Netbeans, tak jdine Idea. Ale Microsoft Visual
+Studiu se samozřejmě nic nevyrovná.
+
+
+Mimochodem SEO ani ASP.NET nejsou jazyky a WBA ani neexistuje
+
+
+Theory-of-Relativity:
+"kde jsou příkazy krok za krokem "
+A v tom OOP se přikazy provádějí v náhodném pořadí?
+ _S_o_s_a_r_i_a_n [Muž] [Kategorie]
+01.10.2011 11:30:59
+Samozřejmě, že první jazyk na naučení je C/C++. Doporučuji
+[Smajlík]
+ programátor25
+01.10.2011 11:29:56
+libik: netbeans mi moc nesedli
+radši eclipse nebo ideu(ktera je z nich dle mě nej)
+ _n_u_l_l_-_p_o_i_n_t_e_r [Muž]24 [Kategorie]
+01.10.2011 11:28:32
+-> null-pointer: hehe... nicméně, není nutné k nim být zlý! I naparující se
+páv umí kontruktivní názor přijímat.
+Protože jen tak má možnost se někam posunout, že, pánové!
+
+Jak malí....
+
+.]
+ _A_e_l_i_l [Žena]13 [Kategorie]
+01.10.2011 11:28:17
+Antický vědec: no to je pravda, ale takových lidí je...., co si hrají na něco
+co nejsou, nad tím není dobré se pozastavovat, akorát se dostaneš do
+zbytečného konfliktu. Nezapomeň, nikdo učený z nebe nespadl, já byl dřív, když
+jsem neuměl ani Hello World stejný.
+ _T_h_e_o_r_y_-_o_f_-_R_e_l_a_t_i_v_i_t_y [Muž] [Kategorie]
+01.10.2011 11:27:51
+Rozhodně bych začal v Javě nebo C#.
+
+Tyhle jazyky jsou dneska snad nejžádanější, jejich základní syntaxe je totožná
+a mají skvělé editory (netbeans, visual studio)...
+ _l_i_b_i_k [Muž]34 [Kategorie]
+01.10.2011 11:26:44
+fakt se mi libi debilci co si honi péro v diskusích, ale když dojde na
+ukazování výsledků tak držej tlamičky
+ _n_u_l_l_-_p_o_i_n_t_e_r [Muž]24 [Kategorie]
+01.10.2011 11:24:52
+Theory-of-Relativity: tady jde spíše o to, že si hraje na něco, čím není
+ Antický vědec
+01.10.2011 11:23:53
+Antický vědec: každý nemá talent na programování, pokud by null-pointer
+skutečně stál o programování, tak by ho studoval....
+[Smajlík]             [Muž] [Kategorie]
+ _T_h_e_o_r_y_-_o_f_-_R_e_l_a_t_i_v_i_t_y
+01.10.2011 11:21:57
+Theory-of-Relativity: určitě pravděpodobněji než null-pointera, který zná jen
+jeden a zároveň neefektivní řadicí algoritmus
+ Antický vědec
+01.10.2011 11:21:22
+Antický vědec: wow a pochlubíš se nějakým webem co jsi vytvořil?
+ _n_u_l_l_-_p_o_i_n_t_e_r [Muž]24 [Kategorie]
+01.10.2011 11:19:02
+Antický vědec: já ještě nemám dostudovanou střední, ale už mám celkem
+pokročilé znalosti :) Tak snad mě někde po škole vezmou
+[Smajlík]             [Muž] [Kategorie]
+ _T_h_e_o_r_y_-_o_f_-_R_e_l_a_t_i_v_i_t_y
+01.10.2011 11:17:35
+Theory-of-Relativity: jistě, zatím mi fakt stačí PHP, to mě bez problému
+uživí, OOP bych se rád naučil, když už jsme profesionální programátor :D
+ Antický vědec
+01.10.2011 11:15:01
+Aelil: protože už v tom napsali program kterej seřadí 100 čísel buble sortem
+ _n_u_l_l_-_p_o_i_n_t_e_r [Muž]24 [Kategorie]
+01.10.2011 11:14:55
+null-pointer: vidím, že s WYSIWYG máš své zkušenosti :D
+ Antický vědec
+01.10.2011 11:13:40
+Antický vědec: jo a php weby děláš tak, že píšeš text do WYSIWYG editoru v
+nějakém php redakčním systému
+[Smajlík]     [Muž]24 [Kategorie]
+ _n_u_l_l_-_p_o_i_n_t_e_r
+01.10.2011 11:13:08
+Antický vědec: Tak OOP, tam je docela široký výběr, doporučuji Javu, ale je
+relativně obtížná, já umím C++, v tom se taky dá něco naprogramovat, nemám
+však zkušenosti s Pythonem, ale je to čistě OOP
+
+null-pointer:
+OOP - objektově orientované programování - v něm máš objekty, classy,
+struktury apod. čímž se liší od procedurálního, kde jsou příkazy krok za
+krokem
+[Smajlík]             [Muž] [Kategorie]
+ _T_h_e_o_r_y_-_o_f_-_R_e_l_a_t_i_v_i_t_y
+01.10.2011 11:11:57
+-> Theory-of-Relativity, Antický vědec: Proč mu doporučujete C/C++? (...)
+ _A_e_l_i_l [Žena]13 [Kategorie]
+01.10.2011 11:09:06
+Theory-of-Relativity: v C, dělám v PHP weby + JavaScript. Přemýšlím o nějakém
+OOP
+[Smajlík]
+ Antický vědec
+01.10.2011 11:08:08
+Antický vědec: coze?
+[Smajlík]     [Muž]24 [Kategorie]
+ _n_u_l_l_-_p_o_i_n_t_e_r
+01.10.2011 11:07:53
+Antický vědec: ty programuješ? V čem?
+[Smajlík]             [Muž] [Kategorie]
+ _T_h_e_o_r_y_-_o_f_-_R_e_l_a_t_i_v_i_t_y
+01.10.2011 11:07:08
+Theory-of-Relativity: no právě
+ Antický vědec
+01.10.2011 11:06:29
+Antický vědec: ....tak pole jsou v programování základem, základů.....
+[Smajlík]             [Muž] [Kategorie]
+ _T_h_e_o_r_y_-_o_f_-_R_e_l_a_t_i_v_i_t_y
+01.10.2011 11:05:12
+viz Theory-of -Relativity
+
+null-pointer: ty radši pomlč, není to dávno, co jsi se ptal, co jsou to ty
+jednorozměrná pole (moc dobře víš, do jakého profilu jsi to psal)
+[Smajlík]
+ Antický vědec
+01.10.2011 11:02:15
+nothingbad: na paskal kašli
+
+Doporučuji C nebo C++, protože pokud se naučíš základy C++, tak už nebude
+takový problém se naučit jiné jazyky...třeba i tu Javu
+[Smajlík]             [Muž] [Kategorie]
+ _T_h_e_o_r_y_-_o_f_-_R_e_l_a_t_i_v_i_t_y
+01.10.2011 10:58:07
+na paskal a C se vykasli :)
+
+zacni si psat ptakovinky v JS, je to sranda a vidis vysledek, kterej ma smysl
+
+pak zacni v .NET, microsoft visual studio ti všechno naservíruje na rezavým
+podnose :)
+sám dělám v jave, ale naučit se javovej web framework neni sranda (v pripade
+ze bys na to mel koule tak doporučuju tapestry 5.3 + maven + hibernate + na
+praci s JS servlety a databazi dle libosti)
+ _n_u_l_l_-_p_o_i_n_t_e_r [Muž]24 [Kategorie]
+01.10.2011 09:32:56
+*War*
+U nás na vysoké škole se začíná v Javě.
+ _F_a_t_k_i_d [Muž]26 [Kategorie]
+01.10.2011 09:32:09
+Já doporučuji C#, základy se v něm naučíš stejně snadno jako ve starém
+Pascalu, a ještě navíc od něj nebudeš muset odcházet. Už za jedno odpoledne
+můžeš zjistit, jak co funguje, proč to tak funguje a zjistit, zda tě to baví!
+[Já sama jsem C# odkojenec nebo spíš stále kojenec, a pronikneš-li do jazyka
+C#, další budou hračka! .-)]
+
+Jako vývojové prostředí doporučuji vřele Microsoft Visual C# 2008!
+Na běh stáhni .NET Framework.
+
+A průvodce: Poznáváme C# a Microsoft .NET od _w_w_w_._z_i_v_e_._c_z_ 
+Odkaz: _h_t_t_p_:_/_/_t_i_n_y_u_r_l_._c_o_m_/_6_j_y_9_a_y_p_ 
+
+GL!
+ _A_e_l_i_l [Žena]13 [Kategorie]
+01.10.2011 07:36:33
+War ma pravdu. Pascal ti neni k nicemu, nauci Te dobre zaklady a nauci Te jak
+psat kod tak aby z nej nebyla spousta necitelneho smeti, kterej po tobe nikdo
+neprecte. Javu, popripade dalsi jazyky se pak naucis za 2-3 odpoledne, paac je
+to proceduralni/objektovej jazyk jako vsechno ostatni. Tim ostatnim myslim
+javu,c,php, skriptovaci jazyky etc. Samozrejme dal se pak muzes vzdelavat,
+muzes se naucit treba zaklady sql nebo pl/sql, perl atd. Kazdopadne zacit s
+pascalem neni blbej napad naopak to vrele doporucuju, na dalsi jazyky pak
+prejdes levou zadni.
+ _V_e_l_d_r_a_n_e [Muž]34 [Kategorie]
+01.10.2011 00:15:00
+pex: Takže bude asi náhoda, že se na jedné z nejlepších vysokých škol v ČR
+začíná učit v programování od pascalu, že? :-) A vlastně jsem jen opakoval
+slova profesora. :-)
+ _*_W_a_r_* [Muž] [Kategorie]
+30.09.2011 23:55:27
+*War*: To přirovnání s formulí nesedí, ve své době byl i pascal produkční
+jazyk, jen je starý... nevím, proč se neučit rovnou nějaký moderní jazyk,
+který má uplatnění a například u Javy by se dalo hovořit i snadnější.
+
+To je spíš jako učit se řídit koňský povoz a učit se řídit auto...
+ pex
+30.09.2011 23:33:59
+pex: Jenže na pascalu se nejlépe naučí základy. Pochopí, jak co funguje, proč
+to funguje, atd. a začne zjišťovat, jestli ho to baví nebo ne.
+Nevím, neznám programátora, který by svoje první krůčky nedělal na pascalu.
+Copak ty ses učil řídit auto s formulí? ;-)
+ _*_W_a_r_* [Muž] [Kategorie]
+30.09.2011 23:12:09
+*War*: Máto jeden problém, že pascal je mu dneska k ničemu.
+
+Doporučuji Javu. Dají s v tom dělat desktopové aplikace, webové aplikace a dá
+se v tom programovat pro telefony s Androidem.
+ pex
+30.09.2011 23:10:03
+Nejlépe se naučíš programovat v pascalu. Pro začátek ideální. ;-)
+ _*_W_a_r_* [Muž] [Kategorie]
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+
