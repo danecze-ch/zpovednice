@@ -1,0 +1,242 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+   Otázky - Vzkazy č.424613, vloženo _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+   05.12.2009 00:34:09               _s_t_r_á_n_k_a_]
+   Windows7
+   Zdravím, píšem vám ako hrdýý majiteľ W7. Jeho inštalacia bola
+   bezproblemová, nič nič nič mi nevymazalo, a je šlape ako raketa.. A
+   nepýta ani žiadnu aktiváciu ani sa nevyhráža že sa vypne:) Vrelo
+   odporúčam..
+   P.S. Dokonca sa nevymazali ani driveri čomu sa čudujem, pretože som mal
+   predtym XP.
+    _T_o_m_P_o_t_o_k E-MAIL:_[_g_r_a_f_i_k_a_/_m_r_e_f_h_i_._g_i_f_]   [Muž] [Kategorie]  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+07.12.2009 21:54:33
+Ja mám Vistu, ale je to hrozné..XP-čko bolo oveľa lepšie...Aj bratranec mi
+doporučoval Windows 7, ale sama to neviem nainšalovať. Takže musím počkať až
+mi to príde spraviť... Ale už sa teším, všetci to chvália =)
+[Smajlík]     [Žena]20 [Kategorie]
+ _b_i_e_l_a_ _v_l_č_i_c_a
+06.12.2009 19:12:54
+Pater Hovado: :D:D
+Tak snáď to pôjde pohodlne resizeovať. :)
+[Smajlík] [Muž]96 [Kategorie]
+ _r_a_m_e_n
+06.12.2009 18:53:20
+No takže, spravil som si miesto... vymazal som asi 50 GB nepotrebných dát...
+rýchlejšie maže len pedofil pred policajnou kontrolou.
+ _P_a_t_e_r_ _H_o_v_a_d_o [Muž] [Kategorie]
+06.12.2009 18:29:09
+Ono pre XP stačí aj 20 GB (pre samotný systém aj oveľa menej), lebo inak môžeš
+dávať hry aj na pôvodné C: do Program Files, nemusí to ísť na D:. Len s tým
+treba počítať, že savegames sa väčšinou ukladajú do X:\Document and
+Settings\%USERNAME%\My Documents\, tak aby bolo pre ne dosť miesta. Na druhej
+strane neviem nakoľko si Vista právami chráni "Program Files". :-/ Tha ale
+vždy sa dá vytvoriť nejaký adresár C:\games a inštalovať ich tam. Teda myslím,
+že viac ako 30 GB miesta nie je nutné, ak si vyberieš túto stratégiu. :)
+ _r_a_m_e_n [Muž]96 [Kategorie]
+06.12.2009 18:21:10
+Pozeral som si ten disk manager a zistil som, že mám všetko v jednej partícii.
+Zjavne som to dal naspäť po tom, čo som dual boot pred pár mesiacmi odložil na
+neurčito, lebo sa mi s tým nechcelo srať. Tož idem to rozdeliť naspäť. Asi
+viem ako to urobiť, ale rád si nechám poradiť cca koľko pamäte potrebujem pre
+nový systém a pár pošahaných hier. Ďakujem.
+ _P_a_t_e_r_ _H_o_v_a_d_o [Muž] [Kategorie]
+06.12.2009 17:53:37
+Iste. Ak máš povedzme 300 GB disk a C: disku je venovaných iba rieknime 150
+GB, tak v disk managemente budeš vidieť zvyšok ako voľné miesto. Tu možno
+vytvoriť buď novú primárnu partíciu, alebo potom novú extended partíciu a v
+rámci nej nový logický disk. Či už zvolíš novú primary alebo extended+logický
+disk, po naformátovaní pribudne disk D: a ten je použiteľný pre ďalší systém.
+Ono nezáleží na tom, aká je ďalšia partícia (primary či logical). Keď si
+pozrieš boot.ini, tak tam je cesta k operačnému systému, napr.:
+
+multi(0)disk(0)rdisk(0)partiti on(1)\WINDOWS="Microso ft Windows Vista Home" /
+noexecute=optin /fastdetect
+
+takže sa presne špecifikuje cesta k Windows cez hardvérové zariadenia. Ak
+priinštaluješ ďalší systém, tak sa pridá cesta k nemu a bude vyzerať asi
+takto:
+
+multi(0)disk(0)rdisk(0)partiti on(1)\WINDOWS="Microso ft Windows Vista Home" /
+noexecute=optin /fastdetect
+multi(0)disk(0)rdisk(0)part ition(2)\WINDOWS="Micr osoft Windows XP
+Professional" /noexecute=optin /fastdetect
+
+Prosto sa tam špecifikuje partícia, kde sa systém nachádza. Ono to gro
+všetkého sa deje na disku C: - štart systému a rozhodovanie sa do ktorého
+operačného systému sa nabootuje, lebo iba prvá primárna partícia je tzv.
+"bootovateľná". Z nej sa natiahne loader (stará sa o to BIOS) - v tomto
+prípade sú to súbory C:\ntdetect.com a C:\ntldr a tie potom načítajú boot.ini
+a buď umožnia výber verzie windows, alebo ak je len jedna, tak automaticky sa
+snažia naštartovať tú.
+Snáď som nebol moc nezrozumiteľný.. :S
+[Smajlík] [Muž]96 [Kategorie]
+ _r_a_m_e_n
+06.12.2009 15:46:36
+Takže sa dá použiť Disk Manager aj na vytvorenie novej partície pre dual boot?
+ _P_a_t_e_r_ _H_o_v_a_d_o [Muž] [Kategorie]
+06.12.2009 15:29:35
+Aby sme sa vyhli nedorozumeniu, tak spresňujem, že disk management sa dá
+použiť iba na vytvorenie nových partícií (D:, E: ....), bo samozrejme o
+natiahnutí C: na celý disk nemožno ani len snívať. :) Takže ak si chcel nechať
+zabrať C:-čkom celý disk, vskutku nebolo inej možnosti než PM.
+[Smajlík] [Muž]96 [Kategorie]
+ _r_a_m_e_n
+06.12.2009 15:14:05
+Ooooh, ale ak si mal iba nealokovanú časť disku, tak na to sa dá použiť aj
+vstavaný "disk manager" vo WinXP (pravý klik na "Tento počítač", tam
+"Spravovať" a v rámci toho "Správca diskov", či ako sa to volá. Ja mám jeden
+win v angličtine a tam je to "Disk management"). :)
+PM je skôr na také hardcore presúvačky a zmenšovačky, aj keď samozrejme použiť
+sa dá aj na oživenie nepriradeného miesta. :D
+[Smajlík] [Muž]96 [Kategorie]
+ _r_a_m_e_n
+06.12.2009 14:34:01
+Ono... prvý krát som bol doslova nútený ho použiť. Z nejakého záhadného dôvodu
+som po prvom nainštalovaní windowsu(vtedy to bol ešte XP) mal do partitionu
+zaradené len niečo vyše polovice skutočnej pamäte HDD.. zvyšok bol nezaradený.
+Nasratý touto nespravodlivosťou som rýchlo stiahol Partition Magic a išlo sa.
+predsa nenechám polovicu pamäte vyjsť len tak na zmar!
+
+Tož.. Windows XP som stiahol, rozbalil.. bohužiaľ však nejde otvoriť CD
+ROMka.. nejako to poriešim, ale nie teraz.. šialene sa mi nechce.
+ _P_a_t_e_r_ _H_o_v_a_d_o [Muž] [Kategorie]
+06.12.2009 14:22:32
+Pater Hovado: Heheh, padol si do osídiel mojej vlastnej teórie, ktorú nazývam
+"Teoria ne-vedomosti". Podstatou tejto teórie je, že si myslíme, že keď my
+zvládame nejaké úkony, tak automaticky ich zvláda každý, lebo akoby disponuje
+zaiste našimi znalosťami. :D:D:D Tento fenomén ma už puzzluje nejaký ten čas.
+Napríklad, že mne sa udeje nejaká udalosť a zrazu sa prichytím, ako sa s
+niekým o nej zhováram, ako keby ju ten dotyčný prežil tiež, a mal pri nej
+aaabsolútne identické pocity, a tak úplne vedel, o čom to vlastne točím.
+Dokonca niektorí doťahujú toto do absolútnej dokonalosti, že ak sa protistrana
+tvári nechápavo, tak ju ešte i zdžubú prečo nevie o čo ide. :D:D:D
+Napríklad fyzik sa zhovára s nejakým nefyzikom a zrazu len zvola:
+- Čooooo? Ty nevieš, že E = mc^2 ???!!! Ale veď to vie každý!
+a interne si myslí, že keď to vie on, tak to predsa automaticky musí vedieť
+každý. :D
+Tak Ty tiež rovnako, si myslíš, že keď Tebe zmáknuť resizeovať partition ide
+ľavou zadnou, tak každý jeden to zvládne bez stiahnutia análnych svalov, že by
+nimi ani zastrúhaný vlas neprestrčil. :D Tha nie. Vedz, že málokto by mal/má
+dostatok odvahy ten program použiť. ;)
+Tak držím palce, aby všetko dobre dopadlo. :)
+[Smajlík] [Muž]96 [Kategorie]
+ _r_a_m_e_n
+06.12.2009 13:15:49
+ramen - nechápem, čo je na Partition Magic tak neskonale tažké. Pozreš koľko
+máš voľného miesta, čas z neho vyhradíš pre druhú partíciu a voilá.. je to
+hotové. Idem to teda skúsiť...
+ _P_a_t_e_r_ _H_o_v_a_d_o [Muž] [Kategorie]
+06.12.2009 09:30:57
+Chystam sa tiez prejst na 7. Teraz mam XP. A ono mi to akoze samo to XP
+premaže? Nemusim nič predtym robit?
+ anonym
+05.12.2009 19:42:11
+Pater Hovado: Oooooh, ako vidím, odvaha Ti teda nechýba! :)) To bežný užívateľ
+by sa Partition Magicu nedotkol ani 10 metrov vzdialenou wireless klávesnicou!
+And rightly so, lebo PM nie je práve monkeyware (môj vlastný termín a nazývam
+ním software, ku ktorému možno hoci aj opicu posadiť a ňou vykonávané náhodné
+stláčanie klávesov nespôsobí žiadnu nezvratnú katastrofu :D (hlavný
+predstaviteľ tejto kategórie: notepad)). To inštalovanie WinXP na D: je voči
+tomu iba ležérna prechádzka ružovou záhradou spojená s romantickým ovoniavaním
+okolitých kvietkov, nemaj boj. ;)
+Tož, veselo sťahuj, napáľ and installing off you go! :)
+[Smajlík] [Muž]96 [Kategorie]
+ _r_a_m_e_n
+05.12.2009 18:32:11
+ramen - hej použil som partition magic a rozdelil partitions na dve.. akurát
+som sa neodhodlal nainštalovať nový windows.. a budem ho ešte musieť stiahnúť
+a napáliť aj tak.
+ _P_a_t_e_r_ _H_o_v_a_d_o [Muž] [Kategorie]
+05.12.2009 17:49:44
+Ak máš disk D:, tak nie je problém s duálnym bootom. Prosto len pri inštalácii
+vyberieš pre XP druhú partíciu a ono sa tam v pohode nainštaluje a pridá sa do
+boot.ini na disku C: a pri štarte PC si môžeš vybrať požadovaný systém. Jediný
+pozor treba dávať, aby si nedal D: formátovať pri inštalácií, alebo pre istotu
+preniesť všetky dáta na C:, keby náááhodou sa stalo... Horšie je, ak máš iba
+disk C:, potom je to takto neriešiteľné. (Trocha kecám, lebo Partition Magicom
+by sa dalo C: zmenšiť a vytvoriť D: bez straty údajov, ale je to risky
+business, hlavne ak nemáš UPS a dôjde k výpadku prúdu počas presúvania dát na
+C:-čku. )
+Inak teraz neviem, či Might and Magic sú všetky windowsovské verzie, ale pre
+dosovské hry je bohovský Dosbox - _w_w_w_._d_o_s_b_o_x_._c_o_m_._ Pre windowsovské nefungujúce
+pod Vistou pomôže asi už fakt len ten dual boot... :-S :(((
+[Smajlík] [Muž]96 [Kategorie]
+ _r_a_m_e_n
+05.12.2009 15:12:15
+ramen - Nepíše to nič. Skrátka sa to vypne. To je všetko. A ešte ma trápi, že
+okrem Morrowindu nejdú niektoré staré RPG klasiky napr. zo série Might and
+Magic (bože, to sú spomienky...). Chcel som si urobiť double boot, ale nejako
+som to ešte nikdy nerobil a bojím sa, že sa niečo poserie a ja prídem o
+drahocenné dáta. Alebo by som si kľudne nainštaloval XP.. asi ho stiahnem a
+napálim. Ja už neviem čo mám robiť. Čo mám robiť?
+ _P_a_t_e_r_ _H_o_v_a_d_o [Muž] [Kategorie]
+05.12.2009 12:07:51
+Pater Hovado: No jo.... Morrowind versus Vista... :(((( Sme to už raz tu
+rozoberali sa mi zdá a veru, neodpustím si dobrú príležitosť riecť svoj názor
+na Vistu, ktorá je podľa môjho nezávislého posudku sťa IT technika piece of
+sh...ooot. Málokedy som agresívny, ale za Vistu by som celý jej vývojový team
+povešal za varlatá do prievanu... To ešte svet nevidel tak "zvorať" jeden
+operačný systém! Keď sa klient ozve, že má problém, tak sa jemne spýtam, či
+nemá náhodou Vistu a keď rečie hej, tak ho upokojím: "pane, to nie je chyba,
+to je vlastnosť systému!" :D (smiech cez slzy...) Mnou spravované notebooky/
+pc, aj keď prišli s Vistou, v momente boli preinštalované na staré dobré XP.
+Prosto, ja sa s neriešiteľnými chybami odmietam paprať. No ale onô... to som
+sa chcel spýtať, čo také Ti to vypisuje? Lebo sa mi zdá, že so spätnou
+kompatibilitou si pokusoval, a to sa preukázalo byť tiež neúspešné. Ak máš
+oficiálnu verziu, možno už existuje patch na Vistu, veď Morrowind je dosť
+populárny na to, aby si dali záležať, hmmm? Ja ho mám oficiálne kúpený aj s
+expansion packmi Bloodmoon a Tribunal, ale bohužiaľ tohto času požičaný (preto
+čoby z núdze cnosť hrávam občas Oblivion :P)... :((( I keď, aj keby som ho mal
+doma, na žiadnom stroji nemám inštalovanú Vistu, aby som ho mohol odskúšať...
+:-S Ale veľmi rád by som pomohol problém Vista vs. Morrowind vyriešiť. :/
+[Smajlík] [Muž]96 [Kategorie]
+ _r_a_m_e_n
+05.12.2009 10:13:11
+Ja mám Vistu.. a odvtedy s ľútosťou spomínam na XP, na ktorom som mohol hrať
+všetky tie staré herné klasiky, ktoré z nejakého záhadného dôvodu nešlapú na
+Viste. Ach bože, Morrowind, kam si mi utiekol?
+[Smajlík]     [Muž] [Kategorie]
+ _P_a_t_e_r_ _H_o_v_a_d_o
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+
