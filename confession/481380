@@ -1,0 +1,191 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+   Otázky - Vzkazy č.481380, vloženo _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+   19.10.2010 20:38:54               _s_t_r_á_n_k_a_]
+   Jak zapojit bezdrádový net?
+   Ahoj,
+   neporadil by mi nějaký síťař nebo člověk, který už zapojoval něco
+   podobného?
+   Jedná se o to, že mám klasický bezdrátový net (anténa, za ní je zapojené
+   zařízení Edimax a z něj tažený už síťový kabel normálně do síťovky v
+   PC). To všechno mám venku na sloupku, protože jinde neni výhled na AP.
+   Ještě v krabici za andénou, kde mám Edimax mám zásuvku, abych Edimax
+   mohl napájet.
+   V současné chvíli mám internet jen pro sebe, chtěl bych ho rozvést i k
+   sousedovi, takže řeším, co za zařízení pořídit místo toho současného
+   Edimaxu. Předpokládám, že nějaký router se dvěma výstupy. Prostě
+   potřebuji z krabice u antény táhnout už dvě U/FTPčka a nevím, co lupnout
+   za zařízení místo toho současného Edimaxu. Poradíte?
+    nezapojitelny [Muž]22  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+20.10.2010 18:44:23
+Charles: dobře, děkuju za radu.
+ nezapojitelny
+20.10.2010 14:31:16
+v drtivé většině případů to zimu vydrží - ono napájecí zdroje a zařízení
+trochu hřejí, takže uvnitř krabice se trochu vyhřeje. Obecně bývají pro taková
+zařízení spíše větším problémem extrémní horka...
+ _C_h_a_r_l_e_s [Muž]49 [Kategorie]
+20.10.2010 08:09:35
+Charles: dík za radu, tohle jaksi zmiňoval i známý, který s bezdrátem od té
+firmy cosi mastí v práci, ale neni moc sdílnej, taky mi říkal něco o
+klientovi. (předpokládám, že to bude, jak jsi psal, ale mám tu pár papírů, ze
+kterých by se to asi dalo vyčíst v jakém režimu pracuje v předávacím protokolu
+mám napsané, že Nastavení klienta TCP/IP a pod tím mám AP: a čísla, tak
+předpokládám, že to bude jen jako ápéčko, jak si psal - s tímhle číslem jsem
+nikdy nic nedělal, ani ho nikdy nikam nepsal, ale když jsem přeinstalovával
+PC, tak pak jsem tam zpět dával jiný čísla, co tu mám napsaný IP adresa,
+Brána, Maska...).
+
+Tak vidím, že se bez toho routru neobejdu. Ale tak snad se mi to do té krabice
+ještě vleze, kdyžtak to nějak vymyslím, ten co posíláš je za doboru cenu.
+Ještě poddotaz - vydrží zimu? :-). Protože to mám venku. I na tom edimaxu
+bylo, že je jen do nuly atd. ale normálně ho už mám venku několik let a valí
+pořád a vím, že normálně se ty zařízení ven dávají a vydrží, i když výrobce
+udává, že by to mělo být v rozsahu do té nuly.
+
+Jinak teda to bude vypadat následovně. Anténa a káblík z ní do Edimaxe zůstane
+takový, jaký je a z Edimaxe povede krátký síťový (ethernet) do routru a z něj
+už povalí dva síťové (ethernety)? Na nastavení asi stejně budu potřebovat
+nějakýho síťaře z té firmy , která mi to poskytuje, předpokládám, na nastavění
+nějakých těch čísel. Ale tak spíše se mi jedná o to, abych měl připravené to
+zapojení.
+
+Neutrino: ne obráceně - vzduch - moje anténa, káblík do edimaxe, síťovej kábl
+do síťovky v PC.
+ nezapojitelny
+19.10.2010 23:01:29
+switch by bylo nejlevnější řešení, ale je otázkou jak máš přidělované IP
+adresy, to znamená, zda onen Edimax pracuje v režimu router a překládá adresy
+(tzv. režim NAT). Spíše to ale bude jen obyčejné APčko v režimu klient - v tom
+případě bys musel místo switche přidat router, který bude dělat onen překlad
+adres. Propojíš krátkým ethernet patch kabelem s Edimaxem do WAN portu a pro
+další použití budeš mít k dispozici další 4 LAN porty, do kterých dáš kabel
+pro tebe a souseda. LAN porty nakonfiguruješ pro překlad adres NAT a
+přidělování adres přes DHCP a WAN port stejně jak máš teď na PC (IP adresa,
+maska, brána, DNS)
+Nejlevnější router třeba tenhle TP-link
+_w_w_w_._i_4_w_i_f_i_._c_z_/_?_c_l_s_=_s_t_o_i_t_e_m_&_ stiid=197
+ _C_h_a_r_l_e_s [Muž]49 [Kategorie]
+19.10.2010 22:38:56
+nezapojitelny: takže do toho Edimaxe ti jde kabel od poskytovatele, a dál už
+to jde vzduchem (WiFi)?
+ _N_e_u_t_r_i_n_o [Muž]26 [Kategorie]
+19.10.2010 22:04:41
+Charles: Je tam jeden port, to je právě to blbý, dával jsem to tam před 4 roky
+a to jsem moc nevěděl, že to budu takhle dělit, jinak bych to tam nedával. V
+ochrané krabici mám zásuvku 220, do ní je napojený trafo k Edimax (IEEE
+802.11g/b 54 Mbps).
+ nezapojitelny
+19.10.2010 21:57:32
+Takže jestli to teda dobře chápu, tak mám anténu odkud vedu káblík do
+stávajícího Edimaxu. Na tom se nic nemění. Teď povedu z Edimaxu jen krátkým
+síťovým káblíkem do switche třeba tohoto _h_t_t_p_:_/_/_z_k_r_a_c_o_v_a_t_k_o_._c_z_/_0_3_n_d_ a z něj
+bez problémů můžu táhnout dva síťový kabely do dvou domácností?
+ nezapojitelny
+19.10.2010 21:49:58
+Zjisti přesně jaký typ toho Edimaxe máš a pak ti poradím.
+Může mít klidně více ethernet portů.
+Ta zásuvka v instalační krabici je klasická na 220V?
+ _C_h_a_r_l_e_s [Muž]49 [Kategorie]
+19.10.2010 21:41:52
+Tak k tomu Edimaxu dej ten switch a je to...
+[Smajlík] [Muž]26 [Kategorie]
+ _N_e_u_t_r_i_n_o
+19.10.2010 21:28:05
+Tak teď jste mě dobře zmátly.
+
+Jen pro upřesnění potřebuju to zařízení swich + současný Edimax, nebo router,
+nebo cokoli umístit do ochrané krabice, kde teďka mám ten Edimax a zásuvku
+napájení a už z této krabice potřebuju táhnout jen dva síťový kabely do dvou
+PC. Protože oba dva domy jsou uplně na jiné straně. Je to jen na příjem
+internetu, na nic jinýho to nebude ani v budoucnu. Jen potřebuju na dva PC z
+té krabice rozdělit příjem internetu, který současně mám jen já.
+S tím jak píše topik taky potřebuju něcoudělat, aby to prostě vypadalo, že je
+zapojený jeden. Nejde ani o to, že by to poskytovateli vadilo, ale abych měl
+pořád stejné nastavení IP zařízení a aby mi to nemuseli nastavovat znova. Teda
+jestli to je možné, protože mi jeden známý říkal, že tam budu muset vyměnit
+ten Edimax za nějaký router, který mi oni znovu musí nastavit či co.
+Prostě hledám nejjednodušší řešení.
+Každopádně zatím dík za rady.
+ nezapojitelny
+19.10.2010 21:14:08
+kábl ze síťovky vyndej a strč do routru.Z routru pak připojíš klasicky běžně 4
+pc kabelem a nebo wifi.Pokud ji routr má.Routr se postará o to, aby všechny
+počítače které za něj připojíš, ten edimax ( a poskytovatel tvojeho
+připojení),považoval za jeden (ten tvůj) stávající počítač, který je oprávněný
+být připojený
+ _t_o_p_i_k [Muž] [Kategorie]
+19.10.2010 21:00:43
+Vícemeně to máš jedno ty switche dneska stojí pár korun...
+ _T_h_e_S_l_i_m_S_h_a_d_y [Muž]17 [Kategorie]
+19.10.2010 21:00:10
+nezapojitelny: pokud to bude jen na internet, tak bude stačit i ten nejlevnší
+switch (100 mb/s, na Alze snad už od 150 kč). Pokud by jste chtěli tahat i
+větší množství dat mezi počítači, tak můžeš koupit switch gigabitový (od cca.
+500 kč).
+ _N_e_u_t_r_i_n_o [Muž]26 [Kategorie]
+19.10.2010 20:57:16
+Kdyby bylo možný to nechat, jak to je, jen tam něco dopojit, tak to by bylo
+asi nejlepší řešení.
+Takže za Edimaxem by měla být kousek UTPčka a switch a z něj už to pujde
+normálně dvouma síťovými kábly?
+Popřípadě mohli byste tu hodit třeba označení nebo doporučit nějaký ten swich?
+[Smajlík]
+ nezapojitelny
+19.10.2010 20:53:40
+Krabičku nech ležet na místě kup si nějaký switch a ten kabel s počítače
+píchni do switche. Ještě chce to koupit kabely, který zapojíš do switche a ty
+potom potáhneš a ten potom píchneš k sobě do počítače a sousedovy.
+ _T_h_e_S_l_i_m_S_h_a_d_y [Muž]17 [Kategorie]
+19.10.2010 20:42:56
+Ten Edimax nech tam kde je, a na ten kabel co ti vede do PC dej switch, na
+jehož porty připojíš jak ten Edimax tak oba (případně i víc) počítače...
+[Smajlík] [Muž]26 [Kategorie]
+ _N_e_u_t_r_i_n_o
+19.10.2010 20:41:54
+Vymen svuj Edimax za jiny, ktery ma funkci "repeater". Nebo za neho pripoj
+WLAN AP, ktery z prijateho WIFI signalu vyrobi Tvoji podsit a do ni se pak
+pripojite oba.
+ _j_o_l_l_i_f_y [Muž]36 [Kategorie]
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+

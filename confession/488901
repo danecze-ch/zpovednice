@@ -1,0 +1,160 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+   Otázky - Vzkazy č.488901, vloženo _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+   25.11.2010 23:47:40               _s_t_r_á_n_k_a_]
+   Hledání min
+   Už mě to začíná srát!
+
+   Poslední dobou jsem si (znovu)oblíbil hledání min (mimochodem, protože
+   jsem úchyl, tak je hraju na Windows 3.1, které jsem si nainstaloval na
+   DosBox).
+
+   Hraju samozřejmě na experta, ale téměř každou hru nastanou aspoň 2 - 3
+   situace (většinou na kraji nebo v rozích), které nemají řešení. Tj. při
+   tom, co vidíte, může být mina v jednom ze dvou políček a vy nemáte šanci
+   zjistit ve kterém.
+
+   Grrr, tohle jsem ze sebe potřeboval dostat :). Já vím, moje problémy
+   stojí za hovno :).
+   A také jsem se slavnostně rozhodl, že konečně naprogramuji takové
+   hledání min, které neřešitelné situace detekuje. Krása! Dnes bude dlouhá
+   noc.
+
+   Příklad :
+   X = označené políčko, protože vím, že je tam mina
+   0-9 = označuje kolik min je kolem
+   * = neoznačené políčko, u kterého nevím, co tam je
+   - = okraj hrací plochy
+
+   12321
+   1XXX1
+   04*40
+   01*10
+   -- ------
+    _l_i_b_i_k E-MAIL:_[_g_r_a_f_i_k_a_/_m_r_e_f_h_i_._g_i_f_]   [Muž]22 [Kategorie]  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+26.11.2010 16:17:30
+na to nemusíš bejt v rohu... hned první pole když je všechno zakrytá nemá
+řešení a nejednou tam byla mina, to stejny druhy ... akorát to nasere min nez
+ke konci ale od zacatku vis do ceho jdes...
+
+a ne ze se pak divim... experte
+ _T_e_r_r_o_r [Muž]29 [Kategorie]
+26.11.2010 07:27:30
+Svůj příspěvek jsi vložil(a) do nespravné kategorie. Bylo provedeno přesunutí.
+V případě opakování hrozí blokování vstupu na portál. Prosím zvol příště
+správnou kategorii. Děkujeme za pochopení.
+[Smajlík]      [Muž] [Kategorie]
+ _A_d_m_i_n_i_s_t_r_á_t_o_r
+26.11.2010 01:21:27
+Si na to vem detektor min, uvidíš jak ti to pude líp
+[Smajlík] [Muž]19 [Kategorie]
+ _S_H_A_G_O_H_O_D
+26.11.2010 01:08:51
+TikTak to je shit co rikas, pokud ti zbydou JEN dve policka a jen jedna mina
+tak je to udelane tak ze at kliknes na jakekoliv z nich tak vyhrals
+ _D_i_n_o_z_o [Muž]35 [Kategorie]
+26.11.2010 01:01:07
+Zatím se to za těch 17 let co existují Win 3.1 nikomu nepodařilo vyřešit.
+Hledání min nemá pokaždé logické řešení, čas od času se dostaneš do situace že
+musíš střelit naslepo.
+Igor
+--------------
+Ano, a můj program detekuje moment, kdy musíš střelit naslepo a tu situaci
+vyřeší za tebe (tj. odkryje to správné políčko).
+
+Nebo druhá možnost - program vygeneruje hru, zkusí si ji zahrát, když dohrát
+nepůjde, tak jí zahodí a vygeneruje další... A to tak dlouho, dokud některá
+nebude zcela hratelná.
+Ještě nevím, jestli tento postup bude pro dnešní počítače spočitatelný v
+rozumném času (minutu nikdo na novou hru asi nebude chtít čekat).
+
+
+_h_t_t_p_:_/_/_w_w_w_._y_o_u_t_u_b_e_._c_o_m_/_w_a_t_c_ h?v=LHY8NKj3R Ks
+Promiň, ale tohle jsem si nemohl odpustit. :)
+--------------
+Geniální!! :D
+ _l_i_b_i_k [Muž]34 [Kategorie]
+26.11.2010 00:46:44
+Jo, tyhle situace mě taky naštvaly. Obzvlášť když jsem jela na rekordní čas a
+poslední mina, která právě byla o tom štěstí strefit se, mi vybouchla :D
+ _*_l_u_c_c_k_a_* [Žena]26 [Kategorie]
+26.11.2010 00:28:52
+A ono to má i nějaké řešení ta hra? Nemyslím konečné. Ale to jsem nevěděl. A
+to vidko si pouštím před spaním dobré
+ ant
+26.11.2010 00:14:31
+Kde jsou ty časy, kdy jsem dával experta pod 80 vteřin:-)
+Každopádně úspěšnou noc přeji a jsem zvědav na výsledek:-)
+ _A_t_r_a_t_u_s [Muž]69 [Kategorie]
+26.11.2010 00:09:13
+Hledani min na Win7 se snazej mit osefovany, aby tam ty situace nenastaly (na
+XP se mi neco takovyho stava furt), ale na Win 7 sem hral experta, docela
+dlouho a poprve sem mel vitezstvi na dosah a zbyvaly mi posledni 2 policka.
+Dve policka k vitezstvi. Jenze ani jedno neslo urcit. Mel sem sanci 50na50.
+A... netrefil sem se :D. Jsem myslel, ze se poseru.
+ _T_i_k_T_a_k [Muž]24 [Kategorie]
+26.11.2010 00:04:27
+Zatím se to za těch 17 let co existují Win 3.1 nikomu nepodařilo vyřešit.
+Hledání min nemá pokaždé logické řešení, čas od času se dostaneš do situace že
+musíš střelit naslepo.
+ Igor
+25.11.2010 23:57:40
+To mi nikdy nešlo...
+[Smajlík]         [Žena]99 [Kategorie]
+ _T_e_o_r_i_e_R_e_l_a_t_i_v_i_t_y
+25.11.2010 23:55:38
+_h_t_t_p_:_/_/_w_w_w_._y_o_u_t_u_b_e_._c_o_m_/_w_a_t_c_h_?_v_=_L_H_Y_8_N_K_j_3_R_ Ks
+Promiň, ale tohle jsem si nemohl odpustit. :)
+ _s_o_u_k_m_e_n_o_v_e_c [Muž]29 [Kategorie]
+25.11.2010 23:51:48
+Tys byl vždycky "jinej" libiku :)
+ _#_#_#_#_# [Muž]21 [Kategorie]
+25.11.2010 23:50:29
+Hezký no, ale na hledání min je fičura, která ti zajistí věčný vítězství,
+stačí editovat jeden konfigurační soubor, nebo prostě zadat nějakou blbinu, už
+si to nepamatuju.
+
+Ale jestli ses chtěl pochlubit, fajn... seš dobrej. :)
+ _D_r_s_n_e_j_D_r_s_o_ň [Muž] [Kategorie]
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+

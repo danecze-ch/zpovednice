@@ -1,0 +1,145 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+   Otázky - Vzkazy č.483037, vloženo _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+   28.10.2010 23:58:58               _s_t_r_á_n_k_a_]
+   Titulky do filmu - nastálo...
+   jak je tam vložit? Myslim, aby to tam zůstalo i po vypálení. Mám pár avi
+   souborů, myslíte, že by to šlo, kdybych ty titulky pojmenovala stejně
+   jako film a vypálila je jako data? Jako že bych na dývko dala avi
+   soubory + srt soubory se stejnými názvy jako filmy. Myslíte že to jde?
+   Nechce se mi obětovat dývko jen tak ;-( Nebo nevíte o nějakym free
+   programu či způsobu, jak je tam prostě nastálo vložit rovnou v PC? Jo a
+   jako přehrávač mám Media Player Classic Homecinema... Budu ráda za vaše
+   rady. Pp a příjemnou noc přeju...
+    Animalia [Žena]17  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+29.10.2010 06:05:26
+Tak jsem náhodou našla návod na netu. Hledala jsem,
+hledala, nakonec našla. Trvalo to sice dlouho - to hledání
+i ty titulky (titulky trvaly asi jako celý film). Hodím vám ho
+sem, kdyby někdo měl podobný problém jako já. Navíc se
+myslím v PSPadu dají vytvořit vlastní titulky, když si to dobře
+napíšete a připojíte koncovku - někde jsem to četla, ale v tý
+hromadě stránek v historii už nevím kde. Jo a nedělá to ty
+černý pruhy. Jsou tam titulky ve filmu a je to na stálo. Takže
+tady je ten návod:
+-------------------------------- ----------------------------------
+---- ---------------------------------------- ----------------------
+Fakt to funguje! Autorem je Petr Malík:
+
+„Převod avi videa a srt či sub titulků do jediného avi souboru
+Na naléhání svého synovce jsem si udělal čas a našel jednoduchý způsob
+jak z dvojice souborů video (avi) a titulky (srt, sub) vytvořit jediný soubor
+avi,
+který bude titulky obsahovat na pevno v obraze. Vytvořil jsem pro
+něj polopatistický návod, a protože přesně takový jsem před chvílí hledal a
+nenašel, blognu ho, aby mohl posloužit i ostatním.“
+1. Soubor s titulky (srt, sub) musí být ve znakovém kódování
+ISO-8859-2. Toho lze dosáhnout např. prostřednictvím textového editoru PSPad.
+Po instalaci programu stačí otevřít v něm soubor s titulky, v menu "Formát"
+vybrat zaškrtnout "ISO 8859-2" a uložit. Soubor tak bude překódován.
+
+2. Stáhnout a rozbalit Avidemux. Uvedená verze je pro Windows, ale na
+stránkách Avidemux jsou k dispozici i verze pro Linux či MacOS.
+
+3. Pustit prostřednictvím avidemux2.exe. Program je částečně přeložen do
+češtiny, takže následující body používají částečně anglické a částečné
+české pojmy.
+
+4. Stisknout Open a vybrat zdrojový avi soubor. Může se objevit okno s
+otázkou, zda sestavit časovou mapu. Odpověď zní ano, trvá to jen pár sekund.
+
+5. V roletce "Video" vybrat "Xvid4".
+
+6. V roletce "Audio" ponechat "Kopie".
+
+7. V roletce "Formát" ponechat "AVI".
+
+8. V sekci "Video" zmáčknout tlačítko "Filtry".
+
+9. V levém menu zmáčknout "Titulky".
+
+10. V prostředním sloupci se objeví seznam, ve kterém dvojklikneme
+na "Subtitler".
+
+11. Objeví se obrazovka pro nastavení finální podoby titulků ve videu.
+Zde vybereme soubor s titulky v kódování ISO 8859-2 (viz bod 1), dále
+font pro zobrazení titulků (např. "C:WINDOWSFontsarial.ttf";), kódování
+"Latin2 - Střední Evropa...prostě nějaký co odpovídaj Czech =)", velikost
+písma 24 např., barva "#FFFFFF" (tj. bílá), zaškrtnout
+Automatické rozdělování, "OK".
+
+12. "Close".
+
+13. Pro náhled jak bude výsledný obraz i s titulky vypadat stačí stisknout
+ikonu "Náhled filtrovaného obrazu v novém okně" (je to ikona mapy v
+horní liště vedle Kalkulátoru). Otevře se nové okno. V původním okně
+stiskněte ikonu Přehrát vlevo dol
+[Smajlík]
+ Animalia
+29.10.2010 01:05:06
+dělala jsem to v programu AVI ReComp.
+Šlo to rychle a dobře.
+ _x_b_o_r_k_a [Žena]49 [Kategorie]
+29.10.2010 00:15:28
+soukmenovec: No právě proto bych to tam chtěla nastálo vložit, aby mi to
+fakčilo všude. Nejlepší by bylo, kdyby to šlo už rovnou v PC a pak bych to
+vypálila jako hotovej avi soubor (tam už by ty titulky byly).
+ Animalia
+29.10.2010 00:10:14
+Svůj příspěvek jsi vložil(a) do nespravné kategorie. Bylo provedeno přesunutí.
+V případě opakování hrozí blokování vstupu na portál. Prosím zvol příště
+správnou kategorii. Děkujeme za pochopení.
+[Smajlík]      [Muž] [Kategorie]
+ _A_d_m_i_n_i_s_t_r_á_t_o_r
+29.10.2010 00:00:54
+Ohledně stejných názvů záleží na tom, v čem to pak hodláš přehrávat. Někde to
+půjde, někde ne.
+
+Vypalovat titulky do obrazu umí myslím VirtualDub.
+ _s_o_u_k_m_e_n_o_v_e_c [Muž]29 [Kategorie]
+29.10.2010 00:00:08
+Pardon, jsem si nevšimla, že jsem to vložila omylem do zpovědí ;-(
+[Smajlík]
+ Animalia
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+

@@ -1,0 +1,197 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+   Otázky - Vzkazy č.489199, vloženo _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+   27.11.2010 19:19:37               _s_t_r_á_n_k_a_]
+   HLEDÁNÍ MIN Advanced!
+   Tak je to tu.
+   Nedalo mi to, sedl jsem k tomu a je to tady.
+
+   Hledání min, u kterých neexistuje neřešitelná situace. Pokud se
+   dostanete do situace, kdy již neexistuje v dané konstelaci žádné
+   políčko, kam by bylo možné kliknout, program sám odkliká tolik políček,
+   dokud se nenajde konstelace, která řešení má.
+
+   Když nebudete vědět jak dál, můžete dole kliknout na "Help", které vám
+   ukáže, kde určitě jsou a kde určitě nejsou miny (podotýkám, že
+   algoritmus, který toto zjišťuje, nemá k dispozici více informací než vy,
+   tj. nemá k dispozici skutečné rozmístění min).
+   Ovšem každé použití Help vám zvýší konečné score o 20%, takže používejte
+   s rozumem.
+
+   Další vylepšení je fakt, že pokud někde označíte minu, bere se to jako
+   směrodatné a odkryjí se všechny políčka, které jsou na tuto minu
+   napojené a pro které při označení této miny znamená, že kolem již více
+   min být nemůže (jedná se o takovou vylepšenou funkci, která se používá
+   stiskem levého+pravého tlačítka najednou).
+   Příklad : máte někde číslo 1, tzn. že kolem je 1 mina. Pokud kolem této
+   jedničky označíte minu, logicky už jinde být nemůže. Čili se odkryjí
+   všechny ostatní, dosud neodkryté prvky kolem té dané jedničky, kromě té,
+   kde je označena mina.
+   (samozřejmě si musíte na označování min dávat stejný pozor jako na
+   klikání levým tlačítkem).
+
+   Stahujte, hrajte, bavte se :).
+
+   http://dracakmaker.unas.cz/mines. rar
+   (mezery umažte)
+
+   PS : Potřebujete mít na počítači javu.
+    _l_i_b_i_k E-MAIL:_[_g_r_a_f_i_k_a_/_m_r_e_f_h_i_._g_i_f_]   [Muž]22 [Kategorie]  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+29.11.2010 02:31:50
+- dlouho to startuje bez jakýkoliv známky aktivity (alespoň hoď okno Loading
+nebo něco)
+----
+To se obávám, že jde o startování Java Machine, čili to neurychlím a ani tam
+žádný loading dát nemůžu.
+
+- Po prohraný hře nechce nikdo vidět High score tabulku, měla by se objevovat
+jen při úspěšnym dohrání
+------------
+S tímhle bodem nesouhlasím, já myslím, že by se měla ukazovat vždycky :).
+
+- v high score tabulce je dole místo zavřít/close "CloseAboutBox"
+----
+Opraven o
+
+- high score tabulka se nezvětšuje a nezmenšuje podle množství dat
+----
+To se mi zdá, že něčemu vadí. Ale udělal jsem to trochu hezčí a omezil jsem
+počet zobrazovaných výsledků na 10.
+
+- vpravo dole..počítadlo bomb má za sebou "O" místo obrázku bomby
+-------
+Tohle je problém :). Ať už je to "O" cokoli, tak vůbec nevím, kde se tam bere,
+proč tam je a jak ho smazat :).
+
+- pořád je potřeba zvětšovat a zmenšovat okno pro ideální velikost pole
+-----
+Tak podle mě je ideální hrát všechno na maximalize. Chtěl jsem zkusit
+maximalizovat tu hru po začátku, ale nějak se tomu nechce.
+Jinak ta filosofie je spíš o tom, že se políčka přizpůsobují oknu.
+
+- po několikanásobnym klikání na HELP se zvyšuje násobek času ale nic víc než
+první radu za to nezískám (ideálně by měly prozrazený políčka zůstat napořád
+prozrazený a druhé kliknutí na HELP v jednom tahu už by nemělo násobit čas)
+--------
+Já původně chtěl zobrazit jenom jedno volné políčko, takže že se jich občas
+zobrazí daleko víc musí brát hráč jako velký bonus :). (takže mu je prozrazený
+nenechám).
+Ohledně vícenásobného kliknutí - opraveno.
+ _l_i_b_i_k [Muž]34 [Kategorie]
+29.11.2010 01:52:21
+Hmmm, tak teď už to vypadá hoodně luxusně:-)
+[Smajlík] [Muž]69 [Kategorie]
+ _A_t_r_a_t_u_s
+28.11.2010 22:45:31
+Tak staženo
+..ještě si dovolím pár maličkostí..
+- dlouho to startuje bez jakýkoliv známky aktivity (alespoň hoď okno Loading
+nebo něco)
+- Po prohraný hře nechce nikdo vidět High score tabulku, měla by se objevovat
+jen při úspěšnym dohrání
+- v high score tabulce je dole místo zavřít/close "CloseAboutBox"
+- high score tabulka se nezvětšuje a nezmenšuje podle množství dat
+- vpravo dole..počítadlo bomb má za sebou "O" místo obrázku bomby
+- pořád je potřeba zvětšovat a zmenšovat okno pro ideální velikost pole
+- po několikanásobnym klikání na HELP se zvyšuje násobek času ale nic víc než
+první radu za to nezískám (ideálně by měly prozrazený políčka zůstat napořád
+prozrazený a druhé kliknutí na HELP v jednom tahu už by nemělo násobit čas)
+
+..tak to je snad všechno :)
+Doufám že to nebereš tak že prudím, snažím se jen pomoct protože vím jak je
+zpětná vazba důležitá.. :)
+[Smajlík]  [Muž]35 [Kategorie]
+ _B_o_m_b_e_r_M_A_N
+28.11.2010 16:40:42
+Je to hodně nepřehledný... odkrytý pole bez čísla je strašně podobný
+neodkrytýmu poli
+Bomba jako -1 je taky docela ošklivá.. mohl jsi jí raději udělat jako třeba
+červené malé "o"
+Jinak je to celkem sranda :)
+BomberMAN
+-----------
+Teď jsem zjistil, že se vzhled měnil na různých počítačích. A v té standardní
+Vista a W7 konfiguraci to vypadalo vážně hrozně :).
+
+Čili už je to opraveno, stačí stáhnout znova, jestli někdo chcete.
+ _l_i_b_i_k [Muž]34 [Kategorie]
+27.11.2010 19:50:45
+Jeden bug opraven - kdo si stáhl hru před tímto příspěvek, učiňte tak znovu,
+neboť používání Help nezvyšovalo čas.
+
+BomberMAN : Jo, na to jsem zapomněl. Zkusím u odkrytého pole ještě více změnit
+barvu, ale co si pamatuji tak neodkryté bylo vždy tomu odkrytému docela
+podobné.
+
+Skóre = čas, čili čím menší skóre(resp. čas) tím lépe.
+
+PS : Příště se můžete těšit na multiplayer :)
+ _l_i_b_i_k [Muž]34 [Kategorie]
+27.11.2010 19:40:49
+Hlásím bug. Okno se nepřizpůsobí velikosti minového pole, takže si ho při
+úrovni expeert musím maximalizovat, jinak jsou čísla nečitelná.
+ _S_m_ě_j_í_c_í_ _s_e_ _J_a_c_k [Muž]33 [Kategorie]
+27.11.2010 19:40:18
+Ovšem každé použití Help vám zvýší konečné score o 20%, takže používejte s
+rozumem.
+
+Sniží ne ?
+[Smajlík]
+ ghdgfdg
+27.11.2010 19:40:14
+Je to hodně nepřehledný... odkrytý pole bez čísla je strašně podobný
+neodkrytýmu poli
+Bomba jako -1 je taky docela ošklivá.. mohl jsi jí raději udělat jako třeba
+červené malé "o"
+Jinak je to celkem sranda :)
+ _B_o_m_b_e_r_M_A_N [Muž]35 [Kategorie]
+27.11.2010 19:36:23
+A jo, to bude vlastně to odklikávání neřešitelných situací, sry:-)
+ _A_t_r_a_t_u_s [Muž]69 [Kategorie]
+27.11.2010 19:34:04
+Dobrý!
+Ale občas se toho odkrývá trochu víc, než by mělo.
+[Smajlík] [Muž]69 [Kategorie]
+ _A_t_r_a_t_u_s
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+

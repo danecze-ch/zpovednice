@@ -1,0 +1,124 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+Zpověď č.487866, vloženo 21.11.2010 13: _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+54:04                                   _s_t_r_á_n_k_a_]
+poc.site
+Jaka bude MAC adresa ARP dotazu? 00:00:00:00:00
+3* 255.????
+---------------------
+napsat cilouvou IP a MAC adresu echo reply mezi 2 pc
+(slo to pres router, slo o to vedet ze na nem se MAC asresa meni)
+vubec nevim podle ceho, snad mac se prideluje automaticky ne?
+----------------------------------- -------------
+ _l_i_d_i_j_s_o_u_s_v_i_n_e [Muž]22 [Kategorie]  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+21.11.2010 18:08:30
+ICQ nemám.
+ qui
+21.11.2010 17:34:12
+jo diky, jinak mas icq? jeste bych se kdyz tak na neco zeptal
+ ldi
+21.11.2010 16:00:11
+Router provádí routování IP adres, switch směrování MAC adres (přes router ti
+MAC adresy na linkové neprolezou). IP adresa je zapouzdřena V MAC vrstvě (ISO/
+OSI model).
+Router zpravidla má dvě a více rozhraní (ethernetových zástrček/wifi karet),
+každé rozhraní má mac adresu (zpravidla od výrobce) a IP adresy (ty tam
+nastaví uživatel zařízení). Aby ti fungovalo routování musíš mít mezi routery/
+počítači nastavenou stejnou síť IP adresu a masku a routy (V nejjednodušším
+případech výchozí bránu).
+
+Jednoduchý příklad:
+
+PC1------------------------- --router----------------------PC2
+10.0. 0.5/24------10.0.0.1/24 172.24.0.50/24---172.24.0.1/24
+
+Na PC1 výchozí brána je 10.0.0.1.
+Na gw je výchozí brána 172.24.0.50.
+
+PC1 chce komunikovat s PC2 pomocí ICMP, ale nezná mac adresu routeru. (např.:
+ping 172.24.0.1)
+Pomocí ARP se zeptá na MAC routeru, zjistí ji a odešle paket na MAC routeru.
+Router provede routování s paketem: Paket směruje do stejného IP rozsahu jako
+rozhraní jako mám-> pomocí ARP zjistí MAC adresy a odešle je na požadovanou
+MAC adresu.
+PC2 získal ICMP paket.
+
+Na co to potřebuješ vědět? Je to pochopitelný?
+ qui
+21.11.2010 15:26:42
+qui diky ,uz to nejak chapu, ale co s temi routerz napr.?tam se musi nastavit
+jine mac adresny na tom rozhrani?
+ _l_i_d_i_j_s_o_u_s_v_i_n_e [Muž]22 [Kategorie]
+21.11.2010 14:48:28
+Čau. Mac adresa se nepřiděluje automaticky, každé síťové rozhraní má mac
+adresu přidělenou od výrobce. Address resolution protocol (ARP) slouží k
+zjištění okolních mac adres aby počítače fungovali.
+
+Počítač má nastavenou IP adresu a mac adresu na rozhraní, ale nezná MAC adresy
+okolních počítačů kam posílat pakety. ARP protokol dělá to, že se zeptá "Která
+mac adresa je na této IP adrese", vysílá to jako broadcast (mac ff:ff:ff:ff:
+ff:ff, zdrojová IP adresa bude samozřejmě IP rozhraní), pak myslím už
+komunikují jako unicast na MAC vrstvě. Po získání této informace se to zapíše
+do Arp cache.
+
+Sniffování je dobrý Wireshark a studium síťových protokolů je dobrý Wireshark.
+ qui
+21.11.2010 14:45:40
+nějak enchápu...
+
+nedostane tímto všechny MAC adresy v síti?
+ poi
+21.11.2010 13:58:33
+vubec nevim taky prave, je tam jeste plan site-ale ten nemam,ale asi to tak
+bude no
+ _l_i_d_i_j_s_o_u_s_v_i_n_e [Muž]22 [Kategorie]
+21.11.2010 13:58:27
+Mac je daná, jinak něják nechápu tvůj dotaz.
+ _T_h_e_S_l_i_m_S_h_a_d_y [Muž]17 [Kategorie]
+21.11.2010 13:56:55
+MAC adresu má každé zařízení napevno danou, maximálně si mlžeš naklonovat
+svoji. Ale vůbec nechápu tvůj dotaz. Router má nastavenou pevnou IP a dál už
+máš na všech PC nastavené automatické DHCP, ne?
+ cožecože
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+

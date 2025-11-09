@@ -1,0 +1,135 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+   Otázky - Vzkazy č.490535, vloženo _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+   03.12.2010 17:56:04               _s_t_r_á_n_k_a_]
+   PC
+   Potrebujeme s priateľom pomoc. On si totiž menil heslo na svojom
+   počítači a on bol pri tom namol (2,1 promile) a on si na to heslo nevie
+   spomenúť. Požiadal ma o pomoc a viem, že tu sú ľudia od ktorý sú ochotný
+   pomôcť. Neviete, ako si na počítači reštartovať heslo ? Ja som počul
+   ževraj sa to dá pomocou diskety ale ja som s počítačmi motovidlo a ani
+   neviem ako taká disketa akú priateľ myslel vizerá. Ak viete, prosím
+   pomôžte a napíšte mi postup. Ďakujem :)
+    Ondrej [Muž]21  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+09.12.2010 13:23:09
+anonym: Možno má potvrdenie z nemocnice, kde mu v tom žalostnom stave robili
+výplach žalúdka... ;oP
+
+Ondrej: Toto je trocha vyšší level opravy, tak myslím, že by ste to mali
+radšej zveriť nejakému servisu. Hlavne, ak si sa tu takto sebakriticky nazval
+počítačovým motovidlom. :-S
+Totiž nástroj, ktorý Ti tu niekto dá, môže byť trocha nebezpečný a urobiť
+väčšiu škodu než úžitok. Prosto, ako ísť atomofkou na zajace...
+
+Aby si nepovedal, že tu nikto nič k veci nenapíše, tak ja napíšem. :))
+Osobne používam na takéto servisné zásahy DigiWiz miniPE boot CD. Je to
+Windows XP, čo sa spustí priamo z CDčka a obsahuje veľa rôznych nástrojov, z
+ktorých plesá srdco PC technika. :D Má v sebe skoro všetko potrebné na opravy,
+dokonca aj "Password Renew 1.1 beta", čo znie sťa utilita na Tvoje trable
+priam ušitá. Len neviem aký systém máš Ty a či tento program funguje na Vistu
+alebo Win7... Na XP by mal.
+
+Takže postup by bol:
+1. nájsť na nete DigiWiz miniPE boot CD, keďže to nie je úplne že legálny
+produkt, tak asi najskôr na rapidshare
+2. napáliť stiahnuté ISO na CD médium
+3. naštartovať PC nabootovaním z CD mechaniky, aby sa natiahlo miniPE
+4. spustiť utilitu Password Renew a resetnúť heslo admina.
+
+Znie to vcelku zvládnuteľne, ale sú rôzne úskalia.. miniPE nemusí rozpoznať
+nový hardvér a ak máš diskový radič v režime SATA native, tak neuvidí pevný
+disk. Raz som mal podobný problém a musel som v BIOSe prepnúť radič do režimu
+IDE. Poprípade, keďže je ten Password Renew verzie beta = testovacia, môže
+dorantať registre Windowsu a ten už nenabehne a bude stále padať do modrej
+obrazovky. To by potom potrebovalo vrátiť Bod Obnovy (restore point), a to je
+nadlho.
+Preto som aj ako prvé spomenul, že by si sa mal obrátiť na dajaký autorizovaný
+servis alebo niekoho, čo aj bude vedieť čo robí. S návodmi z netu je bohužiaľ
+ten problém, že nepoznáme presný hardvér/systém stroja a môžu sa vyskytnúť
+problémy, ktoré načim riešiť za behu a navyše tieto môžu spôsobiť nefunkčnosť
+PC... :-S
+
+V každom prípade, držím palce, aby sa podarilo problém vyriešiť a priateľovi
+odkazujem, nech toľko nechlasce... ;oD
+[Smajlík] [Muž]96 [Kategorie]
+ _r_a_m_e_n
+04.12.2010 02:11:21
+To máte v tom počítači napojený aj nejaký USB alkohol tester?
+ anonym
+03.12.2010 21:00:59
+Svoj prispevok si vlozil do nespravnej kategorie, do kategorie spovede pis len
+vtedy ak potrebujes najst njaku www stranku (napr. s filmami) alebo ked mas
+depku a nesuvisi to s nicim konktretnym.
+ _V_e_c_t_r_e_x [Muž]28 [Kategorie]
+03.12.2010 19:51:15
+Ak niekto viete ako na to prosím napíšte
+[Smajlík]
+ Ondrej
+03.12.2010 18:41:32
+Píše sa tam ževraj sa to dá resetovať pomocou vloženia nejakého disku a na
+neho sa okopíruje heslo len by som potreboval stručný návod ale na googli som
+ho nenašiel
+ Ondrej
+03.12.2010 18:12:05
+Je tam len jeho hlavný účet (tým aj administratívny)
+[Smajlík]
+ Ondrej
+03.12.2010 18:06:48
+Ondrej: a není tam ještě další účet s admin. právy?
+ _N_e_u_t_r_i_n_o [Muž]26 [Kategorie]
+03.12.2010 18:05:19
+Problém je že to heslo je na účte administrátora
+[Smajlík]
+ Ondrej
+03.12.2010 17:57:59
+Pokud je v tom PC ještě účet Admina, tak se přihlaš na něj a z něj to heslo u
+druhéhu účtu můžeš zrušit...
+ _N_e_u_t_r_i_n_o [Muž]26 [Kategorie]
+03.12.2010 17:56:37
+Svůj příspěvek jsi vložil(a) do nespravné kategorie. Bylo provedeno přesunutí.
+V případě opakování hrozí blokování vstupu na portál. Prosím zvol příště
+správnou kategorii. Děkujeme za pochopení.
+[Smajlík]      [Muž] [Kategorie]
+ _A_d_m_i_n_i_s_t_r_á_t_o_r
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+

@@ -1,0 +1,334 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+   Otázky - Vzkazy č.487263, vloženo _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+   18.11.2010 13:15:21               _s_t_r_á_n_k_a_]
+   170. starých her v jednom
+   Zkompletoval jsem kupu starých her a uploadoval je na rapidshare.
+   Hry jsou zprovozněné přímo přes bat soubory, které spouští a nastavují
+   dosbox, čili vám stačí pouze jednou zmáčknou enter a můžete si zahrát co
+   budete chtít :).
+   Všechny hry se pouští ve Fullscreen a jsou otestované jestli fungují.
+
+   Vše běží bez problémů na 2000, Vistách či Windows 7. Na XPčkách a Win 98
+   jsem jisté problémy zaznamenal.
+
+
+   ***********************
+   DŮLEŽITÉ UPOZORNĚNÍ: ve složce "config" je soubor "setting.conf". Uvnitř
+   něj, téměř na začátku jsou tyto řádky :
+   fullresolution=1280x800
+   windowresolu tion=800x600
+
+   Rozlišení fullresolution si změňte tak, aby to váš počítač podporoval
+   (můžete tam hodit třeba 1024x768, to běží na všem).
+   S Windowresolution si můžete hrát jak chcete.
+
+   ***********************
+
+   Po kud by vám i přesto nešly hry spustit, pohrajte si s řádkem :
+   output=opengl
+   Vyzkoušejte místo toho "opengl" některou z těchto možností : "surface,
+   overlay, opengl, openglnb, ddraw" a měli byste si najít tu, při které
+   vám to poběží bez problémů.
+
+   ***********************
+
+   Seznam her:
+   4D Tennis
+   Abuse
+   Agent Mlicnak (1995)
+   Alien breed
+   Alien Legacy
+   Alien Trilogy
+   Alley Cat - kocka (1983)
+   Alone in the dark (1992)
+   Another World
+   Arctic Adventure (1991)
+   Arctic Adventure 2 (1991)
+   Arctic Adventure 3 (1991)
+   Arctic Adventure 4 (1991)
+   Arkanoid (1986)
+   Arkanoid 2 Revenge of Doh (1987)
+   Atomix (1990)
+   Battle Chess
+   Bio Menace Episode 1 (1993)
+   Bio Menace Episode 2 (1993)
+   Bio Menace Episode 3 (1993)
+   Blood (1997)
+   Cadaver (1990)
+   Caesar1 (1992)
+   Castle Wolfenstein (1981-84)
+   Cervii
+   Civilization
+   Coloniz ation (1994)
+   Command and Conquer (1995)
+   Commander Keen - Keen Dreams (1991)
+   Commander Keen 1 (1990)
+   Commander Keen 2 (1990) - Commercial
+   Commander Keen 3 (1990) - Commercial
+   Commander Keen 4 (1991)
+   Commander Keen 5 (1991) - Commercial
+   Commander Keen 6 (1991) - Commercial
+   Cosmos Cosmic Adventures 1 - Commercial
+   Cosmos Cosmic Adventures 2 - Commercial
+   Cosmos Cosmic Adventures 3 - Commercial
+   Crystal Caves - Volume 1
+   Crystal Caves - Volume 2 - Commercial
+   Crystal Caves - Volume 3 - Commercial
+   Dangerous Dave 2 - In the Haunted Mansion (1991)
+   Destruction Derby (1995)
+   Diktator-fast
+   Diktator
+   Dizzy 03
+   Dizzy 04
+   Dizzy 06 - Nejlepsi
+   Dizzy 08
+   Dizzy 10
+   Dizzy 11
+   Dizzy Fantastic
+   Doom 1 - Commercial (1993)
+   Doom 2 - Commercial (1994)
+   Doom Perverse (1994)
+   dosbox-dyna
+   dosbox-haunted
+   dos box
+   Ducktales-Kaźeýi (1990)
+   Duke Nukem 1 Episode 1 (1991) - Commercial
+   Duke Nukem 1 Episode 2 (1991) - Commercial
+   Duke Nukem 1 Episode 3 (1991) - Commercial
+   Duke Nukem 2 (1993)
+   Duke Nukem 3D (1996)
+   Dune1 (1992)
+   Dune1 CD VERSION (1992)
+   Dune2 (1992)
+   Dungeon Master 1 (1987)
+   Dungeon Master 2 (1995)
+   Dyna Blaster (1992)
+   Elite Plus
+   Elvira (1990)
+   Ganja Farmer (1998)
+   Gobliiins 1 (1991)
+   Gobliiins 2 (1992)
+   Gobliiins 3 (1993)
+   Gods (1991)
+   Golden Axe
+   Grand Prix Circuit
+   H20
+   Heretic (1994)
+   Heroes of Might and Magic (1995)
+   Hexen
+   Hexxagon
+   HomeAlone - s m doma
+   Incredible Machine
+   Indiana Jones and the Temple of doom (1985-89)
+   Jagged Alliance (1994)
+   Jagged Alliance - Deadly Games (1995)
+   Jazz Jackrabbit
+   Jet Set Willy (1998)
+   Jill Goes Underground 2
+   Jill Of The Jungle 1
+   Jill Saves the Prince
+   Jurrasic Park
+   Karkulka
+   Kings Bounty (1990)
+   Kings Quest1
+   Laser Light
+   Legend of Kyrandia (1992) CZ
+   Legend of Kyrandia (1992)
+   Legend of Kyrandia 2 - Hand of Fate (1993)
+   Lemmings-Xmas (1991)
+   Liero
+   Lion King
+   Lost vikings
+   Lotus3
+   Mario
+   Math blaster plus
+   Math Rescue - Shareware
+   Might And Magic 1
+   Might And Magic 2
+   Mixed Up Mother Goose - deti
+   Mortal Kombat 2
+   Mortal Kombat
+   Murder Death Kill (1997)
+   Mystic Towers Shareware
+   pacman
+   perestroika - gorbik + notebook
+   perestroika - gorbik
+   Pipe
+   Playboy FULL
+   Playboy Pracovnˇ Verze v1
+   Prehistorik 1
+   Prehistorik 2
+   Prince 2
+   Prince
+   Prophecy 1 - The Viking Child - viki - notebook
+   Prophecy 1 - The Viking Child - viki
+   Pushover (1992)
+   Quake
+   Raptor - Commercial
+   Scorched Earth
+   Secret Agent - Commercial
+   Secret of monkey island (1990)
+   Settlers 2 Gold
+   Simcity
+   Simon the Sorcerer 1 (1993)
+   Simon the Sorcerer 2 (1995)
+   Sokoban (1984)
+   Space Invaders - UFO
+   Spear of Destiny - Wolf 3D
+   Stunts
+   Summer Challenge - letnˇ olympijsk‚ hry
+   Supaplex
+   Superfrog
+   Syndicate (1993)
+   System Shock (1994)
+   Terminator Future Shock
+   Terminator Skynet (1996)
+   Tetris (1986)
+   The Simpsons
+   Theme Hospital
+   Theme Park (1994)
+   TomAndJerry-notebook
+   TomAndJerr y
+   Tyrian (1995)
+   UFO enemy unknown
+   UGH
+   Ultima VIII - Pagan (1994)
+   Vlak
+   Wacky Wheels (1994)
+   Warcraft 2
+   Warcraft
+   Warlords 2
+   Winter
+   Wolfenstein 3D - Commercial
+   Worms Plus
+   worms
+   XCOM - Terror from the Deep - Commercial
+   Xenon 2 (1989)
+
+   http://rapidshare.com/files/43 1507323/DOSBox-0.74.part1.rar
+   http://ra pidshare.com/files/431506920/DOSBox-0.74 .part2.rar
+   (mezery v odkazu omažte)
+    _l_i_b_i_k E-MAIL:_[_g_r_a_f_i_k_a_/_m_r_e_f_h_i_._g_i_f_]   [Muž]21 [Kategorie]  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+18.11.2010 19:55:42
+GoldenStar : _h_t_t_p_:_/_/_d_r_a_c_a_k_m_a_k_e_r_._u_n_a_s_._c_z_/_a_r_c_h_o_n_._r_a_r_ (taky - přikopírovat do
+hlavní složky toho, co je v samotném vzkazu tohoto článku)
+ _l_i_b_i_k [Muž]34 [Kategorie]
+18.11.2010 19:50:39
+Veldrane : _h_t_t_p_:_/_/_r_a_p_i_d_s_h_a_r_e_._c_o_m_/_f_i_l_e_s_/_4_3_1_6_7_0_0_1_8_/_p_a_ rher.rar - stačí
+přikopírovat k tomu, co jsem tady již dal na stáhnutí.
+
+Akorát Fragile_Allegiance má samotná přes 400MB (jenom instalačka), takže to
+tam bohužel není (ale už to stahuji :) ).
+ _l_i_b_i_k [Muž]34 [Kategorie]
+18.11.2010 19:31:10
+libik asi nepochopil co po nem chces, jo ma tam navic tecku pise jak negr tak
+se poser
+tak jak tak vyhrava deset internetu za ten upload
+ _D_i_n_o_z_o [Muž]35 [Kategorie]
+18.11.2010 17:24:35
+libik
+
+Dotaz do diskuze:
+
+"170. starých her v jednom" je přehlednější než "170 starých her v jednom"?
+Hmmm.
+ aaaaaaaaaaaaaaaaaa
+18.11.2010 17:23:25
+libik
+
+Je to nesmysl. A i průměrnej blb svoji neznalost a neschopnost omlouvá lépe.
+
+_h_t_t_p_:_/_/_c_s_._w_i_k_i_p_e_d_i_a_._o_r_g_/_w_i_k_i_/_%_C_ 5%98adov%C3%A1_%C4%8D%C3%ADslovka
+ aaaaaaaaaaaaaaaaaa
+18.11.2010 17:18:34
+Jak může člověk co je inteligentnější než 99% z nás napsat "Stosedmdesátých
+starých her v jednom"?
+Řadové číslovky zvládá i průměrnej blb.
+aaaaaaaaaaaaaaaaaa
+-------------------- -
+Protože je to přehlednější, to ví i průměrnej blb.
+ _l_i_b_i_k [Muž]34 [Kategorie]
+18.11.2010 17:12:53
+Jak může člověk co je inteligentnější než 99% z nás napsat "Stosedmdesátých
+starých her v jednom"?
+Řadové číslovky zvládá i průměrnej blb.
+ aaaaaaaaaaaaaaaaaa
+18.11.2010 16:58:39
+Neslo by tam prihodit jeste "Z", Fragille Allegiance, Ascendancy, stary
+Stronghold, Wizardry 7, Xwing, Frontier (pokud to neni elite plus) ? :
+) Kazdopadne dobra prace.
+[Smajlík] [Muž]34 [Kategorie]
+ _V_e_l_d_r_a_n_e
+18.11.2010 15:47:08
+Mě tu chybí Archon Ultra :D
+[Smajlík]   [Žena] [Kategorie]
+ _G_o_l_d_e_n_S_t_a_r
+18.11.2010 15:15:04
+Pěkné :)
+[Smajlík] [Muž]27 [Kategorie]
+ _x_Z_d_e_n_i_s_h
+18.11.2010 14:25:50
+ty můj ajťáčku
+[Smajlík] [Muž]32 [Kategorie]
+ _J_i_z_a_h
+18.11.2010 13:40:47
+InfernoAngel : Je tam asi o 60 kousků více :).
+
+derte : Vidíš, na tuhle klasiku jsem zapomněl. A to jsem se jí nahrál dost a
+dost. Už jsem si ho k sobě přidal. Jestli ho chceš i ty, pak stačí obsah
+tohoto raru nakopírovat do hlavní složky toho, co jsem tu dal na stáhnutí z
+rapidshare :
+
+_h_t_t_p_:_/_/_d_r_a_c_a_k_m_a_k_e_r_._u_n_a_s_._c_z_/_l_o_g_i_c_a_l_ rar
+(umaž mezery)
+ _l_i_b_i_k [Muž]34 [Kategorie]
+18.11.2010 13:25:00
+Chybí mi tam Logical
+ derte
+18.11.2010 13:20:12
+aaaa koukám že je to vylepšeno o Commander Keen :D super!
+[Smajlík]     [Žena]22 [Kategorie]
+ _I_n_f_e_r_n_o_A_n_g_e_l
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+

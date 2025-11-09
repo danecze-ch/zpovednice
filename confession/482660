@@ -1,0 +1,115 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+   Otázky - Vzkazy č.482660, vloženo _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+   27.10.2010 10:17:59               _s_t_r_á_n_k_a_]
+   UPC internet a vytvoření wifi sítě
+   Chtěl bych se zeptat, jestli tu nemá někdo doma internet of UPC a
+   následně z toho vytvořenou doma wifi síť. Budu se totiž stěhovat a
+   internet docela potřebuji a v bytě je internet od UPC zaveden do
+   stolního PC, ale budu v jiné místnosti. Vím, že dřív tam byla wifi síť,
+   která už tam ovšem neni. Byl použit přístroj TP-LINK TL-WR340GD. Tak
+   jsem se chtěl zeptat, jestli je jedno, jaký routr pro toto použiji.
+   Jestli má třeba UPC nějaké omezení, nebo je to uplně jedno? Navíc jsem
+   se nepodíval, co za vstup do zařízení jde, tudíž si nejsem jistý, jestli
+   se jedná o síťový kabel. Je to takové to klasické UPC, pomocí něhož je
+   přivedena do bytu televize a internet.
+    jupisator [Muž]25  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+27.10.2010 11:18:05
+Dík všem za rady.
+Ještě dotaz, to zapojení jsem neviděl, ale to stejně vede do nějaké krabičky,
+ze které se to rozdvojuje, ne?. Síťový kábl vede do PC a něco z krabičky vede
+do TV, nebo je to jinak v případě, když má člověk od UPC televizi i net?
+
+A ještě mne napadlo, jak píše Exactus Leo, tak to nejspíš bude potřeba uděla,
+že kabel, který teď vede do PC píchnu do routru, ale z něj budu stejně muset
+vést ještě kábl znova do toho PC, pro sebe už si to budu sdílet pomocí wifi,
+ale v tom PC ten kábl musí (na žádost majitele) být. Je to možný takhle to
+udělat? K tomu budu už potřebovat, jen patřičný kus UTP kabelu ne?
+ jupisator
+27.10.2010 11:06:19
+jupisator: nn ten kabel co byl dřív v PC jsem píchl do routru, a pak se ten
+router nastavil. Dělá se to přes počítač napíšeš tam 192.168.0.?? a nastavíš
+[Smajlík]    [Muž]25 [Kategorie]
+ _E_x_a_c_t_u_s_ _L_e_o
+27.10.2010 10:57:10
+Mělo by to jet bez problémů.
+ _S_m_ě_j_í_c_í_ _s_e_ _J_a_c_k [Muž]33 [Kategorie]
+27.10.2010 10:44:17
+Právě já nevím, co tam bude za vedení, když to slouží i jako přívod
+televizního signálu. Jsem se na to zapoměl podívat.
+Btw. Je to pak možný doma si nastavit sám, nebo je k tomu potřeba nějaký
+arbajtr z toho UPC?
+
+Exactus Leo: Z toho routru už to nemáš káblem do žádnýho PC, jen bezdrátem?
+ jupisator
+27.10.2010 10:41:59
+No staci ti jakykoliv dostupny router.
+
+Sou dve moznosti.
+Koupis lepsi router kolem 8 kil, vlezes do jeho nastaveni, nastavis mu
+ip,branu, pro jistotu naclonujes MAC (Routeru nastavis stejny mac jak ma pc
+ktery tam je ted pripojeny) , kabel od upc pichnes do WAN vstupu, na WAN v
+nastaveni routeru nastavis ziskat adresy z dhcp. Pak si jen nastavis
+zabezpeceni wifi a jmeno wifi a kanal. Tato moznost u upc nefunguje vzdycky.
+
+Takze je druha, kdy router nastavis do modu bridge, routeru nastavis IP v
+rozsahu ipadres ktere prideluje to zarizeni do kompu ktery tam ted je. Zjistis
+to tak ze das do CMD ipconfig /all a tam bude ip treba 77.21.45.5 tak tomu
+roputeru nastavis 77.21.45.1 treba. Naclonujes tu mac zase pro jistotu a pak
+jen nastavis wifi zabezpeceni, ssid...
+
+Btw pokud nejsi clovek znaly pozvi si nekoho kdo to umi... Ne kamose ktery o
+tom slysel .... :D
+[Smajlík]
+ Im Nothing
+27.10.2010 10:23:23
+Nevím jak to má UPC, ale pokud je to normální ethernetový kabel tak stačí
+jakýkoli dostupný WiFi router.
+ _N_e_u_t_r_i_n_o [Muž]26 [Kategorie]
+27.10.2010 10:20:37
+Taky mám UPC internet ;) ale ne přímo do PC, ale mám to vedený přes wifi abych
+mohl využívat internet přes více přístrojů.
+[Smajlík]    [Muž]25 [Kategorie]
+ _E_x_a_c_t_u_s_ _L_e_o
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+
