@@ -1,0 +1,141 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+   Otázky - Vzkazy č.578550, vloženo _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+   16.11.2011 16:29:03               _s_t_r_á_n_k_a_]
+   Matematický problém - kolik krychlí se v
+   Zdravím,
+
+   řeším takový zajímavý matematický problém.
+
+   Mám krychli (říkejme jí kontejner) o zadané straně a pak mám několik
+   dalších krychlí o několika menších velikostech. Mám zjistit, kolik
+   kontejnerů musím použít, abych do nich zabalil všechny ty krychle a
+   použil přitom kontejnerů co nejméně. Platí, že krychle se do kontejneru
+   nesmí deformovat (tj. přizpůsobovat její tvar).
+
+   Nevíte někdo, jak na to? Možná mi jen něco uniká, ale nemůžu přijít na
+   žádné jednoduché řešení...
+    assembler [Muž]15  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+16.11.2011 18:46:54
+DEADBEEF: spis z tech toho milionu dolaru, ted uz teda dvou :)
+ _b_r_o_s_k_e_v [Žena]23 [Kategorie]
+16.11.2011 18:39:19
+broskev: jasně, chlápek rozřezal nožíkem kus papíru a pak se z toho mohli
+všichni pominout :-)
+ _D_E_A_D_B_E_E_F [Muž]47 [Kategorie]
+16.11.2011 18:11:44
+DEADBEEF: nejaky podobny princip je i v eternity 1 a 2 ze jo?
+ _b_r_o_s_k_e_v [Žena]23 [Kategorie]
+16.11.2011 17:14:25
+Z toho nic nevyvodím :-) Prostě platí, že když je krychliček velmi málo, tak
+uspěješ klidně i zkusmo, ale čím více jich je, tím je pravděpodobnost, že se
+to povede, menší.
+ _D_E_A_D_B_E_E_F [Muž]47 [Kategorie]
+16.11.2011 17:12:02
+DEADBEEF - nejmenší krychle je veliká x cm a všechny větší jsou násobe toho x.
+Čili velikosti dalších krychlí jsou 2x, 3x, 4x, ... dokud nx <= velikost
+kontejneru.
+ assembler
+16.11.2011 17:10:21
+assembler: zadavatel klidně může vědět, jak se tam ty krychličky uspořádaly,
+ale ty na to nikdy nepřijdeš :-) Zadavatel totiž rozřeže krychli jak se mu
+hodí, vysype ji do krabice a včil skládej :-) Na tomhle principu dokonce kdysi
+byla zkonstruována jedna asymetrická šifra.
+ _D_E_A_D_B_E_E_F [Muž]47 [Kategorie]
+16.11.2011 17:07:56
+pizzaboy: třeba to tak "náhodou" vychází, že jdou uspořádat bez mezer (a třeba
+ne :-)). Protože to je jeden z mála případů, kdy se uspořádáním zároveň podá
+důkaz, že jde o optimální uspořádání.
+ _D_E_A_D_B_E_E_F [Muž]47 [Kategorie]
+16.11.2011 17:06:56
+Do školy to není, ale mám to od někoho, kdo stoprocentně ví že to má jít.
+
+Jinak aby bylo jasno - jedná se vždy o krychle a žádná rotace se nezkouší,
+stejně jako v kontejnerech můžou být mezery, pokud už do nich nelze dát ani tu
+nejmenší dostupnou krychli...
+ assembler
+16.11.2011 17:00:11
+nz. Ale jestli jsi to dostal jako úkol do školy, tak je to určitě nějaký
+speciální případ. A nebo máš hledat přibližné řešení. Nebo tě zkoušejí, jestli
+tě napadne tam ty krychličky dávat šikmo a šejdrem, viz ty úlohy třídy packing
+problem. A pak to napsat v assembleru :-)
+ _D_E_A_D_B_E_E_F [Muž]47 [Kategorie]
+16.11.2011 16:58:47
+DEADBEEF: on ale v zadání nemá zabalit bez mezer. Má vyřešit jak najít
+nejmneší možný počet kontejnerů k zabalení všech krychliček
+ _p_i_z_z_a_b_o_y [Muž] [Kategorie]
+16.11.2011 16:53:59
+Aha, tak dík za osvětu, že to moc jednoduché není, zkusím to nějak udělat :D
+ assembler
+16.11.2011 16:50:27
+Ještě dodatek: pro určité konkrétní případy jde vyřešit. Ale s počtem
+krychliček složitost exponenciálně roste a pokud nemáš jednoduché řešení jak
+krychličky podkládat bez mezer do kontejneru (např. několik málo soudělných
+velikostí), tak pro pár desítek či stovek krychliček už jsi v kategorii
+"těžkých problémů", které nevyřešíš ani na výkonném počítači, a pokud přece,
+tak přidáš pár krychliček a zase jsi zpátky.
+ _D_E_A_D_B_E_E_F [Muž]47 [Kategorie]
+16.11.2011 16:49:59
+To je ale divné, protože to mám jako jeden příklad a ten by měl jít vyřešit..
+vždyť pro mě není zas takový problém si to spočítat ručně :D ale chtěl bych to
+udělat jako algoritmus na PC a tohle je tedy fakt divné...
+ assembler
+16.11.2011 16:45:33
+Přesně tak. Patří do třídy NP-úplných problémů, která se dokonce zahrnuje mezi
+"Sedm matematických problémů tisíciletí" :-)
+ _D_E_A_D_B_E_E_F [Muž]47 [Kategorie]
+16.11.2011 16:40:38
+Díky. Ale počkat - chceš mi říct, že když znám jejich velikosti, velikost
+kontejneru a kolik je těch krychlí celkem tak tato úloha nejde vyřešit? To
+jsem asi špatně pochopil, ale bylo by to divné...
+ assembler
+16.11.2011 16:36:22
+Říká se tomu packing problem a není to vůbec jednoduché :-) Hledej řešení na
+netu. Pro určité poměry velikosti kontejneru a krychle to již bylo vyřešeno a
+nutno říct, že některá řešení jsou hodně neintuitivní.
+
+Obecné řešení (pro libovolnou velikost krychlí nebo pro krychle či kvádry
+různé velikosti) není známo.
+ _D_E_A_D_B_E_E_F [Muž]47 [Kategorie]
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+

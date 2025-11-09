@@ -1,0 +1,162 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+   Otázky - Vzkazy č.577335, vloženo _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+   11.11.2011 23:01:29               _s_t_r_á_n_k_a_]
+   Ceska IP v zahranici
+   Zdravim zdejsi osazenstvo,
+
+   mel bych dotaz... Mohl by mi, prosim, nekdo poradit, jestli je mozny
+   nejakym zpusobem pouzivat ceskou IP v zahranici..? Travim tu pracovne
+   rok a proste jsou stranky, kam se dostanu jen s ceskou IP.. I ten
+   YouTube je tu takovej trochu omezenej, coz by mi az tak nevadilo, ale
+   dost me stve ze jsem napriklad dneska nevidel fotbal. Zvlast kdyz se
+   kouknu na diskuse, kde se vzdycky jen pinda a kritizuje, tak dneska se
+   prakticky jen chvali.. Bude i MS v hokeji, coz tady fakt v TV nenaladim
+   (tady nevedej co hokej je protoze neznaj led), tak bych se rad mrknul,
+   ale bez ty IP to mam dojem proste nepujde.. Nejsem zadnej BFU, ale v
+   tomhle fakt nevim, ani Google neporadil...
+
+   Byl by tady nekdo, prosim, kdo by mi s tim poradil?
+
+   Dikes moc.
+    rest [Muž]24  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+12.11.2011 18:36:20
+pratele vsem vam moc diky za konstruktivni rady, fakt moc diky, az jsem
+necekal ze se tu objevej pouzitelny nazory :).. mimochodem na odbornejsich
+forech par lidi poradilo naprosto to samy, takze Zpovednice nezklamala :)..
+asi zkusim tu VPN, v Cechach spustenim serveru nekoho zaukolovat muzu, stejne
+mi doma stoji stary nevyuzity PC...
+
+KurevskyChytrej: no skoro jsi to trefil, jen jsem trochu niz - momentalne na
+Sri Lance a pristi tyden se stehuju na Maledivy kde budu rok delat.. jako
+prenosy samozrejme jsou, jenze ne v cestine, ty cesky jsou dostupny jen s
+ceskou IP, a samozrejme divat se na ceskej prenos je pro me mnohem zazivnejsi
+:)
+
+jinak dekuju jeste jednou vsem, Boogy, zkusim i ten program cos zminoval,
+treba se to taky chyti aspon na ty onlajny :).. dikes :)
+[Smajlík]
+ rest
+12.11.2011 11:45:02
+Nejjednodussi je nechat si v cechach nejaky maly server. Na to nepotrebujes
+ani hosting, ten je zbytecne drahy. Server u nekoho, kdo ma dobrou konektivitu
+treba prez UPC. a na nem spustis tunel nebo mozna jednoduseji VPN, ke ktere se
+pripojis v podstate odkudkoliv.
+ _A_l_f_a_r_d [Muž]59 [Kategorie]
+12.11.2011 10:34:42
+Charles: souhlas. Pro mě je to řešení vyhovující, protože rychlost mě netrápí
+a to připojení (cdma) se mi při návratech z cest beztak hodí, jinak bych to
+taky řešil "tajným" virtuálním strojem na nějaké mašině pro klienta.
+ podepsanec
+12.11.2011 10:26:02
+podepsanec: jo tunely fungují, jenže musíš platit v CZ připojení a pak je
+problém v nesymetrické rychlosti, když máš xDSL přípojku.
+
+Nebo by se dal pořídit u nás nějaký nejlevnější serverhousing a ten teprve
+protunelovat. Cena je ovšem cca tisícovka měsíčně (konektivita 100Mbit, včetně
+elektřiny, provoz zahraničí do 500GB) - třeba Master housing single. Někde
+jsem viděl i s neomezeným přenosem za obdobnou cenu.
+ _C_h_a_r_l_e_s [Muž]49 [Kategorie]
+12.11.2011 09:35:30
+Já to řeším vlastní proxy, nechci se potýkat s nějakými bany/blacklisty u těch
+veřejně dostupných. Nepotřebuji žádnou světobornou rychlost, takže všechno
+ženu přes ssh tunely a limitován jsem jen tím, že ne odevšad se přes ssh na
+můj stále běžící/připojený stroj v cz prokopu. Jestli ti jde jen o http(s)
+provoz, jakýkoli unix/linux na počítači někde ve sklepě plus ssh tunel na
+lokální port s běžícím _h_t_t_p_:_/_/_w_w_w_._p_r_i_v_o_x_y_._o_r_g_/_ a máš to, zprovoznění zabere
+jen chvíli, údržba žádná, může to klidně startovat z cd/usb (abys v tom stroji
+nepotřeboval disk - zbytečně topí a je to po větrácích nejporuchovější
+součástka) - předloni jsem rušil Pentium I (150MHz), na kterém mi tohle řešení
+běželo několik let v kuse (nepotřebuješ na to žádné dělo).
+ podepsanec
+12.11.2011 08:52:44
+Tohle by mě taky zajímalo: Občas dostanu "Tato služba je přístupná pouze z
+České Republiky", a ráda bych to obešla.
+[Smajlík] [Žena] [Kategorie]
+ _v_a_n_c_r
+11.11.2011 23:29:02
+Přiznam se že se v tomhle moc nevyznam, takže ještě jen nadhodim tenhle
+program, jestli bys přes něj nepustil normálně českou televizi... mě teda
+samozřejmě normálně funguje, ale jestli se to s cizí IP změní, to nevim ...
+Jmenuje se to CzSkIpMedia , je na stáhnutí na uložto a všude možně a vzhledem
+k tomu že mám cz ip a spustím tam i kanály turecké, tak by ti to v nějaké
+tramtárii s tramtárijskou IP mělo jít taky a to i na cz kanály....
+Jestli už si to skoušel tak nic, jsem lamka, jen skoušim nahodit nějaký návrh
+:D
+ _B_o_o_g_u [Muž]25 [Kategorie]
+11.11.2011 23:28:51
+To jsi v Indii,ne? Na netu jsou prenosy vseho, k cemu cs.ip?
+ Kurevskychytrej
+11.11.2011 23:16:32
+xZdenish: diky za odpoved, to byla jedna z prvnich veci co me napadla, ale bud
+jsem blbej ja, nebo je chyba jinde, ale at jsem zkousel IP z jakyhokoliv proxy
+listu co jsem na googlu nasel, tak to bud nefungovalo, nebo to jelo 3kB za
+sekundu... a to mam dojem ze proxy i nastavit umim...
+
+Boogu: taky diky za odpoved, jj, zkousel jsem se ptat i na specializovanejsich
+forech, ale tak preci jen Zpovednice zije furt :D.. na jinejch forech jsem
+zaznamenal akorat reakci ze kdyz tomu nerozumim at se do toho nemontuju, coz
+mi fakt pomohlo :).. asi neslyseli o sebevzdelavani :).. no uvidim, zkusim
+pockat, odveta fotbalu je za dlouho, tak se treba nekdo chytne... :) btw tady
+jsou ctyri rano, jsem jak blb visel u textovyho prepisu na iDnesu, vybornej
+fotbalovej zazitek :)
+ rest
+11.11.2011 23:09:05
+Tohle ti teď asi moc nepomůže ale jestliže je možný abych já přes program
+používal IP někoho třeba ve velký británii (což možný je a stalo se to tak- s
+jeho vědomím), tak je určitě možný i toto, ale jak to ti neporadim já a myslim
+ani nikdo jiný na zpovědnici v tuto nekřesťanskou hodinu ... :D
+Asi bude nejlepší zeptat se na nějakým fóru zaměřeným na tyto věci, nebo přímo
+nějakého IT experta... (předpokládám že strejdu googla už si skoušel)...
+ _B_o_o_g_u [Muž]25 [Kategorie]
+11.11.2011 23:06:56
+Asi nějaký český proxy..
+ _x_Z_d_e_n_i_s_h [Muž]27 [Kategorie]
+11.11.2011 23:06:40
+Svůj příspěvek jsi vložil(a) do nespravné kategorie. Bylo provedeno přesunutí.
+V případě opakování hrozí blokování vstupu na portál. Prosím zvol příště
+správnou kategorii. Děkujeme za pochopení.
+[Smajlík]      [Muž] [Kategorie]
+ _A_d_m_i_n_i_s_t_r_á_t_o_r
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+
