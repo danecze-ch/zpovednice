@@ -1,0 +1,120 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+Diskuze č.474408, vloženo 07.09.2010 21: _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+59:13                                    _s_t_r_á_n_k_a_]
+procesory u notebooku
+asi kazdy vi, ze notebook se vyuziva spise pracovne nez pro zabavu, ale i tak
+vetsina notebooku ma strasne maly taktovaci frekvenci procesoru napr. jen 1,3
+ghz pred 4 roky jsem kupoval notas co ma 1,6 ghz a na stejnym taktu jsou i
+dnesni notebooku tak by me zajimalo jakto ze u notasu se zvysuji skoro vsechny
+parametry ale frekvence procesoru se ''zastavila''
+ procik [Muž]22  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+10.09.2010 22:24:19
+mimochodem dnes výrobce Clevo uvedl na trh nejnadupanější noťas na světě ..
+procesor core i7 3,33 Ghz ... nejdražší je na něm však grafická karta, cena?
+150k
+ _M_a_n_i_n_t_h_e_m_o_o_d [Muž]21 [Kategorie]
+09.09.2010 22:14:07
+tahle diskuze sem přiletěla z prahistorie, ne? píšu ze svého nb s 2,55ghz
+ _M_a_n_i_n_t_h_e_m_o_o_d [Muž]21 [Kategorie]
+08.09.2010 11:31:34
+Nesmis koukat na Atomy :). Core2Dua jsou dnes taktovany 2Ghz a vice. Frekvence
+navic neni vsechno, zalezi hodne na vnitrni architekture, osu, a take dane
+aplikace zda bude umet vyuzit vice jadrove procesory.
+
+nncvbcxv: nemas tak uplne pravdu - to je pouze dusledek sirky sbernice a navic
+to vzdy neplati. Napriklad staricky Z80 byl osmibitovy procesor ale umel
+pracovat se 16 bitovymi registry :).
+ _V_e_l_d_r_a_n_e [Muž]34 [Kategorie]
+07.09.2010 23:12:18
+už před lety intel zjistil, že hnaní frekvence do nebeských výšin nikam
+nevede... mění se architektura procesoru a zvyšuje se paralelismus... tudy
+dnes vede cesta
+ poi
+07.09.2010 22:45:09
+Neutrino: OMG, ty jsi dickhead!
+prosímtě nemluv o věcech, o kterých nemáš sebemenší tušení. 64 bitů je
+maximální velikost čísla, které se vleze do ALU registrů + maximální
+adresovatelné množství paměti. Ve zkratce je to maximální velikost čísla, se
+kterým je procesor ještě schopný jednoduše pracovat.
+
+autor: 1.3GHz se používá jen u pomalejší verze procesorů intel atom (skoro
+nepoužitelné kromě internetu a videa, mám ho doma) a ultra low voltage Core
+procesorů. Ty už jsou na tom výkonově trochu líp, ale jejich hlavní účel je
+minimální spotřeba a co nejvyšší výdrž na baterie u 11-13" NB, ne výkon.
+Pokud chceš něco výkonnějšího, hledej procesory Core 2 Duo a Core i5, ty se
+vyrábí až okolo 2-3GHz a počítač se s nima nechová jak šnek.
+Jinak do budoucna u notebooků razantnější zvyšování frekvence nenastane, pro
+její udržení je nutné velké napětí a z toho vyplývá vysoká spotřeba.
+[Smajlík]
+ nncvbcxv
+07.09.2010 22:39:37
+Frekvence procesoru neni udaj ktery by primo udaval jeho rychlost, je to
+mnohem slozitejsi. Instrukce obvykle neprobihaji v jednom hodinovem taktu,
+procesor vyuziva tzv. pipeline, zpracovava vice instrukci najednou, kazdou v
+jine fazi. Zpusob tohoto zpracovani ma na rychlost procesoru zasadni vliv. Pak
+je taky potreba pocitat s pristupy do pameti, velikosti a organizaci cache,
+atd. Samotna frekvence o procesoru nerika vpodstate vubec nic. Zvysovat
+frekvenci je navic u notebooku dost nevyhodne, protoze s rostouci frekvenci (u
+tehoz procesoru) roste i spotreba.
+ _v_f_3_8_e_x_f_z_p [Muž]39 [Kategorie]
+07.09.2010 22:11:20
+to jo ale jak se divam na notebooky ve stejne cenove kategorii jako ten muj
+stary krap pred 4 roky tak maji procesor skoro na chlup stejny (jedno jadrovy)
+korat co je odlisny je ze ty dnesni maji o par set vic mhz FSB
+ procik
+07.09.2010 22:03:32
+Pokud vím důležitá je šířka sběrnice (dnes 64 bitů), ale pro plné využití
+potřebuješ x64 kompatibilní systém. Z vlastní zkušenosti ho doporučuju (Win7
+Pro x64)...
+[Smajlík] [Muž]26 [Kategorie]
+ _N_e_u_t_r_i_n_o
+07.09.2010 22:01:13
+Frekvence zůstala stejná, ale počet jader se zvednul.. Ono to dá docela velkej
+rozdíl, jestli máš jedno, dvě nebo čtyři jádra :)
+
+A ty nízký frekvence jsou navíc jenom u lowendů, dražší modely už jsou
+rychlejší..
+ _x_Z_d_e_n_i_s_h [Muž]27 [Kategorie]
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+

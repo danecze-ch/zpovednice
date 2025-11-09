@@ -1,0 +1,123 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+Diskuze č.477832, vloženo 28.09.2010 19: _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+48:04                                    _s_t_r_á_n_k_a_]
+Úloha 2
+prepáčte že zase otravujem, ale mám tu ešte jeden príklad.. Časť mám vypočítanú
+ale neviem či to je dobre...
+
+Takže...
+a) Ako sa zmení potenciálna energia palety s jablkami, ktorá má
+celkovú hmotnosť 450 kg, ak ju pracovníci premiestnia
+pomocou vysokozdvižného vozíka na nakladaciu rampu do
+výšky 2,2 m?
+
+-to mi vyšlo 9,9 kJ
+
+b) Akú prácu pritom vykoná vysokozdvižný vozík?
+- kedže polohová energia sa rovná práci, je to tiež 9,9 kJ
+
+c) Ak sa vozík pokazí, musia pracovníci vytlačiť paletu na rampu po
+hladkej šikmej ploche, ktorá má dĺžku 10 m. Akú prácu musia
+pritom vykonať?
+---toto mi robilo problém, neviem ako to všetko dať do nejakého vzorca alebo
+čo.. neviem čo s tou výškou..poradíte?
+
+d) Naložené palety preváža nákladné auto do skladu. S akým výkonom
+pracuje motor auta, ak výsledná ťažná sila motora má veľkosť
+5,5 kN a auto sa pohybuje po vodorovnej ceste stálou rýchlosťou
+54 km/h? Odporové a trecie sily pôsobiace na nákladný automobil
+považujte za zanedbateľne malé.
+-- to mi vyšlo 297 kW, ale je to určite zle..takže neviem...
+
+Výsledky uveďte s presnosťou na jedno desatinné miesto. Počítajte
+s hodnotou g = 10 N/kg
+
+ďakujem !-...
+ neviem vyriesit [Muž]  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+28.09.2010 21:55:31
+Ramen, no ziram :).
+Aj troska lutujem, ze som mal fyziku naposledy 1 rok na strednej (ak nepocitam
+kvantovu mechaniku na VS) :(.
+Tvoje odvodzovacky su celkom pekne.
+ mucha
+28.09.2010 21:07:44
+Pre riešenie c) si pozri toto: _h_t_t_p_:_/_/_b_i_t_._l_y_/_b_3_I_l_R_K_ 
+
+Ono v podstate potrebuješ výšku a dĺžku naklonenej roviny, aby si vedel
+vypočítať sínus uhla alfa - uhla medzi zemou a naklonenou plochou, lenže ako
+napokon uvidíš, tie hodnoty ani vlastne nepotrebuješ, lebo sa to tam všetko
+vykráti a výsledná práca je rovnaká, ako keby si teleso len zdvíhal vozíkom.
+Samozrejme, platí to iba v ideálnom prípade, keď trenie zanedbáme, a že ho
+máme zanedbať naznačili textom "na rampu po HLADKEJ šikmej ploche". V reáli to
+tak samozrejme nefunguje a vždy je práca väčšia ako pri vertikálnom zdvihu
+kvôli treniu.
+No ale fyzika je plná zanedbaní, tak myslím, že týmto bodom c) Ťa chceli
+donútiť si uvedomiť súvislosti.
+Vieme, že práca pri zdvíhaní telesa je:
+W = g * m * h
+
+pre naklonenú rovinu je sila F chlapcov pôsobiacich na teleso F = g * m * sin
+(alfa). Práca po dĺžke je W = F * L , takže W = g * m * sin(alfa) * L .
+
+Lenže sin(alfa) vieme vyjadriť ako pomer protiľahlej strany k prepone, teda
+sin(alfa) = h/L .
+Po dosadení do vzorca:
+W = g * m * ( h/L) * L = g * m * h
+a sme dostali to isté ako pri zdvíhaní vozíkom. :P
+
+Takže si to prosím pozri a naštuduj, lebo podstata tejto úlohy je vedieť sa
+dopracovať k tomuto záveru, že prečo je tá práca rovnaká. ;)
+
+d) Chceme vypočítať výkon P, ktorý je definovaný ako práca za čas, t.j. P = W/
+t
+Práca W je sila krát dráha = F * s.
+Teda P = F * s / t, pričom poznáme rýchlosť v = s / t.
+
+Prevedieme rýchlosť v = 54 km/h na základné jednotky SI - metre za sekundu v =
+15 m/s a už iba doplníme do vzorca:
+P = F * v = 5500 * 15 = 82 500 W = 82,5 kW
+[Smajlík] [Muž]96 [Kategorie]
+ _r_a_m_e_n
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+

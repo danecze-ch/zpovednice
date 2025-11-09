@@ -1,0 +1,167 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+   Otázky - Vzkazy č.474188, vloženo _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+   06.09.2010 18:57:02               _s_t_r_á_n_k_a_]
+   Problem s PC-nefacha
+   Zdravim,nabid jsem se kamosovi ze mu dam do pucu jeho PC co mu uz rok
+   nefunguje....
+   Klasika,zapl jsem ho a misto aby nabehl windows tak naskocila cerna
+   obrazovka ze na discu doslo k chybe ze z nej nemuze cist bla bla....
+   Tak sem HD vymontoval a vzal ho k sobe,hodil ho do sveho pc.
+   Disk rozdelenej na C a D .C sem naformatoval a nainstalovat Win.xp SP2
+   cz.
+
+   Vse bylo ok hodil sem mu tam par programu,kodeky.Ale kdyz jsem ho donesl
+   k nemu a namontoval,tak se po chvilce nacitani pokazde restartoval at
+   sem zkousel cokoliv.
+   Zakazal sem restartovani pri selhani,a naskakovala furt ta znama modra
+   obrazovka(kdyz nefacha windows tak casto naskakuje).
+   Tak sem vzal jeho hardisc zpet ke mne zapojil ho a funguje u me uplne
+   bez chyby.
+   Takze asi bude neco z jeho PC,nevite cim by to mohlo byt? az tak se
+   nevyznam,dik za odpovedi.
+    TITANQUEST [Muž]20  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+07.09.2010 07:49:25
+pane profíku, nefunguje vám to... bla bla bla
+ poi
+07.09.2010 00:41:33
+Alfard-no asi na tom neco bude ja mam amd phenom,a on intel celeron....
+
+dik za rady.
+[Smajlík]
+ TITANQUEST
+06.09.2010 23:04:43
+pri kazdem podstatnem upgrade se to doporucuje, ono neni potreba formatovat
+disk a ztratit programy, ale jen preinstalovat jadr. Jinak si zkus treba
+prejit mei intelem a AMD a uvidis, co se deje. a to nemluvim o poctu jader a
+dalsich vecch. Treba kernel pr jednojadra a vicejadra je uplne jiny. A ono i
+kdy to nabehne, tak se vetsina novych veci nepouzije, protoze jadro se
+konfiguruje jen pri instalaci.
+ _A_l_f_a_r_d [Muž]59 [Kategorie]
+06.09.2010 22:08:09
+Alfard- To by ale znamenalo že při každém upgradu HW bys musel reinstalovat
+os. Ve ve většině případů stačí pouze přeinstalovat ovladače.
+ _B_u_r_n_ _t_h_e_ _p_r_i_e_s_t [Muž]24 [Kategorie]
+06.09.2010 21:14:14
+to TITANQUEST
+ono mto chce si neco nastudovat. Pokud clovek nema dostatecne vedomosti, mel
+by praci prenechat odbornikum. Jinak HAL znamena Hardware Abstraction Level
+(mozna to spatne pisu) a je to vrstva, ktera revadi realne prostredky napr
+motherboardu na dollni vrstvu kernelu Windows.
+
+to Burn the priest
+to je jen nahod, rozhodne to tak nejde delat. To spolehlive funguje jen v
+pripade, ze mas stejny HW. Pak je to ok. Pokud je podobny, funguje to omezene
+a pokud jiny, tak to nefunguje vubec. To se tyka procesoru, chipsetu, lanky,
+VGA a podobne. Dokonce nekteree chipsety se chovaji podobne, ale pak nefunguji
+nektere sluzby nebo se nevyuzivaji nektere prostredky (napr. akceleratory VGA)
+ _A_l_f_a_r_d [Muž]59 [Kategorie]
+06.09.2010 20:37:20
+Burn the priest-me se to prave taky nestava tak sem se divil :-))
+no hele tam pomalu ani nic nebylo napsano krom par odstavcu pismen a cisel
+bezesmyslu.
+
+jediny tam bylo at pres nakej program skontroluju HD prikaz byl naky pismena /
+F nak tak
+skusim to primo u nej nainstalovat
+[Smajlík]
+ TITANQUEST
+06.09.2010 19:56:56
+Alfard- V instalaci win na jiném počítači problém být nutně nemusí, já s
+podobnou instalací bez problémú fungoval leta (na win xp).
+TITANQUEST- Zkoušel si gůglit tu chybovou hlášku z modrý smrti?
+ _B_u_r_n_ _t_h_e_ _p_r_i_e_s_t [Muž]24 [Kategorie]
+06.09.2010 19:53:17
+lol
+ heh
+06.09.2010 19:47:25
+éro-asi jedine tak
+
+Alfard-nikde sem nepsal ze jsem odbornik,pc mam jako koncika ve volnym case na
+naky IT skole nebo podobne jsem nebyl...presto tomu rozumim vic nez vetsina
+znamych..
+Ale stejne dik,o HAL sem nikdys neslysel.
+
+A todle se me jeste nestalo a to sem par pocitacu preisntalovaval,proto se
+ptam :-))
+tot vse
+[Smajlík]
+ TITANQUEST
+06.09.2010 19:38:04
+Teda Ty jsi fakt odbornik. Kdyz tomu nerozumis, tak to nedelej.Asi jsi nic
+neslysel o HAL. tedy o oddelovaci vrsve HW, ktera se sestavuje pri instalaci
+OS a specifikuje dany pocitac. Prenaset disk se dal za dob DOSu a to jeste
+omezene. u WIN to vede ke kolabsu. Prakticky vzdycky. Disk musis nainstalovat
+na pocitaci, kde ho budes provoovat. Jinak doporucuji alespon zakladni
+ucebnici OS
+ _A_l_f_a_r_d [Muž]59 [Kategorie]
+06.09.2010 19:23:36
+Tak vymontuj svoji mechaniku a zapoj ji u něj :P
+ éro
+06.09.2010 19:18:22
+Tak ať si mechaniku pořídí, stejně to bez ní pak asi nepůjde
+ _N_e_u_t_r_i_n_o [Muž]26 [Kategorie]
+06.09.2010 19:16:55
+Neutrino-dik,skusim :-))
+
+éro- u nej to nejde,pac ma dojebanou mechaniku,nechtela precist zadny cd s
+windows,proto sem ho vzal k sobe :-))
+[Smajlík]
+ TITANQUEST
+06.09.2010 19:15:56
+Svůj příspěvek jsi vložil(a) do nespravné kategorie. Bylo provedeno přesunutí.
+V případě opakování hrozí blokování vstupu na portál. Prosím zvol příště
+správnou kategorii. Děkujeme za pochopení.
+[Smajlík]      [Muž] [Kategorie]
+ _A_d_m_i_n_i_s_t_r_á_t_o_r
+06.09.2010 19:12:04
+Nainstaluj to kompletně u něj, nevim proč si takhle zbytečně si komplikuješ
+život :P
+ éro
+06.09.2010 19:00:26
+Ten disk u sebe sformátuj a systém nainstaluj až u něj! Pokud je ten disk SATA
+tak na tom PC v BIOSu nastav režim kompatibility...
+[Smajlík] [Muž]26 [Kategorie]
+ _N_e_u_t_r_i_n_o
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+

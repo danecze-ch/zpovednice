@@ -1,0 +1,210 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+Diskuze č.473332, vloženo 01.09.2010 22: _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+10:57                                    _s_t_r_á_n_k_a_]
+Kontrola a zašifrovaný disk
+Teoreticky, kdyby se nějak dohmátli že v počítači přechovávám nelegální obsah,
+tak by mi počítač zabavila policie a hledala důkazy. Jenže já bych měl disk
+zašifrovaný šifrou, kterou nejde v současnosti prolomit. Jaké by pak byly
+možnosti vyšetřovatelů? Já bych jim heslo samozdřejmě nedal a násilím ho asi
+vymáhat nemůžou...
+ _N_e_u_t_r_i_n_o [Muž]18 [Kategorie]  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+13.03.2011 10:29:10
+Je vidět že zde jsou samí profesionálové, trochu vám to objasním. Jestliže
+máte šifrovaný celý disk trucryptem a máte dostatečné silné heslo, min.
+25znaku, nikdo v dnešní době nemůže tuto šifru prolomit, jen tak pro
+zajímavost šifra v truecrxptu která obsahuje heslo o délce 30znaku nebude
+rozluštěna na PC o výkonu několika teraflopu dříve jak za 13 mld. Let ano
+slyšíte správně za 13 miliard let, jen tak pro informaci je tostáří vesmíru.
+Jak tady někdo píše že vyndá disk a přesune jeho data jinam, opět povídá
+nesmysli protože přesune pouze binární sliz a ten je každému bez klíče k
+h***u. Policie vám může zabavit PC, ale nemůže po Vás chtít přístupové údaje.
+Takže když se něco takového stane, tak se jim můžete akorát vysmát, a oznámit
+jim že mají na to pár mld. Let, závěr: truecrypt je neprolomitelný. Ted neví
+přesně kde se to stálo, ale bezpečnostní složky zabavili pět šifrovaných disku
+( truecryptem ) poté co nezlomili šifru předali disky FBI a ta po sedmnáctí
+měsících neměla ani čárku, po dvou letech byly disky vráceny bez úspěchu,
+takže tak
+ martink
+02.09.2010 10:08:02
+utok hrubou silou je efektivni do urcite delky hesla ..
+v pripade drivecryptu se zadavaji dve hesla najednou
+
+nejaka zeme - nejspise amerika by na to neco mohla mit
+ heh
+02.09.2010 09:29:20
+Ne, v ČR s tebou a šifrovaným diskem nikdo nic nezmůže. Navíc silně pochybuju,
+že Policie ČR disponuje nějakým mohutným výpočetním clusterem určeným
+speciálně na lámání šifrovaných disků. Kvantové počítače jsou zatím v
+plenkách, takže si užívej soukromí :-)
+
+Lany von Awesome:
+Očividně nemáš vůbec páru o tom, co píšeš (ačkoliv děláš v "IT firmě"). Šifra
+DriveCryptu nebo TrueCryptu se rozhodně nedá prolomit "extrakcí" dat z jednoho
+HDD na druhý.
+
+Ad. tvůj výrok "vim mo cdobre co se da udelat, kdyz mas HDD fyzicky v ruce,
+zadna sifra ti to neuchrani" - jediné, co může policie dělat, když mi zabaví
+zašifrovaný disk, je vyhrožovat. Nic víc. Mimo to minimálně TrueCrypt je i na
+takové situace připraven. Umožňuje obsah disku zašifrovat dvěma různými hesly,
+z nichž každé odšifruje pouze určitou část dat. Jedno heslo např. odšifruje
+100 GB fotek z dovolené a druhé heslo odšifruje úplně vše. Policii pak stačí
+prozradit pouze to první. Vlk se nažere a koza zůstane celá.
+
+Jedinou snad trochu spolehlivou a časově nenáročnou metodou na prolomení
+šifrovaného disku je tzv. "cold boot attack". U něj se po tvrdém resetu
+počítače a nabootování speciálního systému (např. z USB flashdisku) udělá
+kompletní memory dump (obsah celé RAM se uloží třeba na USB). Využívá se toho,
+že RAM i po resetu stále obsahuje data z předtím běžících programů (tj. i
+včetně např. DriveCryptu nebo TrueCryptu) a tudíž obsahuje i heslo nutné k
+dešifrování. Ovšem těžko říct, jestli takové metody naše policie využívá.
+[Smajlík]             [Muž]1 [Kategorie]
+ _Z_e_n_o_v_ý_ _m_i_s_t_r_ _P_i_-_T_c_h_a
+02.09.2010 09:12:39
+každá šifra je prolomitelná na dostatečně výkoným PC
+
+
+třeba taková česká amálka by ti to heslo rozlouskla za pár hodin
+[Smajlík]     [Muž]24 [Kategorie]
+ _n_u_l_l_-_p_o_i_n_t_e_r
+02.09.2010 07:11:19
+Mám pocit, že nemají právo Tě nutit doložit heslo, ba dokonce nemají ani právo
+lámat šifru.. :)
+[Smajlík] [Muž]29 [Kategorie]
+ _s_p_a_i_s_e_e
+02.09.2010 04:06:23
+2Lany von Awesome: ty vis mozna tak ho*** :))
+ heh
+02.09.2010 04:03:02
+:-D jsi sikovny s googlem, ale muj kolega s prace (delam v IT firme) delal pro
+policii CR, vim mo cdobre co se da udelat, kdyz mas HDD fyzicky v ruce, zadna
+sifra ti to neuchrani
+[Smajlík]         [Muž]21 [Kategorie]
+ _L_a_n_y_ _v_o_n_ _A_w_e_s_o_m_e
+02.09.2010 03:59:21
+2Lany von Awesome: k prvni casti - sorry, ale si UPLNE mimo...
+
+treba takovej DriveCrypt
+
+Q: Has the DriveCrypt encryption ever been broken/hacked?
+A: No! In the past, we have also launched several contests offering up to
+100,000 US$ for the first person able to open a DriveCrypt encrypted disk
+
+
+Q: We are from the "Police" "Tax authority" "Security Company". and are
+investigating on someone whose computer is protected with your DriveCrypt
+software. Since we were not able to break into the protected computer
+ourselves, could you please assist us getting access to the encrypted data? If
+requested, we can provide you with a court order.
+A: Sorry, but our software has been designed to be the most secure in the
+industry, and as such not even our programmers are able to break into a
+DriveCrypt encrypted computer.
+The only way to get access to the protected data is by entering the correct
+password known only by the legitimate user.
+[Smajlík]
+ heh
+02.09.2010 03:05:41
+pochybuji ze máš nerozlustitelnou sifru, když dneska nic takového neexistuje,
+navic se da napojit primo do disku a zextrahovat data primo na nový hdd bez
+pomoci SW ci operacniho systemu, cimz se veskere zabezpeceni zrusi, tedy pokud
+maji PC v ruce tak si ho muzou vykuchat a informace z nej dostanou :-)
+
+/pokud budeme hypoteticky brat v uvahu ze se takova situace s nerozlustitelnym
+heslem stane, oni te muzou obvinit z mareni vysetrovani, zatajovani dukazu,
+prechovavani informaci spojenych s pripadem atd :-) takže ano, pokud ti
+jakkoliv dokažou že heslo znaš pujdeě si sednout!
+[Smajlík]         [Muž]21 [Kategorie]
+ _L_a_n_y_ _v_o_n_ _A_w_e_s_o_m_e
+02.09.2010 00:09:25
+heh: zadna chyba, jen internet. ;)
+ _o_v_e_r_b_u_r_n [Muž]33 [Kategorie]
+02.09.2010 00:06:30
+ok, moje chyba
+ heh
+01.09.2010 23:55:51
+heh: to co pises vim. Jenze on ma prvni slovo "teoreticky"
+[Smajlík] [Muž]33 [Kategorie]
+ _o_v_e_r_b_u_r_n
+01.09.2010 22:48:32
+2overburn: ale no tak, jsme v CR a Neutrino urcite hackovat FBI neplanuje
+
+pro vyssi stupen paranoii dismountnes disk s daty, kdyz ho nepouzivas...
+[Smajlík]
+ heh
+01.09.2010 22:43:54
+Nad disk doporucuji umistit nastrelovacku s kure*sky velkym hrebikem.
+[Smajlík] [Muž]33 [Kategorie]
+ _o_v_e_r_b_u_r_n
+01.09.2010 22:38:25
+Jenze oni se nejak nedohmatnou. Vetsinou jdou na jistotu (nikdo jen tak
+nepodepise prikaz) a pokud to je sdilenim, nemusi mit primo disk.
+
+Nikdo ti disky jej tak kontrolovat nepujde. A if jej budes cely cryptovat, je
+to dle meho blbost (rychlost, opotrebeni). Je taky moznost, ti vzit ramku,
+podchladit a vytahnout data klidne za pul hodky. Kingston kdysi delal studii,
+ze pri norm. teplote vydrzi az nekolik minut. Takze klice vytahnes z ni.
+ _o_v_e_r_b_u_r_n [Muž]33 [Kategorie]
+01.09.2010 22:36:32
+Nejlepší je nebezpečný obsah ukládat do cizích počítačů anebo naopak mít to ve
+svém pc tak, abys mohl tvrdit, že ti to tam uložil někdo cizí skrz net a že ty
+o ničem nevíš.
+ _M_o_d_r_á_ _S_v_i_n_ě [Muž]46 [Kategorie]
+01.09.2010 22:31:04
+Nemohli by tě třeba obvinit za maření vyšetřování? Nebo zatajování důkazů? A
+já nevim jakejma všema kličkama na tebe jít. Každopádně, nedej se!
+ _S_a_v_v_y [Žena]22 [Kategorie]
+01.09.2010 22:27:34
+nevim, jak presne je to v CR, ale v nekterych zemich by mohlo byt nevydani
+hesla problemem.
+
+kazdopadne vzdy muzes rict, ze heslo si mel na papirku a papirek si ztratil
+[Smajlík]
+ heh
+01.09.2010 22:12:40
+že ten počítač uvidíš až za 10 let, víc ti nemůžou.
+Leč až ti zabaví pátej a tobě dojdou prachy, možná změníš názor.
+V GB už bys šel sedět, ať žijí svobodné státy.
+[Smajlík]
+ dsggss
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+

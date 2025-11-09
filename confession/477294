@@ -1,0 +1,160 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+Zpověď č.477294, vloženo 26.09.2010 11: _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+45:14                                   _s_t_r_á_n_k_a_]
+otazka ohladom winsows7
+Trochu som sa s ním hral a len tak na skúšku som si dal "skryť" jeden
+priečinok s hudbou. Myslel som si, že bude len neviditelný ale po kliknutí na
+to miesto kde bol sa bude dať otvoriť alebo označiť. Ale prdlajz , on
+kompletne zmyzol.
+
+Otázka znie: Kde ho nájdem a ako ho zviditelním?
+
+THX
+ win7 [Muž]18  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+26.09.2010 23:12:52
+Winsows 4ever!
+[Smajlík]      [Žena]99 [Kategorie]
+ _T_á_ _o_d_ _s_u_s_e_d_o_v
+26.09.2010 20:57:14
+ramen dakujem
+
+ostatny chodte do p1če, len človeka dojebete a uplne strati zaujem, pojebana
+robota. vymazal som to celé a hotovo, s amožem vysrat na taku spolupracu.
+ win7
+26.09.2010 20:30:27
+Pochopiteľne, ako na truc sa mi podarilo vymáknuť ďalší bug spovednice a ten
+mi odrobil všetky spätné lomítka. :P
+
+Takže to napíšem teraz s klasickým lomítkom, ale v reáli treba použiť opačné,
+ooookej??
+
+attrib -h "C:/Users/Janko Hraško/Dokumenty/Môj ultratajný adresár"
+[Smajlík] [Muž]96 [Kategorie]
+ _r_a_m_e_n
+26.09.2010 20:13:06
+Síce nemám Win 7 a neviem, či pre spätnú kompatibilitu tam ponechali príkaz
+attrib, ale mohol by si to vyriešiť aj ním.
+
+Napríklad, dajme tomu, že poznáš plnú cestu k tomu adresáru a aj vieš, ako sa
+volá. Pre názornosť si predstavme, že je to cesta
+"C:UsersJanko HraškoDokumenty"
+a skrytý adresár sa nazýva
+"Môj ultratajný adresár".
+
+Potom stačí cez gombík Štart (vo Win7 a Hlíste to ich ftipné logo) dať
+"Spustiť" a tam "cmd" (napísať bez úvodzoviek) a potvrdiť OK.
+
+Spustí sa čierne okno a bude v ňom príkazový riadok, nočná to mora
+windowsovských užívateľov-začiatočníkov. :o) A v tomto okne treba napísať čosi
+takéto:
+
+attrib -h "C:UsersJanko HraškoDokumentyMôj ultratajný adresár"
+
+Tento príkaz zruší skrytie adresára. Všimni si úvodzovky, v tomto prípade sú
+dôležité, lebo cesta obsahuje medzery a keby nebola v úvodzovkách, attrib by
+považoval jednotlivé časti za ďalšie súbory/adresáre.
+
+Osobne si inak myslím, že mucha dal dobrý návod a tým by sa aj skryté súbory
+zobrazili (ako trocha viac priesvitné) a následne by si mohol zrušiť skrytie
+adresára.
+ _r_a_m_e_n [Muž]96 [Kategorie]
+26.09.2010 18:08:10
+Pozri, chces sa naucit s tym robit alebo chces len jeden priecinok zviditelnit
+a tym to pre teba pada?
+Ak to prve, tak som ti pomohol az moc. Ked som ja zacinal s PC, tak som si
+vsetko sam musel najst a nelutujem, ze som sa s tym potrapil. Tebe sa nechce,
+ty chces vsetko na tacke.
+
+Ak si ten druhy pripad - sekretarky, ktora nevie co s PC a staci jej len
+vyriesit tento jeden problem, potom:
+"nadradeny priecinok" - to je priecinok, v ktorom sa nachadza ten tvoj skryty
+subor/priecinok.
+Ak tam nemas Organise, tak co tam mas? Logicky asi treba hladat nieco ako
+"nastavenia -> pohlad -> zobrazit skryte subory", vsakze?
+Teda skus pouzit aj rozum a nie len nadavat, ze ta niekto nevodi za rucicku :(
+ mucha
+26.09.2010 16:52:09
+A mas tam take ze Usporiadat? Moznosti priecinka a hladania? Neviem ake mas
+vysoke IQ, ale moc velke asi nebude. Ked nevies aspon trochu anglicky (co je
+smutne v tvojom veku) tak pouzi slovnik. Nemas za co.
+ _P_i_e_c_e_O_f_C_a_k_e [Žena]20 [Kategorie]
+26.09.2010 16:31:57
+asi mu to treba prepísať ešte do slovenčiny.
+ _*_U_f_f_f_* [Muž]25 [Kategorie]
+26.09.2010 15:24:56
+Otevři Průzkumníka, zmáčkni na chvilku ALT -> objeví se nahoře nabídka -> dej
+nástroje -> Možnosti složky -> Tam jdi na druhou kartu a tam zašktrni
+"zobrazit skryté soubory"
+[Smajlík] [Muž]26 [Kategorie]
+ _N_e_u_t_r_i_n_o
+26.09.2010 15:11:21
+No lenže ja tam žiadne organize nemám, načo sem píssal keď kokot pomôže. Len
+som s aopýtal ako zviditelniť ten vydrbaný priečinok.
+ win7
+26.09.2010 13:22:52
+nadradeny=asi ten co je nad nim, nie? muchov navod je uplne presny, staci si
+to len prelozit do slovenciny.
+ _P_i_e_c_e_O_f_C_a_k_e [Žena]20 [Kategorie]
+26.09.2010 12:29:55
+Veď už som sa ho naučio schovať a tak dobre, že ho neviem nájsť :)
+Tak by si mi mohol aspom povedať či nadradeným myslíš ten priečinok v ktorom
+som ho schoval alebo úplne iný.
+ win7
+26.09.2010 12:27:05
+Hladaj. Najviac sa naucis, ak si to sam najdes.
+Navod som ti uz dal. Zvysok sa posnaz sam :)
+ mucha
+26.09.2010 12:16:11
+Ktorý je to ten nadradený? Dá sa to trochu presnejšie vysvetliť?
+ win7
+26.09.2010 11:56:07
+To uz pomoze len reinstalacia :(. Alebo vymenit tu suciastku medzi klavesnicou
+a stolickou :)
+
+Asi nevies velmi, co to znamena Hide :).
+Otvor si nadradeny priecinok -> Organize -> Folder and Search Options -> View
+-> Show hidden files and folders and drivers.
+ mucha
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+

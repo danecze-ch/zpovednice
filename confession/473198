@@ -1,0 +1,200 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+   Otázky - Vzkazy č.473198, vloženo _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+   01.09.2010 11:22:56               _s_t_r_á_n_k_a_]
+   VYHLEDÁVÁNÍ V DATABÁZI ZPOVĚDNICE
+   Zdravím ty co si mě ještě pamatujou, moc jich tu už asi nebude :)
+   Protože jsem se o prázdninách lehce nudil (a pajk už před nějakou dobou
+   zrušil vyhledávání kvůli přetěžování serveru), tak jsem si v rámci učení
+   napsal program na vyhledávání na zpovědnici. Spousta věcí se tu už
+   řešila několikrát a když si potřebujete přečíst víc názorů nebo se jenom
+   pobavit, tohle se může hodit.
+
+   JAK TO VYPADÁ:
+   www.bit.ly/doev2z
+
+   CO TO UMÍ:
+   1) Vytáhnout z databáze zpověď obsahující hledaný text v názvu nebo v
+   samotném textu (můžete si vybrat zaškrtnutím)
+   2) Vytáhnout seznam všech příspěvků od uživatele, který vás zajímá
+   (stačí napsat jeho nick do apostrofů v prostředním textboxu/okýnku a
+   zmáčknout spustit)
+   3) Zobrazit všechny příspěvky(rozhřešení) obsahující daný text.
+   4) Exportovat výsledky do TXT souboru.
+   5) Lidé znalí jazyka SQL si můžou vytáhnout další věci, ale to asi
+   většina z vás nebude.
+
+   CO TO POTŘEBUJE KE SPUŠTĚNÍ:
+   1) Microsoft windows XP a vyšší
+   2) Microsoft .NET Framework 3.5 ( nejspíš ho už máte, kdyby ne tak
+   www.bit.ly/dtplMM )
+   3) Microsoft SQL server 2008 R2 express with advanced services.
+   32bit verze tady: www.bit.ly/cpUVvL
+   64bit verze tady: www.bit.ly/c2sN9m
+   Když nevíte jakou, volte 32bit. Stáhněte, nainstalujte a při instalaci
+   je BEZPODMÍNEČNĚ NUTNÉ zaškrtnout komponentu "Full Text Search" !
+
+   JAK TO POUŽÍVAT (první spuštění):
+   1) Nainstalovat vše z předchozího kroku, restart PC.
+   2) Rozbalit někam staženou databázi (1,5GB rar: http://bit.ly/9ZoQAF
+   nebo http://bit.ly/cd2f5z ) a samotný program ( http://bit.ly/8Xxk3D ) .
+   3) Spustit program.
+   4) Zadat úplně nahoře plnou cestu k souboru mdf (databáze) a kliknout na
+   uložit nastavení. Program vytvoří soubor s nastavením, abyste to
+   nemuseli psát pokaždé.
+   5) Vypnout a zase zapnout program.
+   6) Můžete hledat :)
+   Pokud hledáte jedno slovo stačí zadat to; pokud dvě slova, musíte mezi
+   ně vložit AND jak vidíte na obrázku.
+   Jestli chcete jeden NEBO druhý výraz, pak napište OR. Další tlačítka
+   jsou už snad samokomentující...
+
+   CO TO ROZHODNĚ NEDĚLÁ:
+   1) Nepřipojuje se to k internetu
+   2) Nesahá to na server zpovednice.cz
+   3) Neudělá to nic špatnýho s vaším PC, přítomní programátoři můžou
+   potvrdit ze zdrojáku: http://bit.ly/9kQ024
+
+   THX TO:
+   Sosarian - za databázi, kterou stáhnul než ho pajk na kdovíjak dlouho
+   zabanoval :) a rady při vývoji
+   Zenový mistr Pi-Tcha - rady při vývoji
+   Microsoft - za C# a .NET :D
+
+   Kdyby vám nefungoval nějaký odkaz, umažte mezeru v něm.
+    _G_r_a_m_a_t_i_c_k_ý_ _d_é_m_o_n E-MAIL:_[_g_r_a_f_i_k_a_/_m_r_e_f_h_i_._g_i_f_]   [Muž] 
+                     [Kategorie]  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+30.12.2015 22:54:34
+Hackne vám to počítač, už je za to v lochu ;)
+[Smajlík] [Muž]38 [Kategorie]
+ _F_í_l_a
+11.05.2011 19:36:43
+Dííky ti! tohle jsem potřebovala.. muhehehehehe
+[Smajlík]            [Žena]18 [Kategorie]
+ _T_e_r_e_s_a_ _O_h_n_h_e_i_s_e_r_o_v_á
+03.09.2010 11:11:47
+GD - já teda nevím, ale mně to přijde jako normální sdělení, o čem chceš
+diskutovat?
+[Smajlík]  [Muž]37 [Kategorie]
+ _k_r_i_s_t_u_s_e_k
+02.09.2010 13:49:30
+Máchová: Pravda, tobě asi k ničemu když užs to všechno četla :)
+[Smajlík]
+ GD.
+02.09.2010 02:19:39
+jsem pořád nějak nepobrala co mám jako vyhledávat, nějaké staré chujoviny mě
+nezajímají
+ m9m
+01.09.2010 21:09:01
+a bude to v poho, protože SQL jsem se musel naučit abych zapisoval do tabulek
+když jsem dělal php skripty ;)
+[Smajlík] [Muž]17 [Kategorie]
+ _K_y_l_l_e_r
+01.09.2010 21:00:43
+Gramatický démon: ale asi si to stáhnu, protože je to ukázka fakt úžasný
+práce. Je to něco, co jen tak každý neudělá +1
+[Smajlík] [Muž]17 [Kategorie]
+ _K_y_l_l_e_r
+01.09.2010 16:57:16
+Kyller: Jo takhle, já tě nenutím, psal sem to pro sebe a sem to hážu jen proto
+že by to moh využít i někdo jinej))
+A co se napsání týče, to zas takovej problém není, ale tady jde o ten obsah -
+jsou to léta diskuzí a názorů od spousty zajímavých lidí.
+ _G_r_a_m_a_t_i_c_k_ý_ _d_é_m_o_n [Muž] [Kategorie]
+01.09.2010 16:54:29
+Nezní to špatně :)
+ _l_i_s_s_e_t_a [Žena]24 [Kategorie]
+01.09.2010 16:52:58
+Gramatický démon: to si udělám radši svojí vlastní pomocí php,to problém
+nebude. Sry ale nestahuju ;)
+ _K_y_l_l_e_r [Muž]17 [Kategorie]
+01.09.2010 14:11:45
+heh: google najde tak 10-30% věcí, vyzkoušeno.
+outsideLife: člověk by řekl že když jsem to dal do diskuzí, chtěl jsem aby to
+bylo v diskuzích... moc díky.
+cheshire: Ale já tebe ne, jakej jsi měla předtím nick?:)
+Kyller: a kdybys nebyl analfabet, všiml by sis že ta DB má dalšího 1.5GB, to
+je něco, že? Ono to někde musí být uložený a když to není na internetu, musí
+to být u tebe na PC. Nemyslím že je to v době terabajtových disků problém.
+[Smajlík]         [Muž] [Kategorie]
+ _G_r_a_m_a_t_i_c_k_ý_ _d_é_m_o_n
+01.09.2010 13:16:53
+awwwww, to je super :) google zbytočne otravuje s irelevantnými výsledkami...
+[Smajlík] [Žena]30 [Kategorie]
+ _j_e_d_o_w_k_a
+01.09.2010 12:33:46
+lol 727MB to si teda toho stáhnu
+[Smajlík] [Muž]17 [Kategorie]
+ _K_y_l_l_e_r
+01.09.2010 12:12:26
+Kluk šikovnej. A zdravím, pamatuju.
+[Smajlík] [Žena]3 [Kategorie]
+ _c_h_e_s_h_i_r_e
+01.09.2010 11:41:49
+Ano, honem to šoupněte do vzkazů, aby to bylo co nejméně na očích :-) Někdo
+zdarma a s nadšením pomáhá Pajkovi a dostane se mu takového zacházení, hanba!
+[Smajlík]             [Muž]1 [Kategorie]
+ _Z_e_n_o_v_ý_ _m_i_s_t_r_ _P_i_-_T_c_h_a
+01.09.2010 11:29:44
+Svůj příspěvek jsi vložil(a) do nespravné kategorie. Bylo provedeno přesunutí.
+V případě opakování hrozí blokování vstupu na portál. Prosím zvol příště
+správnou kategorii. Děkujeme za pochopení.
+[Smajlík]      [Muž] [Kategorie]
+ _A_d_m_i_n_i_s_t_r_á_t_o_r
+01.09.2010 11:29:37
+za databazi dik
+za snahu plus
+
+pokud zpoved neni smazana, tak google celkem staci, ne?
+ heh
+01.09.2010 11:27:47
+zatím mi postačuje google.
+
+mimochodem, proč sem už nechodíš?
+ trumpeta
+01.09.2010 11:26:15
+nice, bohuzel to na linuxu nerozjedu tak aspon mrknu na zdrojaky
+[Smajlík]     [Muž]24 [Kategorie]
+ _n_u_l_l_-_p_o_i_n_t_e_r
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+

@@ -1,0 +1,191 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+Diskuze č.473093, vloženo 31.08.2010 19: _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+30:31                                    _s_t_r_á_n_k_a_]
+Fandíte robotice?
+Já jo. Už jen protože jsem dříve hodně konstruoval, ale to jsem byl chytřejší.
+Začala ale moje nová životní etapa a tak si mohu dovolit pokročit po
+několikaleté minipauze kvůli nedostatkům financí v konstruování robotů.
+Pomalu ale jistě se znovu rozjíždím. Ale o co tedy půjde?
+Bude to autonomní hexapod, tedy samostatně fungující šestinohý robot, každá
+noha 3 stupně volnosti, 30 receptorů, celkem 20 servomotorů..atd...zbytečné
+rozepisovat.
+Hlavní je ale to, že to bude NESKUTEČNĚ SLOŽITÝ :) kinematika, psychomega
+složitá řízená soustava...neskutečně moc řídících veličin a hlavně energetická
+náročnost (a bude to taky kurevsky drahý) proto tomu dávám cca 5 let..rok pro
+řešení lokomočního systému a další 4 roky vývoj kognitivního systému -
+software- se kterým mi doufám pomůže null-pointer!! Už jsme se do toho u pivka
+zasvětili, teď začne sháňka po chybějící literatuře.
+Není nad posedlost :)
+Tak co? Fandí nám někdo? Věří nám někdo že jsme takový machři?
+Já věřím :D
+Znáte někoho kdo do takových věcí dělá? Je v kráčejících robotech budoucnost?
+ _H_a_v_r_a_n_ _P_o_p_e_l_a_v_ý [Muž]23 [Kategorie]  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+31.08.2010 21:52:40
+Udělejte blog prosím.
+[Smajlík] [Muž]28 [Kategorie]
+ _V_o_k_y
+31.08.2010 21:50:22
+drzim palce, je to moc pekny konicek
+[Smajlík]
+ heh
+31.08.2010 21:23:55
+Pokud zadna reakce, pak se omlouvam, ale maily na seznamu nejsou uplne
+spolehlivee. Uz se mi parkrat stalo, ze to chyytily antispumy. Takze pokud
+neodpovidam, prosim mail opakovat.
+Jak posilas tu konstrukci, ono tam neni zas az tak moc videt, ale prijde mi
+staticky dost slaba. U tohoto typu musis resit i variantu, e se Ti obrati na
+zada a z obrazku neni moc znat, jestli by dokazal obratit nohy na druhou
+stranu. Jinak otazka serv neni a takovy problem. Kdyz je nekupujes v potrebach
+pro modelare, tak zas tak draha nejsou. Jinak mam pocit, ze rovna pro tyhle
+ucely je daleko rozzumnejsi hydraulika
+ _A_l_f_a_r_d [Muž]59 [Kategorie]
+31.08.2010 21:15:13
+Alfard: Už jsem ti jednou psal mail :D a reakce? Žádná! :/ Je to MOC složité,
+ale proto jsem se do toho pustil, nejhorší bude program no... Klidně pošlu
+proč jsem si to vybral a k jakému účelu by to bylo, tam to nejde obejít,
+shrnutí a koncepci kráčejícího podvozku už mám sepsanou...no prostě 3 stupně
+volnosti, méně ne...už kvůli zásobě statické stability...
+Cena bude otřesná, už jen že nechci použít modelářský a smažácký serva.
+Jinak těžká inspirace je tady:
+_h_t_t_p_:_/_/_w_w_w_._c_s_._c_m_u_._e_d_u_/_~_c_h_u_c_k_/_r_o_b_o_t_p_g_/_a_ ttilapg/
+ _H_a_v_r_a_n_ _P_o_p_e_l_a_v_ý [Muž]27 [Kategorie]
+31.08.2010 21:09:38
+Ja se o to zajimam uz par let. Mam pocit, ze na to jdes prilis slozite.
+Zbytecne prilis stupnu volnosti i motoru. Poslednim trendem jsou pomerne
+jednoduche algoritmy vychazejici z prirody. A to je asi ten spravny trend.
+Mimochodem resim ted neco, co by vas mohlo zajimat a to skutecne prostorove 3D
+videni. Jinak pro pohon se mi dnes jako nejvhodnejsi jevi palivove clanky. Na
+druhou stranu je otazka, jestli system se 4 nebo 6 skupinami kol po 3 neni
+jednodussi a vyrane spolehlivejsi. Problem zapadnuti nohy nemusi byt
+resitelny.. Jinak kdybyste meli chut do tymu pribrat dalsiho konstruktera, rad
+bych nabbidl sve sluzby.
+ _A_l_f_a_r_d [Muž]59 [Kategorie]
+31.08.2010 20:31:47
+Kyller: PICAXE je maličkost, ale na začátek stačí, na jednu nohu by stačil
+taky, uvažoval jsem o něj,nic bych tím nepokazil a ušetřil bych nějaký drobný
+i čas..nestačil by na takového hexapoda celkově samozřejmě, jinak začínal jsem
+teda na složitějších, buď na 8051 nebo potom PIC16F84 apod.
+Jinak jsem zastáncem umělé hlouposti, tedy "filozofie" Marka Tildena...takže
+jsem zastáncem jednoduchých imitací nepodmíněných reflexů jako u jeho hmyzích
+robotů...a tomu stačí i pár tranzistorů a pár hradel...
+Ale jak říkám...tento hexapod bude hardcore, možná tedy samoučící se, to už
+nebude tak na mě, jako spíše na null-pointerovi, protože to už bude chtít
+znalosti neuronové sítě a pokročilého programování...
+ _H_a_v_r_a_n_ _P_o_p_e_l_a_v_ý [Muž]27 [Kategorie]
+31.08.2010 20:25:54
+a zda tobe fandim? Pokud te to bavi a mas moznost neco vytvorit, tak urcite.
+Nicmene z praxe uz jsem docela zvyklej, ze clovek jde po roce hodne vykonostne
+dolu. Takze drzim palce hlavne s vydrzi a zapalenim.
+[Smajlík] [Muž]33 [Kategorie]
+ _o_v_e_r_b_u_r_n
+31.08.2010 20:23:04
+Docela me prekvapili Boston Dynamics s rovnovahou. Ale vypada to trochu
+strasidelne, skoro jako MGS:
+_h_t_t_p_:_/_/_t_i_n_y_u_r_l_._c_o_m_/_3_3_a_m_4_h_r_ 
+Jo, v tomhle jim docela fandim. Zvlast kdyz muzou pomoct s nosenim a prepravou
+v tezsim terenu.
+[Smajlík] [Muž]33 [Kategorie]
+ _o_v_e_r_b_u_r_n
+31.08.2010 20:08:00
+Havran Popelavý:
+Spíš jsem myslel jestli děláš ty velký roboty nebo ty menší např. pomocí
+PICAXE. ;)
+[Smajlík] [Muž]17 [Kategorie]
+ _K_y_l_l_e_r
+31.08.2010 20:00:22
+Kyller: Nechápu ten dotaz. Co si představuješ pod "samostatně myslet" ?:D Jako
+vědomí jestli mají nebo jak? Jestli tím myslíš učení se atd. tak to tak bude
+pokud se rozhodneme pro řízení wifi...
+ _H_a_v_r_a_n_ _P_o_p_e_l_a_v_ý [Muž]27 [Kategorie]
+31.08.2010 19:52:16
+Havran Popelavý: Jojo, má to na několik těch mobilních procesorů. Možná i pro
+každou nohu jeden, nevím.
+ _s_o_u_k_m_e_n_o_v_e_c [Muž]29 [Kategorie]
+31.08.2010 19:51:12
+Havran Popelavý: Už ti roboti umějí samostatně myslet?
+ _K_y_l_l_e_r [Muž]17 [Kategorie]
+31.08.2010 19:49:37
+soukmenovec: Tady je ještě háček v tom jak to bude řízený...buď to bude
+blboučké, tedy řídilo by to několik mikroprocesorů..nebo by se zařídilo
+rozhraní wifi a řídil by to počítač...
+Ale z vlastní zkušenosti vím, že by bylo nejlepší použít tu blboučkou verzi,
+vynechat kognitivní systém a pokročilé plánování úloh...
+ _H_a_v_r_a_n_ _P_o_p_e_l_a_v_ý [Muž]27 [Kategorie]
+31.08.2010 19:44:11
+Není problém, spíše bych házel nějaké reporty...něco jako blog? A nebo
+jspWiki, jak píše null-pointer, blog nebo jspWiki...stejně by tam byly jen
+fotky a nějakej kec k tomu... a třeba co se povedlo a co se fakt nepovedlo
+atd... :D
+ _H_a_v_r_a_n_ _P_o_p_e_l_a_v_ý [Muž]27 [Kategorie]
+31.08.2010 19:42:53
+To zní fajn. Jo, jeden kamarád do robotiky dělá. Tvrdil mi, že dostává
+procesory na testování zdarma, myslím že od Texas Instruments. Kdyžtak vás
+někdy třeba seznámím, mohli byste snížit náklady a vyměnit poznatky. :)
+ _s_o_u_k_m_e_n_o_v_e_c [Muž]29 [Kategorie]
+31.08.2010 19:42:04
+Mi se líbí robotický fotbal, je to zajímavá myšlenka jak ověřit svoje
+dovednosti v praxi.
+[Smajlík]    [Muž]46 [Kategorie]
+ _M_o_d_r_á_ _S_v_i_n_ě
+31.08.2010 19:39:17
+Už ti roboti umějí samostatně myslet?
+[Smajlík] [Muž]17 [Kategorie]
+ _K_y_l_l_e_r
+31.08.2010 19:37:11
+Fanda: muzu rozjet jspWiki
+[Smajlík]     [Muž]24 [Kategorie]
+ _n_u_l_l_-_p_o_i_n_t_e_r
+31.08.2010 19:36:16
+Fandím! Mohli byste se sem rozepisovat i průběžně, jak postupujete
+[Smajlík]
+ Fanda
+31.08.2010 19:34:39
+Ne asi, pošleme to pak povraždit uživatele zp -_- :D
+ _H_a_v_r_a_n_ _P_o_p_e_l_a_v_ý [Muž]27 [Kategorie]
+31.08.2010 19:32:12
+a nadvláda robotů může započít
+[Smajlík]     [Muž]24 [Kategorie]
+ _n_u_l_l_-_p_o_i_n_t_e_r
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+
