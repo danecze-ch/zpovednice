@@ -1,0 +1,130 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+   Otázky - Vzkazy č.633721, vloženo _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+   12.06.2012 16:47:22               _s_t_r_á_n_k_a_]
+   jak spočítat vteřiny
+   Zdravím,
+   mám dataz na tohle.
+   Mám nějaký čas ve vteřinách a setinách. Tedy zajímají mě jen vteřiny a
+   setiny. A chci to převést ty dvě čísla na stejnou jednotku. Problém je v
+   tom, že vteřiny nemohu převést na setiny, protože mohu používat pouze
+   celá čísla.
+
+   Tedy při převodu ((60/100)*sekundy)+setiny by výsledek byl nula, protože
+   60/100 je nula.
+
+   Máte nějaké matematické řešení?
+    Fialový dynamit [Muž]19  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+12.06.2012 22:13:53
+Svoje výpočty jsem dokončil
+
+22:05:55,82 (čas začátku akce)
+5500+50 = 5550 (55:00 + 0:50 kde 0:50 jsou setiny převedené ve stylu hodin)
+5550 (kdyby se setiny psaly stejně jak se píšou vteřiny tak by to bylo 55:50)
+22:06:02,42 (čas konce akce)
+Correction: s2: 2 (vypočítaná korekce vteřin u konečného času)
+s2:64 , s:6400 (konečný čas - vteřiny 64:00)
+6400+26 = 6426 (přičtení setiny převedených ve stylu hodin)
+Delay:876 (číslo vyjadřující časový rozdíl 8:76 neboli 8s a 45 vteřin)
+Pokračujte stisknutím libovolné klávesy...
+ Fialový dynamit
+12.06.2012 19:52:38
+by neop:
+No já mám dvě čísla. Jedno jsou sekundy a tam 60 sekund představuje celek.
+Kdežto u setin sekundy je celek 60. Takže vynásobit jen tak se to nedá.
+
+Ale lepší je neupravovat vteřiny, ale setiny. Menší nepřesnost.
+ Fialový dynamit
+12.06.2012 18:31:29
+Pokud ti jde jenom o ty vteřiny (čili sekundy), tak tam neni co převádět.
+Setiny (desetiny, tísíciny atd.) jsou vždycky z něčeho. V tomto případě ze
+sekund. Takže oněch 34,85 sekund bude vždycky 34,85 sekund. Můžeš to vyjádřit
+jako 3485 setin sekundy (prostě to vynásobíš stem, když to chceš vyjádřit v
+setinách), ale to je skoro stejně nepraktické, jako říct že třeby teď je za
+hodinu půl osmé...
+Zkrátka sekundy se už dál nedělí ve stylu hodiny-minuty-sekundy, ale ale
+udávají se jako obyčejné desetinné číslo, se kterým potom také jako s
+desetinným číslem zacházíš.
+ by neop
+12.06.2012 17:27:44
+Ještě příklad:
+
+17:23:34,85
+34 sekund je 56 procent z minuty. Asi to budu muset ještě vynásobit 100,
+protože 85 jsou setiny
+Takže 5600+85 = 5685 je číslo které odpovídá 34 sekundám a 85 setinám.
+Tak teda doufám, že můj výpočet je správný.
+ Fialový dynamit
+12.06.2012 17:16:22
+A co takhle? Dejme tomu že mám 60 minut 50 setin. Pro jednoduchost. Jinak by
+to spíš mělo být číslo menší než 60.
+
+Když celek je 60, kolik potřebuju přidat, abych dostal 100? 40.
+40 jsou 2/3 z 60 (2/3 z celku)
+
+Když sekundy navýším o 2 třetiny, tak musím taky navýšit setiny o 2/3.
+
+Takže mám dvě čísla o stejné jednotce: 100 a 32 a ty mohu přičíst. Takže číslo
+132 dostanu pokud sekundy x vynásobím dvěma třetinama x, a setiny vynásobím
+dvěma třetinama y
+
+Snad to dává smysl a snad moje logika je správná? Přes matematiku moc expert
+nejsem
+ Fialový dynamit
+12.06.2012 17:02:34
+Nemusí to být přímo převod na čas. Ale na nějaké číslo vyjadřující množství.
+Prostě na stejné jednotky.
+ Fialový dynamit
+12.06.2012 16:59:57
+Snad to není blbost. 100/60 = 1 a 60/100 = 0; Prostě nemohou použít desetiny.
+Ale dalo by se to převést třeba tak, že by ve výsledku př. 1/25 nebylo 0,25
+ale aby ti vyšlo 25. Chápeš?
+ Fialový dynamit
+12.06.2012 16:52:11
+Dost dobře nechápu to s celýma číslama....
+To je jako když chceš převést 2hodiny a 20 minut na hodiny, ale musí to bejt
+celý čísla....
+To je trošku blbost, ne?
+ _B_o_o_g_u [Muž]25 [Kategorie]
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+
