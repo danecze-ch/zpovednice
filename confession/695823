@@ -1,0 +1,241 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+   Otázky - Vzkazy č.695823, vloženo _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+   25.01.2013 19:52:15               _s_t_r_á_n_k_a_]
+   Nejde pc
+   Zdravím.Už třetí den mi nejde počítač.Zkoušel jsem to snad 50 krát a
+   pokaždé to je stejné-pod logem Windows XP to nabíhá,pak se na sekundu
+   objeví zelená louka(bez ikon)a hned modré pozadí s rámečkem a nápisem
+   "pro dokončení API není dostatek prostředků".Na horní straně rámečku je-
+   isass.exe-systémová chyba.Je to Pentium 4(IBM),3 200 Mhz,999 Ram,disk
+   160 GB.Koupil jsem ho před 6 lety použitý a za celou dobu žádný
+   problém.Pokud by to bylo na odpis,dají se z něho "dostat" data
+   (filmy,hudba,foto,videa)???Teď píši z pc u známé,která taky nechápe,o co
+   jde.Poradí mi někdo?Dík.
+    _d_a_n_y_v_a_n_y [Muž]37 [Kategorie]  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+27.01.2013 16:21:44
+Ještě detail - PC nevysávej, můžeš vyzkratovat desku. Radši ho nech protáhnout
+kompresorem, je to rychlejší a účinnější. Můžeš i očistit větráčky.
+
+Viděl jsem nedávno i staré PC z roku 2002 a baterka stále jede, neboj.
+ _J_L_2 [Muž]30 [Kategorie]
+27.01.2013 16:09:52
+IkaSGC-Děkuju moc,i za Tvůj čas.Za celou dobu jsem neměl sundaný kryt(Pentium
+4),tak jsem byl trochu v šoku,kolik je tam prachu a pavučin.Hned sem to
+vysál.Tenkrát před 6 lety mi tam prodávající dal novou baterku,tak snad ještě
+"jede".
+[Smajlík] [Muž]42 [Kategorie]
+ _d_a_n_y_v_a_n_y
+27.01.2013 14:22:19
+Tak tedy poslední rada. :)
+
+V PC pro případ více HDD se tyto disky rozdělují na Pány a Otroky (Master,
+Slave) a to proto že jeden disk musí být vždy hlavní. Berme v potaz že tvoje
+PC je zastaralejší a tudíž má asi starší sběrnici ATA (novějsí je SATA) a
+tatko sběrnice používá jako datový kabel k HDD takovou širokou placatou ludru
+(u SATA je to podstatně menší káblík). Každý tento káblík má věčinou
+standartně 3 vývody, jeden se připojí do základní desky a další dva konce
+například do HDD nebo CD/DVD mechanik. Na HDD se posléze pomocí malinkatých
+svorek zvaných JUMPER nastavuje buďto Slave, Master nebo Cable Select
+
+HDD na kterém nastavíš MASTER se bude chovat jako dominantní tudíž se z něj
+bude načítat system prioritně
+HDD na kterém nastavíš SLAVE se bude chovat jako druhotný.
+Cable select se dřív moc nepoužíval u novějších počítačů se používá častěji to
+znamená že BIOS (neboli číp který je na základní desce a má řízení disků a
+procesoru nastarosti (vpodstatě podsystém nebo jakoby v mozku podvědomí)) si
+disk sám rozpozná a zařadí.
+
+Takže ty nastavíš disk na kterém je Win jako Master a druhý disk jako Slave.
+Oba zapojíš a zapneš PC. Pokud nevzniknou problémy tak by měl BIOS sam
+rozpoznat disky takže pri zavádění podsystemu by se ti tam měli zobrazit oba
+dva disky a jejich kapacity.
+
+Pak už je jen otázka jestli se system spustí nebo ne. Je docela pravděpodobné
+že se nespustí protože na jinčím PC jsou nainstalované jinčí ovladače (např.:
+ke grafice, zvukovce atd. tzv.:Drivery) které zcela určitě nebudou pasovat na
+dané PC. Pokud by jsi chtěl tento HDD tam nechat a používat, tak jako tak
+budeš muset Drivery přeinstalovat. nejlépe však přeinstalovat celý system.
+
+U výkonějších PC při tomto hrozí i poškození HW. Například když bych předělal
+HDD z mého PC kde je výkonná grafika do nějakého slabého PC tak ony drivery by
+asi byli i nesprávným fungováním schopny danou slabší grafiku poškodit.
+
+Pokud i tohle nepomůže :) doporučuji si přečíst nějaké základy Terminologie a
+fungování PC. Při horších softwarových problémech použít google (90% problémů
+je už někde vyřešeno) pokud ani to nepomůže tak poslední nadějí (pro
+sebevyuku) je _h_t_t_p_:_/_/_p_c_._p_o_r_a_d_n_a_._n_e_t_/_ 
+
+Avšak na PC poradně lidé nemají moc chuť pomáhat a když se nebaví se sobě
+rovným tak se věčinou chovají jako oslové takže doporučuji mít pevné nervy. :)
+[Smajlík] [Muž]29 [Kategorie]
+ _I_k_a_S_G_C
+27.01.2013 11:47:55
+IkaSGC-Čau.Tak sem to HDD předělal(poprvé v životě se v tom "rýpu")z toho
+pomalejšího pc do rychlého a nechytlo se to.Asi sem někde udělal chybu,protože
+nevím,co to je CABLE SELECT nebo SLAVE.Můžeš mi to,prosím, objasnit???Na
+monitoru se ukázalo menu s údaji-stav nouze,nouzový režim..atd,ale nic z toho
+nereagovalo.Taky to ukázalo "Pravděpodobně jste vyměnili Hardware,nebo
+Software".Taky to rozpoznalo,že disk má kapacitu 40 GB.Ale to je vše.Víc jsem
+z toho "nedostal".
+ _d_a_n_y_v_a_n_y [Muž]42 [Kategorie]
+26.01.2013 09:39:32
+Hdd z jiného PC by možná chytlo kdyby jsi ho tam předělal ale musel by jsi ten
+původní disk předělat jako "Cable Select" nebo "Slave". Pak je to 50 na 50%
+jestli by se ten Win chytil. Ale nejspíš jo. Jináč vzhledem k tomu že ty
+počítače už asi mají cosi za sebou tak bych asi volil metodu spíš stáhnout XP
+z netu. Protože XPčka už jsou dosti zastaralé a kupovat za 600kč CD které ani
+nemusí fungovat nebo může mít špatné sektory je docela risk. Nejlíp uděláš
+když to dáš nějakému synovi nebo známému který o PC aspoň něco málo ví a on to
+udělá za půlčana slivovičky ;)
+[Smajlík] [Muž]29 [Kategorie]
+ _I_k_a_S_G_C
+26.01.2013 09:05:28
+Dobře,a co kdybych vydělal HDD z toho pomalého pc a dal ho do toho
+rychlého?Jelo by to?A jelo by to hned,nebo se musí něco instalovat a
+"překopat"?Nikdy jsem to nedělal.Jinak instalační CD s XP nemám,ale na
+Bazos.cz je jich několik,nejlevnější za 600.-.
+ _d_a_n_y_v_a_n_y [Muž]42 [Kategorie]
+25.01.2013 23:06:33
+V tomto případě když nejsu u toho a nemůžu sám zasáhnout, doporučuji jedině
+fyzicky přenést HDD do jiného PC a zálohovat. Nebo oželit zálohy (pokud nejsou
+životně důležité) a rovnou reinstall.
+ _I_k_a_S_G_C [Muž]29 [Kategorie]
+25.01.2013 22:44:01
+Tak jsem to několikrát zkusil s tou F8 a nepomohlo to.Dal jsem nouzový režim a
+Enter.Zavrčelo to a napsalo krátký,stejný text od vrchu dolů.Pak se to samo
+nastartovalo,ale zas je tam ten nápis a nechce to pustit dál.Všiml si ještě
+jedné věci.Ten pomalý,slabý pc-tam pod Windows "nabíhají"3 čtverečky za
+sebou,ale na tomto jen dva.Není to známka něčeho?Jinak jsem to spletl,ta RAM
+bude 1000Mb,omlouvám se.
+ _d_a_n_y_v_a_n_y [Muž]42 [Kategorie]
+25.01.2013 22:08:31
+Zarcon- Zpomal šerife :D k linuxáckým boot CD jsme daleko. Pojem Bootování
+ještě nebyl objasněn ;)
+
+Zatím jsme se dostali ke klávese F8 a nouzovému režimu :P vysvětlit bootování
+linux CD by bylo na týden.
+[Smajlík] [Muž]29 [Kategorie]
+ _I_k_a_S_G_C
+25.01.2013 21:46:13
+Hiren's Boot CD, nebo jakoukoliv Live distribuci Linuxu. Mám třeba na malém cd
+Puppy linux a už mně to několikrát zachránilo z prekérní situace. Nabootuješ a
+mužeš odsypat disk někam jinam. Jenom počítej s tím že vzhledem k té malé RAM
+to pojede znatelně pomaleji, ale furt lepší než nic.
+Příp. vymontuj disk a odnes třeba k známému kde to může zkusit napojit jako
+sekundární.
+ _Z_a_r_c_o_n [Muž]41 [Kategorie]
+25.01.2013 21:30:32
+danyvany: radši kapacitu ramek ani neuváděj vše je špatně :D zapni PC a mačkej
+F8 pokud si dobře pamatuji mělo by ti to skočit do menu a tam dej Spustit v
+nouzovém režimu. Pokud to nenajede tak by to mohlo jít nabootovat pomocí CD
+Win XP. Pokud si dobře pamatuji tak by měl být asi postup stejný ale s CD v
+CDromce by se ti tam měla oběvit možnost "Spustit s pomocí CD" nebo něco
+takového (Možná se pletu, s XP jsem už dlouho nic nedělal). Pokud ani jedno
+nezabere tak nezbývá než vyndat HDD a fyzicky jej vložit do jiného PC poté
+překopírovat data, dat spátky a formát+reinstall....
+
+To by bylo na delší vysvětlování :) pokud bych se nudil tak bych poradil můžeš
+dyžtak zkusit PM me (personal messange :D)
+[Smajlík] [Muž]29 [Kategorie]
+ _I_k_a_S_G_C
+25.01.2013 20:27:48
+Je to ostuda,chlapi,ale na tyhle věci jsem prostě "blbý".Jak se dostanu do
+nouzového režimu?Jak můžu něco vymazat,když to nejde nastartovat?Mám doma
+ještě jeden(Pentium 3,1000 Mhz,128 RAM),ale ten je tak pomalý,že se seká a
+trvá i normální prohlížení.Nikdy jsem pc neotvíral.
+ _d_a_n_y_v_a_n_y [Muž]42 [Kategorie]
+25.01.2013 20:20:28
+Svůj příspěvek jsi vložil(a) do nespravné kategorie. Bylo provedeno přesunutí.
+V případě opakování hrozí blokování vstupu na portál. Prosím zvol příště
+správnou kategorii. Děkujeme za pochopení.
+[Smajlík]      [Muž] [Kategorie]
+ _A_d_m_i_n_i_s_t_r_á_t_o_r
+25.01.2013 20:12:05
+Xaren: jo a zaplatí nemalé peníze..... Vždyť jde o docela banalní záležitost.
+Nemá cenu vyhazovat peníze kvůli tomu. To zvládně každý. Minimálně má nějakého
+známého co to zvládne ale posílat ho do obchodu to by mě nikdy nenapadlo :P to
+je zoufalé řešení :) mg.
+ _I_k_a_S_G_C [Muž]29 [Kategorie]
+25.01.2013 20:08:19
+JL2: to bych dělal až nakonec.... nejdřív bych to skusil bootnout s CD esi to
+nechytne nebo skusit opravit zaváděcí sekvenci okínek... po případě nouzový
+režim.... Už nvm co přesně zvládá CD XP.
+[Smajlík] [Muž]29 [Kategorie]
+ _I_k_a_S_G_C
+25.01.2013 20:07:21
+Já myslel ve specializovanejch obchodech kde ti to můžou vytáhnout mg.
+ _X_a_r_e_n [Muž]18 [Kategorie]
+25.01.2013 20:05:33
+Xaren: to je teda rada :D "skus se někde zeptat" dyť se ptá tady :D
+ _I_k_a_S_G_C [Muž]29 [Kategorie]
+25.01.2013 20:04:57
+Máš tam chybu. 999 RAM neexistuje.
+
+Předpokládám, že disk bude staršího připojení IDE (široká pásovnice). Tak vem
+ten disk a připoj ho k jinému PC, kde bude s vlastním diskem a deskou s IDE
+konektorem (asi od roky 2009 se už u desek nepoužívá) a nahraj ho jako
+sekundární
+
+Vzhledem ke stáří (už je daleko za životností) může mít vadné sektory
+(nehorázně se seká, nenačtou se soubory) a nebo se Ti vůbec nenahraje. Pokud
+je zn. Seagate nebo Western Digital, tak ta poruchovost je o něco nižší.
+ _J_L_2 [Muž]30 [Kategorie]
+25.01.2013 20:01:52
+Musíš něco vymazat nemáš dostatek paměti na spuštění windowsů tudíž nemůže
+načíst důležité proporce. Vytáhnout by to teorticky šlo skus se někde zeptat.
+ _X_a_r_e_n [Muž]18 [Kategorie]
+25.01.2013 19:57:41
+Je ti 37 a nevíš základy užívání PC ? No pokud jsi už 6 let nepřeinstaloval
+okna tak se nedivím. Pokud jsi neměl rozdělené disky tak zkus nabootovat
+pomocí Win CD nebo zkus nouzový režim. Zálohuj si data a přeinstaluj Win.
+Pokud ten system ani v nouzáku nechytne tak vyndej HDD a zálohuj přez jiné PC.
+[Smajlík] [Muž]29 [Kategorie]
+ _I_k_a_S_G_C
+25.01.2013 19:57:33
+Pokud jsi tam měl pevný disk, tak ho můžeš normálně vyjmout, ale pokud jsi měl
+pouze systémový, tak máš po datech. Přeinstaluj wokna, jinak si asi nepomůžeš
+...
+ _S_m_é_a_g_o_l [Muž]18 [Kategorie]
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+

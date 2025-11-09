@@ -1,0 +1,186 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+   Otázky - Vzkazy č.693313, vloženo _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+   17.01.2013 13:57:08               _s_t_r_á_n_k_a_]
+   Prehrivani pc a Mozilla Firefox
+   Zdravim.. mozna me presunou do "otazek", ale je to vec, ktera me
+   neskutecne stve, takze ji davam do zpovedi..
+
+   Mam asi rok stary notebook (Toshiba) a posledni dobou se mu zapina
+   vetrak, chlazeni pri sebemensi prkotine - prace ve wordu, prohlizeni
+   internetu... Vetrak se zapina na vysokou frekvenci a rusi me pri uceni
+   atp.
+
+   Dala jsem ho do servisu - ale rekli,ze mu nic neni,ze udelali testy a
+   jde normalne.
+   Prinesla jsem ho domu a dela to stejne...
+
+   Je mozny,aby vetrak,chlazeni ovlivnoval nejaky konkretni program?
+   Vypozorovala jsem,ze kdyz delam v prohlizeci Mozzilla Firefox, je to asi
+   nejhorsi.. a kdyz ho minimalizuju,popr.uplne zavru, vetrak vetsinou po
+   par sekundach utichne... Ale mozna to souvislost nema,nevim..pocitacum
+   moc nerozumim:)
+    neznalek 007 [Žena]99  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+17.01.2013 19:59:25
+Svůj příspěvek jsi vložil(a) do nespravné kategorie. Bylo provedeno přesunutí.
+V případě opakování hrozí blokování vstupu na portál. Prosím zvol příště
+správnou kategorii. Děkujeme za pochopení.
+[Smajlík]      [Muž] [Kategorie]
+ _A_d_m_i_n_i_s_t_r_á_t_o_r
+17.01.2013 16:18:03
+Občas pomůže i upgrade na novější verzi BIOSU,. resp se takový problém může
+projevit po upgrade :).
+
+Jinak do větráků rozhodně nefoukejte kompresorem, pokud zároveň něčím nedržíte
+lopatky. Proudem vzduchu můžete větrák roztočit na několikanásobek jeho
+normovaných otáček a spálit motorek nebo poškodit ložiska.
+ Netuším
+17.01.2013 15:42:22
+IT Cvok
+
+Ad 2) Stačí zadat do youtube na 80% tam bude video navod na rozebrání.
+Ad 3) Vybíjení přez radiátor nedoporučuji - barevný nátěr = izolant
+Jistější je kolík v zásuvce a nedotýkat se MB pokud možno vůbec
+[Smajlík] [Muž]29 [Kategorie]
+ _I_k_a_S_G_C
+17.01.2013 14:43:03
+Hmmm, rozebrat ho většinou není problém, teda jednou jsem problém měl,
+zatavenej šoubek držící wifi modul, musel jsem ten šroubek odvrtat...
+
+1) hezky pomalu
+2) najdi si adekvátní disassembly manual k notebooku, je to tam popsaný jak
+pro blbce
+3) žádnou statickou elektřinu, pokud nemáš přímo náramek s kabelem, vybíjej se
+čas od času o radiátor
+4) pokud něco děláš silou, je něco špatně
+5) jakmile odlepíš chlazení od cpu a gpu, je nová teplovodivá pasta nutnost
+
+ad servis. Většinou tam jsou hovada a vrátěj ti ho s tim, že ho naprázdno
+spustěj a pokud se nepřehřeje tak, tak řeknou, že je še v pořádku. Zkus např
+AIDA64 a zatížit to. Uvidíš tam i teploty.
+pokud jsou teploty v normálu (při zatížení dnešních procesorů by teplota
+neměla přesáhnout 70°C v zátěži (ale výrobci na to občas kašlou, do 100°C je u
+nich v pohodě)), zkus jen v biosu změnit nastavení target temperature.
+
+ad že je to v mozille: podívej se do pluginů, některej to může dělat, občas
+tohle dělá flash, zkus reinstalaci
+ _I_T_ _C_v_o_k [Muž]28 [Kategorie]
+17.01.2013 14:42:56
+Prvně by bylo vhodné napsat model notebooku. Zkus ještě napsat na kolik % je
+vytížený procesor, když se ten ventilátor takhle roztočí. Dále by to chtělo
+napsat teploty...
+ IINNN
+17.01.2013 14:33:01
+Diky za reakce!
+No on je jeste v zaruce, proto mi v obchode rekli,ze to poslem do servisu s
+tim,ze se prehriva a ze ho nejspis vycisti a nebudu to muset platit.
+Nevim,jestli se prehriva,ale ten vetrak fakt jede casto a hodne :(
+No a vy myslite,ze bych to teda zvladla rozsroubovat a vysat, aniz by mi ntb
+umrel pod rukama? :D A to myslite,ze v tom servisu teda neudelali,jo? Kdyz
+napsali,ze delali testy a nic nezjistili? :( Smejdi :D Mozna bych jim to tam
+mela poslat znovu,ale to bych byla nejmin tyden bez ntb.
+
+No diky, zkusim nektery vase rady.
+ neznalek OO7
+17.01.2013 14:29:43
+1) běžící procesy. to, co ti běží na pozadí může bejt pořádnej bordel
+2) rozebrat notebook, vyčistit, procesor a gpu přemazat novou teplovodivou
+pastou, může to bejt ležák a dvaj tam jen takovou teplvodivou pěnu, která je
+na prd
+3) u toshiby se mi časem stalo, že neustále procesor jel na 100%, dodneška
+jsem nezjistil, čim to bylo, systémem ne, procesor neustále na 80-110°C,
+nepomohlo ani přeflashování biosu (možná kurvítko, aby notebook odešel a
+člověk si šel do krámu pro další), nicméně notebook tak běžel další 2 roky
+
+od té doby nikdy toshibu
+ _I_T_ _C_v_o_k [Muž]28 [Kategorie]
+17.01.2013 14:25:00
+Mjunda: nápověda, blikají na něm naráz všechny kontrolky, když to nenaběhne.
+Když to naběhne bez obrazovky, tak to vypadá normálně. A když naběhne s
+obrazovkou, tak taky normálně. ten notebook je starej, ale protože jsem
+nekupoval ten nejlevnější, tak se drží. Rád bych ho ještě měl, ale dávat ho do
+opravny, to by mohlo stát víc jak jeho cena.
+ _t_q_t_q_t_q [Muž]29 [Kategorie]
+17.01.2013 14:21:12
+tqtqtq: vypínač či vnitřní adaptér přívodu proudu?
+ _M_j_u_n_d_a [Muž]46 [Kategorie]
+17.01.2013 14:17:59
+Korky jsou následující po roku tam na 100% musí být prach takže demontovat
+ventilátor a profoukat vyčistit radiátor pokud problém přetrvává doporučeno
+vyměnít teplovodivou pastu na CPU a GPU. Servisům bych nevěřil navíc je to
+otázka 10min udělat vše co jsem napsal, takže než za ty jejich nekřesťanské
+peníze řači řekni nějakému známému.
+[Smajlík] [Muž]29 [Kategorie]
+ _I_k_a_S_G_C
+17.01.2013 14:16:02
+hele, když už jste se tu sešli počítačovníci. mě dělá jeden notebook, že když
+ho zapnu, tak nenaběhne ani bios, občas naběhne OS, ale nefunguje obrazovka a
+občas naběhne normálně a funguje. Takže u toho sedim, mačkám knoflík vypnout/
+zapnout a třeba na podvacátý se rozběhne jak má. Nápad co s tím?
+ _t_q_t_q_t_q [Muž]29 [Kategorie]
+17.01.2013 14:14:07
+Profouknout kompresorem vetrak a neporadek z klavesnice, kdyz nic tak servis.
+ _P_u_d_i_v_i_t_r [Muž]33 [Kategorie]
+17.01.2013 14:14:07
+nevim no. já dycky vezmu lux, rozdělám kryt, vysaju větrák od prachu, smontuju
+a cajk.
+ _t_q_t_q_t_q [Muž]29 [Kategorie]
+17.01.2013 14:04:43
+Běžící procesy zahřívají procesor a grafický čip, ten pak při určené teplotě
+spustí ventilátor. Čím náročnější proces, tím se zahřívá víc. Prohlížeč moc
+náročný není, asi nebude důvodem přehřátí. Otázka je, zda k přehřátí vůbec
+dochází. Je možné, že je problém v ložisku ventilátoru. Ten se takto asi
+otáčel již dříve, jen je teď více slyšet. Stáhni si jakoukoliv utilitku
+hlídající teplotu, ať máš jistotu že opravdu nehrozí přehřátí. Pak by totiž
+hrozilo i vypálení procesoru či grafického čipu a to není levná záležitost.
+Pokud se nepřehřívá, bude potřeba promazat či vyměnit ventilátor.
+ _M_j_u_n_d_a [Muž]46 [Kategorie]
+17.01.2013 14:00:50
+Mně když jel ventilátor, tak mi ho přítel vymontoval, vyčistil, vysál a bylo
+po problému. ALe takovou věc by ti měli asi v servisu udělat automaticky, tak
+nevím..zkus poprosit nějakého šikovného kaamráda, at ti ho zkusí vyčistit. Já
+tam měla namotanýho bordelu, že to vypadalo jako flicová dečka :D kdybych to
+neviděla, neuvěřím..
+ Kalomalo
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+

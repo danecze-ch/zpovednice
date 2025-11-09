@@ -1,0 +1,205 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+Zpověď č.700124, vloženo 09.02.2013 17: _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+54:18                                   _s_t_r_á_n_k_a_]
+Programování. Miluju to, ale...
+Před pár lety jsem začal programovat a tuze se mi to zalíbilo. Prošel jsem si
+už několika jazykama pro tvorbu všeho možnýho, ale nejvíce se mě líbí PHP.
+Vím, že PHP není programovací, ale skriptovací jazyk, ale koho to zajímá, že?
+Líbí se mi psát vnitřní logiku aplikace, řešit problémy ve spojení s věcma co
+běžej "neviděně" narozdíl od takových věcí, jako vysouvací menu pomocí
+Javascriptu atd. Pomalu se tak dostávám k jádru věci. Jak jsem psal,
+programování mě baví, je to moje vášeň a nehodlám s tím přinejmenším do
+nejdelší smrti skončit. Rád bych se během následujícíh několika měsíců nechal
+zaměstnat jako PHP vývojář, ale bojím se, že o mě nebude zájem z takových
+důvodů, kdy je v nabídkách práce uváděno, že kromě PHP, chtěj ještě plno
+dalších věcí, jako HTML a CSS, což samozřejmě není problém. Každej, hlavně
+webovej programátor zná HTML, ale CSS? Jak to myslej? Vím co to je, vím jak se
+to používá, ale já přece nejsem designér nebo grafik abych se tímhle zabejval.
+Pak třeba Javascript. Ten je mi sám o sobě celkem sympatickej. Je malej,
+jednoduchej, lehce zvládnutelnej, ale na webu se používá především v
+prohlížeči pro skriptování HTML dokumentu, jako třeba ty vysouvací menu, což
+mě prostě nebaví. Nakonec by ještě stálo za zmínku třeba SQL. Jasně, že na
+webu se používaj databáze jako MySQL nebo PostgreSQL a i když si uvědomuju, že
+databáze jsou velice důležitou součástí oboru IT (kterej jsem mimochodem
+nestudoval),, práce s databázema je mě proti srsti a psaní SQL kódu a
+vymejšlení databází mě nudí a nebaví mě to. Zvládám to základně. Umím uložít
+do tabulky data a pak je zas vyzvednout, nejsem ale žádnej databázovej
+designér. Mám prostě strach, že po mě budou chtít tohle všechno ma 120%
+znalostní úrovni, ale já se přeci chci hlásit na PHP programátora. Jsou tady
+nějaký lidi z IT? Mám takovej dojem, že to bejvá myšlený jako aby s tím člověk
+uměl základně dělat a věděl, co to je, protoře CSS, Javascript i SQL se při
+vývoji webových aplikací používaj, ale prostě nevím, jak moc to p mě budou
+chtít, když se budu hlásit na PHP programátora.
+ programmer [Muž]23  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+10.02.2013 00:23:41
+PHP je programovací jazyk. Skriptovací taky, ale to na tom nic nemění.
+
+Pokud se chceš specializovat na backend, tak to je možnost, po takových lidech
+je stále poptávka, ale databázím se asi nevyhneš. Jsou teda i firmy, kde
+člověk na pozici "PHP programátor" dělá všechno, od grafiky po správu sítě,
+ale těm bych se na tvém místě vyhnul, to nejsou dobré firmy.
+
+Myslím, že databází se bojíš zbytečně. Jsou to spojené nádoby s tou vnitřní
+logikou aplikace, která tě zajímá. Zkus se do toho trochu zakousnout a uvidíš,
+že to je vlastně docela zajímavá problematika. Práce s databází má velký vliv
+na to, jak bude aplikace použitelná. Když budeš s databází pracovat blbě,
+můžeš skončit s aplikací, která je buďto děsně pomalá, nebo se chová
+nepředvídatelně (např. při špatném ošetření transakcí) a pokud tomu nerozumíš,
+tak nejspíš obojí.
+
+Technologie na frontendu bys měl znát aspoň do té míry, abys s pomocí Googlu
+byl schopný cokoli s nimi realizovat. Třeba pomaleji, než profesionální HTML
+kodér, ale přece.
+
+Pokud se chceš programováním živit, tak se taky připrav na to, že každý bude
+chtít znát především tvoje reference - tzn. na čem jsi dělal, jaké máš
+zkušenosti atd. Jestli zatím moc zkušeností nemáš, tak je začni sbírat - třeba
+začni vyvíjet něco sám pro sebe, zdarma. Zjistíš při tom, kolik toho ještě
+neumíš...
+
+Jo a ještě něco - nauč se pracovat s Nette, Zendem nebo Symfony. Znalost aspoň
+jednoho z nich je dneska nepostradatelná. A taky testování s PHPUnit, to už je
+dneska taky celkem standard.
+[Smajlík]
+ asdfasdfasdfasdf
+09.02.2013 19:51:14
+Máš se ještě co učit.
+ sfdgdfgdf
+09.02.2013 19:12:45
+doomajz: Přečti si ještě jednou, co jsem napsal. Já nepsal, že frameworky jsou
+fuj. Psal jsem, že nejsou nezbytné.
+
+Samozřejmě, pokud někdo chce použít nějaký framework a pokud mu to tak
+vyhovuje, tak ať si to klidně použije. Obecně platí pravidlo, že jakýkoliv kód
+navíc zpomaluje běh aplikace. A prosím, nehandrkujme se teď o pikosekundy. Jde
+o to, že pokud umí framework 1000 věcí a já potřebuju jen 10 z nich, tak mám v
+aplikaci 990 věcí a nepoužitého kódu, který se zrovna v případě PHP validuje a
+kompiluje při každém requestu. To budu raději o týden déle vyvíjet aplikaci.
+ _O_v_a_r_o_v_á_ _H_l_a_v_a [Muž]35 [Kategorie]
+09.02.2013 18:58:39
+To je příliš zjednodušující. Frameworky nejsou o klikání. Pokud jsou dobře
+navrženy, není potřeba je ohýbat, to bývá spíš známkou špatného návrhu
+aplikace. Navíc, chceš-li člověk všechno napsat sám, ty dílčí problémy, odvádí
+často od samotného řešení problému, za jehož účelem se aplikace píše. A dle mé
+zkušenosti se v takových situacích ani moc nesoustředí na nějakou
+znovupoužitelnost, tkaže se to zbastlí, aby to nějak fungovalo, protože není
+dost času. Zpočátku je potřeba naučit se přemýšlet podle návrhového vzoru,
+podle kterého byl framework navržen, což si pochopitelně vyžádá nějaký čas,
+ale pak je efektivit daleko vyšší.
+ _d_o_o_m_a_j_z [Muž] [Kategorie]
+09.02.2013 18:47:12
+marek-lib: i web pro 30k uip/den bez frameworku jede v poho, musíš jen
+uvažovat a znát funkce, kdežto u framerworku stačí umět "klikat".
+
+proč to psát znova, když to bylo napsáno xkrát? protože každéj web má jiný
+nároky a osobně frameworky neberu jako programování, i když je to v oblibě,
+nejsou snad ani ohebné. manuál se dá vždy napsat
+
+programátor - php, mysql(i), asp, javascript atd.
+kóder - naházuje psd do html,css + javascript
+grafik - grafika
+
+někteří expertní chtěji šetřit a chtěji nejlíp 3 v 1, ale prachy to ne
+ ccsaaxsxf
+09.02.2013 18:45:47
+Co nějakej kurz třeba v GOPASu? Vím, že je to dost drahý, ale ta investice se
+vyplatí, pokud to myslíš opravdu vážně. Knih od db je taky spousta. SQL je
+mimochodem dost jednoduchý jazyk. A k tomu, abys ho mohl používat, určitě
+nemusíš vědět o návrhu databází, normalizaci, ale je to výhoda.
+ _d_o_o_m_a_j_z [Muž] [Kategorie]
+09.02.2013 18:36:25
+Já si právě myslel, že je ta práce nějak rozdělená mezi kodéry, grafiky a
+programátory a že znalost těch ostatních jazyků je potřebná jenom k tomu, že
+se i v PHP sem tam něco z toho použije. Strašně mě ubíjí, jak mě to trvá. Učím
+se to sám a pokud máte takovou zkušenost, určitě víte, že zákonitě musíte
+udělat 1000x víc chyb, než když vás někdo vede za ručičku.
+ programmer
+09.02.2013 18:35:34
+Ovarová Hlava: Ale proč psát něco, co už bylo nesčetněkrát napsáno? Proč
+neustále dokola vymýšlet a psát věci, jako je validace formulářů apod.?
+Efektivita nulová.
+ _d_o_o_m_a_j_z [Muž] [Kategorie]
+09.02.2013 18:32:36
+Znalost čistého PHP je prakticky nepoužitelná, leda by sis v něm chtěl sám
+vytvořit nějakej framework, ale stejně by sis musel vytvořit nějakej db layer,
+nebo použít už hotovej. Nicméně dělat další framework je asi zbytečnost. No a
+znalost nějaké databáze je pro vývojáře naprostá nezbytnost, chceš-li se tím
+živit.
+ _d_o_o_m_a_j_z [Muž] [Kategorie]
+09.02.2013 18:29:07
+MAREK: Tvoje názory jsou taky trochu mimo. PHP bez frameworku je použitelné na
+cokoliv. Stejně jako jakýkoliv jiný programovací jazyk. Asi jsi nepochopil, co
+je to framework.
+
+Výkon aplikace se přístupem k datům v databázi určitě neladí. Databáze slouží,
+jak samotný název ukazuje, k uložení dat.
+
+Máš se ještě co učit.
+ _O_v_a_r_o_v_á_ _H_l_a_v_a [Muž]35 [Kategorie]
+09.02.2013 18:25:57
+No podle toho co tu píšeš rovnou zapomeň na to, že se necháš jako PHP
+programátor zaměstnat.
+
+PHP vzniklo k server side generování webových stránek. To jistě víš. Ale co
+jsi asi nepochytil je, že CSS zajišťuje design těch stránek. A je běžnou
+praxí, že PHP programátor, který vyvíjí logickou část aplikace, vyvíjí i tu
+prezentační. Byť jí třeba navrhuje grafik ve photoshopu, vývojář pak běžně
+dělá jak PHP, tak HTML a CSS. Jak bys to asi jinak chtěl dělat? Jako že ty
+naprogramuješ "echo $a + $b;" a někdo jinej za tebe pak udělá ten ostatní
+opruz? Takhle to nefunguje.
+K tomu tvému názoru na databáze se toho moc říct nedá. Mě by zajímalo, co teda
+ty tvoje PHP výtvory dělají. Vždyť databáze je v 99% základem každé webové
+aplikace.
+
+Takže, znát PHP nestačí. Musíš k tomu znát i to ostatní a to na lepší, než
+začátečnické úrovni.
+ _O_v_a_r_o_v_á_ _H_l_a_v_a [Muž]35 [Kategorie]
+09.02.2013 18:03:21
+PHP bez frameworku je nepoužitelné pro tvorbu jakýchkoliv zajímavých webových
+aplikací. Jakékoliv zajímavé webové aplikace používají i JavaScriptové
+frameworky. Znalost SQL je nutnost, protože přístupem k datům ladíš výkon
+aplikace. Máš se ještě co učit.
+ _M_a_r_e_k_-_l_i_b [Muž]35 [Kategorie]
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+
