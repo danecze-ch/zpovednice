@@ -1,0 +1,110 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+   Otázky - Vzkazy č.706771, vloženo _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+   06.03.2013 17:47:30               _s_t_r_á_n_k_a_]
+   Úkol z matiky
+   Ahojte, 2 týdny jsem ve škole chyběl a učitelka my zadala úkol, kterej
+   chce abych vypočítal a je jí jedno že nevím co s tím... Pomůžete mi
+   prosím?
+
+   "Vypočítej obsah rovnoramenného trojúhelníku se základnou 8 cm a obvod
+   je 18 cm."
+
+   Vypočítá to někdo?
+    Shelly [Muž]13  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+07.03.2013 19:06:31
+Je to jednoduchý, rovnoramenný trojúhelník je složen ze dvou pravoúhlých
+trojúhelníků :)
+
+Tady máš hodně podrobnej výpočet:
+_h_t_t_p_:_/_/_g_i_g_i_d_i_d_i_._r_a_j_c_e_._i_d_n_e_s_._c_z_/_m_a_#_m_a_._j_p_g_ 
+
+Nesmát se mym obrázkům :DD
+Jeegles to má skoro dobře, akorát že to a×b - v mym případě a×va (va je výška
+na základnu - tedy stranu a) - se musí vydělit dvěma. On totiž ten samotnej
+obsah a×va (či a×b) je pro obdélník a ten trojúhelník bys do něj musel nacpat
+dvakrát, proto vzoreček a×va není konečnej a musí se vydělit dvěma, jinak bys
+získal obdélník o rozměrech 8×3 (viz to červeně čárkovaný na prvnim obrázku) a
+zanedbal bys prostor (čili obsah), kterej je třeba z výpočtu vyhodit...
+
+A fdggfgf... zas rád dělá věci zajímavějšími, ale má to dobře no :D
+
+Jinak jiná možnost je od obsahu obdélníku odečíst obsah vnějších trojúhelníků
+(což je ten zbytek, jenž doplňuje trojúhelník na obdélník)... V tom případě
+bys na konci místo dosazení do vzorečku S = (a×va)/2 napsal:
+
+Svelkého trojúhelníku = Sobdélníku mínus 2×Svnějšího trojúhelníku (viz ten
+poslední obrázek - červeně vyčárkované -> Svnějšího tr. = 4×3 / 2 = 6 -
+> 2×Svnějšího tr. = 2×6 = 12)
+=> Sobd. - 2× Svnějšího troj. = Svelkého troj.
+=> 8×3 - 12 = 12 cm2
+Což je ale zbytečné (to ale neznamená špatně) a je lepší počítat to, jak to
+mám na obrázku, protože tohle slouží jen pro dokázání faktu, že rovnoramenný
+trojúhelník lze doplnit na obdélník a že se jeho obsah rovná polovině obsahu z
+obdélníku o stranách a a b(va), čili základna a výška na základnu...
+
+A tak trochu se omlouvám za délku, ač je řešení patrné již na začátku, ale já
+si prostě ráda počítám :DD
+[Smajlík]   [Žena]30 [Kategorie]
+ _*_G_i_g_o_l_i_n_a_*
+06.03.2013 18:34:15
+Najdi si dva ortogonální vektory (ideálně vektor výšky a vektor podstavy),
+skalárně je vynásob a výsledek vyděl dvěma.
+ fdggfgfddgdgfdf
+06.03.2013 18:25:52
+Chtěla jsem ti poradit, dokonce jsem to všechno vypsala i s výsledkem, ale
+omylem se mi to smázlo... Takže ti poradím jenom ve stručnosti.
+Představ si ten trojúhelník, popiš si strany a napiš si k nim, kolik která
+měří. Pak si vypočítej výšku k vrcholu C (pomocí pythagorovy věty). Ve chvíli,
+kdy budeš mít výšku k vrcholu c lze kalkulovat s tím, že obě části
+trojúhelníku ti dají dohromady obdélník, tudíž použiješ vzorec S=a*b, přičemž
+a bude půlka délky základny a b bude právě ta výška k vrcholu C.
+Takhle bych to počítala já. Nejsem matematickej odborník a možná mi tam místní
+matematičtí odborníci najdou chybu, ale je to furt lepší než nic :)
+ _J_e_e_g_l_e_s [Žena]33 [Kategorie]
+06.03.2013 17:56:40
+Někdo určitě
+[Smajlík]
+ Chichi
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+

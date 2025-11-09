@@ -1,0 +1,99 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+Zpověď č.708087, vloženo 11.03.2013 20: _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+11:09                                   _s_t_r_á_n_k_a_]
+Proč? Ptám se - proč??
+Předem podotknu, že Linux takřka neznám.
+Dnes mě napadlo vzít NAS QNAP TP-219P, vyhodit z něj standardní firmware a
+místo toho tam flešnout Debian zkompilovaný pro ARM. Povedlo se. Jelo to. Pak
+mě napadlo z části těch dvou disků udělat sw raid1 č1 a z další části raid1 č2
+- pomocí parted (je to GPT) a mdadm. Povedlo se. Jelo to. Pak mě napadlo ten
+raid č1 zašifrovat pomocí cryptsetup (LUKS Encryption). Dále jsem udělal
+script, který během startu systému testuje jestli je v USB toho NAS přítomná
+fleška se souborem obsahujícím klíč. Pokud ano, otevře se zašifrovaný raid a
+namountuje se na /home. Pokud tam nic zastrčeného není, příp. chybí dotyčný
+soubor s klíčem, tak se na /home namountuje ten nešifrovaný raid č2. Povedlo
+se.
+Podivné je, že vůbec nevím proč jsem to vlastně udělal. Jednak to na nic
+nepotřebuju a dále ten NAS nebyl můj, ale známého, který nemá o mém
+experimentu ponětí.
+Nejsem já totální pako?
+Vlastně už tuším proč jsem to udělal, prostě jsem si jen chtěl dokázat, že to
+dokážu, když budu chtít. :)
+ qdvTER [Muž]44  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+11.03.2013 21:19:59
+to houmlesák: Sebekriticky musím poznamenat, že za tím žádný velký um není.
+Celé tohle "dílo" je v podstatě postavené na tom, že umím číst manuály a
+návody v angličtině..... jinak je to práce pro cvičenou opici. Kdykoliv jsem
+si nevěděl rady, tak startoval google + hláška typu how to..... , příp.
+wikipedie, různé linuxové weby, atd.... neřešil jsem nic nestandardního, takže
+informací je k dispozici obrovské množství.
+Jediné, co bylo trošku oříškem, bylo napsání toho scriptu, protože tohle už
+bylo třeba opravdu vymyslet.
+
+A co bude s tím NAS? To bude asi vážně průser. Tohle jsem nedomyslel, protože
+jak jsem dodatečně zjistil, tak jsem v té flešce přemazal i základní záchranný
+prográmek, který má sloužit k obnovení firmware v případě, že selže standardní
+flešování během upgradu - např. když dojde k vypnutí zařízení během flešování.
+Takže se obávám, že teď už neexistuje žádná jednoduchá cesta jak tam vrátit
+původní firmware. Snad jedině nějak natvrdo flešku přeprogramovat, mám dojem,
+že flešky k tomu mají nějaký speciální komunikační kanál JTAG, nebo jak se to
+vlastně jsmenuje. Ale do tohoto se raději pouštět nebudu. Nemám na to žádné
+nástroje a nerad bych to zařízení oddělal i hardwarově. :p
+
+On by ten Debian až tak nevadil, protože má ty stejné možnosti konfigurace
+jako původní firmware. Spíš má těch možností ještě daleko víc, protože je to
+kompletní univerzální systém. Ale dá se to ovládat pouze pomocí cli, což se
+mému známému rozhodně zamlouvat nebude. No, nějak to dopadne. Snad mě kvůli
+tomu nezabije.
+[Smajlík]
+ qdvTER
+11.03.2013 21:00:31
+Ten ti poděkuje, až zjistí, že kvůli tvým hrátkám s firmwarem přišel o záruku.
+
+
+Jinak ano, cpát debiany do obyčejného datového úložiště je celkem k ničemu,
+ale zase jako ajťák oceňuji ten um.
+ _h_o_u_m_l_e_s_á_k [Muž]25 [Kategorie]
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+

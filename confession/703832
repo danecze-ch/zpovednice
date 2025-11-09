@@ -1,0 +1,167 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+   Otázky - Vzkazy č.703832, vloženo _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+   22.02.2013 21:05:15               _s_t_r_á_n_k_a_]
+   Pc sestava x individuální složení
+   Zdravím,
+   bratrův počítač už má několik let za sebou a jelikož je bratr ( 10 let )
+   hráč tělem i duší, potřeboval by lepší model.
+   Uvažoval jsem o tom, zda mu koupit předem složenou
+   Pc sestavu ( do 20 000 Kč), nebo koupit jednotlivé komponenty a složit
+   to individuálně.
+   Co si myslíte, že je výhodnější ?
+
+   Na Alze si bratr vyhlídl následující sestavu:
+   http://www.alza.cz/hp-elite-7500-micro tower-d364459.htm#popis
+
+    Sanctum sanctorum [Muž]17  _V_Y_M_A_Z_A_T
+
+Zaslaná    _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+rozhřešení
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu dáš nějaké
+rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u zpovědi, nebo napsat
+veřejně vyplněním formuláře na konci této stránky. A jestliže nechceš, aby pod tvou
+přezdívkou mohl vystupovat ještě někdo jiný, zaregistruj si ji _Z_D_E !
+ 
+23.02.2013 02:08:30
+lixiq: 500 a více W zdroj má smysl jen u nejvýkonnějších graf. karet, což rozhodně není
+kategorie, kterou popisuje autor diskuse. Ty mají spotřebu tak třetinovou proti tomu co
+uvádíš.
+Se spotřebou procesorů jsi na omylu. Uvádíš maximální TDP hodnoty, kterých procesor nikdy
+nedosáhne (jen při brutálním přetaktování).
+Uvedu konkrétní případ - včera jsem zrovna měřil přesnou spotřebu kancelářského PC s CPU
+Intel I3-560 (3,3GHz, TDP 73W). Celá sestava s diskem 640GB (interní grafika, 4GB RAM)
+brala ve Win7 bez zatížení jen 41W a při 100% zatížení CPU (BIONIC výpočty) jen 72W (tedy
+včetně desky, RAM, ztrátě na účinnosti zdroje min. 10%). Použit byl 350W zdroj 80 plus
+bronze.
+
+Samozřejmě je lepší mít předimenzovaný zdroj, než poddimenzovaný. Ale přeceňuje se to.
+
+Stínění (kabeláže) od zdrojů smysl má třeba pro zákazníky co skládají hudbu a potřebují
+minimalizovat veškeré rušení.
+ _C_h_a_r_l_e_s [Muž]49 [Kategorie]
+23.02.2013 00:14:47
+charles.. to ses na omylu..
+stineni je treba u signanu, ne u tehlle zdroju v pc.. ty stinene nemas.. je to klasicky
+pulsni zdroj.. a 350-400w ?? jen vykonejsi grafiky maj vlastni spotrebu kolem 150-220W ..
+nehlede na tom, ze se musi pocitat se ztratovym vykonem za urcity casovy interval. tzn,
+ze vysychaji kondenzatory hlavne a ztracej kapacitu a sve jine vlastnosti v cetne jinych
+soucastek.
+
+pocitej.. CPU zere 45-95W cca , grafika do 200W a jen pouhy 1 HDD zere pri startu 2A tzn,
+ze pri 2ou dascich ti sezere 4A pri startu pc jak hovno.
+
+doporucoval bych 500W a vice.
+
+co se tyce spoju, tak doporucju s nenaplacanyma soucastkama a v jednoduchosti , aby tam
+byla ipojistka, ne ze tam je na desce znacka "F" a je tam misto toho jumper :-D jak to
+obcas bejva.. pak se stane, ze to vyrazi jistice.
+ _l_i_x_i_q [Muž]25 [Kategorie]
+23.02.2013 00:06:09
+Ta sestava je otřesná. Vysvětlím proč.
+
+1. Procesor je zbytečně naddimenzovaný, postačí I5 nebo za tu cenu i 6jádro od AMD arch.
+Vishera, která se vyrovná té i7 ve hrách a je levnější. A chybí taky údaj o chladiči
+(abys tam taky neměl BOXový chladič, to by byla teprvé diskotéka)
+
+2. Chybí údaje o desce
+
+3. 16 GB pamětí je moc, chybí značka a takt. Jinak bohatě stačí 8.
+
+4. Grafika je naprosto otřesná, s nevhodným poměrem cena/výkon. Do tří tisíc minimálně
+Radeon HD7770, event. NVIDia GTX 650 Ti. Hrál bys možná v HD rozlišení, ale na nejnižší
+detaily.
+
+5. Chybí údaje o disku
+
+6. Neznámý zdroj (NEJDŮLEŽITĚJŠÍ komponenta v PC, tady se nesmí šetřit - min. certifikace
+80+Bronze). Jinak 300 W je dobrý tak do kancelářského PC. Pro začátek stačí Seasonic
+400W, stojí asi tisícovku. Kdysi jsem na zdroji ušetřil 300 Kč, finální opravy a
+vylepšení mě stály přes 4 000 Kč.
+
+7. Windows 8 nedoporučuji, vsaď na osvědčení Win7.
+
+8. POZNÁMKA: Při výběru herního PC má klíčový vliv na výkon GRAFICKÁ KARTA !!!
+
+Celkové hodnocení: nekupovat. Dobré sestavy mají na CZC.cz, můžeš si tam nechat i
+sestavit zdarma. Buď mi anpiš na email, nebo Ti dobře pomohou na pc-help.cz
+[Smajlík] [Muž]30 [Kategorie]
+ _J_L_2
+22.02.2013 23:33:17
+Záleží, jak dokážeš výhodně nakoupit komponenty. Většinou se dá skládačkou ušetřit a není
+to v dnešní době takové riziko jak dříve, kdy se častěji stávalo, že některé komponenty
+spolu nešlapaly dobře. Úspora ale nemusí být kdovíjak veliká, když se porovnává s
+nabídkou kompletu, který je třeba v cenové akci nebo výprodeji.
+
+U tohoto bych dal lepší zdroj, cca 350-400W - na tom bych nešetřil - tichý, z kvalitních
+dílů, odstíněný (a jestli člověk platí elektřinu tak ideálně s certifikací 80Plus Gold).
+Zdroje obvykle odcházejí na počítačích jako první.
+GTX640 pro hráče není žádný velký zázrak, dal bych alespoň Radeon HD7770
+Jako systémový disk bych dal SSD a možná Blu-ray vypalovačku místo jen DVD.
+ _C_h_a_r_l_e_s [Muž]49 [Kategorie]
+22.02.2013 21:59:26
+Teď jsem se podíval na tu sestavu a je to fakt děs. Další nevýhodou sestaveného PC je to,
+že tam máš vždy nějakou nevyhovující komponentu. V tomto případě 300W zdroj je k pláči.
+[Smajlík]  [Muž] [Kategorie]
+ _d_e_e_p_e_e_5_3_7
+22.02.2013 21:45:41
+Zdroj: 300 W (PFC) na I7 a vykonou grafiku ?
+: -
+DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+- DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD -
+
+a tenhle disk na tuhle sestavu ?
+
+rozhodne nakoupit pc na dily a slozit.. usetris nekolik tisic za stejny vykon, nebo za ty
+prachy budes mit lepsi.
+ _l_i_x_i_q [Muž]25 [Kategorie]
+22.02.2013 21:41:09
+Tím, že si počítač složíš sám, můžeš ušetřit i pár tisíc. Navíc do toho budeš moct
+sáhnout - žádné plomby na skříni. S výběrem vhodně pasujících komponent ti pomohou třeba
+na stránkách CzTorrentu nebo na CZC.cz.
+[Smajlík]  [Muž] [Kategorie]
+ _d_e_e_p_e_e_5_3_7
+22.02.2013 21:29:30
+rozhodně jednotlivé komponenty koupit,pak za 20 000 kč získáš větší výkon,ta grafika se
+možná zdá se svejma 3 Gb výkonná ale realita je opačná,kdyby ta grafika byla skutečně
+výkonná tak bys jen za grafiku tohohle charakteru dal tak 10-15 tisíc.navíc takovou
+grafiku na hry nevyužiješ.na hry stačí kvalitní a dobře taktovaná grafika s 1 Gb.procesor
+by taky klidně stačil i5 o nějaké vyšší frekvenci.
+ _G_o_m_e_6 [Muž]20 [Kategorie]
+22.02.2013 21:06:15
+_h_t_t_p_:_/_/_w_w_w_._a_l_z_a_._c_z_/_h_p_-_e_l_i_t_e_-_7_5_0_0_-_m_i_c_r_o_t_o_w_e_r_-_d_3_6_4_4_5_9_._h_t_m_#_p_o_p_i_s
+ Sanctum Sanctorum
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+

@@ -1,0 +1,209 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+Zpověď č.706448, vloženo 05.03.2013 07: _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+52:54                                   _s_t_r_á_n_k_a_]
+Problem s PC
+Caute. Mam nasledovny problem s PC. Vlastne su dva. Mozno navzajom ani
+nesuvisia a mozno ano takze prvy: Uz dlhsiu dobu moj komp vydava taky cudny,
+velmi neprijemny zvuk ako keby sa vam nieco zavrtavalo do hlavy :D upresnim:
+Tento zvuk podla mojho skumania vychadza z HDD, avsak ja som bol v tom ze ked
+z HDD vychadzaju nejake zvuky ako skripanie/vrzganie/piskanie atd...tak hdd je
+uz zrely na odpis. Ale ten moj bezi dalej, az na to ze vydava tento odporny
+zvuk-nonstop ...zacne to hned po pipnuti biosu a trva to az kym nevypnem PC :
+D Na nete som nasiel nejake zvukove nahravky roznych poruch hdd, ale k mojmu
+sa ziadna z nich nehodi...takze neviem co to ma znamenat.
+druhy problem, bluescreeny: Asi pred rokom som zacal mavat z nicoho nic
+bluescreeny (iba prebliknutie a nasledny restart PC) bolo to tak ze PC naraz
+dostal akoby nejaky lag-rozisiel sa obraz a zasekol sa zvuk-asi v sekunde, v
+zapati sa resetol respektive preblikol bluescreen...najprv to bolo raz za cas
+ale potom som uz na nom ani nemohol nic robit lebo sa mi stale resetoval/
+screenoval. Skusil som rozne veci, a v neposlednom rade ako zachrannu paku,
+som dokladne vycistil pomerne zapraseny chladic procesora...cuduj sa svete
+toto pomohlo. Ale nedavno sa mi pc zacal zase screenovat...nechce sa mi verit
+ze by to nejako suviselo so zaprasenym chladicom-procesor ma trochu vyssie
+teploty, ale nic extremne. Prvy bluescreen som teraz dostal tesne po zapnuti
+PC...Ked som vzapati zmeral teplotu, CPU mal 73 ale klesal...teraz ma okolo
+48-52+- a drzi si to... Neviete co to moze byt? vypis bluescreenu som nikdy
+nestihol...za kazdu rozumnu radu dakujem
+ _a_h_a_ _s_n_e_z_i E-MAIL:_[_g_r_a_f_i_k_a_/_m_r_e_f_h_i_._g_i_f_]   [Muž]19 [Kategorie]  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+05.03.2013 20:05:44
+ufo ten program pouzivam 2 roky a neni stym problem ... a disk fakci ako
+"novy" .. pouziva ho aj brat na firme s PC .. a malokedy sa stane ze si stym
+neporadi .. ale azs ten HIRENS BOOT obsahuje kopec uzitocnych programov na
+particie , pamate atd :)
+ _S_h_e_l_b_y_n_k_o [Muž]21 [Kategorie]
+05.03.2013 19:54:04
+Ok UFO, a co inak vravis na tie chyby?
+ _a_h_a_ _s_n_e_z_i [Muž]20 [Kategorie]
+05.03.2013 19:50:53
+hovadina!!!!!
+
+- ak je raz sektor oznaceny za vadny tak najhorsie co mozete spravit ze sa ho
+pokusite vratit do obehu nejakym programom co zresetuje MFT
+- ak ho disk raz oznacil za defektny tak sa mu NESERTE do roboty!!! - on vie
+preco to spravil!!!
+ _U_F_O_P_o_r_n [Muž]32 [Kategorie]
+05.03.2013 19:35:53
+stiahni si Hirens Boot a pusti si HDD REGENERATOR vo vacsine pripadov ti
+dokaze opravit vadne sektory a iked niekedy to uz zial neni mozne ale za
+pokjus to stoji :)
+ _S_h_e_l_b_y_n_k_o [Muž]21 [Kategorie]
+05.03.2013 17:08:55
+chyby:
+-PFN_LIST_CORRUPT (chyba ramky alebo driverov-chyba pfn listu) "Can be caused
+by corrupt physical RAM, or by drivers passing bad memory descriptor lists."
+-PAGE_FAULT_IN_NONPAGED_AREA (pozadovane data niesu v pamati-odkaz na neplatnu
+adresu v pamati. Sposobuje to chybna pamat alebo nekompatibilny sw ako aj
+chyby hw)
+-NTFS_FILE_SYSTEM-(poskodenie disku, alebo poskodenie IRP)"Other common causes
+include heavy hard drive fragmentation, heavy file I/O, problems with some
+types of drive-mirroring software, or some antivirus software"
+-IRQL_NOT_LESS_OR_EQUAL [dvakrat] (chyba driveru alebo ramky) "The most
+typical cause is a bad device driver (one that uses improper addresses). It
+can also be caused by caused by faulty or mismatched RAM, or a damaged
+pagefile"
+-KERNEL_MODE_EXCEPTION_NOT_HANDLED [styrikrat]- (takmer vzdy sposobene
+nekompatibilnym hw, chybny driver, alebo upgrade biosu)
+-BAD_POOL_HEADER- (najcastejsie chyby driverov. Mozu to byt aj chybne sektory
+na disku alebo ine chyby disku O_o)
+-DRIVER_CORRUPTED_EXPOOL- (takmer vzdy chyba driveru/zle instalovaneho sw)
+ _a_h_a_ _s_n_e_z_i [Muž]20 [Kategorie]
+05.03.2013 16:24:51
+a co znamenaju presne tie chyby?
+
+- mas 3 bad sekrtory, namiesto nich sa pouzivaju ine - nahradne... - to je
+standardne spravanie disku
+- 3 je este akceptovatelne cislo - raz za mesiac to skontroluj ci prudko
+nerastie
+- doporucena hodnota je pod 200
+- hukot moze a nemusi znamenat problem....
+- osobne by som takemu disku uz velmi nedoveroval a dolezite data (fotky) by
+som pre istotu dakam nahral na web a kupil by som si novy systemovy disk
+- ak mas doma iny disk tak si ich vymen ze ako sa to bude spravat
+- dnes uz jedine SSD
+ _U_F_O_P_o_r_n [Muž]32 [Kategorie]
+05.03.2013 16:06:03
+No takze: Urobil som v HD Tune kontrolu tych sectorov...pocas testu sa nenasli
+ziadne poskodenia, ale v sekcii "heatlh" mam pri ID Reallocated Sector Count,
+warning. Pise ze drive obsahuje poskodene sektory ktore boli nahradene ci
+co... ("number of damaged sectors which have been replaced- 3 .The drive has
+damaged sectors").
+BSViewer mi nasiel 7 roznych chyb (celkovo 11 BOSD)
+-Takze co si o tom myslite teraz, ten HDD neviem ci je ok ked test dopadol
+dobre ale pise mi tam hentu haluz-navyse ked tak huci...A je mozne aby tie
+bluescreeny malo na svedomi 7 roznych chyb??? Ci ako mam tomu rozumiet? :D
+[Smajlík]  [Muž]20 [Kategorie]
+ _a_h_a_ _s_n_e_z_i
+05.03.2013 14:37:42
+hovadina.... o bad sectoroch disk vie - tie nesposobuju BSOD, a okrem toho ak
+by bolo nieco z diskom zle smart by ho zastavil pri starte PC
+ _U_F_O_P_o_r_n [Muž]32 [Kategorie]
+05.03.2013 14:19:49
+UFO mas sice pravdu ale ak ma bad sectors na disku tak hned vies z coho tu
+modru obrazovku ma...
+ _m_a_p_i_k [Muž] [Kategorie]
+05.03.2013 14:14:02
+- zbitocne nefantazirujte !!!
+- najprv nech si precita co hovoria tie dumpy !!!
+ _U_F_O_P_o_r_n [Muž]32 [Kategorie]
+05.03.2013 14:11:53
+1. vycisti a povysavaj si PC a porozmyslaj ci ho mas na dobrom mieste
+(najlepsie daleko od radiatora, tam kde nie je prach a rozhodne nie rovno na
+zemi atd.)
+2. zvaz reinstalaciu systemu (ten HDD by som rozhodne vymenil ak sa da - novy
+je vacsi a tento si mozes nechat ako "suflik" ked nieco potrebujes skopcit na
+par minut kde nevadi ak by zakapal).
+[Smajlík] [Muž] [Kategorie]
+ _m_a_p_i_k
+05.03.2013 14:08:31
+tak ten HDD mozem maximalne tak pofukat :D
+ _a_h_a_ _s_n_e_z_i [Muž]20 [Kategorie]
+05.03.2013 13:57:07
+Neviem fakt, čo s tým môže byť.....
+Viem, že keď sa robilo to s tým diskom mne...teda, zapol som , bzučalo to ako
+choré...mal som pocit, ako keby po tých platničkách na disku prechádzala
+karbobrúska ....
+
+Potom mi začalo vyhadzovať "modrú smrť" a tam písalo niečo také, že ..počítač
+bude reštartovaný, aby sa zabránilo poškodeniu disku ...to je zrejme to, čo
+nazývaš bluescreen....
+Tak som vytiahol disk, trochu ho prečistil , utrel...a na týždeň bol pokoj...
+Potom som raz zapol comp (notebook) a už sa mi nezobrazilo nič.., ani úvodná
+obrazovka HP ....
+Takže som vymenil disk...zatiaľ sa to drží...uvidím ako dlho.. ten comp nie je
+ani starý.., ale už ho používam len tak ..by the way...
+[Smajlík] [Muž]18 [Kategorie]
+ _G_a_b_q_o_B_B
+05.03.2013 10:38:36
+UFO, no ja by som ti to aj doniesol ale deli nas tak 160km :D ...dik za tie
+linky-uvidime co s tym dalej...
+ _a_h_a_ _s_n_e_z_i [Muž]20 [Kategorie]
+05.03.2013 09:43:27
+- to moze bit vselico.... dones mi to.... kuknem to
+- obvikle pamet, alebo mainboard
+
+BOSD si mozes spetne pozriet:
+
+_h_t_t_p_:_/_/_w_w_w_._n_i_r_s_o_f_t_._n_e_t_/_u_t_i_l_s_/_b_l_u_e___s_c_r_e_e_n___v_i_e_w_._h_t_m_l_ 
+
+a analizovat:
+
+_h_t_t_p_:_/_/_w_w_w_._a_u_m_h_a_._o_r_g_/_a_/_s_t_o_p_._p_h_p
+ _U_F_O_P_o_r_n [Muž]32 [Kategorie]
+05.03.2013 08:04:38
+no inak pripomenula si mi -moj PC ma asi, hmm, 4 roky
+ _a_h_a_ _s_n_e_z_i [Muž]20 [Kategorie]
+05.03.2013 08:03:31
+Ja viem čo s tým je ..... je to pokazené !
+ Thor
+05.03.2013 07:59:54
+No to som zvedavá. Ja mám totižto ten istý problém. Počítač, je už starší, no
+funguje. Aj najnovšie hry aj všetko ide. Vlastne má len dva roky, ale tak to
+už je starý na dnešné pomery. Ja dostávam buď bluescreeny alebo sa lagne a
+zostane jednoducho zaseknutý. A musím manuálne resetovať. Stáva sa to tak raz
+za deň, raz za dva. Defragmetácia, kt. trvala cca dva dni, spôsobila, že sa to
+deje menej často, ale deje sa to stále. Čistenie ventilátora spôsobila zas, že
+nebol až taký hlučný, ale za chvíľu to začalo zas.
+ Automat
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+
