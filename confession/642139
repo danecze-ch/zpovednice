@@ -1,0 +1,246 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+Diskuze č.642139, vloženo 13.07.2012 15: _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+25:53                                    _s_t_r_á_n_k_a_]
+Zlomky do hry, poradíte s výpočtem?
+Slon získá navíc ke svému HP 315 bodů (35*9) za za 45 minut (5*9).
+Kolik HP musí získat válečný vůz když jeho HP představuje jen 9/20 HP slona?
+ Counter [Muž]25  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+14.07.2012 11:40:27
+Správný odkaz je tady:
+_h_t_t_p_:_/_/_u_l_o_z_t_o_._c_z_/_x_s_n_6_w_R_d_/_h_p_-_a_p_-_x_l_s
+ Counter
+14.07.2012 11:39:15
+Mohl by jste se mi někdo podívat na tabulku (formát xls - excel lze otevřít v
+Open Office)?
+_h_t_t_p_:_/_/_u_l_o_z_t_o_._c_z_/_s_m_a_z_a_t_/_x_F_s_Y_U_q_g_/_1_8_1_2_2_6_9_9_9_9_2_1_9_9_2_7_0_4_0_0_ 
+Zdá se že mi ty výpočty nějak nesedí, protože mi nevychází test. Např. u
+Longbowmana by AP mělo být 7/20 toho co má slon - tedy toho co získá slon za
+stejný čas, anebo sedminásobek toho co získá za sedmkrát delší čas.
+ Counter
+13.07.2012 16:59:19
+AOE
+ Counter
+13.07.2012 16:33:26
+A cože to vlastně hraješ?
+ _T_y_d_l_i_d_á [Žena]32 [Kategorie]
+13.07.2012 16:29:39
+189 bodů
+60 minut
+3600 sekund
+--------
+63 bodů
+1200 sekund
+---------
+21 bodů
+za 400 sekund.
+
+Tak jsem se dostal na 400 sekund , což je 6,6 minut.
+
+OK díky. Už to chápu. Jsi zlato :-)
+ Counter
+13.07.2012 16:27:03
+Vůz získá 21 bodů za 400 sekund, čili 1 bod za 19 sekund.
+ _T_y_d_l_i_d_á [Žena]32 [Kategorie]
+13.07.2012 16:21:11
+no dyt jo, ale pokud to chces met v celych cislach a zaroven pracovat s
+pomerama jako je 9/20 tak to dost dobre nepujde, jedine zvednout ten narust do
+vyssich hodnot aby pripadne obskurni nasobky ala 9/20 porad vyslo cele cislo
+
+tak si u slona dej narust 100HP/1s jako konstantu a pak s tim operuj dal, vuz
+tim padem bude met narust 9x100/20 coz je 45HP/1s a treba trakar, nejslabsi
+jednotka co bude met 1/25 bude met narust 4HP/1s
+ rorotototorowoso
+13.07.2012 16:20:01
+V zásadě ano.
+
+1) výpočet HP vozu - 315 bodů je za 45 minut, vypočítám, kolik má za stejnou
+dobu vůz
+9/20 z 315 je 141,75
+
+2)ve snaze dostat se na celé číslo jsem zkusila zjistit, kolik bodů bude mít
+ten vůz za 60 minut
+čili body vozu/45 minutama x 60 minut = 189 bodů za 60 minut
+
+3) pak už jsem jen krátila - obě čísla jsou dělitelná 3, takže 189bodů/3 je 63
+bodů a 60minut/3 je 20 minut
+ _T_y_d_l_i_d_á [Žena]32 [Kategorie]
+13.07.2012 16:16:06
+rorotototorowoso:
+Já vycházím z toho kolik je nárůst. Nárůst (za sekundu nebo za nějaký počet
+sekund) je pro mě konstanta, kdežto celkový přírůstek je pro mě proměnná.
+Protože ten čas jak dlouho se bude slon nebo vůz "nabíjet" je pro mě neznámá.
+Ale podstatné pak je, aby se zachoval poměr 9/20 a že dobu na nabíjení mají
+oba hráči stejnou.
+ Counter
+13.07.2012 16:12:59
+Tydlidá:
+Můžeš to rozdělit na sekundy. Já vlastně pracuju v sekundách, ale tady jsem to
+převedl na minuty.
+ Counter
+13.07.2012 16:12:28
+uplne to prepracuj, zvedni jednotkam HP
+
+priklad
+slon: celkem 5000HP, narust HP za 1s +40HP
+
+vuz 9/20 co slon ..., celkem 2250HP... narust HP za 1s +18HP
+
+cus bus.
+ rorotototorowoso
+13.07.2012 16:11:35
+Vůz udělá 189 bodů za 60 minut, čili 63 bodů za 20 minut, pak už je to
+nedělitelné, pokud chceš zachovat celé číslo.
+Tydlidá
+
+K tomu si došla na základě tohoto vzorce?
+( 315/20 ) * 9 = 157,5
+
+Jak si došla ke 189 za 60 minut a 63 za 20 minut?
+ Counter
+13.07.2012 16:08:46
+Myslím teda v minutách.
+ _T_y_d_l_i_d_á [Žena]32 [Kategorie]
+13.07.2012 16:08:01
+Vůz udělá 189 bodů za 60 minut, čili 63 bodů za 20 minut, pak už je to
+nedělitelné, pokud chceš zachovat celé číslo.
+ _T_y_d_l_i_d_á [Žena]32 [Kategorie]
+13.07.2012 16:07:50
+Zadání mohlo být špatně... Vzhledem k tomu, že mi nevyšlo to celé číslo. Já
+teda ředpokládal, že když původní čas a HP vynásobím 9, tak že to bude
+společný jmenovatel.
+ Counter
+13.07.2012 16:04:26
+slon:
+315 za 45min = 315 za 2700s, tj. uz tu ti nevychazi prirustek HP na cele
+skundy, 1HP se zvysuje za 8.57 sekundy
+
+vuz:
+
+ma met prirustek HP 9/20 co slon... coz z 315 dela 9x315/20 = 141.75 hp coz
+pri stejne dobe 45minut dela... cas/pocet hp = 2700 / 141.75 = 19.04 sekundy
+na 1HP
+
+pokud chces cele cisla tak si uprav zadani...
+
+
+pokud sem nepochopil zadani tak nevim teda.
+ rorotototorowoso
+13.07.2012 16:04:06
+Tydlidá:
+"A proč by ti mělo vycházet celé číslo? :-)"
+Abych to číslo mohl rozdělit na např.
+1 HP za 35 vteřin ... například. A za těch 45 vteřin (příklad) by to dalo to
+naše výsledné číslo (celé číslo).
+ Counter
+13.07.2012 16:02:34
+Ty to máš správně, já udělal chybu i s kalkulačkou. No a když bych potřeboval
+najít v tom původním příkladu (který nezazněl v dotazu zpovědi) společného
+jmenovatele, tak abych dostal ve výsledku celé číslo? Prostě najít takový čas,
+aby číslo bylo ve výsledku celé.
+
+Původní naměřené hodnoty jsou pro slona 450 bodů za 5 minut. HP válečného vozu
+je 9/20. No já potřebuju získat nějaký čas, který bych pak mohl nějak šikovně
+rozdělit. Tak jako slonu se přičítá určité množství HP za určíté množství
+vteřin.
+ Counter
+13.07.2012 15:57:34
+A proč by ti mělo vycházet celé číslo? :-)
+ _T_y_d_l_i_d_á [Žena]32 [Kategorie]
+13.07.2012 15:55:49
+Mě teda napadlo že bych to mohl počítat takhle: ( 315/20 ) * 9 = 157,5 . Ale
+jak vidíte nevyšlo mi celé číslo, takže jsem asi došel k nesprávnému
+jmenovateli nebo nevím... No, matematika mi nikdy nešla :-/
+ Counter
+13.07.2012 15:52:11
+Tak jestli se HP rovná 315, tak vůz získá za 45 minut 315:20 x 9=141,75
+ _T_y_d_l_i_d_á [Žena]32 [Kategorie]
+13.07.2012 15:51:33
+Potřeboval bych se nějak naučit jak se k tomu dopočítat aby to číslo bylo co
+nejpřesnější. Obou jednotkám ve hře totiž navyšuju HP (nebo AP, to je jedno).
+
+Slona beru jako nejsilnější jednotku a vím jak rychle mu mám navyšovat HP a
+kolik. Ale u dalších jednotek to nevím tak to musím nějak vypočítat. Abych tom
+mohl vypočítat, tak musím znát kolik mu mám vlastně přidat.
+
+Pro příklad...
+Slonovi navyšuju 1 HP za 30 sekund. Ale u válečného vozu by to mohlo být jiné
+číslo za jiný počet sekund. Čili nějak musím najít způsob jak si to vypočítat
+co nejpřesněji, k čemuž jsem si tedy našel společný jmenovatel a vynásobil
+jsem pět minut měřeného času devíti. Čas pro válečný vůz zatím neznám, to bude
+až budu mít ten výsledek HP pro válečný vůz.
+ Counter
+13.07.2012 15:45:04
+Jo aha takhle. Jdu to spočítat:)
+[Smajlík]
+ ovesnákaše
+13.07.2012 15:45:02
+Nejde o to kolik bude mít slon celkem, ale jen o to kolik získá. A to kolik
+získá je vyjádřeno zlomkem. 9/20 z toho co získá slon.
+ Counter
+13.07.2012 15:44:10
+HDP??Kolik hrubého domácího produktu musí získat válečný vůz, když jeho
+výsledný hrubý domácí produkt představuje jen 9/10 hrubého domácího produktu
+slona? :) Co je HP?
+[Smajlík]
+ ovesnákaše
+13.07.2012 15:43:01
+Ta HP hodnota na kterou se ptáš, to je těch 315 bodů (Hit Points). To je
+hodnota které dosáhne slon za 45 minut.
+ Counter
+13.07.2012 15:34:17
+Já jsem to asi nepochopila, ale nechtělo by to tu HP hodnotu? Když ji neznám,
+těžko ji ve výpočtu použiju.
+ _T_y_d_l_i_d_á [Žena]32 [Kategorie]
+13.07.2012 15:30:21
+Uvažujte, že doba, po kterou měřím přibývání HP je stejná, ale rozdíl je v tom
+nárůstu HP.
+ Counter
+13.07.2012 15:28:07
+Kolik HP musí získat válečný vůz když jeho výsledné HP představuje jen 9/20 HP
+slona?
+
+Na zlomky a výpočty nejsem dobrý tak hledám pomoc tady
+ Counter
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+

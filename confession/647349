@@ -1,0 +1,114 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+Diskuze č.647349, vloženo 01.08.2012 18: _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+55:44                                    _s_t_r_á_n_k_a_]
+IP routeru jak zjistím
+jak zjistím vnější IP routeru? stránky typu whatismyIP jsou k ničemu protože
+nevím jestli tato adresa patří routeru nebo nějakému dalšímu stroji.
+ počítačový hovnocuc [Muž]88  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+01.08.2012 20:28:26
+Žádná jednoduchá cesta není. Žádná služba nepozná najisto, jestli je tvůj
+router připojen na Internet a má veřejnou IP, nebo jestli tvůj provider
+praktikuje politiku „za devatero NATy a devatero firewally je bájný Internet“.
+
+
+Povol na routeru nějakou službu do WAN, pak se připoj z jiné sítě na to, co ti
+nějaká webová služba řekne. Buď se připojíš na tvůj router, nebo máš smůlu.
+ _S_t_a_6_7 [Muž]28 [Kategorie]
+01.08.2012 20:19:13
+A jen tak mimochodem, router máme stále tentýž a IP adresu už máme třetí v
+poslední době.
+ _R_e_s_e_a_r_c_h_e_r [Muž]81 [Kategorie]
+01.08.2012 20:02:22
+_h_t_t_p_:_/_/_w_w_w_._w_h_a_t_i_s_m_y_i_p_._c_o_m_/_ 
+_h_t_t_p_:_/_/_w_w_w_._m_o_j_e_i_p_._c_z
+ _R_e_s_e_a_r_c_h_e_r [Muž]81 [Kategorie]
+01.08.2012 20:01:11
+typu whatismyIP je vždycky vnější...takže tak
+
+ji a kdyby přecejen byl v cestě další stroj zkus příkaz tracert v příkazovým
+řádku - třeba tracert _w_w_w_._z_p_o_v_e_d_n_i_c_e_._c_z_ - pak to u strojů kde není na
+firewallu blokováno icmp vypíše ip adresu a na tvém routeru blokováno icmp
+určitě nebude takže ji to vypíše
+[Smajlík]  [Muž]44 [Kategorie]
+ _*_m_a_t_o_u_c_h_*
+01.08.2012 19:35:31
+Zezadu je nalepený kousek samolepky a na té je tužkou načmáraná IP adresa.
+ _D_E_A_D_B_E_E_F [Muž]47 [Kategorie]
+01.08.2012 19:25:09
+Router klidně může mít na "vnější" straně adresu "vnitřního" rozsahu ty
+blitko. Jediný způsob, jak zjistit adresu na rozhraní routeru je zeptat se
+jeho, otázka pak je, k čemu ti to bude.
+ D2II
+01.08.2012 19:13:09
+A co tohle _h_t_t_p_:_/_/_w_w_w_._m_o_j_e_i_p_._c_z_/_ ?
+ _H_u_d_e_b_n_í_č_e_k [Muž]32 [Kategorie]
+01.08.2012 19:12:46
+Kupodivu, blboune, mojeip.cz, tam máš obě, smrade.
+ spermocucka
+01.08.2012 19:09:51
+hmm bezva chci vědět VNĚJŠÍ a von napíše 192... jdu blejt
+ počítačový hovnocuc
+01.08.2012 19:07:57
+Nechápu zda chceš vědět IP adresu pod kterou se tvůj router nachází (defaultně
+ho najdeš pod 192.168.0.1) anebo jakou adresu má přidelenu od poskytovatele,
+to je lepší se přihlásit přímo do toho zařízení.
+ _Z_a_r_c_o_n [Muž]41 [Kategorie]
+01.08.2012 19:06:53
+vnější? jak to myslíš... myslíš adresu, ke které k němu přistupuješ k
+administraci, nebo adresu, kterou ti přidělil poskytovatel (se kterou
+vystupuješ na internetu) ?
+na to první by mělo stačit toto:
+stiskni klávesy Win + R, napiš cmd a ENTER. tam napiš ipconfig /all
+..vypíše to všechny informace o tvých síťovkách, jakou mají přidělenou adresu
+od routeru, přes jakou bránu to prochází...
+nebo do cmd zadej třeba: tracert _w_w_w_._s_e_z_n_a_m_._c_z_ 
+...a sleduj, přes jakké zařízení to všechno jde
+[Smajlík]
+ Lopusik
+01.08.2012 18:58:11
+Zeptej se ho.
+[Smajlík] [Muž]30 [Kategorie]
+ _s_u_v_u_r_o_v
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+

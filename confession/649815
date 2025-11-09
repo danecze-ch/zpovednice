@@ -1,0 +1,151 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+   Otázky - Vzkazy č.649815, vloženo _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+   10.08.2012 20:20:39               _s_t_r_á_n_k_a_]
+   Náhodné číslo
+   Dobrý den,
+   došly mi nápady a tak jsem se vrhnul na ukázkové programy. Jedním z nich
+   právě generátor náhodných čísel jest. Jako první část poslouží bezesporu
+   aktuální čas - v milisekundách - ovšem co tam dále zahrnout? Zkoušel
+   jsem pozici myši i systémové informace - ale pořád to nebylo ono. Tak se
+   ptám, co byste tam dali? Děkuji...
+    Samms [Muž]17  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+10.08.2012 22:28:58
+Mě trochu zarazil ten tvůj styl "Potřebuju někoho poučit o náhodných číslech,
+co jim tam mám napsat?" To je veškerá kritika a moc to nesouvisí s tím, co
+umíš nebo neumíš. Nota bene, ten tvůj odkaz nedokazuje, že umíš programovat.
+Takže nejlepší je nesnažit se hned přesvědčovat.
+Nicméně nakonec už máš ode mě dva příklady jednoduchýho generátoru
+pseudonáhodných čísel, který pochopí i nováček, pokud se mu to dobře
+okomentuje.
+ _T_a_k_ž_e_ _a_s_i_ _t_a_k [Muž]38 [Kategorie]
+10.08.2012 21:57:19
+No dal jsem to sem hlavně proto, že mě kritizuješ (kritika není v základu ani
+negativní, ani pozitivní) a přitom o mých znalostech nic nevíš... Jen jsem se
+ptal, který prvek v PC je nejméně pravidelný a tedy vhodný jako pomůcka ke
+generování náhodného čísla...
+ _M_a_t_e_s_s_-_S_D_1 [Muž]16 [Kategorie]
+10.08.2012 21:42:36
+Samms: No vidíš, jaký jsi šikovný mladý programátor. (Předpokládám, že jsi to
+tu založil, aby ses pochlubil.)
+Tak jsem vyhrabal ten svůj generátor napsaný v as2:
+
+sranda=random(200); //vygeneruju seed
+nahoda=1111+sranda*5; //inicializuju a uz to jede
+
+function pseudo(kolik):int {
+//pseudonahodny cislo v rozmezi 0..kolik.
+var x=nahoda*nahoda;
+while (x>99999) x=Math.round(x/10);
+x%=10000;
+if (x==nahoda) {
+//kdyz se to nejak opakuje
+x+=234;
+}
+nahoda=x;
+return (Math.round(nahoda*kolik/10000));
+}
+[Smajlík]      [Muž]38 [Kategorie]
+ _T_a_k_ž_e_ _a_s_i_ _t_a_k
+10.08.2012 21:26:23
+Jsem Samms... :)
+
+Tady to máš (většina je moje):
+
+_h_t_t_p_s_:_/_/_g_i_s_t_._g_i_t_h_u_b_._c_o_m_/_3_3_1_7_0_7_6_ 
+
+Jsem zvědavý, čemu na tom budeš rozumět a čemu na tom bude rozumět nováček...
+:)
+ _M_a_t_e_s_s_-_S_D_1 [Muž]16 [Kategorie]
+10.08.2012 21:13:16
+Takže asi tak: ale já si to přečet dobře a tvrdím, že jde o generátor dosti
+nekvalitní, vhodný pouze pro nesmírně malé množství účelů. A oplátkou navrhuji
+generátor stejně jednoduše naprogramovatelný, ale o několik řádů kvalitnější.
+Je ovšem pouze na tazateli, zda a který z nich si vybere.
+ _D_E_A_D_B_E_E_F [Muž]47 [Kategorie]
+10.08.2012 21:09:10
+by neop: taky cesta :-) A ještě tam připojit uhlíkovou mikrofonní vložku ze
+starého telefonu, to je potom sichr.
+ _D_E_A_D_B_E_E_F [Muž]47 [Kategorie]
+10.08.2012 21:08:16
+DEADBEEF: přečti si eště jednou, co tam píšu: 100 čísel je dostačující pro
+většinu případů, pokud generuješ jen jednou za čas. Jinak není potřeba řešit
+myš ani čas, používaj se na to matematický fce, kterejch najdeš na netu dost,
+a nejsou ani moc složitý.
+[Smajlík]      [Muž]38 [Kategorie]
+ _T_a_k_ž_e_ _a_s_i_ _t_a_k
+10.08.2012 21:06:21
+Možná by nebylo od věci cucnout data ze zvukovky - myslím si že šum ze vstupu
+mikrofonu je dost kvalitní :)
+ by neop
+10.08.2012 21:05:20
+Takže asi tak: klidně, na zpovědnici se přece dozvíš všechno :-)
+ _D_E_A_D_B_E_E_F [Muž]47 [Kategorie]
+10.08.2012 20:59:23
+V tom případě se zamysli, jestli je třeba tato moudra hledat zrovna na
+zpovědnici, mladý programátore.
+ _T_a_k_ž_e_ _a_s_i_ _t_a_k [Muž]38 [Kategorie]
+10.08.2012 20:58:53
+Takže asi tak: blbost, že? Tím dostaneš pouhopouhých 100 možných variant
+sekvence pseudonáhodných čísel, což je dost na nic. Naopak latence myši je
+velmi dobrý zdroj, ale musí se sbírat dlouho, alespoň několik tisíc bitů.
+Samozřejmě jen jako "seed" pro nějaký pseudonáhodný generátor. Vlastně ne
+nějaký, ale kvalitní, dobře otestovaný algoritmus bez zjistitelných
+autokorelací.
+ _D_E_A_D_B_E_E_F [Muž]47 [Kategorie]
+10.08.2012 20:44:29
+No vzhledem k tomu, že programuji již 5 let, tak ano, chci rozdávat své
+znalosti... :) Jedná se o ukázkový program - tedy aby to pochopili i neznalci
+- proto na to jdou takto neohrabaně...
+ _M_a_t_e_s_s_-_S_D_1 [Muž]16 [Kategorie]
+10.08.2012 20:31:55
+Ty chceš rozdávat moudrosti, a tak taháš moudrosti z jiných? Zajímavá
+strategie.
+Pokud jde o náhodný číslo, který se má vygenerovat jednou za program nebo
+jednou za čas, tak ti budou stačit poslední dvě cifry v milisekundě. To ti dá
+0-99, pro většinu účelů postačující rozmezí.
+Pak jsou různý generátory pseudonáhodných čísel, což je fce, která má daný
+vstupní číslo a pak generuje pseudonáhodnou sekvenci. To si vygoogli.
+ _T_a_k_ž_e_ _a_s_i_ _t_a_k [Muž]38 [Kategorie]
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+
