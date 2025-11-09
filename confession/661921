@@ -1,0 +1,242 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+Zpověď č.661921, vloženo 22.09.2012 21: _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+28:13                                   _s_t_r_á_n_k_a_]
+pripojeni k wifi
+mám problémy s připojením svého nového nb k internetu přes wifi. Zatím byl
+připojený jenom přes kabel, bohužel už nemám kabel, tak bych chtěla přes wifi.
+Sítě mi nalezne i veřejně přístupné, ale nemůžu se k nim připojit. Firewall
+brány už jsem pro jistotu vypnula (kdyby bránily připojení), co mám dělat
+(tlačítko F5 je taky OK wifi chodí).
+ žblababa [Žena]22  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+22.09.2012 23:30:12
+Jop, super ... prosím ignoruj minulý příspěvek. Tak to půjde rychle.
+Klikni na Počítač (Tento počítač) pravym -> vlastnosti -> správce zařízení -
+> rozklikni levym "síťové adaptéry" -> najdi bezdrátovou kartu -> pravym a
+odinstalovat.
+Jakmile se Ti odinstaluje, tak si stáhni ten ovladač - _h_t_t_p_:_/_/_1_u_r_l_._c_z_/_g_1_X_e_ 
+(vyplníš jméno, e-mail a povrdíš.) Jakmile se Ti to stáhne, tak to extrahuješ
+a zřejmě tam bude položka "setup.exe", tak to otevři a nainstaluj. Restartuj
+NTB. Jakmile se Ti znovu načte, tak jdi -> Počítač (Tento počítač) pravym -
+> vlastnosti -> správce zařízení -> rozklikni levym "síťové adaptéry" -> najdi
+bezdrátovou kartu -> pravym -> vlastnosti -> řízení spotřeby -> vyklikni (aby
+nebylo zaškrtnuto) "vypínat ovladač z důvodu spotřeby energie" a OK. Pak by
+jsi měla zapnout Wi-Fi, najít tu svou a normálně se připojit. PROBLÉM VYŘEŠEN
+... Pokud Ti to ani teď nepůjde, tak budeš muset poslat NTB na reklamaci
+(opravu), aby Ti vyměnili anténu. Tak pak prosím napiš, jak jsi dopadla ...
+jsem zvědavý :)
+ _S_m_é_a_g_o_l [Muž]18 [Kategorie]
+22.09.2012 23:28:42
+díky moc Glummíku, kdybys potřeboval s čímkoli pomoct obrať se na mě (dokončím
+to ráno, teď už jsem fakt polomrtvá únavou). kontakt na mě je:
+zlababa6789@email.cz
+ žlababa
+22.09.2012 23:19:40
+Našel jsem řešení:
+
+I uninstalled the RaLink wifi utility that came with the 3.2.1 driver, but it
+uninstalled the driver too. So I reinstalled and checked the 'install driver
+only' option, went to Control Panel>Hardware and Sound>Device Manager>Network
+adapters>
+
+Ralink RT3090 802.11n WiFi Adapter>double-click to open up Properties>Power
+Management tab>uncheck "Allow this computer to turn off device to save power",
+"OK", closed programs and restarted.
+
+
+
+Then when I start or awaken the system from sleep, I click on the Wireless
+Connections icon in the bottom right-hand tray (next to the clock that looks
+like reception bars on a cell phone), then click on the connection I want to
+connect to, then click "Connect". While it takes about 8 seconds to connect,
+it's MUCH more preferable than having the connection constantly drop out, and
+I've probably had to restart my system only once when it wouldn't reconnect
+out of a sleep state.
+
+
+
+I've had MUCH more consistent behavior since this change, and I hope this
+works well for you too!
+
+Pokud umíš dobře anglicky, tak to zvládneš, pokud chceš pomoct, tak sem klidně
+napiš, rád pomůžu ... jinak odkaz na stažení toho ovladače _h_t_t_p_:_/_/_1_u_r_l_._c_z_/_g_1_X_e
+- zadáš jméno, email a potvrdit a stáhne se Ti :)
+ _S_m_é_a_g_o_l [Muž]18 [Kategorie]
+22.09.2012 23:16:59
+verze je 3.1.14.0
+ žlababa
+22.09.2012 23:00:11
+Tak jsem se koukal na internetě na zahraničních webech a ten problém s tvým
+NTB je globální! :D Všude si stěžují na to, co Ty. Podívej se prosím Tě ještě
+jednou do toho "Správce zařízení" -> klikni pravym na tu Wifi položku -
+> vlastnosti -> ovladač a tam by mělo být napsáno "verze ovladače" ... kdyby
+jsi mi tu verzi jsem přepsala, abychom zbytečně nepřeinstalovávali (pokud bude
+3.2.7.0), tak jsme v háji :D
+ _S_m_é_a_g_o_l [Muž]18 [Kategorie]
+22.09.2012 22:43:52
+nevím, jak zjistit svoji IP adresu, ale když je klid, tak ten nb je růžovo-
+šedej, lhala jsem :)
+ žlababa
+22.09.2012 22:41:18
+Tohle nikdo zneužít nemůže, to by jsi musela někomu musela napsat svojí IP
+adresu (nepiš jí sem! :D)
+ _S_m_é_a_g_o_l [Muž]18 [Kategorie]
+22.09.2012 22:38:57
+nemůže to někdo zneužít? já vím, že nejsem úplně zábavný cíl pro hackery, už
+proto, že nepoužívám firewall a mám problémy s viry, ale ... nevím, nenapadá
+mě to. mám lenovo s205, je růžové, WIndows 7, Service Pack 1, Ralink RT3090
+802.11n Wifi Adapter
+ žlababa
+22.09.2012 22:33:04
+takže se nic neaktualizovalo? Dobře, tak mi prosím přepiš celý ten název
+adaptéru (ten: Ralink RT309 bla bla wifi adapter), Win 7 (jaký máš service
+pack) - to najdeš v tento počítač/pravym/vlastnosti, jaký máš NTB (stačí
+značka - např. Asus, Acer, HP, Dell, ...)
+ _S_m_é_a_g_o_l [Muž]18 [Kategorie]
+22.09.2012 22:29:25
+tak všechno je aktuální :)
+ žlababa
+22.09.2012 22:26:04
+tento - "Ralink RT309 bla bla wifi adapter" :D
+ _S_m_é_a_g_o_l [Muž]18 [Kategorie]
+22.09.2012 22:24:52
+mám tu 4 věci Ralink RT309 bla bla wifi adapter a Realtek PCIE Family
+Controller a pak dva pojmy s Bluetooth ... co z toho?
+ žlababa
+22.09.2012 22:15:16
+Super, tohle není bez výsledku. Jelikož přístupovými body to nebude, tak to
+bude tvým bezdr. adaptérem. Klikni na Počítač (Tento počítač) pravym -
+> vlastnosti -> správce zařízení -> rozklikni levym "síťové adaptéry" -> najdi
+bezdrátovou kartu -> pravym a "aktualizovat ovladače zařízení" -> zkus
+automaticky -> 1) když Ti to začne zaktualizovávat, tak to je ten problém, 2)
+když Ti to napíše něco v tom smyslu, že to neumí najít, tak mi sem napiš název
+Tvé bezdr. karty a já Ti najdu ovladač na internetu 3) pokud Ti to napíše, že
+není co software je aktuální, tak to pak přeinstalujeme kompletně ... tak pak
+napiš :)
+ _S_m_é_a_g_o_l [Muž]18 [Kategorie]
+22.09.2012 22:07:25
+všechno hotovo dle instrukcí, ale bez výsledku. píše mi to, že mám problémy s
+bezdrátovým adaptérem, nebo přístupovým bodem
+ žlababa
+22.09.2012 22:05:15
+Pak je ještě možnost takový banality, jako jestli máš v "bezdrátová připojení
+k síťi" -> pravym -> vlastnosti -> Protokol IP (6/4) -> klikni na to větší
+levym -> vlastnosti -> získávat IP informace automaticky / DNS adresu
+automaticky
+ _S_m_é_a_g_o_l [Muž]18 [Kategorie]
+22.09.2012 21:56:38
+Tak zkus
+Ovládací Panely -> Síť a Internet -> Centrum síťových připojení a sdílení -
+> Změnit nastavení adaptéru -> ikona "připojení k místní síťi", kliknout
+pravym a "Zakázat" -> pro jistotu bych zakázal i "bezdrátová připojení k
+síťi", restartoval Wi-Fi adaptér ON/OFF (na NTB by si na to měla mít na
+klávesnici tlačítko [většinou to je pod F2]) -> povolit bezrátová připojení -
+> zkusit se připojit
+ _S_m_é_a_g_o_l [Muž]18 [Kategorie]
+22.09.2012 21:52:06
+Marcellus Non Nomen: ne, ale někdy to dělá ve Woknech bordel (hlavně u Vist) a
+když byla píchnutá (LAN) na ten router, tak to může dělat neplechu. Po pár
+špatných zkušenostech jsem přešel na Linux, takže vím, jaký Wokna někdy dělají
+kraviny.
+ _S_m_é_a_g_o_l [Muž]18 [Kategorie]
+22.09.2012 21:50:03
+tak v tomhle okénku (Spravovat bezdrátové sítě) nejsou napsané žádné sítě
+ žlababa
+22.09.2012 21:47:56
+Sméagol: Jako, že by to měla plný?
+[Smajlík]            [Muž]24 [Kategorie]
+ _M_a_r_c_e_l_l_u_s_ _N_o_n_ _N_o_m_e_n
+22.09.2012 21:46:48
+Ovládací Panely -> Síť a Internet -> Centrum síťových připojení a sdílení -
+> Spravovat bezdrátové sítě -> na všechny sítě, co se Ti ukážou klikni pravym
+(postupně) -> Odebrat síť -> a připoj se na novo
+
+PS: pro jistotu bych odebral i síťové připojení ve "Síťová připojení"
+ _S_m_é_a_g_o_l [Muž]18 [Kategorie]
+22.09.2012 21:46:12
+ta síť asi takhle není ošetřena, protože mě to nechtělo pustit ani do školní
+sítě, která je veřejná, ani do sítě v kavárně, ani do sítě v knihovně
+ žlababa
+22.09.2012 21:44:02
+promiň, Marcelllusi neviděla jsem tvůj příspěvek. mám teda přenastavit co?
+prosím?
+ žlababa
+22.09.2012 21:41:09
+Evčo: asi sis to nedočetla do konce, kabel nemám, jinak bych se připojila skrz
+něj. káču se vyhoním, ale až u jiných stránek než u zpovědnice. pokud bych to
+udělala u zpovědnice, tak bych z toho měla dost špatný prožitek
+ žlababa
+22.09.2012 21:39:51
+Tzn, že ta síť je zabezpečená filtrem, kterej nepustí dovnitř žádnou jinou mac
+adresu (mac adresa je jedinečné číslo, které má každá síťová karta v PC, dvě
+nejsoui stejné...) než má povolenou, takže se tam nedostaneš a zapni si
+firewall...
+[Smajlík]            [Muž]24 [Kategorie]
+ _M_a_r_c_e_l_l_u_s_ _N_o_n_ _N_o_m_e_n
+22.09.2012 21:38:51
+Ty krávo vyhoň si káču a omotej si kabel kolem krku.
+ Evička
+22.09.2012 21:37:23
+Marcellus Non Nomen : díky, zní to lákavě. mohl bys mi přiblížit, co to
+znamená?
+Smeagol: zkoušela jsem se připojit asi k 5 různým sítím (veřejným i domácím)
+se stále stejným výsledkem, jinak mám Win7
+ žlababa
+22.09.2012 21:34:59
+Zkoušela jsi se připojit i k jiným wifi?
+PS: Co používáš za OS? (např. Win7)
+ _S_m_é_a_g_o_l [Muž]18 [Kategorie]
+22.09.2012 21:34:26
+Filtr mac adres?
+[Smajlík]            [Muž]24 [Kategorie]
+ _M_a_r_c_e_l_l_u_s_ _N_o_n_ _N_o_m_e_n
+22.09.2012 21:31:39
+jednou až dvakrát se otočí modré kolečko a připojení nelze navázat, pokud je
+síť zabezpečená, tak se dostanu k okénku na heslo, zadám to správné a zase
+připojení nelze navázat
+ žlababa
+22.09.2012 21:30:13
+Popiš co se konkrétně děje? Klikneš na wifi->připojit a co se děje pak?
+ _S_m_é_a_g_o_l [Muž]18 [Kategorie]
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+

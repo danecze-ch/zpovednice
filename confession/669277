@@ -1,0 +1,236 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+Diskuze č.669277, vloženo 21.10.2012 19: _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+47:42                                    _s_t_r_á_n_k_a_]
+Slídění na internetu
+V diskuzi 668339 zaznělo, že použití proxy serverů může být z důvodu anonymity
+nebezpečné.
+
+Byla tam zmínka o tom, že většina proxy používá hlavičku X-Forwarded-For v http
+protokolu. Ve skutečnosti nepoužívají, resp je jich menšina. Sice takové proxy
+vyhovuje RFC standardům, ale postrádá smysl anonymity.
+
+Tady je možný ověřit, jestli jste vybrali dobré proxy.
+http://www.lagado.com/proxy-test
+
+Neměl by tam být nikde váš osobní údaj, hlavně vaše IP v X-Forwarded-for a
+hostname.
+
+Pokud tam takový údaj není, proxy je bezpečné. Tedy do té doby než začne slídit
+PCR, ta vidí všude k vašemu poskytovateli.
+
+Ať žije právo na soukromí a lidová tvořivost. Fejkařům zdar, slídilům zmar.
+ _*_m_a_t_o_u_c_h_* [Muž] [Kategorie]  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+22.10.2012 01:51:36
+A ještě kdo nevěří mým odkazům, ať zadá do google něco ve stylu:
+
+find my browser details
+find my system details
+find my browser details resolution
+
+apod.
+ _*_m_a_t_o_u_c_h_* [Muž]44 [Kategorie]
+22.10.2012 01:25:32
+Sta67: nepoužívám ten systém k hackingu: je zdarma, leccos jsem potřeboval k
+práci, naučím se, udělám si sám. Na svou bezpečnost celkem kašlu :-) Jsem
+pohodlnej a unesl bych to ;-)
+
+Nepíšu abych se chlubil. Píšu to proto, abych pomohl - ten samotnej fakt, jak
+se dá slídit se mi nelíbí. A trvám na tom, že s přístupem "vím co je o mě
+známo" (pomocí toho odkazu) si může kdokoliv vytvořit strategii..
+ _*_m_a_t_o_u_c_h_* [Muž]44 [Kategorie]
+22.10.2012 01:19:19
+*matouch*: No tak to jsi überhacker, a vystopovat tě bude problém. Ale na
+unterhackery, kteří umí akorát kliknout na proxy, a nanejvýš ve Windows pustit
+hackovací nástroj stažený z netu, by to stačilo. Kdyby to ovšem někdo do
+Zpovědnice doprogramoval. (V případě, že má web Zpovědnice nějakou
+bezpečnostní díru, mohl by to udělat i „externista“.)
+
+Charles: Kdo ví. Vůbec bych se nedivil, kdyby některé anonymizéry sponzorovala
+CIA nebo EU. Vůbec ne proto, aby někoho špehovala, ale určitě proto, aby
+umožnila íránským bloggerům anonymně postovat na Twitter.
+ _S_t_a_6_7 [Muž]28 [Kategorie]
+22.10.2012 01:12:07
+A ještě pokud chceme být opravdu paranoidní - tady _h_t_t_p_:_/_/
+_w_w_w_._s_y_s_t_e_m_d_e_t_a_i_l_s_._c_o_m_/_ 
+
+se nám ukáže vše co se zaznamená o nás při každém přístupu na stránku (i
+reloady) a procento jedninečnosti (market share - čím větší, tím lépe)
+
+A strategie se dá tímto vytvořit, kontrolovat...jen tak, že víme co je o nás
+vidět a zažijeme si to co potřebujeme..
+ _*_m_a_t_o_u_c_h_* [Muž]44 [Kategorie]
+22.10.2012 00:59:46
+Navíc co se týká předchozího mého postu není to až tak nutné. Toto by mohl
+odhalit jen správce systému. V administračním rozhraní našich adminů tohle
+není s největší pravděpodobností naprogramovaný. To by musela být už dobrej
+pokus o špionáž se zanedbatelným a nejistým efektem.
+ _*_m_a_t_o_u_c_h_* [Muž]44 [Kategorie]
+22.10.2012 00:52:15
+Pokud vezmu za příklad zpovědnici - k tomu co tu píšeme je dobrá strategie:
+
+Ofiko píšeme z jednoho prohlížeče, anonymně z druhého. Nikdy nepřeklikáváme a
+nemícháme.
+
+To by už mělo bohatě stačit.
+ _*_m_a_t_o_u_c_h_* [Muž]44 [Kategorie]
+22.10.2012 00:47:51
+Moc hádáš. Ve skutečnosti mám FreeBSD a Konqueror. Ale hlásí mi to Windows XP
+a IE 7.0. Třeba to mohu navolit ;)
+Mě teda z toho zkrátka vynech. Trvám na tom, že standardní konfigurace, což je
+u většiny je v pořádku.
+
+Pokud budu instalovat pluginy, speciální fonty pak už to může srovnáním fejků
+a reality leccos napovědět, když bude stejně netypický rozlišení obrazovky, je
+to už na pováženou.
+Klíčem je standardní instalace a standardní velikost obrazovky, podle toho
+tvýho odkazu - každý vidí co tam je a může se podlde toho zařídit
+ _*_m_a_t_o_u_c_h_* [Muž]44 [Kategorie]
+22.10.2012 00:25:59
+Neteoretizuj, a otestovuj si svůj prohlížeč, ať víš, kolik z milionu má
+stejnou konfiguraci.
+
+Na identifikaci tvého IP může stačit, aby ses na stejnou stránku podíval jen
+jednou bez proxy. Třeba jen si něco číst.
+ _S_t_a_6_7 [Muž]28 [Kategorie]
+22.10.2012 00:15:00
+Sta67: většina používá standard - mají standardní rozlišení obrazovky, windows
+xp až w7, IE, firefox, operu.. anebo víc prohlížečů.
+
+Nestandard je proti bezpečnosti, to jo.
+
+Ty pluginy prohlížeče mohou trochu napovědět, pokud např někdo srovnává.
+
+Ale jen tak, že si řeknu - fejk A byl napsán stejným uživatelem jako fake B
+(nic víc) - tedy v případě nestandardů.
+
+Pokud použiju normální rozlišení obrazovky, a např IE který je v každým
+windows, nebudu k němu instalovat žádný přídavný pluginy, prostě budu ho mít
+jen na anonymní psaní, tak víš co? 80% lidí je na tom stejně.
+
+Na serveru jsem měl awstats (statistiky přístupů) - dokonce ani k rozlišení
+obrazovky se nedostaneš..
+[Smajlík]  [Muž]44 [Kategorie]
+ _*_m_a_t_o_u_c_h_*
+21.10.2012 23:05:24
+Prozradit se můžeš mnoha způsoby.
+
+Třeba identifikace podle konfigurace prohlížeče a počítače tě snadno prozradí.
+Stačí jít jednou jedinkrát na server stejného provozovatele bez proxy.
+
+_h_t_t_p_:_/_/_p_a_n_o_p_t_i_c_l_i_c_k_._e_f_f_._o_r_g_/_ 
+
+(Mám pár měsíců nový netbook v úplně standardní instalaci od výrobce. Přesto
+je můj stroj jednoznačně rozpoznatelný mezi miliony ostatních.
+ _S_t_a_6_7 [Muž]28 [Kategorie]
+21.10.2012 23:00:45
+Dík za odkaz.
+Do budoucna bude čím dál komplikovanější si udržet anonymitu. Politici již
+před pár lety poznali, že internet se stal mainstreamem a je ideální na
+získávání informací o ovečkách.
+
+Napadá mě otázka - z čeho je financován provoz anonymních proxy serverů? Že
+bych jednou nějaký v zahraničí rovněž spustil...
+ _C_h_a_r_l_e_s [Muž]49 [Kategorie]
+21.10.2012 21:59:17
+In my place:
+
+proxy server slouží k tomu, aby ten kdo chce na internetu působit s větší
+anonymitou, aby měl takovou možnost.
+
+Každý počítač v internetu má totiž svou adresu a říká se jí IP adresa. IP
+adresa tě někdy identifikuje, i když nemáš v úmyslu vystupovat pod svým
+zaregistrovaným nickem a chceš se třeba na ZP anonymně poradit.
+(Pokud mluvím o identifikaci, mám samozřejmě na mysli že k ní mají přístup
+lidi, kteří mají větší práva než normální uživatel. Jsou to tedy všichni
+admini, jejich známí, správci serveru, majitel atd. Těm všem lidem budu říkat
+admini)
+
+Proxy server schová tvoji adresu a admini vidí místo toho adresu proxy
+serveru. Takže proxy server by se dal chápat jako nějaká anonymní brána,
+kterou prochází víc lidí.
+
+V té zmíněné diskuzi byla řeč o tom, že i když jsi na proxy serveru, předává
+tento nějaké údaje na web. A jedním z předmětných údajů, o kterém byla řeč v
+diskuzi, byla položka X-forwarded-for.
+Tato položka umožnuje zjistit adminům původce, t.j toho, kdo se schovává za
+proxy. Jak jsem psal ve většině případů tato položka není v proxy obsažena
+(odzkoušet se to dá na tom linku)
+
+Je spousta paniky ohledně bezpečnosti a imo je dobrý říct, co bezpečné je a co
+není. Proxy v podstatě bezpečné je (jen se musí kontrolovat, které údaje jsou
+vidět - viz link). Byla tu řeč i o nějakém instalovaném sw, který se natahuje
+ze ZP, což je samozřejmě blbost.
+
+Takže závěr: pokud chceš používat proxy a očekáváš anonymitu - můžeš, ale
+zkontroluj na odkazu.
+
+Je potřeba říct, že anonymita je to jen do té chvíle, dokud se člověk nechce
+chovat ilegálně. Tvůj poskytovatel internetu vidí vždy stránky, které navšívíš
+a to samé vidí PCR. Archivuje se to půl roku. Pokud se chováš legálně, těch
+záznamů tam mají tolik, že není v jejich silách, aby kontrolovali jednoho
+dotyčného. Ale tu možnost poskytovatel má.
+
+Jak nastavit proxy např ve Firefoxu někdo poslal odkaz do té diskuze, na
+kterou jsem reagoval. S kontrolou je to tedy bezpečné.
+ _*_m_a_t_o_u_c_h_* [Muž]44 [Kategorie]
+21.10.2012 21:31:10
+*matouch*: netušim o čem to mluvíš, jednodušeji pro laiky by to nešlo?
+ In my place
+21.10.2012 19:58:48
+Samir: pokud bylo pomalé, zde jsou seřazené podle rychlosti:
+
+_h_t_t_p_:_/_/_w_w_w_._h_i_d_e_m_y_a_s_s_._c_o_m_/_p_r_o_x_y_-_l_i_s_t_/
+ _*_m_a_t_o_u_c_h_* [Muž]44 [Kategorie]
+21.10.2012 19:56:13
+Abych byl přesnější položka x-forwarded-for by měla chybět v seznamu Request
+Headers.
+ _*_m_a_t_o_u_c_h_* [Muž]44 [Kategorie]
+21.10.2012 19:53:11
+Proxy sem použil jen raz bo mi dali ban. Jinak to bylo pomalé a furt se to
+načítalo a sekalo, tak sem zkusil Hide IP easy a to bylo ještě horší, totálně
+mi nahodil brzdu.
+[Smajlík] [Muž]33 [Kategorie]
+ _S_a_m_i_r
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+

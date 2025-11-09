@@ -1,0 +1,207 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+   Otázky - Vzkazy č.670253, vloženo _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+   25.10.2012 16:27:30               _s_t_r_á_n_k_a_]
+   Základy C#
+   Chci tohle volno využít k něčemu, co mi alespoň k něčemu bude. Ve škole
+   na informatice letos programujeme v C#, jenže to máme jen 2 hodiny
+   týdně, takže to jde dost pomalu. Zatím jsme se dostali jen k tomu, jak
+   udělat program pro výpočet obsahu něčeho (kruhu, čtverce apod.),
+   naposledy jsme dělali, aby to spočítalo obě složky gravitační síly.
+   Dostali jsme sice od učitele poznámky, jenže moc se v nich neorientuju.
+   Chtěla bych se naučit něco dalšího, ale nemůžu sehnat žádný pořádný
+   návod na netu. A tak bych chtěla radu od někoho, kdo tohle umí, jak a s
+   čím začít, co se naučit pro začátek, odkud?
+   Budu ráda za každou pomoc.
+    PlayIt [Žena]16  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+27.10.2012 18:23:05
+PlayIt:
+"Tím, že budu psát něco tak dlouho, až si zapamatuju, co to dělá"
+vetsina se jich jmenuje presne podle toho co delaji, takze si neni potreba
+pamatovat skoro nic
+
+
+drž hubu: "tak jsem to asi blbě pochopil. "
+Ne, akorat tohle je pohled toho co psal tu knizku, az bude umet tak dobre
+programovat jako on, tak to pro ni bude platit taky.
+ _S_o_s_a_r_i_a_n [Muž] [Kategorie]
+25.10.2012 19:53:12
+_PlayIt: Jo, jako slovíčka z angličtiny, když to pomůže. Ale pokud umíš
+anglicky, tak se toho nemusíš nijak obávat, všechny příkazy jsou dost logické.
+
+
+Tzn. když vidíš:
+Readln (x); // je ti jasné, že to přečte hodnotu x a odsadí
+Read (x); // je ti jasné, že to jenom přečte hodnotu x na tom daném řádku a
+neprovede se žádné odsazení, protože chybí _ln = line
+Jsou to zásadní rozdíly, které si musíš taky uvědomit.
+Mám díky škole přístup k programu, který mi kód detailně projede a zhodnotí, a
+za tuhle záměnu jsem např. vyfasovala 60 % ze 100 možných :]
+
+Pomalu si kód čti a v hlavě si představuj, co to právě (!) dělá.
+Nebo si to nepředstavuj, dívej se, až budeš zkrátka krokovat.
+
+Jo, na příkazy si klidně vytvoř nějakou tabulku, vytiskni si ji, nalep na zeď
+a studuj. Ale podle mě není nutná, když chceš např. podmínku, přepneš do AJ a
+hned se ti jistě před očima ukáže: if ... není to dokončené, automaticky si
+doplníš: if ... then ... když to neplatí, naskočí ti else ... .
+
+Nebo víš co, je nutná, budeš v tom mít přehled a rychle se v tom zorientuješ.
+Udělej si tabulku nejen příkazů, ale i datových typů.
+
+Pamatovat je debilní slovo.
+Tím, že si to budeš pročítat a často si kódy psát, tím si v hlavě vytvoříš pro
+tu metodu, příkaz,... jakousi logickou konstrukci, která ti v případě potřeby
+sama vyskočí. Nebo by se to dalo možná shrnout tak, že tím sbíráš zkušenosti,
+čím víc zkušeností, tím méně situací, během kterých si budeš říkat, co to
+sakra je, co mám dělat ??? Budeš mít zkušenosti, budeš vědět, co dělat. Co
+psát.
+
+Jo, ještě je dobré se ptát, zda je program, který jsi napsala, nejlepší?
+. jestli by se nedal vylepšit ?
+. případně jak ?
+. např. jestli by se několik příkazů nedalo napsat do jedné procedury ?
+atd.
+
+Hned nejásat, ptát se.
+
+
+Ok, drž se rad :]
+Uč se angličtinu, nezanedbávej matematiku, nepoužívej myš, nauč se klávesové
+zkratky, krokuj, mysli, dívej se, nezapomínej během toho taky žít... a vyhýbej
+se knihám, které píší, že tě něco naučí za méně jak 30 dní, kecají a produkují
+jenom tupé bouchače :))
+
+Btw mnohem lepší je do začátků Pascal, ale to jen, kdybys měla dost času.
+Já byla vychována na C#, teď mám povinně Pascal a je to pro chod myšlení
+mnohem lepší.
+ _D_e_s_c_a_r_t_e_s_ _n_e_m_y_s_l_í [Žena]42 [Kategorie]
+25.10.2012 19:08:22
+ó, tak sorry za tu hovadinu co jsem napsal. V knížce, kterou jsem doporučil,
+jsem se dočetl, cituji: "C++ a C# je v podstatě to samé, jen c# je trochu
+upravené Microsoftem", tak jsem to asi blbě pochopil.
+ _d_r_ž_ _h_u_b_u [Muž]22 [Kategorie]
+25.10.2012 19:02:41
+Děkuju moc všem, hlavně Descartes nemyslí. Budu to zkoušet dál, a jednou snad
+dosáhnu na úroveň, abych mohla dělat programátorku, což je moje vysněná práce
+:). Ještě bych se chtěla zeptat, budu si tedy pročítat kódy a přemýšlet nad
+postupy, ale ty příkazy se mám učit jak? Tím, že budu psát něco tak dlouho, až
+si zapamatuju, co to dělá, nebo si to nějak opakovat a učit se třeba jako
+slovíčka z angličtiny?
+ PlayIt
+25.10.2012 18:46:06
+Nečti si žádnou knihu, která se nevěnuje C#, je to zbytečné, protože se jazyk
+od jazyka naprosto liší svou syntaxí, a C++ má k C# dost daleko. (...) To ti v
+začátcích akorát přitíží, než pomůže.
+Čti si rovnou kódy, ideálně ty okomentované.
+
+Jak fungují podmínky, cykly, funkce, pole,... je všude stejné a to je základ,
+který musíš plně chápat a ovládat, to je důležité, a to si člověk musí
+uvědomit. Musí se naučit myslet, pak to půjde jako po másle.
+Nejlepší je psát jednoduché programy, na kterých jejich princip pochopíš. Psát
+je tak dlouho, dokud to nebudeš mít plně zažité. Pak postupně zvedat úroveň
+obtížnosti.
+
+Fajn příklady na procvičení jsou zde: _h_t_t_p_:_/_/_t_i_n_y_u_r_l_._c_o_m_/_8_u_3_k_o_e_z_ 
+
+Pro mě je nejlepší, když mám zadaný nějaký úkol. Na papíru/v hlavě/... vyřeším
+algoritmus, něco, co mi řekne, jak by to mělo fungovat, teprve poté se to
+snažím přetransformovat na kód. Velice často se mi stává, že během psaní kódu
+narazím na problém, to pak řeším za pomocí Googlu, do detailů si čtu kódy
+ostatních, porovnávám,... nebo když už jsem fakt v krizi, tak se zeptám přátel
+a oni mi nástin problému poskytnou, já mám ovšem to štěstí, že se drtivá
+většina programováním zabývá.
+Pokud máš mezi kamarády nějaké programátory, nebude na škodu je sem tam
+oslovit, ukázat jim kód, zeptat se, jestli by to šlo napsat nějak elegantněji,
+atd.
+
+Taky je dobré dodržovat jakousi štábní kulturu. Čím dřív si zavedeš nějaký
+svůj přehledný styl strukturování, tím líp nejen pro tebe, ale i pro ty, kteří
+po tobě budou kód číst.
+
+Ještě je důležité hodit během programování do koše myš. Myš je zlo, které tě
+zdržuje od dobytí světa. Nauč se klávesové zkratky, ušetříš tím alespoň 40 %
+času, který bys mohla využít např. testováním.
+
+A moje rada při ladění kódu: krokuj a dívej se.
+// co krokování znamená, si najdi, ušetří to tvoje nervy
+
+...welcome to the jungle...
+hf ´ gl ´ bb
+
+
+_NODi: „Nebo se k nejakemu projektu pridej a prozatim prispivej jen drobnymi
+opravami/upravami.“
+
+To je podle mě blbost, když teprve začíná.
+Nasekala by v tom akorát chyby.
+ _D_e_s_c_a_r_t_e_s_ _n_e_m_y_s_l_í [Žena]42 [Kategorie]
+25.10.2012 17:55:59
+Sosarian dobre radi, pokud uz mas jazyk, ktery chces pouzivat a vis, co chces
+udelat. Projekty se svobodnymi licencemi maji obvykle k dispozici zdrojove
+kody, ktere muzes studovat a ucit se od jinych. Nebo se k nejakemu projektu
+pridej a prozatim prispivej jen drobnymi opravami/upravami.
+ _N_O_D_i [Muž]29 [Kategorie]
+25.10.2012 17:23:31
+Knizku o C++ si rozhodne necti, to ti k C# nepomuze (a jestli jo tak malo a
+rozhodne min nez knizka o c# ktera taky neni problem sehnat...)
+
+Me se nejlip uci tak ze si vyberu nejakej slozitej projekt typu hra, pak se
+divam jak to delali jini, a zkousim to delat sam.
+
+Rozhodne je podle me nejelspi mit cil co chces udelat (treba hru, nebo neco
+min ambiciozniho klidne :)) a pak se ucit tak ze hledas jak udelat nejake
+konkretni veci v tom, uceni z knizek mi prijde nanic.
+ _S_o_s_a_r_i_a_n [Muž] [Kategorie]
+25.10.2012 17:15:28
+Spis si ujasni, co od toho ocekavas, k cemu to chces pouzivat a podle toho pak
+zkus nejakej jazyk, programovani je vlastne porad stejny, ale C# mi pro
+potreby normalniho cloveka prijde jak kanon na vrabce.
+ _N_O_D_i [Muž]29 [Kategorie]
+25.10.2012 16:49:39
+_h_t_t_p_:_/_/_k_n_i_h_y_._c_p_r_e_s_s_._c_z_/_n_a_u_c_t_e_-_s_e_-_c_-_z_a_-_2_1_-_d_n_i_-_d_2_._h_t_m_l_ 
+
+Tady, je to sice c++, ale je to c# dost podobný.
+ _d_r_ž_ _h_u_b_u [Muž]22 [Kategorie]
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+
