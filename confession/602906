@@ -1,0 +1,126 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+   Otázky - Vzkazy č.602906, vloženo _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+   13.02.2012 21:22:31               _s_t_r_á_n_k_a_]
+   K čemu JavaScript?
+   Nazdar, už půl roku se učím HTML. CSS(ve škole) a docela jsem to flákal,
+   ale poslední dva týdny jsem na sobě zamakal a jsem daleko před ostatníma
+   a najíždím na javascript. V něm jsem se naučil syntaxi( jako
+   programátorovi mi to šlo rychle), teď sem najel na ty funkce a eventy co
+   už tam jsou zabudované, a když jsem se podíval na nějaké praktické
+   ukázky (kniha je tuším z roku 2004) tak tam není žádná využitelná
+   praktická věc. Takový to vyskakování oken... přechody mezi stránkami...
+   odpočítávání data/hodiny/kalendář... to vše je nepotřebné, až na to
+   poslední, ale to udělám v PHP, tak se ptám: Umí Javascript něco, co PHP
+   neumí? Popř. nějaké příklady aplikací/věcí kde se využívá ? Vím že se
+   často kombinuje s PHP ale stále nechápu co umí navíc, že se to neudělá
+   celé v PHP. JavaScript se já učím a teď s docela nechutí, jen abych se
+   pak mohl naučit AJAX, který už se využít dá lépe a umí věci co PHP ne.
+   Naposledy ta otázka, komu by se to nechtělo číst celé:
+
+   Umí Javascript něco, co PHP neumí? Popř. nějaké příklady aplikací/věcí
+   kde se využívá ?
+    WebGreenWay [Muž]17  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+14.02.2012 10:05:54
+AJAX je JavaScript
+ _S_o_s_a_r_i_a_n [Muž] [Kategorie]
+13.02.2012 22:37:18
+A na závěr, jsi na špatném serveru, to sem imhho nepatří, smaž to.
+ _p_o_p_r_v_é_ _d_o_h_o_l_a [Muž] [Kategorie]
+13.02.2012 22:35:21
+V dnešní době vyhrává ten, kdo sype funkčnost rychleji - "premature
+optimization is the root of all evil", od jisté hranice kvality kódu se víc
+vyplatí přidat výkonnější železo než přepisovat funkční, strukturovaný atd kód
+- chci říct, že bez php/css/js frameworku sice pochopíš jazyk, ale neobstojíš
+co do výkonu/produktivity. Jestli chceš ve škole ohromit a něco se naučit od
+profíků, hoď okem na _h_t_t_p_:_/_/_h_t_t_p_:_/_/_t_w_i_t_t_e_r_._g_i_t_h_u_b_._c_o_m_/_b_o_o_t_s_t_r_a_p_/_ - css grid,
+skvělé výchozí styly a několik čistě napsaných JS pluginů pro jQuery - na
+příkladech tady _h_t_t_p_:_/_/_t_w_i_t_t_e_r_._g_i_t_h_u_b_._c_o_m_/_b_o_o_t_s_t_r_a_p_/_j_a_v_a_s_c_r_i_p_t_._h_t_m_l_ pochopíš,
+že bez JS (VBS, CoffeeScript a jiné skripty v prohlížeči) by stránky byly
+mrtvé, neinteraktivní, před html5/css3 bez animací/přechodů atd. JS je na
+mnoha stránkách jen cukrová poleva pro oko, ale díky němu se do prohlížečů
+přesouvá spousta úkolů/práce, které by jinak musel odvést server - a není
+důvod "plýtvat výkonem" počítačů lidí, kteří po serveru něco chtějí.
+ _p_o_p_r_v_é_ _d_o_h_o_l_a [Muž] [Kategorie]
+13.02.2012 22:20:36
+poprvé dohola: díky ti, právě že s nějakým pracováním s daty v reálném čase
+jsem se setkal právě až u asynchronního AJAXu proto se mi zdál JS divnej, ale
+na JQuery jsem se chtěl taky vrhnout, ale nechtělo se mi, právě kvůli tomu že
+jsem měl krizi s JS :D jinak právě většinou studuji z W3schools.com ale u JS
+jsem se toho právě chtěl dozvědět víc, ale když i učebnice selhala, tak jsem
+se obrátil jsem, no každopádně jedu dál ;)
+[Smajlík]
+ WebGreenWay
+13.02.2012 22:14:39
+Server přijme požadavek, zachrochtá, sáhne do databáze, znova zachrochtá,
+pošle prohlížeči stránku a tím ztrácí možnost s ní něco dělat. Do stránky je
+nalinkován/vložen JS kód který může ten dokument měnit - jakýmkoli způsobem,
+od změn css tříd nebo jiných parametrů jednotlivých prvků až po jejich
+přidávání/odstraňování, může na pozadí (a)synchronně komunikovat s origin
+serverem nebo i servery jinými... Příklady z té učebnice ti mají především
+vysvětlit syntaxi, nic víc - jestli se chceš pohnout dál, začni třeba s frází
+"jquery beginner" u strýčka google, jQuery je dnes skoro standard.
+ _p_o_p_r_v_é_ _d_o_h_o_l_a [Muž] [Kategorie]
+13.02.2012 21:56:10
+Vím, že JS jede na browseru a PHP na serveru, ale stále nechápu co tam prostě
+jde udělat víc, než v PHP, popř jaká je v tom jiný rozdíl, než technický?
+Samozřejmě vím, že v tom jdou udělat hry(hrál jsem Lemmings v JS, a ještě
+nějakou rogue-like hru) a různý hračičky s Chromium třeba, ale mě jde právě o
+ty praktické věci, jak to využiju u obyčejného webu, nebo webové aplikaci,
+která nepřináší žádnou novou technologii pod sluncem, samozřejmě prosimvás
+nemusíte se urážet nebo tak já nenastoluju, že JS je blbost atd. já se právě
+ptám abych měl větší přehled, jsem v tomto ještě docela začátečník ;)
+ WebGreenWay
+13.02.2012 21:43:16
+Jak to můžeš srovnávat s php? Až na node.js a jiné odvozeniny od V8 JS engine
+běží js kód v prohlížeči, ne na serveru.
+Nedávno jsem držel nad jedním projektem malou přednášku u kulatého stolu a
+zjednodušeně řečeno, až na úplné drobnosti jsem zakázal psát v JS bez
+podpůrných knihoven/frameworků, co těm študákům lezlo z klávesnic bylo k
+posrání a jeden po druhém měl pomalu problém to číst - na malé věci holé
+jquery.com, kde je třeba kód jen o málo víc organizovat sammyjs.org (třeba s
+js-model), pěkně se pracuje s emberjs.com a na desktop-like rozhraní považuji
+za nejlepší qooxdoo.org.
+ _p_o_p_r_v_é_ _d_o_h_o_l_a [Muž] [Kategorie]
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+

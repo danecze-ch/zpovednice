@@ -1,0 +1,148 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+   Otázky - Vzkazy č.602096, vloženo _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+   11.02.2012 09:48:49               _s_t_r_á_n_k_a_]
+   Mrňavé obrázky
+   Dobrý den,
+   narazil jsem na skbělý program pracující ve strašně malém rozlišení-
+   obrázky jsou velké kolem 32x32 px-a pak se do nich prostě ponoří kamera
+   a vypadá to velké. A to je můj problém. Při zvětšení těchto obrázků v
+   normálním photo editoru se nedají číst-no je to rastrová grafika, takže
+   prostě samé čtverečky. Ale ve hře to je naprosto do detailů
+   propracované. Tak se chci zeptat, jak mám takové obrázky vytvářet? Možná
+   to má souvislost, že je to soubor Icon-mám to vytvářet v programu na
+   icony-totiž já jeden měl a nebyl to moc velký rozdíl oproti normálnímu
+   kreslení. Děkuji.
+    Samms [Muž]17  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+17.02.2012 22:19:31
+No ano-je to vyřešeno.
+ Samms
+17.02.2012 02:51:55
+Takze jestli to chapu dobre, tak ten problem uz je vyresen?
+ Starsi
+16.02.2012 05:57:32
+Prostě velikost těch obrázků se nemění-jenom se na ně kamera nedívá zvrchu,
+ale z velkého přiblížení, takže to vypadá, že ty obrázky jsou velké-jejich
+velikost je ale malá-a ano, už jsem to pochopil-tyto malé obrázky jsou pouze
+pro naprogramování-ve hře jsou nahrazeny většími - 256*256.
+ Samms
+12.02.2012 19:27:18
+Online prevadec ICO na PNG pro vsechny uvnitr ulozena rozliseni :-)
+
+_h_t_t_p_:_/_/_i_c_o_2_p_n_g_._c_o_m_/
+ Starsi
+12.02.2012 19:20:58
+Jeste muzes zkusit tenhle plug-in do Paint.NETu:
+
+_h_t_t_p_:_/_/_w_w_w_._g_e_t_p_a_i_n_t_._n_e_t_/_ 
+_h_t_t_p_:_/_/_w_w_w_._e_v_a_n_o_l_d_s_._c_o_m_/_d_l_/_I_c_o_C_u_r_._d_l_l_ 
+
+Vice info o tom plug-in-u:
+_h_t_t_p_:_/_/_w_w_w_._e_v_a_n_o_l_d_s_._c_o_m_/_p_d_n_._h_t_m_l
+ Starsi
+12.02.2012 19:09:44
+Ctu ten tvuj puvodni dotaz z titulku porad dokola a snazim se pochopit, co
+vlastne potrebujes udelat a porad na to nemuzu prijit.
+
+Jaka kamera se kam ponori? Je to plynule zvetseni nebo po najeti na ikonu se
+objevi obrazek ve velkem rozliseni?
+
+Ta hra je ten program, o kterem mluvis?
+
+Jake obrazky chces vytvaret? Ty male ikonu 32x32, obrazky s moznosti plynuleho
+zvetsovani v libovolnem rozliseni?
+
+Ten ICO muze obsahovat i dalsi rozliseni krome toho tveho zakladniho 32x32.
+Zkus timhle formatem dostat z toho ICO vsechny formaty a rozliseni, co jsou v
+nem ulozene:
+
+_h_t_t_p_:_/_/_m_i_c_r_o_a_n_g_e_l_o_._u_s_/_f_r_e_e_-_i_c_o_n_-_e_d_i_t_o_r_-_d_o_w_n_l_o_a_d_._a_s_p_ 
+nebo starsi verze na
+_h_t_t_p_:_/_/_d_o_w_n_l_o_a_d_._c_n_e_t_._c_o_m_/_M_i_c_r_o_a_n_g_e_l_o_-_T_o_o_l_s_e_t_/_3_0_0_0_-_2_1_9_5___4_-_1_0_0_0_1_6_7_3_._h_t_m_l_ 
+
+Jestli to je v nejakem tom EXE, tak na to zkus tohle:
+_h_t_t_p_:_/_/_w_w_w_._a_n_g_u_s_j_._c_o_m_/_r_e_s_o_u_r_c_e_h_a_c_k_e_r_/
+ Starsi
+12.02.2012 08:28:02
+No je to BMP. Windows bitmapa.
+ Samms
+11.02.2012 22:08:16
+Na priponu se proboha nekoukej. Soubor klidne muze mity priponu *.mdf a muze
+to byt mp3 soubor.
+
+Spise se podivej, co ti o danem souboru hlasi nejaky program, ktery umi
+rozeznavat formaty.
+
+_h_t_t_p_:_/_/_h_o_m_e_._f_n_a_l_._g_o_v_/_~_j_k_l_e_m_e_n_c_/_f_i_l_e_t_y_p_e_._h_t_m_l_ 
+_h_t_t_p_:_/_/_w_w_w_._s_o_f_t_p_e_d_i_a_._c_o_m_/_g_e_t_/_P_r_o_g_r_a_m_m_i_n_g_/_O_t_h_e_r_-_P_r_o_g_r_a_m_m_i_n_g_-_F_i_l_e_s_/_F_i_l_e_-
+_A_n_a_l_y_z_e_r_._s_h_t_m_l
+ Starsi
+11.02.2012 18:52:52
+No já v grafice dělám už pár let-tohle nemělo příponu SVG (či jinou), ale ICO-
+tedy windows icona. No podívám se ponějakém vektorovém programu, kde by to
+šlo.
+ Samms
+11.02.2012 17:29:01
+Moc presne nechapu, na co se ptas, ale asi by jsi se mel podivat na to, co
+jsou a jak se vytvareji obrazky ve vektorovem formatu.
+
+S tim souborem ikon take nechapu, na co se ptas. Obecne soubory ikon maji
+nekolik verzi te same ikony pro ruzna rozlisena (napr. 32x32px, 64x64px, ...).
+Jestli Windows maji v tom samem souburu a umi pouzit i vektorovy format SVG
+(tedy ikonu v libovolnem rozliseni), nevim.
+
+Tady jsou ty odkazy jak v cestine, tak i anglictine. Anglicke maji vice
+informaci, ale musis umety pochopitelne anglicky. Nebo si to v levem sloupci
+prepni na nejaky jiny jazyk (nemcinu, francouzstinu nebo co umis).
+
+_h_t_t_p_:_/_/_c_s_._w_i_k_i_p_e_d_i_a_._o_r_g_/_w_i_k_i_/_V_e_k_t_o_r_o_v_%_C_3_%_A_1___g_r_a_f_i_k_a_ 
+_h_t_t_p_:_/_/_e_n_._w_i_k_i_p_e_d_i_a_._o_r_g_/_w_i_k_i_/_V_e_c_t_o_r___g_r_a_p_h_i_c_s_ 
+
+_h_t_t_p_:_/_/_c_s_._w_i_k_i_p_e_d_i_a_._o_r_g_/_w_i_k_i_/_S_c_a_l_a_b_l_e___V_e_c_t_o_r___G_r_a_p_h_i_c_s_ 
+_h_t_t_p_:_/_/_e_n_._w_i_k_i_p_e_d_i_a_._o_r_g_/_w_i_k_i_/_S_c_a_l_a_b_l_e___V_e_c_t_o_r___G_r_a_p_h_i_c_s_ 
+
+_h_t_t_p_:_/_/_c_s_._w_i_k_i_p_e_d_i_a_._o_r_g_/_w_i_k_i_/_V_e_k_t_o_r_o_v_%_C_3_%_B_D___g_r_a_f_i_c_k_%_C_3_%_B_D___e_d_i_t_o_r_ 
+_h_t_t_p_:_/_/_e_n_._w_i_k_i_p_e_d_i_a_._o_r_g_/_w_i_k_i_/_V_e_c_t_o_r___g_r_a_p_h_i_c_s___e_d_i_t_o_r
+ Starsi
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+

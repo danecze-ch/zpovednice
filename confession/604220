@@ -1,0 +1,135 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+   Otázky - Vzkazy č.604220, vloženo _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+   19.02.2012 01:19:17               _s_t_r_á_n_k_a_]
+   Rychlost vzorkování - co to je?
+   Mám ještě jeden dotaz. U tý mp3 skladby se zobrazuje krom toho kb/
+   s ještě rychlost vzorkování. Je to v Hz. Konkrétně je tam 44100 Hz
+   rychlost vzorkování. Jiná písnička tam třeba ale má rychlost vzorkování
+   44000 Hz. Co to je to vzorkování a k čemu to je dobrý? A proč některá
+   mp3 tam má např. 44100 Hz ale jiná jen 44000 Hz? Díky
+    kbps [Muž]  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+04.07.2016 15:54:57
+432 Hz a úžasná hudba v audacity zpomalená má své jisté kouzlo. Nelze to
+napsat krátce. Hudba nahraná do 44100 rozlišení se často musí převzorkovat do
+vyšších rozlišení, už některé zvukové karty nepodporují 44100. Často se
+setkávám s převzorkováním do 48000, výsledkem takové změny signálu je něco
+jako "frekvenční zdvih", který mě osobně začal lézt pěkně na nervy :
+D Nepomohlo ani převzorkování na 96000 nebo 192000, vždycky tam bylo něco
+disharmonického. Někomu jinému to taky lezlo na nervy tak jako mě a přišel na
+to že když se 44100 vzorek zpomalí o 1,8181 procenta výsledek převzorkování na
+48000 zní poněkud lépe. ALE,,.,.,,.. časem to zase začne lézt na nervy,
+disharmonie přetrvávají :D Takže mé vlastní výzkumy mě dovedly až k fenoménu
+intermodulačního zkreslení (IMD) a také řešení jak se mu vyhnout. Matematicky
+vzato, nejmenším společným násobkem 44100 a 96000 je 14112000. Pomocí jediného
+nástroje který to umí (sox) musím převzorkovat nejprve do 1411200 (schválně o
+nulu méně aby to procesor stíhal) a pak do cílové frekvence 96000, výsledky
+jsou fantasticky přesné a zatím jsem asi jediný v okolí s opravdu hifi
+digitálním zvukem :) 432 je hezká berlička, ale omrzí, můj DSP zatím nemá
+obdoby a doufám, že se brzy dostane do hardwaru zvukovek, aby to nezatěžovalo
+procesor.
+ geolog23
+18.03.2014 07:27:54
+Hranice slyšitelnosti vysokých frekvencí u běžného člověka je kolem 20-22kHz.
+44100Hz je tedy dvojnásobek pro stereofonní záznam, tedy dvě stopy. Některé
+nahrávky jsou při nahrávání vzorkovány frekvencí 44000Hz i přesto, že všechny
+přehrávače používají 44100Hz. Přehrávaný zvuk je mírně zrychlen a jen lidé s
+vycvičeným sluchem si takové zvláštnosti všimnou. Experimentální věda hudební
+je znova na přelomu vzhledem k nově objevenému fenoménu 432 Hz - tzv. Verdiho
+A.
+ geolog432
+19.02.2012 18:19:45
+Sta67> Nejde o šum, ale interference vzorkovacího kmitočtu a zvuku.
+
+Jde v pvni rade o sum :-)
+
+I kdyz souhlasim s tim, ze je mnohem jednodussi navrhnout filtr s mensim
+padem, respektive mnohem lepsi fazovou charakteristikou.
+
+Uz jsem to ale par let nesledoval, takze nemuzu vyloucit, ze jestli se
+napriklad dosahlo dna u sumu, tak nezacala "interference vzorkovaciho
+kmitoctu" (ze by zrcadleni v dusledku neidealniho Diracova impulsu?) byt tou
+hlavni prekazkou.
+ Starsi
+19.02.2012 09:18:03
+Starsi: Nejde o šum, ale interference vzorkovacího kmitočtu a zvuku. Ty se
+musí potlačovat filtry. Čím dál od zvukových frekvencí, tím je filtr
+jednodušší a účinnější. V době vzniku audio CD bylo 44100 poblíž hranice
+možností, takže bylo jednodušší použít drahý filtr místo 48000. Dnes se
+filtruje digitálně řešením příslušných rovnic, a 44100 má smysl jen u
+nahrávek, které s ní byly pořízeny, nebo které mají za cíl audio CD. Mnoho
+zvukovek stejně podvádí, 44100 neumí a přepočítává si to.
+ _S_t_a_6_7 [Muž]28 [Kategorie]
+19.02.2012 01:52:47
+Novejsi systemy meri zvuk i nasobne krat za sekundu - 96000x (dvojnasobek
+48000) nebo i 192kHz (4x48000).
+
+Porad se tim ale vyjadruje ten zvuk do tech 20kHz, jen pri vzorkovani vice nez
+48000/sekundu lze u toho dosahnout lepsiho rozdeleni sumu (sum lze "vytlacit"
+nad tech 20kHz, kde uz ho ucho neslysi).
+ Starsi
+19.02.2012 01:49:20
+To je počet vzorků zvuku za sekundu, se kterými se pracuje. Pro hudbu se
+používá 44100 (nejmenší hodnota umožňující přenést celé zvukové spektrum,
+použito u CD audio), 48000 (běžná hodnota u zvukových karet, použito u DAT
+pásek), 96000 (pro vysoce kvalitní záznam, používá se ve studiích, DVD audio a
+vylepšených CD), 192000 (drahé high end systémy, může snímat i ultrazvuk a
+snese 4násobné zpomalení).
+ _S_t_a_6_7 [Muž]28 [Kategorie]
+19.02.2012 01:48:50
+Rychlost vzorkovani - zvuk se zmeri 44 000 za sekundu a pokazde se ulozi, jak
+je "hlasity". Typicke hodnoty jsou 44100, 48000, pripadne jejich zlomky
+(nejcasteji polovina - 22050 a 24000).
+
+Proc 44100? Umoznuje verne vyjadrit zvuk s maximalni frekvenci 22kHz, tedy
+maxima, ktere slysi lidske ucho.
+
+Jestli chces vedet vice, budes muset na vysokou a absolvovat alespon uvod do
+teorie signalu.
+ Starsi
+19.02.2012 01:23:42
+nějak moc ten počítač zkoumáš :D
+[Smajlík] [Muž]20 [Kategorie]
+ _a_r_t_y_n_a_k
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+

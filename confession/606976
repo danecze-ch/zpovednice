@@ -1,0 +1,135 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+   Otázky - Vzkazy č.606976, vloženo _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+   29.02.2012 18:30:57               _s_t_r_á_n_k_a_]
+   je tu nějaký IT expert? potřebuji radu.
+   Mám poslední dobou velké problémy s počítačem (notebook).
+
+   V lednu jsem ho měl v servisu, protože nebylo možné spustit obnovu
+   spouštění systému, takže systém vůbec nešel spustit tomu expertovy se to
+   podařilo opravit - takže to je vyřešený. ALE...
+
+   Ale posledních asi deset dní se mi každý den (výhradně kolem 18. hodiny)
+   zasekne obraz (,ale zvuk "jede" dál a ukazatel myši také reaguje na
+   pohyb, takže v tu chvíli jsou nefunkční "jen" interaktivní grafické
+   prvky) takže mi nezbývá nic jiného než počítač manuálně vypnout a znovu
+   zapnout. Jenže při zapnutí se spustí test konzistence svazku "Vista",
+   test hladce běží do 29-30% (to zrovna probíhá kontrola zabezpečení) a
+   potom se počítač samovolně restartuje - po jeho opětovném zapnutí se
+   opět spustí test konzistence, který zase v tom určitém bodu "spadne"
+   (29-30%). A takhle se to pořád opakuje dokud ten test nestornuji ještě
+   před jeho začátkem - potom proběhne úspěšné spuštění a přihlášení do
+   systému. A počítač jede bez problémů až do dalšího dne (než se znovu
+   sekne).
+
+   Možné řešení, které mě napadlo:
+   1) zkusit obnovení systému do nějakého bodu obnovení, ale systém mě při
+   pokusu o provedení této akce informoval o chybě svazku "vista", která
+   znemožňuje tuto operaci provést.
+   2) zakázat automatické restartování při selhání systému. To jsem
+   nezkoušel.
+   3) obnovit systém do tovární instalace (do stavu od výrobce). Také jsem
+   to nezkoušel.
+
+   Proto se vás ptám:
+   a) Co je podle vás příčinou problémů? (jestli systém nebo samotný
+   počítač)
+   b) Může zákaz aut. restartování při selhání systému ohrozit bezpečnost
+   počítače?
+   c) Může při obnově tovární instalace systému nastat nějaká nečekaná
+   chyba, která by systém zcela znehodnotila nebo znemožnila jeho návrat do
+   stavu od výrobce, nebo je to bezrizikové?
+   d) Jak by jste postupovali v mé situaci vy?
+   e) Napadá vás nějaké další možné řešení?
+   f) Je možné provést návrat na tovární instalaci, aniž bych musel cokoliv
+   stahovat nebo kupovat?
+
+   Děkuji za rady.
+    72052847 [Muž]16  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+29.02.2012 22:26:15
+hhhhh?? davas notas do servisu jen, aby ti vratili bod obnoveni ?? smazej ty
+zasrany visty a dej tam win7 ultimate x64 a je to.. vytahni si disk pretahni
+data do pc a pak preazej a nainstaluj..
+ lixi
+29.02.2012 20:53:32
+Jak uz ti tady radili:
+
+1) Stahni si nejaky slusny program na kontrolu disku (jak souboroveho systemu,
+tak pro jistotou i kontrolu povrchu). Rozhledni se na Slunecnice.cz a
+podobnych strankach, kde je volne stazitelny software pro Windows.
+
+2) jestli bod 1. nevyresi problem (nebo se neukaze, ze je to hardwarova chyba
+disku), zkus ten system preinstalovat (zazalohuj si predtim svoje data).
+Predpokladam, ze ti k tomu notebooku nedali instalacni CD (mas OEM verzi
+Vista), takze si stahni to instalacni CD z Internetu (Bittorent), vypal CD
+(nebo si ten obraz/image CD zpristupni pres sit nebo jak se ten system da
+nainstalovat jestli nemas CD mechaniku), pri instalaci pouzij registracni klic
+ze stitku na notebooku.
+ Starsi
+29.02.2012 19:12:02
+Zkus ten recovery, kupovat do toho novou licenci Windows nemá smysl (maximálně
+si koupit přenositelnou, ale je 2x dražší). Když to nedělá software, nebo si
+ti nepřehřívá, tak pak je nějaká vada na hardware nejspíš a to je na
+reklamaci, případně na servis, ale pak záleží na ceně opravy, protože je
+kolikrát lepší koupit nový než draze opravovat víc jak 2 roky starý.
+ _C_a_p_t_a_i_n_ _M_o_r_g_a_n [Muž]22 [Kategorie]
+29.02.2012 18:41:42
+Captain Morgan: Myslýš koupit nové instalační CD (nový systém), nebo ten
+stávající obnovit?
+ 72052847
+29.02.2012 18:35:33
+Zkontrolovat disk pořádným programem, možná je v háji. Dál přeinstolovat tu
+betu Win7 ala Vista, podle popisu máš ten systém slušně dojebanej.
+ asdff
+29.02.2012 18:33:49
+Svůj příspěvek jsi vložil(a) do nespravné kategorie. Bylo provedeno přesunutí.
+V případě opakování hrozí blokování vstupu na portál. Prosím zvol příště
+správnou kategorii. Děkujeme za pochopení.
+[Smajlík]      [Muž] [Kategorie]
+ _A_d_m_i_n_i_s_t_r_á_t_o_r
+29.02.2012 18:33:42
+Prostě udělej čistě novou instalaci a když nepomůže, tak servis nebo radši kup
+nový.
+ _C_a_p_t_a_i_n_ _M_o_r_g_a_n [Muž]22 [Kategorie]
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+
