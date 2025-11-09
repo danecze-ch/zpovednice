@@ -1,0 +1,189 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+   Otázky - Vzkazy č.736283, vloženo _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+   06.07.2013 17:59:18               _s_t_r_á_n_k_a_]
+   iframe tag
+   Čau,
+   1. jsem absolutní začátečník co se týče programování webových stránek,
+   tak omluvte případnou naivitu dotazu, ale chtěl bych se zeptat, jestli
+   je možné nějakým (jakýmkoli) způsobem pomocí iframe tagu (nebo něčeho
+   jiného) jehož okno by mělo cca 400x400 pixelů prohlížet obrázek
+   (stránku) o velikosti 4000x4000 tak aby se v tom iframe okně které má
+   těch 400x400 zobrazovalo jen 40x40 z toho 4000x4000 pixelového (tzn
+   nějaký stálý zoom) (nejlépe jiný než je lupa v google chrome, která u
+   takto ostrých hran rozplyzává okraje do šmouhové břečky? Je nějaký
+   způsob jak toho docílit ? pokud možno jednoduchým kódem a bez
+   astronomických hw nároků?
+
+   2. lze u okna iframe tagu odstranit scroolovací posuvníky a pohybovat se
+   jen pomocí kláves? (To není tak podstatné, ale bylo by to hezké)
+
+   Za případné odpovědi děkuji
+    spanelská vesnice [Muž]23  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+06.07.2013 21:51:06
+naopak, poradila jsi mi docela dobře.... zkusím ještě trochu poškádlit ty lupy
+a pak vymyslím asi něco jiného, něco by nevyžadovalo naučit se nějaký extra
+programovací kouzla, předpokládám něco s papírem, ten nezklame nikdy :-)
+ spanelska vesnice
+06.07.2013 21:39:41
+spanelska vesnice:
+Obecně je nejspíš přijatelnější, když je fotka trochu rozjetá, než když jsou
+vidět pixely. Myslím, že právě proto většina "zvětšovadel" obrázek vyhlazuje
+tak, aby nebyly vidět čtverečky. No, a výsledem toho vyhlazení je právě to, co
+nechceš - rozmazaný výsledek. Prohlížeč obrázků tohle nedělá, ten natvrdo
+přibližuje skutečný stav fotky.
+
+Hádám, že za každou kvalitní lupou leží hodně velký obrázek jako zdroj toho
+zvětšení.
+Mrzí mě, že jsem neporadila, a přeji, abys našel alespoň nějaký kompromis.
+ potěmkinova vesnice
+06.07.2013 21:15:39
+potemkinova vesnice: jo, asi jo, já jsem si naivně myslel (zpětně mám pocit,
+že dokonce už jsem z toho omylu byl jednou vyveden), že když budu digitální
+obrázek přibližovat budu vidět čím dál jasnější čtverečky (tak jako když
+přibližuju fotku v prohlížeči obrázků, což mě fakt velmi navnaďuje) ale tak
+realita je asi opravdu drobet jiná :-) ale ty lupy jsou hezký, možná by
+stačila jenom lupa a ten rozmazanej pikč (jeden z příkladů) popřemýšlím jestli
+by nešlo upravit koncept lépe k technickým možnostem a schopnostem, než
+naopak....
+ spanelska vesnice
+06.07.2013 20:59:15
+spanelska vesnice:
+Mně se zdá logické, že se při zoomu obrázky rozmazávají. Chybějí ty pixely, a
+kde nic není, ani smrt nebere. Zkrátka základem by měla být fotka ve vysokém
+rozlišení.
+
+Ale vypadá to, že jsi hravý, tak se podívej, jak může vypadat moc hezká lupa.
+Jen tak, pro zajímavost. :-)
+
+_h_t_t_p_:_/_/_c_o_d_e_c_a_n_y_o_n_._n_e_t_/_i_t_e_m_/_m_a_g_n_i_f_y_i_n_g_-_g_l_a_s_s_-_e_f_f_e_c_t_/_f_u_l_l___s_c_r_e_e_n___p_r_e_v_i_e_w_/_1_4_1_5_8_9
+ potěmkinova vesnice
+06.07.2013 20:47:13
+ono pokud to ještě někdo čte, já bych s tím neměl defacto žádnej problém, mně
+to tady i experimentálně funguje. Já bych se totiž klidně smířil s výřezem
+40x40 nebo 50x50 což jsem měl i v plánu, pod čímž bych si pustil ten 4000x4000
+a celý bych to přizoomoval lupou v google chrome, jenže ono ouha, když
+přizoomuju obrázek 50x50 tak se z krásně ostrých hran pixelů stanou rozplizlý
+šmouhy, ale když přizoomuju ten samej obrázek v prohlížeči obrázků ve win tak
+vypadá super... ale tak to asi bude mít nějaký logický odůvodnění.. .. :-/
+ spanelska vesnice
+06.07.2013 20:27:35
+potěmkinova vesnice: díky, chápu to by v podstatě teoreticky šlo, ale bohužel
+bych to opravdu potřeboval přizoomovat, už i ten obrázek 4000x4000, ono bez
+toho zoomu by to vycházelo na 40000x40000 a tím jsem právě myslel obrázek,
+který není v silách ničeho zvládnout..... ale jak říkám koumám možnosti, jde
+mi hlavně o grafickou práci, a chtěl jsem zabrousit kapku do interaktivna, ale
+pomalu se z toho léčím... :-)
+ spanelska vesnice
+06.07.2013 20:07:27
+Jestli to dobře chápu, chceš pohybovat obrázkem 4000 x 4000 px pod oknem 400 x
+400 px, přičemž ikona toho obrázku (před rozkliknutím) má být velká 40 x 40
+px. Z obrázku je viditelná část 400 x 400, zbytek se jakoby zasouvá pod okraje
+okna.
+
+Pokud je to tak, tohle by šlo udělat, když použiješ tenhle javascript:
+_h_t_t_p_:_/_/_h_i_g_h_s_l_i_d_e_._c_o_m_/_ 
+Mám na mysli hned první příklad otevírání obrázku, tedy fotku s těma pakama na
+raftu. Rozklikni ji a zkus ji posunout.
+
+Script použiješ na vnořené stránce. Na té hlavní můžeš dát u iframe
+scrolling=no, abys neměl posouvací lišty, které v tomto případě nejsou třeba,
+protože obrázkem se šmrdlá sem a tam pomocí myši.
+
+Zoom tu ale nefunguje, takže musíš vyrobit obrázek 4000 x 4000. Netuším, proč
+"vytvořit a prohlížet dostatečně velký obrázek není v silách žádného
+počítače". Je tedy pravda, že takhle velký obrázek jsem tímto scriptem ještě
+neotevírala, takže vlastně nevím, ale nevidím důvod, proč by to nemělo jít.
+
+Jo, pokud jsem špatně pochopila zadání, omlouvám se, zapomeň na to.
+ potěmkinova vesnice
+06.07.2013 19:59:45
+zarcon: dík o to přesně mi jde, zkusím prokoumat ten flash....
+ spanelska vesnice
+06.07.2013 19:44:11
+no ve flashi je to poměrně triviální
+
+jeden obrázek jak background, pak máš udělanou masku (=lupu) která uvnitř
+zobrazuje to samé např. 2x zvětšené pak to vypadá jako když přejíždíš lupou...
+
+
+_h_t_t_p_:_/_/_w_w_w_._e_n_t_h_e_o_s_w_e_b_._c_o_m_/_F_l_a_s_h_/_m_a_s_k_i_n_g_._a_s_p
+ _Z_a_r_c_o_n [Muž]41 [Kategorie]
+06.07.2013 19:34:33
+Zarcon: no já právě zjišťuji jak moc složité by to bylo, ono laicky to tak
+složitě nevypadá....
+ spanelska vesnice
+06.07.2013 19:28:55
+jasný, chápu, že to může vypadat zmateně, v podstatě se jedná o takovou
+frustrující hříčku, idea je, že by byla stránka v jejímž středu by byl čtverec
+(právě těch 400 nebo 500 pixelů) a v tom čtverci by se zobrazoval výřez velké
+stránky, v podstatě mapa která by se dala scroolovat prostě projíždět, ale
+tím, že by se z ní zobrazoval jen ten malý výřez by se nedala nikdy zobrazit
+celá, ale problém je, že vytvořit a prohlížet dostatečně velký obrázek není v
+silách žádného počítače, tak bych ho potřeboval ještě přizoomovat, jestli to
+vůbec jde?... něco jako když si otevřeš v prohlížeči obrázků fotku a dáš lupu
+na maximum a pak v tom brousíš, je to taková pseudokrajina složená ze
+čtverečků, v podstatě mi nejde o nic jiného než o obrázek který nepůjde
+shlédnout celý....
+ spanelska vesnice
+06.07.2013 19:21:19
+hmm obávám se že na toto budeš potřeboval nějakou funkci z ActionScriptu,
+jednou jsem to viděl v nějaké příručce. Tag iframe tohle asi nebude umět. A
+nechápu proč řešíš takové složité věci, když o tom vlastně nic nevíš.
+ _Z_a_r_c_o_n [Muž]41 [Kategorie]
+06.07.2013 19:12:01
+jako když mi přesně napíšeš co potřebuješ, tak ti poradím, ale takhle nevím o
+co přesně ti jde.
+ asfasgasg
+06.07.2013 19:04:13
+sdsdgsg: dík, nicméně to scroolování je poměrně zásadní, jde mi v podstatě o
+to vytvořit rámeček pod kterým budu jezdit s větším obrázkem, ideálně ještě
+přiblíženým...ale jsem za každý trknutí rád...
+ spanelska vesnice
+06.07.2013 18:56:28
+no tak můžeš vytvořit div a šířce a výšce 40 pixelů a do něho dát ten iframe,
+nastavit tomu divu overflow hidden a bude tam vidět jen 40px a nepůjde
+scrollovat
+ sdsdgsg
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+

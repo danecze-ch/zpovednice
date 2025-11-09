@@ -1,0 +1,177 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+   Otázky - Vzkazy č.733221, vloženo _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+   23.06.2013 22:55:06               _s_t_r_á_n_k_a_]
+   IP adresa
+   Ako sa dá zistit IPcka nejakého cloveka? Potreboval by som zistit IPcku
+   jedného cloveka, nejde o ziadne hackovanie ani nic podobné len by som
+   chcel vediet ci sa to dá nejako zistit, prípadne aj nejaký jednoduchý
+   sposob.
+   A neskúsajte na mna blbosti typu: Opýtaj sa toho cloveka :D
+   Dakujem za odpovede.
+    IPadr [Muž]25  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+25.06.2013 12:16:09
+Tak ja nie som zaciatocník ale asi úplná lama :D
+Jakoze PC sa ako tak rozumiem ale týmto veciam co ste popísali nie.
+Ale to je jedno, dakujem aspom za odpovede. Svet sa nezrúti :)
+ IPadr
+24.06.2013 21:35:08
+najjednoduchsie mu dat stahovat nejaky mali torent, na trackery uvidis jeho IP
+- to zvladne aj uplny zaciatocnik
+[Smajlík] [Muž]32 [Kategorie]
+ _U_F_O_P_o_r_n
+24.06.2013 20:48:09
+Jo, je to "Ukázať pôvodné".
+Ale v rámci mailu môže byť viac reťazených "received from". Ak má dotyčný
+statickú IP adresu a nesedí, potom platí, čo som napísal hneď na začiatku, že
+posielal mail z webového rozhrania a vtedy jednoducho jeho pravú IP adresu
+neuvidíš. :-S
+[Smajlík] [Muž]96 [Kategorie]
+ _r_a_m_e_n
+24.06.2013 19:46:28
+myslím ze nemá
+ IPadr
+24.06.2013 16:30:24
+ak ma ten clovek dynamicku IP tj. ze sa mu meni, tak sa na to mozes vykaslat
+ anonym
+24.06.2013 16:05:45
+Tam bolo ,,ukázat ako povodné,,
+ale IP nesedí :/
+ IPadr
+24.06.2013 15:51:28
+Mam gmail, som písal :)
+Ale sipecka tam nie je. Nemás nejaký screen k dispozícii?
+ IPadr
+24.06.2013 15:33:12
+Aj gmail má v sebe zobrazenie zdroja správy, v rámci otvoreného mailu je
+napravo submenu šípka dole a v rámci nej "Show original", alebo teda nejaký
+slovenský ekvivalent, až to máš v slovenčine.
+Až teda vôbec máš gmail..... :D:D
+ _r_a_m_e_n [Muž]96 [Kategorie]
+24.06.2013 15:23:08
+Podľa toho, akého mail klienta používaš. Ja Thunderbirda a tam je v menu View,
+že Message source a ukáže to mail v textovom zápise. Potom treba hľadať niečo
+takéto:
+
+Received: from mail.maillist.codeproject.com (mail.maillist.codeproject.com
+[65.39.148.44])
+by ns.hocico.sk (Postfix) with ESMTP id 11B361614EF
+
+Poprípade si mail ulož ako súbor a otvor ho v notepade.
+
+Avšak s Googlom je ten problém, že ak bol mail posielaný priamo z web
+rozhrania, potom IP adresa bude googlovská, teda nezistíš absolútne nič. Mail
+by musel byť poslaný tiež z nejakého mail klienta cez smtp protokol.... A UFO
+čo písal by sa dalo, ale vyžaduje aspoň elementárnu spoluprácu protistrany a
+hlavne musíš vedieť čo robíš a ako to urobíš. :P
+Alebo, že ako sa narába s programom netstat. A UFO myslel posielanie súborov
+ICQ, lebo cez ičo sa nič nedá zistiť... :D :P
+[Smajlík] [Muž]96 [Kategorie]
+ _r_a_m_e_n
+24.06.2013 14:24:37
+okej, povedzme ze som dostal email od toho cloveka. (gmail)
+ako zistím IPcku? Dal som tam nejaké podrobnosti ale ukázalo len moju...
+Neviem ci to treba niekde inde hladat
+ IPadr
+24.06.2013 13:05:10
+Isar to asi nemusi znamenat že sa ti niekto nabural do schranky, napriklad mne
+ked si dam vyhladat IP adresu napise ze moj ISP teda provider je v Bratislave,
+inokedy mi zase napise moja ip je umiestnena v nejakom inom meste, ale ja
+byvam uplne inde, zalezi zrejme cez ktoru pobocku tvojho providera ta to
+pripaja alebo take nieco, nerozumiem tomu moc, to by mozno ramen vedel
+vysvetlit hm?
+ anonym
+24.06.2013 12:33:00
+IPcku zistis mnohimi sposobny
+- dakedy pomoze hlavicke emailu
+- alebo najjednoduchsie cez p2P siete, sledujes logy....
+- popripade cez skript na stranke na ktoru posles odkaz....
+- alebo cez ico - das poslat subor (ide ties p2p), a sledujes kam tecie po
+sieti ...
+[Smajlík] [Muž]32 [Kategorie]
+ _U_F_O_P_o_r_n
+24.06.2013 11:46:48
+fujara, rozumies sa takým veciam trochu? Mohol by si dat nejaký kontakt? Mal
+by som trosku inú otázku. Ono ja mám len druhú polovicu IPcky :D Takze... asi
+sa v mojom prípade nedá moc robit.
+ IPadr
+24.06.2013 10:57:32
+Veru, ako ppaaggaa?šttaann napísal, ľudia zatiaľ IP adresy nemajú. ZATIAĽ. :D Veď
+počkajte len, keď sa začnú implantovať wifi čipy.... :-S
+[Smajlík] [Muž]96 [Kategorie]
+ _r_a_m_e_n
+24.06.2013 09:39:23
+_h_t_t_p_:_/_/_w_h_a_t_i_s_m_y_i_p_a_d_d_r_e_s_s_._c_o_m_/_i_p_-_l_o_o_k_u_p_ 
+
+ale na adresu konkretnej osoby / meno sa nedostanes, lebo vzdy to ide cez
+nejakeho providera, ktory ti asi len tak lahko neposkytne zoznam zakaznikov s
+pridelenymi IP adresami. Netreba verit americkym super spionaznym filmom :).
+
+Ak by si ale bol policajt, tak provider by mal povinnost ti tieto udaje
+spristupnit, ak by si riesil nejaky trestny cin.
+ fujara
+24.06.2013 09:31:13
+internet ma naucil jedno, vsetko co si myslis ze sa neda, tak sa to da urcite
+O:
+ banana
+24.06.2013 07:06:35
+Hm, ak ti túto info neposkytne dotyčný, tak potom to asi nepotrebuješ len tak
+:)
+ _B_l_o_o_d_y_ _f_l_o_w_e_r [Žena]31 [Kategorie]
+24.06.2013 01:55:01
+Mňa by podobné niečo tiež zaujímalo. Kto sa ukrýva pod konkrétnou IP adresou.
+Minulý týždeň mi Google poslal 2 maily, že sa na moju adresu v gmail-i, dva
+razy niekto prihlásil z Prešova a z Michaloviec, uvedené boli aj IP. Pritom
+heslo mailovej schránky mám celkom spoľahlivé.
+Tebe by vedel pomôcť poskytovateľ internetu toho človeka, ak vieš, kto to je.
+Na Spovednici ti poradí napríklad Ramen.
+Rada, že ľudia nemajú IP adrey je síce sémanticky správna, ale fakticky,
+pripojenie človeka na internete je cez IP adresu, tak sa to hovorovo berie ako
+Jeho adresa i keˇje to adresa miesta, odkiaľ sa človek pripojil na Net.
+ _I_s_a_r [Žena]75 [Kategorie]
+24.06.2013 00:16:17
+ludia zatial nastastie IP adresy nemaju
+[Smajlík]
+ natsagap
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+

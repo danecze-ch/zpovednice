@@ -1,0 +1,144 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+   Otázky - Vzkazy č.736463, vloženo _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+   07.07.2013 13:24:40               _s_t_r_á_n_k_a_]
+   Jak upravit fotku aby se nedala
+   Ahoj! Jak prosím upravím fotku tak, aby se nedala vložením do google-
+   vyhledávání dohledat?
+    Marthy8 [Muž]20  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+07.07.2013 16:25:21
+A jak to zmenit na 1x1 v Ps/Il ? takze aby to google nenasel tak se musi
+zmenit jedine ty pixely 1x1? nebo staci neco zmenit na obrazku?
+
+fotobanky jsou pro profiky, ja si vystacim s Pinterest.jenze pokud pouzijes
+cizi vytvor a zpenezis, muzou te zazalovat kdokoli ,zda je to fotobanka ci
+pinterest nehraje roli, chranen je vlastnik originalniho dila automaticky.
+ Gazzapo.
+07.07.2013 16:05:51
+libik: Ono možná v základu bude mít nulový margin i padding, jenže tam nemáš
+jen tohle a když máš rozsáhlejší CSS soubor, tak to někdy musíš zresetovat
+nebo přidat ID či class a ten float:left tam musí být určitě. Je potřeba si s
+tím pohrát, ale tak to už jsou snad technické detaily, které nejsou důležité a
+kdo to dělá, tak by to byla rutina.
+ _A_m_r_a_s_ _T_a_s_a_r_t_i_r [Muž]35 [Kategorie]
+07.07.2013 16:01:42
+V HTML to snad jen vložíš do stránky, ne? Pomocí CSS nastavíš nulový padding a
+margin.
+Amras Tasartir
+------------
+Já myslel že "img" má nulový padding a margin, ale už jsem dlouho nic nedělal.
+I když je fakt, že asi bude potřeba "float : left"
+ _l_i_b_i_k [Muž]34 [Kategorie]
+07.07.2013 15:58:06
+libik: V HTML to snad jen vložíš do stránky, ne? Pomocí CSS nastavíš nulový
+padding a margin.
+ _A_m_r_a_s_ _T_a_s_a_r_t_i_r [Muž]35 [Kategorie]
+07.07.2013 15:55:12
+Rozdělíš to na obrázky 1x1 pixelů, pak to vložíš do stránky a pomocí CSS
+spojíš dohromady a garantuji Ti, že to žádný vyhledávač nenajde.
+Amras Tasartir
+--------------
+Dobrej nápad :), ale spíš pomocí HTML, ne? Nebo umí CSS něco, co mi uniká?
+ _l_i_b_i_k [Muž]34 [Kategorie]
+07.07.2013 15:01:28
+Rozdělíš to na obrázky 1x1 pixelů, pak to vložíš do stránky a pomocí CSS
+spojíš dohromady a garantuji Ti, že to žádný vyhledávač nenajde.
+[Smajlík]       [Muž]35 [Kategorie]
+ _A_m_r_a_s_ _T_a_s_a_r_t_i_r
+07.07.2013 14:28:53
+Saboteur
+Aha :)
+ _L_U_F [Muž]99 [Kategorie]
+07.07.2013 14:23:26
+LUF
+Tak to pak mluvíme každý o něčem jiným.
+Autor se ptal na vyhledávání pomocí uploadu obrázku, jestli jsem to dobře
+pochopil. Prostě místo psaní textu do toho políčka, tam uploadneš obrázek a
+podle něj to bude vyhledávat.
+ _S_a_b_o_t_e_u_r [Muž]27 [Kategorie]
+07.07.2013 14:20:39
+Saboteur
+Podle vizuální podobnosti s čím? Mluvím o případu vyhledávání podle textu -
+např. zadám "jelen". Najde jelena když se na stránce píše o jelenovi ale najde
+ho na stránce kde jsou fotky z lesa a o jelenovi se přímo nepíše.
+ _L_U_F [Muž]99 [Kategorie]
+07.07.2013 14:09:30
+LUF
+Však podle njaký vizuální podobnosti to asi i hledá... zkus si to.
+ _S_a_b_o_t_e_u_r [Muž]27 [Kategorie]
+07.07.2013 14:07:29
+ulož to jako ZIP, nebo to nedávej na net, když máš takovej strach...
+ _Z_a_r_c_o_n [Muž]41 [Kategorie]
+07.07.2013 14:07:00
+Saboteur
+Je možné na webu najít k danému obrázku podobný. Ale pokud hledám podle názvu,
+jak ten google pozná co je na obrázku (třeba jelen)? Když je na fotce text tak
+ten text je možné dekódovat ale aby poznal co je na obrázku za zvíře, nebo
+jaký člověk, tak daleko ještě nejsme
+ _L_U_F [Muž]99 [Kategorie]
+07.07.2013 13:51:47
+Na co to potřebuješ? Já kdysi potřeboval hodit na web pár malinkatých obrázku
+na zpestření textu a nechtělo se mi kvůli takové prkotině něco řešit s
+fotobankou, tak jsem na zahraničních webech z velkých obrázků udělal jen
+malinké výřezy toho, co jsem zrovna potřeboval, osově to pootáčel, rozumně
+změnil barvy a google to časem zaindexoval a našel i originály. Musel jsem to
+vyhodit, protože to byl těžce rizikový sport, že mě nějaká fotobanka zažaluje
+o tučné odškodné.
+
+Mají na to roboty, kteří nedělají nic jiného, než takhle něco zkouší a když
+najdou, tak téměř automaticky rozjíždějí mašinerii s vymáháním nemalého
+odškodného.
+ amzgo
+07.07.2013 13:50:43
+LUF
+Google umí vyhledávat i podle samotných obrázků, který mu tam uploadneš.
+Nemusí to být přes název.
+ _S_a_b_o_t_e_u_r [Muž]27 [Kategorie]
+07.07.2013 13:41:48
+Pokud vím, tak google najde fotky jen podle názvu, nebo komentářů na stránce
+(možná mne někdo opraví). Takže jestliže ne fotce je jelen, tak ten jpg soubor
+se nesmí jmenovat jelen ani na stránce by o jelenovi nemělo být nic napsáno v
+žádném jazyku
+ _L_U_F [Muž]99 [Kategorie]
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+
