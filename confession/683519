@@ -1,0 +1,176 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+   Otázky - Vzkazy č.683519, vloženo _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+   13.12.2012 22:21:34               _s_t_r_á_n_k_a_]
+   Špatný projekt ve škole
+   xrybicka
+   connect:6 - chybi escapovani $id
+   index.php:10,22 - pouzivejte bud <?= nebo <?php, ty jsou podporovane
+   vsude
+   no vzhledem k tomu, ze v tabulce uzivatele neni unikatni klic na login a
+   v aplikaci se to taky nekontroluje, tak je mozne vytvorit si dva
+   uzivatele se stejnym loginem (i heslem), coz neni dobre,
+   krome toho se v reg.php:2-4 sice kontroluje ledacos, ale bohuzel ne to,
+   ze byl zadany nejaky login a heslo, vlastne jde vytvorit uzivatele,
+   ktery nema zadane vubec nic, proste tak, ze ten registracni formular
+   nevyplnite a odeslete
+   kdyz jednou takoveho uzivatele jednou vytvorite, tak uz pak nemusite
+   vyplnovat ani ten prihlasovaci formular, staci proste zmacknout na tl.
+   prihlasit (protoze tam se taky nekontroluje jestli je tam neco zadane)
+   reg.php:5 - chtelo by to u INSERTu uvadet seznam sloupcu, jakmile nejake
+   sloupce pridate nebo odstranite, tak se vam to bude velmi tezko
+   upravovat, v kazdem pripade pokud trvate na tomhle zapisu, tak do
+   id_uzivatele nevkladejte 0 ale DEFAULT (chcete tam vlozit vyhchozi
+   hodnotu sloupce, nikoliv 0)
+   reg.php:5 - ta funkce se jmenuje mysql_query(), zrovna u tehle funkce (a
+   par dalsich) na velikosti pismen nezalezi, ale u vetsiny veci v PHP na
+   velikosti zalezi, tak je dobre to dodrzovat
+   reg.php:13 - a co kdyz to nastavne nebude? tak se to nikdo nedozvi - nic
+   to nevypise
+   Deprecated: mysql_escape_string(): This function is deprecated; use
+   mysql_real_escape_string() instead. in D:wwwrootapv_projektyxrybickareg
+   .php on line 6
+   Deprecated: mysql_escape_string(): This function is deprecated; use
+   mysql_real_escape_string() instead. in D:wwwrootapv_projektyxrybickamai
+   n.php on line 3
+   atd..., byt vami, tak bych ty mysql_XXX funkce uplne zahodil, je s tim
+   hrozna otrava a jsou lepsi rozhrani, treba PDO nebo Dibi nebo aspon
+   mysqli_XXX funkce, myslim, ze je zbytecne se ucit veci, ktere jsou jiz
+   ted zastarale, v kazdem pripade pokud budte pouzivat funkce mysql_XXX,
+   tak musite kontrolovat navratove hodnoty
+   kdyz se prihlasim a vlezu na 'index.php', tak se zobrazi prihlasovaci
+   formular
+   heslo by se melo do DB ukladat alespon hashovane
+   main.php:6 - tak snad radsi session_start() a ID uzivatele ukladat do
+   $_SESSION, takhle si muze uzivatel zmenit v prohlizeci v cookie souboru
+   ID uzivatele a prihlasi se automaticky jako nekdo jiny
+   Warning: mysql_fetch_assoc() expects parameter 1 to be resource, boolean
+   given in D:wwwrootapv_projektyxrybickaind ex.php on line 16
+   -> je potreba kontrolovat i vysledek mysql_query()
+   v databazi nejsou vubec nikde unikatni klice, login uzivatele by urcite
+   mel byt, pak zrejme nazev ankety + id_uzivatele (nebo otazka +
+   id_uzivatele) a dalsi
+   ankedit:77 absolutni odkaz na http://localhost/apv, je to tam vickrat
+   ankedit:15,17 - chybi escapovani
+   ankedit:9-11 - nekontrolujete jestli je to zadane, tj. opet lze odeslat
+   uplne prazdny formular, takze lze vytvorit anketu s prazdnym jmenem a
+   zajimave je to, ze ta anket se ve vypisu nezobrazi, protoze je to odkaz,
+   ktery nema zadny obsah a timpadem neni videt
+   ankedit:2-19 - postupujete uplne presne opacnym zpusobem nez byste mel -
+   co kdyz se nepodari tu anketu nebo sablonu vlozit? (protoze treba neni
+   neco zadane, anebo proste proto, ze si to uzivatel rozmysli)?, zustanou
+   tam v te databazi jakesi vychozi zaznamy, takze (v tomhle pripade) asi
+   jediny spravny postup je:
+   vlozit sablonu, pokud se to povede, tak vlozit anketu -> nejenom, ze to
+   nebude v DB vytvaret divne zaznamy, ale spotrebujete na to 2 dotazy
+   misto 7, pritom to cele presmerovani a ukladani nedava moc smysl
+   (predpokladam, ze jeho jedinym cilem je usetrit uzivateli jedno
+   kliknuti, coz je sice umysl dobry, ale bohuzel sebou nese kupu neduhu),
+   problem je v tom, ze navstivenim odakzu vytvarite nejake zaznamy a
+   problem je, ze kdyz uzivatel zmackne na 'vytvorit novou anketu', tak
+   neceka, ze se ta anketa rovnou vytvori - stejne jako kdyz kliknete na
+   'vytvorit novy email' tak taky necekate, ze se ten email rovnou odesle.
+   Krome toho, zjistovani nejvetsiho ID v tabulce pomoci SELECT id ORDER BY
+   ... je na nic, protoze nutite ten server uplne zbytecne, aby prochazel
+   celou tabulku, takze SELECT MAX(id) FROM... je lepsi, nicmene i SELECT
+   MAX(id) je spatne, protoze to funguje pouze pokud tu aplikaci pouziva
+   jeden uzivatel, viz prednasky https://akela.mendelu.cz/~xpopelka/cs/ap
+   v/pred/06-sql-speciality.pptx, takze musite pouzit SELECT LAST_INSERT_ID
+   () anebo PHP funkci mysql_insert_id(), ktera udela totez
+   krome toho zase nikde nekontrolujete, jestli se to mysql_query povedlo
+   provest, ani v saveSabona ne
+   ankedit hlaska na r.18 je nepravdiva, to proste nevite, jestli byla
+   sablona ulozena nebo ne
+   ankedit:23 - je sice fajn, ze tady vypisete error, ale stejne
+   pokracujete dal, takze to opet hodi
+   Warning: mysql_fetch_assoc() expects parameter 1 to be resource, boolean
+   given in D:wwwrootapv_projektyxrybickaank edit.php on line 24
+   a muze se to stat velice snadno, protoze to neni escapovane
+   no a uplne stejne veci jsou ve zbytku toho kodu
+   urcite by bylo fajn ten kod trosku formatovat, mate tam radky, ktere
+   jsou pred 200 znaku dlouhe a v tom se proste nemuzete efektivne vyznat -
+   ano, da se s tim pracovat, ale bude vam to trvat podstatne dele, nez
+   kdybyste ten kod rozumne formatoval
+   ankedit:63-68 - to sice v neni spatne s temi cislovanymi inputy, ale je
+   to zbytecne komplikovane, podstatne jednodussi je delat inputy jako
+   pole:
+   echo "<input type='text' name='barva[$odpoved[id_odpovedi]]'
+   value='$odpoved[barva]' />";
+   <input type='text' name='jmeno[$odpoved[id_odpovedi]]' value='$odpoved
+   [jmeno]' />";
+   potom to muzete zpracovat jako
+   foreach ($_POST['barva'] as $id_odpovedi => $barva) {
+   $jmeno = $_POST['jmeno'][$id_odpovedi] ...
+   }
+   moc nerozumim tomu proc se pro kazdou anketu dela nova sablona? to potom
+   neni sablona, ne?
+   ankety:3 - delate v tom chaos, protoze includujete nejaky soubor nekde a
+   pak v nem nekdy includujete dalsi. Includujte vse na jednom miste v
+   index.php? seznam anket a editace anket je
+   stejne jina stranka.
+   komedit.php - no to je to same jak ankety
+   komentator:40 - podbarveni lichchych a sudych radku muzete udelat pomoci
+   :nth-child(odd) selectoru
+   komentator - ty stejne veci, INSERTujete 0, kdyz tam chcete mit posledni
+   hodnotu, nekontrolujete jestli neco vyplneno a neresite co se stane kdyz
+   to vyplneno neni, nebo se to nepovede vlozit
+   pocitadlo:12 - za to document.write vas uzivatele nebudou mit radi,
+   pokazi to totiz DOM, takze pak nefunguji JS, ktere hodne pracuji s DOM,
+   chtelo by to spis neco jako document.getElementsByTagName('body').
+   lastChild.insertAfter(...)
+   volani mysql_close na poslednim radku skriptu je celkem zbytecne, to
+   spojeni se uzavre pri ukonceni skriptu
+   => ma to sice spoustu funkci, ale po technicke strance to je dost
+   nekvalitni, vubec vam nezavidim, az to budete upravovat a osetrovat
+   chyby tak, aby to fungovalo spolehlive - v tom kodu se totiz velmi
+   spatne neco upravuje
+   => C
+    _f_e_r_d_a_m_r_a_v_e_n_e_c [Žena]20 [Kategorie]  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+13.12.2012 22:27:03
+Svůj příspěvek jsi vložil(a) do nespravné kategorie. Bylo provedeno přesunutí.
+V případě opakování hrozí blokování vstupu na portál. Prosím zvol příště
+správnou kategorii. Děkujeme za pochopení.
+[Smajlík]      [Muž] [Kategorie]
+ _A_d_m_i_n_i_s_t_r_á_t_o_r
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+

@@ -1,0 +1,139 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+Diskuze č.686050, vloženo 23.12.2012 00: _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+38:39                                    _s_t_r_á_n_k_a_]
+Pro matikáře-pravděpodobnost
+Mohli byste mi někdo zkusit úplně jednoduše vysvětlit princip pravděpodobnosti?
+Údajně totiž například při hodu mincí je vždy pravděpodobnost 50:50 procent, že
+padne panna, nebo orel bez ohledu nato, co padlo před tím. To mi ale nejde na
+rozum, když přece padne 20 x panna, nemůže bejt po 21. stejná pravděpodobnost
+pro obě strany mince.
+ Zbyněk Pumpr [Muž]16  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+23.12.2012 19:59:22
+čas, ať už spojitý nebo diskrétní, to je tvůj nepřítel
+[Smajlík] [Muž] [Kategorie]
+ _p_i_z_z_a_b_o_y
+23.12.2012 17:28:58
+Jo, tohle si myslela už spousta lidí než prohráli všechny prachy na ruletě. :)
+ pex
+23.12.2012 12:51:11
+Na téhle chybné úvaze (tzn. x-krát padlo to a to, tedy při pokusu x+1 už MUSÍ
+padnout opak) už prohrála kalhoty spousta sázkařů..
+[Smajlík]      [Muž]34 [Kategorie]
+ _k_u_l_a_t_a_k_r_y_c_h_l_e
+23.12.2012 10:05:53
+Když se na to díváš z hlediska možných výsledků, tak pravděpodobnost, že při
+21 hodech nehodíš ani jednou pannu je menší (4,8*10^-7) než pravděpodobnost,
+že ve výsledku budeš mít jednoho orla (100*10^-7).
+ _x_f_c_r_e_j [Muž]25 [Kategorie]
+23.12.2012 09:43:50
+Zaprvé jde o zjednodušující model reálného světa. Když si budeš googlit
+pravděpodobnosti reálné mince, tak je tam ještě možnost spadnutí na hranu.
+
+Jinak pro tebe.
+Musíš rozlišovat otázku :
+Hodil jsem dvacekrát pannu, jaká je pravděpodobnost, že při dalším hodu padne
+panna? (50%)
+A otázku:
+Jaká je pravděpodobnost, že z 21 hodů nepadne ani jeden orel? 0,5^21, což je
+mnohem menší než 50%
+ _H_o_u_p_1_8 [Muž]99 [Kategorie]
+23.12.2012 09:01:06
+Zbyněk Pumpr: prakticky to není 50 na 50, teoreticky ano
+ vedator
+23.12.2012 05:24:17
+0337 bolo fajn, ale 1337 vysvetlenie je také asi že pri každom pokuse je
+pravdepodobnosť 1/2 a je jedno že ti padl 4x za sebou pred tým, na druhú
+stranu pravdepodobnosť že ti padne 5x za sebou tak tá už je nižšia lebo sa
+každým pokusom znižuje o polovicu a to je už 1/32.
+takže takto, ideš hádzať 5x na začiatku máš pravdepodobnosť že všetky pokus
+budu orel 1/32
+hodíš prvý krát a padne orel, zostávajú 4 pokusi, a pravdepodobnosť že všetky
+budú orel je uź 1/16
+hodíš druhý krát padne orel, a pravdepodobnosť že všetky zostávajúce budú orel
+je 1/8
+hodíš tretí krát, padne orel, a už máš pravdepodnnosť že zvyšné dva budú orel
+1/4
+hodíš štvrtý krát, padne orel a hádaj aká je pravdepodobnosť źe padne orel? 1/
+2
+
+A teraz si v tých pokusoch vymeň to že ti padol orel za to že ti padla panna
+alebo ako sa volá tá druhá strana mince, a zvyšok experimentu stále zostane
+konzistentný.
+
+Dúfam že ti to teraz dáva zmysel.
+31337
+ _a_t_m_e_l_5_1 [Muž]33 [Kategorie]
+23.12.2012 01:40:09
+Ty ale v tomhle konkrétním případě nepočítáš pravděpodobnost, že ti padne
+stokrát panna. Ty počítáš pravděpodobnost pokaždé pro ten jeden jediný hod (v
+tomhle případě pro 21. hod) - a je úplně šumafuk, co ti padlo předtím.
+Jak psala slečna na začátku. Máš 2 možnosti - buď padne panna, nebo orel. To
+je pravděpodobnost 50 na 50.
+ 0337
+23.12.2012 00:59:31
+Hele když ti padne pana, tak jí jednoduše přeřízni a zbyde ti orel. Je to
+osud.
+[Smajlík]
+ posraný kódy
+23.12.2012 00:55:44
+Ale stane se to. Když 2^100 krát (to jest přibližně
+1267650000000000000000000000000 krát) zopakuješ sérii sto hodů mincí, tak už
+bude docela dobrá pravděpodobnost, že v jedné ze sérií bude 100x za sebou
+totéž.
+ _D_E_A_D_B_E_E_F [Muž]47 [Kategorie]
+23.12.2012 00:52:09
+DEADBEEF: Paměť samozřejmě nemá, ale to, že by padla třeba stokrát jedna
+strana, se taky nestane. Tak jak to teda je?
+[Smajlík]
+ Zbyněk Pumpr
+23.12.2012 00:50:17
+Má snad mince nějakou paměť, že by se ta pravděpodobnost měnila? :-)
+ _D_E_A_D_B_E_E_F [Muž]47 [Kategorie]
+23.12.2012 00:47:25
+Pravděpodobnost se počítá počet příznivých ku počtu možných. Tedy když si
+chceš spočítat, jaká je pravděpodobnost, že padne panna, tak příznivý je jeden
+(ta panna) a možné jsou dva (panna a orel). Což je jedna polovina, tedy 50%.
+ _K_o_k_o_s_o_v_y_P_a_n_e_l_a_k [Muž]32 [Kategorie]
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+

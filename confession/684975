@@ -1,0 +1,118 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+   Otázky - Vzkazy č.684975, vloženo _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+   19.12.2012 09:21:57               _s_t_r_á_n_k_a_]
+   Samovolné vypínání monitoru
+   Brý den mám takový problém při zapnutí pc,hraní her prostě veškeré
+   aktivity na pc aji při přihlašování do systému, se vypne monitor asi po
+   10-20s se zase zapne Pc sem projel antivirem žádný vir nebyl nalezen ve
+   speedfanu sou teploty Temp1: 76C Temp2: -70 Temp3: -128C HD0:36C Core 0:
+   51C Core 1:52C osobně si myslím že vtom problém nebude jelikož tyhle
+   teploty tam mám už dost delší dobu než problém nastal .Monitor se vypíná
+   i když je v nouzovým režimu Grafickou kartu (Intel(R) Graphics Media
+   Accelerator 3150) mám aktualizovanou vypínání a zapínání monitoru je
+   nezávislé na přehrávání videii na ytb nebo hraní her... někdy vydrží
+   5minut bez vypnutí a někdy sotva 1 minutu
+    Jirka E-MAIL: _I_m_._h_e_r_e_@_e_m_a_i_l_._c_z  [Muž]16  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+19.12.2012 12:53:24
+Všem děkuji za odpovědi no on je to ten stolní počítač tzv pouze monitor a v
+tom zabudované ostatní komponenty :) je v záruce tak ho teda pošlu na
+reklamaci :) já jen aˇˇt to tam nepošlu s blbým ovladačem grafiky nebo tak :
+) děkuji
+[Smajlík]
+ jirka
+19.12.2012 11:11:35
+lixiq: stabilní bejt může ale to neznamená, že se mu nebude vypínat monitor.
+Buď je v hajzlu a sklo je na reklamaci nebo tohle může bejt opravdu teplotou.
+
+Navíc při běžné činnosti - jako hraní her...
+ _s_u_v_u_r_o_v [Muž]30 [Kategorie]
+19.12.2012 10:58:39
+suvurov - nemyslim .. hdd 36C, cpu 1jadro 51C 2jadro 52C a pak tam je temp1
+76C .. tahle teplota na grafiku je prijatelna , ale ma integrovanou.. nevim
+ceho je to teplota.
+
+u cpu by mohlo bejt 0-40 nejlepe, ale kolem 50 je pc jeste stabilni, az kolem
+60-70 dela picoviny.
+ _l_i_x_i_q [Muž]25 [Kategorie]
+19.12.2012 10:39:52
+Já si zas osobně myslím, že ty teploty jsou vysoké.
+[Smajlík] [Muž]30 [Kategorie]
+ _s_u_v_u_r_o_v
+19.12.2012 10:19:36
+popisu ti 1 zavadu monitoru.
+
+
+v monitorech je jakysi invertor, ktery ma vysokofrekvencni trafka a tim
+rozsvici svetla na monitoru, ty se rozkmitaj pomoci mosfet tranzisotru ..
+trafka tam jsou bud 2, nebo 4 podle zapojeni .. ale kdyz 1 strana spatne
+kmita, nebo nekmita vubec, tak tam je SMD sráč kterej po chvili invertor uplne
+vypne. takze vysledek je, ze monitor zapnes na minutu a pak se ti vypne a
+takhle dokolecka a obcas to vydrzi o neco dele nez minutu.
+
+pokud je invertor zvlast od zdroje, tak to je cely v smd a nema smysl to
+opravovat, navic kdyz nejspis budou vadna trafka a ty nikdy nevymenis kdyz je
+nesezenes.. proste si budes muset koupit za 3 stovky novej invertor.
+
+pokud je invertor na desce ze zdrojem, tak tam muzes merit a tam vetsinou
+odchazej bud trafka, tak i casteji ty mosfety, pokud se to neslozi, tak je
+moznost odstranit casti spoju a oddelit od zdrojove casti a pak muzes dokoupit
+invertor a nahradit.
+
+take u invertoru jsou u trafek kondenzatory a kdyz je na nich studenak, tak
+taky to vypina podsviceni.je treba jit na elektro forum a tam se vsecko tohle
+docist.
+ _l_i_x_i_q [Muž]25 [Kategorie]
+19.12.2012 10:04:19
+dela to pravidelne ? videl bych to na problem ve zdrojove casti monitoru, bud
+studenak, nebo prehrivani...
+pises to chaoticky a neprehledne..
+
+chapu dobre, ze ti blbne jen monitor a pocitac se neresetovava a neblbne s nim
+?
+
+pokud jo, tak je nejspis vada monitoru a jej treba opravit.. oprava by mela
+bejt v pohode, ale mela by bejt provedena nekym kdo ma na to kvalifikaci.
+ _l_i_x_i_q [Muž]25 [Kategorie]
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+

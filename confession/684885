@@ -1,0 +1,165 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+   Otázky - Vzkazy č.684885, vloženo _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+   18.12.2012 20:14:52               _s_t_r_á_n_k_a_]
+   Windows PowerShell (TM) 1.0.
+   Mám v PC instlí prostředí Windows PowerShell (TM) 1.0.
+   Chci to odinstalovat, ale v příslušenství to nikde není, i když by mělo,
+   protože jsem si dal i zobrazit zkryté složky systému...
+   Takže nechápu, nevím jak si to odistalovat.
+   V radách, postupech na stránkách Microsoftu jsem si našel, jak si to
+   odistalovat v mém systému (win. xp)
+   Ale to nefaká!!!!
+
+   http://support.microsoft.c om/kb/926139
+
+   Jak odinstalovat systém Windows PowerShell v systému Windows XP
+   V systému Windows XP postupujte takto Chcete-li odinstalovat systém
+   Windows PowerShell 1.0:
+
+   Klepněte na tlačítko Start, klepněte na příkaz Spustit, zadejte
+   appwiz.cpl a klepněte na tlačítko OK.
+
+   Již v tom prvním kroku je záhrdel!
+   Dám do spustit ten příkaz, a na to se mi zpustí adobe reader, který to
+   pochopitelně neumí otevřít.
+   No a i když tento program odistaluju, tak se sice dostanu rovnou na net,
+   pro hledání vhodných programů či co, ale tam mi to nic teda nenajde!
+    costimD [Muž]18  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+19.12.2012 00:11:59
+Je to windooooows
+ _P_o_d_z_i_m [Žena]19 [Kategorie]
+18.12.2012 22:25:00
+Svůj příspěvek jsi vložil(a) do nespravné kategorie. Bylo provedeno přesunutí.
+V případě opakování hrozí blokování vstupu na portál. Prosím zvol příště
+správnou kategorii. Děkujeme za pochopení.
+[Smajlík]      [Muž] [Kategorie]
+ _A_d_m_i_n_i_s_t_r_á_t_o_r
+18.12.2012 21:43:01
+a v čem ti to tak hrozně vadí, tak to nepoužívej....myslíš, že nemáš snad
+zasekanej systém většíma 3,14čovinama, než P.S.? Zrovna tohle je asi to
+nejmenší to ti může zavazet...
+ _Z_a_r_c_o_n [Muž]41 [Kategorie]
+18.12.2012 21:30:20
+Ale proč odinstalovavat ty balíčky? jaky to ma smysl? Myslis ze tim zrychlis
+chod pocitace? To tezko. Nebo zkus preinstalovat cely system. Spis bych si
+stahl z netu Service Pack 3 a po ciste instalaci bych ho nainstaloval jeste
+pred tim nez bych se pripojil k netu.
+ bleh
+18.12.2012 21:22:38
+bleh: Svím způsobem jo, proto potřebuju odistalovat skoro všechny KB...
+Už na tom makám.
+A jinak... Nejde mi o to, abych měl new powershel, ale o aktualizaci systému
+jako takového.
+ costimD
+18.12.2012 21:13:20
+Počkej a nenaisntaluje se automaticky s aktualizací oken nová verze
+PowerShellu?
+ bleh
+18.12.2012 21:08:56
+Jj, no já ještě neměl příležitost PowerShell použít, ale nechci ho dávat pryč.
+Hodit se mi může. Byl jsem nucenej použít terminál a ten je fakt pecka.
+ bleh
+18.12.2012 21:02:35
+Vážně už nikdo neporadí?
+Podle stránek z Microsoftu bych měl dát ten příkaz do spustit, a měl by se mi
+zobrazit seznam aktualizací, ovšem toho vlastně dosáhnu i jinak, takže...
+Sakra co dělat? I když chci zkusit instalovat novější verzi powershelu, tak mi
+to píše, že musím odinstalovat tu verzi, co tu mám.
+Sakra jak ji najít?
+Nebo myslíte, že stačí odistalovat všechny aktualizace? To se pak ale ve všem
+budu hrabat jak krtek ne?:D A na to nemám čas:D
+ costimD
+18.12.2012 20:55:25
+bleh: Vlastně se jedná víceméně o aktualizaci systému, ale to je jedno:D
+ costimD
+18.12.2012 20:49:18
+BomberMAN:
+Právě že ne!:(
+Sere mě to no...
+Můžu se třeba ještě kouknout, ale už jsem se díval kolikrát...
+Možná bych taky potřeboval vědět, jak odistalovat víc aktualizací najednou.
+
+bleh:
+Samozřejmě, že je to lepší jak příkazový řádek. Však já to chci jen
+odistalovat, abych si mohl inovovat systém, a pak si nainstaluju novější verzi
+powershelu kteou už mám připravenou.
+ costimD
+18.12.2012 20:42:43
+Žádná tam v názvu neobsahuje PowerShell?
+ _B_o_m_b_e_r_M_A_N [Muž]35 [Kategorie]
+18.12.2012 20:42:10
+Tak zrovna PowerShell bych neodinstalovával. Jedná se o nástavbu příkazového
+řádku a nabízí více možností, ikdyž na linuxový terminál to má hodně daleko.
+Myslím si, že daleko lepší nápad je odinstalovat takový Internet Explorer a
+podobný sračky než toto. Ono naučít se používat příkazy není uplně od věci.
+ bleh
+18.12.2012 20:36:29
+BomberMAN:
+Co mi to tu jako meleš?
+To je snad úplně základní cesta kterou každý zná!
+Já psal, že to ani v tom příslušenství nemám, kdybych chtěl zpustit ten
+program...
+Když si zobrazím aktualizace, tak je tam třiprdele ká béček s číslem např něco
+jako KB61878453
+To je sice ono, ale je jich tam celkem dost, a odinstalování jen jedný trvá
+kurva dlouho:D
+Stejně bych tím ale odistaloval spíš jen aktualizace, ale ne to prostředí ne?
+ costimD
+18.12.2012 20:20:46
+1. Klikni na -Ovládací panely- v nabídce Start
+2. Klikni na -Odinstalovat program-
+3. Klikni vlevo na -Zobrazit nainstalované aktualizace-
+4. Pravym klikni na aktualizaci s názvem "PowerShell" a zvol odinstalovat
+ _B_o_m_b_e_r_M_A_N [Muž]35 [Kategorie]
+18.12.2012 20:17:57
+Proč odinstalovávat takovou super konzoli?
+[Smajlík]            [Muž]24 [Kategorie]
+ _M_a_r_c_e_l_l_u_s_ _N_o_n_ _N_o_m_e_n
+18.12.2012 20:17:53
+Mám pro tebe špatnou zprávu. Dokud se nenaučíš psát česky tak bych se do
+počítačů radši nepouštěl.
+[Smajlík]
+ bzz
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+

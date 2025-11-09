@@ -1,0 +1,136 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+Diskuze č.685627, vloženo 21.12.2012 18: _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+34:58                                    _s_t_r_á_n_k_a_]
+Smysl derivace - pro matematiky
+Pořád se mi nedaří přijít na smysl derivace. Na wikině čtu, že je to poměr
+změny y ku změně x. Nakreslil jsem si graf, kde jenom z bodu 0,0 vedu caru do
+bodu 1,1. To je pospaný funkcí y=x, prostě pro bod 0.5 na ose x dostanu bod 0.5
+na ose y. Derivace x je 1, takže si říkám, že to sedí, protože třeba 0.5/0.5 je
+1.
+Už ale nechápe, jak to je, když ta derivace funkce v sobě dál obsahuje to x, co
+to jako znamená. Třeba x^2. Když si to nakreslím, tak to je taková ta parabola.
+V bodě 1 má hodnotu 1, v bodě 0 má hodnotu 0. Když zderivuji x^2, dostanu 2x.
+No a co to teď znamená, že ten poměr je 2x? Když tam dosadím jedničku, tak mi
+vyjde 2, tzn. hodnota poměru změny x ku změně y je 2. V bodě 1 má ale
+kdvadraticka funkce hodnotu 1, takze takze ten pomer je 1? Fakt uz nevim.
+ asfasf [Muž]21  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+21.12.2012 21:46:29
+S výsledky derivací, tzv. deriváty se pak může obchodovat na burze.
+[Smajlík] [Muž] [Kategorie]
+ _V_o_t_r_a_p_a
+21.12.2012 21:32:58
+Pancho: Jsi si jistý, že víš, co je derivace? :D
+ pex
+21.12.2012 21:00:26
+hele, chceš najít neznámou x. tak derivuješ rovnici, dokud ji s určitnou
+přesnosti nenajdeš. ´Derivovat můžeš do nekonečna, když chceš mít přesnost na
+milion desetinných míst :)
+ _P_a_n_c_h_o [Muž]36 [Kategorie]
+21.12.2012 20:44:06
+Já nechápu, co na tom nechápeš, derivace je změna funkce v bodě, v podsatě je
+to směrnice tečny v daném místě funkce. Proč je tam to x? No to je asi proto,
+že například kvadratická funkce neroste pořád stejně rychle, ale její růst se
+zrychluje, nebo sis toho nevšíml? To znamená, že ta změna funkce v bodě je
+závislá na konkrétním místě reprezentovaném x, nemyslíš?
+ pex
+21.12.2012 20:43:31
+to si chodil na stredni na obchodku ne? Normalni stredoskolak by to mel vedet
+ Vilém II
+21.12.2012 19:06:05
+zelenydrak: zkusil jsem si nakreslit graf 2x, coz je derivace x na druhou a je
+to linearni funkce, od 1 do 3 je na ose y změna o 4. Kvadraticka funkce se ale
+meni od 1 do 3 o 8.
+ asfasf
+21.12.2012 18:53:10
+Abych to doplnil
+Např. v případě té funkce y= x^2
+Derivace je y´= 2x
+Např. v bodě x=1 má tečna grafu funkce derivaci 2, tedy tangens úhlu, který
+tečna svírá s osou x je 2, tedy svírá úhel přibližně 63,4 stupně
+Např. v bodě x=2 má tečna grafu funkce derivaci 4, tedy tangens úhlu, který
+tato tečna svírá s osou x je 4 a úhel je přibližně 76 stupňů.
+ _l_o_p_e_z_z [Muž]38 [Kategorie]
+21.12.2012 18:53:04
+To znamená že když si nakreslíš graf té zderivované fukce a koukneš se na
+nějaký úsek, třeba od 1 do 5, tak tam uvidíš jak moc tam ta původní funkce
+rostě v ose y.
+
+Máš třeba těleso jehož souřadnice se mění podle funkce x^2. Víme že derivace
+je přírustek v ose y. To znamená že derivace funkce udávající změnu souřadnic
+tělesa musí být rychlost toho tělesa. Nás zajímá jakou mělo rychlost v x=2.
+Takže zderivujeme a máme že to je 2x, ted dosadíme za x dvojku a vidíme že v
+x=2 mělo to těleso rychlost 4.
+ _Z_e_l_e_n_y_D_r_a_k [Muž]22 [Kategorie]
+21.12.2012 18:47:19
+zelenydrak: jo, to chapu, protoze po zderivovani ta funkce nebosahuje zadny x,
+Ale treba derivace x nadruhou je 2x, takže pak to znamena co?
+ asfasf
+21.12.2012 18:46:30
+Já sám sebe nepovažuju za matematika, ale na VŠ i na SŠ jsem měl matematiku a
+samozřejmě i derivace. Je to složitější, protože není jen derivace funkce
+jedné proměnné, ale i derivace funkce více proměnných.Ale pokud omezíme úvahu
+na derivaci funkce jedné proměnné(to co popisuješ), a jako příklad vezmeme
+funkci y= x^2 tak je smysl derivace tento:
+derivace funkce má v konkrétním bodě konkrétní hodnotu.
+Např. v bodě x= 1 má derivace hodnotu 2, protože derivace x^2 je 2x.A když se
+za x dosadí 1, tak výsledek je 2. Když se v bodě x=1 udělá tečna grafu funkce,
+tak tato tečna svírá s osou x nějaký úhel. A derivace funkce v tom určeném
+bodě je tangens toho úhlu.
+
+Vysvětluje se to tak, že když se kromě toho bodu 1 zvolí ještě jinej bod, tak
+vznikne sečna grafu. Tím, jak se postupně ten druhý bod volí tak, aby se
+přiblížil tomu bodu, kde je derivace, se úhel té sečny zmenšuje a postupně se
+přibližuje velikosti úhlu té tečny.
+Takto slovně se to nedá dobře popsat, lepší je to znázornit graficky.
+Např. na straně 7 souboru, na který ukazuje odkaz
+_h_t_t_p_:_/_/_m_a_n_t_._u_p_o_l_._c_z_/_s_o_u_b_o_r_y_/_M_C_/_p_8_._p_d_f
+ _l_o_p_e_z_z [Muž]38 [Kategorie]
+21.12.2012 18:40:02
+Derivace říká, jak moc ta funkce roste na ose y. Když máš třeba constantu, to
+je v grafu vodorovná čára, tak derivace je nula, protože neroste v ose y
+vůbec. Když máš třeba x=y, tak tam to roste lineárně, prot je výsledkem nějaká
+konstanta atd......Prostě derivace udává velikost přírustku funkce v ose y.
+ _Z_e_l_e_n_y_D_r_a_k [Muž]22 [Kategorie]
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+

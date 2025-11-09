@@ -1,0 +1,220 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+Diskuze č.686670, vloženo 25.12.2012 21: _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+02:36                                    _s_t_r_á_n_k_a_]
+Martingale - nevýhoda
+Jistě Vám občas přišel email, jak vyhrát v ruletě. Většina se na to nechytá,
+ale sem tam se ukáže blb, který na to skočí.
+
+Tady je ukázka simulace tohoto systému:
+
+Konto: 400000
+Min. sazka: 1000
+
+Hra:
+Kolo: 1, Sazka: 1000 Cislo: 16 Tip: lichy..........PROHRA!!! Konto: 399000
+Kolo: 2, Sazka: 2000 Cislo: 30 Tip: lichy..........PROHRA!!! Konto: 397000
+Kolo: 3, Sazka: 4000 Cislo: 21 Tip: lichy..........VYHRA!!! Konto: 401000
+Kolo: 4, Sazka: 1000 Cislo: 11 Tip: sudy..........PROHRA!!! Konto: 400000
+Kolo: 5, Sazka: 2000 Cislo: 1 Tip: sudy..........PROHRA!!! Konto: 398000
+Kolo: 6, Sazka: 4000 Cislo: 3 Tip: sudy..........PROHRA!!! Konto: 394000
+Kolo: 7, Sazka: 8000 Cislo: 4 Tip: sudy..........VYHRA!!! Konto: 402000
+Kolo: 8, Sazka: 1000 Cislo: 32 Tip: lichy..........PROHRA!!! Konto: 401000
+Kolo: 9, Sazka: 2000 Cislo: 5 Tip: lichy..........VYHRA!!! Konto: 403000
+Kolo: 10, Sazka: 1000 Cislo: 1 Tip: sudy..........PROHRA!!! Konto: 402000
+Kolo: 11, Sazka: 2000 Cislo: 7 Tip: sudy..........PROHRA!!! Konto: 400000
+Kolo: 12, Sazka: 4000 Cislo: 9 Tip: sudy..........PROHRA!!! Konto: 396000
+Kolo: 13, Sazka: 8000 Cislo: 28 Tip: sudy..........VYHRA!!! Konto: 404000
+Kolo: 14, Sazka: 1000 Cislo: 10 Tip: lichy..........PROHRA!!! Konto: 403000
+Kolo: 15, Sazka: 2000 Cislo: 21 Tip: lichy..........VYHRA!!! Konto: 405000
+Kolo: 16, Sazka: 1000 Cislo: 28 Tip: sudy..........VYHRA!!! Konto: 406000
+Kolo: 17, Sazka: 1000 Cislo: 13 Tip: lichy..........VYHRA!!! Konto: 407000
+Kolo: 18, Sazka: 1000 Cislo: 34 Tip: sudy..........VYHRA!!! Konto: 408000
+Kolo: 19, Sazka: 1000 Cislo: 18 Tip: lichy..........PROHRA!!! Konto: 407000
+Kolo: 20, Sazka: 2000 Cislo: 10 Tip: lichy..........PROHRA!!! Konto: 405000
+Kolo: 21, Sazka: 4000 Cislo: 32 Tip: lichy..........PROHRA!!! Konto: 401000
+Kolo: 22, Sazka: 8000 Cislo: 19 Tip: lichy..........VYHRA!!! Konto: 409000
+Kolo: 23, Sazka: 1000 Cislo: 23 Tip: sudy..........PROHRA!!! Konto: 408000
+Kolo: 24, Sazka: 2000 Cislo: 4 Tip: sudy..........VYHRA!!! Konto: 410000
+Kolo: 25, Sazka: 1000 Cislo: 30 Tip: lichy..........PROHRA!!! Konto: 409000
+Kolo: 26, Sazka: 2000 Cislo: 7 Tip: lichy..........VYHRA!!! Konto: 411000
+Kolo: 27, Sazka: 1000 Cislo: 8 Tip: sudy..........VYHRA!!! Konto: 412000
+Kolo: 28, Sazka: 1000 Cislo: 5 Tip: lichy..........VYHRA!!! Konto: 413000
+Kolo: 29, Sazka: 1000 Cislo: 4 Tip: sudy..........VYHRA!!! Konto: 414000
+Kolo: 30, Sazka: 1000 Cislo: 19 Tip: lichy..........VYHRA!!! Konto: 415000
+Kolo: 31, Sazka: 1000 Cislo: 36 Tip: sudy..........VYHRA!!! Konto: 416000
+Kolo: 32, Sazka: 1000 Cislo: 25 Tip: lichy..........VYHRA!!! Konto: 417000
+Kolo: 33, Sazka: 1000 Cislo: 9 Tip: sudy..........PROHRA!!! Konto: 416000
+Kolo: 34, Sazka: 2000 Cislo: 23 Tip: sudy..........PROHRA!!! Konto: 414000
+Kolo: 35, Sazka: 4000 Cislo: 4 Tip: sudy..........VYHRA!!! Konto: 418000
+Kolo: 36, Sazka: 1000 Cislo: 22 Tip: lichy..........PROHRA!!! Konto: 417000
+Kolo: 37, Sazka: 2000 Cislo: 7 Tip: lichy..........VYHRA!!! Konto: 419000
+Kolo: 38, Sazka: 1000 Cislo: 2 Tip: sudy..........VYHRA!!! Konto: 420000
+Kolo: 39, Sazka: 1000 Cislo: 13 Tip: lichy..........VYHRA!!! Konto: 421000
+Kolo: 40, Sazka: 1000 Cislo: 8 Tip: sudy..........VYHRA!!! Konto: 422000
+Kolo: 41, Sazka: 1000 Cislo: 16 Tip: lichy..........PROHRA!!! Konto: 421000
+Kolo: 42, Sazka: 2000 Cislo: 35 Tip: lichy..........VYHRA!!! Konto: 423000
+Kolo: 43, Sazka: 1000 Cislo: 35 Tip: sudy..........PROHRA!!! Konto: 422000
+Kolo: 44, Sazka: 2000 Cislo: 14 Tip: sudy..........VYHRA!!! Konto: 424000
+Kolo: 45, Sazka: 1000 Cislo: 34 Tip: lichy..........PROHRA!!! Konto: 423000
+Kolo: 46, Sazka: 2000 Cislo: 32 Tip: lichy..........PROHRA!!! Konto: 421000
+Kolo: 47, Sazka: 4000 Cislo: 21 Tip: lichy..........VYHRA!!! Konto: 425000
+Kolo: 48, Sazka: 1000 Cislo: 17 Tip: sudy..........PROHRA!!! Konto: 424000
+Kolo: 49, Sazka: 2000 Cislo: 4 Tip: sudy..........VYHRA!!! Konto: 426000
+Kolo: 50, Sazka: 1000 Cislo: 33 Tip: lichy..........VYHRA!!! Konto: 427000
+Kolo: 51, Sazka: 1000 Cislo: 17 Tip: sudy..........PROHRA!!! Konto: 426000
+Kolo: 52, Sazka: 2000 Cislo: 10 Tip: sudy..........VYHRA!!! Konto: 428000
+Kolo: 53, Sazka: 1000 Cislo: 0 Tip: lichy..........PROHRA!!! Konto: 427000
+Kolo: 54, Sazka: 2000 Cislo: 25 Tip: lichy..........VYHRA!!! Konto: 429000
+Kolo: 55, Sazka: 1000 Cislo: 12 Tip: sudy..........VYHRA!!! Konto: 430000
+Kolo: 56, Sazka: 1000 Cislo: 6 Tip: lichy..........PROHRA!!! Konto: 429000
+Kolo: 57, Sazka: 2000 Cislo: 1 Tip: lichy..........VYHRA!!! Konto: 431000
+Kolo: 58, Sazka: 1000 Cislo: 10 Tip: sudy..........VYHRA!!! Konto: 432000
+Kolo: 59, Sazka: 1000 Cislo: 14 Tip: lichy..........PROHRA!!! Konto: 431000
+Kolo: 60, Sazka: 2000 Cislo: 36 Tip: lichy..........PROHRA!!! Konto: 429000
+Kolo: 61, Sazka: 4000 Cislo: 7 Tip: lichy..........VYHRA!!! Konto: 433000
+Kolo: 62, Sazka: 1000 Cislo: 10 Tip: sudy..........VYHRA!!! Konto: 434000
+Kolo: 63, Sazka: 1000 Cislo: 14 Tip: lichy..........PROHRA!!! Konto: 433000
+Kolo: 64, Sazka: 2000 Cislo: 2 Tip: lichy..........PROHRA!!! Konto: 431000
+Kolo: 65, Sazka: 4000 Cislo: 35 Tip: lichy..........VYHRA!!! Konto: 435000
+Kolo: 66, Sazka: 1000 Cislo: 29 Tip: sudy..........PROHRA!!! Konto: 434000
+Kolo: 67, Sazka: 2000 Cislo: 19 Tip: sudy..........PROHRA!!! Konto: 432000
+Kolo: 68, Sazka: 4000 Cislo: 10 Tip: sudy..........VYHRA!!! Konto: 436000
+Kolo: 69, Sazka: 1000 Cislo: 9 Tip: lichy..........VYHRA!!! Konto: 437000
+Kolo: 70, Sazka: 1000 Cislo: 15 Tip: sudy..........PROHRA!!! Konto: 436000
+Kolo: 71, Sazka: 2000 Cislo: 18 Tip: sudy..........VYHRA!!! Konto: 438000
+Kolo: 72, Sazka: 1000 Cislo: 35 Tip: lichy..........VYHRA!!! Konto: 439000
+Kolo: 73, Sazka: 1000 Cislo: 22 Tip: sudy..........VYHRA!!! Konto: 440000
+Kolo: 74, Sazka: 1000 Cislo: 8 Tip: lichy..........PROHRA!!! Konto: 439000
+Kolo: 75, Sazka: 2000 Cislo: 21 Tip: lichy..........VYHRA!!! Konto: 441000
+Kolo: 76, Sazka: 1000 Cislo: 34 Tip: sudy..........VYHRA!!! Konto: 442000
+Kolo: 77, Sazka: 1000 Cislo: 34 Tip: lichy..........PROHRA!!! Konto: 441000
+Kolo: 78, Sazka: 2000 Cislo: 30 Tip: lichy..........PROHRA!!! Konto: 439000
+Kolo: 79, Sazka: 4000 Cislo: 16 Tip: lichy..........PROHRA!!! Konto: 435000
+Kolo: 80, Sazka: 8000 Cislo: 19 Tip: lichy..........VYHRA!!! Konto: 443000
+Kolo: 81, Sazka: 1000 Cislo: 27 Tip: sudy..........PROHRA!!! Konto: 442000
+Kolo: 82, Sazka: 2000 Cislo: 10 Tip: sudy..........VYHRA!!! Konto: 444000
+Kolo: 83, Sazka: 1000 Cislo: 11 Tip: lichy..........VYHRA!!! Konto: 445000
+Kolo: 84, Sazka: 1000 Cislo: 23 Tip: sudy..........PROHRA!!! Konto: 444000
+Kolo: 85, Sazka: 2000 Cislo: 36 Tip: sudy..........VYHRA!!! Konto: 446000
+Kolo: 86, Sazka: 1000 Cislo: 8 Tip: lichy..........PROHRA!!! Konto: 445000
+Kolo: 87, Sazka: 2000 Cislo: 33 Tip: lichy..........VYHRA!!! Konto: 447000
+Kolo: 88, Sazka: 1000 Cislo: 21 Tip: sudy..........PROHRA!!! Konto: 446000
+Kolo: 89, Sazka: 2000 Cislo: 5 Tip: sudy..........PROHRA!!! Konto: 444000
+Kolo: 90, Sazka: 4000 Cislo: 27 Tip: sudy..........PROHRA!!! Konto: 440000
+Kolo: 91, Sazka: 8000 Cislo: 17 Tip: sudy..........PROHRA!!! Konto: 432000
+Kolo: 92, Sazka: 16000 Cislo: 7 Tip: sudy..........PROHRA!!! Konto: 416000
+Kolo: 93, Sazka: 32000 Cislo: 5 Tip: sudy..........PROHRA!!! Konto: 384000
+Kolo: 94, Sazka: 64000 Cislo: 15 Tip: sudy..........PROHRA!!! Konto: 320000
+Kolo: 95, Sazka: 128000 Cislo: 25 Tip: sudy..........PROHRA!!! Konto: 192000
+KONEC vyher: 47 proher: 48
+
+Samozřejmě, pokud minimální sázku zmenšíte nebo budete mít větší konto, tak
+vydržíte více kol, ale nikdy na tom nevyděláte tak, aby se vám to vyplatilo.
+ nevyhoda [Muž]11  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+25.12.2012 22:59:00
+Chernobyl:
+Pokud hraješ s limitem, nebo nemáš vysoký počáteční kapitál, tak dozajista
+budeš ve velkých ztrátách.
+ _N_u_d_l_o_ž_r_o_u_t [Muž]19 [Kategorie]
+25.12.2012 22:46:52
+Nudložrout: jediné čeho tímto dosáhne je rychlejší ztráta peněz a rychlejší
+naražení na max. limit.
+ _C_h_e_r_n_o_b_y_l [Muž] [Kategorie]
+25.12.2012 22:40:07
+Nesmíš zvyšovat *2*4*8... to jsou pak zisky minimální a nepokryjí ty ztráty o
+kterých mluvíš...
+
+Musíš zvyšovat *3*7*15... Ale zase na druhou stranu, pokud nemáš dostatečný
+počáteční kapitál...
+ _N_u_d_l_o_ž_r_o_u_t [Muž]19 [Kategorie]
+25.12.2012 22:33:46
+Víš, ať vymyslíš cokoliv, majitel kasína bude mít vždy vyšší pravděpodobnost
+výhry než ty, proto kasíno vydělává z hráčových proher. A pokud by jsi měl
+neomezeně prostředků, nebyl by důvod dělat z majitele kasína ještě většího
+boháče ;-) Jediná možnost by byla jit ke stolu s max. limitem a vsadit třeba
+na sudou/lichou několik milionů a máš šanci, že vyhraješ. Otázkou je, zda-li
+by jsi byl ochotný tohle risknout.
+ _C_h_e_r_n_o_b_y_l [Muž] [Kategorie]
+25.12.2012 22:25:18
+Chernobyl:
+
+Právě, zamýšlím se nad tím, jaké by to bylo mít neomezené prostředky. Pokud by
+takové limity byly v různých kasínech, nejednalo-li by se tedy pouze o "limit
+jednotlivých stolů", tak přece svou velikou sázku mohu rozdělit a odehrát na
+několikrát, či?
+ Salome
+25.12.2012 22:13:43
+Salome: ale pokud všechny peníze necháš v ten den v tom kasínu, tak druhý den
+nebudeš mít co vsadit. Ale dejme tomu že máš dostatek peněz a uděláš to co
+píšeš, tedy druhý den půjdeš ke stolu, kde je vyšší max. sázkový limit. Ale i
+tam se může tato situace opakovat, tedy že prohraješ a jediná možnost jak
+dostat peníze zpět je zdvojnásobení sázky, což ale nepůjde, protože narazíš na
+limit, atd atd atd pořád dokola.
+ _C_h_e_r_n_o_b_y_l [Muž] [Kategorie]
+25.12.2012 22:09:43
+Chernobyl
+
+Já tomu rozumím, ale říkám - zdvojnásobenou sázku mohu klidně vsadit i příští
+den v jiném kasínu, proč by ne?
+ Salome
+25.12.2012 21:42:41
+Salome: Nene, je to myšleno obráceně. Prohraješ a peníze by jsi dostal zpět
+pouze, pokud by jsi sázku zdvojnásobli, ale to ti nedovolí limit maximální
+sázky u daného stolu, takže ty peníze nemáš možnost dostat zpět.
+ _C_h_e_r_n_o_b_y_l [Muž] [Kategorie]
+25.12.2012 21:40:51
+Chernobyl
+
+Limit u jednotlivých stolů? Tak půjdu prostě s další sázkou k jinému stolu /
+do jiného kasína / počkám do příštího dne atd. Řekla bych, že mít k dispozici
+neomezeně vysoké prostředky, tak touhle strategií můžeš získat pěkný prachy.
+ Salome
+25.12.2012 21:06:41
+Problémem je totiž:
+1 - limit u jednotlivých stolů
+2 - i když sázíš na barvu, tak to nikdy není 50:50, ale díky nule má majitel
+rulety vždy vyšší šanci, že dostane tvé peníze.
+ _C_h_e_r_n_o_b_y_l [Muž] [Kategorie]
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+
