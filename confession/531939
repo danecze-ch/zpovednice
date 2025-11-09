@@ -1,0 +1,162 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+   Otázky - Vzkazy č.531939, vloženo _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+   27.05.2011 15:02:16               _s_t_r_á_n_k_a_]
+   HTML, JAVASCRIPT, CSS - pomuze nekdo?
+   Ahoj, mam stranky s fotogalerii udelane v js, stahla jsem je z free
+   templates a pote upravovala. je to fajn, jen s jednou veci se ja lama,
+   trapim uz tyden. kdyz ty kody v pspadu upravuji, v nahledu mi normalne
+   odkazy funguji, ale kdyz to nahraju na web, uz nefunguji. je mi jasne,
+   ze jsem tam zapomnela napsat odkaz na javascript a proto se mi to tam
+   nemuze zobrazovat. ja ale nevim JAK maten zapis spravne vypadat,
+   poradite?
+
+   budu na icq 268754508 prosim kdyztak a poslu vam odkaz a zdrojovy kod...
+
+   (strucne receno, existuje to tak, ze je tam index. html, kde jsou odkazy
+   na jednotlive galerie. jenomze funguje jen ta prvni, ktera je zaroven
+   zapsana v index.html. ty osttni tam jsou, ale nefunguji na ne odkazy a
+   href: categoryŠ.html. proste neodkaze se mi to na nic. ale ty obrazky a
+   categorie3..tam je. pry ze mi tam chybi kusy kodu, pry odkaz na JS,
+   ktery je tam take, ale s tim nevim co delat a jak to zapsat do
+   index.html...
+
+   vypada to cca takto (kdo by mi chtel pomoci, poslu mu to pak cele)
+   (aby to bylo videt, musela jsem neco umazat a udelat mezery, sorry)
+   < div id= " categories" >
+   <ul>
+   <li>< ;a href="category1.html" id="category1" class="current">2011</
+   a></li>
+
+   - ale to nefunguje, to je malo...
+
+
+   a jinak se odkazy pousti stale v index.html a jen se meni fotogalerie,
+   ktera ma svuj samostatny soubor html a zapis, ktery zacina takhle:
+
+   < !- start -
+   < div id= "output" >
+   < i mg src= "2009 /1. jpg " alt="" / >
+   </ div >
+
+   < div id =" slider" >
+
+   < a href =" #" class= "previous" >< img src="images/ up.png" alt="up"
+   wid th ="38 " height=" 2 1" / >< /a >
+
+   <div class="viewer">
+   & lt;di v class="reel">
+
+   < !-- Add 3 thumbnails per slide, you can duplicate this as many times
+   as needed. -- >
+   < !-- Start first slide -- >
+   < div class="slide " >
+
+   < ul class="thumbnails" >
+   < li >< img src="2009 /1_thum b.jpg" title= "aaawaw aw ; A scenic shot
+   of Monument Valley in Utah." alt="" wid th ="100" height="75" / >< /li
+   >"
+
+
+   Pak jsou tam jeste dva soubory,jeden s css zapisy("ie6fix.css"
+   "ie7fix.css" "ie8fix.css" "ie9fix.css" "style.css" ) a jeden se zapisy
+   javascriptu, tam jsou tyto: "jquery-1.5.2.min.js" "filter.js"
+   "jquery.gallerax-0.2.js"
+
+
+   ale potrebovala bych s tim pomoct po lopate, jsem lama:((((((((((((((
+    elina [Žena]18  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+27.05.2011 16:07:10
+daemonicky:) ok, zkusim to vecer udelat.
+
+ale ja teda umim jen to, ze udelam uplnou zacatecnickou vec : index.html a v
+nem : a href-blabla.html a vedle udelala soubor blabla.html s obrazky a
+odkazem nimi zpet na index.html. jinak to neumim.
+
+jen mam dojem, ze tahle galerie funguje jinak - ze se to nejak pomoci JS nebo
+ceho nacita automaticky do toho jednoho puvodniho index.html souboru a v nem
+se to nejak meni. nicmene ja tomu rozumim jak koza petrzeli, takze to udelam
+jak rikas a rozchodim na webu a pak se uvidi co se s tim pujde udelat :)
+[Smajlík]
+ Elina
+27.05.2011 15:29:14
+Takže :
+
+1)
+Udělej si minimální stránku jenom html body a img a naodkazuj si tam ty
+obrázky, nic jiného.
+Dej ji na web. Pak když se ti podaří to na webu rozchodit s cestama, tak
+můžeme pokračovat.
+
+Poslal jsem ti autorizaci a 3 spamy na ICQ.
+[Smajlík]   [Muž]25 [Kategorie]
+ _d_a_e_m_o_n_i_c_k_y
+27.05.2011 15:20:40
+Daemonicky: ano, je to tak, hodim ti sem screen z total commanderu...moment
+
+
+_h_t_t_p_:_/_/_i_5_4_._t_i_n_y_p_i_c_._c_o_m_/_v_f_a_9_3_p_._j_p_g_ 
+
+takhle to je na netu. mas pravdu, ze chyba asi bude v absolutnirelativni
+adrese, vecer (pozde vecer) budu na netu, kdyz si me das na icq, poslu ti
+primo odkaz na zdrojak..
+ elina
+27.05.2011 15:12:42
+1. pspad nepodoručuji, dělá problémy při undo/redo zpět/znovu
+
+2. odhad : nejspíš máš špatně relativní odkazy na soubory
+
+když jsi v adresáři kde nahraješ soubory, jsou tam adresáře "2009 " a "images"
+a v nich jsou ty soubory ? Vypadá to nějak takhle _h_t_t_p_:_/_/_i_m_g_6_._i_m_a_g_e_b_a_n_a_n_a_._c_o_m_/
+_i_m_g_/_u_p_r_m_s_d_a_o_/_d_o_s_b_o_x___0_0_4_8_._p_n_g_ ?
+" up.jpg" soubor
+Za 2009 máš mezeru ... má tám být? (možná to je zpovednicí)
+[Smajlík]   [Muž]25 [Kategorie]
+ _d_a_e_m_o_n_i_c_k_y
+27.05.2011 15:12:20
+Proč vytváříš něco co je již vytvořené a optimalizované a stačí to používat
+_h_t_t_p_s_:_/_/_p_i_c_a_s_a_w_e_b_._g_o_o_g_l_e_._c_o_m_/_k_o_u_b_a_v_i_t
+[Smajlík] [Muž]59 [Kategorie]
+ _B_h_a
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+
