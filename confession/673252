@@ -1,0 +1,144 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+   Otázky - Vzkazy č.673252, vloženo _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+   05.11.2012 21:02:36               _s_t_r_á_n_k_a_]
+   Kvadratická rce s parametrem problém
+   Počítám kvadratickou rovnici s parametrem a řeším případ, kdy je
+   diskriminant roven nule. D = p na druhou - 2p - 47.
+   Takže si udělám normální rci:
+   p na druhou - 2p - 47 = 0
+   p na druhou - 2p = +- 47
+   p (p-2) = +- 47
+   ....Jenže to potřebuju dostat do tvaru, kdy se jen samotný "p" bude
+   něčemu rovnat, ne žádné vytýkání! Protože potom počítám případ kdy p =
+   tomu číslu co tam vyjde....jenže já to nespočítala pro "p" ale pro "p(p-
+   2)". Je tu někdo, kdo je schopnej mi poradit?
+    PlayIt [Žena]16  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+05.11.2012 21:49:55
+lixi : já doufám, že výpočet diskriminant si pamatuji celkem dobře "bé na
+druhou mínus čtyři áácéé"
+
+p na druhou - 2p - 47
+a = 1
+b = -2
+c = -47
+D = (-2) ^ 2 - 4 * 1 * (-47) = 4 + 4* 47 a to je určitě kladné
+ _H_o_u_p_1_8 [Muž]99 [Kategorie]
+05.11.2012 21:48:25
+tak mas pravdu.. blbnu , je to kladny a o to je to jednodusi :-P
+ lixi
+05.11.2012 21:44:56
+Houp18 - presne picaboj ma pravdu, tak sme to delali a tak to taky radim.. ale
+ty mas taky chybu.. diskriminant neni 192 .. me vysla zaporna hodnota
+diskriminantu a dal musi pouzit komplexni cisla ve vypoctech korenu X1 a X2
+
+diskriminant = D= b&#178; -4ac
+
+X1/2 = ( -b (+-) ABS (D) ) / (2a)
+ lixi
+05.11.2012 21:37:56
+Jak ti tu radí "...aboj". Tyhle úlohy se řeší relativně mechanicky.
+
+1) Vyjádříš si diskriminat, což je nová kvadratická rovnice s p (to je to co
+si sem dala)
+2) Kvadratickou rovnici s p vyřešíš jako obyčejnou kvadratickou rovnici. p^2-
+2p - 47 = 0
+
+tedy
+D2 = 4 + 4 * 47 = 192
+p12 = 2 +- odm(192) / 2 = 1+-odm(48) -> pro tyhle dvě hodnoty parametru p má
+původní rovnice jeden dvojnásobný kořen. Pak se ještě můžeš zamyslet, kdy p^2-
+2p - 47 > 0, respektive menší než 0, a tedy s jakým parametrem má původní
+rovnice právě jedno řešní a s jakým paramatrem nemá žádné
+ _H_o_u_p_1_8 [Muž]99 [Kategorie]
+05.11.2012 21:37:13
+jak pocitam, tak pocitam tak rovnice:
+
+P nadruhou -47 -2p =0 nema diskriminant 0, ale ma zapornou hodnotu a musis
+pocitat s komplexnima cislama..
+ lixi
+05.11.2012 21:32:39
+PlaIt:ne nejsem!!!!!
+ _R_p_p_o_k [Muž]18 [Kategorie]
+05.11.2012 21:31:05
+Rppok: Víš co? Naser si. Stejnak tomu nerozumíš, a co víc, jsi fake, takže
+nemám sebemenší důvod ti tvůj neopodstatněný a špatný názor vyvracet.
+ PlayIt
+05.11.2012 21:29:14
+PlayIt:ne nejsem.....
+ _R_p_p_o_k [Muž]18 [Kategorie]
+05.11.2012 21:25:07
+Rppok: To teda jsi. Protože kdyby se p rovnalo 47, pak by logicky nemohlo
+platit zároveň že p(p-2) = 47.
+Navíc když bys počítala s tím že p=47 a počítala bys případ kdy má být D=0,
+vyšel by ti diskriminant 2256.
+ PlayIt
+05.11.2012 21:20:44
+PlayIt:ne nejsem...
+ _R_p_p_o_k [Muž]18 [Kategorie]
+05.11.2012 21:18:13
+Rppok: Tak to asi těžko, si trochu mimo.
+
+píčaboj: Zkusím to, díky.
+ PlayIt
+05.11.2012 21:14:25
+vyřeš tu rci p^2 - 2p - 47=0 normálně pomocí diskriminantu. to evidentně umíš.
+2 řešení která ti vyjdou jsou hodnoty p, pro které má původní rce jeden
+dvojnásobný kořen
+ píčaboj
+05.11.2012 21:11:40
+Vždyť je to nejhorší předmět.
+[Smajlík] [Muž]23 [Kategorie]
+ _P_e_d_o_b_e_a_r
+05.11.2012 21:11:18
+P se rovná 47....
+ _R_p_p_o_k [Muž]18 [Kategorie]
+05.11.2012 21:10:48
+Díky, štěstí je asi to jediný, co mi zítra může pomoct.
+ PlayIt
+05.11.2012 21:08:43
+Já ti neporadím, ale budu ti držet palec. Třeba ti to pomůže:)))
+[Smajlík] [Žena]32 [Kategorie]
+ _f_i_m_i
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+

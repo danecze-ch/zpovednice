@@ -1,0 +1,218 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+Zpověď č.676363, vloženo 17.11.2012 08: _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+52:11                                   _s_t_r_á_n_k_a_]
+domena nefunguje z lokalni site
+Máme doma ADSL internet, ten je zapojeny do wifi modemu. Kazdy clen rodiny ma
+svuj notebook, ktery se tam pripojuje pres wifi.
+Od poskytovatele pripojeni mame take verejnou IP adresu. Pro zjednoduseni
+dejme tomu ze to IP adresa je 101.102.103.104.
+Mám doma nonstop zapnutý počítač a ten modem mám nastavený, aby mu dával vždy
+stejnou IP adresu 10.0.0.50.
+Na počítači 10.0.0.50 jsem si rozběhl webový server, ftp server a další
+servery. Když dám do prohlížeče adresu http://10.0.0.50/ vše krásně funguje,
+objeví se mi stránky, co běží na tom serveru.
+
+Teď už ten server nepoužívám sám, ale používá ho více lidí. Koupil jsem si
+doménu. Pro zjednodušení jí říkejme priklad.cz. V nastavení dané domény
+priklad.cz jsem si nastavil, aby vedla na IP adresu 101.102.103.104. V
+nastavení našeho modemrouteru jsem nastavil NAT (network adress translation),
+aby se požadavky na port 80 a na další příslušné porty přeposílali na IP
+adresu 10.0.0.50.
+
+Pak jsem byl někde ve světě a zadal jsem si do svého prohlížeče priklad.cz a
+paráda opět se mi objevil i stránky z méto serveru.
+
+No ale když se vrátím domů tak musím zadávat zase 10.0.0.50 a když zadám
+priklad.cz, tak to nefunguje.
+
+Mám pro to jednoduché vysvětlení:
+Doména priklad.cz se přeloží na 101.102.103.104 a tam pošle můj počítač svůj
+požadavek. NAT ale funguje pouze pro požadavky z internetu a tohle ten modem
+nepřeloží a zkusí to poslat dál na 101.102.103.104, což je vlastně adresa
+vnějšího rozhraní mého modemu. V prohlížeči se tedy místo webového serveru
+objeví webové rozhraní modemu.
+
+Uspokojivé řešení do teď nemám.
+Několik let jsem to řešil tak, že jsem do souboru hosts v mém notebooku
+připisoval a zase zněj mazal záznamy a tím byl problém vyřešen pro můj
+notebook. S postupem času ale začali přibývat domény třetího řádu a já je tam
+musel všechny vypisovat. To mám teď naskriptované. Jelikož si stále vozím
+notebook domů a pryč, tak musím skripty stále spouštět. Problém teď ale
+nastává v tom, že server začínají používat i další členi rodiny a po nich
+nemohu chtít, aby na svých noteboocích podle toho kde se vyskytují zadávali
+různé adresy nebo spouštěli skripty, které jim budou přepisovat C:
+Windowssystem32driversetchosts a ještě abych po nich chtěl, aby si
+aktualizovali jednou za měsíc data, jak se má soubor hosts měnit.
+
+Prostě potřebuju aby doména priklad.cz (a ted uz i další domény) fungovali i v
+naší síti. Jak na to?
+ johnb [Muž]24  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+17.11.2012 16:50:47
+Dekuji,
+jsi chytrejsi nez operatori O2!!! Ti tohle nevedeli. Dal jsem tam manual a uz
+se mi tam ta moznost objevila.
+
+
+...
+Ano, budu opatrny a dam si pri nastavovani pozor. Myslim, ze uz mi ale nic
+nebrani k tomu, abych to doresil - jen byt sikovny.
+
+Dekuji za vyreseny problem!!! :)
+[Smajlík]
+ johnb
+17.11.2012 13:36:51
+Johnb: Zalozka DHCP server, nastavit DNS manual a soupnout tam tu ip adresu
+toho tveho DNS serveru. Upozornuju ze ten tvuj dns server by mel umet
+forwardovat pozadavky dal do netu (nebo na router) jinak se taky muze ze Tvi
+uzivatele si internetu moc neuziji :)
+ _V_e_l_d_r_a_n_e [Muž]34 [Kategorie]
+17.11.2012 13:05:16
+Jde mi prave o ty jine uzivatele nez me. DNS server jsem si ted rozbehnul. Uz
+jen nastavit v nastaveni toho modemrouteru, aby ostatni uzivatele videli tento
+DNS server jako primarni.
+
+... no a to vypada jako neprekonatelny problem. Ten modem router ma primarni i
+sekundarni router nastaveny na to co dostal od poskytovatele pripojeni a
+vypada to, ze tam neni zadna moznost to zmenit....
+HUAWEI hg622u ... prosel jsem celou webovou konfiguraci aspon 4 krat ... nikde
+nevidim moznost DNS servery zmenit.
+[Smajlík]
+ johnb
+17.11.2012 12:09:16
+John: takhle to funguje defacto v kazdy vetsi firme, ktera ma windowsi sit a
+pouziva active directory. DNS server je totiz nedilnou soucasti AD a tudiz se
+pak administratori vlastne o nic dal nestaraji paac tohle musi poresit hned od
+zacatku. Samozrejme instalovat si AD doma na par pecdek je mimo studijni ucely
+blbost takze to pak musis obejit prave tim separatnim DSN.
+
+Druha moznost jeste ktera me napada je pouzit na web serveru vic virtualnich
+hostu a ty lokalni jmena si pak nacpat do sve host tabulky. Takze kdyz budes
+doma budes se na sve stranky hlasit _h_t_t_p_:_/_/_j_m_e_n_o_s_e_r_v_e_r_y_/_c_o_n_t_e_x_t_ Kdyz budes
+venku budes se na ne hlasit pres _w_w_w_._n_e_c_o_._c_z_/_c_o_n_t_e_x_t_._ Prvni se ti prelozi pres
+/etc/hosts druhej pripad klasicky pres externi DNS. Nevim ale jaky pouzivas
+web server takze ti ani neporadim jak ho nastavit :). Ncimene treba v pripade
+Apache to neni zadny problem. Tohle je schudne ve chvili kdy na lokalni server
+pristupujes ty sam (nemusis se pak sejrit s host tabulkama pro ostatni
+uzivatele) a konfigurace je jednodussi nez instalovat/konfiguravat dns
+ _V_e_l_d_r_a_n_e [Muž]34 [Kategorie]
+17.11.2012 11:15:26
+Veldrane:
+Mas pravdu to asi bude resenim.
+
+Doufal jsem ze mi nekdo poradi, jak to rozchodit, tak aby se to chovalo jako u
+99998 samo od sebe. Myslel jsem ze to bude min pracne.
+
+No tak jeste chvili pockam a pak zacnu instalovat DNS server.
+[Smajlík]
+ johnb
+17.11.2012 11:04:23
+Reseni je rozjet treba na tom web serveru jeste jednoduchej dns server kterej
+zajisti spravny preklad lokalnich nazvu a zbytek bude forwadovat ven. Na tom
+routeru akorat menis nastaveni dhcp serveru tak aby uzivatele ve vnitrni siti
+dostali prave to tve dns.
+ _V_e_l_d_r_a_n_e [Muž]34 [Kategorie]
+17.11.2012 10:54:32
+Mne to na starem ADSL modemu funguje na vnejsi IP, mam web kameru v domaci
+siti a z vnitrni site se na ni dostanu vnejsiIP:port normalne, je udelany jen
+portforward na vnitrni adresu kamery.
+ 99998
+17.11.2012 10:42:07
+Charles:
+Ano, da se tomu rikat na hrani si, ale spis to mam na praci. Neni to na zadny
+web s tisici navstevniku. Je to jen pro me, pro rodinu a pak jeste zhruba 30
+dalsich konkretnich uzivatelu. Pripojeni je postacujici a funguje jen s malymi
+problemy. (Jednou za pul az za rok je vzdy nejaka porucha vedeni nebo
+kratkodobejsi vypadek, protoze poskytovatel pripojeni neco pokazi. To vzdy
+nastve!) Ale zatim takove pripojeni pro nase ucely staci.
+ johnb
+17.11.2012 10:32:39
+a kdo si hraje nezlobi
+ wwwadsl
+17.11.2012 10:27:29
+Provozovat server/doménu na ADSL přípojce, která nic negarantuje, nemá
+dostatečný upload je jen hraní si.
+ _C_h_a_r_l_e_s [Muž]49 [Kategorie]
+17.11.2012 10:23:12
+Je to HUAWEI HG622u.
+ johnb
+17.11.2012 10:17:37
+fdskj:
+Wow, seš machr. Podle popisu na wikipedii NAT tracersal vypadá, že s tím hodně
+souvisí a nebo, že je to přesně ten problém. Zatím se mi ani nepovedlo
+zjistit, zda to muj modem ma nebo umi. Je to HUAWEI. Presny jmeno zatim ale
+zjistuju. Pokusim se poctit ten modem mou fyzickou navstevou za chvili napisu,
+co jsem zjistil.
+[Smajlík]
+ johnb
+17.11.2012 09:34:59
+Ted jsem jeste nasel. Zkus se podivat jestli to nema funkci NAT tracersal.
+---
+The problem you are getting is that the router does not have NAT traversal
+enabled. If you want to connect to your server from inside the network you
+will need to enable NAT traversal (if it is an option)
+---
+ fdskj
+17.11.2012 09:30:11
+Pokud máte někdo doma Zyxel tak ho rouvnou vyhoďtě z okna...
+[Smajlík] [Muž]29 [Kategorie]
+ _I_k_a_S_G_C
+17.11.2012 09:23:26
+zyxel co jsem mel na ADSL to neumel, ted mam comtrend na VDSL a taky to neumi.
+Koupil jsem cisco - linksys a no problem.
+ dsads
+17.11.2012 09:20:53
+nebo si dej do toho C:Windowssystem32driversetchosts domena.cz ,ale s IP
+adresou 10.0.0.50
+ fdakjl
+17.11.2012 09:20:07
+fdakjlj:
+Fakt? V tom pripade jsem mel uz blbe ADSL modemy 2.
+Myslel jsem ze se treba jen musi nastavit staticke routovani nebo tak neco.
+[Smajlík]
+ johnb
+17.11.2012 09:18:18
+je to blbej adsl modem. kup neci jineho a bude fungovat
+ fdakjlj
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+

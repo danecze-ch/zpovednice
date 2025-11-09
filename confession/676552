@@ -1,0 +1,252 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+   Otázky - Vzkazy č.676552, vloženo _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+   17.11.2012 19:39:32               _s_t_r_á_n_k_a_]
+   Vykreslování na webu
+   Dobrý den,
+   potřeboval bych vědět, v čem vykreslovat .NET (ASP) real-time hru. V čem
+   třeba vykresluje BigPoint? Chápu, že používají nějaké herní engine, či
+   tak, ale mně jde o tu technologii. Nebo něco přímo pro IIS, či ASP.
+   Děkuji.
+    Samms [Muž]17  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+18.11.2012 19:13:29
+http://www.devbook.cz/diskuzni-forum-html-php-ajax-javascript-css/asp---xap-
+do-html5--aspx - --50a8ce2e95067 -
+ Samms
+18.11.2012 19:08:48
+Tak mám menší problém - přidal jsem XAP:
+
+http://www.devbook.cz/diskuzni-forum-html-php-ajax-javascript-css/asp---xap-
+do-html5--aspx - --50a8ce2e95067 -
+
+Ale zobrazí se mi jen bílá plocha - přitom v Main.xaml mám button... Co vše
+potřebuji kromě přidání XAPu? A co vše mám publikovat - jen XAP? Děkuji.
+ Samms
+18.11.2012 11:59:38
+Samms:
+
+"proč bych měl hráče ovládat na serveru"
+Tak mas tyhle moznosti jak se bude lod ovladat,
+
+A) hrac klikne a ty posles zpravu se smerem kam se chce pohnout (o jedno
+policko), na serveru se ulozi posledni cas kdy se pohnul a nedovolis mu tuhkle
+zpravu posilat moc casto
+
+B) hrac klikne nekam daleko a lod popluje na ty souradnice, v tom pripade
+budes muset u vsech klientu a i na serveru posouvat lodi
+
+
+
+
+
+Osobne kdybych to delal tak to udelam v javascriptu a craftyjs + nodejs a
+socket.io, tim bych mel vyreseny cely propojeni pres websockety (aji s
+fallbackem pro prohlizece co je nemaji) a i velkej kus herniho enginu
+ _S_o_s_a_r_i_a_n [Muž] [Kategorie]
+18.11.2012 09:54:27
+Hups - SilverLight je prakticky WPF na webu - tedy je to spíše opačně - WPF je
+web na Desktopu, ale prostě parráda... :) Já jsem viděl nejspíše nějaké
+nevhodné ukázky - protože to takto vůbec nevypadalo - s tímto si rozumím
+dokonale - takže opravdu děkuji. Navíc jsem konečně našel funkční WebSocket
+knihovnu - takže jedu přes WCF a SilverLight hostuji v ASP - což přináší
+možnost posílat si Modely, navíc SilverLight hostuji v Ajaxovém formuláři,
+takže mohu bez problému využívat Controller - ovšem pokud to bude drhnout, tak
+se smířím s náročnějším řešením - WebSockets...
+ Samms
+18.11.2012 07:02:58
+Teď si uvědomuji - proč bych měl hráče ovládat na serveru? To přemýšlíš nějak
+moc složitě. Vždť použiji JS... Na server budu posílat žádosti o zápis do DB,
+validovat vstup, atp...
+ Samms
+17.11.2012 23:15:30
+Tak napsat si server mi nepřijde pro mě reálné... :) Jak píši - Timery? Dnes
+končím... :)
+ Samms
+17.11.2012 22:56:05
+Samms:
+No praveze na IISu nic takovyho mit nebudes, proto rikam ze bych si udelal
+vlastni server, kterej ma normalni nekonecnou smycku kde se deji veci.
+
+Ale jak rikam, jde o to jestli tohle vubec potrebujes, protoze napsat si
+vlastni server taky neni jen tak :)
+
+
+
+Jestli vse funguje na to ze hrac udela nejakou akci, tzn klikne na sipku, lod
+se pohne o policko, klikne na lod, lod vystreli - tak to udelas vklidu tak jak
+si to chtel.
+
+ale jestli tobude tak ze nekam kliknes a lod se tam pomalu pohybuje, nebo
+kliknes a lod dokola strili, jen do urcite vdalenosti ci tak neco, tak to bude
+vetsi problem
+ _S_o_s_a_r_i_a_n [Muž] [Kategorie]
+17.11.2012 22:51:47
+Chci to, co je v Seafight. Potkávat hráče, spojovat se s hráči. Napadat
+hráče... Na moře přidávat nejrůznější kraviny - aby hráči měli co sbírat,...
+Já nemám vůbec nic, takže není žádný můj způsob... :) Právěže teprve zjišťuji
+co a jak... V XNA bych dělal jen v Update a Draw... :) Neumím si ale
+představit cyklus na serveru - to spíš Timer - ne?
+ Samms
+17.11.2012 22:46:11
+Samms: Otazka je jak moc realtime to chces mit.
+
+Jestli se ma na serveru odehravat neco co je nezavisle na uzivatelich, treba
+ze kazdych 10 sec se vytvori tornado na mori, tak tohle nemas v tom svym
+zpusobu implementace jak udelat ne? Chces tam takove veci?
+ _S_o_s_a_r_i_a_n [Muž] [Kategorie]
+17.11.2012 22:41:51
+No nejsem si jist, co tím myslíš, ale právě jsme aktualizovali IIS, kde právě
+tuto technologii máme. Ale co vím, tak by mělo být jedno, kterým jazykem budu
+sockety ovládat... Je tedy IIS to co jsi myslel? WCF již založené mám, ale jak
+jsem psal -jsem Desktop programátor - takže jsem žádné sockety nikdy
+nepoužíval - nějaký pěkný tutorial? - když nevím, co přesně hledám, mohl bych
+si nají pěknou kravinu... Děkuji.
+ Samms
+17.11.2012 22:35:24
+Samms:
+Ne nepotrebujes, kdyz budes mit vlastni C# server, tak websockety jsou jako
+normalni sockety. A WCF umi s websocketama delat taky.
+ _S_o_s_a_r_i_a_n [Muž] [Kategorie]
+17.11.2012 22:30:38
+Já bych rád, ale nemám Win. 8, a ten pro .NET k ovládání WebSocketu na serveru
+potřebuji...
+ Samms
+17.11.2012 22:22:01
+Samms:
+
+Nevim presne jak seafight funguje, ale vem si ze kliknes na nejaky misto na
+mape a budes chtit aby tam lod plula.
+Co udelas na serveru? Kdyz nebudes mit server kterej ma nejakou smycku ve
+ktere muze postupne menit pozici lodi, tak budes muset ulozit za jak dlouho ma
+doplout kam, a kdyz na ni nekdo bude chtit strilet tak budes muset
+prepocitavat kde je v tom case
+
+
+"Chtěl jsem dělat přes WebSockety, ale bylo mi řečeno, že ten Ajax funguje
+dost obdobně"
+No tim bych si nebyl tak jistej, osobne bych to urcite delal pres websockety,
+uz jen kvuli tomu ze ajaxem to funguje tak ze to dela porad zbytecny requesty,
+a vzhledem k tomu ze je to realtime hra by to muselo delat requesty uplne
+porad
+ _S_o_s_a_r_i_a_n [Muž] [Kategorie]
+17.11.2012 22:15:38
+A to, že by se pomocí IIS, či ASP nástroje kreslilo na serveru - to vím - ale
+dělám s Ajaxem. Prý může být dostatečně pružný. Chtěl jsem dělat přes
+WebSockety, ale bylo mi řečeno, že ten Ajax funguje dost obdobně a když je tak
+snadné s ním dělat v ASP...
+ Samms
+17.11.2012 22:08:50
+Web mám již hotový - a to v MVC - a s Ajaxem. Opakuji nejsem začátečník -
+jinak by si mě na to nenajali... :) JS ovládám dokonale. Pomocí JS tedy spojím
+web s herní částí... No a pomocí AJAXu budu volat akce na Controller, kde již
+tak na půl hru spravuji. Udělal jsem si několik modelů - nemyslím teď MVC, ale
+XML soubory - s cenami atp. A XML také hodlám použít jako prostředek, ze
+kterého budu tahat veškeré texty. Bude pak stačit mít více XML jazykových
+souborů, se stejnými tagy a jazyky budu měnit pomocí přepínání URL, ze které
+budu tahat daný XML soubor... Změna jazyka se pošle jako Query string, ale
+dále změním CultureInfo, takže nebudu potřebovat více domén... Nechápu tě, co
+jsi myslel tím, že nevyužiji ASP - protože i bez MVC - šňůra - to bude ASP...
+:)
+ Samms
+17.11.2012 21:59:09
+Samms:
+Tak silverlight, bude asi nejlepsi jestli se nechces vic ucit javascript
+(typescript, dart, coffeescript)
+
+Server ale budes muset nejspis udelat v C#. ASP, tady nejspis na nic
+nevyuzijes...
+ _S_o_s_a_r_i_a_n [Muž] [Kategorie]
+17.11.2012 21:25:32
+Pak tedy vidím budoucnost v tom Silverlight. :) Jedná se o hru podobnou typově
+Seafight... Děkuji za pomoc.
+ Samms
+17.11.2012 21:20:50
+samms:
+"Flash je téměř mrtvá technologie."
+No ja myslim ze porad zije, i kdyz osobne bych s tim nic nedelal
+
+
+"Canvas na Real-Time hru, kde počítám s tisíci hráči na herní mapě"
+Jelikoz canvas zvlada Quake2 tak myslim ze s timhle neni problem.
+Ale nechapu co myslis tim tisic hracu na herni mape, myslis ze hrac vidi 1000
+hracu zaras? Protoze zadnou takovou hru snad ani neznam.
+
+
+"Ocenil bych práci podobnou s DirectX"
+S novym silverlightem jde delat podobne jako s xna, ktery ma podobny rozhrani
+jako directx11
+
+
+"Našel jsem několik vykreslovacích nástrojů pro IIS, či ASP"
+Nic takoveho pro delani her neni a ani byt nemuze IIS aji ASP je na serveru,
+takze pokud nechces na serveru vykreslit obrazek a pak ho rozesilat klientum,
+tak ti tohle nijak nepomuzes
+
+
+Kdyz mi napises co chces priblizne udelat za typ hry, muzu ti rict jaky
+technologie se na to nejlip hodi.
+ _S_o_s_a_r_i_a_n [Muž] [Kategorie]
+17.11.2012 21:08:55
+Flash je téměř mrtvá technologie. Nejsem začátečník - .NET mám prolezlé skrz
+na skrz, takže o Silverlight jsem uvažoval. Dále také o XHTML - SVG. Webová
+část je v ASP, být to tedy jako Travian, o vykreslování bych tu teď
+nedebatoval... Se Silverlight přecijen nemám moc zkušeností a Canvas na Real-
+Time hru, kde počítám s tisíci hráči na herní mapě - to asi ne... :) Našel
+jsem několik vykreslovacích nástrojů pro IIS, či ASP, ale netuším, zda jsou
+vhodné, proto jsem napsal sem. Ocenil bych práci podobnou s DirectX - jelikož
+jsem Desktop programátor. Ale při nejhorším hold ztratím čas a projdu si
+Silverlight. S SVG bude asi hodně práce - řekl bych... :)
+ samms
+17.11.2012 20:55:03
+Většina více interaktivních her je ve flashi, čistě v ASP.NET, ci PHP uděláš
+maximálně tak něco typu Travian nebo Red Dragon, Melior Annis, tzn spis
+spoustu statistik a po kliku na něco se něco stane - samo od sebe se toho moc
+neděje.
+
+Pro realtime hru jsou moznosti Flash, Silverlight nebo javascript (html5,
+canvas)
+
+Silverlight jde psát v .net jazycích, takže to pro tebe asi bude nejlehčí
+ _S_o_s_a_r_i_a_n [Muž] [Kategorie]
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+

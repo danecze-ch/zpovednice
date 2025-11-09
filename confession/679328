@@ -1,0 +1,136 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+Diskuze č.679328, vloženo 27.11.2012 19: _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+48:13                                    _s_t_r_á_n_k_a_]
+Internet - kabel zapojen, síť odpojena
+Zdravím,
+
+kamarádka má takový problém s internetem, že i když má zapojený síťový kabel,
+tak jí nejde internet. PC měla dlouho odstavený kvůli poruše a tak používala
+notebook a teď, když je PC v pořádku, tak jí zkrátka nejde připojit.
+
+
+Má operační systém XP
+
+Po zapojení síťového kabelu do konektoru jí PC hlásí, že síť je odpojena
+(stejně jako když ho odpojíte).
+
+IP jsou v pořádku, takže v nich by to nemělo být, protože by jí to přeci mělo
+hlásit, že je síť připojená, ale neměla by přístup k internetu.
+
+Internet je funkční, protože jsme to zkoušeli na jejím notebooku.
+
+
+Budem vděčni za každou radu :-)
+ _O_s_t_r_a_v_á_k_C_Z_E [Muž]18 [Kategorie]  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+27.11.2012 22:26:14
+Děkuji všem :-) hned jak bude možnost, tak to u kámošky vše ozkouším. Problém
+bych asi opravdu viděl v té síťové kartě, protože v kabelu problém určitě není
+a limitovanou přípojkou si myslím také ne.
+ _O_s_t_r_a_v_á_k_C_Z_E [Muž]24 [Kategorie]
+27.11.2012 21:29:23
+co tady ještě nebylo zmíněno...někteří poskytovatelé mají přípojku limitovanou
+na určitou MAC adresu...je možné že se změnilo, když se připojoval notebook a
+teď se to zapomnělo vrátit... nejlépe se podívat někam do smlouvy nebo prostě
+nějakýho papíru k té vaší přípojce
+ _Z_a_r_c_o_n [Muž]41 [Kategorie]
+27.11.2012 20:56:38
+Pegasis: na to si už asi stáhnul ten program, který jsem mu posílal.
+Předpokládám, že první, co ho napadlo, tak zkontrolovat kable a nechat je
+chvilku vytažené.
+[Smajlík] [Muž]30 [Kategorie]
+ _s_u_v_u_r_o_v
+27.11.2012 20:54:38
+jak funguje notebook ? pres wifi ? ci po tom samem kabelu ?? chce to
+podrobnejsi info...
+
+0) kontrola nastaveni sitovky (jeste neco o tom nastaveni) - jestli mas
+router, tak ma bejt nastaveno vse na autonastaveni... a vse se pise do
+routeru.. ale to nebude ten problem kdyz to neukazuje nic ..
+
+1) kontrola kabelu .. pokud mas router, tak koukni na indikacni diodu prenosu
+dat.
+popripade restartuj router od napajeni. ze zacatku do notase prdni tenhle
+kabel, abys zjistil jestli je problem venku, nebo v pc
+
+2) pokud internet pujde pres tenhle kabel, tak problem je v PC, pokud ne, tak
+je problem venku a zkus do routeru pokud mas dat jinej RJ45 konektor s kabelem
+a odzkouset s notasem. kdyz to pujde, tak je to kabelem, pokud ne, tak je
+chyba treba na vystupu routeru, muzes zkusit i jine vystupy.
+
+3) pokud je to tim pocitacem viz bod 2.. tak do pc hod jinou sitovku.
+ lixi
+27.11.2012 20:45:57
+Napadlo by mě restarovat modem, či router nebo co používá. Vyndat ze zásuvky,
+nechat 30 vteřin a znova zapnout. Já takhle taky dřív přehazovala net z PC do
+notebooku.
+
+
+Ale jsem jen ubohá žena, co já vím o technice.
+[Smajlík]
+ Pegasis
+27.11.2012 20:14:06
+Předpokládám, že funční NTB, kde internet běží připojuješ stejným způsobem
+jako přes PC - tedy kabelem. Chybu v kabelu (která je velmi častá) lze pak
+vyloučit.
+
+
+Teda:
+1 - zkontrolovat funkčnost kabelu na jiném PC
+2 - program WinSockFix
+3 - antivir. program Bitdefender
+4 - preinstalace systemu
+5 - vymena sit. karty
+
+To by bylo, pak aby nefungovalo ;)
+ _*_m_a_t_o_u_c_h_* [Muž]44 [Kategorie]
+27.11.2012 19:59:25
+Nazdar. Použij WinSockFix.
+
+_h_t_t_p_:_/_/_w_w_w_._a_n_t_i_v_i_r_o_v_e_c_e_n_t_r_u_m_._c_z_/_n_a_v_o_d_y_/_w_i_n_s_o_c_k_f_i_x_._a_s_p_x
+ _s_u_v_u_r_o_v [Muž]30 [Kategorie]
+27.11.2012 19:59:24
+Vyměnit síťovou kartu, je to investice kolem 100 korun...
+ _N_e_u_t_r_i_n_o [Muž]26 [Kategorie]
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+
