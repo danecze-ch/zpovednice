@@ -1,0 +1,136 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+Diskuze č.613888, vloženo 30.03.2012 15: _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+16:01                                    _s_t_r_á_n_k_a_]
+Dynamická IP adresa?
+Provozovatel internetu mi mění čas od času ip adresu, většinou při restartu
+modemu, málokdy mi zůstane stejná ip adresa déle než tři čtyři dny (za
+předpokladu, že každý den modem zapnu a s ním i počítač). Tohle platí ale jen
+při použití Windows.
+V Linuxu mi zůstává ip adresa pořád stejná. Když restartuju počítač, naběhne
+Windows, mám ip adresu zase jinou, když pak při bootu vyberu Linux, mám ip
+adresu zase tu, kterou jsem měl při pooužití Linuxu předtím.
+Můžete mi vysvětlit, jak je to možné? Děkuju.
+ Nechápající [Muž]19  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+30.03.2012 19:28:18
+vf38exfzp:
+Nerozumím tomu, to jsi určitě pochopil, z toho co jsem napsal :-)
+Ale kdyby to bylo tak jak píšeš, tak mi stále zůstává ip adresa viditelná
+zvenčí, ne? Ale když jsem třeba tady dostal od nějakých sviní banán, tak jsem
+jen vypnul připojení k síti a za minutu jsem mohl zase řádit.
+ Nechápající
+30.03.2012 19:07:25
+Tohle s poskytovatelem nejspis nijak nesouvisi, meni se jen tvoje adresa v
+lokalni siti za NATem, pridelena od routeru/modemu. Duvod uz tu byl vysvetlen
+- rozdily v nastaveni DHCP klienta, mozna i jeho naprosto rozdilna funkce - m$
+se obecnymi standardy moc neridi, vsechno delaji po svem.
+ _v_f_3_8_e_x_f_z_p [Muž]39 [Kategorie]
+30.03.2012 19:06:25
+kašli na to:
+Z toho co jsem si přečetl (moc toho nebylo, mě to nebaví) jsem pochopil, že by
+se tak stát mělo.
+Jestli jsem to pochopil špatně, tak jsem ještě větší pitoma než jsem si myslel
+:-)
+ Nechápající
+30.03.2012 19:03:26
+kašli na to:
+Mě jen zajímá, jestli se mi někdy změní tak, jako se mění, když používám
+Windows. Abych si vymáčkl beďara nebo odstranil třísku nepotřebuju studovat
+medicínu :-)
+ Nechápající
+30.03.2012 18:45:48
+_h_t_t_p_:_/_/_l_i_n_u_x_._d_i_e_._n_e_t_/_m_a_n_/_5_/_d_h_c_l_i_e_n_t_._c_o_n_f_ 
+_h_t_t_p_:_/_/_l_i_n_u_x_._d_i_e_._n_e_t_/_m_a_n_/_5_/_d_h_c_p_-_o_p_t_i_o_n_s_ 
+Ryby nerozdávám, jen ukazuji kde berou. Buď tě to zajímá a načteš si to, nebo
+si někoho pozvi (nevím kdo ti nakukal, že správa OS nebo síťařina je práce pro
+amatéry), nebo opravdu:
+ kašli na to
+30.03.2012 17:41:08
+KundoZrak:
+Vůbec ne, jsem běžný uživatel. Ne všechno funguje ve Wine k mé spokojenosti.
+Proto občas nabootuju Windows.
+ Nechápající
+30.03.2012 17:33:10
+jsi snad programátorka?
+ KundoZrak
+30.03.2012 17:30:59
+KundoZrak:
+Můžeš.
+Ale rovnou ti odpovím, ať ušetříme čas :-)
+Protože využívám obou. Linux víc, ale na něco se mi hodí více Windows.
+
+Co znamená DHCP jsem zjistil, ale jak funguje v praxi, zjednodušeně, moc ne :-
+)
+Spíš bych chtěl vědět, jestli se mi někdy změní ta adresa v Linuxu. Ty Windows
+jsou dost děsivý, teda.
+ Nechápající
+30.03.2012 17:11:02
+Nechápající:
+Mohu se tě zeptat jak to že používáš linux a Windows současně, ty si nějaká
+fanynka linuxu nebo co? DHCP Přece zamená Dynamic Host Control Provider.
+ KundoZrak
+30.03.2012 16:21:53
+No v Linuxu se dá nastavit jaká IP adresa z DHCP serveru má být
+upřednostňovaná.
+Ale jinak netuším, pokud to neni nastaveno.
+ _*_m_a_t_o_u_c_h_* [Muž]44 [Kategorie]
+30.03.2012 16:01:49
+Barbánek:
+Protože mě to zajímá, kundiči.
+
+kašli na to:
+Díky. Copak já vím, co je to dhcp? :-D Já su pitoma :-)
+Ale i přes rozdílnost by se u Linuxu ta adresa změnit měla, stejně jako u
+Windows, ne? Když vypnu na nějaký čas modem nebo nebudu Linux vůbec používat.
+ Nechápající
+30.03.2012 15:22:25
+rozdílná nastavení dhcp klientů v linuxu a winblows
+_h_t_t_p_:_/_/_g_o_o_g_l_e_._c_o_m_/_s_e_a_r_c_h_?_q_=_d_h_c_p_+_l_e_a_s_e_+_r_e_n_e_w_a_l
+ kašli na to
+30.03.2012 15:20:57
+Co je ti do toho? Tebe snad může zajímat, jestli ti net funguje nebo
+nefunguje, ale do toho jakou máš IP se neser.
+[Smajlík]
+ Barbánek
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+

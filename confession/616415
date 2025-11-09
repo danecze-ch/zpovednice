@@ -1,0 +1,140 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+   Otázky - Vzkazy č.616415, vloženo _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+   08.04.2012 18:49:00               _s_t_r_á_n_k_a_]
+   Někdo přes PC ?
+   Je tu někdo zběhlejší v počítačích ? Akutně bych potřeboval pomoc s
+   tímto obrázkem - http://imageshack.us/photo/my-images/718 /
+   beznzvuxi.png/
+
+   Nejsem si jistý zejména u toto popisu, moc by mi pomohlo, kdyby se na to
+   někdo kouknul. Kdyžtak můj mail - hadil.ali@seznam.cz
+    PChelp E-MAIL: _h_a_d_i_l_._a_l_i_@_s_e_z_n_a_m_._c_z  [Muž]21  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+08.04.2012 22:14:45
+tak neco sem ti dopsal do mailu .. je lepsi kdyz si to najdes na netu a mas to
+rozsahle,presnejsi, rozumnejsi atd.. no zkpcim to i sem no.. nejaky pikacoviny
+sem sepsal rychlo.. neni to podrobne, ale melo by to stacit.. ale pro
+vysokoskolaky to budou chtit asi vic rozsahle a jinak...
+
+
+
+
+
+1) patice na CPU= procesor .. kazdej typ patice snasi urcity typy cpu.. driv
+se cpu davali primo na zakladni desku bez patice
+2) PCI slot, slouzi jako "externi" reseni chybejicich soucastek, pokud deska
+nema grafiku,sitovku,blootov,wifi, ci jiny zarizeni, tak se tyto hardwary
+delaji na desky, ktere se zasunuji na tenhle typ patice..
+3)PCIexpres x1 a agp/ PCIexpre x16slot sloty pro grafiky
+4)chladic
+5)sloty na ram pameti
+6)patice do kterych se zapojuji B) pevne disky,mechaniky A) patice pro
+disketovou jednotku C) sata patice pro novejsi typy disku a mechanik
+7) patice ruznych napajeni ze zdroje do zakladni desky
+8)chipset desky
+9)nejaky typ mikroprocesoru( nejaky brabouk), v nejakym je ulozen bios, ale
+nevim jestli v tomhletom primo..
+10) biosova baterka - hlida nastaveni hardwaru v biosu
+11) vselijaky vystupy a vstupy.. rs232,serialport,sitova karta,grafika a
+jine... vsemozny datovy vstupy/vystupy
+
+otazky:
+1) a) zdroj napaji zakladni desku a obsahuje spinac, kterym se zapina... mensi
+typy konektoru je jen na napajeni ostatnich soucastek - disky,grafiky,
+mechaniky atd..
+
+b) zakladni deska slucuje hlavne ALU ( aritmeticko pocetni jednotka
+(cpu,ram,radic)) a ostatni komponenty.. obsahuje nahranej bios...podrobnejs
+netreba psat u desky.. bios, kter je na nem nahranej nastavuje nastaveni
+hardwaru= datum-cas,taktovani cpu-ram , bootovaci sequence, zobrazovani
+pripojeneho hardawu atd..
+
+c) grafika - vytvari obrazovy signal a zobrazuje do vystupu pro dalsi
+zpracovani (monitor). obsahuje chladic a vlastni procesor..
+
+d) pamet ram - je to pamet s primim pristupem, je to pamet urcena pro
+cteni,vymaz a zapis, pamet energeticky zavisla,staticka a i dynamicka... typy
+: sram,dram ... v pc oznacujou sdram,ddr1,ddr2,ddr3... pracuje s procesorem,
+je to zasobarna zpracovanych dat procesorem..
+
+e) vsecky pritoky,odtoky a komunikkaci mezi jednotkami ridi radic = mezi ALU a
+vystupama a vstupama..
+
+f) hardisk - je to energeticky nezavisla jednotka sklada se z magneticke casti
+a el ovladaciho plosnacku.. typu disku je vice jen jen tenhle.. slouzi pro
+ulozeni informaci..
+g) mechanika - je to pamet ROM--> prom,eprom,eeprom,flash .. je energeticky
+nezavisla.. no proste cte data z mediich (cd/dvd) a komunikuje pres radic
+(pres desku) s ostatnima soucastkama...co s mechanikou delat si umis
+predstavit..
+
+h) ruzne vstupy/vystupy usb-datovy tok, rs232-pomalejsi datovy tok, zvukovej
+vstup -mikrofon , zvuk vystup- repro,zvukovy vstup/vystup= hdmi, serialport-
+datovy tok , vstupy pro mys a klavesnici jak pres usb tak ps2.. no atd.. to
+vis co to dela...
+
+ch) sitova karta - ma v sobe vstup pro kabel Rj45.. nastavuje
+ lixi
+08.04.2012 20:29:43
+Popis se mi nechce pisu z mobilu ale zkusime to je to bez zaruky: patice na
+procesor, pci, asi pci express, chladak, pamet sloty, 6ab,7,8,9 nevim (8 by
+moh bejt cip grafiky), 10 baterka, 111 ruzny sloty audio vystupem pocnake,
+naky usb atd. Nejlepsi by bylo najit nekde na to obrazku typ ty desky a tu si
+pak vyhledat.
+
+Bios je software, jakejkoliv procesor umistit nelze, co se tyka zapisu na disk
+tak zalezi jakej disk mysli, u klasickejch disku je magnetickej zapis ale u
+ssd disku to neplati. Zaznamova media: cd,dvd,disketa,derne stitky ;), lto,
+ait,dlt,sdlt,dat,magstar(pasky), externi ssd a klasicke disky, ruzne flash
+pameti, magneto opticke disky worm urcene pro archivaci... Predpokladam ze vas
+ucitel si slozil svoje vlastni pc a je na to patricne hrdej
+[Smajlík]
+ od veldrane
+08.04.2012 19:59:39
+zkus to spíš tady - _h_t_t_p_:_/_/_p_c_._p_o_r_a_d_n_a_._n_e_t_/
+ 1010110
+08.04.2012 19:02:14
+Oprava odkazu - _h_t_t_p_:_/_/_i_m_a_g_e_s_h_a_c_k_._u_s_/_f_/_7_1_8_/_b_e_z_n_z_v_u_x_i_._p_n_g_/
+ PChelp
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+
