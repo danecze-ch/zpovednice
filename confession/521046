@@ -1,0 +1,137 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+   Otázky - Vzkazy č.521046, vloženo _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+   13.04.2011 15:31:03               _s_t_r_á_n_k_a_]
+   E-mail
+   Zdravím,
+
+   mám takový dotaz. Dejme tomu, že přes program Ek mail Bomber pošlu e-
+   mail, ve kterým dám fiktivní e-mailovou adresu. Následně by se policie
+   pokoušela zjistit, kdo e-mail poslal. Myslíte, že mají nějakou šanci
+   zjistit IP a poté identitu odesílatele ?
+
+   Toto je hlavička e-mailu :
+
+   Reply-To: gfgfd <unknow@unknow.com>
+   X-Spam-Checke r-Version: szn-spamassassin 2010-10-26
+   X-Spam-Status: score=-8.1
+   X-Esetresult: clean
+   Received: from ic04.ic.cz (ic06.ic.cz [88.86.103.250])
+   by email-smtpd-v1.go.seznam.cz (Seznam SMTPD 1.2.15-3@16648M) with
+   ESMTP;
+   Tue, 12 Apr 2011 17:20:46 +0200 (CEST)
+   Received: by ic04.ic.cz (Postfix, from userid 33)
+   id 43921813F41; Tue, 12 Apr 2011 17:21:40 +0200 (CEST)
+   Icxclient: /home/free/howto.cz/d/dfgdfgsfgsdfgsdf/r oot/www
+   To: xxx@seznam.cz
+   Subject: dfsdfsddsfe
+   From: gfgfd <unknow@unknow.com>
+   X-Priority: 1
+   Content-Type: text/plain; charset='windows-1250'Return-Path: <>
+   Message-Id: <20110412152140.43921813F41@ic04.ic.c z>
+   Date: Tue, 12 Apr 2011 17:21:40 +0200 (CEST)
+   X-Smtpd: 1.2.15-3@16648M
+   X-Session: 740
+   X-Country: CZ
+
+   Myslíte, že je to možné nějak zjistit ? Jo a ta IP co se v té hlavičce
+   nachází není moje.
+
+   Díky
+    vcvvbvbx [Muž]18  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+13.04.2011 17:15:55
+Svůj příspěvek jsi vložil(a) do nespravné kategorie. Bylo provedeno přesunutí.
+V případě opakování hrozí blokování vstupu na portál. Prosím zvol příště
+správnou kategorii. Děkujeme za pochopení.
+[Smajlík]      [Muž] [Kategorie]
+ _A_d_m_i_n_i_s_t_r_á_t_o_r
+13.04.2011 16:11:56
+Email je velmi stary protokol z dnesniho pohledu velmi spatne navrhnuty.
+Jedine co nelze v emailu podvrhnout je IP adresa posledniho stroje, ze ktereho
+byl email odeslan primacimu serveru, cehoz vyuzivaji spameri.
+Nevim jak funguje Ek mail Bomber ale pokud by ten program posilal rovnou jen
+pres tvuj PC, tak se u kazdeho emailu objevi tvoje IP adresa. Spousta ISP ale
+email provoz presmerovava na svoje servery kvuli spamu a v tom pripade se ti
+ani nepovede odeslat nejake vetsi mnozstvi emailu. Kazdopadne tvoje IP by tam
+byla a policie se muze dotazat tveho ISP komu ktera IP adresa momentalne
+patri. Tohle dela policie v CR naprosto bezne pokud dostane dukaz od nejake
+protipiratske organizace ze nekdo sdilel warez. U emailu nevim, zalezi asi co
+by v tech emailech bylo.
+Pokud by Ek mail Bomber posial emaily pres nejakeho prostrednika v tomto
+pripade vidim ic04.ic.cz (ic06.ic.cz [88.86.103.250]), tak si myslim ze ti
+tento ani nejaky dalsi server nepovoli posilat vetsi mnozstvi emailu, protoze
+maji restrikce kvuli spamerum. Kazdopadne ukladaji logy, takze pokud policie
+pozada ic.cz, tak ten jim zase rekne tvoji IP atd.
+Jedina moznost jak poslat mnoho podvodnych emailu je zpusob, jak to delaji
+spameri. Zaviruji nekde v Cine spoustu (opravdu velke mnozstvi) obycejnych PC,
+z nich se stanou zombie, ktere na dalku ovladaji a posilaji pres ne spam.
+ asitak
+13.04.2011 15:49:18
+Mám to ověřené, samozřejmě. To že se na to Policie vys**e - pokud je to
+prkotina, tak jo, ale když jde o vyhrožování, vydírání čo podobné, tak na tom
+pracují a jakmile dá soud rozhodnutí, tak už jim to trvá chvíli. Bohužel - teď
+už žádné rozhodnutí soud nedá, takže virtuální pachatelé trestných činů mají
+zjednodušenou práci.
+ _C_o_c_k_r_o_a_c_h [Žena] [Kategorie]
+13.04.2011 15:48:46
+Znovu opakuji, IP 88.86.103.250 není moje...
+ fgffhg
+13.04.2011 15:47:02
+Received: from ic04.ic.cz (ic06.ic.cz [88.86.103.250]) = ANO...
+ haha54654
+13.04.2011 15:40:23
+Policie se na to především vys.... Pokud by po tom přeci jenom začala pátrat
+tak má docela slušnou šanci, že tě najde. Chtělo by to přes dva anonymní
+remailery na serverech ležících mimo jurisdikci EU, v případě, že se chystáš
+udělat opravdu velký průser tak i mimo další různé státy ochotné ke spolupráci
+v trestních věcech (CH, USA, ...). A ani tak to není stopro, pokud to budeš
+opakovat tak tě dostanou přes monitorování provozu apod.
+ _D_E_A_D_B_E_E_F [Muž]47 [Kategorie]
+13.04.2011 15:39:25
+Cocroach: Máš to prosím nějak ověřené, nebo jenom plácáš ? díky
+ jhjhjg
+13.04.2011 15:38:07
+Ano, jde to zjistit. V dnešní době lze zjistit a dohledat všechno-
+ _C_o_c_k_r_o_a_c_h [Žena] [Kategorie]
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+

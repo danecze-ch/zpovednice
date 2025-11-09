@@ -1,0 +1,263 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+   Otázky - Vzkazy č.530199, vloženo _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+   21.05.2011 02:24:37               _s_t_r_á_n_k_a_]
+   Pomalý HDD?
+   Mám takový menší problém s NB, bohužel si nemůžu už vzpomenout, jestli
+   mi to dělalo hned od té doby, co jsem si ho koupil, nebo až někdy
+   později, ale když sleduju třeba film, a dám si při tom kopírovat třeba
+   soubor o velikosti 700mb, tak se mi začne strašně sekat přehrávaný film,
+   a vůbec celý NB je uplně mimo a zpomalený... nestalo se vám to taky
+   někdy? Když kopíruju malé soubory tak to většinou nic nedělá, ale už
+   filmů a tak už je to hrozné.. jak na úsporný režim, tak na vysoký
+   výkon.. jinak nejsem si vědom, že bych s tím NB někdy nějak třísknul
+   nebo tak.. ani žádný zkrat nebyl.. je 1,5 roku starý.. asus.. dvoujádro
+   2ghz, 4gb ram, hdd 500gb.. nevíte co s tím? nedělá/alo vám to taky
+   někdy? Díky za odpovědi
+    Lennyson [Muž]21  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+22.05.2011 14:15:30
+Veldrane: No fíha, děkuju za věnovaný čas :-D velice poučené
+ Lennyson
+22.05.2011 12:55:48
+vetsi prioritu nez kopirovani fajlu. V tom pripade se ti sice soubor bude
+kopirovat 10x dele, nicmene dokopriuje se Ti pred koncem filmu a nehrozi jeho
+prehravani. V linuxu je to treba tzv nice, dale volba scheduleru pri
+kompilaci, ve windows bylo tohle ukryto nekde pod pravym tlacitkem v task
+manageru urciteho procesu - to jen pro info.
+
+3. Pro vyssi propustnost a rychlosti i/o operaci je mozne vyuzit tez nekterych
+raidu - typicky raidu 0. Raid 0 je slozen ze 2 a vice disku a data jsou
+rozdelena mezi vsechny disky. Pokud tedy budes mit RAID 0 ze 4 disku a budes
+cist z nej nejaka data pak teoreticky tato operace bude trvat 4x mensi dobu
+nez pri cteni ze samotneho disku (seek-time bude stejny - je to slozitejsi)
+
+4. Z vyse uvedeneho popisu je zrejme ze CPU vykon pocitace nema na vyse
+popsane zadny vliv. Navic CPU do datoveho toku takrka nijak nezasahuje. Pouze
+oznami radici co chce prenest a ten mu pak zpet oznami ze je preneseno.
+
+5. Fragmentace disku (fs) zalezi na spouste veci
+- na typu filesystemu
+- na zaplneni fs
+
+6. Pokud kopirujes data z na jinem disku nez prehravas melo by to byt ok.
+
+7. Na disku a v operacnim systemu se deje spousta dalsich veci nez jen
+operace, ktere delas a kterych si nemusis ani vsimnout. Napr. Ti muze bezet na
+pozadi antivirovy test, system muze tzv swapovat (odkladat pametove stranky na
+disk), popripade jina aplikace/process si muze na disk ukladat v te dobe sva
+data, zalohovat etc. Vsechny tyto akce maji za nasledek zatez disku a
+zpomaleni disk operaci.
+
+
+Jeste jednou se omlouvam za delku prispevku. Snazil sem se v nem shrnout
+nektere aspekty co me napadly k tehle problematice, spousta z nich je
+definovana do zmatene a nepresne a coz se omlouvam :). Nektere veci sem
+vynechal (napr rotational delay, velikost prenaseneho bloku atd) pac bych to
+moh psat jeste do rana :).
+[Smajlík] [Muž]34 [Kategorie]
+ _V_e_l_d_r_a_n_e
+22.05.2011 12:34:14
+Ok tak trocha teorie a trocha uvah - bude to delsi. Je to tema, ktere me tak
+nejak zajima
+
+Klasicky disk se chova trochu jako nekolik gramofonovych desek nad sebou. Data
+jsou ulozena ve stopach, ktere jsou cteny hlavickami. Pokud ctes jakakoliv
+data, hlavicka se nejdriv musi nastavit na prislusnou startovaci pozici dat a
+pak teprve zacit cist/zapisovat. Logicky nez k teto akci dojde ubehne nejaky
+kdy disk nezpracovava zadna data kdy vystavuje hlavicky na prislusnou pozici.
+Tomtu casu se nekdy odborne seek time a je zalezitosti pouze klasickych
+mechanickych disku (SSD seek time nemaji - je to konstrucni vec). Pokud budes
+mit data fragmentovana (tzn. soubor bude ulozen na vice ruznych pozicich na
+disku), pak nez se soubor precte, musi se hlavicka mnohokrat vystavit na ruzne
+pozice a tudiz bude cteni tohoto souboru bude mnohonasobne pomalejsi (seek
+time cele cteci operace se bude nasobit poctem ruzncyh pozici na disku) nez
+kdyby informace o souboru byla defragmentovana. V tomto davam soukmenovci
+zapravdu ze muze defragmentace pomoci.
+
+ALE: Pri prehravani filmu a kopirovani souboru naraz stejne dojde k narustu
+seek-time oproti zapisovym/ctecim operacim. Deje se tak, protoze operacni
+system (dale jen OS) se snazi k oboum uloham pristupovat stejne a davat jim
+stejne prostoru pri praci s diskem. Takze kdyz prehravas film a kopirujes, OS
+nejdrive precte malou cast souboru s filmem a preda ho prehravaci k prehrati.
+Pote se prepne k uloze kopirovani, ta precte cast jineho souboru, muse se tedy
+znovu vystavit hlavicky, dojde k seek a tim i k narustu casu kdy disk nic
+"nedela", precte se cast, znovu se vystavi hlavicky na pozici zapisu a kjde k
+zapisu. Pak se OS opet prepne na prehravani, opet dojde k vystaveni hlavicek,
+precteni dalsi casti souboru s filmem a tak porad do kola. K vystavovani
+hlavicek a ke zpomaleni operaci dojde tak jako tak fragmentace/nefragmentace.
+Pokud soubory bodou opravdu hodne fragmentovany pak muze uprostred cteci
+operace muze dojit k narustu seek-time (zde souhlas se soukmenovcem). Z toho
+vyplyva nekolik veci:
+
+1. Je nutne omezit cas kdy disk hleda informace
+- defragmentaci, ktera ale pri cteni takto velkych objemu dle meho nazoru
+nehraje zas takovou roli
+
+- velikosti souboroveho bufferu, bufferu (cache) disku, ktera ale opet nema
+pri takto velkych objemech (tady nesouhlas se soukmenovcem a jeho druhym
+prispevkem) vliv a nema velky vliv pri ctecich operacich (prehravani filmu).
+Cache u klasickych disku je dnes kolik 8mb ? 16 MB ? U velkych RAID poli se
+muze pohybovat v radove GB az desitky GB pro zajimavost a ma hlavne uplatneni
+pri zapisovych operacich. OS muze ma vlastni cache, ktera zavisi na nastaveni
+os a velikosti RAM.
+
+- zmenou technologie ktera nema tak veliky seek time, v tomto pripade treba
+ssd disky.
+
+2. U nekterych OS je mozne nastavit jinou prioritu tzv. (i/o) scheduleru pro
+urcite procesy (prehravni vs kopirovani). Jde o to ze treba v tvem pripade
+reknes, ze prehravani filmu ma 10x ve
+[Smajlík] [Muž]34 [Kategorie]
+ _V_e_l_d_r_a_n_e
+21.05.2011 23:10:46
+Lennyson: Na stolních počítačích jsou rychlejší pevné disky. Nejlepší jeho
+rada bylo nastavení cache v přehrávači. Defragmentaci přesto doporučuji,
+protože s ním nesouhlasím v tom, že by nemohla pomoci. Může v tom hrát také
+roli cache pevného disku, která může být i na "slabších PC" větší.
+ _s_o_u_k_m_e_n_o_v_e_c [Muž]29 [Kategorie]
+21.05.2011 22:54:12
+Veldrane: Zřejmě máš pravdu, ale proč to třeba lidem na slabších pc nedělá? I
+na mém hodně let starém stolním pc se dá kopírovat a přehrávát film zároveň
+bez problémů.. může to být tím, že mám prostě nějaký pomalý hdd?
+ Lennyson
+21.05.2011 22:34:31
+Hehe opravdu jsi me pobavil :)).
+
+Co jako cekas ? Ze takovou zatez ten disk ustiha ? Nejpomalejsi a
+nejvytizenejsi na cele soustave je prave ten disk. Je jedno jestli mas rychlej
+procesor, mraky ram (ktera teoreticky muze pomoct). Pokud ten disk, z jedne
+strany cte stopy filmu a z druhe musi kopirovat data tak proste nestiha
+dodavat data procesoru a vysledek je ten ze film se zpomali. Resenim je
+nastaveni dostatecne cache pri prehravani (treba 100MB, musi to umet
+prehravac) coz se projevi pri pomalejsim nacitani zacatku filmu. Jine reseni
+je pouziti treba ssd disku, kde odpada latence vystavovani hlavicky atd.
+Fragmentace Ti u takto vysokych objemu dat nepomuze. Pokud chcees vedet dalsi
+podrobnosti tak se o tom muzem pobavit u me na profilu.
+[Smajlík] [Muž]34 [Kategorie]
+ _V_e_l_d_r_a_n_e
+21.05.2011 18:15:07
+nevinna vina: RedTube je čistý. ;)
+ _s_o_u_k_m_e_n_o_v_e_c [Muž]29 [Kategorie]
+21.05.2011 03:28:09
+:-D Tak pujdu spat, no ty stejne cekas, ze ti sem konecne nekdo napise radu a
+vzdycky jsem to ja :-D. Nezoufej, uz je hrozne pozde, behem dne ti tady urcite
+poradi. Tak dobrou noc :-)*
+[Smajlík]
+ nevinna vina
+21.05.2011 03:25:22
+Raději ne, nechci mít na svědomí, že ti kazím "morálku" :-D
+
+***
+
+Jinak kdyby někdo ještě věděl jak mi pomoct s tím problémem prosím písněte
+ Lennyson
+21.05.2011 03:22:02
+:-D Jestli chodis na Redtube, tak je to docela mozny :-P No, tak mi sem hod
+aspon odkaz na neco sexy. Kdyz jsem nepomohla ja tobe, pomoz ty mne :-D
+[Smajlík]
+ nevinna vina
+21.05.2011 03:17:53
+Asi se můj NB stydí rozjet se naplno :-D
+
+Že by mi tam vlítnul nějaký kolega virus z těch lechtivých stránek na které
+chodím? :-D :-D áááále snad né :-D
+ Lennyson
+21.05.2011 03:14:52
+A nemuzes tam mit nejakej vir? Mne to delalo jen jednou, ale treba i Youtube a
+bylo to proto, ze jsem to dala do nejakyho divnyho rezimu, ale stahuju jak
+diva. No :-D jak diva 700 Mb za hodinu a pul :-D, ale cumim u toho na filmy
+normalka.
+ Nevinna vina
+21.05.2011 03:11:00
+Dělá to ve všech.. :-( zkusím tu defragmentaci a když to nepude pak.. tak mě
+napadá ještě nainstalovat další windows a jestli to v nich pojede normálně,
+tak je chyba v software tohodle win co mám teď, no a jestli to bude blbnout
+dál tak to nevím teda :-D leda tak něco v biosu nebo tak
+ Lennyson
+21.05.2011 03:06:24
+A dela ti to i s VLC? Nebo co mas za prehravac?
+ nevinna vina
+21.05.2011 03:04:52
+:-D A tak si trhni :-P Tak uz me nic nenapada. Ja jsem prave myslela, ze kdyz
+stahujes, ubira to nejakou pamet a ta pak zasekava ten film, kdyz je ji jinde
+malo, tak ze si to bere z toho Pc, ale ja jsem blondyna :-D.
+ nevinna vina
+21.05.2011 03:01:31
+nevinna vina: Aha aha, ne, Firefox nepoužívám, ale domnívám se, že s
+prohlížečem to nemá co dočinění :-D Nemyslím při prohlížení filmů na
+internetu, ale přímo v pc z harddisku :-)
+ Lennyson
+21.05.2011 02:57:42
+:-DUz jsem ti to nasla, ale doufam, ze mas Firefox, das si nahore Nastroje -
+> Moznosti-> Rozsirene moznosti -> Sit a tam mas vyrovnavaci pamet, ja tam mam
+700 Mb, puvodne to bylo hrozne malo, ale jestli je to tim, to nevim :-D
+ nevinna vina
+21.05.2011 02:51:08
+nevinna vina: ehm, dosti mlhavý popis :-D
+ Lennyson
+21.05.2011 02:47:16
+No :-D, nemas treba malou tu pamet? Jak je nastavena, sakra, jak se to
+jmenuje, jak mas nastaveny stahovani, tak tam je pamet, nemas tam maly cislo?
+:-)
+ nevinna vina
+21.05.2011 02:42:52
+soukmenovec: Defragmentaci jsem ještě nedělal.. díky za tip.. zkusím..
+
+nevinna vina: No právě, i brácha má o něco horší, ale prakticky stejný, a jede
+mu to bez problémů :-D
+
+Terminus: No comment
+ Lennyson
+21.05.2011 02:32:03
+Defragmentace?
+[Smajlík]    [Muž]29 [Kategorie]
+ _s_o_u_k_m_e_n_o_v_e_c
+21.05.2011 02:31:30
+Mam Asus stary 6 let, 247 MB :-))) RAM a nedela mi to.
+ nevinna vina
+21.05.2011 02:28:23
+Tak nekopiruj zrovna když sleduješ film lol, když máš pomalý notebook musíš se
+podle toho přizpůsobit..
+ _T_e_r_m_i_n_u_s [Muž]26 [Kategorie]
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+

@@ -1,0 +1,147 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+   Otázky - Vzkazy č.527351, vloženo _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+   09.05.2011 17:39:27               _s_t_r_á_n_k_a_]
+   Prosím mozky na fyziku... Zatracený a.
+   Ahoj, prosím poraďte. Počítám příklad, zítra píšeme a já si s tím nevím
+   rady. Absolutně.
+
+   Zadání:
+
+   Na podlaze vagónu, který jede po vodorovné trati, stojí zavazadlo tvaru
+   válce s poloměrem podstavy 0,20 m. Těžiště tělesa je na ose válce ve
+   výšce 0,60 m nad podlahou. Při jakém nejmenším zrychlení vagónu se
+   zavazadlo převrhne?
+
+   Dokážu vypočítat úhel naklonění roviny, při kterém se těleso už
+   převrhne, ale tohle? Vždyť neznám hmotnost tělesa, rychlost jedoucího
+   vagónu, nic... Co s tím? Absolutně mě nic nenapadá.
+
+   F= m*a, W= FG*(r-h)... Já vám fakt nevím, vzorečky znám, ale co s něma,
+   když u každého neznám nejmíň 2 veličiny... Chjo, prostě zoufalec.
+   Absolutně neovládám logiku. Představuju si jak to brzdí či zrychluje a
+   ten kufr padá, ale prostě nevím co s tím :(((
+    _K_a_t_e_s_h_o_w [Žena]16 [Kategorie]  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+09.05.2011 19:23:02
+Díky, jste úžasní, moc jste mi pomohli :) Kdyby mě teďka někdo nachytal a
+vystřelil si ze mě, tak bych to nepoznala, tak vám budu věřit :D
+ _K_a_t_e_s_h_o_w [Žena]23 [Kategorie]
+09.05.2011 18:34:37
+kruci, samozřejmě tam je chybička na tom obrazku ..... sem dal naopak pomer r/
+v
+
+ALE TEN VYPOCET v diskuzi je v poradku.
+
+A uz na to kaslu, pa
+ CZloveK
+09.05.2011 18:30:56
+tady to mas s nacrtkama (akorat vyska jsem oznacil V misto H)
+_h_t_t_p_:_/_/_i_m_g_2_4_._i_m_a_g_e_s_h_a_c_k_._u_s_/_i_m_g_2_4_/_7_8_9_4_/_p_r_i_k_l_a_d_c_._j_p_g
+ CZloveK
+09.05.2011 18:24:10
+Hele, ono je to ještě primitivnější...nojo, sem zapomněl že jsem ve věku 16ti
+let :)
+
+Takže sem si to nakreslil. V podstatě vůbec není potřeba počítat trojúhelníky
+a síly. Stačí z toho obrázku na nakloněné rovině vidět, že to těžiště se musí
+dostat nad hranu, okraj válce. Pak se válec převrhne (resp. je na hraně
+převržení). A vidíme že ten trojůhelník je jedna odvěsna výška H, druhá
+odvěsna poloměr R. Přepona je kolmice k zemi.
+
+Druhý obrázek, tam tedy logicky musí být síly ve stejném poměru, jako rozměry
+trojúhelníku v předchozím obrázku. Jedna odvěsna kolmo dolů je G (gravitace),
+druhá odvěsna je A (zrychlení vlaku) A teď:
+
+r:h = a:g
+(poměr r ku h musí být stejný jako a ku g)
+
+r/h = a/g
+(r.g)/h = a
+------------
+------------
+
+což je hraniční zrychlení...aby se převrhl, musí být a větší,
+tedy
+a (je větší) (r.g)/h
+ CZloveK
+09.05.2011 18:08:41
+pardon, naopak: a=g/arctg(alfa)
+ _D_E_A_D_B_E_E_F [Muž]47 [Kategorie]
+09.05.2011 18:04:30
+arctg(g/a)
+ _D_E_A_D_B_E_E_F [Muž]47 [Kategorie]
+09.05.2011 18:02:47
+Když dokážeš vypočítat úhel naklonění roviny, při kterém se těleso převrhne,
+tak ho vypočítej. Nebo aspoň sestav vzorec. A nakresli si to. Pak si nakresli
+stejný válec na podlaze vagonu. Šipka dolů bude znázorňovat gravitaci. Šipka
+vodorovně proti směru jízdy bude představovat tu minimální sílu pro převrhnutí
+(při tom minimálním zychlení). A další šipka ukazuje šikmo. Uvidíš
+trojúhelníky, úhel je stejný jako v prvním obrázku - ten pro převrhnutí na
+nakloněné rovině. A už to snad nějak dopočítáš.
+Rád bych ti poradil konkrétně... ale tyhle věci jsem roky nepočítal. Pokud ti
+někde chybí nějaká veličina, tak s ní počítej jako bys ji znala, zřejmě se ti
+to pak, až to dáš do vzorců, někde pokrátí.
+
+Tak ať se daří...
+ CZloveK
+09.05.2011 18:00:46
+Stačí si ten příklad vygooglit a ve výsledkách máš nápovědu _h_t_t_p_:_/_/
+_w_w_w_._z_k_r_a_c_o_v_a_t_k_o_._c_z_/_5_D_B_0_8_7_ 
+
+To hraniční zrychlení se vypočítá jako (g*r)/h ... vyjde to cca 3.3 m*s^-2.
+Ten postup nevim, ale třeba na to přijdeš...
+ hmmm2
+09.05.2011 17:51:38
+Svůj příspěvek jsi vložil(a) do nespravné kategorie. Bylo provedeno přesunutí.
+V případě opakování hrozí blokování vstupu na portál. Prosím zvol příště
+správnou kategorii. Děkujeme za pochopení.
+[Smajlík]      [Muž] [Kategorie]
+ _A_d_m_i_n_i_s_t_r_á_t_o_r
+09.05.2011 17:45:04
+Samozřejmě že stojí na podstavě. :D
+ _K_a_t_e_s_h_o_w [Žena]23 [Kategorie]
+09.05.2011 17:41:22
+To je chyták. Válec se odkutálí ještě než vlak vyjede.
+ huh
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+
