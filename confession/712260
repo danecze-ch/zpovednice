@@ -1,0 +1,284 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+Diskuze č.712260, vloženo 29.03.2013 00: _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+45:33                                    _s_t_r_á_n_k_a_]
+os
+...pouziva(l) alebo skusal tu niekto z vas linux?...akukolvek jeho distribuciu,
+...mame tu nejakych fandov? :) ...ako ste s nim (boli) spokojni?
+ _U_j_o_ _M_r_á_z_i_k_ _M_o_r_o_z_k_o [Muž]22 [Kategorie]  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+02.04.2013 21:20:49
+UUjjoo MMrr?ázziikk MMoorroozzkkoo: Tak to je super, že sa podarilo!! :) Som moc rád. :)
+[Smajlík] [Muž]96 [Kategorie]
+ _r_a_m_e_n
+01.04.2013 10:57:06
+Nemám. Ale páči sa mi :)
+ _B_l_o_o_d_y_ _f_l_o_w_e_r [Žena]31 [Kategorie]
+01.04.2013 00:48:23
+zda sa ze som to uz vyriesil, dik! ..mna to inak nenapadlo :D ..pritom take
+jednoduche nakoniec... :D
+[Smajlík]           [Muž]26 [Kategorie]
+ _U_j_o_ _M_r_á_z_i_k_ _M_o_r_o_z_k_o
+31.03.2013 21:41:27
+Aha, tak potom tak. :)
+
+Bo ja som to pôvodne tak pochopil, že je systém úplne hluchý. :-S
+Ale keď máš zvuk, potom OK, s tým sa už dá čosi začať. :) Napríklad pohrať sa
+s alsamixerom. Treba nainštalovať cez pridať/odobrať programy a tam skúsiť
+vypeckovať všetky tietok.... onééé... tie.... úrovne hlasitosti. :) Je totiž
+možné, že alsamixer ukáže aj tie kanály, ktoré grafický mixer nezobrazuje.
+
+No veď skús. A ešte stále ostáva možnosť, že čoskoro príde nová verzia Ubuntu,
+v ktorej bude najnovší kernel 3.7 (neviem totiž, aký je v 12.10, ale zrejme
+3.4) a snáď aj lepšia podpora pre XFI. :)
+[Smajlík] [Muž]96 [Kategorie]
+ _r_a_m_e_n
+31.03.2013 21:19:42
+diky za ochotu, ono zvuk mi ide v podstate od samotnej instalacie systemu, len
+nie uplne spravne funguje, ako aj pises, ze by to bolo treba spravne
+nakonfigurovat... teda len 4 repraky max. viem nastavit momentalne, centralny
+a subwoofer nejde a stava, ze obcas mi vypadne komplet, musim to v
+nastaveniach prehadzovat :) ..preto som sa to pokusal nejak vyriesit, ale
+zatial neuspesne, je to este pre mna viacmenej spanielska dedina :) ..no
+postupne skusam, tak uvidim,..tie 4 mi chvilu vystacia, kym to nedoriesim raz
+uplne :D
+[Smajlík]           [Muž]26 [Kategorie]
+ _U_j_o_ _M_r_á_z_i_k_ _M_o_r_o_z_k_o
+31.03.2013 13:38:37
+UUjjoo MMrr?ázziikk MMoorroozzkkoo: Ale vieš čo..? Pozrel som si ten driver, no on je ešte z
+roku 2008. :-S A na rôznych fórach ohľadom tohto písali, že problém bol v
+starých verziách, napr. Ubuntu 9, ale že nová od 10 vyššie by už mala mať
+zabudované v sebe! :)
+
+Aj som sa pokúsil driver skompilovať, lebo na to netreba mať fyzicky kartu,
+ale mi kompilácia vypadla s chybou, pretože nenašiel súbor system/sound.h
+Darmo mám kernel headery a zdrojové kódy nainštalované, aj vývojové balíky k
+ALSA, je to zjavne pre prastarý kernel. :-/
+
+Teda pravdepodobne karta v systéme je nainštalovaná, iba nie je [správne]
+nakonfigurovaná. :-S To by si inak zistil v adresári /etc/modprobe.d/ a tam v
+súbore XX-sound.conf , kde XX je číslo, napr. 50.
+A v ňom niečo ako:
+
+alias snd-card-0 snd-hda-xfi
+
+Samozrejme toto je pre môj systém OpenSUSE, tak neviem, ako je to v Tvojom,
+lebo ako som sa sťažoval nižšie, každá distribúcia si s radosťou vymýšľa svoju
+vlastnú štruktúru configov a mňa potom z toho ide rachnúť. :-/ :D
+
+:)
+[Smajlík] [Muž]96 [Kategorie]
+ _r_a_m_e_n
+30.03.2013 23:10:26
+ramen: dakujem :), no mam Creative X-FI Xtreme Gamer Fatality Pro, ono co som
+zistoval, mohlo by sa to dat rozchodit, je na to z ich stranky driver,
+konkretne XFiDrv_Linux_Public_US_1.00 len treba okolo toho este viac robotky
+porobit a to prave zatial neviem :) ..pohrat sa s tym v terminale alebo roote,
+tam by som potreboval asi najviac little help :)
+[Smajlík]           [Muž]26 [Kategorie]
+ _U_j_o_ _M_r_á_z_i_k_ _M_o_r_o_z_k_o
+30.03.2013 20:48:02
+GGaabbqqooBBBB: Áno, už dlhé roky. OpenSUSE s desktopom KDE, teda dosť windowsoidné.
+Ale hlavne preto, lebo sa dajú robiť rôzne applety na plochu, tak som si
+urobil dva astronomické - Slnečnú sústavu a štyri Jupiterove mesiace. Okrem
+toho ešte zopár miniatúrnych, na sledovanie dní kvasenia kombuchy a podobne...
+:D
+
+A nemusíš ho inak inštalovať, lebo sa dá stiahnuť aj Live verzia, že len ISO
+súbor napáliš na CD/DVD a naštartuješ PC s cédéčkom v mechanike a systém
+nabehne do pracovného režimu. Žiadna inštalácia. :)
+Najideálnejšie na odskúšanie, lebo tým neporušíš existujúci systém a hneď
+zistíš, či sa Ti páči, alebo nie. :)
+[Smajlík] [Muž]96 [Kategorie]
+ _r_a_m_e_n
+30.03.2013 20:38:11
+Ďakujem Ramen...možno ešte vyskúšim ten Linux aj na compe..
+Android mám na mobile, ale ..príde mi to skôr ako odvar Windowsu.
+Ty používaš tiež Linux?
+ _G_a_b_q_o_B_B [Muž]18 [Kategorie]
+30.03.2013 13:00:00
+GGaabbqqooBBBB: "Ale, ovládanie je lepšie na windowse, že?"
+
+Nie. To je predstava stará asi tak spred 10+ rokov, keď linux nemal moc dobrý
+desktop. A ľudia pri nej z neznámych príčin (pravdepodobne však preto, že si
+na windows zvykli a nechcú sa učiť niečo nové, darmo, ten monopol pri W95 si
+urobil svoje) ďalej pretrvávajú.... Avšak teraz je už toľko grafických
+rozhraní a prevažná väčšina sa taaaak moooooc podobá na Windows, že je až na
+nerozoznanie. Napríklad desktop KDE. Gnome len trocha, ten skôr na Mac. Potom
+sú prostredia ako Enlightenment E17, ktoré sú priam až neskutočne krásne. Len
+nejaké screenshoty z E17:
+_h_t_t_p_:_/_/_d_o_p_i_c_e_._s_k_/_5_w_5_ 
+_h_t_t_p_:_/_/_d_o_p_i_c_e_._s_k_/_5_w_6_ 
+
+Tož nie, ovládanie je rovnaké a miestami aj lepšie, ako na Windows, veď
+Android je v podstate linux klon, ale už aj Windows vo verzii 8 sa ich snaží
+dohoniť... :P :D
+[Smajlík] [Muž]96 [Kategorie]
+ _r_a_m_e_n
+30.03.2013 12:35:00
+aktyX:
+No jj, na to som zabudol, ale dnes, keď si kupuješ comp, tak legálny windows
+máš väčšinou k tomu.
+Ale, ovládanie je lepšie na windowse, že?
+[Smajlík] [Muž]18 [Kategorie]
+ _G_a_b_q_o_B_B
+30.03.2013 08:08:23
+UUjjoo MMrr?ázziikk MMoorroozzkkoo: " a nedari sa mi spojazdnit creative zvukovku 5.1 :
+D ..snad casom dokazem :) ..takze v najhorsom sa mozem opytat teba, keby moc
+horelo ...(?) :D"
+
+:D
+Ale jasnééééé. ;)
+
+Hlavne, aby bola vôbec v compatibility zozname. Veď napíš presný typ a
+pozrieme, či jo alebo ne. :D
+
+Inak Ubuntu zvyklo mať problémy so zvukom, kolega sa večne sťažoval na Skype,
+že mu mikrofón nefunguje. Pretože Ubuntu s obľubou vybral defaultne za zdroj
+zvuku LINE-IN, t.j. konektor, čo na notebooku ani neexistuje. :D Poprípade
+všade pchajú PulseAudio balík, na ktorý potom ľudia len na nete nadávajú a ako
+magické riešenie problémov so zvukom typu "nehrá mi zvuk" doporučujú:
+"odinštalujte si #&@!*#! PulseAudio!!!!" :D:D
+
+ALSA (Advanced Linux Sound Architecture) zvukový systém podporuje zvukovky od
+výmyslu sveta a bolo by zvláštne, keby práve Creative nie...
+A ani s 5.1 nebýva problém, iba samozrejme tie efekty asi nebudú, čo poskytujú
+aplikácie priamo od výrobcu pre Windows... :-S
+[Smajlík] [Muž]96 [Kategorie]
+ _r_a_m_e_n
+29.03.2013 18:41:21
+mal som isty cas ubuntu, ale nemal som nervy ucit sa s tym robit, tak som to
+chvilu pouzival len tak a potom som sa vratil k win
+
+gabqo
+povedal by som, ze este to, ze ho mozes mat bezplatne aj legalne na rozdiel od
+licencovaneho win alebo mac
+ _a_k_t_y_X [Muž]31 [Kategorie]
+29.03.2013 12:51:44
+Áno mal,...ale nevedel som si zvyknúť ..
+Tak som zase prešiel na w.
+Má to aj nejakú inú výhodu , okrem toho, že nie sú vírusy?
+[Smajlík] [Muž]18 [Kategorie]
+ _G_a_b_q_o_B_B
+29.03.2013 10:57:18
+tiež mám na noťasi ubuntu 12.04
+
+linux sa mi veľmi páči.. štve ma len že na ňom nerozbehám premiere/vegas (ale
+to som tu už raz tušim spomínal)
+[Smajlík]          [Muž]37 [Kategorie]
+ _J_a_k_u_b_ _s_p_o_d_ _M_a_n_í_n_a
+29.03.2013 09:57:27
+- ja obcas pouzivam BackTrack...
+- ale vo vseobecnosti je Linix ako OS absolutne nepouzitelny - nemam linux na
+PC rad.
+ _U_F_O_P_o_r_n [Muž]32 [Kategorie]
+29.03.2013 09:47:31
+no na paradu... :) pekne, pekne :D ...ja mam momentalne svoje prve ubuntu
+12.10 asi 4.den (len sa ucim, studujem postupne system a pod.)...a lubi sa mi
+to zatial, ale stale tomu moc nerozumiem, a nedari sa mi spojazdnit creative
+zvukovku 5.1 :D ..snad casom dokazem :) ..takze v najhorsom sa mozem opytat
+teba, keby moc horelo ...(?) :D
+[Smajlík]           [Muž]26 [Kategorie]
+ _U_j_o_ _M_r_á_z_i_k_ _M_o_r_o_z_k_o
+29.03.2013 07:55:00
+Q: ...pouziva(l) alebo skusal tu niekto z vas linux?...akukolvek jeho
+distribuciu
+
+A: Áno. :) Ja ho sledujem od jeho vzniku v roku 1994. Môj prvý bol Slackware
+1.0.
+Odvtedy som odskúšal tieto (pozor, dlhý zoznam! :D:D):
+
+RedHat 6.0, 7.0, 8.0, 9.0 potom z neho bola:
+Fedora (Core) 10, 11, 12, 13, 14, 15, 16, 17
+potom som presedlal na
+Mandrake 7.0, 8.0, 9.0, 10.0, 10.1, ktorý sa potom premenoval na
+Mandriva 2006, 2007, 2009, 2010
+Okrem toho ešte:
+Ubuntu 10.04 LTS, 12.04 LTS
+Mint
+a nakoniec som skončil pri
+OpenSUSE 10.0, 10.1, 11.1, 11.2, 12.1, 12.2
+
+Posledná verzia, čo momentálne používam je OpenSUSE 12.2. :D
+Vyskúšal som všetky uvedené čísla verzií, teda ak dobre počítam, asi 31
+distribúcií/verzií. :P Je ich trocha viac, lebo niektoré exotické ako Gentoo
+alebo Greenish som nezapočítal.. :D
+
+A samozrejme, keďže každý riešil konfiguračné súbory mierne odlišne, veď vývoj
+nezastane, že?, tak som sa pri prechode na novšiu/inú verziu učil všetko
+odznova. :-/
+
+Ale neľutujem, lebo vďaka tomuto som získal cenné skúsenosti a občas má niekto
+odvahu ma nazvať "linux guru". Juuuuuj, ale nemám rád to nazvanie "guru"... :-
+/ To pramení asi z toho, že väčšina indických guruov sú totálni podvodníci a
+ja s nimi nechcem mať niiiiič spoločné. :P :D
+
+
+Q: ...mame tu nejakych fandov?
+
+A: Jo. Máme. Nechcem sám na seba ukazovať prstom, alééééééé.... :D
+
+
+Q: ...ako ste s nim (boli) spokojni?
+
+A: OpenSUSE 12.2 (a ak naberiem odvahu, či skôr prekonám lenivosť :D:D), tak
+snáď čoskoro budem mať 12.3, používam na notebooku ako primárny systém. Už by
+som sa nedokázal vrátiť k Win, aj keď vo VirtualBoxe musím mať XP kvôli
+účtovníctvu... No a na PC mám tiež XP, kvôli hrám, lebo ako jedowka písala,
+fakt je naň málo hier a ani PlayOnLinux a Wine moc nepomáhajú, bo nie všetky
+hry pod nimi zbehnú (ale napríklad Return To Castle Wolfenstein áno). Hlavne
+tie najnovšie nie... Ale zase, ja nie som zanietený hráč. :D Aj keď je pravda,
+že Oblivion, Skyrim, Risen a podobné RPG ma dokážu zaujať..... :D
+
+Ale ja som s ním spokojný, aj keď teda má isté limity, no na druhej strane
+jednoduchým Bash skriptom zbuchnutým do pár minút dokážem urobiť také, čo by
+som na Windowse musel pol dňa programovať (v Delphi alebo VB). Prosto, trocha
+iná filozofia... :)
+[Smajlík] [Muž]96 [Kategorie]
+ _r_a_m_e_n
+29.03.2013 01:02:24
+Hej, ale môj notebook to nejako nezvládal, no a nechcelo sa mi ondieť s
+nejakou schodnejšou verziou, tak som tam dala win. Linux mi ale chýba a chcem
+sa raz k nemu vrátiť. Veľmi sa mi páčil. (Len škoda, že je naň tak málo hier.)
+ _j_e_d_o_w_k_a [Žena]30 [Kategorie]
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+

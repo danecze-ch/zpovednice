@@ -1,0 +1,195 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+   Otázky - Vzkazy č.714005, vloženo _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+   04.04.2013 15:57:37               _s_t_r_á_n_k_a_]
+   a teraz budte frajeri :D
+   Takže ďalší programátorský rébus ala excell a makrá
+
+   vysvetlím snáď pochopiteľne.
+
+   máme zošit1 a zošit2
+
+   zošit1 a stĺpce A B C
+
+   A - číslo kejsu
+   B - číslo materiálu
+   C - sa na základe B automaticky vyplní buď "#NEDOSTUPNÝ" alebo "unique"
+
+   (C kontroluje materiály - niektoré chceme, niektoré nie. tie ktoré
+   nechceme, označí "unique")
+
+   to viem, to je jednoduché.
+
+   problém nastáva
+
+   zošit2
+
+   v stĺpci A sú čísla kejsov také isté ako v zošite1 akurát v inom poradí
+
+   a ja potrebujem aby ak v zošite1 bol niektorý kejs označený unique, aby
+   mi napríklad nejak vyfarbilo dotyčný kejs v zošite2 v stĺpci A
+
+   chápete? ak nie kľudne sa pýtajte :D
+
+   za skoré vyriešenie rébusu vopred ďakujem ;)
+
+
+    _J_a_k_u_b_ _s_p_o_d_ _M_a_n_í_n_a E-MAIL:_[_g_r_a_f_i_k_a_/_m_r_e_f_h_i_._g_i_f_]   [Muž]26 
+                      [Kategorie]  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+05.04.2013 18:19:01
+Oh, to je potom sjuuuuuuuuupr!!!!! :)
+
+Potešenie je na mojej strane. ;D
+[Smajlík] [Muž]96 [Kategorie]
+ _r_a_m_e_n
+05.04.2013 15:37:20
+jj fungulíruje ;) trochen trebalo ťuknúť po monitore aby pochopil, čo od neho
+chcem, lebo to tento firmený personal kalkulačka je taký trochu pomalšieho
+charakteru, ale nakoniec sa prebral :D :D
+
+jemu akosi všetko dochádza až na druhý deň, to minule čo sme riešili tiež až
+po víkende pochopil :D
+
+tak ešte raz, dženkuju bardžo :))
+[Smajlík]          [Muž]37 [Kategorie]
+ _J_a_k_u_b_ _s_p_o_d_ _M_a_n_í_n_a
+05.04.2013 15:32:21
+Ďakujeeeeem. O:-)
+
+Ale.. ale... pozerám, že... neviem, či netreba inicializovať premennú
+"dFoundCell" vždy na pozíciu A1 v Sheet2, lebo FIND používa "After:
+=dFoundCell", teda pokračuje po poslednej nájdenej bunke. :-S
+
+Tak ak by Ti to haprovalo, potom pred
+
+FFoorr ddCCoouunntt == 11 TToo ......bbllaabbllaabbllaa........
+
+daj tiež tú inicializáciu:
+
+SSeett ddFFoouunnddCCeellll == AAccttiivveeWWoorrkkbbooookk..WWoorrkksshheeeettss((""SShheeeett22""))..RRaannggee((""AA11""))
+
+Tie "s" a "d" na začiatku premenných znamenajú:
+s - source
+d - destination
+
+Ja som to testoval, ale iba s jedným unique, tak... O:-)
+A... vravíš, že fungírovalo? :)
+[Smajlík] [Muž]96 [Kategorie]
+ _r_a_m_e_n
+05.04.2013 15:12:13
+Starec, ty vôbec nie si frajer, ty si mega frajer ;-)
+
+máš u mňa dalšie svíjanky :P
+[Smajlík]          [Muž]37 [Kategorie]
+ _J_a_k_u_b_ _s_p_o_d_ _M_a_n_í_n_a
+04.04.2013 20:07:03
+Oh, inak tá inicializácia je síce len aby bola, ale správnejšie by mala byť
+takáto (pre istotu):
+
+
+Set sFoundCell = ActiveWorkbook.Worksheets("Sheet1").Range("C1")
+Set dFoundCell = ActiveWorkbook.Worksheets("Sheet2").Range("A1")
+[Smajlík] [Muž]96 [Kategorie]
+ _r_a_m_e_n
+04.04.2013 19:49:22
+Tak ja by som to riešil makrom. Tu je:
+
+------------------
+
+Sub hladaj()
+
+Dim sCount As Long
+Dim dCount As Long
+Dim sFoundCell As Range
+Dim dFoundCell As Range
+Set sFoundCell = Range("C1")
+Set dFoundCell = Range("A1")
+
+num = WorksheetFunction.CountIf(ActiveWorkbook.Worksheets("Sheet1").Columns
+(3), "unique")
+
+For sCount = 1 To num
+
+Set sFoundCell = Sheets("Sheet1").Columns(3).Cells.Find(What:="unique", After:
+=sFoundCell, LookIn:=xlValues, LookAt:=xlPart, SearchOrder:=xlByRows,
+SearchDirection:=xlNext, MatchCase:=False)
+myValue = Worksheets("Sheet1").Cells(sFoundCell.Row, 1).Value
+
+
+For dCount = 1 To WorksheetFunction.CountIf(ActiveWorkbook.Worksheets
+("Sheet2").Columns(1), myValue)
+Set dFoundCell = Sheets("Sheet2").Columns(1).Cells.Find(What:=myValue, After:
+=dFoundCell, LookIn:=xlValues, LookAt:=xlPart, SearchOrder:=xlByRows,
+SearchDirection:=xlNext, MatchCase:=False)
+
+dFoundCell.Interior.Color = RGB(255, 0, 0)
+Next dCount
+
+Next sCount
+
+End Sub
+
+------------
+
+
+Pointa je, že hľadá v Sheete1 v stĺpci 3 slovo "unique", načíta do myValue
+hodnotu z prvého stĺpca na nájdenom riadku a ide hľadať túto hodnotu do
+Sheetu2 v stĺpci 1, a ak nájde, tak označí červenou. Samozrejme sleduje aj
+duplicity, keby sa nejaké vyskytli. :)
+[Smajlík] [Muž]96 [Kategorie]
+ _r_a_m_e_n
+04.04.2013 16:02:23
+dám konkrétny príklad:
+
+zošit1
+
+bunka C30 je označená "unique"
+
+tak excell si vezme číslo kejsu z bunky A30 a nájde si toto číslo v zošite2 v
+stĺpci A (bunky A1 - A500) a označí bunku na cerveno.
+
+kapiš?
+[Smajlík]          [Muž]37 [Kategorie]
+ _J_a_k_u_b_ _s_p_o_d_ _M_a_n_í_n_a
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+

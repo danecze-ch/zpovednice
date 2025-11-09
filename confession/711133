@@ -1,0 +1,179 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+   Otázky - Vzkazy č.711133, vloženo _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+   24.03.2013 17:40:09               _s_t_r_á_n_k_a_]
+   PC - help - kdo chce protáhnout komín?
+   Dobrý den, počítačům skoro nerozumím, dělám kominíka. Dostal jsem
+   počítač od jednoho známého.
+
+   A dnes přišel druhej známej a říká, že ten počítač je špatnej, že tam
+   pořád vrčí stejně větrák. Jako že by se měl spínat větrák podle
+   zatížení, kdežto u mě pořád běží stejně na plné obrátky ten větrák.
+
+   1) Proto bych se rád zeptal. Je to normální u stolního PC, že větrák
+   běží stále naplno?
+   2) A prej je to takhle odzačátku, sestavoval ho amatér taky kominík. Je
+   možný, že by to bylo takhle od začátku?
+    kominík [Muž]  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+26.03.2013 22:11:40
+IT Cvok - ty toho moc o pocitacich a vetrackach nevis vid ? .
+
+1) najdi si odpovedi, na ktery si uzivatel pta.
+
+2) najdi si jakej je rozdil mezi reziistorem a potenciometrem.
+
+3) "větráček je připojenej nějakým způsobem přímo na dráty ze zdroje"
+
+ze by na 12V ? zlutej+cernej drat. 5V red.
+
+4) kdyz uz vypisujes typy regulaci, tak obycejnej odporovej se na rizeni
+otazek z urcitych duvodu nepouziva.spise se vyrabi neco takoveho:
+
+_h_t_t_p_:_/_/_w_w_w_._b_e_l_z_a_._c_z_/_p_c_f_a_n_/_f_a_n_4_._h_t_m_ 
+
+
+
+5) uvedom si, ze ma extra starej pc od nekoho.. stare pc nemaj regulovane
+zdroje na vystupu.. novejsi desku nema a notas taky ne.. tak tady neplet
+ostatnim hlavu.
+ _l_i_x_i_q [Muž]25 [Kategorie]
+25.03.2013 00:44:13
+Jejej, to tu zase byl polopravd.
+
+Jsou veskrze 3 způsoby regulace otáček ventilátoru.
+1) připojení na základní desku, reguluje většinou přímo základní deska, v
+biosu si můžeš většinou nastavit regulaci pro cílovou teplotu procesoru
+2) externí panel - panel většinou do 5,25" (místo/pod mechaniku), levnější
+jsou prostě potenciometry, dražší berou i teploty z čidel a dovedou
+přizpůsobovat teplotu v PC...většinou dost drahý
+3) rezistor - k některejm ventilátorům bejvá už danej "prodlužovací" kabílek s
+nějakým rezistorem (dokonce i několik), pokud chceš ztišit větrák, prostě ho
+zapojíš přes tohle a máš klid, je to levný, celkem snadno sehnatelný a v
+případě nouze i dobře vyrobitelný.
+
+Pokud nemáš ani jeden z těhle způsobů - větráček je připojenej nějakým
+způsobem přímo na dráty ze zdroje, tak by ses měl podívat jestli by nešlo buď
+1 - zapojit ten větráček do základní desky, že by si ho regulovala, nebo 3 -
+nějakou prodlužku s rezistorem na žlutým kabelu
+
+P.S. jak je to se spotřebou: spotřeba počítače závisí na tom, co na tom děláš,
+ne jak se točí větráček...to, že když slyšíš (u počítačů s regulací), že se
+točí víc, že víc spotřebovává je až důsledek toho, že procesor/grafika dělaj
+náročnější práci a produkujou víc tepla ->musej se víc chladit.
+
+Jen pro zajmavost, větráček na maximálních otáčkách má spotřebu většinou 1-
+3W...to je celkem nic
+procesor na maximálním vytížení - 60-130W (přetaktovaný i 200W)
+grafika - podle výkonu - 60-450W (dnešní běžná herní 230W)
+to jsou největší žrouti
+ _I_T_ _C_v_o_k [Muž]28 [Kategorie]
+24.03.2013 21:35:13
+O větrácích toho moc nevím
+[Smajlík] [Muž]41 [Kategorie]
+ _I_n_a_k_l_u_k_y
+24.03.2013 20:14:38
+kominík - regulovatelne maj notebooky..
+
+na cpu a grafice by ti mel nejlepe bezet porad naplno.. pochybuju, ze mas
+nejakou good desku kdyz to mas od nekoho.
+
+pravdepodobne mas poskozenej vetrak treba na zdroji, ze ti tak rve, nebo
+narazi o konstrukci.. to muze bejt i na grafice..
+
+niceho se neboj,krmi te akorat picovinama. toho chlapa vubec neposlouchej..
+
+
+sezen si treba po tve uspokojeni nejakyho znameho, kterej se ti na to podiva a
+rekne jestli vetracky jsou ok.
+ _l_i_x_i_q [Muž]25 [Kategorie]
+24.03.2013 19:52:46
+Větráček na procesoru, grafické kartě a zdroji běží NEPŘETŘŽITĚ, dnešní desky
+už umí automaticky regulovat otáčky podle zatížení.
+
+A možná myslel ten přídavný větráček na skříni, ten se dá nahradit novějším,
+kterej nemá už vyházený ložiska.
+ _J_L_2 [Muž]30 [Kategorie]
+24.03.2013 19:46:30
+To záleží kam je ten větrák zapojenej. Pokud je zapojenej přes molex ke zdroji
+nebo do pwr_fan konektoru na základní desce, rychlost regulovat nelze.
+Pokud je zapojenej do základní desky přes cpu_fan nebo cha_fan konektor na
+základní desce, měla by jít nastavit regulace otáček v BIOSu.
+ _E_i_n_h_e_r_j_a_r [Muž]19 [Kategorie]
+24.03.2013 19:43:59
+no jak se vezme, myslím, že na procesoru jede větrák od prvního spuštění
+stejně tak na zdroji, na výkonější grafické kartě podle zatížení (levnější
+mají pasivní chlazení), a nakonec můžou být ještě různé konfigurace skříně s
+dalším větrákem (větráky), takže těch možností tolik, že se na to nedá
+jednoduše odpvědět...asi bych doporučil otevřít a podívat se jestli tam nemáš
+nánosy prachu...taky procesory AMD víc topí a víc se musí tedy chladit. Já
+hodně dělám výpočty pro BOIC a průměrně mám 60st na procesoru a 65 na grafice.
+ _Z_a_r_c_o_n [Muž]41 [Kategorie]
+24.03.2013 18:40:46
+Dneska jsem si komína protáhl, díky.
+ _H_o_r_k_ý_P_e_s [Muž]18 [Kategorie]
+24.03.2013 17:58:11
+HolyKeeper: děkuju ti. On právě tvrdil, že bude vyšší spotřeba, že se to jako
+víc zahřívá, když je větrák puštěnej naplno a taky že je větší spotřeba
+Ale podle toho co říkal původní majitel, tak vždycky běžel větrák naplno.
+
+Proto mě napadlo, že by to mohlo být jak říkáš - teda neregulovanej větrák. No
+a tys mi to potvrdil. Takže mám radost.
+I z toho mám radost, že tím že běží větrák naplno neznamená nutně vyšší
+spotřebu nebo nutně vyšší zahřívání (problém s nějakýma zahřívajícíma se
+součástkama vevnitř)
+ kominík
+24.03.2013 17:49:54
+Byvaji oboje.. Jak regulovatelne, tak ty co bezi na plno.. Podle toho se ale
+moc pocitac neposuzuje, takze bych tomu nevenoval nejakou zvysenou pozornost
+;)
+
+PS: Komin mame cistej
+ _H_o_l_y_K_e_e_p_e_r [Muž] [Kategorie]
+24.03.2013 17:41:16
+Svůj příspěvek jsi vložil(a) do nespravné kategorie. Bylo provedeno přesunutí.
+V případě opakování hrozí blokování vstupu na portál. Prosím zvol příště
+správnou kategorii. Děkujeme za pochopení.
+[Smajlík]      [Muž] [Kategorie]
+ _A_d_m_i_n_i_s_t_r_á_t_o_r
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+

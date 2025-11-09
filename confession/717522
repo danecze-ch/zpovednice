@@ -1,0 +1,177 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+Zpověď č.717522, vloženo 17.04.2013 17: _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+38:46                                   _s_t_r_á_n_k_a_]
+Aritmetická posloupnost?
+Dobrý podvečer, matematika mi nikdy nešla a zítra mě má zkoušet, zkoušel jsem
+tu počítat nějaké příklady a tak půlka mi vyšla, mohl bych se s vámi podělit o
+několik (pro mě) těžkých příkladů? Dokázali by jste mi poradit? Už si opravdu
+nevím rady :/ Potřeboval bych hlavně postup a né výsledek, pomozte prosím, dám
+sem ty které nevím , na matiku jsem opravdu hloupý...
+Mezi čísla 1,5 a 5 vložte 6 čísel tak aby vznikla aritmetická posloupnost
+
+2. Mezi čísla -5 a 4 vložte další členy tak ,aby vznikla posloupnost se
+součtem -6,5. Určete počet nových členů
+
+3. Určete první člen a diferenci arit. posloupnosti jeli a2+a5-a3 = 18
+
+
+Předem děkuji když mi bude někdo ochotný pomoct :)
+ Matematika96 [Muž]17  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+17.04.2013 18:17:27
+an=a1+(n-1) * d
+
+hmm tak "n" bude pořadové číslo toho posledního čísla v posloupnosti....
+první...6 zadaných...poslední (n-té), takže n je 8
+
+a1 je první v posloupnosti, to je těch 1,5
+
+an je to poslední v posloupnosti, tak těch 5
+
+a potřebuješ si zjistit to "d" to jsou ty kousky
+
+5 = 1,5 + (8 - 1) * d
+
+5 - 1,5 = 7 * d
+
+d = 3,5 / 7
+
+d = 0,5
+
+a jsi tam kde jsem byl já ;)
+
+
+ten další vzorec asi použiješ v těch dalších příkladech...ale já teď nemám moc
+času o tom přemýšlet
+ _t_i_m_t_i_m [Muž]31 [Kategorie]
+17.04.2013 18:15:53
+Tak sem mel v praci na chvili co delat.
+Vzorce nevim, nebyly za potrebi.
+
+(1) reknu si ktera cisla muzu mezi ty 2 narvat aby kazde bylo stejne vzdalene
+od toho druheho a zaroven jich bylo 6 - odpoved je 0,5
+
+(2) trochu tezsi, zvolil sem taktiku pokus-omyl.
+Soucet cisel bude -6,5 tzn ze nemuzeme skakat po 1. Nejdriv sem zkusil rozdil
+1,5 - vysledek byl -3,5. Tak si rikam, ze udelam opak a budu pridavat 0,5 -
+vysledek byl -9,5. Hledane cislo tedy musi byt mezi 0,5 a 1,5. Zkusil sem tedy
+0,75 a vida ho - soucet je -6,5
+
+(3) hlavne si uvedomit, ze 3a neni to same co a3. Ta trojka tu nic nenasobi.
+Napsal sem si kyzenou posloupnost:
+X A2 A3 X A5
+A ted uz jenom dosadis nahodna cisla a pak spocitas jestli druhy plus paty
+clen, minus ten treti se rovna 18
+
+Zkusil sem 7 8 9 10 11 - 8+9-11 neni 18
+Dalsi pokus byl 10 11 12 13 14 - 11+14-12 neni 18
+A nakonec 15 16 17 18 19 - a vida, 16+19-17 je 18
+
+Sem si jisty, ze na to jsou specificke vzorce ale takhle je to spocitane
+selskym rozumem :)
+[Smajlík]
+ Lkuo
+17.04.2013 18:14:48
+2.
+sn = (n * (a1 + an))/2 // součet prvních n členů, ty chceš zjistit to n
+
+-6,5 = (n*(-5 + 4)) // součet má být -6,5
+
+klasická úprava rovnice... n = 13 (výsledná posloupnost má mít 13 členů)
+
+4-(-5) = 9 ... to je ta mezera, do který máš vložit členy, potřebuješ
+diferenci
+dva členy už máš, -5 a 4, potřebuješ zjistit zbývajících 11
+diference bude 9 / 12 (tam je ta + 1 jak už psal kolega níže) výsledná tedy
+0,75
+-5, -4,25 ... 3,25, 4
+suma sumárum máš 13 členů posloupnosti a 11 si jich vložil, aby to dalo součet
+-6,5 při diferenci 0,75
+[Smajlík]
+ JoeX
+17.04.2013 18:07:30
+timtim: děkuji ale takhle logicky to právě dělat nesmíme :D je na to vzorecek
+an=a1+(n-1) * d a dalsi sn = (a1+an)*n to cele lomeno 2
+ Matematika96
+17.04.2013 18:02:23
+timtim:
+Ajo... to víš, já jsem spíš ten typ, co mu jde čeština a jazyky. Na matice
+prostě ani nevidím ty souvislosti, jestli víš, co myslím. Totální španělská
+vesnice. :D
+ Mina Darien
+17.04.2013 17:59:09
+Mina Darien: Mně matika šla ale už jsem ji pozapomínal.
+
+Aritmetická posloupnost je prostě posloupnost čísel které jsou stejně od sebe
+vzdálené, na tom prvním příkladě to jde krásně vidět, pěkně po 0,5 se to
+zvyšuje.
+ _t_i_m_t_i_m [Muž]31 [Kategorie]
+17.04.2013 17:51:56
+timtim:
+Teď bys měl vidět, jak na to čučím a říkám si: "Cože?" :D Já byla na matiku
+vždycky blbá jak tágo. :D
+ Mina Darien
+17.04.2013 17:51:47
+Myslím že na ty další asi jsou třeba nějaké pomocné vzorce, to už jsi
+nepamatuju.
+ _t_i_m_t_i_m [Muž]31 [Kategorie]
+17.04.2013 17:48:27
+No matiku už jsem pozapomínal, ale to první vypadá snadno:
+
+Zjistíš si jak je velký rozdíl mezi těma číslama:
+5 - 1,5 = 3,5
+
+A ten rozdíl rozdělíš na 7 kousků (6 zadaných plus jeden navíc vždycky)
+
+3,5 / 7 = 0,5
+
+A o tenhle kousek vždycky to předchozí číslo zvětšíš:
+
+1,5 + 0,5 + 0,5 + 0,5 ..... = 5
+
+A tady máš tu posloupnost
+
+1,5 2 2,5 3 3,5 4 4,5 5
+ _t_i_m_t_i_m [Muž]31 [Kategorie]
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+

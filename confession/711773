@@ -1,0 +1,225 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+   Otázky - Vzkazy č.711773, vloženo _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+   27.03.2013 05:15:53               _s_t_r_á_n_k_a_]
+   Excell - je tu nejaký macher?
+   Ahojte bratia a sestry. Mám takú delikátnu excellovský problém. Teda
+   pracujem na jednej tabuľke, kde potrebujem v prvom riadku šírku všetkých
+   stĺpcov "5" a v ďalších riadkoch 1.stĺpec - "20" 2. stĺpec "10" 3. a 4.
+   stĺpec "15"
+
+   takže si tie ďalšie riadky jednoducho zlúčim, že jo..
+
+   a potreboval by som to nejak uzamknúť alebo čo, pretože keď skopírujem
+   dáta z iného hárku (ktoré sú v štyroch stĺpcoch) tak mi to automaticky
+   rozdelí ten prvý stĺpec "20" na pôvodné stĺpčeky po "5"
+
+   chápete čo myslím? vedel by si s tým dakto rady?
+    _J_a_k_u_b_ _s_p_o_d_ _M_a_n_í_n_a E-MAIL:_[_g_r_a_f_i_k_a_/_m_r_e_f_h_i_._g_i_f_]   [Muž]26 
+                      [Kategorie]  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+28.03.2013 10:58:02
+Samozrejme, je to možné. Verzie officu sa od seba brutálne líšia. Hlavne z
+programátorského hľadiska. Už neraz som si trhal vlasy, že veci z 2007
+nefungujú na 2003 a kebyže mám využiť možnosti 2010 a spustiť to potom na
+2003, asi by som bol totálne holohlavý v priebehu pár sekúnd.... :-/
+
+Teda úúúúúplná normálka a "chyba nie je vo vašom prijímači". :D:D :(
+
+Takže veci radšej rob/testuj zo zásady na nižšej verzii, inak Ťa čakajú nemilé
+prekvápka. :-S
+[Smajlík] [Muž]96 [Kategorie]
+ _r_a_m_e_n
+28.03.2013 09:56:17
+... som ja z toho vôl..
+
+počuj, je možné že ak mám doma excell 2010 pod ním to funguje a ak je v práci
+2007 tak pod ním to nefunguje?
+
+
+
+kašlem asi už na to.. mám 5 dní voľna, idem radšej rozmýšľať nad večernou
+Hiraxovou čítačkou o Ekvádore v Martine :D
+[Smajlík]          [Muž]37 [Kategorie]
+ _J_a_k_u_b_ _s_p_o_d_ _M_a_n_í_n_a
+28.03.2013 09:23:36
+JJaakkuubb, to je oki, napokon Opera mi síce zobrazila tú podivnú stránku, ale
+umožnila mi vrátiť sa späť na obrázok. :) Dobre ja viem, prečo mám
+nainštalované tri rôzne browsery... :D
+
+Ohľadom Tvojej otázky, prilepenie je event, ktorý sa buď rieši na vyššej
+úrovni, excelapp, alebo skús použiť komplementárne k Worksheet_Change aj toto:
+
+
+Sub Worksheet_SelectionChange(ByVal Target As Range)
+
+A použi ten istý kód ako pre Worksheet_Change. Snáď pofunguje.... :)
+[Smajlík] [Muž]96 [Kategorie]
+ _r_a_m_e_n
+28.03.2013 08:01:12
+fack, ramen sorry, to som netušil, ten hosting mi odporučil ujo gúgl.. :D
+
+Bloody Flower hral som sa s tým ešte do takej štvrtej, bo som mal nočnú v
+práci a po vytlačení pár shortages som došiel na to, že to akosi divne ráta
+ten "countif".. :D
+
+to mi pripomína otázku číslo dva:
+
+čiste kozmeticky by som chcel urobiť, že by v tabuľke, podľa čísla konťáku
+(bunka A2) automaticky premenovalo hárok.
+
+našiel som na nete akési makro:
+....
+
+1. Right click on the worksheet tab and choose View Code.
+
+2. In the code module that appears paste this:-
+
+Private Sub Worksheet_Change(ByVal Target As Range)
+If Target.Address = "$A$2" Then
+On Error Resume Next
+Me.Name = Target
+End If
+End Sub
+
+....
+
+v celku to funguje, že po zapísaní dačoho do štvorca A2 sa automaticky
+premenuje hárok na text z A2.
+
+no nebol by to excell, aby s niečím nevyhrabával a tak pokiaľ to tam ručne
+nenapíšem ale napíšem to štýlom ctrl+v, tak ma úplne odignoruje..
+
+takže otázka znie, dá sa napísať ten skript tak, aby premenovanie hárku
+reagovalo aj na "prilepenie textu"?
+ _J_a_k_u_b_ _s_p_o_d_ _M_a_n_í_n_a [Muž]37 [Kategorie]
+28.03.2013 07:09:47
+Super!!!!! :)
+
+Inak zvláštny ten link na obrázok... Na tablete ma to automaticky presmerovalo
+na "BaDoink" - androidovskú aplikáciu v štýle "p0rno videá v mobile"..... :-
+/ :P
+[Smajlík] [Muž]96 [Kategorie]
+ _r_a_m_e_n
+28.03.2013 06:22:44
+Gratulujem :)
+Sedel si nad tým až do polnoci? :)
+[Smajlík]      [Žena]31 [Kategorie]
+ _B_l_o_o_d_y_ _f_l_o_w_e_r
+28.03.2013 00:06:09
+Tak som to nakoniec o jbbal a zlúčil som ten prvý riadok a vrazil do neho
+jeden megavzorec. :P
+
+A na verím boha, zafungovalo to :D
+
+_h_t_t_p_:_/_/_p_o_s_t_i_m_g_._o_r_g_/_i_m_a_g_e_/_f_p_s_v_d_t_n_z_h_/
+[Smajlík]          [Muž]37 [Kategorie]
+ _J_a_k_u_b_ _s_p_o_d_ _M_a_n_í_n_a
+27.03.2013 11:50:34
+Aha, tak už mi je aspoň jasné, že čwooo a akwooo si to zamýšľal. :D
+
+Lebo síce som mal matnú predstavu, lenže práve tá bola najhoršia možná = že sa
+to nedá. :-S A tak som dúfal, že ja som pochopil zle a chceš niečo iné, čo
+pôjde urobiť ľahko. :P Lebo totiž, všade na nete dôrazne varujú, aby človek
+NEPOUŽÍVAL zlúčené bunky, pretože pre budúcnosť (a hlavne takéto kopírovania)
+predstavujú PITA ("bolesť v zadku"). :(((
+
+Teda obávam sa, že toto takto nepofunguje, lebo je to "vlastnosť" Excelu. :-S
+Snáď makrom by sa dalo tento limit obísť, ale nie je to také pohodlné, ako
+copy-paste...
+[Smajlík] [Muž]96 [Kategorie]
+ _r_a_m_e_n
+27.03.2013 10:26:38
+uff, no praveže potrebujem aby sa to vkladalo priamo do tejto tabulky, cez
+linky to mám urobené teraz, ale to je zdĺhavé - komplikované a tiež v prípade,
+že ma niekto zaskakuje, tak je z toho vôl.
+
+potrebujem aby ozaj celá tá akcia bola ctrl+c/v potom ctrl+p a dobre.. chápeš
+
+rozmýšľal som, či by sa nedal nejak oddeliť ten prvý riadok od tých ostatných
+- urobiť niečo ako vo worde hlavičku s tým, že ak by som mohol v hlavičke
+nastaviť šírku bunky 5 a v tabulke by som len roztiahol bunky ako by bolo
+treba, to by bolo úplne dokonalé..
+ _J_a_k_u_b_ _s_p_o_d_ _M_a_n_í_n_a [Muž]37 [Kategorie]
+27.03.2013 10:01:02
+alo uplne najlepsie by molo tie subory "linknut" a dakt prenasat kazdy stlpec
+zvlast na do presne urcenich zlucenich buniek
+ _U_F_O_P_o_r_n [Muž]32 [Kategorie]
+27.03.2013 09:56:41
+- fuu a rucne to posuvat??? (tolko roboty to zase nieje)
+- ak je toho vela a bude sa to robit casto tak by to mozno chcelo napisat
+skript.....
+- alebo to vkladat na ine miesta v dokumente a cez kopirovanie buniek tich
+duplikovat do dopredu zlucenich buniek
+ _U_F_O_P_o_r_n [Muž]32 [Kategorie]
+27.03.2013 09:32:13
+Tak dobre teda, skúsim vám to vysvetliť za pomoci vizualizácie :D
+
+Mám tabuľku:
+
+_h_t_t_p_:_/_/_i_4_9_._t_i_n_y_p_i_c_._c_o_m_/_o_7_r_1_9_s_._j_p_g_ 
+
+a do nej z externého súboru chcem skopírovať (ctrl+c/ctrl+v) hodnoty z tabuľky
+tejto:
+
+_h_t_t_p_:_/_/_i_4_6_._t_i_n_y_p_i_c_._c_o_m_/_f_m_2_q_z_p_._j_p_g_ 
+
+a chcem aby to vyzeralo takto:
+
+_h_t_t_p_:_/_/_i_4_5_._t_i_n_y_p_i_c_._c_o_m_/_2_4_f_c_t_t_w_._j_p_g_ 
+
+Ale ono to dopotené vyzerá takto:
+
+_h_t_t_p_:_/_/_i_4_6_._t_i_n_y_p_i_c_._c_o_m_/_2_8_0_o_c_b_4_._j_p_g_ 
+
+čiže otázka na parlament, čo mám urobiť aby to vyzeralo tak ako ja chcem?
+
+resp aby sa zlúčené bunky A až D neodlúčili po stlačení ctrl+v?
+
+podmienka, prvý riadok musí ostať nezmenený, teda tak, že potrebujem nad tými
+4-mi hlavnými stĺpcami 12 mini buniek.
+
+ďakujem za, veď vy viete ;)
+[Smajlík]          [Muž]37 [Kategorie]
+ _J_a_k_u_b_ _s_p_o_d_ _M_a_n_í_n_a
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+
