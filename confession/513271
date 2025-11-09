@@ -1,0 +1,206 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+   Otázky - Vzkazy č.513271, vloženo _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+   11.03.2011 16:14:30               _s_t_r_á_n_k_a_]
+   C#, problém
+   Zdravím, učím se doma z knihy C# a mám problém. Chci vytvořit program,
+   který vypočítá aritmetický průměr tím způsobem, že uživatel zadá počet
+   hodnot, poté zadá hodnoty a program vypočte AP. Bohužel mi cyklus for
+   neveme proměnnou počet, protože není inicializovaná (počet hodnot
+   nevíme), zkoušel jsem to vnořit i do podmínky if, ale ani to nepomohlo.
+   Nevíte někdo, jak by se to dalo udělat? Jinak původně to mělo být tak,
+   že uživatel nezadá počet hodnot, ale přímo píše hodnoty a když zadal 0,
+   tak se čtení hodnot ukončilo a vypočetl se AP, ale to si můžu zkusit
+   udělat, jestli dám dohromady nějak ten první program. Díky
+    csharp [Muž]18  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+11.03.2011 17:49:25
+MissNobody: vsak to moje je cely obaleny v try a ma to prazdnej catch block
+kde se v komentarich smeju uzivatelum
+ _S_o_s_a_r_i_a_n [Muž] [Kategorie]
+11.03.2011 17:47:01
+To protože nevidíš zbytek programu :D
+[Smajlík]   [Žena]30 [Kategorie]
+ _M_i_s_s_N_o_b_o_d_y
+11.03.2011 17:44:10
+MissNobody: nevidim ze ty by si tam tu vyjimku co si sama vyhodis nekde
+handlovala :)
+ _S_o_s_a_r_i_a_n [Muž] [Kategorie]
+11.03.2011 17:39:27
+Ta výjimka není uvnitř Try patternu. Ta metoda ho jenom využívá. Co se stane u
+tebe, když uživatel zadá písmeno -> Unhandled! :D
+ _M_i_s_s_N_o_b_o_d_y [Žena]30 [Kategorie]
+11.03.2011 17:37:40
+MissNobody: nemam, a btw pouzivas ten try pattern spatne kdyz v nem vyhazujes
+vyjimku, to uz rovnou muzes napsat try catch :)
+ _S_o_s_a_r_i_a_n [Muž] [Kategorie]
+11.03.2011 17:35:59
+Sosarian: Někdo tu má ReSharper, co :D A co takhle použít správně TryXXX
+pattern:
+
+if (!int.TryParse(input), out hodnota)
+{
+throw new MyException(..);
+}
+[Smajlík]   [Žena]30 [Kategorie]
+ _M_i_s_s_N_o_b_o_d_y
+11.03.2011 17:30:49
+MissNobody:
+premyslis nejak malo linq
+
+var hodnoty = Enumerator.Range(0, Console.ReadLine()).Select(n=> int.Parse
+(Console.ReadLine()));
+
+var prumer = hodnoty.Aggregate( (accumulator, current) => accumulator +
+current)) / hodnoty.Count();
+ _S_o_s_a_r_i_a_n [Muž] [Kategorie]
+11.03.2011 17:23:29
+int pocethodnot = int.Parse(Console.Read());
+
+for (int i = 0; i < pocethodnot; i++)
+{
+int hodnota = int.Parse(Console.Read());
+}
+ _S_o_s_a_r_i_a_n [Muž] [Kategorie]
+11.03.2011 16:43:30
+csharp : Proboha pošli sem konečně kód toho programu, tohle už začíná být
+diskuze naprosto o ničem. Věř mi, že důvod, proč ti to nedovolí, je čistě o
+tom, že jsi udělal nějakou naprosto zásadní logickou chybu, která nedává
+smysl. Tohle není o tom to "obejít", ale přesně si uvědomit, kde jsi tu chybu
+udělal, proč jsi udělal a proč to je chyba.
+ _l_i_b_i_k [Muž]34 [Kategorie]
+11.03.2011 16:43:00
+No tak ty hodnoty si samozrejme musis nekam ukladat, ze. Napr.
+
+List<int> values = new List();
+int input = -1;
+
+while (input != 0)
+{
+// nacti do input to co napsal user
+int.TryParse(.., out input);
+values.Add(input);
+}
+
+int result = values.Avg(); // vysledek
+ _M_i_s_s_N_o_b_o_d_y [Žena]30 [Kategorie]
+11.03.2011 16:40:05
+MissNobody: pokud to chápu správně, myslíš to, co Marek-lib, ale to nepůjde
+(důvod už jsem psal). Když položím podmínku=0, tak by mi to bylo k ničemu,
+protože už bych ji nezměnil.
+ csharp
+11.03.2011 16:38:20
+int input = -1;
+
+while (input != 0)
+{
+// nacti do input to co napsal user
+input = ..
+}
+
+// spocitej AP
+ _M_i_s_s_N_o_b_o_d_y [Žena]30 [Kategorie]
+11.03.2011 16:36:07
+Marek-lib: to jsem taky zkoušel, jenže ono ti to nedovolí mít např. x=0 a poté
+int x = int.Parse(Console.ReadLine()); protože tu lokální proměnnou použiješ
+2x
+ csharp
+11.03.2011 16:35:42
+Ok, použij while cyklus s podmínkou, že zadaná hodnota je rovná nule.
+ _M_i_s_s_N_o_b_o_d_y [Žena]30 [Kategorie]
+11.03.2011 16:34:07
+csharp : No to je blbost už od začátku :). Jak chceš něco dělat "x" krát, když
+nevíš kolik je x?
+
+To, že ti to pascal povolí je sice hezké, ale samotná struktura programů je
+všude stejná a blbost bude vždycky blbost :).
+
+Když mi pošleš přímo ten kód, tak ti přímo řeknu, proč je to blbost.
+ _l_i_b_i_k [Muž]34 [Kategorie]
+11.03.2011 16:33:33
+Což si takhle předem počet hodnot inicializovat? Po její inicializaci můžeš
+hodnotu té dané proměnné kdykoliv změnit, pokud není proměnná statická.
+ _M_a_r_e_k_-_l_i_b [Muž]35 [Kategorie]
+11.03.2011 16:31:29
+No mě nejde o to, aby mi někdo napsal přímo kód, já bych potřeboval vědět, zda
+se to dá nějak udělat. Protože do cyklu for to nevezme proměnnou, která zatím
+není inicializovaná, ale ta logicky nemůže být, protože neznáme počet hodnot.
+Potřeboval bych to nějak "obejít".
+ csharp
+11.03.2011 16:29:34
+Jinak vskutku děkuji Adminovi za přesunutí. V téhle kategorii mi odpoví tak za
+2 roky a jinak, nevidím důvod proč to přesunul, je to můj akutní problém a
+trápí mě to, že nemůžu přijít na řešení. Vskutku jste mi pomohli.
+ csharp
+11.03.2011 16:29:20
+Znamená to přesně to, co ti to píše :).
+
+Udělal jsi něco špatně a daná proměnná ve chvíli, kdy jí používáš, není
+inicializovaná, tzn. že jsi jí nepřiřadil žádnou hodnotu.
+
+A pokud sem nepošleš daný kód, tak ti sotva pomůžeme.
+ _l_i_b_i_k [Muž]34 [Kategorie]
+11.03.2011 16:25:34
+Proboha.. tak jinak, ve škole jsme dělali Pascal a v tom jsme měli za úkol
+něco ve stylu tohohle (že uživatel si zadal počet hodnot) a já jelikož se učím
+podle C# pro zelenáče si to chci zkusit právě v tomto jazyce, ale mám problém
+viz výše popsán.. V pascalu to šlo udělat, tak jak v C# ne a jen jsem chtěl
+pomoct, protože v té knížce není nic podobného. Jinak zcela chápu tvé
+myšlení.. určitě si v pátek odpoledne chci dělat domácí úkoly a probírat to na
+zpovědnici (jinak skutečný důvod, proč se tímto vůbec zabývám je, že beru atb
+a ven nemůžu)
+[Smajlík]
+ csharp
+11.03.2011 16:18:30
+To zní jako nějaký úkol či práce. V tom ti pomáhat nebudu. Málokdo chce napsat
+program, který počítá aritmetický průměr. Leda dement nebo člověk, který
+testuje právě vynalezený počítač. Snad se tu najde někdo jiný, já ne.
+[Smajlík]   [Žena]30 [Kategorie]
+ _M_i_s_s_N_o_b_o_d_y
+11.03.2011 16:18:26
+Svůj příspěvek jsi vložil(a) do nespravné kategorie. Bylo provedeno přesunutí.
+V případě opakování hrozí blokování vstupu na portál. Prosím zvol příště
+správnou kategorii. Děkujeme za pochopení.
+[Smajlík]      [Muž] [Kategorie]
+ _A_d_m_i_n_i_s_t_r_á_t_o_r
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+

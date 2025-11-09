@@ -1,0 +1,1040 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+   Otázky - Vzkazy č.519772, vloženo _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+   07.04.2011 19:38:32               _s_t_r_á_n_k_a_]
+   Help me, spěchá
+   Po zapnutí PC mám prázdnou plochu, není tu žádná ikona, PC hlučí,
+   jakokdyby stále nabíha, hrozně dlouho trvá, než vůbec naběhne net.
+   Při několikerém restartu se začal čistit disk nebo jak se tomu říká,
+   když zcela nenaběhne OS a je tam ta modrá obrazovka.. no dost se tam
+   toho čistilo, jako v té první části tak v nějakých seznamech.. ale zase
+   naběhla plocha jen s tapetou a ikony nikde..
+   Co je špatně, jak to vrátit do původního stavu?
+    prosim prosim gate [Muž]18  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+08.04.2011 10:00:23
+R0 - HKCUSoftwareMicrosoftInternet ExplorerMain,Start Page = _h_t_t_p_:_/_/
+_w_w_w_._c_e_n_t_r_u_m_._c_z_/_ 
+O2 - BHO: SSVHelper Class - {761497BB-D6F0-462C-B6EB-D4DAF1D92D43} - C:Program
+FilesJavajre1.6.0_01binssv.dll
+O4 - HKLM..Run: [NvCplDaemon] RUNDLL32.EXE C:
+WINDOWSsystem32NvCpl.dll,NvStartup
+O4 - HKLM..Run: [nwiz] nwiz.exe /install
+O4 - HKLM..Run: [NvMediaCenter] RUNDLL32.EXE C:
+WINDOWSsystem32NvMcTray.dll,NvTaskbarInit
+O4 - HKLM..Run: [SoundMAXPnP] C:Program FilesAnalog DevicesCoresmax4pnp.exe
+O4 - HKLM..Run: [SoundMAX] "C:Program FilesAnalog DevicesSoundMAXSmax4.exe" /
+tray
+O4 - HKLM..Run: [Lexmark X1100 Series] "C:Program FilesLexmark X1100
+Serieslxbkbmgr.exe"
+O4 - HKLM..Run: [avast5] C:PROGRA~1ALWILS~1Avast5avastUI.exe /nogui
+O4 - HKCU..Run: [CTFMON.EXE] C:WINDOWSsystem32ctfmon.exe
+O4 - HKCU..Run: [Skype] "C:Program FilesSkypePhoneSkype.exe" /nosplash /
+minimized
+O4 - HKUSS-1-5-19..Run: [CTFMON.EXE] C:WINDOWSsystem32CTFMON.EXE (User 'LOCAL
+SERVICE')
+O4 - HKUSS-1-5-20..Run: [CTFMON.EXE] C:WINDOWSsystem32CTFMON.EXE (User
+'NETWORK SERVICE')
+O4 - HKUSS-1-5-18..Run: [CTFMON.EXE] C:WINDOWSsystem32CTFMON.EXE (User
+'SYSTEM')
+O4 - HKUS.DEFAULT..Run: [CTFMON.EXE] C:WINDOWSsystem32CTFMON.EXE (User
+'Default user')
+O8 - Extra context menu item: E&xportovat do aplikace Microsoft Office Excel -
+_r_e_s_:_/_/_C_:_P_R_O_G_R_A_~_1_M_I_C_R_O_S_~_3_O_F_F_I_C_E_1_1_E_X_C_E_L_._E_X_E_/_3_0_0_0_ 
+O9 - Extra button: (no name) - {08B0E5C0-4FCB-11CF-AAA5-00401C608501} - C:
+Program FilesJavajre1.6.0_01binssv.dll
+O9 - Extra 'Tools' menuitem: Sun Java Console - {08B0E5C0-4FCB-11CF-AAA5-
+00401C608501} - C:Program FilesJavajre1.6.0_01binssv.dll
+O9 - Extra button: Research - {92780B25-18CC-41C8-B9BE-3C9C571A8263} - C:
+PROGRA~1MICROS~3Office12REFIEBAR.DLL
+O9 - Extra button: Messenger - {FB5F1910-F110-11d2-BB9E-00C04F795683} - C:
+Program FilesMessengermsmsgs.exe
+O9 - Extra 'Tools' menuitem: Windows Messenger - {FB5F1910-F110-11d2-BB9E-
+00C04F795683} - C:Program FilesMessengermsmsgs.exe
+O18 - Protocol: skype4com - {FFC8B962-9B40-4DFF-9458-1830C7DD7F5D} - C:
+PROGRA~1COMMON~1SkypeSKYPE4~1.DLL
+O23 - Service: avast! Antivirus - ALWIL Software - C:Program FilesAlwil
+SoftwareAvast5AvastSvc.exe
+O23 - Service: avast! Mail Scanner - ALWIL Software - C:Program FilesAlwil
+SoftwareAvast5AvastSvc.exe
+O23 - Service: avast! Web Scanner - ALWIL Software - C:Program FilesAlwil
+SoftwareAvast5AvastSvc.exe
+O23 - Service: getPlus(R) Helper - NOS Microsystems Ltd. - C:Program
+FilesNOSbingetPlus_HelperSvc.exe
+O23 - Service: Služba Google Update (gupdate) (gupdate) - Google Inc. - C:
+Program FilesGoogleUpdateGoogleUpdate.exe
+O23 - Service: ICQ Service - Unknown owner - C:Program FilesICQ6ToolbarICQ
+Service.exe
+O23 - Service: LexBce Server (LexBceS) - Lexmark International, Inc. - C:
+WINDOWSsystem32LEXBCES.EXE
+O23 - Service: NVIDIA Display Driver Service (NVSvc) - NVIDIA Corporation - C:
+WINDOWSsystem32nvsvc32.exe
+O23 - Service: ProtexisLicensing - Unknown owner - C:
+WINDOWSsystem32PSIService.exe
+
+--
+End of file -
+ prosim prosim gate
+08.04.2011 09:59:39
+tak jsem použil i ten cleaner na registry a čistič..
+
+výsledky s hijacku:
+
+Logfile of Trend Micro HijackThis v2.0.2
+Scan saved at 9:57:22, on 8.4.2011
+Platform: Windows XP SP2 (WinNT 5.01.2600)
+MSIE: Internet Explorer v6.00 SP2 (6.00.2900.2180)
+Boot mode: Normal
+
+Running processes:
+C:WINDOWSSystem32smss.exe
+C:WINDOWSsystem32winlogon.exe
+C:WINDOWSsystem32services.exe
+C:WINDOWSsystem32lsass.exe
+C:WINDOWSsystem32svchost.exe
+C:WINDOWSSystem32svchost.exe
+C:Program FilesAlwil SoftwareAvast5AvastSvc.exe
+C:WINDOWSsystem32LEXBCES.EXE
+C:WINDOWSsystem32spoolsv.exe
+C:WINDOWSsystem32LEXPPS.EXE
+C:Program FilesICQ6ToolbarICQ Service.exe
+C:WINDOWSsystem32nvsvc32.exe
+C:WINDOWSsystem32PSIService.exe
+C:WINDOWSsystem32svchost.exe
+C:WINDOWSExplorer.EXE
+C:WINDOWSsystem32RUNDLL32.EXE
+C:Program FilesAnalog DevicesCoresmax4pnp.exe
+C:Program FilesAnalog DevicesSoundMAXSmax4.exe
+C:Program FilesLexmark X1100 Serieslxbkbmgr.exe
+C:PROGRA~1ALWILS~1Avast5avastUI.exe
+C:WINDOWSsystem32wscntfy.exe
+C:Program FilesLexmark X1100 Serieslxbkbmon.exe
+C:WINDOWSsystem32ctfmon.exe
+C:Program FilesSkypePhoneSkype.exe
+C:PROGRA~1MICROS~3Office12OUTLOOK.EXE
+C:Documents and SettingsuzivatelDokumentyStažené souboryhijackthis.exe
+ prosim prosim gate
+08.04.2011 00:28:34
+prosim prosim gate: klidně to vymaž všechno, ale zeptá se tě to, jestli chceš
+províst zálohu, tak ji proveď a pak dej ještě znova zkontrolovat.
+ _D_r_s_n_e_j_D_r_s_o_ň [Muž] [Kategorie]
+08.04.2011 00:07:33
+chceš tu výsledek těch registrů? ;) a můžu dát bezstarosti opravený všeho?
+nebo je třeba vybrat? abych zas neco nedojebal
+ prosim prosim gate
+08.04.2011 00:02:48
+a v tom ccleaneru mám dát prosím co? analyzovat nebo rovnou spustit Cleaner?
+mám nechat zaškrtnuté vše, co tam bylo zaškrtnuté automaticky?
+ prosim prosim gate
+07.04.2011 23:58:37
+Stejně ti tam toho bordelu zůstalo furt....
+ _D_r_s_n_e_j_D_r_s_o_ň [Muž] [Kategorie]
+07.04.2011 23:54:53
+Aspoň něco. Zkus tedy pročistit tím CCleanerem. Registry a místo.
+ _D_r_s_n_e_j_D_r_s_o_ň [Muž] [Kategorie]
+07.04.2011 23:52:42
+SoftwareAvast5AvastSvc.exe
+O23 - Service: avast! Web Scanner - ALWIL Software - C:Program FilesAlwil
+SoftwareAvast5AvastSvc.exe
+O23 - Service: getPlus(R) Helper - NOS Microsystems Ltd. - C:Program
+FilesNOSbingetPlus_HelperSvc.exe
+O23 - Service: Služba Google Update (gupdate) (gupdate) - Google Inc. - C:
+Program FilesGoogleUpdateGoogleUpdate.exe
+O23 - Service: ICQ Service - Unknown owner - C:Program FilesICQ6ToolbarICQ
+Service.exe
+O23 - Service: LexBce Server (LexBceS) - Lexmark International, Inc. - C:
+WINDOWSsystem32LEXBCES.EXE
+O23 - Service: NVIDIA Display Driver Service (NVSvc) - NVIDIA Corporation - C:
+WINDOWSsystem32nvsvc32.exe
+O23 - Service: ProtexisLicensing - Unknown owner - C:
+WINDOWSsystem32PSIService.exe
+
+--
+End of file - 4484 bytes
+ prosim prosim gate
+07.04.2011 23:51:57
+R0 - HKCUSoftwareMicrosoftInternet ExplorerMain,Start Page = _h_t_t_p_:_/_/
+_w_w_w_._c_e_n_t_r_u_m_._c_z_/_ 
+O2 - BHO: SSVHelper Class - {761497BB-D6F0-462C-B6EB-D4DAF1D92D43} - C:Program
+FilesJavajre1.6.0_01binssv.dll
+O4 - HKLM..Run: [NvCplDaemon] RUNDLL32.EXE C:
+WINDOWSsystem32NvCpl.dll,NvStartup
+O4 - HKLM..Run: [nwiz] nwiz.exe /install
+O4 - HKLM..Run: [NvMediaCenter] RUNDLL32.EXE C:
+WINDOWSsystem32NvMcTray.dll,NvTaskbarInit
+O4 - HKLM..Run: [SoundMAXPnP] C:Program FilesAnalog DevicesCoresmax4pnp.exe
+O4 - HKLM..Run: [SoundMAX] "C:Program FilesAnalog DevicesSoundMAXSmax4.exe" /
+tray
+O4 - HKLM..Run: [Lexmark X1100 Series] "C:Program FilesLexmark X1100
+Serieslxbkbmgr.exe"
+O4 - HKLM..Run: [avast5] C:PROGRA~1ALWILS~1Avast5avastUI.exe /nogui
+O4 - HKCU..Run: [CTFMON.EXE] C:WINDOWSsystem32ctfmon.exe
+O4 - HKCU..Run: [Skype] "C:Program FilesSkypePhoneSkype.exe" /nosplash /
+minimized
+O4 - HKCU..Run: [ICQ] "C:Program FilesICQ6.5ICQ.exe" silent
+O4 - HKUSS-1-5-19..Run: [CTFMON.EXE] C:WINDOWSsystem32CTFMON.EXE (User 'LOCAL
+SERVICE')
+O4 - HKUSS-1-5-20..Run: [CTFMON.EXE] C:WINDOWSsystem32CTFMON.EXE (User
+'NETWORK SERVICE')
+O4 - HKUSS-1-5-18..Run: [CTFMON.EXE] C:WINDOWSsystem32CTFMON.EXE (User
+'SYSTEM')
+O4 - HKUS.DEFAULT..Run: [CTFMON.EXE] C:WINDOWSsystem32CTFMON.EXE (User
+'Default user')
+O8 - Extra context menu item: E&xportovat do aplikace Microsoft Office Excel -
+_r_e_s_:_/_/_C_:_P_R_O_G_R_A_~_1_M_I_C_R_O_S_~_3_O_F_F_I_C_E_1_1_E_X_C_E_L_._E_X_E_/_3_0_0_0_ 
+O9 - Extra button: (no name) - {08B0E5C0-4FCB-11CF-AAA5-00401C608501} - C:
+Program FilesJavajre1.6.0_01binssv.dll
+O9 - Extra 'Tools' menuitem: Sun Java Console - {08B0E5C0-4FCB-11CF-AAA5-
+00401C608501} - C:Program FilesJavajre1.6.0_01binssv.dll
+O9 - Extra button: Research - {92780B25-18CC-41C8-B9BE-3C9C571A8263} - C:
+PROGRA~1MICROS~3Office12REFIEBAR.DLL
+O9 - Extra button: Messenger - {FB5F1910-F110-11d2-BB9E-00C04F795683} - C:
+Program FilesMessengermsmsgs.exe
+O9 - Extra 'Tools' menuitem: Windows Messenger - {FB5F1910-F110-11d2-BB9E-
+00C04F795683} - C:Program FilesMessengermsmsgs.exe
+O18 - Protocol: skype4com - {FFC8B962-9B40-4DFF-9458-1830C7DD7F5D} - C:
+PROGRA~1COMMON~1SkypeSKYPE4~1.DLL
+O23 - Service: avast! Antivirus - ALWIL Software - C:Program FilesAlwil
+SoftwareAvast5AvastSvc.exe
+O23 - Service: avast! Mail Scanner - ALWIL Software - C:Program FilesAlwil
+ prosim prosim gate
+07.04.2011 23:45:35
+"rychlý" scan proveden.. nic nenalezeno.. pak se mi celý komp sekl, nutný
+restart..ale naběhl bez problémů (aj s ikonama ;) ale byly nutná jakási
+aktualizace desctopu či jak to bylo.. no cosi na ploše.. ale pc už je zase
+klidný, jako že už tolik nehlučí ;)
+ prosim prosim gate
+07.04.2011 23:35:58
+Stáhni si _h_t_t_p_:_/_/_t_i_n_y_u_r_l_._c_o_m_/_4_x_j_e_w_8_l_ nezapomeň aktualizovat a rychlej scan.
+Zbytek návod a hoď sem zas výsledek z texťáku. :) Ten vdownloader a teatimer
+se může doodstranit pak. klikni na ten odkaz, pak pochopíš. :)
+ _D_r_s_n_e_j_D_r_s_o_ň [Muž] [Kategorie]
+07.04.2011 23:03:15
+R0 - HKCUSoftwareMicrosoftInternet ExplorerMain,Start Page = _h_t_t_p_:_/_/
+_w_w_w_._c_e_n_t_r_u_m_._c_z_/_ 
+O2 - BHO: SSVHelper Class - {761497BB-D6F0-462C-B6EB-D4DAF1D92D43} - C:Program
+FilesJavajre1.6.0_01binssv.dll
+O4 - HKLM..Run: [NvCplDaemon] RUNDLL32.EXE C:
+WINDOWSsystem32NvCpl.dll,NvStartup
+O4 - HKLM..Run: [nwiz] nwiz.exe /install
+O4 - HKLM..Run: [NvMediaCenter] RUNDLL32.EXE C:
+WINDOWSsystem32NvMcTray.dll,NvTaskbarInit
+O4 - HKLM..Run: [SoundMAXPnP] C:Program FilesAnalog DevicesCoresmax4pnp.exe
+O4 - HKLM..Run: [SoundMAX] "C:Program FilesAnalog DevicesSoundMAXSmax4.exe" /
+tray
+O4 - HKLM..Run: [Lexmark X1100 Series] "C:Program FilesLexmark X1100
+Serieslxbkbmgr.exe"
+O4 - HKLM..Run: [avast5] C:PROGRA~1ALWILS~1Avast5avastUI.exe /nogui
+O4 - HKCU..Run: [CTFMON.EXE] C:WINDOWSsystem32ctfmon.exe
+O4 - HKCU..Run: [Skype] "C:Program FilesSkypePhoneSkype.exe" /nosplash /
+minimized
+O4 - HKCU..Run: [ICQ] "C:Program FilesICQ6.5ICQ.exe" silent
+O4 - HKCU..Run: [ICQUpdater] "C:DOCUME~1uzivatelLOCALS~1TempIcqUpdater.exe" -
+update 1440 "C:PROGRA~1ICQ6.5updates" "C:PROGRA~1ICQ6.5" "C:
+PROGRA~1ICQ6.5ICQ.exe noupdater=1" /autorun
+O4 - HKUSS-1-5-19..Run: [CTFMON.EXE] C:WINDOWSsystem32CTFMON.EXE (User 'LOCAL
+SERVICE')
+O4 - HKUSS-1-5-20..Run: [CTFMON.EXE] C:WINDOWSsystem32CTFMON.EXE (User
+'NETWORK SERVICE')
+O4 - HKUSS-1-5-18..Run: [CTFMON.EXE] C:WINDOWSsystem32CTFMON.EXE (User
+'SYSTEM')
+O4 - HKUS.DEFAULT..Run: [CTFMON.EXE] C:WINDOWSsystem32CTFMON.EXE (User
+'Default user')
+O8 - Extra context menu item: E&xportovat do aplikace Microsoft Office Excel -
+_r_e_s_:_/_/_C_:_P_R_O_G_R_A_~_1_M_I_C_R_O_S_~_3_O_F_F_I_C_E_1_1_E_X_C_E_L_._E_X_E_/_3_0_0_0_ 
+O9 - Extra button: (no name) - {08B0E5C0-4FCB-11CF-AAA5-00401C608501} - C:
+Program FilesJavajre1.6.0_01binssv.dll
+O9 - Extra 'Tools' menuitem: Sun Java Console - {08B0E5C0-4FCB-11CF-AAA5-
+00401C608501} - C:Program FilesJavajre1.6.0_01binssv.dll
+O9 - Extra button: Research - {92780B25-18CC-41C8-B9BE-3C9C571A8263} - C:
+PROGRA~1MICROS~3Office12REFIEBAR.DLL
+O9 - Extra button: Messenger - {FB5F1910-F110-11d2-BB9E-00C04F795683} - C:
+Program FilesMessengermsmsgs.exe
+O9 - Extra 'Tools' menuitem: Windows Messenger - {FB5F1910-F110-11d2-BB9E-
+00C04F795683} - C:Program FilesMessengermsmsgs.exe
+O18 - Protocol: skype4com - {FFC8B962-9B40-4DFF-9458-1830C7DD7F5D} - C:
+PROGRA~1COMMON~1SkypeSKYPE4~1.DLL
+O23 - Service: avast! Antivirus - ALWIL Software - C:Program FilesAlwil
+SoftwareAvast5AvastSvc.exe
+O23 - Service: avast! Mail Scanner - ALWIL Software - C:Program FilesAlwil
+SoftwareAvast5AvastSvc.exe
+O23 - Service: avast! Web Scanner - ALWIL Software - C:Program FilesAlwil
+SoftwareAvast5AvastSvc.exe
+O23 - Service: getPlus(R) Helper - NOS Microsystems Ltd. - C:Program
+FilesNOSbingetPlus_HelperSvc.exe
+O23 - Service: Služba Google Update (gupdate) (gupdate) - Google Inc. - C:
+Program FilesGoogleUpdateGoogleUpdate.exe
+O23 - Service: ICQ Service - Unknown owner - C:Program FilesICQ6ToolbarICQ
+Service.exe
+O23 - Service: Lex
+ prosim prosim gate
+07.04.2011 23:01:52
+zatím bez cleaneru a malwaru:
+
+Running processes:
+C:WINDOWSSystem32smss.exe
+C:WINDOWSsystem32winlogon.exe
+C:WINDOWSsystem32services.exe
+C:WINDOWSsystem32lsass.exe
+C:WINDOWSsystem32svchost.exe
+C:WINDOWSSystem32svchost.exe
+C:Program FilesAlwil SoftwareAvast5AvastSvc.exe
+C:WINDOWSsystem32LEXBCES.EXE
+C:WINDOWSsystem32spoolsv.exe
+C:WINDOWSsystem32LEXPPS.EXE
+C:WINDOWSExplorer.EXE
+C:WINDOWSsystem32RUNDLL32.EXE
+C:Program FilesAnalog DevicesCoresmax4pnp.exe
+C:Program FilesAnalog DevicesSoundMAXSmax4.exe
+C:Program FilesLexmark X1100 Serieslxbkbmgr.exe
+C:PROGRA~1ALWILS~1Avast5avastUI.exe
+C:WINDOWSsystem32ctfmon.exe
+C:Program FilesSpybot - Search & DestroyTeaTimer.exe
+C:Program FilesLexmark X1100 Serieslxbkbmon.exe
+C:Program FilesSkypePhoneSkype.exe
+C:Documents and SettingsuzivatelData aplikacíDropboxbinDropbox.exe
+C:Program FilesICQ6ToolbarICQ Service.exe
+C:WINDOWSsystem32nvsvc32.exe
+C:WINDOWSsystem32PSIService.exe
+C:WINDOWSsystem32svchost.exe
+C:WINDOWSsystem32wscntfy.exe
+C:Program FilesSkypeToolbarsSharedSkypeNames.exe
+C:Program FilesMozilla Firefoxfirefox.exe
+C:Documents and SettingsuzivatelDokumentyStažené souboryhijackthis.exe
+ prosim prosim gate
+07.04.2011 22:59:51
+DrsnejDrsoň: a co že to mám aktualizovat prosím?
+ prosim prosim gate
+07.04.2011 22:28:14
+Stáhni si _h_t_t_p_:_/_/_t_i_n_y_u_r_l_._c_o_m_/_4_x_j_e_w_8_l_ nezapomeň aktualizovat a rychlej scan.
+Zbytek návod a hoď sem zas výsledek z texťáku. :) Ten vdownloader a teatimer
+se může doodstranit pak.
+ _D_r_s_n_e_j_D_r_s_o_ň [Muž] [Kategorie]
+07.04.2011 22:22:33
+a taky mi nejde odebrat VDownloader Toolbar.. No a s těma případnýma blechama
+/ breberkama pak co.. ? ;)
+ prosim prosim gate
+07.04.2011 22:20:37
+z toho spybotu mi tam zůstal nějaký TeaTimer, který nelze odstranit
+ prosim prosim gate
+07.04.2011 22:13:24
+prosim prosim gate: a nezapomeň odinstalovat spybot. Dej pak vědět, myslím si,
+že tam budeš mít zablešeno.
+ _D_r_s_n_e_j_D_r_s_o_ň [Muž] [Kategorie]
+07.04.2011 22:12:18
+tak teda díky, zkusím odfixovat co se dá a ten cleaner no.. :)
+[Smajlík]
+ prosim prosim gate
+07.04.2011 21:51:04
+Podle mě tam bude mít nějaký breberky a ani nechápu, proč se mu spouští
+icqupdater z dočasný složky...
+ _D_r_s_n_e_j_D_r_s_o_ň [Muž] [Kategorie]
+07.04.2011 21:27:41
+DrsnejDrsoň: aha, já to prolítl jen tak letmo :)
+ _#_#_#_#_# [Muž]21 [Kategorie]
+07.04.2011 21:27:00
+#####: vypadá to, že zástupce neobsahuje žádnou cestu.
+ _D_r_s_n_e_j_D_r_s_o_ň [Muž] [Kategorie]
+07.04.2011 21:24:54
+Odinstaluj Spybot, stáhni si CCleaner _h_t_t_p_:_/_/_w_w_w_._s_l_u_n_e_c_n_i_c_e_._c_z_/_s_w_/_c_c_l_e_a_n_e_r_/
+pročisti kompl a pak se uvidí, co dál, jestli to zvládneš. :D (v Hijackthisu
+sem označil položky, který si myslím, že ti jsou k ničemu).
+ _D_r_s_n_e_j_D_r_s_o_ň [Muž] [Kategorie]
+07.04.2011 21:24:27
+DrsnejDrsoň: ten dropbox je ok, ne? :)
+ _#_#_#_#_# [Muž]21 [Kategorie]
+07.04.2011 21:22:40
+Odinstaluj tedy toolbary, který životně nutně nepotřebuješ (všechny) :D
+Fixni:
+R1 - HKCUSoftwareMicrosoftInternet ExplorerMain,Default_Search_URL = _h_t_t_p_:_/_/
+_s_e_a_r_c_h_._q_i_p_._r_u_ 
+R1 - HKCUSoftwareMicrosoftInternet ExplorerSearch,SearchAssistant = _h_t_t_p_:_/_/
+_s_e_a_r_c_h_._q_i_p_._r_u_/_i_e_ 
+R1 - HKCUSoftwareMicrosoftInternet ExplorerSearchURL,(Default) = Root: HKCU;
+Subkey: SoftwareMicrosoftInternet ExplorerSearchUrl; ValueType: string;
+ValueName: '; ValueData: '; Flags: createvalueifdoesntexist noerror; Tasks:
+AddSearchQip
+R3 - URLSearchHook: ICQToolBar - {855F3B16-6D32-4fe6-8A56-BBB695989046} - C:
+Program FilesICQ6ToolbarICQToolBar.dll
+O2 - BHO: AcroIEHelperStub - {18DF081C-E8AD-4283-A596-FA578C2EBDC3} - C:
+Program FilesCommon FilesAdobeAcrobatActiveXAcroIEHelperShim.dll
+O2 - BHO: Winamp Toolbar Loader - {25CEE8EC-5730-41bc-8B58-22DDC8AB8C20} - C:
+Program FilesWinamp Toolbarwinamptb.dll
+O2 - BHO: Spybot-S&D IE Protection - {53707962-6F74-2D53-2644-206D7942484F} -
+C:PROGRA~1SPYBOT~1SDHelper.dll
+O2 - BHO: Google Toolbar Helper - {AA58ED58-01DD-4d91-8333-CF10577473F7} - C:
+Program FilesGoogleGoogle ToolbarGoogleToolbar_32.dll
+O2 - BHO: Google Toolbar Notifier BHO - {AF69DE43-7D58-4638-B6FA-CE66B5AD205D}
+- C:Program FilesGoogleGoogleToolbarNotifier5.6.6209.1142swg.dll
+O2 - BHO: PDFCreator Toolbar Helper - {C451C08A-EC37-45DF-AAAD-18B51AB5E837} -
+C:Program FilesPDFCreato
+O3 - Toolbar: ICQToolBar - {855F3B16-6D32-4FE6-8A56-BBB695989046} - C:Program
+FilesICQ6ToolbarICQToolBar.dll
+O4 - HKLM..Run: [Adobe Reader Speed Launcher] "C:Program FilesAdobeReader
+9.0ReaderReader_sl.exe"
+O4 - HKLM..Run: [NeroFilterCheck] C:WINDOWSsystem32NeroCheck.exe
+O4 - HKCU..Run: [SpybotSD TeaTimer] C:Program FilesSpybot - Search &
+DestroyTeaTimer.exe
+O4 - HKCU..Run: [Google Update] "C:Documents and SettingsuzivatelLocal
+SettingsData aplikacíGoogleUpdateGoogleUpdate.exe" /c
+O4 - HKCU..Run: [ICQUpdater] "C:DOCUME~1uzivatelLOCALS~1TempIcqUpdater.exe" -
+update 1440 "C:PROGRA~1ICQ6.5updates" "C:PROGRA~1ICQ6.5" "C:
+PROGRA~1ICQ6.5ICQ.exe noupdater=1" /autorun
+O4 - Startup: Dropbox.lnk = ?
+O8 - Extra context menu item: &Winamp Search - C:Documents and SettingsAll
+UsersData aplikacíWinamp ToolbarieToolbarresourcesen-USlocalsearch.html
+O8 - Extra context menu item: Google Sidewiki... - _r_e_s_:_/_/_C_:_P_r_o_g_r_a_m
+FilesGoogleGoogle
+ToolbarComponentGoogleToolbarDynamic_mui_en_D183CA64F05FDD98.dll/
+cmsidewiki.html
+O9 - Extra button: ICQ7.2 - {72EFBFE4-C74F-4187-AEFD-73EA3BE968D6} - C:Program
+FilesICQ7.2ICQ.exe
+O9 - Extra 'Tools' menuitem: ICQ7.2 - {72EFBFE4-C74F-4187-AEFD-73EA3BE968D6} -
+C:Program FilesICQ7.2ICQ.exe
+O9 - Extra button: (no name) - {DFB852A3-47F8-48C4-A200-58CAB36FD2A2} - C:
+PROGRA~1SPYBOT~1SDHelper.dll
+O9 - Extra 'Tools' menuitem: Spybot - Search & Destroy Configuration -
+{DFB852A3-47F8-48C4-A200-58CAB36FD2A2} - C:PROGRA~1SPYBOT~1SDHelper.dll
+O9 - Extra button: QIP 2005 - {1EF681F7-A04B-4D6D-9012-A307CCA55610}
+ _D_r_s_n_e_j_D_r_s_o_ň [Muž] [Kategorie]
+07.04.2011 21:10:37
+ten spybot mi tam dal kamoš, když mi přeinstalovával pc.. ani neřekl, k čemu
+to je.. nevím, jaké změny mohu povolit, jaké ne.. no odjel do Německa, tak ten
+mi už neporadí
+ prosim prosim gate
+07.04.2011 21:09:13
+O4 - Startup: Dropbox.lnk = ?
+O8 - Extra context menu item: &Winamp Search - C:Documents and SettingsAll
+UsersData aplikacíWinamp ToolbarieToolbarresourcesen-USlocalsearch.html
+O8 - Extra context menu item: E&xportovat do aplikace Microsoft Office Excel -
+_r_e_s_:_/_/_C_:_P_R_O_G_R_A_~_1_M_I_C_R_O_S_~_3_O_F_F_I_C_E_1_1_E_X_C_E_L_._E_X_E_/_3_0_0_0_ 
+O8 - Extra context menu item: Google Sidewiki... - _r_e_s_:_/_/_C_:_P_r_o_g_r_a_m
+FilesGoogleGoogle
+ToolbarComponentGoogleToolbarDynamic_mui_en_D183CA64F05FDD98.dll/
+cmsidewiki.html
+O9 - Extra button: (no name) - {08B0E5C0-4FCB-11CF-AAA5-00401C608501} - C:
+Program FilesJavajre1.6.0_01binssv.dll
+O9 - Extra 'Tools' menuitem: Sun Java Console - {08B0E5C0-4FCB-11CF-AAA5-
+00401C608501} - C:Program FilesJavajre1.6.0_01binssv.dll
+O9 - Extra button: ICQ7.2 - {72EFBFE4-C74F-4187-AEFD-73EA3BE968D6} - C:Program
+FilesICQ7.2ICQ.exe
+O9 - Extra 'Tools' menuitem: ICQ7.2 - {72EFBFE4-C74F-4187-AEFD-73EA3BE968D6} -
+C:Program FilesICQ7.2ICQ.exe
+O9 - Extra button: Research - {92780B25-18CC-41C8-B9BE-3C9C571A8263} - C:
+PROGRA~1MICROS~3Office12REFIEBAR.DLL
+O9 - Extra button: (no name) - {DFB852A3-47F8-48C4-A200-58CAB36FD2A2} - C:
+PROGRA~1SPYBOT~1SDHelper.dll
+O9 - Extra 'Tools' menuitem: Spybot - Search & Destroy Configuration -
+{DFB852A3-47F8-48C4-A200-58CAB36FD2A2} - C:PROGRA~1SPYBOT~1SDHelper.dll
+O9 - Extra button: Messenger - {FB5F1910-F110-11d2-BB9E-00C04F795683} - C:
+Program FilesMessengermsmsgs.exe
+O9 - Extra 'Tools' menuitem: Windows Messenger - {FB5F1910-F110-11d2-BB9E-
+00C04F795683} - C:Program FilesMessengermsmsgs.exe
+O9 - Extra button: QIP 2005 - {1EF681F7-A04B-4D6D-9012-A307CCA55610} - C:
+Program FilesQIPqip.exe (file missing) (HKCU)
+O18 - Protocol: skype4com - {FFC8B962-9B40-4DFF-9458-1830C7DD7F5D} - C:
+PROGRA~1COMMON~1SkypeSKYPE4~1.DLL
+O23 - Service: avast! Antivirus - ALWIL Software - C:Program FilesAlwil
+SoftwareAvast5AvastSvc.exe
+O23 - Service: avast! Mail Scanner - ALWIL Software - C:Program FilesAlwil
+SoftwareAvast5AvastSvc.exe
+O23 - Service: avast! Web Scanner - ALWIL Software - C:Program FilesAlwil
+SoftwareAvast5AvastSvc.exe
+O23 - Service: getPlus(R) Helper - NOS Microsystems Ltd. - C:Program
+FilesNOSbingetPlus_HelperSvc.exe
+O23 - Service: Služba Google Update (gupdate) (gupdate) - Google Inc. - C:
+Program FilesGoogleUpdateGoogleUpdate.exe
+O23 - Service: ICQ Service - Unknown owner - C:Program FilesICQ6ToolbarICQ
+Service.exe
+O23 - Service: LexBce Server (LexBceS) - Lexmark International, Inc. - C:
+WINDOWSsystem32LEXBCES.EXE
+O23 - Service: NVIDIA Display Driver Service (NVSvc) - NVIDIA Corporation - C:
+WINDOWSsystem32nvsvc32.exe
+O23 - Service: ProtexisLicensing - Unknown owner - C:
+WINDOWSsystem32PSIService.exe
+
+--
+End of file - 6972 bytes
+
+a to je vše, přátelé ;)
+ prosim prosim gate
+07.04.2011 21:08:31
+R0 - HKCUSoftwareMicrosoftInternet ExplorerMain,Start Page = _h_t_t_p_:_/_/
+_w_w_w_._c_e_n_t_r_u_m_._c_z_/_ 
+R1 - HKCUSoftwareMicrosoftInternet ExplorerSearchURL,(Default) = Root: HKCU;
+Subkey: SoftwareMicrosoftInternet ExplorerSearchUrl; ValueType: string;
+ValueName: '; ValueData: '; Flags: createvalueifdoesntexist noerror; Tasks:
+AddSearchQip
+R3 - URLSearchHook: ICQToolBar - {855F3B16-6D32-4fe6-8A56-BBB695989046} - C:
+Program FilesICQ6ToolbarICQToolBar.dll
+O2 - BHO: AcroIEHelperStub - {18DF081C-E8AD-4283-A596-FA578C2EBDC3} - C:
+Program FilesCommon FilesAdobeAcrobatActiveXAcroIEHelperShim.dll
+O2 - BHO: Spybot-S&D IE Protection - {53707962-6F74-2D53-2644-206D7942484F} -
+C:PROGRA~1SPYBOT~1SDHelper.dll
+O2 - BHO: SSVHelper Class - {761497BB-D6F0-462C-B6EB-D4DAF1D92D43} - C:Program
+FilesJavajre1.6.0_01binssv.dll
+O3 - Toolbar: ICQToolBar - {855F3B16-6D32-4FE6-8A56-BBB695989046} - C:Program
+FilesICQ6ToolbarICQToolBar.dll
+O4 - HKLM..Run: [NvCplDaemon] RUNDLL32.EXE C:
+WINDOWSsystem32NvCpl.dll,NvStartup
+O4 - HKLM..Run: [nwiz] nwiz.exe /install
+O4 - HKLM..Run: [NvMediaCenter] RUNDLL32.EXE C:
+WINDOWSsystem32NvMcTray.dll,NvTaskbarInit
+O4 - HKLM..Run: [Adobe Reader Speed Launcher] "C:Program FilesAdobeReader
+9.0ReaderReader_sl.exe"
+O4 - HKLM..Run: [NeroFilterCheck] C:WINDOWSsystem32NeroCheck.exe
+O4 - HKLM..Run: [SoundMAXPnP] C:Program FilesAnalog DevicesCoresmax4pnp.exe
+O4 - HKLM..Run: [SoundMAX] "C:Program FilesAnalog DevicesSoundMAXSmax4.exe" /
+tray
+O4 - HKLM..Run: [Lexmark X1100 Series] "C:Program FilesLexmark X1100
+Serieslxbkbmgr.exe"
+O4 - HKLM..Run: [avast5] C:PROGRA~1ALWILS~1Avast5avastUI.exe /nogui
+O4 - HKCU..Run: [CTFMON.EXE] C:WINDOWSsystem32ctfmon.exe
+O4 - HKCU..Run: [SpybotSD TeaTimer] C:Program FilesSpybot - Search &
+DestroyTeaTimer.exe
+O4 - HKCU..Run: [Skype] "C:Program FilesSkypePhoneSkype.exe" /nosplash /
+minimized
+O4 - HKCU..Run: [Google Update] "C:Documents and SettingsuzivatelLocal
+SettingsData aplikacíGoogleUpdateGoogleUpdate.exe" /c
+O4 - HKCU..Run: [ICQ] "C:Program FilesICQ6.5ICQ.exe" silent
+O4 - HKCU..Run: [ICQUpdater] "C:DOCUME~1uzivatelLOCALS~1TempIcqUpdater.exe" -
+update 1440 "C:PROGRA~1ICQ6.5updates" "C:PROGRA~1ICQ6.5" "C:
+PROGRA~1ICQ6.5ICQ.exe noupdater=1" /autorun
+O4 - HKUSS-1-5-19..Run: [CTFMON.EXE] C:WINDOWSsystem32CTFMON.EXE (User 'LOCAL
+SERVICE')
+O4 - HKUSS-1-5-20..Run: [CTFMON.EXE] C:WINDOWSsystem32CTFMON.EXE (User
+'NETWORK SERVICE')
+O4 - HKUSS-1-5-18..Run: [CTFMON.EXE] C:WINDOWSsystem32CTFMON.EXE (User
+'SYSTEM')
+O4 - HKUS.DEFAULT..Run: [CTFMON.EXE] C:WINDOWSsystem32CTFMON.EXE (User
+'Default user')
+ prosim prosim gate
+07.04.2011 21:07:47
+Running processes:
+C:WINDOWSSystem32smss.exe
+C:WINDOWSsystem32winlogon.exe
+C:WINDOWSsystem32services.exe
+C:WINDOWSsystem32lsass.exe
+C:WINDOWSsystem32svchost.exe
+C:WINDOWSSystem32svchost.exe
+C:Program FilesAlwil SoftwareAvast5AvastSvc.exe
+C:WINDOWSsystem32LEXBCES.EXE
+C:WINDOWSsystem32spoolsv.exe
+C:WINDOWSsystem32LEXPPS.EXE
+C:WINDOWSExplorer.EXE
+C:WINDOWSsystem32RUNDLL32.EXE
+C:Program FilesAnalog DevicesCoresmax4pnp.exe
+C:Program FilesAnalog DevicesSoundMAXSmax4.exe
+C:Program FilesLexmark X1100 Serieslxbkbmgr.exe
+C:PROGRA~1ALWILS~1Avast5avastUI.exe
+C:WINDOWSsystem32ctfmon.exe
+C:Program FilesSpybot - Search & DestroyTeaTimer.exe
+C:Program FilesLexmark X1100 Serieslxbkbmon.exe
+C:Program FilesSkypePhoneSkype.exe
+C:Documents and SettingsuzivatelData aplikacíDropboxbinDropbox.exe
+C:Program FilesICQ6ToolbarICQ Service.exe
+C:WINDOWSsystem32nvsvc32.exe
+C:WINDOWSsystem32PSIService.exe
+C:WINDOWSsystem32svchost.exe
+C:WINDOWSsystem32wscntfy.exe
+C:Program FilesMozilla Firefoxfirefox.exe
+C:Program FilesSkypeToolbarsSharedSkypeNames.exe
+C:WINDOWSsystem32rundll32.exe
+C:WINDOWSsystem32msiexec.exe
+C:Documents and SettingsuzivatelDokumentyStažené souboryhijackthis.exe
+ prosim prosim gate
+07.04.2011 21:05:30
+prosim prosim gate: tak to sem dej postupně, vždyť to dá max na 4 části, ne?
+Budeš tam mít nějakýho neřádá, myslím. A ten spybot ti akorát brzdí výkon, je
+zbytečnej.
+ _D_r_s_n_e_j_D_r_s_o_ň [Muž] [Kategorie]
+07.04.2011 21:02:55
+prosim prosim gate: Ovládací Panely -> Přidat nebo odebrat programy -> smázni
+všechno, co obsahuje slovo "toolbar" a pak se možná o nějakých pár % pc
+zrychlí :)
+ _#_#_#_#_# [Muž]21 [Kategorie]
+07.04.2011 21:01:07
+asi to sem celé prostě nenarvu.. eště mám problém, jak mi ##### radil, že mám
+smazat i to C:Program FilesICQ6ToolbarICQ Service.exe a podobně.. tak to v tom
+programu nevidím.. Jen ty R1, O9 apod.. nic s C:
+
+A ty toolbary, k těm se na disku dopracuji jak?
+ prosim prosim gate
+07.04.2011 20:58:14
+Logfile of Trend Micro HijackThis v2.0.2
+Scan saved at 20:19:23, on 7.4.2011
+Platform: Windows XP SP2 (WinNT 5.01.2600)
+MSIE: Internet Explorer v6.00 SP2 (6.00.2900.2180)
+Boot mode: Normal
+
+Running processes:
+C:WINDOWSSystem32smss.exe
+C:WINDOWSsystem32winlogon.exe
+C:WINDOWSsystem32services.exe
+C:WINDOWSsystem32lsass.exe
+C:WINDOWSsystem32svchost.exe
+C:WINDOWSSystem32svchost.exe
+C:Program FilesAlwil SoftwareAvast5AvastSvc.exe
+C:WINDOWSsystem32LEXBCES.EXE
+C:WINDOWSsystem32spoolsv.exe
+C:WINDOWSsystem32LEXPPS.EXE
+C:WINDOWSExplorer.EXE
+C:WINDOWSsystem32RUNDLL32.EXE
+C:Program FilesAnalog DevicesCoresmax4pnp.exe
+C:Program FilesAnalog DevicesSoundMAXSmax4.exe
+C:Program FilesLexmark X1100 Serieslxbkbmgr.exe
+C:PROGRA~1ALWILS~1Avast5avastUI.exe
+C:WINDOWSsystem32ctfmon.exe
+C:Program FilesSpybot - Search & DestroyTeaTimer.exe
+C:Program FilesLexmark X1100 Serieslxbkbmon.exe
+C:Program FilesGoogleGoogleToolbarNotifierGoogleToolbarNotifier.exe
+C:Program FilesSkypePhoneSkype.exe
+C:Documents and SettingsuzivatelData aplikacíDropboxbinDropbox.exe
+C:Program FilesICQ6ToolbarICQ Service.exe
+C:WINDOWSsystem32nvsvc32.exe
+C:WINDOWSsystem32PSIService.exe
+C:WINDOWSsystem32svchost.exe
+C:WINDOWSsystem32wscntfy.exe
+C:Program FilesMozilla Firefoxfirefox.exe
+C:Program FilesSkypeToolbarsSharedSkypeNames.exe
+C:WINDOWSsystem32taskmgr.exe
+C:Documents and SettingsuzivatelDokumentyStažené souboryhijackthis.exe
+
+R1 - HKCUSoftwareMicrosoftInternet ExplorerMain,Default_Search_URL = _h_t_t_p_:_/_/
+_s_e_a_r_c_h_._q_i_p_._r_u_ 
+R0 - HKCUSoftwareMicrosoftInternet ExplorerMain,Start Page = _h_t_t_p_:_/_/
+_w_w_w_._c_e_n_t_r_u_m_._c_z_/_ 
+R1 - HKCUSoftwareMicrosoftInternet ExplorerSearch,SearchAssistant = _h_t_t_p_:_/_/
+_s_e_a_r_c_h_._q_i_p_._r_u_/_i_e_ 
+R1 - HKCUSoftwareMicrosoftInternet ExplorerSearchURL,(Default) = Root: HKCU;
+Subkey: SoftwareMicrosoftInternet ExplorerSearchUrl; ValueType: string;
+ValueName: '; ValueData: '; Flags: createvalueifdoesntexist noerror; Tasks:
+AddSearchQip
+R0 - HKCUSoftwareMicrosoftInternet ExplorerToolbar,LinksFolderName = Odkazy
+R3 - URLSearchHook: ICQToolBar - {855F3B16-6D32-4fe6-8A56-BBB695989046} - C:
+Program FilesICQ6ToolbarICQToolBar.dll
+O2 - BHO: AcroIEHelperStub - {18DF081C-E8AD-4283-A596-FA578C2EBDC3} - C:
+Program FilesCommon FilesAdobeAcrobatActiveXAcroIEHelperShim.dll
+O2 - BHO: Winamp Toolbar Loader - {25CEE8EC-5730-41bc-8B58-22DDC8AB8C20} - C:
+Program FilesWinamp Toolbarwinamptb.dll
+O2 - BHO: Spybot-S&D IE Protection - {53707962-6F74-2D53-2644-206D7942484F} -
+C:PROGRA~1SPYBOT~1SDHelper.dll
+O2 - BHO: SSVHelper Class - {761497BB-D6F0-462C-B6EB-D4DAF1D92D43} - C:Program
+FilesJavajre1.6.0_01binssv.dll
+O2 - BHO: Google Toolbar Helper - {AA58ED58-01DD-4d91-8333-CF10577473F7} - C:
+Program FilesGoogleGoogle ToolbarGoogleToolbar_32.dll
+O2 - BHO: Google Toolbar Notifier BHO - {AF69DE43-7D58-4638-B6FA-CE66B5AD205D}
+- C:Program FilesGoogleGoogleToolbarNotifier5.6.6209.1142swg.dll
+O2 - BHO: PDFCreator Toolbar Helper - {C451C08A-EC37-45DF-AAAD-18B51AB5E837} -
+C:Program FilesPDFCreato
+ prosim prosim gate
+07.04.2011 20:56:56
+kopíroval sem to všecko, přes ctrl+a.. asi se to sem nevlezlo...
+
+
+O2 - BHO: AcroIEHelperStub - {18DF081C-E8AD-4283-A596-FA578C2EBDC3} - C:
+Program FilesCommon FilesAdobeAcrobatActiveXAcroIEHelperShim.dll
+O2 - BHO: Winamp Toolbar Loader - {25CEE8EC-5730-41bc-8B58-22DDC8AB8C20} - C:
+Program FilesWinamp Toolbarwinamptb.dll
+O2 - BHO: Spybot-S&D IE Protection - {53707962-6F74-2D53-2644-206D7942484F} -
+C:PROGRA~1SPYBOT~1SDHelper.dll
+O2 - BHO: SSVHelper Class - {761497BB-D6F0-462C-B6EB-D4DAF1D92D43} - C:Program
+FilesJavajre1.6.0_01binssv.dll
+O2 - BHO: Google Toolbar Helper - {AA58ED58-01DD-4d91-8333-CF10577473F7} - C:
+Program FilesGoogleGoogle ToolbarGoogleToolbar_32.dll
+O2 - BHO: Google Toolbar Notifier BHO - {AF69DE43-7D58-4638-B6FA-CE66B5AD205D}
+- C:Program FilesGoogleGoogleToolbarNotifier5.6.6209.1142swg.dll
+O2 - BHO: PDFCreator Toolbar Helper - {C451C08A-EC37-45DF-AAAD-18B51AB5E837} -
+C:Program FilesPDFCreator Toolbarv3.3.0.1PDFCreator_Toolbar.dll
+O2 - BHO: free-downloads.net - {ecdee021-0d17-467f-a1ff-c7a115230949} - C:
+Program Filesfree-downloads.netprxtbfre0.dll
+O3 - Toolbar: free-downloads.net Toolbar - {ecdee021-0d17-467f-a1ff-
+c7a115230949} - C:Program Filesfree-downloads.netprxtbfre0.dll
+O3 - Toolbar: ICQToolBar - {855F3B16-6D32-4FE6-8A56-BBB695989046} - C:Program
+FilesICQ6ToolbarICQToolBar.dll
+O3 - Toolbar: Google Toolbar - {2318C2B1-4965-11d4-9B18-009027A5CD4F} - C:
+Program FilesGoogleGoogle ToolbarGoogleToolbar_32.dll
+O4 - HKLM..Run: [NvCplDaemon] RUNDLL32.EXE C:
+WINDOWSsystem32NvCpl.dll,NvStartup
+O4 - HKLM..Run: [nwiz] nwiz.exe /install
+O4 - HKLM..Run: [NvMediaCenter] RUNDLL32.EXE C:
+WINDOWSsystem32NvMcTray.dll,NvTaskbarInit
+O4 - HKLM..Run: [Adobe Reader Speed Launcher] "C:Program FilesAdobeReader
+9.0ReaderReader_sl.exe"
+O4 - HKLM..Run: [NeroFilterCheck] C:WINDOWSsystem32NeroCheck.exe
+O4 - HKLM..Run: [SoundMAXPnP] C:Program FilesAnalog DevicesCoresmax4pnp.exe
+O4 - HKLM..Run: [SoundMAX] "C:Program FilesAnalog DevicesSoundMAXSmax4.exe" /
+tray
+O4 - HKLM..Run: [Lexmark X1100 Series] "C:Program FilesLexmark X1100
+Serieslxbkbmgr.exe"
+O4 - HKLM..Run: [avast5] C:PROGRA~1ALWILS~1Avast5avastUI.exe /nogui
+O4 - HKCU..Run: [CTFMON.EXE] C:WINDOWSsystem32ctfmon.exe
+O4 - HKCU..Run: [SpybotSD TeaTimer] C:Program FilesSpybot - Search &
+DestroyTeaTimer.exe
+O4 - HKCU..Run: [swg] "C:Program
+FilesGoogleGoogleToolbarNotifierGoogleToolbarNotifier.exe"
+O4 - HKCU..Run: [Skype] "C:Program FilesSkypePhoneSkype.exe" /nosplash /
+minimized
+O4 - HKCU..Run: [Google Update] "C:Documents and SettingsuzivatelLocal
+SettingsData aplikacíGoogleUpdateGoogleUpdate.exe" /c
+O4 - HKCU..Run: [ICQ] "C:Program FilesICQ6.5ICQ.exe" silent
+O4 - HKCU..Run: [ICQUpdater] "C:DOCUME~1uzivatelLOCALS~1TempIcqUpdater.exe" -
+update 1440 "C:PROGRA~1ICQ6.5updates" "C:PROGRA~1ICQ6.5" "C:
+PROGRA~1ICQ6.5ICQ.exe noupdater=1" /autorun
+O4 - HKUSS-1-5-19..Run: [CTFMON.E
+ prosim prosim gate
+07.04.2011 20:50:34
+prosim prosim gate: ta druhá část, co ti vyjela v tom texťáku, zkopíroval si
+jen půlu toho textu. To fix checked je fixnutí, jo. Stejně ale ty toolbary
+budeš muset odinstalovat ručně. Ty v PC zůstanou i tak.
+ _D_r_s_n_e_j_D_r_s_o_ň [Muž] [Kategorie]
+07.04.2011 20:49:37
+prosim prosim gate: j
+
+jinak ten log můžeš dělat furt dokola..
+
+po tom čeknutí ho udělej znovu, až ti vyskočí textový dokuement... dej ctrl +
+a, pak cltr + c a pak na zp dej ctrl + v
+ _#_#_#_#_# [Muž]21 [Kategorie]
+07.04.2011 20:48:15
+jaká zas druhá půlka logu? co je to log?
+
+fix checked už vidím ;) to bylo míněno tím fixnutím?
+ prosim prosim gate
+07.04.2011 20:37:00
+prosim prosim gate: ta druhá půlka logu je taky důležitá... :)
+ _D_r_s_n_e_j_D_r_s_o_ň [Muž] [Kategorie]
+07.04.2011 20:35:56
+prosim prosim gate: V tom programu hijackthis :)
+ _#_#_#_#_# [Muž]21 [Kategorie]
+07.04.2011 20:35:15
+#####: asi mě budeš mít za total lamu ;) ale kde to mám označit a fixnout?
+ prosim prosim gate
+07.04.2011 20:34:10
+prosim prosim gate:
+
+Running processes:
+
+C:Program FilesGoogleGoogleToolbarNotifierGoogleToolbarNotifier.exe
+
+C:Program FilesICQ6ToolbarICQ Service.exe
+C:Program FilesSkypeToolbarsSharedSkypeNames.exe
+
+R1 - HKCUSoftwareMicrosoftInternet ExplorerMain,Default_Search_URL = _h_t_t_p_:_/_/
+_s_e_a_r_c_h_._q_i_p_._r_u_ 
+R1 - HKCUSoftwareMicrosoftInternet ExplorerSearch,SearchAssistant = _h_t_t_p_:_/_/
+_s_e_a_r_c_h_._q_i_p_._r_u_/_i_e_ 
+ExplorerSearchUrl; ValueType: string; ValueName: '; ValueData: '; Flags:
+createvalueifdoesntexist noerror; Tasks: AddSearchQip
+R0 - HKCUSoftwareMicrosoftInternet ExplorerToolbar,LinksFolderName = Odkazy
+R3 - URLSearchHook: ICQToolBar - {855F3B16-6D32-4fe6-8A56-BBB695989046} - C:
+Program FilesICQ6ToolbarICQToolBar.dll
+O2 - BHO: Winamp Toolbar Loader - {25CEE8EC-5730-41bc-8B58-22DDC8AB8C20} - C:
+Program FilesWinamp Toolbarwinamptb.dll
+O2 - BHO: Google Toolbar Helper - {AA58ED58-01DD-4d91-8333-CF10577473F7} - C:
+Program FilesGoogleGoogle ToolbarGoogleToolbar_32.dll
+O2 - BHO: Google Toolbar Notifier BHO - {AF69DE43-7D58-4638-B6FA-CE66B5AD205D}
+- C:Program FilesGoogleGoogleToolbarNotifier5.6.6209.1142swg.dll
+
+nic nezkazíš, když označíš a fixneš tento bordel!
+ _#_#_#_#_# [Muž]21 [Kategorie]
+07.04.2011 20:33:11
+#####: krom toho smetí tam nic není do očí bijící.
+prosim prosim gate: vložil si jen půlku logu, ještě druhá. Krom toho,
+odinstaloval bych spybot. Je zbytečnej. Máš Avast a "povyš ho" na verzi 6.
+ _D_r_s_n_e_j_D_r_s_o_ň [Muž] [Kategorie]
+07.04.2011 20:30:51
+#####: když já znám samé takové pc lamy jak jsem já.. žádného trochu IT
+inteligenta neznám.. :( jinak vím, že tu mám spoustu bordelu, ale fakt nevím,
+co můžu odstranit a co ne..
+ prosim prosim gate
+07.04.2011 20:28:58
+prosim prosim gate: Tak já sám osobně bych hned odinstaloval veškerý toolbary,
+winamp toolbar, icq toolbar, qip sračky atd..
+
+ale nic z toho není nebezpečný (aspoň myslím). Každopádně seš docela bordelář
+:))
+
+Pokud se to bude opakovat, vyřeš to jednoduše, pusť k tomu někoho, kdo to
+přeinstaluje :)
+ _#_#_#_#_# [Muž]21 [Kategorie]
+07.04.2011 20:27:10
+#####: tak co všecko můžu odinstal? a zlepší se to pak? nechci aby se ta
+dnešní situace opakovala
+ prosim prosim gate
+07.04.2011 20:26:15
+Tak polovina toho je bordel a hned bych to fixnul (a odinstaloval). Ale nic z
+toho asi není nebezpečný, co myslíš ty, Drsoňi?
+ _#_#_#_#_# [Muž]21 [Kategorie]
+07.04.2011 20:24:49
+prosim prosim gate: to zkopíruj sem, když kliknu na ten odkaz, tak tam nic
+není.
+ _D_r_s_n_e_j_D_r_s_o_ň [Muž] [Kategorie]
+07.04.2011 20:24:20
+Logfile of Trend Micro HijackThis v2.0.2
+Scan saved at 20:19:23, on 7.4.2011
+Platform: Windows XP SP2 (WinNT 5.01.2600)
+MSIE: Internet Explorer v6.00 SP2 (6.00.2900.2180)
+Boot mode: Normal
+
+Running processes:
+C:WINDOWSSystem32smss.exe
+C:WINDOWSsystem32winlogon.exe
+C:WINDOWSsystem32services.exe
+C:WINDOWSsystem32lsass.exe
+C:WINDOWSsystem32svchost.exe
+C:WINDOWSSystem32svchost.exe
+C:Program FilesAlwil SoftwareAvast5AvastSvc.exe
+C:WINDOWSsystem32LEXBCES.EXE
+C:WINDOWSsystem32spoolsv.exe
+C:WINDOWSsystem32LEXPPS.EXE
+C:WINDOWSExplorer.EXE
+C:WINDOWSsystem32RUNDLL32.EXE
+C:Program FilesAnalog DevicesCoresmax4pnp.exe
+C:Program FilesAnalog DevicesSoundMAXSmax4.exe
+C:Program FilesLexmark X1100 Serieslxbkbmgr.exe
+C:PROGRA~1ALWILS~1Avast5avastUI.exe
+C:WINDOWSsystem32ctfmon.exe
+C:Program FilesSpybot - Search & DestroyTeaTimer.exe
+C:Program FilesLexmark X1100 Serieslxbkbmon.exe
+C:Program FilesGoogleGoogleToolbarNotifierGoogleToolbarNotifier.exe
+C:Program FilesSkypePhoneSkype.exe
+C:Documents and SettingsuzivatelData aplikacíDropboxbinDropbox.exe
+C:Program FilesICQ6ToolbarICQ Service.exe
+C:WINDOWSsystem32nvsvc32.exe
+C:WINDOWSsystem32PSIService.exe
+C:WINDOWSsystem32svchost.exe
+C:WINDOWSsystem32wscntfy.exe
+C:Program FilesMozilla Firefoxfirefox.exe
+C:Program FilesSkypeToolbarsSharedSkypeNames.exe
+C:WINDOWSsystem32taskmgr.exe
+C:Documents and SettingsuzivatelDokumentyStažené souboryhijackthis.exe
+
+R1 - HKCUSoftwareMicrosoftInternet ExplorerMain,Default_Search_URL = _h_t_t_p_:_/_/
+_s_e_a_r_c_h_._q_i_p_._r_u_ 
+R0 - HKCUSoftwareMicrosoftInternet ExplorerMain,Start Page = _h_t_t_p_:_/_/
+_w_w_w_._c_e_n_t_r_u_m_._c_z_/_ 
+R1 - HKCUSoftwareMicrosoftInternet ExplorerSearch,SearchAssistant = _h_t_t_p_:_/_/
+_s_e_a_r_c_h_._q_i_p_._r_u_/_i_e_ 
+R1 - HKCUSoftwareMicrosoftInternet ExplorerSearchURL,(Default) = Root: HKCU;
+Subkey: SoftwareMicrosoftInternet ExplorerSearchUrl; ValueType: string;
+ValueName: '; ValueData: '; Flags: createvalueifdoesntexist noerror; Tasks:
+AddSearchQip
+R0 - HKCUSoftwareMicrosoftInternet ExplorerToolbar,LinksFolderName = Odkazy
+R3 - URLSearchHook: ICQToolBar - {855F3B16-6D32-4fe6-8A56-BBB695989046} - C:
+Program FilesICQ6ToolbarICQToolBar.dll
+O2 - BHO: AcroIEHelperStub - {18DF081C-E8AD-4283-A596-FA578C2EBDC3} - C:
+Program FilesCommon FilesAdobeAcrobatActiveXAcroIEHelperShim.dll
+O2 - BHO: Winamp Toolbar Loader - {25CEE8EC-5730-41bc-8B58-22DDC8AB8C20} - C:
+Program FilesWinamp Toolbarwinamptb.dll
+O2 - BHO: Spybot-S&D IE Protection - {53707962-6F74-2D53-2644-206D7942484F} -
+C:PROGRA~1SPYBOT~1SDHelper.dll
+O2 - BHO: SSVHelper Class - {761497BB-D6F0-462C-B6EB-D4DAF1D92D43} - C:Program
+FilesJavajre1.6.0_01binssv.dll
+O2 - BHO: Google Toolbar Helper - {AA58ED58-01DD-4d91-8333-CF10577473F7} - C:
+Program FilesGoogleGoogle ToolbarGoogleToolbar_32.dll
+O2 - BHO: Google Toolbar Notifier BHO - {AF69DE43-7D58-4638-B6FA-CE66B5AD205D}
+- C:Program FilesGoogleGoogleToolbarNotifier5.6.6209.1142swg.dll
+O2 - BHO: PDFCreator Toolbar Helper - {C451C08A-EC37-45DF-AAAD-18B51AB5E837} -
+C:Program FilesPDFCreato
+ prosim prosim gate
+07.04.2011 20:23:32
+tak chtěli jste odkaz ne komplet výpis z poznámkového bloku... ;)
+ prosim prosim gate
+07.04.2011 20:22:40
+prosim prosim gate: na hijackthi.de se vykašli. Jen spusť ten program, kterej
+ti za pár sekund vygeneruje výpis v texťáku a ten výpis sem zkopíruješ.
+ _D_r_s_n_e_j_D_r_s_o_ň [Muž] [Kategorie]
+07.04.2011 20:20:56
+_h_t_t_p_:_/_/_w_w_w_._h_i_j_a_c_k_t_h_i_s_._d_e_/_#_a_n_l
+ prosim prosim gate
+07.04.2011 20:20:01
+Jinak ten příkaz je takto _h_t_t_p_:_/_/_t_i_n_y_u_r_l_._c_o_m_/_3_f_z_b_l_6_o_ zpovednice smazala
+lomítka.
+Ničeho se neboj a zkus poslat ten log. Návod pro debily. Jednoduchej
+neinvazivní maličkej prográmek.
+ _D_r_s_n_e_j_D_r_s_o_ň [Muž] [Kategorie]
+07.04.2011 20:19:59
+prosim prosim gate: obnova systému je bezpečná, jen klikneš ve virtuálním
+kalendáři na nějaký předchozí funkční datum (kdy se vytvořila záloha).. třeba
+2 dny zpět a dáš ok ok ok a ještě několikrát ok a ono se to restartuje a pc
+bude v tom stavu, jako 2 dny zpět (ne data, ale nastavení registrů).
+ _#_#_#_#_# [Muž]21 [Kategorie]
+07.04.2011 20:18:38
+když já temu prd rozumím, tak se bojím cokoliv reinstalovat, obnovovat..
+ prosim prosim gate
+07.04.2011 20:17:20
+Občas mi taky hučí...
+[Smajlík] [Muž]28 [Kategorie]
+ _V_r_a_k
+07.04.2011 20:16:41
+jo, obnovení systému je taky dobrá věc, pokud je člověk línej na reinstall :))
+ _#_#_#_#_# [Muž]21 [Kategorie]
+07.04.2011 20:16:05
+prosim prosim gate: tak teď pošli ten log z toho programu, kua :D
+ _D_r_s_n_e_j_D_r_s_o_ň [Muž] [Kategorie]
+07.04.2011 20:15:27
+prosim prosim gate: zkus ještě ve správci úloh kliknout na záložku - Aplikace,
+dej Nová úloha a zadej tam %SystemRoot%system32restorerstrui.exe odklikni a
+zkus použít nějakej bod obnovy. (ten příkaz je bez mezer, někdy toto fórum to
+blbě dělí).
+ _D_r_s_n_e_j_D_r_s_o_ň [Muž] [Kategorie]
+07.04.2011 20:15:20
+hele díky všem, vyřešilo se to samo.. ikony naběhly.. ale mám pocit, že je
+někde chyba.. že by se to mohlo opakovat.. kde to teda mám a jak vyčistit?
+ prosim prosim gate
+07.04.2011 20:12:30
+To je zajímavý, že internet ti jde, ale nic jinýho ne :) Asi kouzlo :)
+ _x_Z_d_e_n_i_s_h [Muž]27 [Kategorie]
+07.04.2011 20:12:08
+prosim prosim gate: u mě - při restartu PC mačkat F8 a pak zvolit možnost -
+nouzovej režim s prácí v sítí-
+ _D_r_s_n_e_j_D_r_s_o_ň [Muž] [Kategorie]
+07.04.2011 20:10:23
+prosim prosim gate: A co je tam dál? Je tam nějakej známej prohram?
+
+Nouzový režim spustíš tak, že při startu pc stiskneš F8 (nebo nějakou takovou
+klávesu).
+
+Ale já osobně bych prostře přeinstaloval widle :)
+ _#_#_#_#_# [Muž]21 [Kategorie]
+07.04.2011 20:08:44
+#####: explorer tam je. když to seřadím, tak u zapsaných je nejvíc u položek
+"uzivatel", "SYSTEM" asi třikrát po sobě a pak zase uživatel.. u přepsaných je
+to dvakrát uzivatel, SYSTEM, uzivatel
+
+más OS win XP
+
+jak to spustím v nouzáku?
+ prosim prosim gate
+07.04.2011 19:57:30
+prosim prosim gate: zkus to v nouzovým režimu. Krom toho, když program
+stáhneš, tak ho můžeš spustit přímo ze správce stahování, ne? A vůbec, co máš
+za OS.
+ _D_r_s_n_e_j_D_r_s_o_ň [Muž] [Kategorie]
+07.04.2011 19:56:52
+prosim prosim gate:
+
+Ctrl + alt + delete -> procesy
+
+máš tam vůbec zapnutej proces explorer.exe?
+
+a kromě toho můžeš dát "zobrazit" pak "vybrat sloupce" a tam zapni V/V -
+zapsané bajty a V/V - přečtené bajty. zobrazí se ti dva sloupečky a když
+klikneš na jejich záhlaví, tak se seřadí položky od největšího po nejmenší v
+rámci toho sloupečku. Moh bys tak teoreticky zjistit, co ti zpomaluje tak
+strašlivě počítač.
+
+A pokud tam nebudeš mít explorer.exe mezi procesy, tak začni přemýšlet, čím to
+je :) ale asi ti explorer.exe jede, když jsi moh zapnout prohlížeč a dostat se
+semka :)
+
+(možná jsou všecky mý rady k ničemu, ale tak je to jedna z věcí, který bych
+začal prověřovat).
+ _#_#_#_#_# [Muž]21 [Kategorie]
+07.04.2011 19:55:28
+DrsnejDrsoň: no tak hned první bod - uložte si ho někam na disk.. asi vlasy..
+říkám, že mi tu krom spuštěné netu nefunguje vůbec nic.. žádné místo na disku
+neotevřu...
+ prosim prosim gate
+07.04.2011 19:52:53
+když dám to exlorer.exe, nic se nestane.. jen to vrčí ještě víc.. a v pc nic
+nefunguje, třeba spuštění průzkumníka nebo tak...
+ prosim prosim gate
+07.04.2011 19:52:23
+prosim prosim gate: můžeš tam mít "bordel". Ten program by mohl naznačit.
+ _D_r_s_n_e_j_D_r_s_o_ň [Muž] [Kategorie]
+07.04.2011 19:52:03
+DrsnejDrsoň: Aha, to je fakt :)
+ _#_#_#_#_# [Muž]21 [Kategorie]
+07.04.2011 19:51:25
+#####: jasně že jo, poslat ho sem. To je snad jednoduchý. :)
+ _D_r_s_n_e_j_D_r_s_o_ň [Muž] [Kategorie]
+07.04.2011 19:50:03
+DrsnejDrsoň: Myslíš, že bude vědět, co s tím logem má dělat? :)
+ _#_#_#_#_# [Muž]21 [Kategorie]
+07.04.2011 19:49:59
+xZdenish: mně nejde o ty ikony jako takové, jako spíš, že s pc asi něco je..
+když tak zvláštně hučí.. no jako když nabíhá a všecko se načítá.. takový
+zvuk.. a net se otevírá strašně dlouho
+ prosim prosim gate
+07.04.2011 19:48:43
+prosim prosim gate: tak ale proto musíš něco udělat. Stáhni si tento program
+podle návodu a pošli sem obsah logu. Je to otázka cca 4 minut. _h_t_t_p_:_/_/
+_l_o_r_e_n_c_._i_n_f_o_/_H_i_j_a_c_k_T_h_i_s_._h_t_m
+ _D_r_s_n_e_j_D_r_s_o_ň [Muž] [Kategorie]
+07.04.2011 19:47:56
+a máš zapnutej explorer?
+
+ctrl + alt + delete a dej správce uloh, tam dej "soubor -> nová úloha -
+> exlorer.exe" a měly by ty ikonky naskočit.
+
+Otázkou je, proč se to nezapíná po startu samo. Ale nezabýval bych se tím,
+prostě zformátuj hard-disk a nainstaluj win znova a je to, problem solved.
+
+problem, computer?
+ _#_#_#_#_# [Muž]21 [Kategorie]
+07.04.2011 19:46:40
+říkám, že mi strašně dlouho nabíhá net.. když otevřu nové okno, trvá to 5 min.
+než něco vygooglim bude půnoc.. kompl hučí, jako kdyby pracovat s námahou.
+pomoz mi prosím
+ prosim prosim gate
+07.04.2011 19:43:26
+prosim prosim gate: šlo, použíj google
+ _D_r_s_n_e_j_D_r_s_o_ň [Muž] [Kategorie]
+07.04.2011 19:43:07
+Si tam ty ikony naházej znova..
+ _x_Z_d_e_n_i_s_h [Muž]27 [Kategorie]
+07.04.2011 19:42:54
+Svůj příspěvek jsi vložil(a) do nespravné kategorie. Bylo provedeno přesunutí.
+V případě opakování hrozí blokování vstupu na portál. Prosím zvol příště
+správnou kategorii. Děkujeme za pochopení.
+[Smajlík]      [Muž] [Kategorie]
+ _A_d_m_i_n_i_s_t_r_á_t_o_r
+07.04.2011 19:41:35
+DrsnejDrsoň: česky a podrobně by to nešlo? ;)
+ prosim prosim gate
+07.04.2011 19:40:01
+Bod obnovy.
+ _D_r_s_n_e_j_D_r_s_o_ň [Muž] [Kategorie]
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+

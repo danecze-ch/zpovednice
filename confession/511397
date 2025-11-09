@@ -1,0 +1,192 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+Diskuze č.511397, vloženo 03.03.2011 21: _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+01:17                                    _s_t_r_á_n_k_a_]
+jak na SQL?
+Potřeboval bych do práce umět něco málo v SQL, problem je ze nejsu schopnej si
+sehnat nejakej sw kde bych si to na pc mohl vyzkouset, v praci mame program,
+kterej umi vytvaret databaze a tabulky graficky, chcel bych to umet i kodove
+sam napsat a hlavne na doma sehnat neco v cem by se to dalo naucit. Jediny co
+sem rozchodil je mysql, ale jen dosovsky okno, to ma daleko k tomu co mame v
+praci. Pisu to sem taky proto, že nevim kde jidne se na to ptat, kdybyste
+hodily odkaz na nejaky forum, byl bych rad.
+ blbec [Muž]22  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+24.10.2016 12:11:17
+Sice je to starší téma, ale třeba se bude někomu hodit:
+
+_h_t_t_p_:_/_/_w_w_w_._d_i_s_t_a_n_c_n_e_._c_z_/_k_u_r_z_/_r_e_l_a_c_n_i_-_d_a_t_a_b_a_z_e_-_a_-_d_o_t_a_z_o_v_a_c_i_-_j_a_z_y_k_-_s_q_l_/
+[Smajlík]
+ Specialista na vše
+04.03.2011 14:00:11
+[velmi] silny - ehh koukam ze nejsem moc silnej v cestine :))
+ _V_e_l_d_r_a_n_e [Muž]34 [Kategorie]
+04.03.2011 13:17:39
+venca.: jestli nekdy zacnes delat v asp.net mvc nebo ruby on rails, pochopis
+proc sem to psal :)
+ _S_o_s_a_r_i_a_n [Muž] [Kategorie]
+04.03.2011 11:49:07
+Ahoj
+zkus si nainstalovat oracle express db - _h_t_t_p_:_/_/_t_i_n_y_u_r_l_._c_o_m_/_2_5_c_9_j_j_k_ a treba
+sql developer. Je to zadara a naucis se pracovat progresivni a zajimavou
+technologii. Databazi si muzes nainstalovat i s preddefinovanymi schematy,
+takze muzes rovnu zkouset ruzne selecty etc. Jinak pl/sql je velmy silny klon
+jazyka sql, ktery neni nepodobny modernim proceduralnim jazykum.
+
+Dale si muzes nainstalovat ruzna rozsireni jako je apex, bi atd - vse na
+strankach oracle. Vyhodou oproti jinym platformam je prenositelnost, oracle db
+je dneska defacto standart, komplexnost jak db jako takove tak i samotneho
+sql. Nevyhodou je ne uplne trivialni instalace a sprava. Naproti tomu existuje
+spousta vyborne dokumentace a pocetna komunita, s jejiz pomoci se da vyresit
+jakykoliv problem.
+ _V_e_l_d_r_a_n_e [Muž]34 [Kategorie]
+04.03.2011 11:30:14
+Sosarian: na PHP mi nešahej :) To je pro mě srdeční záležitost.
+ venca.
+04.03.2011 11:06:55
+_h_t_t_p_:_/_/_w_w_w_._m_i_c_r_o_s_o_f_t_._c_o_m_/_e_x_p_r_e_s_s_/_D_a_t_a_b_a_s_e_/_ 
+stahni si tohle, ma to v sobe SQL Managment studio, ktery je dost graficky
+
+_h_t_t_p_:_/_/_w_w_w_._y_a_l_d_e_x_._c_o_m_/_s_q_l___s_e_r_v_e_r___t_u_t_o_r_i_a_l___3_/_i_m_a_g_e_s_/_0_1_l_s_s_0_1___a_l_t_._j_p_g_ 
+
+a taky to ma tu vyhodu ze je to daleko lepsi nez nejaky mysql .)
+
+
+
+
+venca: taky nejak nechapu co ma web server spolecnyho s databazi...
+nainstalovat apache a php a phpmyadmin aby rozjel nejaky graficky rozhrani k
+pristupu k db neni pro zacatecnika zrovna nejlehci postup
+
+blbec:
+kdyz uz by ses rozhodl pro php a mysql (coz je mimochodem priserna volba,
+zvlast to php) tak
+_h_t_t_p_:_/_/_w_w_w_._a_p_a_c_h_e_f_r_i_e_n_d_s_._o_r_g_/_e_n_/_x_a_m_p_p_._h_t_m_l
+ _S_o_s_a_r_i_a_n [Muž] [Kategorie]
+04.03.2011 10:06:10
+*kdysi jsem měl
+ venca.
+04.03.2011 10:01:08
+Libik: ne, kdysi jsem si v MySQL databázi dokonce celou zpovědnici. Rozhraní
+je psané v PHP a je přívětivé.
+
+instalace je vcelku primitivní, má to však háček, s 64bitovými windows si už
+neškrtneš. Přece jen je to starší program.
+_h_t_t_p_:_/_/_g_o_o_._g_l_/_Y_W_s_d
+ venca.
+03.03.2011 23:57:42
+Apache je bezkonkurenční
+_h_t_t_p_:_/_/_g_o_o_._g_l_/_y_S_d_R_ 
+venca.
+---------
+Tak to je pořádná píčovina.
+
+Někdo se chce naučit SQL, ozkoušet si to, otrkat si to, a ty ho pošleš na
+Apache, který laik nemá šanci rozchodit a nakonfigurovat dřív než za týden
+non-stop prosezený u počítače.
+
+Jinak podrobněji se v tom neorientuji, ale Apache snad poskytuje pouze
+nástroje k propojení databáze, ale nemá vyloženě vlastní databázi, ne?
+Navíc i tak se člověk sotva dostane k lepším věcem, než je dosovské okno, ne?
+ _l_i_b_i_k [Muž]34 [Kategorie]
+03.03.2011 23:12:50
+Apache je bezkonkurenční
+_h_t_t_p_:_/_/_g_o_o_._g_l_/_y_S_d_R
+ venca.
+03.03.2011 22:49:49
+Pro začátečníky je dle mého názoru nejjednodušší následující postup :
+
+Založíš si webovou stránku (jakoukoli) na webzdarma.cz,
+v nastavení si zapneš MySQL a půjdeš na odkaz, kde ho můžeš spravovat.
+
+Tam je PHPMyAdmin, který je napsaný v PHPčku, běží na straně toho serveru,
+takže jediné, co potřebuješ, je prohlížeč.
+Můžeš tam psát SQL příkazy a dívat se do jednoduchého grafického rozhraní, co
+se tam vlastně děje.
+
+Jelikož to vše existuje na serverové straně, budeš to mít přístupné z
+jakéhokoli počítače bez instalace. Potřebuješ jenom připojení k inernetu.
+ _l_i_b_i_k [Muž]34 [Kategorie]
+03.03.2011 22:05:59
+A co máte za databázi v práci? Ono to sql se u jednotlivých databázových
+systémů trochu liší. Jestli ti jde jen o to, naučit se princip a konkrétní
+syntaxi si pak dohledáš, tak se to dá procvičovat i v accesu.
+ květinkaaa
+03.03.2011 21:32:43
+blbec: tak v tom pripade jo, ja myslel ze chces rozjet nejakej svuj projekt
+
+nez zacnes delat updaty nad ostrou instanci databaze tak by jsis mel byt
+opravdu jistej tim co delas
+ _n_u_l_l_-_p_o_i_n_t_e_r [Muž]24 [Kategorie]
+03.03.2011 21:30:21
+null-pointer: V praci mame nejakou hotovou databazi a obcas je potreba neco
+dodelat, kolega mi rikal ze pouziva jen par prikazu, ale chtel bych se to
+naucit trochu vic, abych to poradne pochopil. Proc by mi bylo samotny SQL k
+nicemu?
+ blbec
+03.03.2011 21:21:49
+btw proč se to chceš učit? bez znalostí jiných technologií je ti znalost SQL
+víceméně k ničemu
+ _n_u_l_l_-_p_o_i_n_t_e_r [Muž]24 [Kategorie]
+03.03.2011 21:18:55
+blbec: nevim nepouzivam windowsy
+ale před SQL by jsi se měl naučit googlit, tyhle začátečnický otázky byly
+zodpovězeny tolikrát, že by jsi odpovědi nepřečetl do konce života
+ _n_u_l_l_-_p_o_i_n_t_e_r [Muž]24 [Kategorie]
+03.03.2011 21:15:50
+null-pointer: A o nejakym dalsim programu co bych si mohl bez problemu
+nainstalovat a mel uz propracovanejsi graficky rozhrani bys nevedel? Klidne i
+trial. A dík za ten odkaz ten se bude hodit, jinak informace cerpam hodne z
+knizky SQL pro začatecniky
+
+sqld: Problem je v tom, ze nemam sw, na kterym bych si to doma nacvicil
+ blbec
+03.03.2011 21:13:45
+Je problém v softu a nebo v tom, že nic neumíš?
+ sqld
+03.03.2011 21:04:24
+_h_t_t_p_:_/_/_w_w_w_._w_3_s_c_h_o_o_l_s_._c_o_m_/_s_q_l_/_d_e_f_a_u_l_t_._a_s_p_ 
+
+to tvoje "dosovsky okno" je nejlepsi nastroj pokud neco umis
+ _n_u_l_l_-_p_o_i_n_t_e_r [Muž]24 [Kategorie]
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+
