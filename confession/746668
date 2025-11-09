@@ -1,0 +1,232 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+   Otázky - Vzkazy č.746668, vloženo _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+   18.08.2013 12:45:36               _s_t_r_á_n_k_a_]
+   Integrál
+   Mohl by mi někdo vysvětlit co to je a jak funguje integrál? Četl jsem
+   definici na české wikipedii, ale nějak mi to nepomohlo, hlavně bych
+   potřeboval příklad. Dal by se jako příklad integrálu použít výpočet
+   poloh bodů x,y na kružnici opsané, vzhledem ke středu S?
+
+   Na té wikipedii na začátku jsou uveden= dva vzorce (nevím jak je sem
+   opsat:
+   http://cs.wikipedia.org/wiki/Int egr%C3%A1l
+   je tam integrál a,b f(x) dx ... no a nechápu co znamená to dx. Prý ten
+   vzorec vyjadřuje obsah plochy ve dvojrozměrné rovině, až na to že
+   nechápu jak pomocí toho lze ten obsah vypočítat. Máte někdo nějaké
+   příklady konkrétně k tomuto?
+
+
+   Pak tam je ta druhá část co jsem nepochopil:
+   "Pojmem integrál se občas označuje primitivní funkce F, jejíž derivací
+   je funkce &#402;."
+   Co je to ta prim. funkce... a proč je v těch dvou F/f takový rozdíl?
+
+   Posledním bodem je základní věta analýzy:
+   "Nechť &#402; je spojitá reálná funkce na uzavřeném intervalu [a, b] a
+   funkce F je primitivní k funkci &#402;. Potom hodnota (určitého)
+   integrálu funkce &#402; na tomto intervalu je" vzorec ... Integrál a,b
+   dx = F(b) - F(a)
+   co to teda znamená a konkrétní příklad, prosím.
+    buff [Muž]18  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+18.08.2013 22:43:47
+No není zač.
+Jenom k tvému textu - ohraničení intervalu <a;b> může být na x ose, ale může
+jít klidně i do více os. Takže můžeš zjistit jak plochu složitějšího obrazce,
+tak při třech rozměrech i jeho objem. V tom textíku z MUNI je zmínka o
+křivkách rotujících kolem jedné osy. Ale jde to defakto shrnout na cokoliv
+jakkoliv (matematicky popsatelného). Ve finále máš pak tři integrály vedle
+sebe (trojný integrál), každý má svou mez a každý má svůj přiřazený
+diferenciál.. dx, dy, dz, dfí..
+
+Dále v těch grafech se nejedná o čtverce, nýbrž obdélníky, v horších případech
+lichoběžníky a buh ví, co ještě.
+
+A stejně tak bych dx nenazýval normou. To bylo spíše jen tak obecně pro
+určitou názornost. Protože dx (tzv. diferenciál) se bere jako velmi malá část
+- téměř nulová, ale nenulová. Například obdélník se stranou o délce dx má
+jednu ze stran velmi malou, téměř rovnu nule.. takže je to pak téměř
+zaměnitelné s přímkou (ale to už je spíš otázka na limity).
+ _J_i_z_a_h [Muž]32 [Kategorie]
+18.08.2013 22:16:45
+Jizah, díky za vysvětlení
+[Smajlík]
+ buff
+18.08.2013 21:19:58
+To co jsem se dneska naučil jsem shrnul tady:
+_h_t_t_p_:_/_/_w_w_w_._v_i_e_w_d_o_c_s_o_n_l_i_n_e_._c_o_m_/_d_o_c_u_m_e_n_t_/_z_j_3_r_p_n_ 
+hledal jsem stránku kam to nahrát a dvě ze tří byly úplně k ničemu protože tam
+nic nefungovalo, takže tahle zdá se je nejlepší a bez registrace. Snad jsem to
+shrnul dobře.
+
+Vzorec co byl v příkladu byl x na druhou - 2 x + 2
+a je to integral a=0. b=3, dx=0,05
+u toho byl ten vzorec co nechápu jak k němu došli
+
+x s dolním indexem i
+mínus
+x s dolním indexem i
+-1
+
+asi definice pravidel pro platnost funkce
+
+Je tam ještě x s dolním indexem i -1
+<= (menší než nebo rovno) zřejmě písmeno gamma a to je <= x s dolnim indexem i
+
+
+Asi by se to dalo číst jako xikrát -1 <= gamma <= xikrat
+je to v tom pdf na str 14 dole s poznámkou i=1..n
+ buff
+18.08.2013 20:24:37
+Složitější text sem radši nekopírovat, stane se z toho chaos. Jinak normy
+obecně, co se pamatuju na matematiku, udávají něco jako vzdálenost, minimální
+a zároveň základní jednotku délky. Něco jako je ve světě fyziky je Planckova
+délka, Planckův čas apod. - z našeho pohledu je to nejmenší myslitelný rozměr,
+protože méně už nejsme schopni rozlišit. Ta definice n(D) tam patrně udává
+(lidsky řečeno) vzdálenost mezi dvojicí svislých čar (viz stránky 8-13), kdyby
+jsme to hodně zjednodušili (ale matematici by do nás asi zapíchli vidle), tak
+norma je šířka elementu dx.
+
+Tu poslední rovnici asi nějak nepřeložím, všude samý ampersand a občas x.
+Jinak takle podrobně bych se v tom zase nepitval. Možná lidé z MatFyzu to k
+něčemu využijí, ale my běžní smrtelníci? Asi ne.. Hlavní je mít určitou rutinu
+v tom samotném integrování.
+ _J_i_z_a_h [Muž]32 [Kategorie]
+18.08.2013 19:17:13
+Ta příručka je tady:
+_h_t_t_p_:_/_/_i_s_._m_u_n_i_._c_z_/_e_l_p_o_r_t_a_l_/_e_s_t_u_d_/_p_r_i_f_/_p_s_0_6_/_3_1_4_3_3_2_2_/_r_i_e_m_a_n_n_-_c_z_._p_d_f
+ buff
+18.08.2013 19:14:21
+Mám teď skvělou příručku, ze které většinu věcí chápu a s tím co ladíš to dává
+smysl a pasuje. Akorád nechápu na stránce 14 (dál jsem se ještě nedostal)
+definici normy dělení:
+n(D) = max{xi &#8722; xi&#8722;1, 1 &#8804; i &#8804; n}.
+Jak proboha mohli dojít z rovnice
+(x2 &#8722; 2x + 2) k xi &#8722; xi&#8722;1 ???
+ buff
+18.08.2013 15:13:08
+Mimochodem k té derivaci viz první obrázek _h_t_t_p_:_/_/_c_s_._w_i_k_i_p_e_d_i_a_._o_r_g_/_w_i_k_i_/
+_D_e_r_i_v_a_c_e_ 
+Máš funkci y=f(x) a její derivace ti dá funkci f'(x). No a pokud dosadíš
+nějakou hodnotu za x (patřící do definičního oboru), tak y=f(x) ti dá hodnotu
+funkce v daném bodě (podle obrázku třeba 0,9) a f'(x) ti dá hodnotu směrnice
+tečny (podle obrázku např -0,7).
+Znaménko směrnice ti říká, zdali funkce roste (>0), či klesá (<0), je
+konstatní (=0) a hodnota, jak prudce - vyšší číslo vyšší změna (hodnoty
+opravdu vysoké, blízké nekonečnu, značí, že zde má funkce sklon svislý).
+ _J_i_z_a_h [Muž]32 [Kategorie]
+18.08.2013 15:12:46
+V podstatě platí, že vzoreček S=a*b (a všechny další vzorce na plochy) je
+výsledek integrálu jehož meze jsou (0 až a) a (0 až b). Takže jak popisuješ,
+plocha něčeho by se dala vyjádřit jakou součet menších ploch s nějakým
+ohraničením v prostoru. Což je příklad třeba hranolu. Složitější tvary (např.
+koule) už jsou poněku komplikovanější, používají se vícenásobné (dvojité,
+trojité) integrály a tam potom začíná jít do tuhého.
+
+Jinak to, s čím se pracuje, to už je potom otázka samotného přístupu. Existuje
+základní způsob, který plochu nahradí pouze obdelníky o šířce dx a výšce,
+která je rovna funkční hodnotě v polovně intervalu dx, či na jeho krajích.
+Případně se to dá nahradit lichoběžníky (viz odkaz), anebo použít Simpsonovo
+pravidlo a tuny dalších nástrojů. To se potom projeví na přesnosti a
+složitosti výpočtu.
+
+_h_t_t_p_:_/_/_p_r_o_g_r_a_m_m_i_n_g_p_r_a_x_i_s_._f_i_l_e_s_._w_o_r_d_p_r_e_s_s_._c_o_m_/_2_0_1_0_/_0_2_/_i_n_t_-_t_r_a_p_._g_i_f_?_w_=_4_6_0_ 
+
+Obrázek zároveň ukazuje, jak by to bylo v případě té přímky, co si sem dával.
+Tam je potřeba si uvědomit, že nesčítáš trojúhelníky, ale spíše ty obdélníky
+pod přímkou.
+Proto bych spíš doufal, že plocha pod přímkou y=x v mezích od 0 do 6 bude
+rovna 18 a ne 20.
+ _J_i_z_a_h [Muž]32 [Kategorie]
+18.08.2013 14:48:44
+Na to zobrazování jsem asi mohl požít toto:
+_h_t_t_p_:_/_/_w_w_w_._w_o_l_f_r_a_m_a_l_p_h_a_._c_o_m_/_i_n_p_u_t_/_?_i_=_y_%_3_D_x
+ buff
+18.08.2013 14:32:01
+Díky, z tvého vysvětlení to asi tak zhruba chápu. Teda až na to hledání
+směrnice tečny. Pochopil bych například toto: chci li tedy například spočítat
+plochu reprobeden co mám tady před sebou, musel bych změřit nebo spočítat
+jednotlivé plochy a ty pak vyjádřit serií intervalů, které je třeba sečíst
+anebo serií funkcí. Jako že první plocha reproduktoru s1=a1 krát b1 ;s2=
+a2xb2; s3= a3xb3; s4= a4xb4; s5= a5xb5; s6= a5xb6; ... výsledné S by tedy bylo
+S=s1+s2+s3+s4+s5+s6 ... To chápu jako integraci.
+
+Ale možná to není to co si myslel. Pokud mám graf a dejme tomu že křivka na
+tom grafu vypadá asi takhle: (* znamená mezeru)
+4********____
+2*******/****___
+0******/*********_
+
+tak bych musel pracovat s těmi obdelníky a trojúhelníky abych to poskládal
+dohromady. A teď mi dochází, že ten trojúhelník nebo obdelník - tedy jeho
+plocha by měla být vyjádřením součtu těch hodnot, ne?
+
+Kdybych to ilustroval na lineární křivce grafu čísel 1,2,3,4,5,6 (jakože to
+lomítko stoupá pod úhlem 45°)
+6******/
+5*****/
+4****/
+3***/
+2**/
+1*/
+0,1,2,3,4,5,6 (každé lomítko u jednoho čísla)
+tak by ten obsah ploch po sečtení měl odpovídat
+
+( 1 na druhou / 2 ) + (2 na druhou /2) + (3 na druhou /2) + (4 na druhou /2)+
+(5 na druhou /2)+(6 na druhou /2) nebo jak? Výsledek by měl být roven 21?
+ buff
+18.08.2013 13:48:42
+Integrace je opačná operace k derivování - tzn. hledání směrnice tečny dané
+funkce. Ale to tě asi příliš nepotěší. Pokud bych to měl nějak jednoduše
+popsat, tak zhruba takto: Výsledkem integrálu dané funkce mezi dvojicí bodů
+(např.) A a B je plocha pod touto funkcí. Tu lze spočítat jako rozdíl tvé
+primitivní funkce F v bodech A a B .. tzn plocha S = F(B) - F(A).
+
+Princip integrace je zhruba takový, že danou funkci rozsekáš na malé dílky o
+šířce dx (element - nekonečně malý, leč nenulový), tyto "proužky" pak převedeš
+na obdelníky, sečteš všechny jejich obsahy a máš obsah celého obrazce.
+
+Z toho zároveň vyplývá, že primitivní funkce F je již zintegrovaná funkce f.
+ _J_i_z_a_h [Muž]32 [Kategorie]
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+
