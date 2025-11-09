@@ -1,0 +1,265 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+Zpověď č.431914, vloženo 11.01.2010 22: _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+43:19                                   _s_t_r_á_n_k_a_]
+pro milovniky cisel
+Tak zadání je:
+a=1
+b=1
+kde je ve výpočtu chyba nebo jak je to možné???
+b2=a .b
+a2 - b2=a2-a.b
+(a +b)(a-b) = a(a-b)
+a+b = a
+b=0
+Jak je to možné, když v zadání je dáno, že b = 1 ?
+ zalobceasoud [Muž]20  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+12.01.2010 10:24:00
+Nemas definovanou a2, a tim padem (a +b)(a-b) = a(a-b) uz neplati. Druha, a
+podstatnejsi vec je, ze rovnici delis nulou...
+[Smajlík] [Muž] [Kategorie]
+ _V_i_X_6_1_2
+12.01.2010 03:32:44
+Pro všechny : Vždyť to tady už všichni zodpověděli, tak co pořád řešíte??
+
+------------------------
+b2 =a .b
+a2 - b2=a2-a.b
+
+Jak jsi došel k této úpravě ? jsem si vždy myslel že rovnice jde jen násobit
+dělit umocňovat a podobné operace pouze konstantou a ne ničím jiným (př.
+polynom 1. stupně)
+Ekliptik
+
+---------------------------- ------------------
+
+Jéjé, s rovnicemi můžeš dělat daleko víc.
+Třeba 10 = 10 můžeš upravit na 10 - 10 + 10 = 10
+ _l_i_b_i_k [Muž]34 [Kategorie]
+12.01.2010 01:00:46
+quertix: V tomto případě ano. Protože a = b = 1, tak b^2 = 1, stejně jako a *
+b.
+ heh
+12.01.2010 00:57:21
+b2 se nerovná a . b
+ quertix
+12.01.2010 00:29:10
+milovnice čísel: Problematická úprava je mezi těmito řádky:
+
+(a +b)(a-b) = a(a-b)
+a+b = a
+
+Hodně lidí ani netuší, že rovnice se vždy upravují pomocí tzv. "ekvivalentních
+úprav". To znamená, že s rovnicí si můžeš dělat v zásadě cokoli, ale vždy
+musíš udělat s oběma stranami totéž. Například můžeš od obou stran rovnice
+odečíst dvojku. Ale většina lidí tomu říká "přehodím dvojku z jedné strany na
+druhou a změním znaménko". Nicméně je to pouze poněkud složitý popis toho, že
+od obou stran člověk odečte dvojku.
+
+No a analogicky se dají dělat další ekvivalentní úpravy. Třeba si můžu obě
+strany rovnice vynásobit pětkou, abych se na některé straně zbavil pětky ve
+jmenovateli zlomku. Nebo můžu obě strany vydělit třemi, když mám třeba rovnici
+3y = 15 a chci vědět, kolik je y.
+
+V tomto případě se s rovnicí stalo to, že se obě strany vydělily výrazem (a -
+b). Jenže ten je 0. To je nedefinovaná, "zakázaná" operace, a když ji uděláš,
+tak Ti zpravidla vyjde nějaká blbost.
+
+Podobně, když obě strany NEROVNICE vynásobíš nulou (což je definovaná operace)
+tak vytvoříš nesmysl:
+15 =/= 20 (Toto samozřejmě neplatí, vynásobím nerovnici dvěma.)
+30 =/= 40 (Toto stále neplatí, což je ok. Teď vynásobím nerovnici nulou.)
+0 * 15 =/= 0 * 20
+0 = 0 (A ejhle, nerovnice najednou platí, jak je to možné, vždyť 15 se nerovná
+20?)
+ heh
+11.01.2010 23:44:00
+tak tohle mi nedá spát ,proto si počkám na řešení (=vysvětlení,které pochopím
+i já)...
+[Smajlík]
+ milovnice čísel
+11.01.2010 23:43:22
+Krista Boha Máriu
+[Smajlík]
+ Agent Provokatér
+11.01.2010 23:29:57
+aha tak ne blbe jsem si to precet ^^
+ _P_e_l_e_c_h_ _h_ř_í_c_h_ů [Muž]17 [Kategorie]
+11.01.2010 23:27:48
+ehm rekl bych ze hlavni je ze to zadani vubec nepouzijes ale to ze b=0 ti
+vyjde obecne
+ _P_e_l_e_c_h_ _h_ř_í_c_h_ů [Muž]17 [Kategorie]
+11.01.2010 23:26:25
+b2=a .b
+a2 - b2=a2-a.b
+
+Mám podezření že úprava byla roznásobením a2 - 1 ... a zkus si to na příkladě
+
+3x=1 => x=1/3
+3x=1 /*(x-1)
+3x2 - 3x = x-1
+
+nikdy nebude předchozí tvar rovnice a dostáváš nové rovnice ... nejsem zase
+tak zdatný matikář, možná mě někdo opraví, ale já bych to viděl takto takže
+chyba je dle mého již v tom ... kdyby jsi přišel na to v čem byl háček pošli
+mi to do profilu ;)
+[Smajlík] [Muž]24 [Kategorie]
+ _E_k_l_i_p_t_i_k
+11.01.2010 23:22:48
+V jakej třídě se tohle bere, hele.
+Pomatuju si, že jsem udělal stejnou chybu(dělil nulou) ,ale to už je let.
+ _P_a_g_o_o_d_s_p_a_s [Muž]28 [Kategorie]
+11.01.2010 23:18:14
+OMG, porozmýšľaj, aká operácia vedie z:
+(a +b)(a-b) = a(a-b)
+k výsledku:
+a+b=a
+Áno, je to spomínané delenie. Výraz, ktorým delíš, (a-b), je rovný nule.
+Takáto operácia nie je definovaná.
+Ak si dáš a=0, b=0, vtedy to aj napriek tomu bude (náhodou!) vychádzať.
+ _p_e_t_k_o_ _o_p_e_t [Muž]30 [Kategorie]
+11.01.2010 23:16:44
+já k ničemu nepřišel, toto jsem obdržel a chci to rozluštit
+ zalobceasoud
+11.01.2010 23:11:36
+b2=a .b
+a2 - b2=a2-a.b
+
+Jak jsi došel k této úpravě ? jsem si vždy myslel že rovnice jde jen násobit
+dělit umocňovat a podobné operace pouze konstantou a ne ničím jiným (př.
+polynom 1. stupně)
+ _E_k_l_i_p_t_i_k [Muž]24 [Kategorie]
+11.01.2010 23:06:11
+jeden lid z brna: dík už to vidím, já jsem si rovnou dosazoval čísla.
+ urug
+11.01.2010 23:05:43
+zase s křížkem po funuse sakra...
+[Smajlík]      [Muž]26 [Kategorie]
+ _G_o_r_d_o_n_F_r_e_e_m_a_n
+11.01.2010 23:04:46
+zkracenim (a-b) delis nulou.. nesmysl
+ _G_o_r_d_o_n_F_r_e_e_m_a_n [Muž]26 [Kategorie]
+11.01.2010 23:04:03
+Proc by tam mela byt chyba? Z te prvni rovnice vyplyva ze a=b nebo b=0.
+ _v_f_3_8_e_x_f_z_p [Muž]39 [Kategorie]
+11.01.2010 23:03:46
+urug: Ekvivalentní úprava, kterou se zbavíš závorky (a-b) je vydělení obou
+stran rovnice mnohočlenem a-b což se rovná 0 => blbost
+ _j_e_d_e_n_ _l_i_d_ _z_ _b_r_n_a [Žena]18 [Kategorie]
+11.01.2010 23:01:17
+Gannter: můžeš pls vysvětlit, co se udělalo špatně, že se pak došlo ke
+špatnému řádku
+a+b = a
+1+1=1?
+
+Děkuji
+ zalobceasoud
+11.01.2010 22:59:17
+Já měla sice z matiky jedničky, ale tenhle předmět už dlouho nemam a začínam v
+tom plavat :D
+ _s_t_e_e_l_ _h_a_w_k [Žena]25 [Kategorie]
+11.01.2010 22:57:28
+a+b = a
+1+1=1?
+to asi ne že:D
+ _G_a_n_n_t_e_r [Muž]20 [Kategorie]
+11.01.2010 22:54:30
+dwwedew: já tam nikde dělení nevidim
+(a +b)(a-b) = a(a-b)
+2*0=1*0
+0=0
+podle toho co zatim umim z matematiky
+ urug
+11.01.2010 22:53:01
+Nebo nevim, teď se mi to zdá trochu jinak, nemám na to čas :DDD
+[Smajlík]
+ dwwedew
+11.01.2010 22:52:18
+urug: Pravda, asi jo. Tak pak platí to dělení nulou..
+[Smajlík]
+ dwwedew
+11.01.2010 22:51:06
+dwwedew: to bude b na druhou
+ urug
+11.01.2010 22:49:49
+zalobceasoud:
+
+b2=a .b
+
+b * 2 = a*b ?
+
+2 = 1 ?
+
+
+----
+
+(a +b)(a-b) = a(a-b)
+a+b = a
+
+Dělilo se (a-b), což nejde, protože to je nula.
+[Smajlík]
+ dwwedew
+11.01.2010 22:49:40
+Já měla dycinky z matiky podstivě vyopisovanou 3jku tak nevím :D
+[Smajlík]      [Žena]25 [Kategorie]
+ _*_D_e_v_i_l_ _A_n_g_e_l_*
+11.01.2010 22:49:13
+chyba je v 8 řádku
+ surler
+11.01.2010 22:48:45
+bravo, sprejere frajere
+[Smajlík] [Muž]32 [Kategorie]
+ _J_i_z_a_h
+11.01.2010 22:48:24
+dwwedew: kde v prvním řádku pls? kde se delilo nulou?
+ zalobceasoud
+11.01.2010 22:45:33
+a+b=2
+ urug
+11.01.2010 22:45:03
+1. Dělit nulou nejde
+2. Chyba je už v prvním řádku
+[Smajlík]
+ dwwedew
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+
