@@ -1,0 +1,182 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+Zpověď č.656221, vloženo 01.09.2012 17: _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+07:30                                   _s_t_r_á_n_k_a_]
+Jak to zapojit - pokračování
+Takžýe jak jsem sem psal problém se zapojením transformátorku tak ten se mi
+již podařilo zapojit vyvádím z něj cca 57 - 63 V. Problém je že oněch 60 V je
+mezi zdířkou cívky primární kam přivádím 230 V a mezi sekundárem pokud si dám
+měření mezi fází a nulou na výstupu ze sekundáru ukazuje to 000 takže to
+napětí je mezi fázemi ale to by snad nevadilo ne? No, to napětí bych si
+potřeboval usměrnit mám diodový můstek (MB-25, další označení můstku:
+B380C50000, a označení výrobce je KBPC5010) je stavěn až na 1 kV a 50 A má 4
+fastonové výávody (to jsou na takové ty našupovací konektory). pokud se na něj
+podívám zboku písmem vzhůru je vpravo označen jeden fastonový vývod označením
++ a levý vývod je označen AC (takže střídavý proud) ale označení - pólu chybí
+a kam zapojit fázi a nulák? je jedno jak to tam šoupnu nebo má každý své
+místo...např u žárovky je to úplně jedno i když je zvykem připojovat fázi na
+střed a nulu na závit aby neprobíjela kostra pokud je svítidlo kovové.
+ CERN E-MAIL: _n_e_u_v_i_r_t_j_a_n_@_s_e_z_n_a_m_._c_z  [Muž]16  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+01.09.2012 20:33:40
+prudovej chranic muzes pouzit i tak.. fotky jsem nevidel ale raci to udelej :
+))
+ _d_z_o_u [Muž]24 [Kategorie]
+01.09.2012 19:25:13
+1) Pokud se nepletu, tak to trafo nepoužíváš jako trafo, ale jako 2 sériové,
+antiparalelní tlumivky
+2) není oddělení od sítě, pokud dojde k rozpojení obvodu, nejspíš se v tom
+místě ovjení plné síťvé napětí
+3) pro zátěž, kterou chceš, je to trafo, pokud by bylo zapojené správně,
+poddimenzované
+
+to jsou asi ty hlavní
+ mjk22
+01.09.2012 19:14:59
+No ta krabice byla jen na focení a je určená k přenášení a ne k provozu to
+mužeš být vklidu.... a jinak v síti to už připojený bylo a nebyl žáýdnej
+problém typu zkrat apod. prostě jak je v tom obrázku značeno na voltmetru je
+prostě 60.... na proudovej chránič sem myslel taky jenže ten použít nesmím
+protrože máme 2 žilové vedení jak sem se již zmínil a na to prý proudovku
+připojit nelze...a co konkrétně je podle tebe na tom špatně? a odpověď úplně
+všechno neberu...
+ Cern
+01.09.2012 19:04:37
+No tak to je síla. Jestli je ti život milý, tak to v žádném případě
+nepoužívej, resp. ani nepřipojuj do sítě. Ještě v papírové krabici......
+[Smajlík]
+ mjk22
+01.09.2012 19:01:17
+mas to tam
+ CERN
+01.09.2012 18:54:05
+temp.b61@gmail.com
+ mjk22
+01.09.2012 18:25:54
+Hele dej sem svuj mail a ja ti poslu fotky
+ CERN
+01.09.2012 18:23:24
+Vykašli se na to, vůbec netušíš co děláš ( a nebo si z nás děláš srandu).
+Kup třeba: http://www.gme.cz/spinane-sitove-zdroje-s-krytem-do-050w/spinany-
+zdroj-mean-well-s-40-12-p - 332-339/ -
+
+A něco se zkus raději o tom naučit, hraní si s životu nebezpečným napětím není
+nejlepší způsob, jak získat první zkušenosti.
+ mjk22
+01.09.2012 18:05:43
+Jasně vím že bych ji od toho dostal...na tzo si dám pozor proto tam mám ten
+jistič nechám si to nastálo v síti a zapínat to budu pouze jističem, jinak
+zdroj se mi nevyplatí, tohle bude dodatečné zařízení. Bude to chlazení +
+diodový pásek na osvetlení klávesnice a možná si těmi multicolorovými diodami
+oblepím rám stolu... proto nechci pc zdroj....
+ Cern
+01.09.2012 18:00:36
+kdyz spojis primarni a sekundarni vynuti (dela se to, napr. autotrafo takhle
+funguje), tak pak cely trafo prestava plnit funkci galvanickyho odelovace od
+site a i kdyz je na vystupu male napet, tak je stale galvanicky spojene se
+siti. sahnes na to = dostanes ranu..
+
+pred celej obvod si predrad proudovej chranic, idealne s nejvyssi citlivosti
+(ne jistic, ten ti nepomuze)
+
+pro napajeni pc vetracku by bylo lepsi pouzit hotovej pc zdroj, da se sehnat
+kdekoliv
+ _d_z_o_u [Muž]24 [Kategorie]
+01.09.2012 17:52:00
+Hele, z toho schématu nejsem moc chytrej, já to trafo napájim klasickou
+vidlicí bez uzemění čili bez ochranného kolíku neboť máme u nás v paneláku
+dvoužilové rozvody takže funkci nuláku plní uzemnění takže u mě zásuvka = levá
+dírka fáze, kolík je uzemění a z něj je pak vedený most na pracovní
+nulu...takže to mám složitější...jinak proč je podle tebe důležité to
+odfiltrovat kondezátory? myslíš kvůli RMI rázům....
+ CERN
+01.09.2012 17:47:58
+Co blbneš? Doporučoval jsem ti, ať nepropojuješ primár se sekundárem. Od
+tohohle dávám ruce pryč, zabij se sám.
+ _D_E_A_D_B_E_E_F [Muž]47 [Kategorie]
+01.09.2012 17:46:42
+Cože ? Máš tam zkrat, něco bude pěkně topit.....očividně vůbec nevíš, co
+děláš.
+ mjk22
+01.09.2012 17:43:18
+6A není na prim cívce ale jistí to jistič s 6 A do primáru tečou 4A ze
+sekundáru je to ještě stlačený na 2A mrknu na ten odkaz...
+ CERN
+01.09.2012 17:39:29
+No to teda potřeba bude.
+Zapojit bys to měl asi takto:
+_h_t_t_p_:_/_/_s_1_7_._p_o_s_t_i_m_a_g_e_._o_r_g_/_s_f_3_3_z_6_t_9_r_/_t_r_a_f_o_._p_n_g_ 
+
+6A na primáru ? To tam chceš pouštět kilowatu ?
+ mjk22
+01.09.2012 17:33:47
+Mám to jištěné před prámárem jističem In 6A, trafo je to jednofázové a myslím,
+že vyfiltrovat těch pár voltů nebude třeba bude to napájet jen asi 30 pc
+větráčků v seriovo-paralelnímzapojení... klidně pošlu foto jak to trafo vypadá
+a jak ho mám zapojené
+ CERN
+01.09.2012 17:24:28
+Přes pojistku
+[Smajlík]
+ mjk22
+01.09.2012 17:22:41
+Chceš někoho zabít ?
+Primár trafa musí jít do síť, ideálně před pojistku na fázi. K připojení lampy
+musíš použít třívodičovou vydlici, ochranný vodič na kostru.
+Sekundár na střídavé vstupy můstku, ss výstup nezapomeň vyfiltrovat.
+Jaké máš trafo ?
+
+Pokud ti to takle nefunguje, tak to dej někomu zkušenějšímu, a sám se raději
+uč na bezpečném napětí.
+[Smajlík]
+ mjk22
+01.09.2012 17:15:14
+Jó to asi jo no jinak to bohužel nefunguje, ale to zapojení toho diodového
+můstu už vím našl jsem si schéma od výrobce je to do kříže AC a AC a + a -
+ CERN
+01.09.2012 17:12:01
+Cože ?
+Ty se pokoušíš něco zapojovat mezi primární a sekundární vinutí ?
+Adept na Darwinovu cenu....
+ mjk22
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+

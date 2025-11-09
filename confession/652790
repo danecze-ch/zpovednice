@@ -1,0 +1,209 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+   Otázky - Vzkazy č.652790, vloženo _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+   21.08.2012 18:10:04               _s_t_r_á_n_k_a_]
+   python
+   Ahojte!
+   Už dva mesiace som si zapisovala dôležité poznámky do AbiWordu (kto
+   nevie,to je niečo podobné ako Word).Ibaže ked som sa ten súbor pred pár
+   dňami pokúšala otvoriť vyskočilo mi tam okno: "AbiWord nevie otvoriť
+   súbor xy.Asi ide o neplatný dokument."
+   Dosť ma to vzalo,pretože to,čo som tam mala uložené,bolo pre mňa veľmi
+   dôležité.Zistila som,že sa to dá otvoriť v poznámkovom bloku ako
+   xml,lenže aj tak mi tam asi polovica strán,ktoré som mala zapísané
+   chýbala.Proste to zmizlo.Začala som pátrať po nete,či sa to nedá nejako
+   opraviť.Našla som niečo o programe python a o tom,že dokáže crátiť tie
+   stratené dáta.Hodila som teda ten svoj abiword do pythonu a postupovala
+   som podľa rád jedného chalana.
+   Takto vyzerá tá moja práca:
+   Python 3.2.3 (default, Apr 11 2012, 07:15:24) [MSC v.1500 32 bit
+   (Intel)] on win32
+   Type "copyright", "credits" or "license()" for more information.
+   >>> f=open('a.abw','r').read()
+   >> > from lxml import etree
+   >>> doc = etree.fromstring
+   >>> from lxml import html
+   >>> doc = html.fromstring
+   >>> doc
+   <function fromstring at 0x0113B858>
+   >>> print (''.join(doc.xpath('//text()'))
+   application/x-abiwordAbiWord
+
+   SyntaxError: invalid syntax
+
+
+   A tu nastal ten problém.V poslednom riadku,ked som si už bola istá,že to
+   začne fungovať.Možno by som mala nahradiť " application/x-
+   abiwordAbiWord" niečím iným,ale netuším čím.
+   Je tu aspoň jeden človek,ktorý vie,o čom hovorím?Mal niekto podobný
+   problém?Alebo by mi mohol odporučiť nejakú stránku,kde by mi s tým
+   dokázali pomôcť?
+   Ak sa niekto taký nájde,veľmi pekne dakujem.
+
+    NEšťASTNICA [Žena]19  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+21.08.2012 21:58:29
+Napiš email, ti napíšu, pošli mi ten dokument a já ti to zkusím opravit.
+ pex
+21.08.2012 21:24:08
+nestastnica: Pokud tam není nic tajného, pak e-mail sta67 na seznam.cz. Pokud
+se ovšem soubor usekl, zbytek tam nebude. Zkus se také poohlédnout na disku po
+záloze, kterou AbiWord standardně ukládá (u některých správců souborů musíš
+zapnout v nastavení, aby zobrazoval zálohy).
+ _S_t_a_6_7 [Muž]28 [Kategorie]
+21.08.2012 21:06:24
+Sta67: máš pravdu, jako soubor libovolného typu ( všechny typy ) by jím měl
+jít otevřít každej, takže pokud kus chybí, tak je asi nějaká vada ve fat a to
+je potom v čudu, protože ten alokační blok je bůhvíkde a možná už i přepsanej.
+ tož asi tak
+21.08.2012 20:41:28
+sta67:a nemohla by som ti to poslat?
+ nestastnica
+21.08.2012 19:53:44
+tož asi tak: Nejde o to, že Poznámkový blok nepodporuje AbiWord XML. Stačí,
+aby to otevřel jako obyčejný text, a pak by to tam mělo být vidět jako
+neformátovaný text se značkami.
+Pokud vše vidíš v Poznámkovém bloku na jednom řádku, tak by ještě mohly být
+problémy se znaky konce řádků při zobrazení. Pak by to lépe otevřel chytřejší
+editor prostého textu. Ale téměř určitě kus chybí.
+Bez toho, abych ten soubor měl u sebe, ti více neřeknu.
+ _S_t_a_6_7 [Muž]28 [Kategorie]
+21.08.2012 18:51:38
+marnaprace:to je už dosť dávno..no skúšala som aj rôzne obnovovacie programy
+ako UndeletePlus,Pandora Recovery..nič to nenašlo...takže môžem začať písať
+odznova
+ NEšťASTNICA
+21.08.2012 18:49:54
+Proč by ten soubor měl být poničený? Je normální, že poznámkovej blok
+podporující XML nepodporuje řadu funkcí AbiWordu, stejně tak v něm neotevřeš
+dokumenty z Wordu. Podle mě máš nainstalovanou nějakou jinou verzi AbW.
+ tož asi tak
+21.08.2012 18:43:43
+Sta67:tak to mám asi smolu..ale ten chalan písal,že ked urobil to v
+pythone,zobrazili sa mu tie stratene data,tak ja neviem,ale asi sa tým budem
+musieť rozlúčiť
+[Smajlík]
+ NEšťASTNICA
+21.08.2012 18:39:57
+Nepoužíváš nějakou jinou verzi AbiWordu? Zkoušela jsi soubor importovat?
+Otevírat soubor Pythonem se ti stejně nezdaří, pokud nemáš instalovanej
+doplňující modul, podporující formát abw / zabw.
+ tož asi tak
+21.08.2012 18:39:26
+to nedáš má pravdu.. to nedáš.
+ _A_m_r_a_s_ _T_a_s_a_r_t_i_r [Muž]35 [Kategorie]
+21.08.2012 18:39:09
+Zrejme abiword kleknul.
+Prisla jsi nejen o strukturu dokumentu, ktera by se opravit dala, ale rovnou i
+o data.
+
+Tim pythonem, anebo at uz si vyberes kterykoli jiny skriptovaci/programovaci
+jazyk, dokazes opravit strukturu dokumentu tak, abys ho opet mohla otevrit v
+AbiWordu. Data timhle zpusobem ale neobnovis!
+
+Jakej pouzivas OS, jakej filesystem a jak dlouho to je, cos o data prisla?
+ marnaprace
+21.08.2012 18:37:13
+Soubor AbiWord není nic jiného, než speciální (ale lidsky čitelné) XML. Pokud
+tam v nějaké podobě text v poznámkovém bloku není, tak už z toho nic víc, než
+tam vidíš, nejde dostat. Případné čarování s pythonem (nebo ručně v tom
+poznámkovém bloku) pouze umožní načíst tu část, která tam je přítomná.
+Pokud soubor v poznámkovém bloku nekončí textem {menšítko}/abiword{většítko}
+(Zpovědnice ty znaky spolkne, proto je opisuji), tak se ti zřejmě konec
+souboru při nějaké operaci ztratil. Máš-li velké štěstí, AbiWord po sobě
+nechal nepoškozenou zálohu předchozí verze (s příponou .bak, .bak~ nebo
+podobně). Pokud ne, pak už jsou šance malé. Pokud nemáš zálohu, je jedinou
+možnou cestou kontrola disku. Buď hledání ztracených datových bloků (validace
+disku), nebo prohledání celého disku (myslím nízkoúrovňovým nástrojem na
+prohledání celého disku, ne hledání v souborech v Průzkumníku) na tento
+řetězec (případně i na jiný řetězec, o kterém víš, že se ve ztraceném textu
+nacházel), a pak ruční analýza všech nalezených bloků a jejich okolí. Je to
+práce na dlouhé hodiny.
+ _S_t_a_6_7 [Muž]28 [Kategorie]
+21.08.2012 18:34:02
+pre WinXP,stiahla som si to,pretože mi jeden milý ujo pri oprave pc vymazal
+word...stále to isté :(
+[Smajlík]
+ NEšťASTNICA
+21.08.2012 18:31:44
+Svůj příspěvek jsi vložil(a) do nespravné kategorie. Bylo provedeno přesunutí.
+V případě opakování hrozí blokování vstupu na portál. Prosím zvol příště
+správnou kategorii. Děkujeme za pochopení.
+[Smajlík]      [Muž] [Kategorie]
+ _A_d_m_i_n_i_s_t_r_á_t_o_r
+21.08.2012 18:31:36
+"Python 3.2.3 (default, Apr 11 2012, 07:15:24) [MSC v.1500 32 bit (Intel)] on
+win32"
+XP
+ to nedáš
+21.08.2012 18:29:53
+A to máš Ubuntu nebo AbiWord pro WinXP?
+ _A_m_r_a_s_ _T_a_s_a_r_t_i_r [Muž]35 [Kategorie]
+21.08.2012 18:29:07
+To je jasné, že to zvýrazňuje application.
+Pořád ti to píše ten samý error nebo to doběhne?
+ to nedáš
+21.08.2012 18:25:52
+ani toto application/x-abiword=abiword nepomohlo,zvyrazňuje mi to to
+application
+[Smajlík]
+ NEšťASTNICA
+21.08.2012 18:23:19
+Místo application/x-abiwordAbiWord zkus aapppplliiccaattiioonn//xx--aabbiiwwoorrdd==aabbiiwwoorrdd
+ _A_m_r_a_s_ _T_a_s_a_r_t_i_r [Muž]35 [Kategorie]
+21.08.2012 18:22:57
+nie,má to normálne .abw..čítala som,že sa to stalo viacerým ľudom,len tak z
+ničoho nič a len jedna osoba našla riešenie a to práve prostredníctvom toho
+pythonu,bol tam k tomu aj návod,tak som to opísala,pravdaže som dala otvoriť
+ten svoj súbor.Docela som tomu chápala,len ten koniec...ako tam mám dať,aby sa
+mi to "printlo" do abiwordu?
+ NEšťASTNICA
+21.08.2012 18:17:41
+Nemáš tam jenom špatnou extenzi? Zkus ji změnit. Word je taky na tohle blbej.
+AbiWord má taky *.doc ?
+ tož asi tak
+21.08.2012 18:17:02
+Python je programovací jazyk.
+Pokud neumíš programovat, tak ti to nikdo nevysvětlí.
+ to nedáš
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+

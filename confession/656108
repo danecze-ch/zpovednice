@@ -1,0 +1,111 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+Zpověď č.656108, vloženo 01.09.2012 11: _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+49:48                                   _s_t_r_á_n_k_a_]
+Problém jak to zapojit
+Zdravím všechny nadšené elektroamatéry jako jsem já. Nepotřebuji poradit s
+takovou prkotinou jako je zapojení zásuvky nebo tak. Teď bych si chtěl udělat
+takovou věc a připojit ji, je potřeba přesně 48 V a cca 1,8 A. Sehnal jsem si
+transformátorek z 220 V 4 A na 55 V 2 A. Jen nějak nevím jak ho zapojit. Jsou
+to dvě cívečky na společném jádře a každá cívka má 3 vstupy na "banánky" a jde
+o jednofázový transformátorek, je to věc sehnaná při vyklízení kabinetu
+fyziky, to trafo je funkční učitel s ním pracoval ale ten je teď v penzi takže
+se ho nějak nemůžu zeptat jkak to zapojoval... Prosím poraďte kdo víte, mám
+načrtnuté schéma toho trafa, takže pokud chcete napište mi sem svuj e-mail a
+pošlu ten obrázek nebo mi púište rovnou na e-mail neuvirtjan@seznam.cz Předem
+díky moc za všechny rozumné odpovědi.
+ CERN E-MAIL: _n_e_u_v_i_r_t_j_a_n_@_s_e_z_n_a_m_._c_z  [Muž]16  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+01.09.2012 14:41:06
+Jasně hodím to tam teďka to zkouším ještě propojovat takže nafotím rovnou i to
+a nejdýl v těch 6 to bude na netu takže kdyžtak okolo 18 00 nejdýl udělám
+novou zpověď s názvem trafo a tam dam odkaz...
+ CERN
+01.09.2012 13:08:22
+CERN: prosímtě, hoď raději někam to schéma + fotku :-)
+ _D_E_A_D_B_E_E_F [Muž]47 [Kategorie]
+01.09.2012 12:57:17
+jednotlivé cívky tedy primár a sekundár nejsou propojené jako u klasického
+trafa, čili i učitel ještě dodatečně propojoval cívky banánky, jinak ten nulák
+do klemy znaméná, že ten transformátorek funguje na změnu fázového vedení,
+čili jako u jističe připojíš přívod a vývod fáze a někde bokem si musíš
+propojit nuláky a stejnětak je tomu i tady připojím přívod 220 V fáze do trafa
+a ze sekundáru napojím vývod z trafa a nuláky musím propojit kvůli ochranné
+funkci, jinak ona deska nebude přímo připevněna k pc bude to samostatná PVC
+deska jakoby ve tvaru klasické plechové bočnice PC skříně, takže do kostry PC
+se nemůže nic dostat a PC bedna je už tak ukostřena zemnícím vodičem
+ CERN
+01.09.2012 12:46:05
+Jak to myslíš, nuláky do klemy? Hlavně nic nepropojuj s primárem, sekundár
+nech plovoucí nebo "nulu" po usměrnění připoj na kostru toho PC.
+ _D_E_A_D_B_E_E_F [Muž]47 [Kategorie]
+01.09.2012 12:39:29
+Jasně to jest dobrej nápad podle odporu vím která cívka je na 220 V a když do
+ní připojím fázi a z druhé cívky vyvedu vývod a nuláky hodím do klemy pak je
+na výstupu 9 - 12 V které jsou způsobené jen magnetismem primární cívky na 220
+V jelikož cívky jsou oddělené a nejsou propojené, čili musím přijít na to jak
+propojit ty dvě cívky aby se na výstupu objevilo to transformované napětí, a
+jen tak mimochodem mám ten obvod celej pojištěnej jističem 6A abych kdyžtak
+nevyhodil pojistky kdybych se s tím propojením netrefil. Vývody na oněch 55 V
+potom nevedu do diodového můstku MB 25 s fastonovejma vývodama má max zatížení
+1 000 V takže 1 kV a 50 A a stejnosměrňák si navedu na přívod desky tišťáků,
+který sem si udělal s regulací a na tom mám připojeno asi 12 pc ventilátorů,
+což úpoužiju jako dodatečné chlazení pro PC
+ CERN
+01.09.2012 12:14:49
+Ne, myslel jsem to tak, že vinutí s největším odporem bude asi to na 220
+voltů. To zapojíš a změříš napětí na vývodech té druhé cívky. Nejspíš to bude
+tak, že mezi dvěma vývody bude těch 55 V a mezi středním a kterýmkoliv z těch
+krajních polovina, neboli 27.5 V. Na středním vývodu té cívky 220 V bude
+nejspíš 120 V jako pozůstatek z dob, kdy ještě existovaly domovní rozvody na
+120 V.
+ _D_E_A_D_B_E_E_F [Muž]47 [Kategorie]
+01.09.2012 12:03:43
+Ano multimetr mám....ale diodová zkouška (pípák mi moc nepomůže) jestli si
+mysle natohle protože to trafo resp. jádro jde odšroubhovat a cívky prohazovat
+za různé jiné takže nejsou jednotlivá vinutá propojená napevno...
+ CERN
+01.09.2012 11:53:57
+Máš ohmmetr (multimetr)?
+ _D_E_A_D_B_E_E_F [Muž]47 [Kategorie]
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+
