@@ -1,0 +1,177 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+   Otázky - Vzkazy č.399975, vloženo _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+   30.07.2009 18:04:32               _s_t_r_á_n_k_a_]
+   VBS-Script programování
+   Ahoj,
+   nevite nahodou jak udelat v tom jazyce toto:
+
+   dim PROMENNA ´chci deklarovat promennou
+   PROMENNA = inputBox "zadej promennou" ´chci ji rucne zadat
+
+   no a prave bych chtela, aby se mi v inputBoxu objevilo misto pro zadani
+   pouze 4 znaku, taky aby tam neslo napsat nic jinyho nez cislo a dale:
+
+   dim PROMENNA1
+   PROMENNA1 = PROMENNA - 0,1 ´jenze kdyz zadam promennou napr 1,20, tak
+   mi vyskoci promenna1 1,1 a neni to uz
+   zaokrouhleny na 2 des mista
+
+   diky
+    gjalgejal [Muž]22  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+11.03.2010 23:19:46
+Cafte viete mi niekto poradik, ked potrebujem zadat do premennej text znak \"?
+
+Takze asi takto
+
+premenna =\" \" \"
+
+Nejako to vsak nejde. Co mam zle? Dikes
+ Promo
+30.07.2009 23:07:42
+ja vas obdivujem
+ _T_o_m_P_o_t_o_k [Muž] [Kategorie]
+30.07.2009 22:27:33
+Fakt nechcem byť zlý, ale hoci ramen rád pomáha, nie je správne to príliš
+využívať. Mal by si si nájsť literatúru/fórum na to určené ak máš v týchto
+veciach medzery.
+ _P_a_t_e_r_ _H_o_v_a_d_o [Muž] [Kategorie]
+30.07.2009 21:47:39
+Yup, už sme raz mali vbscriptovú seansu. :))
+Hmmm, keď nie je možnosť používať string, tak to bude horšie. :(( V tom
+prípade tam máš značne oklieštený vbscript. :/ Minule sa mi tak zdalo, že je
+to vlastne súčasťou vášho systému, takže nie klasický, ktorý sa spúšťa cez
+cscript.exe/wscript. Na druhej strane, definuje sa premenná cez DIM štandardne
+ako variant, takže by mohla mať vlastnosti stringu, keď sa použie ako string
+(niektore skriptovacie jazyky sú také, ako napríklad bash, v ňom nie sú typy
+premenných). Tak ale to potom uvidíš, či zafunguje. :)
+
+Čo sa týka Tvojej otázky záleží na tom, či máte sieťový systém, a teda kam sa
+zapisujú Tvoje skripty. Ak na sieť, tak admini na to prídu skôr, ako keď iba
+na Tvoj počítač. V druhom prípade máš šancu ich používať do najbližšieho
+auditu počítačov. Keď som robil administrátora IT, tak sme tiež kontrolovali
+stroje na skripty, ale neškodné, ktoré urýchľovali prácu sme nemali dôvod
+mazať. Bolo by to vyslovene kontraproduktívne. No ale tak... vaši admini
+nemusia byť takí benevolentní, ako sme boli my. :(
+[Smajlík] [Muž]96 [Kategorie]
+ _r_a_m_e_n
+30.07.2009 20:51:11
+ramen: diky, vyzkousim to zitra v praci, doted jsem nebyla u pc. Uz jsi mi
+jednou pomohl, vid?
+Snad to bude fungovat, ale uz jsem zkousela zadat: dim promenna as string
+a to as sting mi nebere, nevim proc, ale asi ze tam mame ten specialni
+program.
+
+Ps: nevis nahodou,jestli kdyz mame v praci zakazano pouzivat makra a ja to
+zadam do systemu tak muzou to na IT nejak zjistit (kdyz to nic spatneho
+neudela)?
+ kjhkgb
+30.07.2009 20:00:55
+ramen je sice pohotovy a rad pomoze..ale niesme programatorske forum...aj ked
+vlastne..co vasltne sme?
+[Smajlík]          [Muž]17 [Kategorie]
+ _n_e_v_i_e_m_ _c_i_ _p_o_r_a_d_i_m
+30.07.2009 19:40:34
+Oprava:
+chýba vyREMovanie v jednom riadku, tak by to robilo šarapatu, keby si
+prekopírovala jedna k jednej. Správne má byť:
+
+' ak bodka = 0, tak desatinne miesta ani nie sú:
+
+O:-)
+[Smajlík] [Muž]96 [Kategorie]
+ _r_a_m_e_n
+30.07.2009 19:36:01
+Tak na prvý problém by som riekol, že treba dimenzovať ako reťazec s dĺžkou 4
+znaky. Avšak toto neovplyvní koľko môžeš vložiť číslic do inputboxu, iba
+automaticky odsekne všetko, čo je nad 4 znaky. :((
+Vyzeralo by to nejako takto:
+
+dim PROMENNA as STRING * 4
+PROMENNA = inputBox "zadej promennou"
+
+
+následne však ak chceš s PROMENNA robiť matematické úkony, tak treba
+prekonvertovať na číslo:
+
+
+dim PROMENNA1
+PROMENNA1 = CSng(PROMENNA)
+
+
+Čo sa týka druhého problému, tak tam je preto orezaná posledná nula, lebo sa
+narába s premennou ako číslom a vtedy sa automaticky orezávajú nepotrebné
+nuly. Tu by sa to dalo riešiť prekonvertovaním na reťazec a potom testovaním,
+koľko desatinných miest to má:
+
+--------------------
+
+dim PROMENNA1, bodka, dlzka, pocetmiest
+PROMENNA1 = PROMENNA - 0,1 (použil som Tvoj príklad)
+' teraz prekonvertujeme na string
+PROMENNA2 = CStr(PROMENNA1)
+' teraz zistime, kde sa nachadza bodka
+bodka = InStr(PROMENNA2, ".")
+' zistime pocet znakov v PROMENNA2
+dlzka = Len(PROMENNA2)
+' teraz musime zistit, kolko desatinnych miest mame v cisle.
+' moze byt od 0 (bodka ani nie je) až po 2 miesta.
+pocetmiest = dlzka - bodka
+ak bodka = 0, tak desatinne miesta ani nie sú:
+if (bodka = 0) then
+' toto by malo urobit z napr. "1" retazec "1.00"
+PROMENNA2 = PROMENNA2 + ".00"
+else
+' tu sa riesi pripad, ked bodku mame a pocet desatinnych miest je 1
+' ak je pocet desatinnych miest 2, nemusime robit nic
+if (pocetmiest = 1) then PROMENNA2 = PROMENNA2 + "0"
+end if
+
+------------------------
+
+Toto by Ti malo zabezpečiť, že v PROMENNA2 bude vždy číslo s dvoma desatinnými
+miestami. :)
+[Smajlík] [Muž]96 [Kategorie]
+ _r_a_m_e_n
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+

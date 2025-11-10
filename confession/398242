@@ -1,0 +1,212 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+   Otázky - Vzkazy č.398242, vloženo _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+   21.07.2009 14:18:55               _s_t_r_á_n_k_a_]
+   VBS-Script programování
+   Ahoj,
+   prosim o radu. Potrebuju to v tomto jazyce napsat tak, aby se stalo
+   toto:
+   Objevi se okno, do ktereho mohu napsat libovolny udaj (- to uz umim
+   pomoci prikazu InputBox). Jenze dal chci, aby se mi ten udaj, co do okna
+   napisu napsal na to konkretni misto ve Wordu nebo v Excelu - presne tak,
+   jak jsem ho napsala do toho okna. Jak to udelam?
+   Diky
+    jgviaheogh [Žena]22  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+21.07.2009 18:52:09
+Supeeeeer! Gratulujeeem, šikovná holka! :D
+:)
+[Smajlík] [Muž]96 [Kategorie]
+ _r_a_m_e_n
+21.07.2009 18:48:13
+JOOOOO
+Zrovna jsem ti sem chtela napsat, ze uz jsem na to prisla:-)
+je to presne jak rikas
+dekuju moc :-*
+ jfjaoeaafo
+21.07.2009 18:45:00
+P.S.: Samozrejme opäť pozor na medzeru v "autEC LPS".. GRRRRRRR... Ja sa raz z
+tejto spovednice zmyším! %-/
+ _r_a_m_e_n [Muž]96 [Kategorie]
+21.07.2009 18:43:18
+Oh, tak potom fajn, keď sendkeys fungujú! :)
+
+Skús:
+
+
+dim Promenna
+Promenna = InputBox ("Zadej DEAL NUMBER")
+autECLSession.autEC LPS.SendKeys "" & Promenna
+[Smajlík] [Muž]96 [Kategorie]
+ _r_a_m_e_n
+21.07.2009 18:36:21
+Ach jo, tohle mi nefunguje:(
+Kdyz tam napisu:
+autECLSession.autECLPS.SendKeys "00"
+objevi se v programu dve nuly
+Ale jak do toho zabudovat ten inputBox...
+ gjagoeo
+21.07.2009 18:26:45
+Prepáč, niekedy môže byť problém so zápisom, keď je premenná prázdna, tak
+radšej použi takéto:
+
+objSelection.TypeText "" & Promenna
+
+
+nech tam je prázdny reťazec - ""
+
+s dátumom to isté:
+
+objSelection.TypeText "" & Date()
+ _r_a_m_e_n [Muž]96 [Kategorie]
+21.07.2009 18:22:09
+S Wordom potrebuješ takto:
+
+-----------
+
+Set objWord = CreateObject( "Word.Application" )
+
+objWord.Visible = True
+Set objDoc = objWord.Documents.Add()
+Set objSelection = objWord.Selection
+
+objSelection.TypeText Promenna
+objSelection.TypeParagraph()
+
+----------
+
+takže najprv sme zadefinovali objekty, vytvorili sme nový dokument pomocou
+.Add()
+a na aktuálnu pozíciu kurzora vypíšeme hodnotu Promenna pomocou "TypeText".
+Následne "TypeParagraph()" by malo urobiť koniec paragrafu, t.j. (asi) enter.
+:))
+Neviem to teraz odskúšať, takže iba tipujem. O:-)
+[Smajlík] [Muž]96 [Kategorie]
+ _r_a_m_e_n
+21.07.2009 18:19:32
+Funguje mi treba i Msg.Box(Date).
+To mi hodi okynko s aktualnim datumem, ale taky bych to potrebovala aby se to
+napsalo do toho programu a ne do okynka:(
+ vjajfeda
+21.07.2009 18:16:19
+Jo ten msg.box funguje.
+Objevilo se mi tam okno a v nem bylo napsano to, co jsem k tomu napsala a pod
+tim OK. Ale prave potrebuju, aby se mi to zapsalo do toho programu dovnitr.
+Jak je to s Wordem a Excelem? Treba to taky pujde.
+ jfaijgalg
+21.07.2009 18:12:44
+Uuuha, no tak to je komplikovanejšie, pretože by sme museli vedieť, aký príkaz
+akceptuje ten program pre zápis do seba. Keby si to chcela nacápať do MS
+Wordu, tak to je jednoduché. Cez tento VBS script (ak ho spúšťaš ako
+meno_suboru.vbs) by sa dalo podobne ako som tam nižšie napísal o Exceli,
+zapisovať aj do Wordu. Lenže ak to chceš písať do nejakého iného programu, tak
+to by sme museli presne vedieť, aké príkazy na výpis v ňom fungujú. :((( Hmmm,
+tak to už jedine, keby si sa spýtala správcu programu. :(
+A tá verzia s MsgBoxom fungovala?
+ _r_a_m_e_n [Muž]96 [Kategorie]
+21.07.2009 18:02:06
+Aha, tohle chapu, diky. Prave to je slozity ceho chci dosahnout - jsem v praci
+a kazdy den tu zadavame podobna data do pc. A nas program, ve kterem pracujeme
+podporuje tento jazyk. Tak jsem si vytvorila takove zjednoduseni.
+Napr. pokazde pisu: 123456 + a neco, co se meni
+123456 je porad stejne
+ale to + muze byt libovolne
+takze spustim makro, ktere jsem si vytvorila a to mi napise 123456
+a dal potrebuju udelat to, aby mi tam vyskocilo okno, ja do nej napsala to, co
+se meni, a ono to napsalo do toho naseho programu.
+Zjistila jsem ze ta funkce document.write mi tady nefunguje, to mas pravdu.
+ gvjagjal
+21.07.2009 17:54:55
+Ooo, ale tam nemusíš dávať tie ()
+pretože ak tam dáš (), tak si VBS myslí, že je to funkcia a chce ju zavolať,
+lenže takú funkciu nemáš a dokonca by to malo vypadnúť s chybou.
+Takže správny zápis:
+
+dim Promenna
+Promenna = InputBox ("Zadej DEAL NUMBER") .............vyskoci okno na zadani
+neceho
+MsgBox("Zadala si: " & Promenna)
+
+
+ale document.write je príkaz pre výpis do html dokumentu vrámci vbscriptu vo
+web prehliadači... Naozaj chceš dosiahnuť toto? Viac by mi pomohlo, keby si
+opísala pozadie, čo vlastne chceš dosiahnuť. :)
+[Smajlík] [Muž]96 [Kategorie]
+ _r_a_m_e_n
+21.07.2009 17:37:47
+Diky,
+ale prave ja sem myslela spis jak udelat, aby se mi to, co napisu do InputBoxu
+zobrazilo v textu (asi funkci document.write). Spis jak funguje tahle funkce,
+nejak mi to porad nejde. Chci si deklarovat promenou, takze
+
+dim Promenna
+Promenna = InputBox ("Zadej DEAL NUMBER") .............vyskoci okno na zadani
+neceho
+document.write ( Promenna() ) .....................takhle to nefunguje, ale
+chci aby to do
+toho dokumentu napsalo to, co jsem
+vyplnila do toho Zadej DEAL NUMBER
+
+Co tam mam zmenit?
+
+DIKY
+ nvajgvalj
+21.07.2009 16:25:42
+Samozrejme prosím všetky medzery pridané spovednicou vymaž... :-/
+(Applicati on, objExc el , C ells)
+[Smajlík] [Muž]96 [Kategorie]
+ _r_a_m_e_n
+21.07.2009 16:23:39
+Musíš najprv vo vbs skripte vytvoriť objekt Excelu:
+
+Set objExcel = CreateObject("Excel.Applicati on")
+
+a následne môžeš zapísať do nového objektu nejaké dáta. Ja som tu do A1
+zapísal text "Hocico"
+
+objExc el.Visible = True
+objExcel.Workbooks.Add
+objExcel.C ells(1, 1).Value = "Hocico"
+[Smajlík] [Muž]96 [Kategorie]
+ _r_a_m_e_n
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+
