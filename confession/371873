@@ -1,0 +1,271 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+Diskuze č.371873, vloženo 14.03.2009 02: _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+03:48                                    _s_t_r_á_n_k_a_]
+Pravda 2 : 0,9periodických = 1, doplnění
+Někteří nesouhlasili s tím, že 0,9periodyckých = 1. Někteří mluvili o tom, že
+se to pouze blíží nule apod.
+Bohužel, musím vás zklamat, opravdu se to přímo rovná jedné, proto hned uvedu
+několik důkazů :
+
+Tento člověk mi to asi před měsícem potvrdil : doc.Mgr. Petr Habala, Ph.D.
+(učitel na ČVUT)
+
+------------------------------- -------------------
+
+Děkuji Verthandi, že mi ukázal nový způsob důkazu a to tím, že řekl :
+"Důkazem toho, že 0,9perioda=1 neplatí, nechť je věta o hustotě racionálních
+čísel."
+Tato věta říká, že mezi kterýmikoli dvěma reálnými čísly existuje nekonečně
+mnoho čísel. Řekněte mi aspoň jedno číslo z toho nekonečna mezi 0,9periodických
+a jednou.
+
+----------------------------- ----------------------------
+
+Prachoby čejná soustava rovnic(děkuji arj za připomenutí) :
+
+Děláš z toho zbytečně komplikovanou záležitost (navíc vzoreček pro součet
+geometrické posloupnosti nepadá z nebe, ale má taky nějaké předpoklady a
+odvození).
+Umím to podstatně jednodušeji pomocí dvou rovnic:
+je-li x= 0,9999 periodických
+pak 10x = 9,9999 periodických
+Odečtu první rovnici od druhé a dostanu
+9 x = 9,
+takže x = 1.
+
+---------------------------------- ----------
+
+Součtem nekonečné řady :
+Máš geometrickou posloupnost, jejíž kvocient |q|<1.
+Tedy takovou posloupnost, kde každé další číslo je menší než to předešlé. Pokud
+by |q| >= 1, potom by součet takové řady byl nekonečno.
+Poté můžeme použít vzoreček pro součet této nekonečné řady a tj. s = a1/(1-q).
+
+Například pro 0,3periodických :
+a1 = 0,3
+q = 1/10
+libovolný prvek geometrické poslounosti můžeš zjistit takto an = a1*q^n
+
+Dosadíš do vzorečku a dostaneš 0,3/(1-1/10), což po úpravě je 1/3. Tedy
+ověřeno, že aspoň pro toto číslo to platí :).
+
+No a teď si vezmeme 0,9periodických : 0,9/(1-1/10), po úpravě zjistíš, že je to
+rovno jedné.
+ _l_i_b_i_k E-MAIL:_[_g_r_a_f_i_k_a_/_m_r_e_f_h_i_._g_i_f_]   [Muž]20 [Kategorie]  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+14.03.2009 21:16:03
+Matfyzak: to nemá smysl to řešit, tenhle problém (a plno jiných) se jednou za
+čas objeví na nějakám fóru a tam jsou lidi schopni vymýšlet všechno možné.
+Kdyby dětem na základní škole vtloukli pořádně do hlavy základy matematiky,
+tak by se takové diskuse nemuseli vést. Bohužel se bojím, že i některý učitel
+základní školy by tvrdil opak. (Moje učitelka na prvním stupni základní školy
+mi tvrdila, že trojůhelník 1 x 2 x 3 jde sestrojit - trojúhelníková nerovnost
+jí nic neříkala)
+ pex
+14.03.2009 20:06:28
+:)
+[Smajlík]    [Muž]31 [Kategorie]
+ _B_e_z_v_ý_z_n_a_m_n_ý
+14.03.2009 17:13:32
+TakBacha: Doporučuji absolvovat nějaký základní kurs analýzy na vysoké škole -
+třeba na ČVUT, matfyzu, prostě kdekoliv, kde se to učí.
+ Matfyzak
+14.03.2009 17:00:08
+Jo uzemnil, kdyby to nebylo s chybou, bylo by to ještě lepší.
+Matfyzak : Na můj vkus jsi moc agresivní - z vykání přešel do tykání a na
+konci háže lidi ze Zp. do jednoho pytle. To abych se fakt bál ještě něco
+napsat. Pěkný lidi to tam na Matfyzu mají, jen co je pravda :-) Promiň ale 0.9
+periodických mi přesto všechno pořád nepřipadá jako 1, tak mě prosím nech v té
+mé nevědomosti, já až dodělám střední, tak mi to třeba docvakne.
+ TakBacha
+14.03.2009 16:38:22
+TakBacha: Ježiši to jsou takové blbosti, že se to snad ani nedá číst
+(souhlasím s pex). Pokud nejsi matematik, tak prosím nekafrej do něčeho, čemu
+nerozumíš. 0.6 periodických jsou 2/3 a to je přesné číslo. Ty nesouhlasíš s
+něčím, co je objektivní pravda - dá se to dokázat, že je to správné. Stejně,
+jako se dá dokázat nad přirozenými čísly, že 1+2=3. Akorát tyhle důkazy jsou
+složitější a většina nematematicky orientovaných lidí je nechápe. Nemůžou
+pochopit, že když mají číslo 0.9 periodických, tak to se už nutně rovná jedné,
+neboť pořád si představují konečný rozvoj, což je ale špatně, protože konečný
+rozvoj je menší než těch 0.9 periodických. K žádné milionté devítce jedničku
+nepřičítáme, protože pak by to číslo bylo větší, než jedna.
+
+worghos: 0.3 periodických se samozřejmě rovná 1/3, je to naprosto přesné a
+chyba je nulová.
+
+libik: Problém je v tom, že jsou tu středoškoláci, kteří absolutně neovládají
+ani takové základy, jako je součet geometrické řady (nekonečné, ale obávám se,
+že ani nevědí, co je to konečná geometrická řada). Stejně jako nemůžeš
+vysvětlit malému dítěti, co je to kvadratická rovnice, nemůžeš vysvětlit lidem
+na zpovědnici, že 0.9 periodických je jedna. Prostě to nepochopí.
+ Matfyzak
+14.03.2009 16:14:15
+Kepep Fezoj - pěkné, až na to, že 0,3333 se nerovná 1/3.
+To, že se něco něčemu přibližně rovná, neznamená že se to rovná.
+[Smajlík]
+ worghos
+14.03.2009 15:58:48
+Kepep Fezoj : Jj, to jsem tam chtěl taky napsat, ale zapomněl jsem na to :)
+ _l_i_b_i_k [Muž]34 [Kategorie]
+14.03.2009 15:56:55
+A co takhle
+
+1/3 = 0.33333 periodických
+0.3333*3 = 0.9999
+1/3*3 = 1
+z toho vyplívá, že 0.9999 = 1
+ _K_e_p_e_p_ _F_e_z_o_j [Muž]22 [Kategorie]
+14.03.2009 15:42:28
+Konečně to pex uzemnil. Doufám, že už nebude 3. vydání.
+[Smajlík]
+ worghos
+14.03.2009 15:38:51
+TakBacha: buď používáš všobecně uznávaná a definovaná reálná číslo a pak se
+musíš smířit s tím jak jsou definované nebo si používej čísla jaká chceš
+ pex
+14.03.2009 15:36:33
+Tady se plodí takové nehorázné sračky, že to nemůžu ani číst.
+
+TakBacha: Kružnice s nekonečným poloměrem je teoreticky přímka. Stejně jako se
+rovnoběžky protínají v nekonečku atd...
+
+k 0,6~, pleteš mezi sebou periodická a neperiodická čísla, 0,67 nebo 0,667
+nebo 0,6667 je větší než 0,6~, pokud by jsi chtěl náhodou vytvořit něco
+takového 0,6~7, pak tě zklamu, ale toto je opět neplatný zápis, takové číslo
+neexistuje, periodická čísla jsou taková, kde se sled číslic nebo číslice
+opakují až do nekonečna
+ pex
+14.03.2009 14:57:13
+Nevím sice, co si mám představit pod pojmem expert, ale k věci. Bohužel s váma
+nesouhlasím, samozřejmě chodíte asi na Matfyz a tam Vás učí jisté věci, nic
+proti tomu, ale někdy je možná lepší mít tak trochu svůj vlastní pohled na
+věc. Jde o to, že na vyjádření některých čísel se hodí lépe zlomky, které dané
+číslo vyjadřují (vystihují) lépe no a to nemluvím o počítání s periodickými
+čísly. Když tedy 0.99 per se rovná 1. Tak tedy čemu se rovná např. 0.66per?
+Rovná se to 0.66666667? nebo 0.6667? nebo dokonce 0.67? A nejsou to tak trochu
+jiná čísla? Kdy nastane ten moment kdy z 6 uděláte 7? Na jaké pozici? Tak jako
+někde uděláte 0 z 9, a proč vlastně? Čím si to ta miliontá devítka zasloužila
+že k ní přičteme jedničku? Jo? Všechno co se snažim naznačit je, že prostě je
+tady problém s nekonečně dlouhým číslem o kterém se někdo nějak dohodl, že je
+ukončitelné a že je vlastně něco jiného. Nekonečně dlouhý vesmír = bagr. A JE
+TO. Ale tak samozřejmě, když se budeme šprtat formule,věty, tautologie a
+neuděláme si o věcech vlastní názor, tak Ti to klidně můžu odsouhlasit nebo to
+říct učiteli při zkoušení a dostat velkou jedničku. Doufám, že se mi tak nějak
+podařilo naznačit o co mi jde. Když tak to neberte jako zpochybňování vašich
+pravd, jen jako nějaký (třeba divný) názor.
+ TakBacha
+14.03.2009 14:41:38
+A jinak pex v prvním rozhřešení zde má pravdu. Formálně vzato číslo 9,9perioda
+neexistuje.
+ _V_e_r_t_h_a_n_d_i [Muž]36 [Kategorie]
+14.03.2009 14:38:25
+Ne, to nemáš pravdu. Obracíš si to, jak se ti to hodí, ale problém je v tom,
+že o tom ta věta až tak úplně nemluví. Její znění i s jejím důkazem máš v
+profilu. Nehodlám to sem znovu přepisovat.
+[Smajlík]  [Muž]36 [Kategorie]
+ _V_e_r_t_h_a_n_d_i
+14.03.2009 11:14:03
+Colorlight: Není pravda, to by platilo, jen kdyby počet těch devítek byl
+konečný.
+
+TakBacha: Vy jste velký matematický "expert", že? Samozřejmě že se tak s tímto
+pracovat dá, pokud samozřejmě zachováváme periodicitu.
+
+0.9999 * 100 = 99.99999999 s tím, že počet těch devítek je pořád nekonečný.
+
+Vskutku je to tak, že 0.9 periodických je 1.
+ matfyzak
+14.03.2009 11:00:37
+Však já to tak pochopil. Ještě jednou si to zkus přečíst a zamysli se nad tím
+arj, tak se s periodama přece nedá pracovat - že by si uříznul část, popřípadě
+pak doplnil, jak se hodí, hlavně aby to vyšlo :-)
+ TakBacha
+14.03.2009 10:55:27
+Tak bacha - 0,99999periodických... ne 0,99 on myslel že to všichni pochopí já
+bych si to taky myslel.... ale tys to očividně nepochopil
+ _L_o_f_a_s_8_7 [Muž]19 [Kategorie]
+14.03.2009 10:42:50
+si to rozlož podle matematické posloupnosti a součet nekonečné posloupnosti
+tedy s=1 ;)... spočítáš qvocient... q=0,1... s= a1/(1-q)... tedy s=0,9/(1-
+0,1)... s=1
+ _L_o_f_a_s_8_7 [Muž]19 [Kategorie]
+14.03.2009 10:12:13
+Zmatek. Co to je za zadání? Jsem si ještě teď myslel že tam dělíš nějakou
+dvojku! Když už, tak napiš něco jako Pravda 2) a ne "2:" Důkaz arj mi připadá
+jako do očí bijící nesmysl :
+1x = 0.99 => 10x = 9.9 nikoli 9.99, tudiž jiný výsledek. Kromě toho si myslím,
+že se takhle s periodickými čísly vůbec počíta nedá. Říkat že 0.99
+periodických = 1 mi připadá jako tvrdit že zvětšováním kružnice do nekonečna
+získáme přímku :-)
+ TakBacha
+14.03.2009 09:43:57
+Otázkou zůstává. zda číslo 0,9per. po vydělení nějakých dvou neperiodických
+čísel existuje...
+ _C_o_l_o_r_l_i_g_h_t [Žena]35 [Kategorie]
+14.03.2009 09:40:51
+já si myslím, že číslo 0,9per. se nerovná jedné, jen se jedničce nekonečně
+přibližuje. Ale jedničky nedosáhne nikdy. Důkaz nemám.
+ _C_o_l_o_r_l_i_g_h_t [Žena]35 [Kategorie]
+14.03.2009 09:38:16
+a o co se jako snazis? :D:D:D:D:D:D ...
+
+boze muj!!!! ...
+[Smajlík]
+ Debilus neandrtalus
+14.03.2009 09:38:00
+Je mi to fuk.
+[Smajlík] [Muž]10 [Kategorie]
+ _a_c_h_j_o_1_2_3
+14.03.2009 08:10:28
+Neber moje jméno nadarmo!
+[Smajlík]
+ doc Habala
+14.03.2009 06:20:11
+Pokud výjdu z těchto dvou předpokladů:
+1. Čísla se rovnají, pokud se rovná jejich dekadický zápis.
+2. Mezi kterýmikoli dvěma reálnými čísly existuje nekonečně mnoho čísel.
+Pak je tato diskuze bezpředmětná, protože číslo 9.9~ neexistuje, je to
+neplatný zápis. Tím pádem je celá tato diskuse bezpředmětná.
+ pex
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+

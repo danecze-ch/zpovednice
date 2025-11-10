@@ -1,0 +1,282 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+Diskuze č.375890, vloženo 02.04.2009 13: _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+28:43                                    _s_t_r_á_n_k_a_]
+Je kód zpovědnice lamácký?
+http://validator.w3.org/check?uri=http:/ /www.zpovednice.cz&charset=(detect+a
+utomatically)&doctype=Inline&gro up=0
+
+Errors found while checking this document as HTML 4.01 Transitional!
+Result: 284 Errors, 41 warning(s)
+Address: http://www.zpovedni ce.cz/
+ _l_i_b_i_k E-MAIL:_[_g_r_a_f_i_k_a_/_m_r_e_f_h_i_._g_i_f_]   [Muž]20 [Kategorie]  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+03.04.2009 10:43:44
+jax má pravdu takhle se to dělá i v praxi. třeba flagy v registrech (max. 8
+hodnot) s maskováním 2^n :))
+[Smajlík]
+ Bjarne Stroustrup
+03.04.2009 10:32:25
+sosarian, Zenový mistr Pi-Tcha: btw, nejmenší adresovatelná položka v paměti
+je 1 byte, na bity už je lepší použít alokaci 1 byte s nějakým maskováním
+ _J_a_x_9_9 [Muž]28 [Kategorie]
+03.04.2009 10:20:49
+sosarian, rever: to, o čem píšete, jsou už svým způsobem dost specifické
+optimalizace, se kterými se musí dost opatrně. Obecně platí, že char a bool
+mají po 1 bytu (zkuste si sizeof na tu strukturu) jako atomická hodnota jazyka
+(i registry v ASM bývají 8bitové). Ono v momentě, kdy s těmi strukturami
+budete v paměti nějakým způsobem pracovat (např. memset, memcpy apod...celé
+struktury nebo její části) tak při těch paměťových optimalizacích to může
+nadělat víc škody než užitku - viz. 2 booly v 1 bytu.
+
+Jinak soulasím s tím, že pro pohlaví opravdu stačí 1 byte co by ternární
+hodnota (muž, žena, -) :o))
+ _J_a_x_9_9 [Muž]28 [Kategorie]
+02.04.2009 22:35:56
+2Pry: to s tim pohlavim byl samozrejme jen priklad, taky neni potreba věk
+ukladat jako integer kdyz staci bajt
+a takovych veci je tu spoustu, a to vetsina nejde takhle zvenku videt
+
+stranka s takto hloupou funkcionalitou muze bezet na velmi starem pc s velmi
+pomalym pripojenim a bude fungovat stejne rychle a za ohodne mensi naklady nez
+ted
+
+"Úspěch téhle stránky VŮBEC nesouvisí s tím, jak je napsaná"
+no a co? to je snad samozrejme, kdyz sem psal ze je tahle stranka napsana
+spatne tak skutecne nechapu jak by s tim mohl souviset jeji uspech
+
+
+"Windowsy(tam není dobře VŮBEC nic), "
+wtf?
+
+
+s nejvetsi pravdepodobnosti umim programovat daleko lip nez ty a znalosti vš
+kde me do hlavi cpou veci ktery nemaji s programovanim nic spolecnyho, a jsou
+od zakladu chybne (zvlast ta vase hlavni zadasa "prvni pravidlo optimalizace
+je neoptimalizovat")
+me nikdy nijak nepomohli
+ _S_o_s_a_r_i_a_n [Muž] [Kategorie]
+02.04.2009 20:16:52
+hmm.. a co z toho???
+[Smajlík] [Muž]29 [Kategorie]
+ _Q_u_a_c
+02.04.2009 19:36:17
+Sosarian: Tvůj problém je, že si myslíš, že ušetření tří bajtů na uživatele
+tuhle stránku zlepší... NE, nezlepší. Úspěch téhle stránky VŮBEC nesouvisí s
+tím, jak je napsaná! A tak to v životě chodí. Důležitá je podstata myšlenky.
+Když se ti ten nápad zalíbí, raději přetrpíš pár útrap, než bys měl co do
+činění s něčím jiným, byť by to vevnitř bylo geniální. Týká se to tisíců věcí
+.. rozvržení měsíců v kalendáři, řazení pedálů v autech, písmen na klávesnici,
+Windowsy(tam není dobře VŮBEC nic), politika v Česku, atd. Prostě když něco
+miluješ, není co řešit!
+..
+Takže to neřeš a hlavně nepřepínej!
+..
+Tohle je samože na dlouhou odbornou diskuzi, ale už na vysoké škole
+(informatika) uslyšíš (MĚL bys uslyšet), že:
+1, program se odlaďuje, až je funkčně hotový
+2, funkčně hotový není program nikdy
+... z toho jasně vyplývá, kdy se má člověk starat o nějaké poje*ané tři bajty,
+které při dnešních cenách (na levné flashce) stojí tři bajty cca
+0.00000001875Kč. NIKDY!
+ _P_r_y [Muž]33 [Kategorie]
+02.04.2009 18:24:37
+libik: už si moc nevzpomínám na syntax, ale těžko to je přiřazení hodnoty,
+spíš počet bitů. Jeden byte ti zabere char, další dva bity zaberou celej další
+byte pro sebe, takže celkem 2 byty.
+ rever
+02.04.2009 18:19:04
+Jaká cílovka, takový kód.
+[Smajlík]
+ rever
+02.04.2009 17:09:39
+Zenový mistr Pi-Tcha : To je nějaká blbost, ne? Proč by přiřazení hodnoty
+proměnné mělo měnit její velikost?
+ _l_i_b_i_k [Muž]34 [Kategorie]
+02.04.2009 17:03:00
+Sosarian:
+
+Tohle zabere 3 byty:
+struct
+{
+char a;
+bool b;
+bool c;
+}
+
+Tohle zabere 2 byty:
+struct
+{
+char a;
+bool b: 1;
+bool c: 1;
+}
+[Smajlík]             [Muž]1 [Kategorie]
+ _Z_e_n_o_v_ý_ _m_i_s_t_r_ _P_i_-_T_c_h_a
+02.04.2009 14:56:38
+Sosarian : Tak původně ano, ale na druhou stranu můžeš omezit jeho velikost
+tímto : TINYINT(1) což se rovná hodnotě BIT nebo BOOL... Takže abych se
+přiznal, nejsem si jistý, jestli to s tím umí pracovat nějak nebytově nebo
+neumí.
+ _l_i_b_i_k [Muž]34 [Kategorie]
+02.04.2009 14:49:57
+No ty woe, tak tohle kdybych věděl, tak na zpovědnici nikdy nevlezu!
+[Smajlík] [Muž]27 [Kategorie]
+ _x_Z_d_e_n_i_s_h
+02.04.2009 14:49:13
+2libik: v mysql to tak asi fakt bude, on ten tinyint je delanej na ukladani
+bytu
+ _S_o_s_a_r_i_a_n [Muž] [Kategorie]
+02.04.2009 14:46:34
+Jentak pro zajímavost...
+
+seznam.cz - 40 errors v Transitional
+google.com - 43 error v Transitional
+jakpsatweb.cz - 1 error ve Strict
+_w_w_w_._m_i_c_r_o_s_o_f_t_._c_o_m_ - 188 errors v Transitional
+_h_t_t_p_s_:_/_/_w_w_w_._c_i_a_._g_o_v_ - 22 errors v Transitional
+[Smajlík]  [Muž]36 [Kategorie]
+ _V_e_r_t_h_a_n_d_i
+02.04.2009 14:46:18
+Sosarian : Tak nic, už si nejsem jistý ani tím :). Tohle musím prostudovat.
+ _l_i_b_i_k [Muž]34 [Kategorie]
+02.04.2009 14:42:29
+Sosarian : Tak tady si 100% jistý nejsem... Nicméně u MySQL, tam jsem si jistý
+nastopro. A tady je MySQL, takže to tak musí být :).
+
+Jinak s tím, že stačí 1byte, tak to nevyvracím, to je samozřejmě pravda.
+ _l_i_b_i_k [Muž]34 [Kategorie]
+02.04.2009 14:35:12
+Najdi web, kterej je validní....
+validní sou jen weby, který se týkaj programování nebo psaní webu. Návštěvníky
+ostatních webů vůbec nezajímá, jestli projde validátorem. Proboha, zpovědnice
+neni validní, asi na ní přestanu chodit !:)
+ _R_V_L_-_X [Muž]29 [Kategorie]
+02.04.2009 14:27:44
+V době, kdy byla zpovědnice psaná, se na tohle vůbec nekoukalo...
+[Smajlík]  [Muž]36 [Kategorie]
+ _V_e_r_t_h_a_n_d_i
+02.04.2009 14:23:45
+OdpočinekNaOdpočinku: Pardon :-DD
+ _R_y_c_h_l_o_n_o_ž_k_a [Muž]25 [Kategorie]
+02.04.2009 14:23:10
+To je velký bordel, chce to ještě trvalé odkazy do SEO.
+
+Např. _h_t_t_p_:_/_/_w_w_w_._z_p_o_v_e_d_n_i_c_e_._c_z_/_3_7_5_8_9_0_-_j_e_-_k_o_d_-_z_ povednice-lamacky
+ _R_y_c_h_l_o_n_o_ž_k_a [Muž]25 [Kategorie]
+02.04.2009 14:22:22
+Rychlonožka: ty nejsi malý kokot.
+ OdpočinekNaOdpočinku
+02.04.2009 14:18:56
+Příspěvek porušoval zákony ČR nebo pravidla Zpovědnice - byl odstraněn.
+[Smajlík]    [Muž]25 [Kategorie]
+ _R_y_c_h_l_o_n_o_ž_k_a
+02.04.2009 14:15:26
+2ElisaBeatch Sallyova: udelat stranku tohodle typu a kvalitneji neni výzva ale
+zaklad uceni se delani stranek :)
+ _S_o_s_a_r_i_a_n [Muž] [Kategorie]
+02.04.2009 14:12:54
+Krutý zásach La mňe spamující,
+kód učinil svou krásou.
+Nebuď tedy tupou masou,
+věčně stěžující si rasou.
+Vzít to jako výzvu skus,
+budeš míti v Raji plus.
+[Smajlík]
+ ElisaBeatch Sallyova
+02.04.2009 14:09:38
+2libik: nemas pravdu
+struct
+{
+char a;
+bool b;
+bool c;
+}
+
+tohle zabere 2 bajty (podle tebe by to melo zabrat 3)
+
+a navic 1 bajt je porad min nez 4...
+ _S_o_s_a_r_i_a_n [Muž] [Kategorie]
+02.04.2009 14:08:50
+Věci které mi tady vadí bych podle mých priorit rozdělil do několika
+kategorií:
+- absence dnes již běžných vlastností webových aplikací
+- ehm "sporná" funkčnost některých věcí
+- validita html kódu
+
+Nicméně, diskuze na toto téma je zbytečná - nemluvíme o opensource projektu a
+nemám v plánu upírat provozovateli právo prasit.
+ OdpočinekNaOdpočinku
+02.04.2009 14:08:10
+je libik vemeno ? :)
+ Wossoba
+02.04.2009 14:02:53
+Sosarian : To tě zklamu, boolean zabírá jeden byte :). Ve všech jazycích, co
+znám(java, pascal, c, php). V MySQL TinyInt taktéž zabírá jeden byte.
+
+Je to neúsporné, ale jinak to dost dobře nejde...
+
+Navíc by jsi s tím potom musel pracovat, že by jsi nějakou informaci ukládal
+do 7mi bitů a věk do 8.bitu. S tím se asi fakt nikdo dělat nebude.
+ _l_i_b_i_k [Muž]34 [Kategorie]
+02.04.2009 13:59:52
+2libik: nemyslim že je pohlávi jedina vec ktera je u profilu uložená, a
+funguje to tak ze se ten bit snazi zaplnit misto nejake promene do mininmalni
+velikosti adresovatelne pameti
+
+a v mysql typ bit je (tinyint) v normalnich jazycich boolean
+ _S_o_s_a_r_i_a_n [Muž] [Kategorie]
+02.04.2009 13:54:11
+Sosarian : Pokud vím, tak ani databáze, ani vyšší programovací jazyky, ani
+obyčejné soubory neumožňují ukládat jeden bit...
+ _l_i_b_i_k [Muž]34 [Kategorie]
+02.04.2009 13:52:19
+uz jen to ze se pohlavi uklada jako 4 znaky a ne jako bit je dost uchylny...
+ _S_o_s_a_r_i_a_n [Muž] [Kategorie]
+02.04.2009 13:48:34
+Apokalypsa.
+ _A_r_s_i_s [Muž]16 [Kategorie]
+02.04.2009 13:47:49
+Ano. Anebo zakonzervovaný, vyber si.
+ OdpočinekNaOdpočinku
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+
