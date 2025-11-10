@@ -1,0 +1,182 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+Zpověď č.126504, vloženo 16.06.2006 09: _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+24:17                                   _s_t_r_á_n_k_a_]
+Vyvojovy diagram
+Zdravim
+Potrebovala bych udelat vyvojovy diagram a vubec se v tom nevyznam. Pomuze mi
+nekdo prosim? :)
+
+program znaky; {jmeno programu}
+uses crt; {aby sel zadat prikaz readkey a delay}
+type vek=array [1..100] of string; {definuje vektor na vety}
+var x:vek; {vektor na vety}
+n:integer; {promena na cas}
+y:char; {promena na nacteni znaku}
+nn:integer; {promena na pocet znaku}
+i:integer; {index vet(index vektoru vet}
+a:integer; {pro vypis vet(do cyklu for)}
+
+procedure nacti; {vytvori proceduru s nazvem nacti}
+begin
+while keypressed do begin {dokud jsou v pameti stisky tlacitek bude se
+provadet cyklus}
+y:=readkey; {nacte tlacitko (znak) do y}
+x[i]:=x[i]+y; {z y posle znak do vektoru vet}
+if y='.' then i:=i+1; {kdyz je znak tecka ukonci vetu a zacne novou}
+if y='?' then i:=i+1; {kdyz je znak otaznik ukonci vetu a zacne novou}
+if y='!' then i:=i+1; {kdyz je znak vykricnik ukonci vetu a zacne novou}
+nn:=nn+1; {pripocita do statistiky stisk tlacitka}
+end;
+end;
+
+
+begin
+i:=1; {nastavi vektor vet na prvni vetu}
+
+repeat {opakuje se az do 60sekund(do doby nez dosahne promena n 60)}
+clrscr; {smaze obrazovku}
+writeln('Cas: 0.',n,' Pocet napsanych znaku: ',nn,' Pocet vet: ',i); {vypise
+titulek se statistikamy}
+
+for a:=1 to i do {vypisuje vety kazdou na novy radek}
+writeln(x[a]);
+
+delay(100); {pocka desetinu sekundy}
+n:=n+1; {pricte do pocitadla desetinu sekundy}
+nacti; {vyvola proceduru nacti}
+until n=600; {po dosezeni n 600 (1 minuta) se vypne cyklus}
+writeln('KONEC'); {napise konec}
+end.
+
+
+
+
+Dekuji moc.
+Mimochodem jedna se o program ktery pocita kolik udelate uhozu za minutu.
+Jestli mi nekdo pomuze tak vam budu velmi vdecna :)
+ Monička [Žena]18  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+16.06.2006 14:46:38
+hm, mas to okomentovane, tak neni co resit, to je prece uplne v pohode...
+ne, neprekreslim ti to, zas tak se nenudim :-P
+ _l_o_n_e_l_y_ _l_o_n_e_r [Muž]26 [Kategorie]
+16.06.2006 14:35:34
+Jejda, tomuhle teda nerozumím ani za mák :-D
+[Smajlík] [Žena]30 [Kategorie]
+ _1_T_e_r_c_i_e_1
+16.06.2006 14:23:23
+No jasně, to je ten pascal, hele, nechceš si to radši přeložit do Céčka? :-
+D Nene, žertuju, napiš to v assembleru;-) Co ti na tom nejde? Pouštěla jsi to
+přes debugger? Já se v tom nevyznám....
+[Smajlík]
+ kreptil
+16.06.2006 13:29:01
+jezsi vyvojaky sou easy ale srat se mi s tim nechce stacili mi ted o
+zkouskovym vlstni:)
+ hihihaha
+16.06.2006 13:23:00
+nikdy v životě jsem nechtěl dělat vývojový diagram, žel jsem byl do toho často
+nucen profesory, tak se můj postoj k nim zhoršil, o to víc Ti přeji hodně
+trpělivosti!
+[Smajlík] [Muž]25 [Kategorie]
+ _x_l_u_k_e
+16.06.2006 12:10:16
+soudan: OOP? Ty tam vidis nejaky objekt?
+
+Monicka: Sorry, ale vyvojovym diagramum jsem se vzdy uspesne vyhnul, takze
+nepomuzu... Ale jak uz tady nekdo rekl, mas to skvele okomentovane, tak uz jen
+ty zavorky preved na carky a kolecka a kosoctverce...
+ Jirka
+16.06.2006 11:36:50
+ty brdo dyk to mas okomentovany tak ten vyvojak mas sfouklej za pul hodky
+ _V_e_l_d_r_a_n_e [Muž]34 [Kategorie]
+16.06.2006 11:08:09
+á, OOPčko, tak s tím jsem seknul někdy před cca třemi lety...teď se raději
+mazlím s php, css, sql a samozřejmě html :-)
+ soudan
+16.06.2006 10:02:04
+Užij si to!!!!
+[Smajlík]  [Žena] [Kategorie]
+ _r_e_d_ _r_o_s_s_e
+16.06.2006 09:55:41
+téhle cizí řeči opravdu nerozumím
+ _z_m_r_z_l_á_z_m_r_z_l_i_n_k_a [Žena]25 [Kategorie]
+16.06.2006 09:51:15
+to je pascal??
+ _m_o_j_k_y [Žena]20 [Kategorie]
+16.06.2006 09:48:54
+Myslim, ze tady ti fakt asi nikdo neporadi
+[Smajlík]
+ weris
+16.06.2006 09:42:47
+Si děláš srandu, ne??
+ _B_a_u_x_b_a_k_u_a_l_a_n_u_x_i_w_a_j [Muž]24 [Kategorie]
+16.06.2006 09:41:08
+klobouk dolu jestli vis o cem mluvis :)
+[Smajlík] [Žena]28 [Kategorie]
+ _P_h_a_e_d_r_a
+16.06.2006 09:40:20
+Užij si to!!!!
+[Smajlík] [Žena]25 [Kategorie]
+ _e_i_n_t_o_p_f
+16.06.2006 09:37:44
+vyvojove diagramy me nebavi... ale mas ten program dokonale okomentovany, to
+se mi nikdy nechtelo
+[Smajlík] [Žena]22 [Kategorie]
+ _e_g_l_e
+16.06.2006 09:33:36
+Nerozumím tomu, co po nás chceš..jestliže studuješ takovej obor, tak mi to
+zase tak složitý nepřipadá, když se v tom vyznáš ne? Lenost...
+[Smajlík]  [Žena] [Kategorie]
+ _h_e_l_l_s_t_i_c_e
+16.06.2006 09:31:43
+Tak pročs chodila na takovou školu, když na to teď nemáš abys to udělal
+sám?... Zkoumat se mi to rozhodně nechce, vývojový diagram odshora dolů? To by
+mělo být primitivní tak s ensaž...
+ poi
+16.06.2006 09:25:59
+co to?
+[Smajlík] [Žena] [Kategorie]
+ _d_a_r_m_a_r
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+
