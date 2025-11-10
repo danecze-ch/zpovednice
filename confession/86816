@@ -1,0 +1,195 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+ Zpověď č.86816, vloženo 05.12.2005 23: _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+ 06:10                                  _s_t_r_á_n_k_a_]
+ modrá smrt
+ nevím kam to zařadit tak jsem se obrátil na problémy
+ Takže chtělo by to znalce počítačů ....
+ nevím jak si s tím poradit páč nevím co to způsobuje zkoušel jsem toho už
+ docela dost ale na počítači mi stále naskakuje asi 1 denně modrá smrt vyměnil
+ jsem RAM a to jsem myslel že je hlavní problém začalo se to dít vše po výměně
+ desky a procíku už nevím co tomu vadí ..:)celkem mě to štve ale nevím
+ potřeboval bych pomoct tu RAMku jsem si myslel na 98% že zabere po víměně ale
+ ono nic!
+  _z_v_e_l_d_i_k E-MAIL:_[_g_r_a_f_i_k_a_/_m_r_e_f_h_i_._g_i_f_]   [Muž]14 [Kategorie]  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+06.12.2005 15:35:29
+LOL, tolik teoretiku... :-)
+
+chyba muze byt sw (ovladace) nebo hw razu - bez podrobnejsi analyzy souboru,
+ktery se vytvari pri padu, mas minimalni sance na odhaleni problemu... posli
+mi par nejnovejsich *.dmp fajlu z windowsminidump na xd8@seznam.cz a ja ti
+napisu v cem byl problem...
+[Smajlík]
+ Mr XyZ
+06.12.2005 15:33:09
+Lamy:-)
+Je to docela snadný, kup si paměťový nexus, ten to bude chladit a už to nebude
+blbnout. Modrá smrt je vždy u chyby v RAM paměti. Když není paměť poškozená
+tak tam stačí přidělat chladič a je po problému. Takhle sem vyřešil už asi 10
+PC.
+Chladiš stojí asi 300Kč.
+ _S_a_n_y [Muž]30 [Kategorie]
+06.12.2005 10:33:24
+Hardin: No LOL, teď jsem si to přečetl :o)))) To snad nemyslíš vážně, tolik
+typů pamětí se snad v bežných PC nepoužívá, aby si člověk nedal pozor, co tam
+strká....
+[Smajlík]
+ Kovis2
+06.12.2005 10:28:17
+1. Podle čeho soudíš, že byla špatná RAMka? Nebylo by lepší to otestovat než
+hádat?
+2. Díky chybě v RAMce mohly být poškozené soubory, které se z RAMky ukládaly
+na disk - třeba ovladače. Díky tomu je poškozená i instalace operačního
+systému.
+3. Chyba může být kdoví kde, třeba sis dokoupil disk a neutáhne to zdroj...
+
+Takže doporučuji nejprve lokalizovat skutečnou chybu a po odstranění načisto
+nainstalovat systém.
+[Smajlík]
+ Kovis2
+06.12.2005 09:03:56
+Taky jsem měl podobnej problém, a to že jsem měl například frekvenci paměti
+nastavenou příliš vysoko. (400MHz podporovaly jen oficiálně, a prodavač mi je
+odmítl vyměnit.)
+Obecně to bude nějaký hardwaru, ketrý nestíhá, jelikož je v BIOSu nastaven na
+příliš vysoké nároky.
+Začal bych v BIOSu začal na funkci Load BIOS defaults, a pak postupně zapínal
+rozšiřující funkce. PAměť, mód HDD, rychlost AGP...Může to být třeba i
+harddisk nastavanej na ATA100, i když jej nepodoporuje(v BIOSu nastavit
+UltraDMA na disabled, pokud jej Auto nastavuje nesprávně. Typicky problém
+harších desek a hdd menší ne 80GB).
+Napiš mi do profilu svoji konfiguraci hardawaru, třeba to rozlousknu, pokud si
+hned neporadíš.
+[Smajlík] [Muž]24 [Kategorie]
+ _R_i_h_u_n_a
+06.12.2005 08:43:32
+Hardin: teda to si řikáš Ajťák?!
+ _V_í_ř_i_v_ý_ _A_d_v_e_n_t_i_s_t_a [Muž]30 [Kategorie]
+06.12.2005 07:21:13
+Linux4ever
+[Smajlík]
+ Kašpik
+06.12.2005 04:34:16
+Vadí tomu Windows :)
+[Smajlík] [Muž]23 [Kategorie]
+ _U_n_i_c_o_r_n
+05.12.2005 23:51:15
+_h_t_t_p_:_/_/_w_w_w_._i_l_i_s_t_._c_z_/_f_o_r_u_m_/_p_o_c_i_t_a_c_e_-_a_-_i_n_t_ ernet/nove-diskuzni-forum (bez mezer)
+[Smajlík] [Žena]36 [Kategorie]
+ _*_T_u_č_ň_á_k_*
+05.12.2005 23:50:14
+A doprdele blů det to znam to je pekne na picu! To ma clovek chut ten komp
+rovnou popadnout a vyhodit z okna.
+[Smajlík]   [Muž]20 [Kategorie]
+ _j_i_m_m_y_c_r_o_s_s
+05.12.2005 23:28:31
+a co by tomu jako melo pomoct?
+ tva prezdivka
+05.12.2005 23:27:43
+Zkus tu paměť dát do každýho slotu ... Když to nepomůže, je buď špatná paměť a
+chtělo by jí to vyměnit. Taky to nemusí způsobovat ramka, ale nějaký programy
+/ hry na počítači.
+Na desce chyba nebude, věřim MSI, kam se na to hrabe Abitka :))))
+[Smajlík] [Muž]18 [Kategorie]
+ _J_o_3
+05.12.2005 23:23:53
+tva prezdivka no už si někdy spálil počítač?Tohle by tomu pomohlo!
+ _z_v_e_l_d_i_k [Muž]18 [Kategorie]
+05.12.2005 23:23:19
+dela ti to nejaky konflikt hardwaru v kompu, me to zacalo delat pripojenim
+ADSL modemu, takze sem musel sformatovat disk a reinstalovat vokna .. takze
+reinstal Win ti pomuze a melo by to jit, pokud to bude porad blbnout,
+zapremyslej nad tim jaky si dal novy hardware do compu a zkus jej oddelat
+pokud to bude delat porad, poradim ti jedine se obratit na nejakou
+autorizovanou prodejnu s compama :) gl
+[Smajlík] [Muž]18 [Kategorie]
+ _N_3_C_R_0_S
+05.12.2005 23:21:54
+desku mám od MSI jo já myslel právě že je vadná Ramka je to téměř jistý proto
+mě dnes překvapilo to že opak je pravdou a můj 512 byl naprosto v pohodě
+nechám to ještě ověřit ale myslím že v RAMu problém nebude
+ _z_v_e_l_d_i_k [Muž]18 [Kategorie]
+05.12.2005 23:19:48
+pretaktovano, spatne posazenej chladic na prociku, prehriva se grafarna,
+pameti, chipset, motherboard je napicu, zformatovat disk a znova nainstalovat
+OS, odpojit a postupne pripojovat mechaniky, periferie. asi to bude chtit
+metodu pokus - omyl. ale urcite to bude uplne neco jinyho nez tady pisu :)
+ tva prezdivka
+05.12.2005 23:19:40
+Hardin - Tos mě pobavil, ale fakt. :)
+
+Je to jako kdybych přišel na pohotovost s třískou pod nehtem a oni mi řekli
+"Před takovými 10 lety jsme to dělali normálně, ale dneska je takových druhů
+třísek.. My vás radši objednáme na chirurgii."
+
+:D
+[Smajlík]  [Muž]40 [Kategorie]
+ _l_o_s_ _l_o_s_o_s
+05.12.2005 23:16:59
+Nechal jsem si (raději firmou) přidat do PC RAM (záruční doba). Zvětšit z 512
+MB na 1024 MB. Přesně to, co říkáš. Modrá smrt. Přidávat RAM do nových PC
+amatérsky je blbost. Jsem správce sítě, ale už si netroufnu tohle dělat sám
+(zkušenosti).
+xZdenish, to není pomoc. Reinstalace nepomůže. Věř zkušenému. Nakonec ve firmě
+zjistili, že původních 512 MB RAM bylo vadných a v záruce mi ji vyměnili
+zadara. Kdo není odborníkem v HW, ať se raději nepouští do operační paměti. Je
+jich tak moc druhů, že je lepší to nechat na odbornou firmu. Ještě před 7 roky
+jsem to dělal bez problémů, ale dnes už raději ne.
+[Smajlík]
+ Hardin.
+05.12.2005 23:13:54
+já myslela, že tě přejel pošťák
+[Smajlík]     [Žena]70 [Kategorie]
+ _k_o_f_ _o_f_ _l_o_l_č_a
+05.12.2005 23:12:54
+Co to je za desku, jaký máš OS, jaká je memmory, bla bla bla..
+ _l_o_s_ _l_o_s_o_s [Muž]40 [Kategorie]
+05.12.2005 23:11:13
+To je woknama ne hw :-D. Nevím teda co máš za systém ale chtělo by to upgrade.
+ _s_t_o_n_e_s_o_u_r [Muž]20 [Kategorie]
+05.12.2005 23:07:52
+To chce brouku přeinstalovat windows..
+[Smajlík] [Muž]27 [Kategorie]
+ _x_Z_d_e_n_i_s_h
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+
