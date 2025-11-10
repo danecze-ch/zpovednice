@@ -1,0 +1,160 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+   Otázky - Vzkazy č.249090, vloženo _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+   20.09.2007 18:49:36               _s_t_r_á_n_k_a_]
+   Pomoc!! Matika
+   zdravím potřebuju pomoc zítra píšem na podobný rovnice
+
+   ///
+
+   Pumpou A se naplní nádrž za 12 minut, pumpou B za 24 minut. Za jakou
+   dobu se naplní nádrž, pracuje-li 3 minuty jen pumpa A a potom obě pumpy
+   současně ?
+
+   ///
+
+
+   vůbec netuším jak sestavit rovnici, pomůže mi prosím někdo? Já fakt
+   nevím jak na to :(
+    Matiku nemam rad [Muž]15  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+20.09.2007 19:52:48
+no to je jednoduchý. Určite ti to už někdo napsal, skusim to ale tak trochu
+vysvetlit:)
+prvne pracuje jen A - ta udělá 3/12(tři dvanáctiny). Za 3 minuty když začne
+pracovat druhá pumpa jsou hotový 3/12. když se přidá druhá pumpa, tak se to
+zrychlí. za minutu ty pumpy dohromady vypumpují 3/24(1/12 + 1/24). Zbývalo 9/
+12=18/24
+když teda za minutu vypumpují 3 dílky a celkove zbylo 18 dílku, je to už
+jednoduchý(6minut)
+součet:
+1. - 3. minutu jen A ....každou minutu 1/12
+4. - 9. minuta obě ......každou minutu 3/24
+
+zkouška3*1/12 + 6*3/24 by melo vyjít 1 :)
+[Smajlík] [Žena] [Kategorie]
+ _z_i_p_í_k
+20.09.2007 19:26:45
+ááá úlohy o společné práci.
+
+Ty se řeší vždycky tak, že si nejdřív u každý pumpy napíšeš, jakou část nádrže
+zaplnily za jednotku času. Tzn. pumpa A za 1 minutu zaplnila jednu dvanáctinu
+nádrže. Pumpa B za 1 minutu zaplnila jednu čtyřiadvacetinu nádrže (takže je
+vlastně 2x pomalejší).
+
+První tři minuty pracuje jenom pumpa A: Když za 1 minutu zaplní 1/12, tak za 3
+minuty zaplní 3/12 = 1/4. Takže za první tři minuty máš plnou čtvrtinu nádrže.
+
+
+Zbejvaj ti tři čtvrtiny nádrže. Čas ale neznáš, tak si ho dáš jako neznámou x.
+Tak jako před chvílí jsi zjistila, že za 3 minuty se zaplní 3/12, teď si místo
+3 minut dáš x minut. A pracujou obě pumpy současně, takže to sečteš.
+
+x*1/12 + x*1/24 = 1
+
+Pracuješ se zlomkama, ne s konkrétními čísly, jen s určitou částí nádrže, u
+který neznáš objem. Proto pro tebe je vlastně celá nádrž ta jedna celá.
+
+No a když to upravíš (to už je normální rovnice), vyjde ti, že x = 6 a k tomu
+ještě musíš přičíst ty první 3 minuty, kdy pracovala jen pumpa A.
+
+Tak a teď doufám, že je to dobře :)))) A že se to dá pochopit. Každopádně tak
+nějak se tyhle úlohy řeší :)
+ _T_e_r_k_a_1_2_3_1_2_3 [Žena]19 [Kategorie]
+20.09.2007 19:16:47
+je to 9 minut. čerpadlo A naplní za 1 minutu 1/12 nádrže, čerpadlo B naplní za
+1 minutu 1/24nádrže (to je asi jasný, že?)...Pracuje-li puma A sama 3 minuty,
+naplní 3*1/12 nádrže, žili 1/4 nádrže. čtvrtinanádrže je tedy plná, zbývá 3/
+4 nádrže. 3/4 nádrže budou plnit společně. Pumpa B je 1/24/1/12 pomalejší...
+čili je dvakrát méně výkoná (50%A)Dohromady tedy pracují výkonem 1,5 rychlosti
+pumpy A.. taková rychlost je 1,5*1/12, čili 3/24, čili 1/8 A jestliže za 1
+minutu nateče 1/8 nádrže, za kolik minut nateče 3/4nádrže? (trojčlenka) 3/4:1/
+8=6minut. Čily za 6 minut doteče těch zbývajících 3/4 nádrže. první čtvrtina
+trvala 3 minuty a zbytek (3/4 nádrže 6 minut), čili 9 minut..OK? Zkontrolujte
+to někdo, ať mu tady nepíšu bludy.
+ Pepa007
+20.09.2007 19:14:47
+Hezké. :-D nejlepší je nemyslet
+[Smajlík]
+ Peneti
+20.09.2007 19:05:45
+Matiku nemam rad: Matika mi taky nejde ;)
+Rovnici jsem nevytvořil, jen jsem trošku logicky uvažoval ...
+
+Zvolil jsem si objem nádoby 12litrů.
+Tzn.
+A 1l/1min
+B 0,5l/1min
+
+První tři minuty jela pumpa A - tzn. natekly 3litry.
+12 litrů - 3 litry = 9 litrů zbývá.
+Jedou obě pumpy naráz - tzn. 1,5 litru za minutu. Když to dopočítáš do zbylých
+9 (1,5; 3, 4,5; 6; 7,5; 9), vyjde ti 6 minut + původní 3 minuty.
+ _c_r_o_s_s_7 [Muž]20 [Kategorie]
+20.09.2007 19:02:10
+cross7 vyšlo ale nevím jak si k tomu přisel prostě nevím jak má vypadat ta
+rovnice jinak pak už ji spočítám
+ Matiku nemam rad
+20.09.2007 19:02:05
+No já nevím, taky na matiku moc nejsem, takže ti neporadím.
+[Smajlík] [Žena] [Kategorie]
+ _H_O_P_E_7_9
+20.09.2007 19:00:15
+Vyšlo mi správně 9 minut ?
+ _c_r_o_s_s_7 [Muž]20 [Kategorie]
+20.09.2007 18:56:47
+tyvole, dyť slovní úlohy jsou nejlehčí z celé matematické maškarády..
+[Smajlík] [Žena]95 [Kategorie]
+ _Z_e_k_y
+20.09.2007 18:54:38
+Nemam poneti, pokud z toho zitra pisete, nejspis jste se to predtim ucili,
+nejspis ti odkladani prerostlo pres hlavu...
+[Smajlík]
+ Poneti
+20.09.2007 18:52:25
+Kde sou ty časy..
+ _t_a_j_e_m_n_a_v_i_l_a [Žena] [Kategorie]
+20.09.2007 18:51:05
+Hehe, společná práce:-). Fakt sem to NIKDY nechyt:).
+ _A_b_y_s_s [Muž] [Kategorie]
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+
