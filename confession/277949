@@ -1,0 +1,185 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+Diskuze č.277949, vloženo 11.01.2008 16: _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+01:53                                    _s_t_r_á_n_k_a_]
+Proč se Windows pořád restartuje
+Používám Windows od verze 3, nejhorší verze byla verze 98, podle mě lidé
+používají Windows hlavně kvůli tomu že zde jdou hrát hry.
+Když pracuji v Linuxu tak si připadám jako v jiném světě, zde vše funguje a to
+mě nudí.
+ Vit Kouba [Muž]54  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+13.01.2008 18:55:02
+HledacSmyslu:
+
+Především uveď, co používáš *nad* Debianem, co provozuješ za aplikace.
+ _I_v_a_n_ _D_u_c_a_r [Muž]44 [Kategorie]
+13.01.2008 16:10:22
+Používám Debian GNU/Linux a naprostá pohoda, žádné restarty, stabilní...
+[Smajlík]     [Muž]26 [Kategorie]
+ _H_l_e_d_a_c_S_m_y_s_l_u
+11.01.2008 20:34:50
+*Jinak pokud nebyl vylozene problem s HW tak windows jsou stabilni.*
+ _I_v_a_n_ _D_u_c_a_r [Muž]44 [Kategorie]
+11.01.2008 20:09:47
+Gramaticky Demon&Ivan Ducar: hadate se zbytecne a vo pitchovine paac mate
+pravdu oba. Samozrejme ze ne uplne standartni komponenty maji za nasledek taky
+ne uplne dokonale ovladace, ktere opravdu mohou mit velky vliv na stabilitu
+systemu.
+
+Jinak pokud nebyl vylozene problem s HW tak windows jsou stabilni. Veta "v
+linuxu si pripadam jako v jinem svete" me fakt pobavila. Muzu vedet v cem je
+ten svet jiny ? Myslis stabilitu systemu ? Osobne si myslim, ze je to moda
+nadavat na windows. Kazdej system ma sve pro a proti a zalezi hlavne na
+aplikacich ktere na tom pobezi (nektere aplikace jsou hold lip podporovany pod
+windows a nektere zase pod unix* like systemem). Clovek co chce gamit si neda
+na svuj pocitac netbsd, naopak administrator kterej chce mit sw firewall s
+nejvetsi pravdepodobnosti pouzi windows (i kdyz i par takovej fw sem
+zpravoval). Hlavni duvod proc mit ten ci onen os je hlavne jak se v nem citim
+doma a co potrebuju pro svou praci, a dale samozrejme podpora. Spousta lidi to
+samozrejme moc jeste nechape - znam radu firem, ktery maj vetsinu svych
+serveru na debianu. Problem nastava ve chvili, kdy se na tom serveru neco hw
+vydela. Pokud to neni opravdu velka firma pak dodavatel (napr hp ci ibm) se
+tim proste nezabyva.
+
+Lidi pouzivejte co vam vyhovuje a prdte na vykriky "ten ci onen os je lepsi"
+ _V_e_l_d_r_a_n_e [Muž]34 [Kategorie]
+11.01.2008 20:09:21
+Ivan Ducar: Zklamu tě, HW je do značné míry standartizovaný kvůli
+kompatibilitě. Nestabilitu v dnešní době opravdu nemůže způsobit jeho
+kombinace(kromě případů kdy deska např nepodporuje určité paměti a vůbec
+nenaběhne) ale jen ty ovladače.
+ _G_r_a_m_a_t_i_c_k_ý_ _d_é_m_o_n [Muž] [Kategorie]
+11.01.2008 19:44:02
+komunikaci mezi hardware zařizuje deska. pokud si někdo nakoupí levné šmejdy
+není se čemu divit. v mainstreamu takový problém nastane v 1 případu z 1000 a
+to je ještě moc
+ _S_a_m_o_t_á_ř_ _u_ž_ _z_e_ _z_v_y_k_u [Muž]26 [Kategorie]
+11.01.2008 19:33:03
+Gramatický démon:
+
+Řeknu ti to jinak (pro tebe srozumitelněji): když si smontuješ počítač ze
+segmentů *každý pes jiná ves* a dodatečně zjistíš, že ti žádné z doposud
+prověřených ovladačů nezajistí stabilní komunikaci mezi jednotlivými částmi
+harware, použil jsi pro sestavu nevhodné komponenty.
+ _I_v_a_n_ _D_u_c_a_r [Muž]44 [Kategorie]
+11.01.2008 19:07:22
+Ivan Ducar: Jestli programuješ, pak určitě víš že každá aplikace má po napsání
+spoustu chyb, které se musí odstranit. Tento proces se nazývá debugging
+(ladění) a mnohdy trvá déle než samotné programování. A pokud ho autor
+ovladače odflákne a zkrátí na co nejkratší dobu, vznikne nám *nestabilní
+ovladač*, jak bys řekl ty. Při jakékoliv situaci se kterou autor ovladače
+nepočítal a neošetřil ji se nám objeví BSOD a windows se raději zrestartují
+než aby uživatel čelil ztrátě dat. (co v M$ nedomysleli je, že ke ztrátě dat
+většinou dojde i tak.)
+[Smajlík]         [Muž] [Kategorie]
+ _G_r_a_m_a_t_i_c_k_ý_ _d_é_m_o_n
+11.01.2008 18:56:31
+Gramatický démon:
+
+Zkus mi definovat *nestabilní ovladač* :o)
+ _I_v_a_n_ _D_u_c_a_r [Muž]44 [Kategorie]
+11.01.2008 17:54:39
+Ivan Ducar: Domníváš se špatně, jedinej důvod proč se XP restartujou jsou
+nestabilní ovladače nebo přehřívající se HW :) Nevyváženost jim nijak nevadí :
+)
+[Smajlík]         [Muž] [Kategorie]
+ _G_r_a_m_a_t_i_c_k_ý_ _d_é_m_o_n
+11.01.2008 17:50:10
+Je to otázka pro odborníky a navrch z tvého textu není jasné, zda se má jednat
+o nevynucené restarty anebo po upgradech.
+
+Domnívám se, že samovolné restarty jsou často zapříčiněné nevyvážeností
+jednotlivých hardwarových komponent v sestavě... což je problém především
+těch, kteří své kompy sestavují po částech svépomocí a jsou přesvědčeni, že o
+architektuře vědí všechno.
+ _I_v_a_n_ _D_u_c_a_r [Muž]44 [Kategorie]
+11.01.2008 17:32:04
+Telcontar: ale prd stačí si vybrat dobré distro
+ _S_a_m_o_t_á_ř_ _u_ž_ _z_e_ _z_v_y_k_u [Muž]26 [Kategorie]
+11.01.2008 17:31:21
+Jazzy: ze stejného důvodu proč většina lidí stále používá ICQ jako klienta
+ _S_a_m_o_t_á_ř_ _u_ž_ _z_e_ _z_v_y_k_u [Muž]26 [Kategorie]
+11.01.2008 16:56:21
+Mě nudíš ty
+[Smajlík]       [Muž]17 [Kategorie]
+ _Z_a_c_h_a_r_i_á_š_ _K_u_l_e
+11.01.2008 16:35:38
+Když se vychloubáš svými vědomostmi o počítačích, tak proč o takových
+základních věcech píšeš? Blboune!
+Umíš vůbec něco?
+[Smajlík]
+ kulhavá žížala
+11.01.2008 16:31:00
+Docela mi to připomíná bhagavan hele.. :D
+
+Jinak nevim, jestli to je k věci, protože tý zpovědi moc nerozumim, ale všim
+sem si výrazů jako Windows a Linux, tak to sem hodim:
+_h_t_t_p_:_/_/_h_a_n_n_i_b_a_l_._c_e_s_t_i_n_y_._c_z_/_t_e_x_t_/_ zajimavosti/LinuxRulez.html :D:D:D
+ _R_a_n_a_r_7_8_5 [Muž]20 [Kategorie]
+11.01.2008 16:18:18
+protoze GUI > terminal
+
+_h_t_t_p_:_/_/_i_m_g_2_2_2_._i_m_a_g_e_s_h_a_c_k_._u_s_/_ img222/7058/linuxqg4.jpg
+ _T_e_l_c_o_n_t_a_r [Muž]20 [Kategorie]
+11.01.2008 16:11:53
+To je jako otázka proč se všude používaj windowsy a né linux když je vlastně
+ve skutečnosti lepší.
+ _J_a_z_z_y [Žena]29 [Kategorie]
+11.01.2008 16:06:50
+Visty se nemusej restartovat skoro vubec pitomce.
+a ano, tesim se, ze tohle bude to same v XP SP3
+smrt linuxu a lidem co se zasekli v 70. letech
+ _T_e_l_c_o_n_t_a_r [Muž]20 [Kategorie]
+11.01.2008 16:04:50
+bhag: Bojím se, aby to ostatní programy rozchodili
+ Kolejdouci 123
+11.01.2008 16:03:57
+Těšíte se na 3 servisní pak pro XP a
+1 servisní pak pro Vistu?
+[Smajlík] [Muž]61 [Kategorie]
+ _b_h_a_g_a_v_a_n
+11.01.2008 16:03:37
+Bhagavan?
+ Kolejdouci 123
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+
