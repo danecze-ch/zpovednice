@@ -1,0 +1,146 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+Zpověď č.217827, vloženo 17.05.2007 18: _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+56:57                                   _s_t_r_á_n_k_a_]
+scsi and raid controllers - pci device
+ukazuje mi to po spusteni pc instalaci pci device kgterou nelze dokoncit,
+nevite co to vubec je a kde bych to mohla sehnat nebo aspon jak se zbvit te
+tabulky pri startu? uz mi leze na nervy....dik
+ sci [Muž]  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+07.08.2007 13:16:00
+mam problem,daljsem si heslo na prihlaseni a ono me to ted nechce
+pustit,vyhodi me to zpet na tabulku prihlaseni a mezi tim probehne odhlsovani
+[Smajlík]
+ Lachi
+17.05.2007 21:35:09
+You are most welcome:)
+ _G_r_a_m_a_t_i_c_k_ý_ _d_é_m_o_n [Muž] [Kategorie]
+17.05.2007 21:27:38
+pomohlo to dekuju moc
+ sci
+17.05.2007 19:56:32
+Tohle stáhni, nainstaluj, a restaruj pc, melo by to přestat. _h_t_t_p_:_/_/
+_t_i_n_y_u_r_l_._c_o_m_/_3_e_y_4_o_e
+ _G_r_a_m_a_t_i_c_k_ý_ _d_é_m_o_n [Muž] [Kategorie]
+17.05.2007 19:56:09
+na jejich strankach sem si ho nasla je to tohle: C401
+
+Základní deska:
+ULi 15732
+ovladač SATA
+
+Grafická karta:
+Integrated ATI X300-based 2D/3D graphics
+
+Zvuková karta:
+Realtek ALC850 7.1 channel AC'97 audio codec
+
+Síťová karta:
+Realtek PHY RTL8201CL
+ sci
+17.05.2007 19:54:39
+pc mame od flexia
+ sci
+17.05.2007 19:52:19
+"...my dostali jen cd s media centrem a windows tam to bude?..."
+
+Tezko. V tom pripade zjistit presny model a vyrobce zakladni desky a ze
+stranek vyrobce si ty ovladace stahnout. Model desky by mel byt uveden spolu s
+dalsimi komponentami ve fakture.
+ _3_D_F_X_4_e_v_a [Muž]46 [Kategorie]
+17.05.2007 19:47:49
+my dostali jen cd s media centrem a windows tam to bude?
+ sci
+17.05.2007 19:46:21
+K pocitaci mely byt CD s ovladaci - k zakladni desce, graficke karte, modemu a
+co ja vim k cemu vsemu dalsimu co v PC bylo. Najit a nainstalovat ;-). A zacni
+s CD a s ovladaci pro zakladni desku... na 99% bude zakopany "PCI device"
+tam...
+ _3_D_F_X_4_e_v_a [Muž]46 [Kategorie]
+17.05.2007 19:44:37
+ale takle to tam je napsany na ty treti zalozce... proste nemam vyrobce a
+model sem ti napsala,je to to druhy co sem poslala
+ sci
+17.05.2007 19:42:14
+Třetí záložka je "Mainboard", To cos sem napsala mi nijak nepomůže.
+ _G_r_a_m_a_t_i_c_k_ý_ _d_é_m_o_n [Muž] [Kategorie]
+17.05.2007 19:41:35
+jo na treti zalozce? tak to manufac.... tam vyplneny neni 775TWINS-hdtv TO JE
+MODEL
+ sci
+17.05.2007 19:39:01
+kingston 512MBytes je to ze zalozky SPD jinde sem to nenasla
+ sci
+17.05.2007 19:31:36
+Ne, to není ono. Stáhni si tenhle program, _h_t_t_p_:_/_/_t_i_n_y_u_r_l_._c_o_m_/_2_o_m_g_t_v_ spusť
+soubor cpu-z.exe co je v tom archivu, a na třetí záložce mi vypiš Manufacturer
+a Model.
+ _G_r_a_m_a_t_i_c_k_ý_ _d_é_m_o_n [Muž] [Kategorie]
+17.05.2007 19:28:17
+windows r xp media center edition 2006 t.s. bohemia (to je ono?)
+ sci
+17.05.2007 19:19:52
+Na krabici od základní desky.
+ _G_r_a_m_a_t_i_c_k_ý_ _d_é_m_o_n [Muž] [Kategorie]
+17.05.2007 19:12:46
+gramaticky demon: ehm :-( a to zjistim kde?
+ sci
+17.05.2007 19:10:58
+Stáhni si ovladače čipsetu. Předpokládám, že nevíš, co to je, takže mi sem
+napiš přesnej název tvé základní desky.
+[Smajlík]         [Muž] [Kategorie]
+ _G_r_a_m_a_t_i_c_k_ý_ _d_é_m_o_n
+17.05.2007 19:04:02
+Můj kamarád říkal, že neví čím by to mohlo být. A to je co říct. Když spolu
+nechodíme venku tak se kamarád pořád hrabe v počítačích. Je opravdu odborník,
+ale s tímhle si ani on neví rady. Prý to je rozbité.
+ _2_0_0_0_M_a_n [Muž]23 [Kategorie]
+17.05.2007 19:03:53
+to davej jinam ne do zpovednice
+[Smajlík]    [Muž]14 [Kategorie]
+ _S_p_i_d_e_r_-_B_a_i_t
+17.05.2007 18:57:56
+jaaaaaaaaaaaaaaj
+ _t_e_r_r_y_X_D_j_a [Žena] [Kategorie]
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+

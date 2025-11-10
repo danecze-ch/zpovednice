@@ -1,0 +1,132 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+Zpověď č.217004, vloženo 14.05.2007 19: _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+21:22                                   _s_t_r_á_n_k_a_]
+LINUX-Operacni system
+lidiiiiiiiiiii pomoc Smiley ... ja ******* jsem si chtel zkusit linuxy protoze
+mi windle furt padaly a jelikoz v linuxu neumim tak nevim jak je mam
+odinstalovat Big smile plss poradit .. bootovaci cedo nevalí a mam vyjebanej
+notebookarskej bios a tam nejde nastavit nejdriv bootovat cd a pak ostatní ..
+sem v hajzlu kdo ví poradit budu hodne vdecnej
+ ztroskotanej System [Muž]17  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+14.05.2007 21:14:32
+Do linuxu EXE jedine prez emulator - napr. vine. Napred se zkus podivat na
+netu na tom jak linux funguje nez zacnes nadavat. Prekvapuje me tvuj stysl
+jednani, kdyz neco nejde, tak to nejspis nebude systemem, ale na 99% bude
+problemm mezi klavesnici a zidli, protoze malo ktery OS by obsahoval takovou
+chybu na kterou by jsi narazil hned po instalaci. Fakt te nechapu, kdyz nejsi
+schopny obsluhovat Widle tak aby ti jeli, tak je velka pravdepodobnost ze i s
+linuxem budes mit problem (navic kdyz ani nevis ze nejake EXE je binarni smeti
+pro Widle).
+ _M_i_r_e_c_z_e_c_h [Muž]20 [Kategorie]
+14.05.2007 21:02:26
+A nekoukas v tom biosu ciste nahodou do spatny nabidky? Zkus ho prolizt celej,
+vetsinou se to jmenuje Boot sequence a bejva to jinde nez ty nastaveni co
+popisujes. Anebo jdi jeste lepe otravovat na zive.
+ _K_o_c_k_a_d_o [Muž]26 [Kategorie]
+14.05.2007 20:14:11
+BOHAAAAAAAAAAAA ja MAM linuxy a uz je neci .. ale proste se v nich nevyznam
+nemuzu v nich nic nainstalovat protoze pro exe soubor abych ho mohl otevrit
+chce nejakej progam.. pritom je to picovina .. a jeste neco natavil jsem
+QUICKboot : Enable
+Multiboot :Enable
+NotebookMultibay :first
+NotebookHard drive :second
+mackal jsem jak kokot F12 a nevalí to .. jinak administrator jsme jenom ja ..
+[Smajlík]
+ ztroskotanej System
+14.05.2007 20:13:27
+NotebookMultibay first/second
+
+A tohle neni ono? Multibay je to misto, kde mas asi umistenou CD-ROMku, tak to
+zkus nastavit
+[Smajlík]
+ maddockman
+14.05.2007 19:57:29
+Hmmm... a nezablokoval Ti moznost menit nastaveni v BIOSu nahodou
+administrator :-) ? Ja jen ze jsem behem 15ti let praxe jeste nevidel notebook
+co by tohle (byt omezene) neumel ;-).
+
+Takze napred se PORADNE podivej na nastaveni v BIOSu a nastav si bootovani z
+CD. Pak si vyzkousej Linux z nejakeho LiveCD a pak si radeji nekolikrat
+rozmysli jestli bude Linux to pravy. Pokud mas Windows 2000 nebo XP a ty
+padaji tak je s nejvetsi pravdepodobnosti bud problem s HW a nebo si ty
+Windows neumis nastavit, pripadne do nich instalujes co nemas - a takovem
+pripade bude Linux z louze pod okap...
+ _3_D_F_X_4_e_v_a [Muž]46 [Kategorie]
+14.05.2007 19:54:56
+Notak Advence - pripadne multiboot a pri resetu mackej F12
+ AZOR
+14.05.2007 19:52:00
+Mam tam zalozky _ File_Secruity_Tools_Advance - tady je BOOToptions
+quickboot enable/disable
+multiboot enable/disable
+
+
+a NotebookMultibay first/second
+NotebookHarddrive first/second
+-------------------------- ---------------------------------------- ----------
+------------------------------ ----------------------------------------
+ale tady proste nevim co nastavit .. :(
+[Smajlík]
+ ztroskotanej Syste
+14.05.2007 19:32:50
+A) zkus live distibuci
+B) kazdej notebook umožnujně bootovat z cd, každej
+resetuj a přenastav bios ..
+ AZOR
+14.05.2007 19:31:50
+Zkus se zamyslet, jak by tam ten OS nahrávali kdyby to nešlo. Jak mám doma NB
+s hodně zprzněným biosem, tak boot z cd tam nastavit jde. Musíš jen prolézt
+všechny nabídky.
+ _G_r_a_m_a_t_i_c_k_ý_ _d_é_m_o_n [Muž] [Kategorie]
+14.05.2007 19:28:59
+nejde... fakt nejsem debil a je jedno jestli linux/y ...
+ ztroskotanej System
+14.05.2007 19:27:22
+A) je to linux, ne linuxy
+B)uklidni se, v KAŽDÝM biosu jde nastavit boot z cd takže se ještě jednou
+pořádně podívej.
+ _G_r_a_m_a_t_i_c_k_ý_ _d_é_m_o_n [Muž] [Kategorie]
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+

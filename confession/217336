@@ -1,0 +1,185 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+Zpověď č.217336, vloženo 15.05.2007 21: _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+38:29                                   _s_t_r_á_n_k_a_]
+Problémy s PC, pls pomozte!
+Zdravim,
+mam problem s instalaci pc, koupil sem si novy hardisk 250 GB ale kdyz ho chci
+naformatovat (tak ze bootuju z instalacniho cd), jde naformatovat jenom 130
+GB? Jak naformatuji cely disk?
+dekuji
+ Pavelka Miroslav [Muž]39  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+16.05.2007 08:25:50
+Zdar Wolfi Liperte, třeba, 80 GigaBajtový Harddisk, dneska, už moc, není,
+třeba, když si nahraješ, na 80 GigaBajtový Harddisk, třeba Operační systém
+Microsoft WINDOWS Vista, asi nějaká verze CZ, který zabírá, asi "až, 7
+GigaBajtů, a třeba, pak, jednu, hru, třeba hru Tomb Raider: Legend, která
+zabírá na Harddisku, taky asi až 10 GigaBajtů, a pak, si do toho počítače,
+koupíš, jednu vypalovačku, Médií Blu-RAy, a pak, když si budeš, chtít,
+přepálit, jedno, 50 GigaBajtový Dvouvrstvé Médium Blu-Ray, o kapacitě, až 50
+GigaBajtů, tak pak, hned, budeš, mít zaplněno, až 67 GigaBajtů, no tom, 80
+GigaBajtovém Harddisku, což je docela, dost, prostě no!
+[Smajlík]
+ Ladik 457
+16.05.2007 08:13:44
+Také jsem to řešil. V instalátoru nech naformátovat na těch 130GB, nainstaluj
+systém, pak nainstalovat Partition Magic a tam zvětšit oddíl na maximum.
+Zkrátka instalátor WinXP má chybičku, ale ono jich je dost i ve Windows. :-
+) Kapacita disku půjde určitě zvětšit i příkazem diskpart, ale je to přes
+příkazový řádek, takže pro některé dost složité.
+ lofter
+15.05.2007 23:03:33
+Přesně tak, aktualizuj BIOS a následně instaluj SP2 do Win XP nebo si pořiď
+jiný moderní systém.
+ _V_o_t_r_a_p_a [Muž] [Kategorie]
+15.05.2007 22:36:45
+partition magic
+ _T_r_a_b_u_k_o [Muž]29 [Kategorie]
+15.05.2007 22:15:18
+nejsi ze Znojma?
+[Smajlík] [Žena] [Kategorie]
+ _G_i_a_n_e_l_l_a
+15.05.2007 22:10:15
+a) Tvoje zakladni deska musi mit podporu 48bit LBA, pokud nema tak neni disk
+videt vubec a nebo je videt prave jen tech 130GB - podporu velkych disku si
+muzes overit v manualu od zakladni desky a pokud chybi tak je moznost ze ji
+pujde "doplnit" nahranim novejsi verze BIOSu na zakladni desku. Taky je mozne
+ze Tvoje deska 48bit LBA umi ale je nutne ho jen zapnout v BIOSu.
+
+b) Potrebujes OS ktery ma podporu 48bit LBA - pokud na disk instalujes novy OS
+tak standartne nema problem s 48bit LBA treba Windows XP SP2.
+
+Dalsi problem muze byt ten ze je disk nastaveny na omezenou kapacitu 130GB
+ovsem v pripade noveho disku by to bylo hodne neobvykly.
+
+No a dalsi moznost muze byt ta ze instalator Windows XP neni schopen spravne
+rozeznat Tvuj diskovy radic - v takovem pripade bude potreba si sehnat disketu
+s ovladaci pro radic a pri startu instalatoru kdy jsi vyzvan ke zmacknuti F6
+instalatoru disketu "podstrcit"
+ _3_D_F_X_4_e_v_a [Muž]46 [Kategorie]
+15.05.2007 22:04:01
+1)Zapnout regedit.
+2)Najet na klíč HKEY_LOCAL_MACHINESYSTEMCurrentContr
+olSetServicesatapiParameters
+3)Úp ravy-nový-hodnota dword
+4)Název "EnableBigLba"přesně, bez úvozovek, je to citlivý na velikost
+písmen.Enter
+5)Hodnota vyplnit 1,enter
+6)Zavřít regedit, restart PC.
+[Smajlík]         [Muž] [Kategorie]
+ _G_r_a_m_a_t_i_c_k_ý_ _d_é_m_o_n
+15.05.2007 22:01:31
+Gramatický démon - a co na něm máš?? Leda že bys požad stahoval filmy a starší
+nemazal to bych pak ještě pochopil.
+ _W_o_l_f_i_ _L_i_p_p_e_r_t [Muž]34 [Kategorie]
+15.05.2007 22:01:10
+Asi to ma vic oddilu a formatujes jen jeden
+[Smajlík]          [Muž]24 [Kategorie]
+ _S_o_m_e_t_h_i_n_g_I_n_T_h_e_W_a_y
+15.05.2007 21:57:06
+s tímto zkušenosti nemám, ale měla by pomoct uvedená změna v registrech...
+ _Š_t_e_f_a_n [Muž]23 [Kategorie]
+15.05.2007 21:50:01
+Gramatický démon:
+Mám win XP a Service pack 2. Jak to mam naformatovat? OS mi disk nerozezna
+ Pavelka Miroslav
+15.05.2007 21:46:12
+Wolfi Lippert: Mám 320 gb, zbývá 12 a to jen proto že sem je nechal volný jako
+rezervu. Uživil bych i terabajtovej....
+ _G_r_a_m_a_t_i_c_k_ý_ _d_é_m_o_n [Muž] [Kategorie]
+15.05.2007 21:45:40
+Ahoj. Chtěl jsem se zeptat ohledně zvýšení kapacity HDD. Mám doma HDD
+200GB a na internetu jsem našel návod jak fyzicky zvětšit jeho
+kapacitu až na 300GB. A to tak že se trošku povolí ty čtyři šroubky
+co drží ten plech. Tím by se měl zvětšit prostor uvnitř a tím pádem
+by se tam mělo vejít více dat. Nemá s tím někdo zkušenost?
+
+Ano,ale opatrne! Zhruba to vychazi 1/4 otacky = 23,7 MB ale musis je
+povolit vsechny stejne,nesmi tam byt tenmer zadny rozdil.Pozor,pokud
+je povolis moc ze to uz prekroci o 100% puvodni velikost HDD tak
+dojde k takzvanemu osviceni dat a tim padem k redukci pouze na 50%
+puvodni velikosti HDD ktera uz nejde opravit
+
+Já jsem to zkoušel na jednom staršim harddisku (1,2GB) a po půl otáčce
+všech šroubů se nic nedělo, ale když jsem pak povolil šrouby ještě o
+kousek, tak už mi vůbec nenaběhnul počítač. Zašrouboval jsem teda
+šroubky zpátky, ale pořád to nefunguje. Dělal jsem to v temné komoře,
+takže k osvícení dojít nemohlo. Je nějaká možnost, jak z toho
+harddisku dostat aspoň těch 50% původní kapacity?
+[Smajlík]        [Kategorie]
+ _N_a_p_r_a_v_e_n_é_ _P_é_r_o
+15.05.2007 21:45:08
+Musíš aktivovat 48-bitové LBA adresování. Předpokládám že ti to nejde na win
+2000:
+
+1 Zapni regedit.
+2 Najdi a označ tento klíč v registru:
+HKEY_LOCAL_MACHINESYSTEMCurrentCon trolSetServicesAtapiParameters
+
+3 On the Edit menu, click Add Value, and then add the following registry
+value:
+Value name: EnableBigLba
+Data type: REG_DWORD
+Value data: 0x1
+
+4 Quit Registry Editor.
+
+5 Restart the server or workststion.
+A dál se mi to nechtělo překládat. Snaž se trochu sám. Nebo by to měl řešit
+nejnovější service pack tak si ho stáhni, to bude jednodušší.
+ _G_r_a_m_a_t_i_c_k_ý_ _d_é_m_o_n [Muž] [Kategorie]
+15.05.2007 21:43:05
+1. mazej stím na zive.cz
+2. dej jim tam přesnější informace
+ utajen
+15.05.2007 21:42:53
+tak to nepomůžu a k čemu 250 GB? já mám 80 a je to až dost. Pamatuju si, že na
+mém prvním počítači což byla 486 v roce 1996 byl harddisk 420 MB :-) dnes už
+neuvěřitelné, kdo ví co bude běžné za 5 nebo 10 let.
+ _W_o_l_f_i_ _L_i_p_p_e_r_t [Muž]34 [Kategorie]
+15.05.2007 21:39:42
+jasne...
+[Smajlík]  [Žena] [Kategorie]
+ _t_e_r_r_y_X_D_j_a
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+
