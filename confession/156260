@@ -1,0 +1,127 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+Zpověď č.156260, vloženo 06.10.2006 13: _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+01:18                                   _s_t_r_á_n_k_a_]
+nutné
+ahoj mame ivt a za ukol mame rychle napsat proč pc pracuje v šestnáctkové
+soustave..prosim poradi mi nekdo...nutne:(
+ sgsdgs [Žena]15  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+06.10.2006 18:01:54
+Pc pracuje na dvojkove soustave. pokud ja vim
+ _d_o_b_r_a_v_o_d_a [Žena]16 [Kategorie]
+06.10.2006 13:35:46
+Možná to bude trošku zmatené, prtotože to beru z hlavy, ale snad to bude
+srozumitelné:
+
+Jednotkou informace je jeden bit, který může nabývat hodnoty 0 nebo 1. Osm
+bitů je jeden Byte (čti: bajt). Všechny počítače umí pracovat jen s dvojkovou
+soustavou. Ale existují různé programy, které to pro nás lidi převádějí do
+srozumitelnějších a přehlednějších soustav. Do šestnáckové je to
+nejjednodušší.
+
+A teď to začne být zajímavé: 1 Byte má tedy 8 bitů. Zapisuje se to takhle:
+(dvojková = desítková)
+0000 0000 = 0
+0000 0001 = 1
+0000 0010 = 2
+0000 0011 = 3
+...
+1111 1110 = 254
+1111 1111 = 255
+
+Šestnácková soustava má šestnáct znaků: 0 1 2 3 4 5 6 7 8 9 A B C D E F
+(dvojková = šestnácková)
+0000 = 0
+0001 = 1
+0010 = 2
+0011 = 3
+...
+1100 = C
+1101 = D
+1110 = E
+1111 = F
+
+Číslo 15 je ve dvojkové soustavě zapsáno jako 1111, v šestnáckové je to F.
+
+A teď to spojíme dohromady. 1 Byte může mít hodnotu od 0 do 255, nebo v
+šestnáckové od 00 do FF. Zapisuje se to takhle:
+(dvojková = desítková = šestnácková)
+
+0000 0000 = 0 = 00
+0000 0001 = 1 = 01
+0000 0010 = 2 = 02
+0000 0011 = 3 = 03
+...
+0101 1110 = 94 = 5E
+0101 1111 = 95 = 5F
+0110 0000 = 96 = 60
+...
+1111 1110 = 254 = FE
+1111 1111 = 255 = FF
+
+Čili 1 Byte se dá v šestnáckové zapsat jako dvě šestnácková čísla, a velmi
+snadno se to dá převést zpátky do dvojkové. Jak už jsem říkal, všechny
+počítače pracují jen ve dvojkové soustavě, ale většinou to zobrazují pro nás
+lidi jako šestnáckovou, protože je to mnohem přehlednější a srozumitelnější.
+Jistě uznáš, že dvě čísla nebo písmena je mnohem jednodušší přečíst a
+rozluštit, než 8 jedniček a nul. Hlavně když je těch čísel hodně.
+
+Ještě shrnutí jednou větou: Počítače pracují výhradně ve dvojkové soustavě, a
+ta se dá velmi snadno převést na šestnáckovou, se kterou se nám mnohem líp
+pracuje. Omlouvám se za možnou zmatenost, případné nesrovnalosti nebo
+nepochopené části mé odpovědi rád pomůžu objasnit.
+ _L_y_k_y [Muž]33 [Kategorie]
+06.10.2006 13:13:02
+no tak to nevím.
+[Smajlík]  [Žena]21 [Kategorie]
+ _E_l_e_n_K_a_2_0_6
+06.10.2006 13:12:32
+presne jak pise qaser...
+ _s_c_a [Muž]96 [Kategorie]
+06.10.2006 13:05:04
+PC pracuje v 2kový soustavě 1 a 0 nic jinýho tam nenajdeš 16ková je kvuli
+línejm programátorům aby si ulehčili život ;)
+[Smajlík] [Muž]26 [Kategorie]
+ _q_a_s_e_r
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+
