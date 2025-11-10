@@ -1,0 +1,112 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+   Otázky - Vzkazy č.360222, vloženo _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+   21.01.2009 20:21:07               _s_t_r_á_n_k_a_]
+   notebook
+   Ahoj, poradi mi nekdo?Mam notebook a na nem windows vista home ale chtel
+   bych tam Windows XP ale kdyz dam botovat a soupnu tam XP a restartnu to
+   tak me to nabidne jestli chci nacist z disku cd at dam libovolnou
+   klavesu to vsechno jede pak zacne kopirovat soubory,ale potom pred
+   formatem a samotnou instalaci XP mi to napise nebyly nalezeny zadne
+   disky a jde jenom F3 - konec. Nevite proc?Notas me jinak na vistech
+   normal jede.Dok za rady hackeri.Cus
+    notebook [Muž]21  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+21.01.2009 23:36:42
+JJ presne i ja jsem mel podobnej problem a nastesti taky stacilo jenom zmenit
+nastaveni v biosu. Pro priste plati pro takoveto problemy jenom jedna zasada -
+napsat model NB a problem do google - vzdy se najde par lidi s podobnym
+problememem a par lidi co poradi. Pro muj NB napriklad nebyli na oficialni
+strance ovladace pro XP a predstava zjistovani a hledani driveru pro vsechny
+periferie me ubijela. Stacila vsak hodinka cteni ruznych for a nasel jsem
+jedno, kde nekdo se stejnym NB udelal celej driver pack pro XP - jenom
+stahnout, vsechno nainstalovat a byt spokojen ;)
+[Smajlík] [Muž]29 [Kategorie]
+ _S_C_u_D
+21.01.2009 22:00:37
+když tak čtu ten postup od 3DFX4eva, radši bych si tam nechala ty visty :-)
+ _l_a_m_i_s_i_l [Žena]24 [Kategorie]
+21.01.2009 21:54:24
+3DFX4eva moc moc moc diiiiiky. byla to moznost 1.Uz to jede diiiky
+hackere.Cuss
+ notebook
+21.01.2009 21:31:47
+Instalator Windows XP nedokaze identifikovat Tvuj SATA radic a disk na nem
+pripojeny. Mas tri moznosti:
+
+1. v BIOSU prepnout (ne kazdy BIOS to umi, pak viz. moznost 2. a 3.) SATA
+radic do "legacy" modu nebo "compatibility" modu (kazdy vyrobce tomu rika
+jinak) a pak instalator XP disk uvidi.
+
+2. Zjistis jaky presne mas v notebooku cipset. stahnout potrebny SATA ovladac
+ze stranek vyrobce cipsetu, pomoci volne siritelneho programu Nlite provezt
+integraci tohoto ovladace do instalacniho disku Windows XP, takto upraveny
+instalacni disk si vypalit a z nej instalovat.
+
+3. Sehnat pro Tvuj NB disketovou mechaniku, ze stranek vyrobce cipsetu
+stahnout SATA ovladac, ulozit ho na disketu a pri startu instalatoru XP
+zmacknout F6 a zavest ovladac z diskety.
+ _3_D_F_X_4_e_v_a [Muž]46 [Kategorie]
+21.01.2009 21:13:17
+čus.Já si budu dávat do ntb XP asi tento týden,tak uvidím.Snad takoví problémy
+mít nebudu,ale každopádně když se ti to povede rozjet,tak si musíš najít na
+netu ovladače na grafiku,zvuk apod...přímo pro tvůj noťas.A řeknu ti,jestli
+nevíš kde to hledat,tak to není nic lehkýho.Mě to posílal kamoš,kterej tomu
+rozumí jak asi nikdo tady,takže je naštěstí mám.Jinak prej pro ntb který maj
+nainstalovaný WinVista,tak by se tam XP dávat neměli.Kamošovi jedou v poho,ale
+doporučený to není.Jinak nevím co bys s tím mohl mít
+ notebookk
+21.01.2009 21:10:03
+Netvrdím, že je to ten problém. Jenom většinou u sata disků je potřeba mít na
+něj ovladač, kterým systém přesvědčíš, že tam disk fakt máš. Prohrabej poradnu
+na _w_w_w_._z_i_v_e_._c_z_._ Tam je návodů habaděj. A je klidně možné, že máš úplně jiný
+problém... U sebe jsem řešil tento a proto jsem zaslepen jediným řešením :-)
+ _M_a_r_e_k_-_l_i_b [Muž]35 [Kategorie]
+21.01.2009 20:59:18
+ne ze bych byl tupy :D ale jak to teda obejdu nebo coo? :).Dik
+ notebook
+21.01.2009 20:25:38
+Že by byl problém tu?
+_h_t_t_p_:_/_/_c_s_._w_i_k_i_p_e_d_i_a_._o_r_g_/_w_i_k_i_/_S_A_T_A
+ _M_a_r_e_k_-_l_i_b [Muž]35 [Kategorie]
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+

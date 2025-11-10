@@ -1,0 +1,172 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+   Otázky - Vzkazy č.352354, vloženo _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+   22.12.2008 15:30:21               _s_t_r_á_n_k_a_]
+   Html
+   Protože jsou prázdniny, zítra odjíždím pryč a ted´ dělám úkol do
+   informatiky, jenže si nevím rady s jedním tagem a to je, že bych chtěla
+   mít 3 obrázky VEDLE sebe..jaký je to tag v html?
+    pwkoue [Žena]13  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+22.12.2008 19:10:39
+Když už chceš složitější design jen pomocí html (i když k tomu nevidím důvod),
+tak pomocí rámců.
+Tak pokud považuješ pozicování tabulkami za zastaralou techniku, pak nevím,
+jak nazvat framy.
+------
+Ale u jednoduchých webů je skoro lepší psát ty styly k tagům, rychleji se to
+pak načítá, nečeká se na styl.
+To je jen fráze. Těch pár milisekund, o které se u jednoduchého webu prodlouží
+načítání při použití externího CSS stylu, je naprosto zanedbatelných.
+
+A jinak nikde jsem neřekl, že pozicování CSS zavrhuju a ani že by design webu
+měl být z globálního hlediska tabulkový. Naopak CSS prosazuju. Pro tento
+konkrétní případ je ale tabulka více než vhodná a dostačující. A to nejsou
+výmysly. To je praxe. Jakpsatweb.cz skutečně nepotřebuji, vzhledem k tomu, že
+už pár let dělám ve sféře komerčního vývoje webdesignu a CMS systémů ;-)
+A ještě k tomu, že je to údajně učí špatně - taktéž nesouhlasím. Na základní
+škole nemůžeš očekávat, že se budou děcka učit webdesign na nějaký vyšší
+úrovni. Jak by mohla umět a používat CSS, když umí sotva použít img tag?
+ _V_e_r_t_h_a_n_d_i [Muž]36 [Kategorie]
+22.12.2008 18:22:03
+Verthandi: Tabulky jsou určený k tvoření tabulek, ne k tvoření designu webu.
+To, že se to tak používalo, je holt globální chyba. Když už chceš složitější
+design jen pomocí html (i když k tomu nevidím důvod), tak pomocí rámců.
+ _S_m_ě_j_í_c_í_ _s_e_ _J_a_c_k [Muž]33 [Kategorie]
+22.12.2008 17:52:22
+Verthandi: za pomoci html se to už dávno nedělá a nic na tom nemění, že je to
+tak můžou učit, učí je to blbě.
+O pozicování tabulkama toho byly napsány už tuny. Já to rozhodně za legitimní
+prostředek nepovažuji. Tabulka se má používat na tabulky. Tabulkový design má
+spoustu nevýhod, např. tady pokud u těch obrázků neuvede rozměry, tabulka se
+vykleslí až po natažení všech obrázků, atd... více na jakpsatweb.cz
+
+Ano s tím oddělení stylu a obsahu máš pravdu. Ale u jednoduchých webů je skoro
+lepší psát ty styly k tagům, rychleji se to pak načítá, nečeká se na styl.
+ _V_e_l_k_ý_ _M_a_y_ú_s [Muž] [Kategorie]
+22.12.2008 17:16:55
+Ahoj,
+co použít tvrdou mezeru? ;-) "& nbsp;" (entitu napsat dohromady bez závorek)
+ _A_e_l_i_l [Žena]13 [Kategorie]
+22.12.2008 17:16:50
+A ještě když už jsme u toho co je a není prasárna, tak zadávat CSS styly tagem
+style taky není zrovna vrchol krásy. Když už si potrpíme na tu krásu, tak tam
+mělo být:
+v hlavičce < link rel="stylesheet" href="main.css" type="text/css" />
+v těle < img src="image.jpg" alt="Obrázek" class="picture" />
+
+A v main.css:
+#picture {
+float: left;
+clear: none;
+}
+[Smajlík]  [Muž]36 [Kategorie]
+ _V_e_r_t_h_a_n_d_i
+22.12.2008 17:10:30
+Jeeeeee, tady je zas někdo chytrej.
+Tak za a) pozicování tabulkou je naprosto legitimní prostředek webdesignu a v
+praxi zrovna v tomhle případě je používanej možná mnohem víc než ty slavný CSS
+styly.
+A za b) autorce je 13 let a řekla jasně, že to chce za pomoci HTML. Nejsem si
+jist, jestli v sedmý či osmý třídě ví, co je CSS styl.
+[Smajlík]  [Muž]36 [Kategorie]
+ _V_e_r_t_h_a_n_d_i
+22.12.2008 16:58:46
+Vy tabulkáři, to je teda pěkná prasárna tabulkou!
+
+<img src="image.jpg" alt="Obrázek" style="float: left; clear: none" />
+ _V_e_l_k_ý_ _M_a_y_ú_s [Muž] [Kategorie]
+22.12.2008 16:57:32
+Vy tabulkáři, to je teda pěkná prasárna tabulkou!
+
+&lt;img src="image.jpg" alt="Obrázek" style="float: left; clear: none" /&gt;
+[Smajlík]    [Muž] [Kategorie]
+ _V_e_l_k_ý_ _M_a_y_ú_s
+22.12.2008 16:53:42
+Atribut valign doporučuju nepoužívat. To už skutečně jen přes CSS styly.
+ _V_e_r_t_h_a_n_d_i [Muž]36 [Kategorie]
+22.12.2008 16:30:17
+To se nedělá pomocí html, ale pomocí css příkazu „float: left;“
+ _S_m_ě_j_í_c_í_ _s_e_ _J_a_c_k [Muž]33 [Kategorie]
+22.12.2008 16:12:48
+_w_w_w_._j_a_k_p_s_a_t_w_e_b_._c_z_ 
+
+Jinak pokud chceš dát tři obrázky vedle sebe, tak přes tabulku.. A pokud
+myslíš nahoře jako v tý buňce, tak možná takhle:
+
+< table >
+< tr >
+< td valign="top" >< img src="obrazek1.jpg" >< /td >
+< td valign="top" >< img src="obrazek2.jpg" >< /td >
+< td valign="top" >< img src="obrazek3.jpg" >< /td >
+< /tr >
+< /table >
+ _R_a_n_a_r_7_8_5 [Muž]20 [Kategorie]
+22.12.2008 16:07:48
+sice mě to jde ale ty obrázky jsou dole..jak to udělat aby byly nahoře?
+ pwkoue
+22.12.2008 15:55:02
+Taky to jde pomoci tagu <img> a stylem si nastavit obtekani, ale nevim, jak
+moc je to pro tebe slozite.
+Zminovana tabulka je taky elegantni reseni.
+[Smajlík] [Muž]29 [Kategorie]
+ _M_a_x_P_a_i_n
+22.12.2008 15:40:44
+Dej je do tabulky o jednom řádku a třech buňkách.
+< table >
+< tr >
+< td >< img src="" /> < /td >
+< td >< img src="" /> < /td >
+< td >< img src="" /> < /td >
+< /tr >
+< /table >
+[Smajlík]  [Muž]36 [Kategorie]
+ _V_e_r_t_h_a_n_d_i
+22.12.2008 15:35:52
+Stáhni si H-Brouczek.Lépe se s ním pracuje.
+
+_h_t_t_p_:_/_/_w_w_w_._s_t_a_h_u_j_._c_e_n_t_r_u_m_._c_z_ /vyvojove_nastroje/www-tvorba/ostatni_ed itory/
+hbrouczek/?g[hledano]=h-brouczek&a mp;g[oz]=2.5
+[Smajlík]   [Žena] [Kategorie]
+ _B_l_b_á_ _L_u_c_i_e
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+
