@@ -1,0 +1,771 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+   Otázky - Vzkazy č.227932, vloženo _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+   28.06.2007 09:39:18               _s_t_r_á_n_k_a_]
+   Návrh na řešení komunikace Admin/Uživate
+   Návrh na rozhraní pro komunikaci mezi administrátory a uživateli.
+   Jistě jste si všimli, že zde vzniklo nové pravidlo, které bylo nazváno
+   přikázáním číslo 10.
+   S tímto pravidlem nesouhlasím z důvodů, které jsem již popsal jinde, a
+   proto jsem se rozhodl, že navrhnu jiný systém, který by měl odstranit
+   negativa původního návrhu a celou práci aminů zjednodušit a zpřehlednit.
+
+   Celý systém se skládá ze dvou částí – z formuláře pro mazání příspěvků a
+   ze zobrazovací časti, která se dělí na čtyři kategorie.
+
+   1. Zobrazovací část
+
+   Jak již bylo napsáno, zobrazovací část se dělí na čtyři kategorie
+   (podobně, jako je tomu u kategorií na zpovědnici – Zpovědi, Diskuse,
+   Tvorba, Vzkazy) a to na „Vyřazené zpovědi“, „Vyřazená rozhřešení“, „Jiné
+   reakce uživatelů“ a „Sdělení od administrátorů“
+
+   1a. Vyřazené zpovědi
+
+   V kategorii Vyřazené zpovědi, by se nacházel seznam vyřazených zpovědí,
+   který by byl zobrazován obdobně, jako příspěvky na hlavní stránce, jen
+   by obsahoval trochu jiná data.
+   Skládal by se z:
+
+   Číslo vymazané zpovědi
+
+   Název vymazané zpovědi
+
+   Datum vložení zpovědi
+
+   Datum smazání zpovědi
+
+   Nick administrátora, který danou zpověď smazal
+
+   Nick autora vymazané zpovědi
+
+   Každý řádek seznamu by obsahoval výše uvedené informace a byl by (tak,
+   jako příspěvky na hlavní stránce) rozklikávací.
+
+
+   Pro ilustraci jsem nakreslil jednoduchý obrázek, kde je přibližná
+   struktura:
+
+   http://opcom.wz.cz/obrazky /rozhrani1.JPG (mezery umažte)
+
+
+   Po otevření by se objevily následující informace (v novém okně, stejně
+   jako u otevření zpovědí):
+
+   Číslo vymazané zpovědi
+
+   Název vymazané zpovědi
+
+   Datum vložení zpovědi
+
+   Datum smazání zpovědi
+
+   Nick administrátora, který danou zpověď smazal
+
+   Nick autora vymazané zpovědi
+
+   Číslo, nebo název pravidla, dle kterého zpověď smazal (*)
+
+   Krátké zdůvodnění – pokud by bylo potřeba (*)
+
+   Prostor pro diskusi uživatelů s adminy. (*)
+
+   Opět se můžete podívat na obrázek, který by vám měl výše popsané trochu
+   přiblížit:
+
+   http://opcom.wz.cz/obrazky /rozhrani2.JPG (opět umazat mezery).
+
+
+   1b. Vyřazená rozhřešení
+
+   Kategorie „Vyřazená rozhřešení“ by byla téměř identická, jako kategorie
+   „Vyřazené zpovědi“, s několika málo rozdíly:
+
+   Taktéž by se vymazané příspěvky řadily do seznamu, který by obsahoval:
+
+   Číslo zpovědi, ze které bylo rozhřešení vymazáno
+
+   Název zpovědi, ze které bylo rozhřešení vymazáno
+
+   Datum vložení rozhřešení
+
+   Datum smazání rozhřešení
+
+   Nick administrátora, který dané rozhřešení smazal
+
+   Nick autora vymazaného rozhřešení
+
+   Otevření by bylo taktéž téměř identické, jako u bodu 1a.
+
+   1c. Jiné reakce uživatelů
+
+   Zde by byl opět seznam, který by byl podobný seznamu zpovědí, obsahoval
+   by ale komentáře jednotlivých uživatelů, které se netýkají jednotlivých
+   vyřazení. Vkládání by mohlo probíhat podobně, jako běžné vkládání
+   zpovědí a každá položka seznamu by obsahovala:
+
+   Předmět (název) (*)
+
+   Nick autora
+
+   Nick administrátora, kterému by byl příspěvek určen (pokud by se jednalo
+   o sdělení pro všechny, nevyplňoval by se. (*)
+
+   Datum vložení
+
+   Po otevřeni by se samozřejmě objevily informace:
+
+   Předmět (*)
+
+   Text vzkazu (*)
+
+   Nick administrátora, kterému je příspěvek určen (*)
+
+   Datum vložení
+
+   Prostor pro diskusi (*)
+
+
+   1d. Sdělení od administrátorů
+
+   Opět by zde byl seznam příspěvků, ale pouze takových, které by vložili
+   administrátoři, jako například pravidla, jejich změna, informace o
+   plánovaném odstavení Zpovědnice a podobná další. Vyřešil by se tím
+   problém, kam takové vzkazy vkládat, aby si je přečetlo co nejvíce lidí.
+
+   Obsahoval by:
+
+   Předmět (název)
+
+   Datum vložení
+
+   Nick administrátora, který by takový vzkaz vložil.
+
+   Po otevření by nemusel být ani prostor pro diskusi (kdyby byl, tím
+   lépe), ale objevily by se následující informace (člověk s logickým
+   uvažováním v tuto chvíli jistě již ví):
+
+   Předmět (*)
+
+   Datum vložení
+
+   Nick administrátora, který by takový vzkaz vložil
+
+   Text sdělení (*)
+
+
+
+
+   V každé kategorii by mohl být navíc seznam aktuálně přihlášených
+   administrátorů.
+   Hvězdičkou jsou označeny údaje, které by se musely vyplňovat ručně,
+   zbytek by se bral z databáze. Tímto se dostáváme ke druhé části, která
+   je ovšem vcelku jednoduchá.
+
+   2. Formulář pro mazání příspěvků
+
+   Předpokládám, že existuje rozhraní, přes které se zpovědi a rozhřešení
+   mažou a že i existuje nějaký potvrzovací formulář, zda chce opravdu
+   administrátor danou zpověď, či daný vzkaz, smazat. Pokud neexistuje,
+   jistě by nebyl zase až tak velký problém, vytvořit ho. Pak by do něj
+   stačila pouze přidat volba čísla pravidla, dle kterého administrátor
+   bude mazat a také textové okno, kam by administrátor mohl napsat krátké
+   zdůvodnění.
+   Po odeslání by se tyto údaje uložily do databáze, spolu s údajem o datu
+   (případně času) smazání a nickem administrátora, který mazal. Zbytek
+   informací by již v databázi uložen byl.
+
+
+
+   Tak a ještě několik poznámek na závěr.
+
+   Pokud by tento systém začal fungovat, nebylo by nutné, aby platilo
+   pravidlo číslo deset, respektive by se upravilo na text: „Jakákoliv
+   komunikace s administrátory, ohledně jejich působení, bude řešena
+   prostřednictvím Systému pro komunikaci s administrátory (odkaz), či
+   prostřednictvím jejich profilů, ICQ, či mailů. V jakékoliv kategorii na
+   hlavní stránce, budou pokusy o takovou komunikaci automaticky mazány.“
+
+   Vyřešila by se tím i průhlednost celé práce administrátorů. Bylo by
+   dobré, aby v tomto systému mohl promazávat jediný zvolený člověk (z řad
+   administrátorů) a pokud by se neosvědčil, byl by odvolán a nahrazen
+   jiným. Je nutné, aby zde bylo možno promazávat, protože by se jistě
+   našlo několik lidí, kteří by toto rozhraní chtěli zneužít například pro
+   spam.
+
+   Na tento systém by byl jasně viditelný odkaz z hlavní stránky a každému
+   novému příchozímu, by mohlo být do knihy návštěv v profilu napsáno
+   těchto několik vět:
+
+   „Přečtete si prosím nejdříve pravidla tohoto serveru (odkaz). Na tomto
+   odkazu (odkaz) najdete rozhraní pro komunikaci administrátorů s
+   uživateli, prosím využívejte ho. Z hlavní stránky Vám budou požadavky na
+   administrátory mazány (viz. pravidlo číslo 10 – odkaz). Děkujeme“
+
+   Tento vzkaz by byl automaticky vložen systémem, každému nově příchozímu.
+
+
+   To je zatím asi vše. Nyní vás poprosím o případné návrhy na úpravy, či
+   dodělávky tohoto návrhu, a pokud máte nějaké doplňující otázky, rád vám
+   na ně odpovím.
+
+   PS: Hlavně bych byl rád, kdyby se k tomu vyjádřil Pajk, jelikož by to
+   byl on, kdo by musel upravit a dopsat engine Zpovědnice.
+    _O_p_c_o_m E-MAIL:_[_g_r_a_f_i_k_a_/_m_r_e_f_h_i_._g_i_f_]   [Muž]25 [Kategorie]  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+29.05.2024 10:55:25
+Podle mého názoru to není moudrá volba. Jen by to udělalo dusno a někteří lidé
+by to považovali za záminku, aby byli zase zlí a protivní. Správci by jen
+poskytli nekonečné množství zdůvodnění.
+_h_t_t_p_s_:_/_/_g_e_o_m_e_t_r_y_-_d_a_s_h_o_n_l_i_n_e_._c_o_m
+ Matthew Davis
+05.07.2007 01:02:23
+... no jasně, v ringu se kontrolujou akorát boxerky.
+ _U_r_v_i_s_u [Muž] [Kategorie]
+03.07.2007 23:40:50
+Asi se zpožděním - ale přijde mi to jak návrh od sira Humphreyho z
+ministerstva pro administrativní záležitosti. Vůbec nevidím důvod proč
+takovouhle komplikovanost vůbec zavádět.
+ _s_h_o_d_a_n [Muž] [Kategorie]
+29.06.2007 11:06:22
+Ahoj Votrapo, ráda bych ti odpověděla do profilu - ovšem máš zamčenou
+komunikaci. Po pravdě nemám tady osobní zkušenost s tím, jak probíhá
+odůvodňování mazání příspěvků a jaké důvody jsou voleny. Já považuji za
+oprávněné mazat spam, mazat jasné provokace a mazat vše co odporuje právnímu
+řádu ČR a je protizákonné. Spam je jasný, ostatní dvě kategorie jsou dost na
+hraně. Pokud je admin vždy schopen uvést relevantní důvod, pak je vše v
+pořádku. 10. pravidlo mi přijde jako zbytečné, nic neřešící, nejasně
+formulované a dávající prostor pro mlžení. Tj.vše, a už bych se opakovala.
+Napiště sem někdo tedy svoje zkušenosti s odůvodněními mazání příspěvků od
+adminů:
+moje zkušenost - napsala jsem tady dvě provokativní zpovědi - smazány, dotaz
+proč byly smazány jsem nevznášela, protože to bylo jasné a jejich smazání
+oprávněné.
+ _a_n_i_č_k_a_1_1_1 [Žena] [Kategorie]
+28.06.2007 22:05:28
+Krištufek Robin:
+[Smajlík] [Žena]33 [Kategorie]
+ _j_u_f_o_n_k_a
+28.06.2007 20:01:05
+dobytek: Já to vidím jinak. Jako kdyby tě někdo pozval k sobě domů a tam tě
+zamkl do nějakýho pokoje a nechtěl tě pustit ven dokud se mu nezachce, a
+kdybych mu řekl že na to nemá právo a je to podlý, tak mi tam i zhasne:))-
+podle tebe by na to měl právo, protože mu to tam patří...;)
+
+Ale je to jedno, máme na to odlišné názory. Já mwmwm v tomhle docela chápu.
+ _K_r_y_š_t_u_f_e_k_ _R_o_b_i_n [Muž]19 [Kategorie]
+28.06.2007 19:56:46
+Jinak bych se vsadil, že seš mwmwm.
+[Smajlík] [Muž]25 [Kategorie]
+ _d_o_b_y_t_e_k
+28.06.2007 19:52:16
+Kryštufek Robin: Jo, protože to je asi stejný, jako kdybych šel k někomu na
+jeho pozemek, začal bych mu tam dělat bordel a kdyby mě ten člověk chtěl
+vyhodit, tak bych začal řvát něco o cenzuře. Pokud tohle někdo nechápe, tak je
+zbytečný se s nim dál bavit.
+[Smajlík] [Muž]25 [Kategorie]
+ _d_o_b_y_t_e_k
+28.06.2007 19:49:20
+Sám si napsal, že kdyby ti tu bylo křivděno, tak bys stichl a nebo odešel...
+ _K_r_y_š_t_u_f_e_k_ _R_o_b_i_n [Muž]19 [Kategorie]
+28.06.2007 19:47:02
+Kryštufek Robin: Já sem s timto stavem spokojen. Tak proč bych měl proti tomu
+bojovat?
+[Smajlík] [Muž]25 [Kategorie]
+ _d_o_b_y_t_e_k
+28.06.2007 19:42:21
+Kvůli takový kravině ne, ale rozhodně dát jakymsi způsobem najevo protest.
+Určitim způsobem to vypovídá i o povaze člověka... kdo si nechá všechno líbit
+a stáhne se, a kdo i přes relativní marnost zkusí dát nějakym způsobem najevo
+svoji nelibost.
+
+A uvědom si, že obecně i v životě je lepší bojovat. Špatně dopadneš, když se
+budeš jenom podřizovat
+[Smajlík]        [Muž]19 [Kategorie]
+ _K_r_y_š_t_u_f_e_k_ _R_o_b_i_n
+28.06.2007 19:25:41
+Kryštufek Robin: A co s tim chceš jako dělat? Demonstrativně se upálit?
+ _d_o_b_y_t_e_k [Muž]25 [Kategorie]
+28.06.2007 19:23:51
+dobytek: To, že je to soukromej server neznamená, že si tady uživatelé musí
+nechat srát na hlavu.
+[Smajlík]        [Muž]19 [Kategorie]
+ _K_r_y_š_t_u_f_e_k_ _R_o_b_i_n
+28.06.2007 19:18:11
+Kryštufek Robin: Nic bych neřikal. Buď bych se uklidnil nebo bych šel jinam.
+Pochop, že tohle je soukromej server.
+[Smajlík] [Muž]25 [Kategorie]
+ _d_o_b_y_t_e_k
+28.06.2007 19:02:01
+anička111: Nechci mluvit za adminy, ale troufám si tvrdit, že když ti tady
+zmizí zpověď a ty se slušně zeptáš, tak se ti také dostane slušné odpovědi.
+[Smajlík] [Muž] [Kategorie]
+ _V_o_t_r_a_p_a
+28.06.2007 18:08:30
+Fajn, to by admini měli s vyplňováním práci na plný úvazek. A to by museli být
+placeni a né to dělat ve svém volném čase.
+[Smajlík]    [Žena]99 [Kategorie]
+ _ž_a_b_k_a_ _r_e_n_č_a
+28.06.2007 17:34:01
+dobytek: Kdyby si byl taky tak promazávanej, chtěl bych vidět co bys řikal ty,
+troubo.
+ Kryštufek Robin
+28.06.2007 17:28:23
+Opcom...v takom prípade by sa rozhrešenie či spoveď zmazala takisto ako
+novozaloženým spamujúcim nickom alebo neregistrovaným ....proste " nechodíš
+sem a keď prídeš spamovať nebudeš"...dajme túto výsadu obhajovať sa len ľuďom,
+ktorí si to svojou aktivitou zaslúžia...
+
+..ale fakt by to chcelo vyjadrenie majiteľa spovednice, lebo diskusia s
+adminmi, ktorí jasne že to odmietajú, nikam asi nepovedie...keď Pajk spraví čo
+mu povedia admini, možno vypočuje aj hlas nás, lůzy....
+
+((O_o))
+ _t_H_O_R_4 [Muž]23 [Kategorie]
+28.06.2007 16:33:48
+kristusek - o vysvětlování nepadlo z mé strany asice ani slovo...ale budiž-
+mně smazali na jiných diskuzních stránkách příspěvek jen jednou, obsahoval
+link na satanistickou stránku. Po dotazu mi správce slušně vysvětlil, že by
+mohlo jít o propagaci, což jsem akceptovala - důvod smazání jsem hodnotila
+jako rozumný, odpověď byla jasná a stručná a z mého příspěvku nebylo skutečně
+jednoznačné, zda propaguje satanismus, či je pouze informativní. Takže
+Kristusku, i na jiných diskuzních stránkách se uživatelé ptají a je jim
+zodpovězeno. A nikdo z toho nedělá velké prádlo.
+Nevím zda si vedou jinde statistiky - asi to není potřeba, protože si tam
+každý admin nedělá dle momentální nálady co chce, ale maže pouze to, co
+považuje za odporující platnému právnímu řádu ČR.
+ _a_n_i_č_k_a_1_1_1 [Žena] [Kategorie]
+28.06.2007 16:14:04
+Mně to připadá úplně na hovno, ale moh by to bejt zajímavej podnět pro aliena
+při tvorbě tý jeho dokonalý alienovnice.
+Jinak napjatou atmosféru sem tady nějak nezaznamenal. Akorát tady řve blbeček
+mwmwm.
+ _d_o_b_y_t_e_k [Muž]25 [Kategorie]
+28.06.2007 16:11:33
+Nevidím žádný užitek v tom, že by se měly takhle "opečovávat" vyřazené věci.
+Doma si taky neeviduješ, co jsi vyhodil do odpadkového koše, kdy a proč.
+ _v_e_s_a_l_i_a [Žena]27 [Kategorie]
+28.06.2007 16:02:35
+anička 111 - v tom případě asi nefunguje vůbec žádný web. Protože jsem
+neslyšel o takovém, kde by administrátoři museli při každém svém zásahu
+komukoli cokoli vysvětlovat a vyplňovat statistické listy.
+ _k_r_i_s_t_u_s_e_k [Muž]37 [Kategorie]
+28.06.2007 15:07:04
+Tady se mažou příspěvky? To je mi nové... Kdo je ten zločinec? gristusek???
+[Smajlík]
+ orig
+28.06.2007 15:06:02
+Víš nevím jak u vás, ale unás když malej parchat řve že denostal cukrátko, tak
+ho prolisknem aby měl proč řvát a když pak diskutuje tak dostane ještě, máme
+tu moc hodné děti, ne žádný rozmazlený fakany
+ utajen
+28.06.2007 14:50:37
+to Zildjian: Na Zpovědnici by se nic takového neřešilo - takové příspěvky by
+se na hlavní stránce mazaly a řešily by se pouze v této sekci - to už jsem ale
+také napsal.
+ _O_p_c_o_m [Muž]43 [Kategorie]
+28.06.2007 14:43:54
+Upřímně mi to přijde zbytečné. Pak už by se totiž na Zpovědnici nediskutovalo
+o ničem jiném, než kdo komu co smazal, a proč.
+ _Z_i_l_d_j_i_a_n [Muž]41 [Kategorie]
+28.06.2007 14:39:28
+Kristusek: základní věc, aby mohlo něco fungovat a nikdo necítil křivdu, je
+transparentnost. Statistika: kdo co maže a kdy - případně bych zavedla
+kategorii důvodů, z níž by rozvinutím roletky, nabídky admin vybral, rychle
+zaklikl (dle svého nejlepšího vědomí a svědomí), zahrnující i "a jiné"(+ zde
+pole pro vepsání) by umožnila reálně analyzovat v čem je na Zp. problém a je-
+li. Podle mě taková analýza zatím proběhnout nemohla, protože nebyly
+dostatečně vyvážené vstupy - nebo spíš žádné (nebo snad za relevantní vstup
+považuješ momentální náladu adminů?) a tudíž nechápu co má jako 10.pravidlo
+vlastně řešit, když nebyla udělaná analýza? Já si žádného odůvodnění
+podloženého faktickými argumenty nevšimla...(OK, nikdo mi nemusí nic
+odůvodňovat, jasně - s tím se jděte vycpat).
+Něco jiného by byla statistika, dle níž by bylo patrné, že uživatel XY sem
+vkládal pravidelně 10x denně příspěvny typu "Vyhul mi ho", pro takového
+uživatele zde pochopitelně není místo. Nebo by ze statistiky bylo patrné, že
+admin XY pravidelně maže příspěvky uživatele AB, a dělá to pouze on a nikdo
+jiný. Ve chvíli kdy by si uživatel AB stěžoval, sáhlo by se do dtb. a situace
+by se dala zhodnotit - třeba i tak, že admin někoho šikanuje, nebo taky ne.
+Myslím si ale, že díky transparentnosti by na takové situace ani nedošlo.
+Oscilujeme tu mezi dvěma extrémy: člověk jako stádní idiot neschopen vlastního
+uvažování a proto je třeba jej regulovat X člověk, homo sapiens sapiens -
+ovšem omylný a ne vždy jednající dle našich představ - tak co si vyberete?
+
+Je spousta důvodů vedení těchto jednoduchých statistik a možností jejich
+vyhodnocování a použití, jinak by se asi nedělaly, zapoj fantasii...
+Jo jinak jasně, je to tu soukromá area, asi jako hospoda kam chodí hosté. To,
+že je hostinského majetkem jej ovšem neopravňuje hostovi přikazovat, že má
+sedět s rukama za zády a nehoupat se na židli (něco jinýho je, když se host
+doprostřed místnosti poblije - to je už důvod k vyhození, ovšem není to důvod
+k tomu vyvěšovat na dveře - "blít se tady nesmí, kdož bliješ, nevstupuj nebo
+budeš vyhozen" - myslíš, že by se tomu blití takto zabránilo?).
+
+Na druhou stranu bylo by dobrý si říct, proč se tady tyhle věci vůbec začaly
+řešit. To je otázka na tebe.
+Alienovi jste na jeho dotazy mohli odpovídat zatvrzele do profilů (i jiným
+uživatelům, např.mně), na diskuze ohledně vedení Zpovědnice nereagovat přímo v
+diskuzi, ale tak jak navrhujete-soukromé kanály, profily. Nereagovat a jít
+důsledně příkladem ve způsobech a cestách řešení. To 10. přikázání je
+nadbytečné.
+ _a_n_i_č_k_a_1_1_1 [Žena] [Kategorie]
+28.06.2007 14:35:43
+to tHOR4: To vůbec není špatný nápad, děkuji ti za něj. Jen je tam malý
+problém - pokud by se to týkalo pouze domečkářů s pěti body, co udělat se
+stálými uživateli, kteří sem píší jen občas?
+ _O_p_c_o_m [Muž]43 [Kategorie]
+28.06.2007 14:24:46
+No jeden návrh by tu bol. Keďže, hlavne u Vás je veľa spovedí, ktoré sa mažú a
+bola by to pre adminov celkom zbytočná robota vyplňovať taký formulár za
+každým keď chcú niečo vymazať je tu jedno východisko...V tej daľšej sekcií
+"Vymazané spovede" by sa zhromaždovali len príspevky, odkazy, diskusie a
+spovede(tvorbu nepredpokladám, ale ani nevylučujem) od uživateľov s domčekami.
+Bolo by predsa zbytočné odsúvať tam aj príspevky nahodných zblúdilcov, ktorý
+napíšu pičovinu. Aby sa predišlo obchádzanie tohto pravdila založením si
+nicku, musela by byť stanovená hranica od tých piatich profilových bodov.
+Pochybujem že tu nejaký spamer vytrvá dokiaľ nenazbiera 5 bodov aby sa jeho
+zmazané spovede objavovali v sekcií vyradených. A pre tých, ktorí na
+spovednici naozaj pôsobia by bolo aspon dôstojné obhájiť si svoj názor či
+spoveď.
+A admini by sa aspoň nevyhovárali na zbytočnosť týchto formulárov pre ich
+zdĺhavé vyplňovanie.
+
+od Rez-ni-ka: k tvojmu poslednému príspevku: si admin, kurva, na to aby si to
+tu spravoval a staral sa o to tak sa neoháňaj tým, že je to veľa roboty a
+sprav to...tvoja funkcia nie je len na to aby si vymazával spovede a názory,
+ktoré sa ti nepáčia. Doterz bolo tvoje postavenie výhodou keď si mal v rukách
+moc, teraz keď máš aj niečo spraviť tak už sa tomu brániš...rob niečo pre to
+aby si si zaslúžil jebať tu ľudí...
+
+((O-O))
+ _t_H_O_R_4 [Muž]23 [Kategorie]
+28.06.2007 14:10:16
+přečetla jsem to celé ... a přijde mi to zbytečné
+
++ napjatou atmosféru v současné době nepociťuji ...
+ _L_e_n_e [Žena]26 [Kategorie]
+28.06.2007 13:44:33
+anička 111 - "Mně osobně by stačila čirá statistika kdo maže, co, kdy, komu,
+název smazané diskuze"
+Proč?
+ _k_r_i_s_t_u_s_e_k [Muž]37 [Kategorie]
+28.06.2007 13:35:33
+Vidím to podobně jako Votrapa, byl by nutný zásah do engine zpovědnice a je
+otázkou, nebyly-li by v tom případě účelnější jiné změny, např. zavedení další
+kategorie Koš, kam by se přeřazovalo všechno, co neodpovídá současným
+kategoriím, včetně smazaných příspěvků. Diskuze nad smazanými příspěvky mi
+rovněž připadá zbytečná.
+ _R_e_s_e_a_r_c_h_e_r [Muž]81 [Kategorie]
+28.06.2007 13:12:35
+to anička111: Děkuji za vyjádření. Prostor pro diskuse by tam nutně být
+nemusel. Připadlo mi ale celkem praktické, aby byly reakce tohoto druhu na
+jednom místě. Jsem přesvědčen, že by to bylo přehlednější, než když se budou
+nacházet v profilech, mailech nebo třeba v diskusích.
+
+Jinak souhlasím, že i odreagování pomáhá a rady nejsou jediným způsobem
+pomoci, který může Zpovědnice nabídnout.
+ _O_p_c_o_m [Muž]43 [Kategorie]
+28.06.2007 13:04:24
+Já bych to, co navrhuješ, uvítala. Vážím si toho, že někdo místo hysterického
+postavení 10.pravidla, které je nejasně formulované a podle mě naprosto
+nadbytečné, je schopen přijít s konstruktivním řešením.
+
+Mně osobně by stačila čirá statistika kdo maže, co, kdy, komu, název smazané
+diskuze. Diskuzi bych nepotřebovala, po zrušení pravidla 10 by mohla diskuze
+proběhnout v kategorii diskuzí, které k tomu mají sloužit.
+Podle mě nový uživatel stejně navštěvuje hlavně Zpovědi a do Diskuze se podívá
+po delší době jako registrovaný, tudíž ho nemusí spory dlouhodobějších
+uživatelů obtěžovat.
+Hodně lidí se sem chodí odreagovat, což jim pomáhá a může to probíhat i formou
+diskuzí, jakých, to už je každého věc, pokud mají tyto stránky někomu pomáhat,
+je opravdu nutné určovat dogmaticky jak? (pachatelé dobra, že...).
+ _a_n_i_č_k_a_1_1_1 [Žena] [Kategorie]
+28.06.2007 12:48:41
+Dobře, váš pohled vám neberu a nemám k tomu co nového dodat, vše jsem již
+napsal (mám ale pocit, že jste příliš pozorně nečetli). Nabídl jsem
+alternativu, která mi připadá lepší, než pravidlo 10, ale vám tak samozřejmě
+připadat nemusí.
+ _O_p_c_o_m [Muž]43 [Kategorie]
+28.06.2007 12:36:01
+Nebo zavést rubriku pranýř, s krásným živým vyobrazením této osvícené
+středověké vymoženosti. Na něj by adminové virtuálně přibíjeli nicky
+delikventů, tak jako králové nechávali přibíjet na pranýře a šibenice zlomené
+erby zrádných a zbabělých šlechticů. Pod pranýřem by byl prostředky pro obecný
+lid, aby mohl vyjádřit svoje pocity. Plivající smajlík, rozpláclé rajče,
+shnilé vejce zvané po staročesku záprtek, chcíplé kočky a podobně. A taky
+měďáky kterými by mohli přispívat provinilcům kteří vzbudili jejich soucit na
+úhradu napáchaných škod, jablka pro utišení žízně, hadry na zakrytí potupné
+nahoty......Naši předkové byli moudří a měli krásné zvyky.
+[Smajlík]
+ Mr-Sally
+28.06.2007 12:17:07
+Opcom: Aha...
+[Smajlík]      [Muž]29 [Kategorie]
+ _R_-_I_-_K_-_I_-_T_-_A_-_N
+28.06.2007 11:37:01
+diskuse
+[Smajlík] [Muž]29 [Kategorie]
+ _T_e_r_r_o_r
+28.06.2007 11:24:30
+Oceňuji tvou snahu, ale musím souhlasit s Votrapou a Kristuskem, že mi to
+přijde trochu zbytečný. Diskuze pod smazanými zpověděmi? Proč? Byly by další
+hádky... Psát důvod smazání? To je sice hezké, ale i když to běžný uživatel
+nevidí, denně je tu opravdu velké množství zpovědí, které mi administráři
+vymažeme a opravdu tu nemají co dělat. Navíc by Pajk vše musel předělat a
+opravdu pochybuju, že by to udělal. Já myslím, že současný systém není zas až
+tak špatný.
+ _j_u_f_o_n_k_a [Žena]33 [Kategorie]
+28.06.2007 11:00:18
+prijde mi to cely zbytecne byrokraticky a cely zavedeny kvuli tvymu pocitu ze
+je ohrozena svoboda slova. myslim ze kdybys videl jaky kokotiny clovek maze
+tak by te ani ve snu nenapadlo navrhovat psani zduvodneni. mazat tady bordel
+skutecne neni muj full time job a tyhlety formulare na formulare by kazdy
+mazani prodluzovaly. prijde mi to taky zbytecny z duvodu ze kdyby si uzivatel
+precet jak to funguje - pravidla tak vymazan nebude. pokud si to neprecte
+nebudu kvuli jeho hlouposti vyplnovat formular a drbat se s nim - proste ho
+vyzmizim.
+95 procent mazanych veci jsou zpovedi typu : "pica kurva tak sem ji narval
+klacek do pici a pak se poblil. co mam delat?"
+nikde na zadnym webu se moderatori nedrbou se spamerama apod. jak tady. proto
+je muj postoj jasny: mazat, mazat a banovat. a ne diskutovat proc neco
+presouvam do jakehosi chlivku. pri trose inteligence na to proc je clovek
+maznutej dojde i bez vysvetleni od admina. a kde chybi inteligence tam zabere
+blokace ip.
+ _o_d_ _R_e_z_-_n_i_-_k_a [Muž]26 [Kategorie]
+28.06.2007 10:53:34
+Opcom: No celkově si myslím, že tvůj systém je tak nějak nanic a otevírá jenom
+další nekonečné možnosti jak prudit.
+
+Přijde mi to celé zbytečné.
+
+Současný systém je takový jako na většině diskuzních serverech a nevšimnul
+jsem si, že by tam admini či moderátoři nějak diskutovali o smazaných
+příspěvcích. A myslím si, že je to tak správné.
+ _V_o_t_r_a_p_a [Muž] [Kategorie]
+28.06.2007 10:47:02
+Opcom:
+Řekl jsi "napjatá situace". Ta už je tu hodně dlouho (několik měsíců). Jen
+kolísá a pokaždé se uklidnila - to ovšem nikdy nebylo předcházení situace,
+pouze čekání na klid a popravdě tyhle opatření měli udělat dávno.
+Dlouho se vysvětlovalo, dlouho se psalo a nic nedělalo. Jen je smutný, že musí
+začít bouřka, aby si někdo uvědomil, že se víc kecá než dělá. Tím chci jen
+říct, že mají teď práva jaký by měli mít, mají pravidla jaký už dávno měli
+být, začli dělat to, co už měli dávno. Další vysvětlování, další virtuální
+"papírování", jen sníží efektivitu práce adminů.
+To že se někdo bouří, musí si uvědomit že je na soukromé půdě. A popravdě by
+spousta lidí měla být ráda, že není placená a že tenhle web je myšlenkou a
+jejím provedením originál. Spíš by jste jím měli pomáhat než do nich strkat. :
+) Není to možná revoluce jak říká Zildjian, ale je to mal krůček správným
+směrem. Ovšem stále je před nimy dlouhá cesta.
+Popravdě když chceš čistit žumpu, bereš si taky lopatu a ne měřáky + spoustu
+příruček. Co sem nepatří, je potřeba to dát pryč, ne nad tím polemizovat.
+Rychle, jednoduše, efektivně - to je zde potřeba už dlouho. A tokovýhle debaty
+to jen strhávaj zpět do toho, co zde bylo. ;-)
+A co se týče komunikace s adminy. Myslím, že je v pohodě. Aspoň teď. :)
+[Smajlík]
+ Oshii.
+28.06.2007 10:45:19
+to R-I-K-I-T-A-N: Možná jsem použil špatnou formulaci, ale tento systém by
+neřešil zpovědi vyřazené domečkáři, ale zpovědi a rozhřešení, které by byly
+smazány administrátory.
+ _O_p_c_o_m [Muž]43 [Kategorie]
+28.06.2007 10:41:15
+Mě se docela zamluvá přidat k rubrikám Zpovědi, Diskuse, Tvorba a Vzkazy ještě
+Vyřazené zpovědi. Akorát bych to nepojemnoval Vyřazené zpovědi, ale Vyřazeno.
+Tak by se shromažďovalo vše, co domečkáři nebo admini vyřadí. Ono totiž každý
+den klikat na kolonku Vyřauené a hledat mezi nevyřazenými takové ty
+polosvítící zpovědi nebo diskuse, je zdlouhavé a nepřehledné. Takže souhlasím
+s rubrikou vyřazeno...
+ _R_-_I_-_K_-_I_-_T_-_A_-_N [Muž]29 [Kategorie]
+28.06.2007 10:32:06
+to Dalia: Právě že ne - stačilo by jedno zdůvodnění, s odkazem na konrétní
+pravidlo, které vymazaný příspěvek porušoval.
+
+to 2F76: Formulář pro zvolení konkrétního pravidla a napsání jedné dvou vět,
+pokud by to bylo potřeba, by zdržel mnohem méně, než dlouhé debaty po
+profilech.
+ _O_p_c_o_m [Muž]43 [Kategorie]
+28.06.2007 10:28:56
+to kristusek:
+
+1a - ano
+1b - bylo by pouze na uživateli, zda takovou debatu bude chtít číst. Pokud by
+byl odkaz na pravidlo a v případě nejasností i krátké zdůvodnění, nebylo by o
+čem diskutovat
+
+1c - nebylo by jednodušší, kdyby byl tento vzkaz viditelný všem, než abyste se
+kvůli němu museli kontaktovat?
+
+1d - Vzkazy pro administrátory, nejednalo by se o vzkazy pro uživatele
+
+2 - Včera jsem prosil Zildjiana, aby mi poslal screenshoty rozhraní, přes
+které mažete - zatím mi nic nepřišlo, proto vycházím ze své teorie, jak by to
+mohlo fungovat. Pokud mi screenshoty někdo z adminů pošle, promyslím vhodné
+úpravy
+
+"myslíš, že to udělá, pokud ho na to upozorníš zvláštním přípisem na titulní
+straně?" - ne na titulní straně, ale zápisem v jeho návštěvní knize
+
+Myslím, že právě tyto diskuse, urážky a debaty, by byly značně eliminovány,
+pokud by byly jasné důvody (pravidla), kvůli kterým konkrétní administrátor
+mazal. Celá vaše práce by byla mnohem transparentnější, než v současnosti.
+
+to Marek-lib: Ohledně zdůvodňování viz. to, co jsem odepsal Votrapovi
+Řekl bych, že by pak nebyl důvod nevěřit adminům (existují zde lidé, kteří
+nevěří v jejich objektivitu - tímto by se takovým spekulacím předešlo).
+
+Vzhledem k tomu, že by každý nový návštěvník dostal do profilu několik vět,
+které jsem napsal v návrhu, problém s orientací by nastat neměl.
+
+
+Ještě jsem zapomněl dodat, že by připomínky a debaty o vymazání mohli psát
+pouze registrovaní uživatelé
+ _O_p_c_o_m [Muž]43 [Kategorie]
+28.06.2007 10:18:42
+Připomínáš mi šéfa.
+Včera zadal vyplňování formulářů o vykonaných pracech na projektech... často
+vyplnění papíru bude trvat déle než práce sama.
+[Smajlík]
+ 2F76
+28.06.2007 10:15:41
+Podle mne to není dobrý nápad. Přibylo by jen další ouřadování a určití
+týpkové by si z toho vytvořili další možnost jak prudit a být otravní.
+Adminové by jen donekonečna cosi zdůvodňovali.
+ _D_a_l_i_a [Žena]60 [Kategorie]
+28.06.2007 10:12:59
+to Votrapa:
+
+1 - Samozřejmě, k tomu by byl nutný zásah Pajka
+
+2 - Ano, umožňuji. Myslím si ale, že pokud by byl důvod napsán, s odkazem na
+konkrétní pravidlo, dotazy tohoto typu by se značně eliminovaly
+
+3 - Co zabere více času? Napsání jedné, či dvou vět, nebo sáhodlouhé
+vysvětlování po profilech, nebo ve zpovědích? Navíc jsem tam uváděl, že by
+administrátor mohl rozepsat důvod, v případě jasného porušení pravidel by
+stačil pouze odkaz na konkrétní pravidlo (ve formuláři pro mazání by byl
+rozklikávací seznam, výběr by tedy probíhal dvěma kliknutími myši -
+rozkliknutím seznamu a kliknutím na konkrétní pravidlo - otázka dvou sekund).
+ _O_p_c_o_m [Muž]43 [Kategorie]
+28.06.2007 10:07:21
+Ahoj,
+k bodu 1a, 1b (potažmo 2) - vidím v tom jediné slabé místo. Totiž zdůvodňování
+adminů, proč něco smazali. Jakmile by něco takového začalo fungovat, tak by si
+někteří uživatelé akorát dělali prču z toho, kolik mají vyřazených zpovědí a
+rozhřešení. A dokonce z jakého důvodu.
+A vlastně - k čemu taková statistika? Byla by nutná ve chvíli, kdy člověk
+nevěří adminům, že mažou opravdu jenom bludy. A nebo ve chvíli, kdy bys chtěl
+dokázat, že někdo ubližuje záměrně Tobě. Jsou ještě nějaké jiné důvody, proč
+by to uživatelé měli vidět?
+
+1c, 1d - s těmihle myšlenkami se dá jistě pohrát. Ovšem ve chvíli, kdy
+polovina uživatelů Zpovědnice nemá tušení ani o tom, že tu existují i jiné
+kategorie než zpovědi, by to byl spíš takový bonus pro lidi, kteří se dokáží
+orientovat. Ale proč ne. Síla bývá v jednoduchosti a eleganci. Jako nového
+uživatele Zpovědnice by mě to zaskočilo, ale třeba bych si zvyknul.
+ _M_a_r_e_k_-_l_i_b [Muž]35 [Kategorie]
+28.06.2007 10:06:37
+Takže si to rozeberem:
+ad 1a) - objeví se informace
+ad 1b) - po kliknutí se objeví tytéž informace + nekonečná diskuse s
+nespokojenými autory zpovědí nebo obyčejnými prudiči
+ad 1c) - místo použití stávajícího profilu vytvoříme další systém - pokud chce
+kterýkoli uživatel sdělit cokoli všem adminům najednou, stačí si kliknout na
+pole ADMINISTRÁTOŘI a napsat to do profilu tomu, který je právě přihlášen - my
+už si to navzájem sdělíme, o to se neboj
+ad 1d) - vzkazy se obvykle dávají do kategorie Vzkazy, ale proč neudělat ještě
+jednu se stejným účelem, že?
+
+ad 2) - na co formulář? Systém je daleko jednodušší - kdybych měl vyplňovat
+formuláře, tak se při každém spamovém útoku zblázním - jsou okamžiky, kdy je
+třeba reagovat pokud možno co nejrychleji
+
+Dále - na hlavní stránce je odkaz Jak to tu funguje - pokud si na něj nově
+příchozí uživatel není schopen kliknout a přečíst si Pravidla (jež se ostatně
+nijak výrazně neliší od Pravidel na jiných serverech), myslíš, že to udělá,
+pokud ho na to upozorníš zvláštním přípisem na titulní straně?
+
+Takže abych to shrnul - podle mě tebou navržený systém povede jen k nekonečným
+diskusím, debatám a urážkám, jen místo v Diskusích či Vzkazech na to vytvoříš
+další kategorie. Těm diskusím, debatám a urážkám, kterým se právě chceme
+vyhnout.
+Takže můj názor je, že je to nesmysl, v tom bychom se všichni utopili.
+ _k_r_i_s_t_u_s_e_k [Muž]37 [Kategorie]
+28.06.2007 10:00:06
+Tak to je podle mého nesmysl, protože:
+
+1) Byl nutný zásah do engine zpovědnice (což se nestane - není k tomu vůle)
+
+2) Nevím jestli jsem to pochopil správně, ale ty umožňuješ diskuzi nad
+smazaným příspěvkem? Tedy obligátní "proč jste mi to smazali?" - IMHO naprosto
+zbytečné.
+
+3) Nevím kolik zabere mazání, ale psát ke každé smazané zpovědi zdůvodnění mi
+přijde jenom jako zdržování a hrozná byrokracie
+
+Myslím, že jak je to tady teď, tak je to relativně fajn. Mne to tak vyhovuje a
+nepotřebuji vidět zpovědi, které admini mažou (když vidím, co tady nechávají
+za chujoviny, tak jakou úroveň musí mít ty smazané příspěvky???).
+
+Líbi se mi, že u smazaných příspěvku v diskuzích zůstal text o tom, že byl
+příspěvek smazán (porušuje pravidla zpovědnice ...) a že nezmizel úplně (je
+vidět autor) (pak člověk čte a čte a nějak mu unikají souvislosti - takhle to
+dává přece jenom větší smysl).
+ _V_o_t_r_a_p_a [Muž] [Kategorie]
+28.06.2007 09:52:26
+Oprava: pod svým nickem
+ _O_p_c_o_m [Muž]43 [Kategorie]
+28.06.2007 09:51:31
+Prosím pouze o podnětné reakce. Ani se nenudím a abych řekl pravdu, moc mě
+nebavilo tento text psát. Věřím ale, že by současnou napjatou situaci mohl
+vyřešit a to i do budoucna.
+Upozorňuji také, že jsem aktivní, když mám náladu a píši zde pouze pod svám
+nickem.
+ _O_p_c_o_m [Muž]43 [Kategorie]
+28.06.2007 09:46:49
+a že si nebyl tak aktivní v době, kdy se tady urážky sypaly v diskuzích, kdy
+měl ANS ,,jakési záchvaty,, kdepak si byl, pod jakým nickem si zde psal, hm?
+ _L_e_n_i_č_k_a_ _M_á_c_h_o_v_á [Žena]45 [Kategorie]
+28.06.2007 09:45:08
+TY SE ASI HODNĚ NUDÍŠ CO?
+ _m_r_d_e_j_ _m_e_ _z_ _b_o_k_u [Žena]10 [Kategorie]
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+
