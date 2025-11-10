@@ -1,0 +1,176 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+Zpověď č.106898, vloženo 17.03.2006 15: _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+19:58                                   _s_t_r_á_n_k_a_]
+Zaludna slovni uloha,vyresite ji?
+Zdarec lidi, ve skole jsme psali matematickou soutez a byla tam jedna slovni
+uloha, na kterou jsem tedy opravdu neprisla, nevim, kde zacit.. Vyresite ji?
+
+V krabici bylo 5 párů černych, 10 paru a hnedych a 151 paru sedych ponozek.
+Honza krabici vysypal a ponozky pomichal. Matka ho pozadala, aby utridil
+ponozky do paru, ale on to neudelal a ponozky nahazel nahodne zpet do krabice.
+Honza chce jet na sedmidenni vylet. Urcete nejmensi pocet ponozek, ktere musi
+Honza z krabice vytahnout, aby mezi nimi vzdy nasel 7 paru ponozek, vsechny
+stejne barvy.
+Moznosti: a)21, b)41, c)40, d)37,e)31
+
+Jestli na to prijdete, tak napiste reseni:-)
+ _F_l_y_ _a_w_a_y [Žena] [Kategorie]  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+17.03.2006 23:15:34
+Řešení je 37, zde je popis(metoda nejhoršího průseru :-))
+---------------------------
+
+Bar vy označíme písmeny:
+... (5 párů)= "a"
+... (10 párů)= "b"
+... (151 párů)= "c"
+
+Cílem je buď 7 párů "b" nebo 7 párů "c".
+Hledáme nejhorší možný případ, což je 17 vytažených párů: 5a+6b+6c
+18. vytaženým párem získáme buď 5a+7b+6c nebo 5a+6b+7c
+
+Postup tažení ponožek:
+----------------------
+1. výběr=1 ponožka (a, b, nebo c)
+2. výběr=1 pár nebo nejhůře směs (ab, ac, nebo bc)
+3. výběr=1 pár+1 ponožka (a,b, nebo c), nejhůře však směs (a+b+c)
+4. výběr=nejhůře 1 pár+směs (ab, ac, nebo bc)
+5. výběr=nejhůře 1 pár+směs (a+b+c)
+6. výběr=nejhůře 2 páry+směs (ab, ac, nebo bc)
+
+tedy abychom spolehlivě měli n párů, je třeba vytáhnout 2(n+1) ponožek
+Stav po vytažení 17. páru je:
+.
+.
+.
+36. výběr=nejhůře 17 párů+směs (bc)
+
+Směs už může být jen bc, protože ponožky "a" došly.
+Dalším (tedy 37.) výběrem získáváme pár "bb" nebo "cc".
+ _r_o_n_d_e_l_k_a [Žena] [Kategorie]
+17.03.2006 18:50:35
+no tak esi by mu nezáleželo jakou barvu ty páry budou mnět hlavně že to budou
+páry tak mu stačí vytáhnout 16 ponožek...
+Pokud musej bejt všecky páry stejné barvy tak musí vytáhnout 37 ponožek..
+pokud chceme jednu specifickou barvu tak
+černá - 151+10+7=168 párů
+hnědá - 151+5+7=163 párů
+šedá - 5+10+7=22 párů
+[Smajlík]
+ alex96
+17.03.2006 18:38:54
+a)21
+[Smajlík]
+ je to přece jasné
+17.03.2006 17:57:18
+Jeste ze neco takoveho uz na stredni skole neni. clovek by musel zacit
+pouzivat mozek :o)
+ _K_y_k_l_o_p [Muž]19 [Kategorie]
+17.03.2006 16:59:39
+Tak tuhlw soutez jsme delali ve skole v utery...Nevim, u tohohle jsem taky
+dost vahala..Uz ani nevim co jsem dala, tipla jsem to jak sportku;))
+[Smajlík] [Žena]17 [Kategorie]
+ _L_u_c_y_y_y
+17.03.2006 16:11:20
+Tyvogoo a to du ba ekonomku achjooo
+[Smajlík]  [Žena]19 [Kategorie]
+ _a_n_d_y_n_o_o_n_e
+17.03.2006 15:55:41
+Výsledek je 9 o:).
+
+XX2
+X2X
+
+162
+126
+[Smajlík] [Muž]40 [Kategorie]
+ _U_n_r_e_a_l_i_k
+17.03.2006 15:48:26
+jesteze me uz timhle ve skole netrapi....
+[Smajlík] [Muž]23 [Kategorie]
+ _b_e_n_a_s_s_i
+17.03.2006 15:40:33
+Super, chytri lidi, ja a matika, to nejde dohromady..Spis jsem na cestinu a
+jazyky a humanitni premety, ale matika? To vubec neni moje parketa..A co
+takhle:
+Cifra na miste jednotek trojmistneho cisla je 2. Pokud tuto cifru presuneme na
+misto desitek, cislo se zmensi o 36. Urcete nejmensi mozny ciferny soucet
+puvodniho cisla.
+a)4, b)10, c)9, d)7, e)5
+ _F_l_y_ _a_w_a_y [Žena] [Kategorie]
+17.03.2006 15:32:52
+To je jednoduché. Základ máš 10 černých ponožek. A pak Ti zůstanou 2 druhy, z
+nichž musíš udělat 7 párů, to znamená vybrat 14 stejných ponožek. A k tomu je
+potřeba 27 vytáhnutí. Takže výsledek je 10+27 = 37.
+[Smajlík] [Muž]40 [Kategorie]
+ _U_n_r_e_a_l_i_k
+17.03.2006 15:30:48
+Hm možná kecám... U tohodle člověk nikdy neví. Pokud mluvěj v řešení o počtu
+ponožek a ne párů, tak jsem asi dost mimo.
+[Smajlík]            [Muž] [Kategorie]
+ _T_i_m_e_ _T_o_ _S_a_y_ _G_o_o_d_b_y_e
+17.03.2006 15:30:13
+jo, to sme taky psali... zrovna tohla byla z tech jednodussich... 37...
+ _g_e_r_t_r_u_d_a [Žena]16 [Kategorie]
+17.03.2006 15:26:38
+37?
+5*2 = 10
+10*2 = 20
+Takže 30 párů může bejt v nejhoršim případě nejednobarevnejch. + 7 je 37
+[Smajlík]            [Muž] [Kategorie]
+ _T_i_m_e_ _T_o_ _S_a_y_ _G_o_o_d_b_y_e
+17.03.2006 15:24:33
+Taky ste psali klokana? My měli něco podobného, jen tahle úloha byla s
+míčemi... Děs a hrůza, spíš sem to jen typovala :oD
+
+Ještě že se poslední místa neříkají... :o)
+ _k_i_k_i_s_s_e_k [Žena]24 [Kategorie]
+17.03.2006 15:22:05
+Téééda...ten kdo tohle vymyslel musel bejt palice :-D
+[Smajlík]       [Žena] [Kategorie]
+ _t_e_l_á_t_k_o_O_D_m_i_l_k_y
+17.03.2006 15:21:58
+356
+ Set
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+
