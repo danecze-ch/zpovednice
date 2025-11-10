@@ -1,0 +1,199 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+Zpověď č.182705, vloženo 12.01.2007 15: _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+22:05                                   _s_t_r_á_n_k_a_]
+Logika
+potrebujem poradiť sú to permutácie ( variácie s opakovaním)
+
+úloha : Určte, koľko značiek Morzeovej abecedy možeme utvoriť pomocou
+štvorprvkových skupín zložených z bodiek a čiarok.
+
+Potreboval bi som to vyriešiť aj potrobnejšie vysvetliť.
+ MAt. [Muž]18  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+12.01.2007 16:40:59
+Jinak z logického hlediska skutečně můžeš počítat jen s těmi znaky, které
+patří do Morseovy abecedy, protože ty tři fiktivní nemůžeš pomocí variací
+vytvořit, když jednoduše neexistují.
+ _L_B_a_r_t_a [Muž]19 [Kategorie]
+12.01.2007 16:09:16
+jinak 4-mistnejch kombinaci je 16. se podivej a net od ceho ho mas, vzorecek
+tam najdes na kazdy druhy strance.
+
+P n1,n2.. (n) = n!/n1!*n2!.., kde n je pocet cislic a n1..nk je k skupin
+n je zde 4, skupiny jsou 2 n1 a n2 kde se jejich pocet meni podle pouzitych
+carek a tecek
+
+4!/0!*4!+4!/1!*3!+4!/2!*2!+4!/3 !*1!+4!/4!*0! = 16
+
+jinak se nauc psat zadani prikladu, kdyz ti tu odpovidaj na to co tam mas
+napsany tak jim nerikej ze to maj spatne
+ _R_a_y_m_a_n [Muž]24 [Kategorie]
+12.01.2007 16:00:03
+Pokud je to okolo 30, tak by to mělo bejt zadaný jinak. Tady se uvádí 4
+prvkový skupiny. Pokud se myslí maximálně 4 prvkový, pak je to těch 30...
+
+Jinak to, že ne všechny patří do Morseovy abecedy, je zajímavá poznámka. Ale
+asi ne každej zná Morseovku z hlavy a docela by mě zajímalo, jestli autor
+příkladu s timhle počítal. :-)
+[Smajlík]            [Muž] [Kategorie]
+ _T_i_m_e_ _T_o_ _S_a_y_ _G_o_o_d_b_y_e
+12.01.2007 15:56:32
+Tak kdyz teda vis ze 16 to neni tak kolik to ma byt? :)
+
+Time To Say Goodbye : Jasny, sem vymyslel co by to mohlo byt kdyz se mu tech
+16 nelibi :)
+ _T_r_e_y [Muž]21 [Kategorie]
+12.01.2007 15:55:58
+Je to okolo 30 skupín !!!!!!!!!!!!!!!!!!!!!!!!!
+ MAt
+12.01.2007 15:54:25
+Aha :) To je dobra poznamka, ale jestli to musi byt jenom znaky co sou v
+Morseovce tak to jako priklad na kombinatoriku celkem ujety. Stejne to pak
+musis jedno po druhym projit a vyskrkat ty kombinace ktery nejsou zadny
+pismeno.
+ _T_r_e_y [Muž]21 [Kategorie]
+12.01.2007 15:53:50
+chlapi sú to permutácie a variácie a máme len štvorprvkové skupiny z bodiek. a
+čiarok ,
+ MAt
+12.01.2007 15:53:50
+Mat.: Můžeš mi ukázat 17. kombinaci, když je to podle tebe víc a má to jen 4
+prvky? To nějak nevidim.
+
+Trey: Jo... ale on píše pomocí 4 prvkových skupin. Takže ty 3 , 2 a
+jednoprvkový neberu v úvahu.
+[Smajlík]            [Muž] [Kategorie]
+ _T_i_m_e_ _T_o_ _S_a_y_ _G_o_o_d_b_y_e
+12.01.2007 15:53:00
+MAt: 16 to JE. Tecka. A nejenom ze jsi tak blbej ze na to neprijdes sam, ale
+jeste budes diskutovat s nekym, kdo je chytrejsi. Tak napis nejakou kombinaci,
+kterou Time To Say Goodbye zapomel.
+ qazik
+12.01.2007 15:50:46
+Time To Say Goodbye : Souhlas, 16 pokud se berou 4 pozice, kdyz se berou i
+kratsi tak 16 + 8 + 4 + 2 = 30
+ _T_r_e_y [Muž]21 [Kategorie]
+12.01.2007 15:50:44
+Ja ti odpovidam na otazku kterou jsi sem napsal. Pokud se znacky skladaj z
+tecek a carek tak s nich dokazes udelat vsechny ctyrmistne znaky morseovy
+abecedy.
+Morseova abeceda ma 27 znaku z cehoz pouze 13 znaku je ctyrmistnych.
+Ctyrmistnych znaku z tecek a carek udelas samozrejme vic ale to uz nebudou
+znaky morseovy abecedy coz tam mas napsany jako prvni podminku. Treba znak --
+-. sice udelas ale nepatri do morseovy abecedy. Takze odpoved je 13.
+ _R_a_y_m_a_n [Muž]24 [Kategorie]
+12.01.2007 15:48:34
+Time To Say Goodbye: Permutácie , variácie s opakovaním 16 to nie je, je to
+viac určite.
+inak DíK
+[Smajlík]
+ MAt
+12.01.2007 15:47:35
+Zkousku z pravdepodobnosti kde sem podobny vecy resil uz mam za sebou takze to
+ber trochu s rezervou. Jak pise quazik, 2^4 (dve na ctvrtou :) ) pokud se
+vytvari jenom ctyrprvkovy znacky. Pokud beres v uvahu i kratsi znacky (tj 3,2
+a jednoprvkovy) tak je to 2^4 + 2^3 + 2^2 + 2^1, zalezi na tom jak je
+postaveny zadani.
+A vysvetleni, zaklad te mocniny je vzdycky pocet moznosti ktere muzou nastat a
+mocnitel je pocet pripadu. Takze 2 (bud tecka nebo carka) na 4 (pocet pozic
+ktere ma ten znak). Pokud mas jenom jednu pozici tak na ni muzes dat bud tecku
+nebo carku => 2^1. Kdyz mas dve pozice tak uz je moznosti vic - (.., --,
+.-,-.) takze 2^2....
+No, snad je to dobre, prece jenom patek odpoledne... :)
+ _T_r_e_y [Muž]21 [Kategorie]
+12.01.2007 15:46:34
+1: ----
+2: ---.
+3: --.-
+4: --..
+5: -.--
+6: -.-.
+7: -..-
+8: -...
+9: .---
+10: .--.
+11: .-.-
+12: .-..
+13: ..--
+14: ..-.
+15: ...-
+16: ....
+
+Existuje snad víc kombinací nebo jsem nějakou přidal? Nebo jsem špatně
+pochopil zadání?
+[Smajlík]            [Muž] [Kategorie]
+ _T_i_m_e_ _T_o_ _S_a_y_ _G_o_o_d_b_y_e
+12.01.2007 15:45:24
+Rayman: ee ale dík
+ MAt
+12.01.2007 15:41:41
+13. A pokud ti to nevezme tak se bez hadat
+ _R_a_y_m_a_n [Muž]24 [Kategorie]
+12.01.2007 15:40:57
+Time To Say Goodbye: eee to je blbosť ale dík
+ MAt
+12.01.2007 15:39:14
+Na tom je něco k vysvětlování?
+4 místa , vybíráš ze 2 prvků , můžou se opakovat...
+takže 2^4 = 16
+[Smajlík]            [Muž] [Kategorie]
+ _T_i_m_e_ _T_o_ _S_a_y_ _G_o_o_d_b_y_e
+12.01.2007 15:26:23
+to jsme brali a bylo to super, bavilo mě to. ale je to už dávno a mám pátek,
+promiˇm... zkus to v neděli večer.
+ _b_e_r_r_u_t_k_a [Žena]23 [Kategorie]
+12.01.2007 15:26:18
+Hmm přesahuje moje možnosti : totálně
+ _W_Q_o_p_p_p [Muž]26 [Kategorie]
+12.01.2007 15:26:16
+Tady by se měla založit pátá skupina příspěvků nazvaná "Domácí úkoly" ...
+ _t_o_k_o_h_r_a_b_o_s [Muž]25 [Kategorie]
+12.01.2007 15:25:37
+2^4
+ qazik
+12.01.2007 15:24:42
+blee kombinatoriku jsem nikdy rada nemela... fuuuj
+promin, pomohla bych ti, ale uz si to nepamatuju
+ _e_g_l_e [Žena]22 [Kategorie]
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+

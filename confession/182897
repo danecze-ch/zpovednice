@@ -1,0 +1,202 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+Diskuze č.182897, vloženo 13.01.2007 09: _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+25:40                                    _s_t_r_á_n_k_a_]
+databáze
+Taky e tak nesnášíte?
+Já teď musím jednu udělat a sice to vůbec neumím ale do teď to bylo dobrý..jen
+když chci propojit ty tabulky dotazama tak se to sekne, dělám to dobře a
+nechápu proč se to celý vždycky vtu samou chvíli sekne? Nmůžu to odinstalovat a
+ani nic takovýho, ale potřebuju nutně udělat databázi.
+A vůbec nechcete mi někdo tu databázi udělat?
+ _A_n_g_e_l_u_s_i_ _M_u_s E-MAIL:_[_g_r_a_f_i_k_a_/_m_r_e_f_h_i_._g_i_f_]   [Žena]69 [Kategorie]  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+13.01.2007 20:32:57
+zkurvenej access, brrrr....
+ _M_e_m_p_h_i_s_ _*_j_e_ _v_ů_l_* [Muž]23 [Kategorie]
+13.01.2007 16:01:30
+V Oraclu, MS Server, nebo v Accesu? Není na tom nic těžkého, ale chce to
+přijít s konkrétnějším dotazem. Udělat ji nechci, protože na to nemám ani v
+nejmenším čas. Takhle kdyby někdo ze zdejších mudrců věděl jak odhadovat co
+nejefektivněji parametry STS-NGARCH modelu, to by mi pomohlo.
+ _d_o_l_e_p_9_a_m [Muž]27 [Kategorie]
+13.01.2007 11:20:51
+2Angelusi Mus: ja jen ze by bylo chytry napsat ze to chces v accessu, a kdyz
+to propojis relaci tak to jeste nic neznamena, ty relace sou teoreticky jen
+pro dotazy... jestli chces aby to fungovalo tak ze tam mas ten sloupec s
+moznostma tak musis dat pridat vyhledavaci sloupec..
+ _S_o_s_a_r_i_a_n [Muž] [Kategorie]
+13.01.2007 11:17:39
+Sosarian: ano uvědumuju si to, ale je to zadání úkolu vtomhle programu a já to
+musím doržet.
+JInak já mám udlané ty tabulky tak jak říkáš zhruba ale nejde mi propojit ty
+dotazy abych třeba když kliknu na jméno majitele se mi objevilo číslo
+zvířete..prostě když to začnu propojovat tak se to nepochopitelným způsobem
+zasekne(celý program) a píše to většinopu něco vtom smyluže nejde definovat,
+ale to je blbost.
+Klíč mám dobrej všechno mám dobrý ale stejně to nejde.
+ _A_n_g_e_l_u_s_i_ _M_u_s [Žena]69 [Kategorie]
+13.01.2007 11:06:27
+udelas neco jako
+
+(majitel muze mit vic zvirat)
+=tabulka zvire=
+id_zvire
+majitel
+
+=tabulka majitel=
+id_majitel
+jmeno
+
+
+(majite l muze mit vic navstev, (ruzny dny))
+=tabulka navsteva=
+id_navsteva
+datum
+majitel
+
+a pak to propojis
+navsteva.majitel -> majitel.id_majitel
+zvire.majitel -> majitel.id_majitel
+
+
+kdyztak mi napis na icq...
+ _S_o_s_a_r_i_a_n [Muž] [Kategorie]
+13.01.2007 10:53:55
+uvedomujes si ze access neni zdaleka jedinej program v kterym se delaji
+databaze?
+ _S_o_s_a_r_i_a_n [Muž] [Kategorie]
+13.01.2007 10:50:49
+PorucikColumbo: to by šlo naprosto vpohodě přes net meeting
+
+oiskin: myslíš to vážně?
+
+zadání úkolu:třída A2 Úkol D A T A B Á Z E
+
+Důkladně předem promysli strukturu databáze, aby byla funkční!
+Ve škole databázi ukládej do svých Dokumentů a pojmenuj podle svého jména a
+zálohuj si (USB flash disk, email).
+Hotovou databázi (pojmenovanou svým jménem) zkopíruj na síťový disk X: do
+složky Splněné úkoly z informatiky a hodnocení do složky své třídy a skupiny
+nebo odevzdej nejpozději do uvedeného data přímo vyučující pomocí zálohy.
+
+1. Vytvoř databázi alespoň se třemi tabulkami.
+Například z oblasti prodeje zboží (viz např. učebnice str. 42), evidence
+studentů školy, cestovní kanceláře, kosmetického salonu, malé firmy ...
+Nemůže být ale použita výuková zdravotnická databáze.
+
+Jedna tabulka bude obsahovat údaje o zákaznících, nebo údaje o studentech, o
+klientech cestovní kanceláře, salonu, o zaměstnancích firmy, ... Struktura
+první tabulky (hlavička) bude mít nejméně pět údajů.
+Další dvě tabulky podle typu databáze údaje o zboží, zájezdech, prospěchu,
+návštěvách klientů, platovém zařazení pacientů, ... Struktura každé z nich
+nejméně se třemi čí více údaji.
+
+Tabulky vhodně propoj relacemi 1: N.
+
+2. Naplň každou tabulku větším množstvím dat (alespoň deset řádků v každé
+tabulce).
+
+3. Vytvoř alespoň tři dotazy.
+Jeden dotaz bude s použitím údajů jen z jedné tabulky údajů o zákaznících,
+klientech, studentech, zaměstnancích.. Další dva (každý z nich) s použitím
+údajů ze dvou nebo všech tří tabulek.
+
+Dotazy mohou být jen výběrové, ale vítány jsou i jiné, například aktualizační.
+
+Nezapomeň u výběrových dotazů správně definovat kritéria výběru.
+V případě kritéria „Zadejte hodnotu“ uveď do závorek text, který uživateli
+jasně určí, co má zadávat (Napiš jméno studenta, Jméno zaměstnance,
+Identifikační číslo zákazníka, apod.).
+
+4. Pro vstup pro zadávání údajů do tabulky o zákaznících, studentech,
+klientech, zaměstnancích vytvoř formulář.. Jeho součástí budou nejen pole pro
+zadávání údajů, ale i vhodný obrázek (klipart, foto, logo, ...) a interaktivní
+prvek – tlačítko pro přechod do jiné tabulky, formuláře, jiné akce.
+Vytvoř ještě (podle vlastního uvážení a potřeb vhodného ovládání tvé databáze)
+jeden nebo více dalších formulářů k tabulkám nebo dotazům (sloupcové i
+tabelární)
+Formuláře mohou obsahovat i vnořený formulář (viz např. učebnice str. 43).
+
+5. Vytvoř sestavu se seznamem všech zákazníků.
+Pozor – nezapomeň, že je to možné jen na počítači, na kterém je instalována
+tiskárna.
+
+6. K databázi vytvoř vlastní menu – přepínací panel.
+Bod 6 není povinný, ale velmi vhodný.
+---------------------------
+
+Já jsem zadala dělat databázi o evidenci zvířat na vetrině jejich majitelů a
+návštěv. A skončila jsem při propojení. Není to mnou je to tím programem...je
+asi pokaženej, jinak si to neumím vysvětlit- protože jsem to dělala opravdu
+dobře.
+ _A_n_g_e_l_u_s_i_ _M_u_s [Žena]69 [Kategorie]
+13.01.2007 10:35:18
+Učila jsem se to, ale v angličtině, takže teď už bych to neudělala ani náhodou
+:)
+[Smajlík] [Žena]25 [Kategorie]
+ _T_e_r_o_m_í_n_a
+13.01.2007 10:34:04
+Pošli to sem.....já se na to vrhnu... :P
+ _o_i_s_k_i_n [Muž]22 [Kategorie]
+13.01.2007 10:29:51
+A to chceš vytvořit databázi ve svým PC? Jestli ti ji někdo má udělat, tak
+potřebuje přístup k tvému počítači (možno prostřednictvím přístupu na
+vzdálenou plochu) a to je trochu riskantní, nemyslíš?
+[Smajlík]       [Muž]17 [Kategorie]
+ _P_o_r_u_c_i_k_C_o_l_u_m_b_o
+13.01.2007 10:26:07
+MistrX: to ještě nevím ale rovnou bys mi mohl/mohla udělat ještě klonovací
+razítko :-) a taky pozvánku v zoneru :-)
+ _A_n_g_e_l_u_s_i_ _M_u_s [Žena]69 [Kategorie]
+13.01.2007 10:17:26
+heh, co za to?
+ MistrX
+13.01.2007 09:57:31
+Já to neumim
+[Smajlík]       [Muž]21 [Kategorie]
+ _s_l_i_m_a_k_b_e_z_u_l_i_t_y
+13.01.2007 09:34:47
+uhodlas, nechci
+ _u_b_z_e_d [Muž]49 [Kategorie]
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+
