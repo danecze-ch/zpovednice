@@ -1,0 +1,144 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+   Otázky - Vzkazy č.150216, vloženo _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+   10.09.2006 14:27:14               _s_t_r_á_n_k_a_]
+   Pro pocitacove hlavicky :-)
+   Vi nekdo, co jsou slova nize a k cemu slouzi ? Nutne to potrebuju vedet
+   a z toho, co sem nasala na googlu se toho moc nedozvim. Potrebovala bych
+   to rict naprosto lajcky.
+
+   Systemova disketa
+   Zavadec OS
+   Sektor na HD
+   Stopa na HD
+   Masterboot record ( MBR )
+   Partishion table ( PaT)
+   Norton Utility ( NU )
+   File alocation table
+   Master file table
+
+   Dekuji :o)
+    Nefim vubec nic [Žena]  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+11.09.2006 01:41:57
+1) Disketa, ktera obsahuje operacni system ze ktere lze system nastartovat
+(nabootovat) a zacit s nim v zakladnich rysech pracovat
+
+2) Vetsinou prvni sektor na HDD nebo na diskete - na nem je malinkej
+programek, radove par bajtiku a ten umi zavest danej operacni system. Zakladni
+zavadec se nachazi v MBR za tabulkou rozdeleni disku.
+
+3) Disk ma tzv plotny (neco jako jedna gramodeska - s tim rozdilem ze treba v
+disku je jich 4 8 atd - jsou nad sebou). Na techto plotnach jsou soustredne
+kruznice - tyto kruznice se nazyvaji STOPY. kazda stopa je rozdelena na useky,
+Tyto useky se nazyvaji SEKTORY. Protoze jak sem psal - na disku je ploten vic
+tak stejne sektory, kterou jsou presne nad sebou v jednotlivych plotnach se
+nazyvaji CLUSTERY. Disketa ma defacto "plotnu" 1 takze velikost clusteru je
+rovna velikosti sektoru.
+
+4. Viz bod 3
+
+5. Na nulte stope nulteho sektoru (proste uplne na zacatku - stopy a sektory
+jsou cisloany aby se na ne dalo odkazovat - ty taky nekde bydlis ;-)) kazdeho
+hardisku se nachazi tzv MBR. Tato cast obsahuje tzv PARTITON TABLE - neboli
+tabulku rozdeleni disku. V teto tabulce je popsano jak je hardisk dale
+rozdelen na jednotlive logicke disky (jeden disk se pak muze tvarit jako disku
+vic - kdyz to reknu hodne zjedusene.). Kazdej sektor ma 512 Bytu. Ale tahle
+tabulka jich ma neco pres 400 (presne uz si to nepamatuje). Co je na tech
+zbylejch bajtech ?? - spravne - lezi tam zavadec OS (viz bod cislo 2). Takze
+kdyz to shrnu - MBR obsahuje 2 hlavni veci - Partition Table a Zavadec OS.
+
+6. Viz bod 5 ;-)
+
+7. Norton Utility byla sbirka programku od chlapika Peter Norton - jeden s
+techto programku tzv diskeditor prave umel editovat prislusne oblasti na disku
+(MBR, PR). Proste sbirka programu.
+
+8) File Allocation Table - neboli FAT. Tak takze uz vime jak je rozdelenej
+disk na vic logickejch disku, vime i jak zavedem operacni system. Ale co jeste
+nemame popsany je kde se fyzicky nachazeji jednotlive soubory a jake maji
+atributy. File Allocation Table napr. popisuje kde fyzicky na disku (tzn na
+kterych clusterech - viz bod 3) se nachazi soubor prasarny.avi. Pokud si nekdo
+bude chtit prehrat soubor prasarny.avi, Operacni system se podiva do FAT a
+zada pokyn hardisku: prosim dej mi informace z clusteru tech a tech. Cluster
+ma pomerne malou velikost takze vetsinou jeden soubor je na vice clusterech na
+disku - zalezi to na velikosti clusteru a na velikosti souboru
+
+9) skoro stejne jako 8 jen pro souborovy system NTFS.
+
+
+Jinak to co popisuje jak udou sobory rozlozeny na disku se nazyva file system
+- ve svete windos jsou 2 zakladni - jeden je FAT (pro nej plait informae z
+bodu 8) druhej je NTFS (pro nej z bodu 9 - v podstate stejne jen se to jinak
+jmenuje). Rozdil mezi nimi je ten jak jsou sobory na tom disku rozlozeny - to
+uz je ale na mnohem mnohem delsi vypraveni
+
+
+Dotazy pis treba do profilu ;-)
+[Smajlík] [Muž]34 [Kategorie]
+ _V_e_l_d_r_a_n_e
+10.09.2006 16:04:08
+1)disketa na ktery sou spousteci soubory pro instalator systemu
+2)prakticky to same co 1) ale neni to na diskete heh
+3)no disk je proste rozdelenej na sektory ... to neres heh
+4)no stopa rekneme ze to je misto kam se otisknou data na disk (hm zajimavi
+heh)
+5)no to je hlavni spousteci zaznam v bootsektoru na disku
+6) v tom je zaznamenana informace o strukture tabulky disku (jasny heh)
+7)no co utilita vod Nortonu vobravuje chybky disku
+8)alokacni tabulka tzv. FAT ta kdyz se rozhodi muzes disk vyhodit jedno misto
+v tyhle tabulce = rovna se jeden cluster (proste souborovej system heh)
+9) je to informace o souborech na disku ale pro souborovej system NTFS
+
+snad je to dost laicky estli mas problem s bootovacim sektorem , jak se me zda
+, radsi to prenech odbornikum . Pokud mas odvahu a zalohovany data zkus zajit
+do konzoli pro zotaveni a zkus prikazi FIXBOOT a FIXMBR .Hm posledni dobou se
+tenhle problem objevuje castejc asi nejaka nova vec se toula po Netu .
+ _s_m_a_z_k_a_ _c_r_e_w [Muž] [Kategorie]
+10.09.2006 15:42:12
+Víš co? Daj mi mail a já ti pošlu doc co jsem měl k maturitě.
+ _L_u_-_T_z_e [Muž]23 [Kategorie]
+10.09.2006 14:55:09
+Najdi si někoho, kdo ti přeinstaluje systém a máš to
+ ffffffff
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+
