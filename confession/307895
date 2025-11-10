@@ -1,0 +1,178 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+   Otázky - Vzkazy č.307895, vloženo _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+   22.05.2008 11:11:53               _s_t_r_á_n_k_a_]
+   Je to možné...? PC
+   Ahojky, je možné aby dva různé počítače měly stejné ID??? Myslím že
+   ne... ale i tak? ví to někdo?
+    Verutýnka [Žena]19  _V_Y_M_A_Z_A_T
+   Tato zpověď byla vyřazena z hlavní stránky!
+
+      Pro hlasovali: kristusek, kostelnice, vjoo, vesalia, Umbra
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+22.05.2008 15:59:03
+jinak me napad teoretickej pripad kdy je mozne mit vic stejnych ip na jedne
+LAN a kolize nenastane ;-).
+ _V_e_l_d_r_a_n_e [Muž]34 [Kategorie]
+22.05.2008 14:55:37
+IP? možné to je ale co by člověk z té kolize měl?...
+ poi
+22.05.2008 14:03:20
+zalezi v jake konfiguraci to myslis - ano pouziva se tzv NAT (neboli preklad
+adres) kdy pocitace se navenek tvari jako jako jedno jedine zarizeni pres
+ktera prechazeji na net (coz je pravdepodobne pripad na kterej se ptas). K
+cemu to potrebujes vedet ?
+
+Scenaru je samozrejme vic - pouzivaji se ruzny Clustery (x pocitacu ma stejnou
+ip, ktera se mezi nema preklapi v pripade vypadku), HSRP, ruzny balancery,
+reverzni proxy, atd atd. to jen kdyby se tu chtela rozvinout diskuse na tohle
+tema ;-))
+ _V_e_l_d_r_a_n_e [Muž]34 [Kategorie]
+22.05.2008 13:49:18
+MSACM2: Pokud jde o strahovske proxy, tak to jsou stroje primo v lokalni
+strahovske siti, ne nejaky anonymni proxy. Driv bylo jejich pouziti jedinym
+zpusobem, jak se pripojit ven. Ted uz to nustnost neni, ale porad tam jsou:D
+ _D_r_e_a_m_i_n_g_f_i_s_h [Muž]99 [Kategorie]
+22.05.2008 12:08:55
+MSACM2: Jj,to je pravda,ale ta nejni vidět..Když například já dostanu tady na
+ZP ban,tak tím zablokuju i jiné uživatele,páč stejnou IP jako já má třeba
+mazlinkaa (aspoň co se už u jednoho banu potvrdilo,dostala ho ona a já byl
+k.o. díky tomu taky,ale v poho..) a další..
+ _E_l_M_a_r_i_a_c_h_i [Muž]34 [Kategorie]
+22.05.2008 11:56:39
+El: Při připojení přes GPRS má stejnou venkovní IP tisíce lidí. A nesouvisí to
+ani s geografickou polohou mobilu.
+Jinak účastníci připojení přes GPRS mají tak zvanou neveřejnou IP adresu,
+většinou začínající nějak 10.xx.xx.xx
+ _M_S_A_C_M_2 [Muž]15 [Kategorie]
+22.05.2008 11:54:42
+To: MSACM2
+
+Aha, OK:-)
+ _A_r_d_n_y_j_ _L_e_w_i_e_c_z_i [Muž]23 [Kategorie]
+22.05.2008 11:54:37
+Pokud máš připojení přez GPRS tak je to možné,protože připojené zařízení v
+danné oblasti se připojují přez jeden danný určitý přijímač a vysílač
+mobilního signálu,ten pak jednotliví zařítení rozlišuje podle zvláštního
+menšího čísla,ale ostatní počítače v internetu vidí už jen IP toho
+přijímače,ne tvou..takže to teoreticky možné je =)
+ _E_l_M_a_r_i_a_c_h_i [Muž]34 [Kategorie]
+22.05.2008 11:54:22
+...jo, připojení přes proxy se samozřejmě stále používá. Ve firmách především.
+ _M_u_s_t_a_p_h_a_ _I_b_r_a_h_i_m [Muž]23 [Kategorie]
+22.05.2008 11:50:12
+MSACM2: Páté přes deváté? Pokud se nemýlím, tak otázka byla zcela jasná "Je
+možné aby dva různé počítače měly stejné IP adresy?". Nikde nebylo nic řečeno
+o jakou síť se jedná - ať už internet nebo maškarádu (NAT).
+Ale je fakt, že jsem to asi řekl trochu nešikovně - stává se tomu v tomu
+určených sítích, ale ne v rámci jedné sítě - v tom případě dochází ke kolizi.
+Ardnyj Lewieczi: Řekl jsi to v dobře ;-)
+ _M_u_s_t_a_p_h_a_ _I_b_r_a_h_i_m [Muž]23 [Kategorie]
+22.05.2008 11:48:02
+Andryi: Měl jsem na mysli proxy v místní síti, ne nějaké anoynmní proxy na
+internetu.
+Kdysi se to ještě používalo například ve škole - přístup přes proxy server,
+ale už od toho taky upustili. Když se přistupuje přes Proxy, tak ten lokální
+počítač v podstatě přístup k internetu ani nemá. Má jen zprostředkovaný
+přístup přes proxy.
+ _M_S_A_C_M_2 [Muž]15 [Kategorie]
+22.05.2008 11:45:47
+Verutynka:
+Je to mozne a v pripade ze je spatne nastavena sit tak jsou problemy s
+kolizemi IP adres dost caste. V pripade ze Ti adresu prideluje server DHPC
+ktery bezi na Tve siti tak kontaktuj spravce site. V pripade ze mas nastavenou
+fixni IP tak zkus zapnout automaticke ziskani adresy z DHCP a pokud to nebude
+fungovat tak zase spravce site.
+ _3_D_F_X_4_e_v_a [Muž]46 [Kategorie]
+22.05.2008 11:40:39
+To: MSACM2
+
+Ale to víš, že používá! :-) Na celé strahovské síti je možné a hojně využívané
+připojení přes proxy, zvlášť když máš privátní adresu.
+ _A_r_d_n_y_j_ _L_e_w_i_e_c_z_i [Muž]23 [Kategorie]
+22.05.2008 11:36:37
+V zásadě to nejde. To by byl pak na internetu neskutečný nepořádek - adresa
+musí být jednoznačná, to by jinak nebylo možné rozlišit ty dva počítače v
+rámci internetu, jevily by se jako jeden. Ale ve speciálních případech to tak
+může být - například některé firmy mají jednu IP adresu pro server, který
+obstarává styk se "světem" a uvnitř sítě mezi sebou jsou rozlišeny jakýmisi
+"vnitřními" IP adresami. A když pak někdo něco pošle/udělá na jakémkoli
+počítači v rámci firmy, putuje to na ten server, na tu "vrátnici", která má
+svoji IP a potom se to jeví, jako by všechno posílal a přijímal jen ten jediný
+server.
+
+Nejsem sice takový odborník, jako Mustapha Ibrahim, ale snad jsem to vysvětlil
+dobře - ?
+ _A_r_d_n_y_j_ _L_e_w_i_e_c_z_i [Muž]23 [Kategorie]
+22.05.2008 11:34:42
+Mustapha: Mám pocit že plantáš páté přes deváté.
+Ne každý počítač má unikátní IP adresu v dané síti, kdyby měl stejnou jako
+jiný počítač, tak v této síti dojde ke kolizi.
+Z internetu se ale může několik počítačů jevit jako z jedné IP, a to proto, že
+to jsou počítače v jedné LAN, které přistupují do Internetu pomocí routeru s
+NATem - překlad IP adres. Ti pak na lokálních stanicích má IP sice každý svou
+- z privátního rozsahu - obvykle nějaký sociální humus typu 192.168.0.1 atd.
+ale z netu se jeví všichni jako třeba 82.21.18.63. Pak je možné být k netu
+připojen v místní síti přes Proxy server, ale to už se snad skoro nepoužívá.
+ _M_S_A_C_M_2 [Muž]15 [Kategorie]
+22.05.2008 11:25:46
+Ano, je to možné (tedy obzvlášť v IPv4), stává se to především v tomu určených
+sítích 10., 172., 192 (a samozřejmě 127.0.0.1)... Horší je to s MAC adresou -
+ta by měla být pro každé síťové zařízení unikátní.
+Tak a máš to :-)
+[Smajlík]         [Muž]23 [Kategorie]
+ _M_u_s_t_a_p_h_a_ _I_b_r_a_h_i_m
+22.05.2008 11:20:58
+bože....:D jo omlouvám se:D IP adresu... ( chybička se vloudila....)
+[Smajlík]
+ Verutýnka
+22.05.2008 11:20:33
+Svůj příspěvek jsi vložil(a) do nespravné kategorie. Bylo provedeno přesunutí.
+V případě opakování hrozí blokování vstupu na portál. Prosím zvol příště
+správnou kategorii. Děkujeme za pochopení.
+[Smajlík]      [Muž] [Kategorie]
+ _A_d_m_i_n_i_s_t_r_á_t_o_r
+22.05.2008 11:19:59
+Co myslíš tím "ID"? Nemyslíš náhodou IP adresu?
+ _A_r_d_n_y_j_ _L_e_w_i_e_c_z_i [Muž]23 [Kategorie]
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+
