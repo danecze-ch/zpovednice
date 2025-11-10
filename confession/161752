@@ -1,0 +1,395 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+Diskuze č.161752, vloženo 28.10.2006 16: _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+14:02                                    _s_t_r_á_n_k_a_]
+Hádanka
+Ahoj, neznáte někdo řešení týhle hádanky?
+
+Je 100 vojáků. Po bitvě jich je 70 bez oka, 75 bez ucha, 80 bez ruky a 85 bez
+nohy.
+Jaký je minimální počet vojáků, kteří přišli o všechny části?
+
+(jestli to někdo vyluštíte, můžete napsat i řešení, prosím?)
+
+Děkuju
+ nevim si s ní rady [Žena]18  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+01.11.2006 11:10:54
+Klok: Díky za pochvalu, jseš hodný. Mně připadá přirozené vidět problémy hned
+zkraje v celém rozsahu, nezabývám se zjednodušováním... vůbec mě takový způsob
+uvažování nezmáhá. Tato úloha existuje nezávisle na formulaci zadání autora
+otázky. Jeho otázku přijímám a chápu ji jako všetečnou. Je jasné, že jsi mé
+řeči porozuměl. Až na důkaz v plném rozsahu pro úvahu Noty, došlo ke shodě. Ke
+Tvému rozšířeni o rovnici s pěti dynamickými proměnnými bych ještě měl nějaké
+výhrady technického charakteru (ta možnost převodu do exaktního matematického
+zápisu). Řešení Noty jsem označil jako velmi elegantní a průzračně jednoduchou
+úvahu (v jiné diskusi)... to mne zaujalo v jejím případě nejvíce :o)
+
+Díky za rozhovor.
+ _U_r_v_i_s_u [Muž] [Kategorie]
+01.11.2006 09:43:04
+Urvisu:
+Tvé úvahy jsou typický příklad úsloví "jít s kanónem na vrabce".
+
+Takže:
+1. Tvá snaha o úplný popis množiny přípustných řešení je sice chvályhodná, ale
+naprosto neadekvátní zadání úlohy.
+Pokud úloha zní "Najděme minimální hodnotu, která splňuje dané podmínky",
+přijde mi přirozené nejprve jednoduchou úvahou (Komo) najít dolní omezení pro
+onu minimální hodnotu.
+Pokud pro tuto hodnotu existuje řešení, které splňuje podmínky úlohy, je to
+ÚPLNÉ řešení úlohy. Popis ostatních přípustných řešení je NADBYTEČNÝ, protože
+žádné z nich už nemůže být lepší.
+2. Tvá výhrada k důkazu postupu noty brevis je neoprávněná, protože rozšíření
+její úvahy o rovnici, která vyjadřuje vazbu rozdělení vojáků podle počtu
+chybějících orgánů na celkový počet chybějících orgánů popisuje CELÝ stavový
+prostor přípustných řešení. Úvaha, která vyloučila řešení obsahující vojáky s
+méně než 3 chybějícími orgány omezila tento stavový prostor na jediné
+minimální řešení. Výsledné řešení dokonce popisuje i rozdělení handicapů,
+takže je zcela zřejmé, že je přípustné.
+ _K_l_o_k [Muž]44 [Kategorie]
+01.11.2006 03:07:43
+Kloku: :o) jdeme na to.
+
+Ve svém řešení jsem dospěl k číslu 10 (což je správné řešení), přičemž jsem se
+nevyhnul popisu 'množiny všech řešení', a to přesným popisem čtyř podmnožin
+pro 'vojáky s jednotlivými handicapy' a určením jejich vzájemného průniku,
+který jednoznačně vyjadřuje 'minimální počet vojáků se všemi handicapy'.
+Přesně o to mi šlo. Jak Komo, tak i Nota se vyhnuli popisu 'množiny všech
+řešení' (což je neprázdná množina celých čísel 10 až 70, tedy seshora
+limitovaná počtem těch, co nemají oko / ale opět - to je jen logický,
+matematickým zápisem nepodložený vývod).
+
+Není až takový problém 'uvidět' dílčí hodnoty řešení ve speciálních případech
+funkčních hodnot. Ty lze skutečně intuitivně i odhadovat. Problém nastává při
+přesném (souhrnném) popisu 'všech řešení' nějakým rozumným, adekvátním
+matematickým aparátem. V daném případě by pro popis obecného řešení byly
+aritmetické rovnice k ničemu.
+
+Tvůj důkaz pro Koma se omezuje pouze na speciální případ funkční hodnoty
+(navíc se jedná o pouhou 'lehčí' logickou úvahu, nikoliv matematicky
+jednoznačný zápis... 'MOHOU být disjunktní'... 'a proto je řešení PŘÍPUSTNÉ').
+
+Tvůj důkaz úvahy Noty je správný, nicméně se opět vyhnul POPISU 'množiny všech
+řešení' a tedy i důkazu tohoto POPISU.
+
+Já jsem tuto úlohu pojal prostě komplexně... připadá mi to zábavnější a
+neskonale složitější pro zjištění jednoduchého, elegantního výsledku :o)
+
+Zmínil jsem se dříve o 'vyčerpávajícím řešení' úlohy. Tak mne i pochop. Dobrý
+pocit ze správného odhadu a výpočtu speciální funkční hodnoty (a tedy i
+NEÚPLNÉHO důkazu, navíc pouze v symbolickém náznaku), vám z celého srdce (LOL)
+přeji. Mně však ke spokojenosti a pocitu vítěze nad problémem nestačí.
+
+*******************
+
+Tak co myslíš, Kloku?... ozvi se ještě. Zdravím.
+
+Btw... prozradím Ti i to, že mám nadále pochybnosti o správnosti svého
+komplexního řešení. Chtělo by to sestavit kombinatorické rovnice... nevládzem
+:o), tak hodně zase Zpovědnici nemiluju.
+ _U_r_v_i_s_u [Muž] [Kategorie]
+31.10.2006 21:21:50
+Klok: 'Tvé řešení není sice přímo špatné, ale je značně neefektivní až
+zmatené. 4 krát provádíš formálně stejnou úvahu (jen měníš pořadí handicapů) a
+(překvapivě) 4 krát dojdeš ke stejnému výsledku.'
+
+... z tohoto textu je zřejmé, že množinám nerozumíš anebo máš pouze
+namemorované vědomosti. 'Jen' měnit pořadí handicapů bylo nutné kvůli
+čtyřnásobnému popisu čtyřech různých množin. Slovní řešení, ke kterému jsem
+přistoupil, bylo s zohledněno lidmi, kteří by nerozuměli matematickému zápisu
+logických operací. Slovo překvapivě má emocionální podtext... s emocemi nemá
+matematika nic společného, takže matematik tělem a duší nejspíš nebudeš. Teď
+si skočím na jedno a vezmu si Tvoje důkazy do kapsy k prostudování :o). Pak
+dám vědět.
+
+Zatím...
+ _U_r_v_i_s_u [Muž] [Kategorie]
+31.10.2006 13:25:22
+Urvisu:
+Tvé řešení není sice přímo špatné, ale je značně neefektivní až zmatené. 4
+krát provádíš formálně stejnou úvahu (jen měníš pořadí handicapů) a
+(překvapivě) 4 krát dojdeš ke stejnému výsledku.
+
+Proto bych dával přednost řešení, které předložili Komo a nota brevis a rád ti
+je doplním o důkazy.
+
+1. Komo:
+minimální počet těch, kterým chybí 4 orgány = celkový počet - maximální možný
+počet těch, kteří mají alespoň 1 orgán v pořádku = celkový počet - počet
+dvouokých - počet dvouuchých - počet dvourukých - počet dvounohých = 100 - 30
+- 25 - 20 - 15 = 10. Počty těch, kterým nějaký orgán zbyl, už nenafoukneš.
+K úplnosti je ale třeba dokázat, že řešení s pouze 10 totálními invalidy je
+opravdu možné. Vzhledem k tomu, že součet velikostí množin vojáků s konkrétním
+funkčním orgánem je menší než celkový počet, tyto množiny mohou být
+disjunktní. A proto je řešení s 10 totalkriply přípustné.
+
+2. nota brevis:
+Také správné úvaha - 100 vojákům chybí 310 orgánů - to lze přepsat jako
+rovnici:
+
+310 = 0* počet plně zdravých + 1*počet těch, kterým chybí jeden orgán + 2*
+počet těch, kterým chybí 2 orgány + 3*počet těch, kterým chybí 3 orgány +
+4*počet plně handicapovaných.
+
+Pro minimalizaci možného počtu plných invalidů stačí předpokládat, že existují
+pouze vojáci se 3 a 4 chybějícími orgány. Každý méně postižený by při pevně
+daném součtu zvýšil potřebu plně postižených k dorovnání počtu chybějících
+orgánů.
+Po přidělení "povinných" 3 chybějících orgánů celé stovce stále někomu chybí
+10 orgánů. Vzhledem k tomu, že každému už 3 orgány chybí, nelze někomu sebrat
+další 2, ale musíme 10 různým vojákům sebrat 1 orgán a udělat tak z nich plné
+invalidy.
+Opět je třeba dodat, že takové řešení může vůbec nastat (je přípustné). Ale to
+už bylo napsáno u Komova řešení.
+[Smajlík] [Muž]44 [Kategorie]
+ _K_l_o_k
+30.10.2006 22:54:43
+Komo: OK... tohle mne od Tebe zajímalo. Tvoje řešení je špatné. Aritmetickou
+rovnici pro výpočet dynamické proměnné (v rámci zadání slovní úlohy), nelze
+použít. Nelze ji doplnit důkazem. Číselná shoda výsledku je irelevantní,
+logicky nevysvětlitekných rovnic lze v kombinatorických příkladech sestavit
+desítky (viz. např. film 'Dobrý Will Hunting). Tento příklad není v žádném
+případě na myšlenkové úrovni žáků základní školy (i přesto, že by jejich
+kantoři Tvoje řešení akceptovali), jedná se o poměrně složité zadání, mířící
+pro vyčerpávající řešení do prostoru vyšší kombinatoriky - teorie grafů. Tzn.
+takové řešení, které lze současně podložit důkazem.
+
+Doufám, že jseš normální kámoš a nebudeš si to brát osobně. Nemyslím to jako
+čurák, chtěl jsem si jen pokecat o správnosti řešení. Např. nick
+'tajomstvopodruhe' uvedl jako řešení totální píčovinu, kombinaci rovnic s
+číselně shodným výsledkem. Může se stát, že podloží svoji úvahu důkazem. Proč
+ne... každý rok je nutné za něco udělit Nobelovu cenu :o).
+
+Osobně mne velmi zaujalo řešení 'chrámové sboristky', nicku Nota Brevis... to
+je doslova excelentní, velejednoduchá a správná úvaha... nicméně rovněž
+postrádající důkaz. To vše svědčí o jediném... v rámci nevinně položené otázky
+na poměrně složitou matematickou úlohu se sešly v podstatě 3 až 4 nezávislé
+metody řešení. Já jsem doslova konsternován... na Zpovědnici bych očekával
+pubertální přidušence, zatímco se zde pohybuje doslova hvězdná intelektuální
+elita. To je bez legrace.
+
+Moje řešení, založené na popisu množin, lze jako jediné (z těch místně
+předložených), doplnit důkazem a zároveň přepsat do matematické symboliky.
+Nicméně je poměrně zdlouhavé. Will Hunting by za několik minut, ne-li vteřin,
+načrtnul graf a poplácal svého 'profesora' po zádech. No, mám ten film docela
+rád :o)
+
+Nazdárek někdy příště, Komo :o)
+ _U_r_v_i_s_u [Muž] [Kategorie]
+30.10.2006 15:55:04
+Urvisu: Sry, ale matematika a některé tvoje výrazy mi naprosto nic neříkaj :D
+Já prostě použil svoje "logický myšlení".
+[Smajlík] [Muž]25 [Kategorie]
+ _K_o_m_o
+29.10.2006 00:17:59
+Komo: Ahoj Komo... prosímtě, mohu se i tebe na něco přeptat?... ty jsi použil
+pro výpočet dynamické proměnné (minimálního počtu vojáků) aritmetickou
+rovnici, jejíž výsledek je vždy jen jediné, konkrétní, reálné číslo....
+vlastně jsi stanovil spodní limitu, což je odpověď na zadání úlohy. Slovní
+úlohy však musí obsahovat i formulaci důkazu. Tahle aritmetická rovnice by šla
+doplnit nějakým důkazem?... tak, aby bylo řešení úlohy úplné? Ptám se, protože
+v tom nemám jasno. Dík.
+
+Btw... prostě mám jen podezření, že aritmetický výpočet by nešel doplnit
+důkazem. Ve tvé rovnici se totiž explicitně říká, že 90 vojáků má všechny
+části... což je pravdivostní výrok s hodnotou 'false'. Tohle je vážně úloha
+pro žáky základní školy?
+ _U_r_v_i_s_u [Muž] [Kategorie]
+28.10.2006 22:24:48
+tajomstvopodruhe: Ahoj. Chci se jen zeptat... '100-90=10' ... tuhle rovnici by
+jsi vysvětlil jak?
+ _U_r_v_i_s_u [Muž] [Kategorie]
+28.10.2006 22:21:04
+Minimální počet je deset, ne?
+Jsem to počítal nějak stylem je 85 beznohejch, no a z těch 80 bezrukejch jich
+tedy maximálně může být 15 s nohama (celkový počet, 100, mínus 85 beznohejch).
+Pak máme teda minimálně 65 takovejch, co nemaj ani nohu ani ruku. Stejnym
+způsobem tam zaškatulkuju bezoký a bezuchý a vyjde mi 10.
+Když tak na to koukám, šlo by to i "jednodušeji": Od stovky odečtu počet těch,
+co maj obě nohy, pak těch, co maj obě ruce, obě oči a obě uši a vyjde 10.
+100 - ( (100-85) + (100-80) + (100-75) + (100-70) ) = ?
+100 - (15+20+25+30) = ?
+100 - 90 = 10
+Ale tohle by dokázal spočítat i trochu chytřejší žák základní školy. Mně už to
+tak rychle nemyslí.
+[Smajlík] [Muž]25 [Kategorie]
+ _K_o_m_o
+28.10.2006 22:07:23
+100 vojakov
+400 organov
+organov chyba 310
+100-90=10
+
+asi
+ tajomstvopodruhe
+28.10.2006 21:39:54
+Xenn: Sorry, už to funguje, blokování bylo automatické při kopírování shodného
+řetězce znaků do pole reakcí. Omlouvám se administrátorům webu Zpovědnice a
+nicku Ilustrace za své nařčení :o)... stane se.
+ _U_r_v_i_s_u [Muž] [Kategorie]
+28.10.2006 21:34:48
+xenn: Jelikož někdo z administrátorů webu Zpovědnice započal s šikanou nicku
+Urvisu a zablokoval přístup na můj samostatný příspěvek s řešením hádanky, na
+což mám jako autor řešení plné právo (pravděpodobně na popud ješitného nicku
+Ilustrace), tak pokračuj s event. reakcemi zde. Nazdárek.
+ _U_r_v_i_s_u [Muž] [Kategorie]
+28.10.2006 21:23:19
+* chyba v textu definice podmnožin... ve třetím odstavci namísto '80 je
+takových, kteří nemají ucho' patří '80 je takových, kteří nemají ruku'. Sorry
+:o)
+ _U_r_v_i_s_u [Muž] [Kategorie]
+28.10.2006 20:06:28
+množiny a diagramy - viz Urvisu, kontrolovat se mi to nechce
+ _Z_o_m_b_i_e_ _3_6 [Muž]41 [Kategorie]
+28.10.2006 20:02:06
+Urvisu : dik. :)
+ xenn
+28.10.2006 19:51:52
+70 je takových, kteří nemají oko, ale 25 z nich může současně patřit do 25ti
+členné skupiny těch, co mají ucho... dalších 20 z nich může současně patřit do
+20ti členné skupiny těch, co mají ruku... a dalších 15 z nich může současně
+patři do 15ti členné skupiny těch, co mají nohu............... zbývá 70-
+(25+20+15)=10, kteří mají současně minimálně jeden z dalších handicapů
+
+75 je takových, kteří nemají ucho, ale 30 z nich může současně patřit do 30ti
+členné skupiny těch co mají oko... dalších 20 z nich může současně patřit do
+20ti členné skupiny těch, co mají ruku... a dalších 15 z nich může současně
+patřit do 15ti členné skupiny těch, co mají nohu............... zbývá 75-
+(30+20+15)=10, kteří mají současně minimálně jeden z dalších handicapů
+
+80 je takových, kteří nemají ucho, ale 30 z nich může současně patřit do 30ti
+členné skupiny těch co mají oko... dalších 25 z nich může současně patřit do
+25ti členné skupiny těch, co mají ucho... a dalších 15 z nich může současně
+patřit do 15ti členné skupiny těch, co mají nohu............... zbývá 80-
+(30+25+15)=10, kteří mají současně minimálně jeden z dalších handicapů
+
+85 je takových, kteří nemají nohu, ale 30 z nich může současně patřit do 30ti
+členné skupiny těch co mají oko... dalších 25 z nich může současně patřit do
+25ti členné skupiny těch, co mají ucho... a dalších 20 z nich může současně
+patřit do 20ti členné skupiny těch, co mají ruku............... zbývá 85-
+(30+25+20)=10, kteří mají současně minimálně jeden z dalších handicapů
+
+Takto popsané 4 podmnožiny mají společný průnik 10 mužů... tzn. minimální
+počet vojáků, kteří nemají všechny čtyři části je roven číslu 10.
+
+Jedná se o řešení, vyvstalé ze slovního popisu množin. Řešení lze zapsat
+rovněž množinovou matematickou symbolikou, pomocí operátorů Booleovské
+algebry, anebo použít kombinatorické rovnice.
+
+Pokud jsem navrhnul chybné řešení, omlouvám se a jsem blbec. Urvisu
+ _U_r_v_i_s_u [Muž] [Kategorie]
+28.10.2006 18:12:20
+Ty dělás na VZP, že??? :-)))
+[Smajlík]     [Žena] [Kategorie]
+ _x_x_A_m_a_z_o_n_k_a_8_1
+28.10.2006 18:06:18
+to nevimsisnirady : pokud teda myslis "...vojaku, kteri prisli o vsechny 'vyse
+uvedene ' casti ..."
+ xenn
+28.10.2006 18:01:41
+souhlasím s "nota brevis "
+
+PS: docela maso, ne?
+[Smajlík] [Muž]29 [Kategorie]
+ _R_V_L_-_X
+28.10.2006 17:56:23
+minimalne 45 vojaku
+ xenn
+28.10.2006 17:51:31
+666
+[Smajlík] [Muž]30 [Kategorie]
+ _s_u_v_u_r_o_v
+28.10.2006 17:49:38
+doprdelelk tak to fakt nevim
+ _F_i_l_e_m_o_n_a [Žena]18 [Kategorie]
+28.10.2006 17:44:46
+10 - podle mého
+Řešení ti napsat nemohu, přišla jsem na to úvahou:
+Vojáků je 100, orgánů je 310. Na na každého tedy vyjdou minimálně 3 orgány, na
+10 z nich pak 4 orgány. 270 + 40 orgánů. Tak?
+
+:-)
+ _n_o_t_a_ _b_r_e_v_i_s [Žena] [Kategorie]
+28.10.2006 17:23:24
+0 - min.
+70 - max.
+[Smajlík] [Muž]49 [Kategorie]
+ _C_h_a_r_l_e_s
+28.10.2006 17:21:41
+co za to? :P
+na hadanky s cisly jsem debil, takze v tomhle moc neporadim... :D
+[Smajlík]    [Žena]18 [Kategorie]
+ _M_e_t_a_l_a_m_i_n_k_a
+28.10.2006 17:10:06
+Podle mě 10.
+ Budulínek
+28.10.2006 16:53:23
+Podle mně je to chyták. Minimální počet těch, kteří přišli o vše, je nula.
+Protože třeba maximálně třicet vojáků mohlo přijít o ucho, ruku a nohu, ale ne
+o oko. A maximálně těch, kteří přišli o vše, je 70 - to je počet nejmenší
+skupiny. 85 jich o oko přijít nemohlo.
+
+Nebo se mýlím?
+ _E_m_i_l_i_e_ _W_e_b_e_r_o_v_á [Žena]30 [Kategorie]
+28.10.2006 16:43:36
+Tak to fakt nevim. Jedině, že bych našel 100 dobrovolníků a vyzkoušel to na
+nich v praxi.
+[Smajlík] [Muž]25 [Kategorie]
+ _d_o_b_y_t_e_k
+28.10.2006 16:36:53
+Hádanka, nebo úkol?
+[Smajlík] [Muž]99 [Kategorie]
+ _D_a_l_e_k
+28.10.2006 16:36:53
+chudáci vojáci... teď se mi nechce přemýšlet...
+[Smajlík] [Žena] [Kategorie]
+ _d_a_r_m_a_r
+28.10.2006 16:23:45
+di někam..
+[Smajlík]  [Žena] [Kategorie]
+ _r_e_d_ _r_o_s_s_e
+28.10.2006 16:17:56
+??????á
+ _C_u_r_t_W_i_l_d [Muž]27 [Kategorie]
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+
