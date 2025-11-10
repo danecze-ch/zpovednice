@@ -1,0 +1,191 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+   Otázky - Vzkazy č.313889, vloženo _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+   17.06.2008 18:20:08               _s_t_r_á_n_k_a_]
+   Nějaké kvalitní dungeony
+   Ahoj, hrávala jsem adventury, ale teď jsem "objevila" tenhle typ her.
+   Jenže po Cardhalii a Bránách Skeldalu nemůžu narazit na žádný kvalitní
+   dungeon. Neznáte nějaký? Díky
+    už fakt nevím [Žena]24  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+24.05.2011 21:32:01
+Aho j..poradí mi někdo hru Realms of Arkania3...jsme koupil z netu ale je na
+zedečku a ja ji neumim nainstalovat do kompu ani přes DOSBOX..nevím jak se mam
+dostat na E:
+prosím poraďte na Wierzb@seznam.cz
+[Smajlík]
+ alda
+18.06.2008 09:42:13
+Dungeon Master, séria Might And Magic, najlepšia Might And Magic VI, z novších
+Morrowind
+ _n_a_s_u_m [Muž]22 [Kategorie]
+17.06.2008 23:26:02
+JO a skoro bych zapoměl na DEMISE - Rise of the Ku'tan
+ _P_ř_e_z_d_í_v_k_a_ _j_e_ _z_a_b_r_a_n_á [Muž] [Kategorie]
+17.06.2008 22:31:08
+3DFX4eva: Jojo, díky, snad to rozběhnu.
+ už fakt nevím
+17.06.2008 22:17:29
+PS
+Sorry za spoustu preklepu... jak pisu rychle tak to nemam pod kontrolou :-).
+ _3_D_F_X_4_e_v_a [Muž]46 [Kategorie]
+17.06.2008 22:15:23
+Uffff :-(.
+
+Tohle bude trosku slozitejsi :-). DOSBOX je emulator ktery na Tvem modernim PC
+vytvori virtualni pocitac se starym MS DOSem pod kterym behaly tyhle starsi
+hry. Zacni tim ze si na disku "C" ve Tvem PC udelas slozku kam si das hru
+kterou chces honit pod DOSBOXem. Udelaj na C disku napriklad slozku "HRY" a v
+ni udelaj podlsozku "LOL" ktera bude obsahovat samotnou hru Lands of Lore.
+
+Pak je treba spustit DOSBOX tak aby jsi mu ukazala kde jsou hry ktere pod nim
+chces poustet - to udelas tak ze spustis DOSBOX s parametrem cesty ke slozce
+ktera obsahuje Tvoje hry. Takze pokud jsou hry ve slozve "HRY" na disku C tak
+pustis DOSBOX prikazem "dosbox.exe c:\hry" a tim DOSBOX vi ze ma pouzit slozkz
+HRY na disku "C".
+
+Jakmile takhle DOSBOX spustis tak bude treba pod nim spustit hru. Ve starem
+DOSu nebyly zadne ikonky na ktere se klikalo a vsechno se delalo vypisovanim
+prikazu. Pokud jsi udelala vsechno jak jsem psal vyse tak v okne dosboxu napis
+prikaz "CD LOL" a dej enter. Prikaz CD znamena "jsi do slozky" takze timhle
+prikazem jsi se presunula do slozky LOL ve ktere je hra Lands of Lore. Ted
+musis hru spustit. Nevim jakou verzi LOLu jsi stahnula ale moje disketova
+verze se spousti prikazem "lands.exe" a stiskem enteru.
+
+Hra by ted mela nabehnout ale je mozne ze nepujde zvuk. Pokud se to stane tak
+vyskoc ze hry zpatky do DOSBOXu a spust soubor "setup.exe" a enter. V DOSu se
+stare hry nenastavily samy jako pod Windows ale muselo se to udelat rucne. V
+setupu bude treba nastavit zvukovou kartu Sound Blaster PRO nebo Sound Blaster
+16. Kdyz pak zase pustis hru prikazem "lands.exe" a enter. Tak by uz mel valit
+i zvuk.
+
+Bohuzel, pokud jsi nikdy nedelala s DOSem tak se tohle vysvetuje moc spatne
+ale doufam ze jsem takhle aspon trosku pomohl.
+
+Muze se stat ze hra pod DOSBOXem pojede prilis pomalu ale pokud by se stalo
+tohle tak to bychom poresili jindy... uz me brni prsty od psani :-).
+ _3_D_F_X_4_e_v_a [Muž]46 [Kategorie]
+17.06.2008 22:02:35
+3DFX4eva: Jednak nemůžu nikde najít tu lepší verzi Lands of Lore ke stažení a
+jednak mi ta starší nejde spustit. Ten DosBox jsem si stáhla a nainstalovala,
+ale nevím, jestli s tím mám dělat ještě něco jinýho.
+ už fakt nevím
+17.06.2008 21:58:19
+už fakt nevím:
+Co nejde spustit?
+ _3_D_F_X_4_e_v_a [Muž]46 [Kategorie]
+17.06.2008 21:53:52
+Heh, jenže mi to nějak nejde spustit :-(
+ už fakt nevím
+17.06.2008 21:46:14
+uz fakt nevim:
+Jestli se Ti libil Skeldal tak rozhodne ten Lands Of Lore. Skeldal vznikal
+puvodne jako hra ktera byla velice inspirovana LOLem a pro kterou byl LOL
+vzorem ktery se autori Skeldalu pokusili prekonat (coz se IMHO nepodarilo).
+
+Pokud by jsi LOL hledala na netu tak vrele doporucuju misto puvodni disketove
+12MB verze stahnout cca 170MB CD verzi. Ma opravene nektere chybky a hlavne je
+kompletne a spickove nadabovana a obsahuje kvalitnejsi zvukove efekty.
+ _3_D_F_X_4_e_v_a [Muž]46 [Kategorie]
+17.06.2008 20:10:04
+Tvůj nepřítel: Brány Skeldalu jsem právě nedávno dohrála a teď nemůžu na nic
+kvalitního narazit. Ale vyzkouším to, co mi tu ostatní radí.
+ už fakt nevím
+17.06.2008 19:49:24
+A brány skedalu jsou dobrý.
+ _T_v_ů_j_ _n_e_p_ř_í_t_e_l [Muž] [Kategorie]
+17.06.2008 19:44:48
+Díky, vyzkouším.
+ už fakt nevím
+17.06.2008 19:36:42
+Jak se jmenovala ta stará... hmm přemýšlím... na amize... jo už vím... black
+crypt - to je fakt hard-core!
+ _T_v_ů_j_ _n_e_p_ř_í_t_e_l [Muž] [Kategorie]
+17.06.2008 18:54:36
+Výborné jsou Stíny nad Rivou.
+ maxipes fík
+17.06.2008 18:48:47
+Pokud mas jako praxi jen tyhle dva tak viz. Gramaticky Demon - Lands Of Lore 1
+(byly i 2 a 3 ale ty staly za prd a nestoji za to je shanet). Stylove velice
+podobny je i Eye Of The Beholder 2 - ma i brasky Eye Of The Beholder 1 a 3 ale
+z hlediska obtiznosti a hratelnosti je nejlepsi prave druhy dil (jednicka byla
+prilis jednoducha a omezena a trojka zase prilis narocna). Uzasne propracovane
+ale bohuzel uz narocnejsi jsou Ultima Underworld 1 a 2. Podobny styl ma i
+Arena a Daggerfall ktere nabizeji obrovsky a velice rozsahly svet s obrovskou
+spoustou moznosti a volnosti co se tyce vyvoje postavy a questu. No a pak je
+tady klasika a zakladatel zanru dungeonu - Dungeon Master 1 a jeho skvely
+nastupce Dungeon Master 2. Dalsi moznosti jsou treba Ravenloft 1 a 2, serie
+Wizardry, Ishar 1,2 a 3, Betryal at Krondor a fura dalsich. Ale jako nejlepsi
+bych videl ten Lands Of Lore 1 a pak pripadne zkusit Dungeon Master 2, Eye Of
+The Beholder 2, Ultimu Underworld 2, Arenu nebo Daggerfall.
+
+Pro vetsinu tehle her budes potrebovat bud pocitac s MS DOS 6.22 coz je dneska
+dost obtizne sehnatelne a nebo je muzes na modernich PC provozovat pod
+emulatorem DOSu DOSBOX _w_w_w_._d_o_s_b_o_x_._c_o_m_ .
+
+Pokud by jsi mela zajem tak mam vetsinu tehle her stale na disku. K vetsine z
+nich bych nekde dohledal i manualy a navody (u nekterych dungeonu jako je
+treba Dungeon Master jsou nezbytne protoze obsahuji navody na michani kouzel
+bez kterych se hra neda dohrat).
+ _3_D_F_X_4_e_v_a [Muž]46 [Kategorie]
+17.06.2008 18:47:35
+Wizardry 7
+Krondor
+Dungeon Master 2
+
+to jsou klasiky...
+z novych moc nevim...
+ sddjkasddfasd
+17.06.2008 18:31:45
+Wizardry
+ _P_ř_e_z_d_í_v_k_a_ _j_e_ _z_a_b_r_a_n_á [Muž] [Kategorie]
+17.06.2008 18:26:22
+ooou jéé, narazila jsi na správnýho člověka :))
+
+Lands of lore: Throne of chaos :) Naprostá klasika žánru a moje neoblíbenější
+hra z dětství.
+
+Download tady: _h_t_t_p_:_/_/_t_i_n_y_u_r_l_._c_o_m_/_4_v_k_5_x_g
+[Smajlík]         [Muž] [Kategorie]
+ _G_r_a_m_a_t_i_c_k_ý_ _d_é_m_o_n
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+

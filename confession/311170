@@ -1,0 +1,148 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+   Otázky - Vzkazy č.311170, vloženo _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+   05.06.2008 23:33:08               _s_t_r_á_n_k_a_]
+   Matematika:(
+   Ve škole jsme dostali tuhle úlohu:( já si s ní nevím vůbe rady:( jsem
+   asi hloupá, ale nic moc mi to neříká.. není tady někdo kdo by s tím uměl
+   trochu hnout?:( všem moc děkuju.
+
+   Do koule s poloměrem r, kde r = 20 vepište rotační kužel, který má
+   největší objem. Určete jeho poloměr, výšku a tento objem. Úlohu vyřešte
+   nejprve obecně včetně podmínek, číselných oborů i příslušných jednotek.
+   Konkrétní řešení pak vypočítejte pomocí MATLABu s přesností na 4
+   desetinná místa.
+    Quit [Žena]17  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+25.05.2011 00:42:20
+ČO TI JEBE? JAKO LIDI Z VUT FCH CHODÍ NA TOTOK WEB? .D
+[Smajlík]
+ ČO TI JEBE
+07.06.2008 00:14:07
+super :D, já k Tvému také ne :)
+ _x_l_u_k_e [Muž]25 [Kategorie]
+06.06.2008 21:18:05
+xluke: nemám :-P
+ vari vari vari
+06.06.2008 21:13:59
+Nějaké otázky k výpočtu?
+ _x_l_u_k_e [Muž]25 [Kategorie]
+06.06.2008 19:51:10
+treba asiatkam to vubec nevadi maj to rady, samy by se nenavonely ani za nic a
+taky ruske holky jsou v pohode
+ sasdasdas
+06.06.2008 02:59:44
+je sry nějak mi to ulítlo
+tady máš i postup _h_t_t_p_:_/_/_u_l_o_z_._t_o_/_4_6_6_8_8_1_/_k_u_z_e_l_._x_l_s_ podle toho bys to už měla
+být schopna dát do matlabu
+ vari vari vari
+06.06.2008 02:27:00
+Jj, souhlas s předchozím. Kýžený (po hrátce s trojúhelníky a opsanou kružnicí)
+vztah
+r(v) = odm(2vR-v^2) [kde R=20, při vší obecnosti].
+Po dosazení do
+V = (pi()*r^2*v)/3,
+budeme chtit tento vztah derivovat dV/dv (a jsme moc rádi, že proměnné tam
+bude jen v). Po derivaci budeme chtít rovnat se nule, po úpravách:
+v = 4*R/3 = [po dosazení] 26,(6per)
+r = 18,856...
+ _x_l_u_k_e [Muž]25 [Kategorie]
+06.06.2008 02:11:36
+tak mě pomocí analýzy vyšlo že průměr podstavy bude 37,7123 výška 26,6666 a
+objem 39715,9367, to obecný řešení bych dohromady dal, ale jak tohle řešir v
+matlabu mě zatím nenapadá a jeětě je možný že sem se v tý analýze sek
+[Smajlík]
+ vari vari vari
+06.06.2008 00:36:18
+Waw! Proboha - co to studuješ?! V sedmnácti pracovat s MATLABem?! To je trochu
+hardcore... A ještě k tomu pro děvče:-) Tý jo, to celé zadání smrdí vázanými
+extrémy, což je svinstvo. To studuješ očistec a máte za profesora samotného
+Satana? :-D
+
+Ten kužel, tím, že podstava musí mít s koulí (o poloměru "R") společnou
+kružnici, má jediný stupeň volnosti. Nejlepší by bylo asi přepsat si jeho
+objem "V" jako funkci jeho výšky "v". Tedy když například
+
+v = 2R
+
+potom - logicky - objem bude nulový. Nejtěžší bude tu funkci najít, v tom ti
+neporadím, s tím se musíš poprat. Ale ono to nebude zas tak složité. Bude tam
+trocha goniometrie, vyjdeš z toho, že se podstava pohybje po kouli (a kopíruje
+ji). Nejdřív si asi vyrobíš funkci r(v), kde "r" je poloměr podstavy kužele
+(která je závislá na té výšce, potože podstava kopíruje kruh, jak už bylo
+řečeno). A pak tam dosadíš vzorec pro objem kužele v proměnných "r" a "v", za
+"r" dosadíš a vyjde ti funkce V(v). Fajn, nakonec vznikla funkce o jedné
+proměnné, takže to nebude zas tak zlé.
+
+No a teď ji zderivuješ a tam, kde je derivace nulová, dostaneš extrémy. Jeden
+z nich bude zřejmě hledané maximum.
+
+Nevím, jestli je to dost srozumitelné, doufám, že to trochu pomohlo - ale
+rozum mi zůstává stát nad tím, kde jsi k téhle fuj úloze přišla...
+[Smajlík]        [Muž]23 [Kategorie]
+ _A_r_d_n_y_j_ _L_e_w_i_e_c_z_i
+06.06.2008 00:24:39
+Promiň, ale nezdá se mi to jako obyčejná matematická úloha pro 17 letou
+studentku. Není to spíš nějaká olympiáda? Já jsem po 15 minutovém kreslení na
+papíře došel k explicitnímu derivování, což se mi moc nelíbí... Jak hodně to
+potřebuješ?
+ _x_l_u_k_e [Muž]25 [Kategorie]
+05.06.2008 23:53:40
+A to si zjistila až ve 23:33?
+ _c_a_r_l_e_t_k_a_2_0 [Žena]25 [Kategorie]
+05.06.2008 23:42:39
+Svůj příspěvek jsi vložil(a) do nespravné kategorie. Bylo provedeno přesunutí.
+V případě opakování hrozí blokování vstupu na portál. Prosím zvol příště
+správnou kategorii. Děkujeme za pochopení.
+[Smajlík]      [Muž] [Kategorie]
+ _A_d_m_i_n_i_s_t_r_á_t_o_r
+05.06.2008 23:42:11
+No a už jste dělali derivace, nebo se to má být trigonometrie?
+ _l_i_b_i_k [Muž]34 [Kategorie]
+05.06.2008 23:35:06
+z objemu kužele si musíš udělat funkci a pomocí derivace vyšetřit její
+maximum. na konkrétní řešení ti ovšem kašlu protože to je nadlouho a navíc to
+stejně pořádně neumím :D
+[Smajlík]         [Muž] [Kategorie]
+ _G_r_a_m_a_t_i_c_k_ý_ _d_é_m_o_n
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+
