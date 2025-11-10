@@ -1,0 +1,112 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+Zpověď č.289487, vloženo 03.03.2008 22: _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+08:35                                   _s_t_r_á_n_k_a_]
+pro dobre fyzikare
+Ahoj...zitra pisem laborku z fyziky a maximalne to nechapu..:(
+Mame napsat jaka nastane zmena (celkova a na ampermetru) na transformatoru se
+dvema civkama o 600 zavitu a o 300 a 600 zavitech...
+Nezna nekdo odpoved?? Prosim..zkuste mi pomoct..jinak mame ctverec.. a ja
+nejak vazne netusim jak to ma byt..sme se ptali par lidi a taky to
+nevedeli..tak prosim ... i za pokusy dekuju. je to pro me strasne dulezite
+ h-e-l-p-l-e-a-s-e [Žena]15  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+04.03.2008 19:48:24
+Bojové plemeno osla, lol.. ty si fakt kar, lebo prud bez zataze = skratovy
+prud ak si este nepocul..
+[Smajlík]
+ einstein
+04.03.2008 03:27:09
+Jde o pomer. Jelikoz 300 ku 600 je jako 1:2, to znamena ze P=U*I, ze napeti
+bude 2x vetsi.
+ Jaj
+03.03.2008 23:42:27
+Tvoje zadání není zcela jasné. Zřejmě máte porovnat dva transformátory. Ten
+první má na primáru i na sekundáru stejný počet závitů a sice 600. Pak je
+napětí primáru i sekundáru stejné a stejně tak je stejný primární i sekundární
+proud.
+Druhé trafo má na primáru 300 závitů a na sekundáru 600 závitů. Poměr závitů
+je 1 : 2 a stejný bude i poměr napětí, tudíž na sekundáru bude dvojnásobné
+napětí, než na primáru. U proudu je poměr opačný, 2 : 1, tudíž primární proud
+bude dvakrát větší, než ten sekundární.
+Jinak, pokud jde o velikost proudu v sekundárním obvodu, tak ta by byla dána
+poměrem velikosti napětí na sekundárním vinutí a velikosti jeho odporové
+zátěže, do níž by bylo nutno zahrnout i vnitřní odpor tranformátoru. Kdyby se
+nejednalo o čistě odporovou zátěž, byla by situace složitější.
+ _R_e_s_e_a_r_c_h_e_r [Muž]81 [Kategorie]
+03.03.2008 22:51:24
+P = U* I
+U = R*I
+a pak jednodušší matematika. Musíš tam mít nějaký odpor (zátěž), abys mohl
+měřit změnu proudu, případně výkonu.
+ _M_u_s_t_a_p_h_a_ _I_b_r_a_h_i_m [Muž]23 [Kategorie]
+03.03.2008 22:31:08
+o žádné zátěži nemluvíš, (einsteine!) takže chceš znát maximální jaký se dá
+odebírat z těch dvou výstupních cívek. Paramatry vstupní cívky ani parametry
+jádra se nemění, takže výkon transformátoru bude stejný.
+Na výstupní cívce s 600 závity bude, jak jistě víš, stejné napětí U jaké
+přivedeš do vstupní cívky. V případě výstupí cívky se 300závity bude na ní
+napětí poloviční. Co se stane s max výstupním proudem si odvodíš ze známého
+vztahu P=U*I Připomínám, že výkon P se nezměnil.
+
+// krucinál, jsem se do toho zamotal . . . Rikitanééé, poď sem! Ty seš za to
+placenej!
+ Bojové plemeno osla
+03.03.2008 22:15:30
+no, tak ak som dobre pochopil, tak to je transformator, ked je na jednej
+strane 600 zavitov a na druhej 300 a 600, takze to sa ti transformuje napatie,
+jeden prevodnik je 1 a druhy 0,5.. o prude nemzoes z tohoto nic povedat, lebo
+nemas ziadnu zataz a bez zataze ti prud moze tiect akurat tak stratovy..
+[Smajlík]
+ einstein
+03.03.2008 22:14:16
+Už zase, lenochu?
+[Smajlík] [Muž]99 [Kategorie]
+ _D_a_l_e_k
+03.03.2008 22:10:34
+tyhle příklady mám rád, ale nikdy nevím jak je mám počítat
+ _V_l_a_d_i_m_í_r_ _Č_e_r_t [Muž]21 [Kategorie]
+03.03.2008 22:09:31
+nebylo to tu dnes už jednou :)
+ _š_k_e_b_l_i_š_š_š_k_a [Žena]17 [Kategorie]
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+
