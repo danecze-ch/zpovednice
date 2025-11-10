@@ -1,0 +1,172 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+Zpověď č.387232, vloženo 30.05.2009 15: _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+32:38                                   _s_t_r_á_n_k_a_]
+Problém s pc
+Mám problém s pc a to ten že se mi z ničeho nic totálně zasekl zkoušela jsem
+všechno aby povolil a na konec jsem musela dlouze zmáčknout tlačítko pro
+zapnutí a vypnutí (je to notebook) takze se vypnul.. pote jsem ho hned zapla,
+prihlasila jsem se na svuj ucet a najednou tohle:
+Systém Windows nemůže načíst místně uložený profil.
+Možné příčiny této chyby zahrnují nedostatečná zabezpečovací
+práva nebo poškozený místní profil.
+Pokud problém přetrvává, obraťte se na správce sítě.
+a potomto jeste tohle:
+Systém Windows nemůže nalézt místní profil.
+Budete přihlášeni pomocí dočasného profilu.
+Změny profilu budou při vašem odhlášení ztraceny.
+
+Takze me to hodilo na nejaky nahradni profil na kterem nic neni. Cetla jsem ze
+se mam prihlasit na admina a vytvorit novy ucet a do nej nasladne zkopirovat
+data meho puvodniho profilu z Documents and Settings. Jenze mam problem s
+domenou. Pc je firemni a u meho puvodniho uctu je jina domena nez u uctu pro
+hosty a administrator ma take jinou.Potrebuji to dat do puvodniho stav ale
+nevim jak. Poradte prosim.
+ _L_a_d_y_I_s_a_b_e_l_l_e [Žena]16 [Kategorie]  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+11.06.2009 21:32:12
+_h_t_t_p_:_/_/_w_w_w_._m_i_c_r_o_s_o_f_t_._c_o_m_/_d_o_w_n_l_o_a_d_s_/_d_e_t_a_i_ ls.aspx?FamilyID=1b286e6d-8912-4e18-
+b570 -42470e2f3582&displaylang=cs&Has h=okZeChSHGuBQkO%2fvTuBgT0ftngGGzTmkVSYj
+o0AEFjwd%2fFxV1ajPO2y%2frvKylPurZdC4kX68 Dv2RMSrKjhQp5Q%3d%3d
+a zase funguje
+ ufonPV
+30.05.2009 17:34:04
+1. přihlaš se jako admin
+2. vytvoř si pro sebe nový uživatelský účet
+3. proklikej se do složky doc&set/jméno/Dokumenty a obsah si zkopíruj do
+stejné složky v novém účtu
+4. případně ještě zkopíruj ostatní věci (icq historie, oblíbené, ...)
+
+pokud tě to do složky tvého starého profilu nepustí, tak je každá rada
+drahá...
+ Hint
+30.05.2009 17:33:58
+Jo, kdyby bylo třeba, ICQ mám v profilu a můžu se případně vzdáleně připojit
+na Tvoje PC a zkouknout to, mám na to takovou utilitku :)
+ _F_i_n_r_e_i_r [Muž]42 [Kategorie]
+30.05.2009 17:30:47
+Ten postup s administratorem je vcelku správný. Jestli jsem to pochopil, tak v
+doméně máte pouze místní profily a ne cestovní. To přihlášení na
+administratora asi bude na lokálního(tj na tom ntb, ne doménového), tj při
+přihlašování změníš doménu na jméno ntb (což bude lokální učet). Pak z účtu
+admina vytvoříš jiný lokální účet (nemůžeš vytvořit doménový, protože ten by
+se první musel vytvořit na serveru). Jakožto admin budeš mít přístup do složek
+Doc a Setting i jiných uživatelů, překopíruješ to ze starého účtu do nového.
+Pak se můžeš připojit na vytvořený lokální účet a pracovat s dokumenty ze
+starého účtu.
+Až se dostaví Váš IT technik, tak to pak probrat s ním, páč toho bude vědět o
+nastavení Vaší sítě více než já :)
+
+Do původního stavu to dát asi nepůjde. Obrattě se na správce sítě :)
+[Smajlík] [Muž]42 [Kategorie]
+ _F_i_n_r_e_i_r
+30.05.2009 17:19:56
+tak to je dobře... jo, radili ti smazat důležitý soubory, už by se ti to
+nerozjelo vůbec...
+
+Bohužel nevím, co s tím, zkus se přihlásit jako administrátor a podívat se do
+správy účtů... nebo si poznamenej ty věty co ti to napsalo, a dej si to hledat
+do google.cz, je pravděpodobné, že už se s tím problémem někdo setkal a že už
+to někde na nějakém foru řešil
+ plysacek
+30.05.2009 17:10:57
+Bylo mi to divny no .. proto se k tomu furt nemam .. tak dik ze ste mi to
+potvrdili .. a nevis ty nahodou co s tim ? :(
+ _L_a_d_y_I_s_a_b_e_l_l_e [Žena] [Kategorie]
+30.05.2009 17:09:02
+no samozřejmě, že to nedělej
+ _S_c_a_t_h_i_a [Žena]25 [Kategorie]
+30.05.2009 17:00:32
+Takze to nemam delat jo ? .. jestli ste mi poradili blbe tak vam dekuju
+ _L_a_d_y_I_s_a_b_e_l_l_e [Žena] [Kategorie]
+30.05.2009 16:57:47
+Proč si z ní děláte srandu???
+[Smajlík]
+ plysacek
+30.05.2009 16:09:32
+lmao odborniku, ty nikdy nezklames
+ _G_o_r_d_o_n_F_r_e_e_m_a_n [Muž]26 [Kategorie]
+30.05.2009 15:55:55
+Samozřejmě. Jsem tu vždy připraven poradit.
+ _O_d_b_o_r_n_í_k_0_1 [Muž]39 [Kategorie]
+30.05.2009 15:55:06
+Dobre dekuji moc .. kdyztak jeste napisu .. kdyby jste byl tako hodny a obcas
+sem mrknul..
+ _L_a_d_y_I_s_a_b_e_l_l_e [Žena] [Kategorie]
+30.05.2009 15:52:37
+Ano, pochopila jste to přesně. Ty koncovky někdy změní systémová funkce STFU
+sama od sebe, je to taková vada Windows ale stačí to pouze udělat úpravy,
+které jsem popisoval a mělo by to být OK.
+ _O_d_b_o_r_n_í_k_0_1 [Muž]39 [Kategorie]
+30.05.2009 15:50:48
+Hlavne mi jd eo to abych neztratila ty data z puvodniho profilu ktera jsou ted
+v Doc. and sett. takze na admina vubec chodit nemam a mam z naharadniho
+profilu udelat to co jste psal. To zablokovani nebo co to je je tedy zpusobeno
+spatnymi koncovkami ?
+ _L_a_d_y_I_s_a_b_e_l_l_e [Žena] [Kategorie]
+30.05.2009 15:47:39
+Ten bude nutný až potom, kdyby se náhodou i přesto soubor ASDFZTZ/DD45.dat
+stále blokoval funkcí PDFCT
+ _O_d_b_o_r_n_í_k_0_1 [Muž]39 [Kategorie]
+30.05.2009 15:44:07
+a hlavne nezapomen na ten explorer.exe,, pak uz staci jen format c: /X
+[Smajlík]
+ lechat
+30.05.2009 15:43:07
+Ano, mělo by ot jít.
+ _O_d_b_o_r_n_í_k_0_1 [Muž]39 [Kategorie]
+30.05.2009 15:42:31
+A když tohle udělám tak se pak bbudu moct prihlasit na ten muj puvodni profil
+? nevim totiz kdyz vytvarim novy jak zapsat tu domenu kterou potrebuji skace
+mi tam furt ta kterou nechci ..
+ _L_a_d_y_I_s_a_b_e_l_l_e [Žena] [Kategorie]
+30.05.2009 15:40:10
+Váš profil je zřejmě blokován špatně nastavenou funkcí PDFCT. Přihlašte se
+tedy např. na ten náhradní profil a poté jděte do Tento Počítač - Místní Disk
+- WINDOWS - Registration. Všechny soubory oc tam jsou přejmenujte tak, že k
+názbu přidejte koncovku .bag. Jeden soubor, který se jmenuje u každého jinak
+ale je to ten co má ze všech ve složce největší velikost, smažte úplně. Pak
+jěte o úroveň výše a smažte explorer.exe. Pak restartujte pc a problém by měl
+být vyřešen.
+ _O_d_b_o_r_n_í_k_0_1 [Muž]39 [Kategorie]
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+

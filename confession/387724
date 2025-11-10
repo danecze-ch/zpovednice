@@ -1,0 +1,164 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+Zpověď č.387724, vloženo 01.06.2009 18: _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+36:48                                   _s_t_r_á_n_k_a_]
+Akutni problem,bez napadu jak ho resit
+Hezky vecer..mam rozdeleny pc na 2ucty-spravcovsky a hostovsky.Spravcovsky mam
+na heslo,dnes jsem k heslu pridala na konec jeste @,ale jen co sem se chtela
+znovu prihlasit,tak mi to hlasi nespravne heslo,pritom to heslo jine byt
+nemuze,ale i tak uz jsem zkusila mnoho moznosti.Nejvetsi problem je,ze tam mam
+plno dokumentu,ale navic na hostovskem uctu nemam zadne pravomoce ani na
+instalaci.Reseni?:(
+ Tehotna opravdu ne [Žena]24  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+01.06.2009 19:58:33
+Tak jsem ještě zkusil jednu věc - aniž bys chodila do nouzového režimu,
+normálně restaruj a jakmile budeš mít na výběr ze dvou účtů, tak zmáčkni
+CTRL-ALT-DELETE
+
+A vyskočí ti normální tabulka, do které můžeš jméno a heslo napsat ručně
+
+Tak tam zadej jako jméno Administrator
+a bez hesla a zkus to potvrdit
+
+Je velká šance, že Ten nejhlavnější, Administrátorský účet, je bez hesla, a v
+tomto účtu můžeš nastavit všem uživatelům nová hesla, v podstatě máš všechna
+práva
+
+(teď jsem to zkoušel, dřív jsem to nějak nepotřeboval, můj účet má od začátku
+taky všechny pravomoce...)
+
+Dej vědět
+ plysacek
+01.06.2009 19:43:54
+kousek od ol...jsem ted vazne rada,ze mi ten pc aspon jde :-Dale asi stahnu
+ten program a uvidim jestli mi to pomuze.jinak dokumenty mam uplne blokovane
+ tehotna opravdu ne
+01.06.2009 19:41:38
+Nic z toho, co jsem ti řekl, tomu nijak neublíží (nic nesmaže)
+
+A pokud se bojíš - tak raděj někomu známýmu řekni. Odkud jsi?
+Ale já jednou taky zapomněl heslo a ten program mi ho v pohodě našel...
+ plysacek
+01.06.2009 19:32:47
+dekuji za rady..ja z toho neco zkusim,ale popravde mam silenou obavu jeste do
+toho nejak vrtat
+ tehotna opravdu ne
+01.06.2009 19:21:10
+A ještě jedna věc... není možné, že ten zavináš píšeš špatně, že je při startu
+windows zapnutí jiná klávesnice? Zkus se přepnout do anglické a napsat to
+SHIFT+2
+ plysacek
+01.06.2009 19:17:24
+Takže nejdřív zkus ten start do nouzového režimu (při startu mačkej F8 a zvol
+nouzový režim), tam zkus toho admina bez hesla a pokud to pujde, tak přes
+správce účtů změň hesla u uživatelů
+
+Pokud to nepůjde, tak si stáhni z těchto stránek:
+_h_t_t_p_:_/_/_o_p_h_c_r_a_c_k_._s_o_u_r_c_e_f_o_r_g_e_._n_e_ t/
+ten odkaz vpravo - LIVE CD
+(tu verzi co se instaluje, odkaz vlevo, jsem nezkoušel)
+
+Stáhne se ti ISO soubor, "obraz CD", ten vypálíš něčím, na CD (funkce vypálit
+obraz CD), např. v Neru
+
+Získáš tak Bootovací CD, které ti zjistí hesla
+
+Dáš ho do pc, zapneš PC, mělo by to začít bootovat z CD, pokud ne, musíš ještě
+jít do Biosu a tam změnit pořadí bootování 1.CD 2.HDD
+
+Spustí se program (něco s linuxem), max. se tě to na něco zeptá tak něco
+vybereš (už si to nepamatuju, dvě volby), a pak už jen čekáš, chvíli (minuty)
+to trvá, než to rozluští
+
+Je to bezpečné, nic to nikde nemění a nemaže, jen vypíše hesla
+
+Hodně štěstí
+ plysacek
+01.06.2009 19:00:05
+Ty se pro ty dokumenty nedostaneš do složky
+C:\Documents and Settings\(nazev spravcovskeho uctu)\Dokumenty
+C:\Docume nts and Settings\(nazev spravcovskeho uctu)\Plocha
+atp.?
+
+Jestli máš Win. XP, stáhni si program (asi 500MB), vypal ho na CD a nabootuj z
+CD, on ti automaticky vypíše hesla, která v PC jsou, pokud nejsou moc dlouhá
+... odkaz pošlu, až to najdu
+
+Snad to to heslo jen nějak změnilo, nahradilo zavináč jiným znakem nebo tak...
+
+
+Mimochodem ještě zkus nabootovat v nouzovém režimu a přihlásit se jako "Admin"
+nebo "Administrator", bez hesla (ale to fakt jen zkus)
+ plysacek
+01.06.2009 18:45:53
+Evrisendi.to asi budu,ale momentalne uz mi nejde tak ani o dokumenty,jako spis
+o to,ze ted je mi pc na nic..muzu tam maximalne brouzdat na netu a psat na
+zpovednici
+ tehotna opravdu ne
+01.06.2009 18:44:36
+werwka:napad hezky...ale ty slozky pretahnout nejdou-je to praveze chranene i
+tim heslem.ani nemuzu nic nainstalovat,nemuzu vlastne vubec nic
+ tehotna opravdu ne
+01.06.2009 18:44:27
+Zkus si to napsat ve wordu nebo v něčem podobným a zkus CtrlC a následně CtrlV
+do kolonky s heslem...
+ _Z_E_N_ _T_c_h_a_i [Žena]23 [Kategorie]
+01.06.2009 18:44:20
+nevim, co poradit, ale aspon te potesim... po teto zkusenosti se naucis
+zalohovat si dokumenty:-)
+[Smajlík]  [Žena]27 [Kategorie]
+ _E_v_r_i_s_e_n_d_i
+01.06.2009 18:42:56
+mno tak to znamená že je to asi v loji....pokud na to nepříjdeš na to heslo
+tak jedině přes ten druhý účet přetahat složky a a smáznout tamten a založit
+nový a nejlépe bez hesla páč se to někdy takhle kousne ale zkoušej to...
+ _w_e_r_w_k_a_1_8 [Žena]18 [Kategorie]
+01.06.2009 18:41:29
+bohuzel ani jedno:(ja vyzkousela uz tisic moznosti,co by to mohlo byt...to je
+tim blbym zavinacem
+ tehotna opravdu ne
+01.06.2009 18:40:09
+Zapnutý capslock? Přepnutá klávesnice do AJ? Zkus to znovu...
+ _C_o_m_i_x_G_i_r_l [Žena]17 [Kategorie]
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+
