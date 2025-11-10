@@ -1,0 +1,652 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+Diskuze č.172390, vloženo 08.12.2006 05: _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+42:14                                    _s_t_r_á_n_k_a_]
+PROBLÉMY TŘETÍHO DRUHU S POČEM
+Chtěl bych se zeptat, jestli níže popsané problémy s počem resp. systémem někdo
+nezažil, popř. neví, o co go.
+Všechno začalo přesně v okamžiku, kdy poprvé selhal zdroj a ihned po detekci
+hadrů se to složilo.Vypojil jsem jeden hadr a pak se to rozjelo.
+A začaly problémy třetího druhu.Systému často zřejmě docházela paměť, místo
+písmen se zobrazovaly čtverečky a kolečka, různě se měnil styl písma i ikonek,
+místo šipek na lištách čísílka(osmičky, čtyřky, šestky :)), padal word a
+vyskytovaly se v něm různé anomálie typu minimalizace písma na skoro
+neviditelné tečky, mizení písmen apod.
+Také poč. hry se po minutě dvou zasekly(i ty min. náročné) a způsobilo to větší
+kolaps celého systému, kdy bylo nutné opět vyndat a zandat kdeco.
+Také systém najížděl jak kdy, jednou to bylo méně a podruhé více stabilní, a
+když jsem měl puštěnej jenom net, příp. ještě tak wmp, tak nebyl problém, ale
+vše bylo hodně nestabilní.
+Nicméně, pokud jsem jel jenom s netem, nebyl problém až do té doby, dokud se
+opět občas nevyčerpala paměť nebo tedy něco jiného(možná problém ohledně
+procesoru), tak to šlo.
+Několik dnů to ještě takhle běželo a pak už se to nerozjelo ani tak.Když jsem
+si trochu pohrál s vyndáním a zandáním kontektoru do zákl. desky, tak se to
+rozjelo(nj, prasárna, ale ty divný paranormální jevy byly docela zajímavý, tak
+jsem to chtěl chvíli nechat:)).
+Takhle jsem to provozoval asi tejden a pak už se to konečně nerozjelo nijak,
+takže jsem byl donucen konečně koupit zdroj, čímž jsem předpokládal, že bude
+vše vyřešeno.Bohužel ne.
+Prvotní příčina problémů byla odstraněna, ale problémy v menší míře, ale více
+méně stále principiálně stejné přetrvaly.Systém je teď o mnoho stabilnější, ale
+veškeré popsané jevy jsou přítomny, jen s menší četností a systém je
+stabilnější.
+Předpokládám, že nestabilní zdroj poškodil některou z komponent, přičemž první
+na ráně byla paměť-tu jsem vyměnil za jinou a problém zůstal.Došlo tedy na
+nejhorší a problém bude asi na trase procesor, nedej vyšší igelit zákl. deska,
+ale nejpravděpodobnější se mi jeví procesor.
+Grafickou kartu a harddisky resp. hlavní hadr bych prozatím jako podezřelé
+vyloučil už proto, že nejpravděpodobnější bude procesor, který je např. při
+wordu dost zatěžován a tam byla největší nestabilita.
+Celou dobu jsem byl přesvědčen, že jde pouze o problém nedostatku systémové
+paměti na základě nedostatečného napájení daných komponent ze zdroje a s novým
+zdrojem bude vše Ok, ale kdoví kde je teď problém, těžko soudit.
+Samozřejmě nelze vyloučit ani nějaký fikaný virus apod., ale vzhledem k tomu,
+že všechny problémy nastaly přesně na vteřinu s prvotním selháním zdroje, tak
+to nevidím jako relevantní a půjde o problém hardwaru.Navíc menší upgrade
+beztak nebude na škodu, když už se s tím budu srát.
+Takže mě bohužel čeká zkoušení a výměna jedné komponenty po druhé a jak se
+znám, viníka najdu dle Murphyho až na poslední pokus a nejlépe to bude nějaká
+naprostá zcela nepravděpodobná píčovina, eh..Vlastně bych byl původně šťastný,
+kdyby byla v hajzlu paměť..teď budu moc rád, když to bude procesorem..Také to
+může být docela pravděpodobně kombinace pomrvení jak procesoru, tak paměti.
+Jinak orientačně mám P III 1Ghz, 256 SDRAM.
+Někde jsem něco četl také o jistých problémech přesně tohoto procesoru..tak
+nevím.
+No, pokud by tu byl kdokoliv, kdo něco podobného zažil, nebo tuší, v čem a v
+jaké komponentě je při takovýchto potížích a syndromech zakopanej čudl, tak by
+mi hodně pomohl.
+Chystám se jako první zakoupit/zapůjčit(eh..) nějakej celer 1200, s celeronama
+mám z dřívějška skvělé zkušenosti.Jen zase nevím, jestli mi deska bere
+procesory nad 1Ghz, protože v manuálu je sice napsaný jen to PIII 1 GHz, ale
+zároveň je tam konstatováno, že je to připravené na další sady procesorů, a
+našel jsem prodávat tu samou desku, kde píše prodávající předseda, že je do 1,6
+GHz.
+Jinak deska je to tahle:
+http://www.gigabyte.com.tw/Products/Mo therboard/Products_Spec.aspx?ProductID=1
+432#
+Všude se bohužel pouze konstatuje, že je pro procesory socket 370 a nic víc,
+nevím tak, jestli na tom vyšší než ten 1GHz rozjedu.
+Klíčové bude: # Supports CPU multiplier 3.0~9.5 for future processors
+# Auto/66/75*/83*/100/112*/124*/133/140*/1 50* MHz FSB.
+Kdyby tu byl nějakej člověk, co ví víc než já, tak by mi moc pomohl.
+Předem díky příp. odporníkovi za pomoc.
+
+alien
+ _a_l_i_e_n_-_n_e_p_ř_í_t_e_l_ _s_t_á_t_u E-MAIL:_[_g_r_a_f_i_k_a_/_m_r_e_f_h_i_._g_i_f_]   [Muž] [Kategorie]  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+08.12.2006 15:12:23
+necet sem celou diskusi ani cely tema ale typoval bych to na vodpalenou desku
+.
+ _s_m_a_z_k_a_ _c_r_e_w [Muž] [Kategorie]
+08.12.2006 13:54:18
+bhagy: Já jsem věrnej, dokud se daná věc či osoba nerozpadne v prach...
+alien
+ _a_l_i_e_n_-_n_e_p_ř_í_t_e_l_ _s_t_á_t_u [Muž] [Kategorie]
+08.12.2006 13:41:39
+Dej to do bazaru a sestav se nové PC, opravovat staré PC je jako spravovat
+staré auto.
+[Smajlík] [Muž]61 [Kategorie]
+ _b_h_a_g_a_v_a_n
+08.12.2006 13:16:49
+depresista: Nejsem svině, nekorektně chodící komponenty buď vyhodím nebo
+prodám do bazaru, kde má kupující aspoň nějakou šanci a bazáč to unese, beztak
+nás všechny okrádaj:)
+alien
+ _a_l_i_e_n_-_n_e_p_ř_í_t_e_l_ _s_t_á_t_u [Muž] [Kategorie]
+08.12.2006 12:45:31
+Jestli ti kleknul jeden hard, tak je zřejmě nakopnutej i ten druhej
+(elektronika) .. takže bych úplně nejdřív programem Norton Ghos naklonoval
+tvůj disk na jinej prázdej (i menší a provizorní) .. a pokud ti to bude běhat
+3 dny bez problémů, tak víš, že musíš stávající disk prodat přes AUKRO jako to
+dělá většina lidí s porouchanejma věcma, co vypadaj, že ještě jdou :))) ..
+vlastní zkušenost (dvě ze tří koupených věcí - moibily díly do PC - maj
+skrytou vadu).
+[Smajlík]
+ Depresista
+08.12.2006 12:42:36
+to Alien:
+"že ať už tě sere intel jakkoliv, ohledně stability her to byla nejlepší
+volba..." to je porad. On figl je v tom ze Intel si vyviji vsechno "in house"
+takze neni problem si koupit pocitac kde je deska/CPU/chipset/grafika/
+zvukovka/sitov ka vsechno od Intela a samozrejme, pak je temer 100% sance ze
+problemy s kompatibilitou nebudou protoze vsechno je od jednoho vyrobce. Dalsi
+vec je ta ze Intel leje obrovske mnostvi prachu do testovani takze pokud neco
+Intel vyda tak je zase slusna sance ze diky tomu casu a prachum co vrazili do
+testovani by zadne problemy nemely byt. Kdyz si pak koupis PC kde je kazdej
+pes jina ves, CPU od AMD, cipset od nVidia nebo VIA a dalsi veci od buhvikoho
+tak je samozrejme vetsi sance ze neco nebude kompatibilni s necim a bude
+nejaky problem. Ale to uz je holt zivot :-).
+
+Jinak GM mas na mailu. Kdyby jsi chtel ten Celer tak jich tady mam hromadu ale
+bohuzel jen 533-633Mhz a jedna 900MHz (9x100). Vsechno rychlejsi 1100MHz a
+vyse uz jsou FCPGA2kove Tualatiny :-/.
+ _3_D_F_X_4_e_v_a [Muž]46 [Kategorie]
+08.12.2006 12:28:14
+Tyhle diskuze mám rád..škoda, že jich tady není víc.Ostatně jsou to obecně na
+netu snad jediné faktické a slušné diskuze, kde se navíc někdy člověk něco
+dozví.
+3DFX4eva: No, já se rád o tomhle víc dozvím, protože kvůli Screamrovi jsem
+měnil asi čtvero desek, hehe.Nakonec to vlastně na tom čistým intelu šlo, ale
+to byl ještě upgrade na p 133..A při dalším na 333 a posléze 466 už to šlo do
+pytle a podle mě kvůli pamětem, který jsou jiný.Když to vytuhlo, hodilo to
+různé řádkové hlášky o memory apod.
+Jinak nějakým běžným nedostatkem paměti to samozřejmě není, ta hra běhala pod
+dosem předtím jako víno donekonečna, ostatně jako každá dobře udělaná hra pod
+dos..to už dnešním věčně vytuhávajícím slátaninám nehrozí..ještě že už to
+nemusím řešit a jen poslouchám kluky na hřišti, jak jim kdeco v xpéčkách pořád
+tuhne..
+Já hraju už jen hry pod dos a vokna 95, kde mám všechno vychytaný a netuhne mi
+nikdy nic.Snažil jsem se naivně pouze rozjet PES..a ani jeden z dílů jsem
+nerozjel, přestože jsem alespoň nad trojkou byl specifikacemi v klidu na
+maximum požadavků,heh..neskutečný svinstvo od konami, kdy to na každým druhým
+nebo prvním systému nejde korektně.Samozřejmě na "vině" je grafárna, ale
+určitě ji kvůli tomu nebudu měnit, nejsem ichtyl, když to nejde kdekomu i s
+nejnovějšíma pentiama a grafárnama.
+Ale to je přesně ono..pak si má někdo kupovat originálky, když nejsou ani
+schopný tu předělávku z konzole doladit za několik let..neskutečný.
+řezník: No, asi jsem to nezažil, protože jsem většinou pracoval se staršíma
+grafárnama a ne těma novejma sopkama:) Tak ok, beru.
+Já mám stařičkej Savage, kterej se ještě nijak nechladí a není problém roky.I
+proto bych do nový grafiky nešel, jedině s pasivním chladičem, protože chci
+tichej poč.
+S tím chipsetem je to ale prdel...vono je to většina stejně už nějakej čas
+vysraný z jedný prdele, čéče:)..takže je to až na výjimky docela fuck.To samé
+grafárny.
+Nicméně za starejch časů platilo, že ať už tě sere intel jakkoliv, ohledně
+stability her to byla nejlepší volba.
+alien
+ _a_l_i_e_n_-_n_e_p_ř_í_t_e_l_ _s_t_á_t_u [Muž] [Kategorie]
+08.12.2006 12:09:12
+Alien:
+"....které se na čistém intelu nesekaly a na jinejch ano..." yep, to byl.
+Presneji, VIA693A a 694X byly jedny z prvnich cipsetu ktere mely podporu AGP4x
+a nektere prvni revize desek s temahle chipsetama si nerozumely s nekteryma
+AGP grafikama (treba moje Abitka). Slusni vyrobci to resili upgradem BIOSu kde
+pribyla v "Advanced chipset control" po zapnuti AGP4x polozka "AGP driving
+control" (nebo tak nejak) jejimz nastavenim se vetsina tehle problemu
+odstranila, jini to resili vypnutim AGP4x obecne nebo na to proste kaslali.
+Ale zrovna v tomhle problemu byla VIA nevinne - problem a jeho reseni bylo
+zdokumentovano a bylo na vyrobcich desek aby problem resili novou verzi BIOSu.
+Ale to uz jdu tezce offtopic takze radeji koncim ;-).
+
+PS
+Pokud by jsi musel koupit novou desku tak se podivej po Intelech D815xxx coz
+byly z hlediska kvality nejlepsi a nejspolehlivejsi desky pro P3 a obcas se
+dneska objevuji za cca 500,- po bazarech nebo po Tyanu nebo po deskach ze
+sestav od Dellu nebo IBM. Bezne mainstereamove desky typu Biostar, Gigabyte,
+Aopen, MSI nebo Asus pro P3 uz budou dneska bohuzel na hranici technicke
+zivotnosti :-(.
+ _3_D_F_X_4_e_v_a [Muž]46 [Kategorie]
+08.12.2006 12:07:03
+grafika co najede a blbne je docela obvykla vec - haze to na obraz ruzny
+artefakt sumy kurvi pismenka apod. byva to vetsinou jejim prehratim nebo tim
+ze bezi na vyssi frekvenci nez ma.
+3dfx: jj jednu cvili byla ta viacka hruza jedinym dostupnym chipsetem pro P3
+ale ze to je shit shitu mi nevymluvis ani za boha, mel jsem to. prvni co byl
+rozumnej byl KT266A na AMD Athlon.
+rikat ze viacky chipsety nejsou shit je stejny jako rikat ze voodoo 1 mela
+peknej obraz. no ale sla pretocit z 50 mhz na 60 coz je docela skok...
+[Smajlík]     [Muž]26 [Kategorie]
+ _o_d_ _R_e_z_-_n_i_-_k_a
+08.12.2006 12:05:47
+3DFX4eva: Dík moc, budu rád, když mi ho pošleš.
+Já jsem samozřejmě v noci projel slunečnici a diagnostikovací programy, ale
+ještě tak přínosnej byl ten, co jsem s ním zjistil všechen hardware a
+software, tedy hlavně mi šlo o tu desku, protože ji mám bez ničeho.Na odkazu
+byl i podrobnej manuál.
+No, takže klasika, ten nárůst nemá smysl, což řeší moji volbu, pokud je něco s
+procesorem a půjdu jako dříve do celeru.
+alien
+ _a_l_i_e_n_-_n_e_p_ř_í_t_e_l_ _s_t_á_t_u [Muž] [Kategorie]
+08.12.2006 11:56:34
+to Alien:
+Ja jsem upgradoval z Celeronu 1000MHz (10x100Mhz) na Pentium 3 (7,5x133MHz) s
+tim ze narust vykonu byl cca 0-20% podle aplikace. Hodne se urychlily treba
+kompresni programy, neco malo to pomohlo videu, u her rozdil v podstate
+nulovy. Nicmene mam podezreni ze zasadni podil na zrychleni melo zvednuti FSB
+ze 100MHz na 133MHz a zrychleni synchronne bezici RAM - slabina VIA cipsetu
+byl pomaly pametovy subsystem takze tech 33MHz tam muze delat dost.
+
+Na testy systemu si zkus stahnout programek Gold Memory - udela bootovaci
+disketu ze ktere nastartujes a on do nekonecna zapisuje a cte bity z operacni
+pameti. Velice rychle tak poznas jestli je s RAM (nebo presneji pametovym
+subsystemem) problem nebo ne a nemusis si kurvit Windows (ono jim tohle
+testovani neprospiva). Kdyz tak Ti ho muzu hodit na mail, ma to par set kb.
+ _3_D_F_X_4_e_v_a [Muž]46 [Kategorie]
+08.12.2006 11:55:04
+3DFX: No, ono s těma chipsetama bejval problém...
+A to třeba s hrama, které se na čistém intelu nesekaly a na jinejch ano.Osobně
+jsem takhle kvůli pro mě jedné spešl hře šaškoval s vícero deskama...nakonec
+ale ono zatuhování bylo zřejmě podle mě způsobeno novým druhem pamětí..Šlo
+resp. jde o geniální závodní hru Screamer.Bohužel na čemkoliv jiném než
+pentiích jedničkách to vždycky brzo zatuhne.
+Vtipné to bylo i z toho důvodu, že na původních pentiích se to na plné detaily
+tak tak hejbalo na nejvyšších řadách, heh.
+Vlastně jsem si teď řekl, že ji v dosu zkusím, když už nic, protože jsem ji
+pod pentiem trojkou ještě nezkoušel, jestli ten zátuh trvá.To mě fakt sere,
+protože jinak jsem na dvojkových celerech všechny staré hry rozjel korektně,
+až na tuhle.
+A teď jen doufám, že ten hokej tuhle jen kvůli současným problémům..a tak když
+tuhne kdeco, tak snad jo.Ale je hnusnej pocit vrátit se do časů NHL 97, které
+dementní EA udělali tak, že to tuhlo snad každému na všech sestavách každej
+druhej třetí zápas, což při sportu jednoho fakt potěší, že.
+řezník: Určitě pořádně nesedí, ale to odjakživa už sto let, hehe:) Bohužel od
+toho spešl kablíku z eiza kdysi někam záhadně zmizel jeden ještě divnější
+napevno šroubek, eh.Grafárna je stará jako metuzalém, ale plní svoji hlavní
+funkci-jde na ní jeden hokej v nestandartním rozlišení, se kterým má hodně
+jinejch karet problém a je s tím pak nekonečné sraní.
+A když nesedí kabel na grafárně, tak se to příp. projeví různejma barvičkama,
+ale ne tímhle..ale to bys měl jako někdo, kdo chce o něčem mluvit, snad vědět:
+)
+Jinak obecně, když je problém s grafárnou, měla by spíš zarazit vše a na
+monitoru nic zpravidla ani nenaběhne.Ale nevím, zatím jsem neměl zkušenost s
+nekorektně fungující grafárnou, co by naběhla, ale nějak blbla.Ale to asi bude
+vědět tadyhle 3DFX.
+alien
+ _a_l_i_e_n_-_n_e_p_ř_í_t_e_l_ _s_t_á_t_u [Muž] [Kategorie]
+08.12.2006 11:40:30
+to Reznik:
+"...chipset VIA je shit ..." Tvoje baba je shit :-). Chipsety jako takove samy
+od sebe neodchazi, stejne jako CPU nebo GPU - jsou to kusy kremiku ktere pokud
+neprehrejes nebo nepouzivas v nejakych hardcore podminkach pojedou roky a roky
+s poruchovosti hluboko pod jednou promile. V drtive vetsine pripadu odchazeji
+desky a ne chipsety. Alienova 694X shit neni, nebo presneji, nebyla - ve sve
+dobe to byl jediny pouzitelny cipset pro Pentia II/III a diky tomu ze to nebyl
+novy cipset ale evoluce starsi 693A tak byl i pomerne bezproblemovy. Problem
+Aliena je spis deska od Gigabyte ktere byly vzdycky v lepsim pripade prumer a
+ted uz je za hranici technicke zivotnosti.
+
+to Alien:
+Sam mam kombinaci VIA 694X (Abit) + P3 1GHz a nektera videa mi taky delaly
+problemy. Vetsinu problemu vyresila kombinace Codec Pack All in One + Power
+DVD jako prehravac. Dal pocitac nezvlada videa v HDTV rozliseni, uz vetsina
+720tkovych videi se trha ale s tim se fakt neda nic delat. Co se tyce Celer vs
+P3 tak Tvuj Celeron mel nejspis FSB 66Mhz nebo 100MHz zatimco P3ka ma nejspis
+133MHz - je mozne ze deska nebo komponenty k ni pripojene nezvladaly vyzsi
+FSB. V pripade ze jsi mel navic pameti na asynchronni frekvenci tak je
+potencialni problem velice pravdepodobny. To ze by P3ky byly "vadne" nebo
+"problemove" je nesmysl - Celerony i P3ky se vyrabely (dodneska vyrabi) na
+jedne vyrobni lince - to jestli bude vyrobeny procesor Pentium nebo Celeron se
+rozhoduje az pozdeji podle toho v jakem stavu CPU vyrobni linku opustilo nebo
+jake jsou obchodni pozadavky.
+ _3_D_F_X_4_e_v_a [Muž]46 [Kategorie]
+08.12.2006 11:34:06
+3DFX4eva: Dík moc, chlape:)
+Jsem sám zvědavej, v čem to bude.
+Divné taky je, že systém ohledně zmíněných jevů běží jednoznačně stabilněji s
+tou 32 pamětí než s tou 256, i když jsou ty jevy samozřejmě u obou
+přítomny.Ale s tou 256 jde word za chvíli do hajzlu, s tou 32 jsem hoďku něco
+psal a no problem.
+Mně to čistě logicky vychází na ten procesor, i když je jasné, že obecně je to
+velmi nepravděpodobné.
+Teď vyzkouším jinou grafárnu.
+Divné je i to zkreslení zvuku u přehrávaného videa.
+Ale dík za tu informaci ohledně toho, co do té desky jde, nebudu to tedy
+zbytečně ani zkoušet.Pro ty tualatiny je FCPGA 2 a jsou od toho litru.
+Je fakt, že pokud by to bylo procesorem, tak do stejného by se mi už jít
+nechtělo a slabší mě mrzí no.Nevíš, jak jsou na tom ty celery 1000 MHz ve
+srovnání s tím plnohodnotným pentiem?U nižších řad často platilo, že celkově s
+ohledem na všechny aspekty se nakonec vyplatil víc zpravidla celer.
+alien
+ _a_l_i_e_n_-_n_e_p_ř_í_t_e_l_ _s_t_á_t_u [Muž] [Kategorie]
+08.12.2006 11:27:06
+alien: urcite bych se podival jestli dobre sedi kabel ke graficke karte
+[Smajlík]     [Muž]26 [Kategorie]
+ _o_d_ _R_e_z_-_n_i_-_k_a
+08.12.2006 11:18:50
+Zatím dík všem za snahu.
+alien
+ _a_l_i_e_n_-_n_e_p_ř_í_t_e_l_ _s_t_á_t_u [Muž] [Kategorie]
+08.12.2006 11:16:44
+řezník: A tak to víš, že tomu rozumím, dle tvého popisu v tomhle třeba jako
+ty, hehe.
+Jasně, něco nevím, něco vím, za ty roky jsem v něčem odborník a o něčem vím
+opravdu hovno jednoduše proto, že jsem to nikdy k ničemu nepotřeboval.Mám
+třeba základy programování a hackingu, ale dál jsem nešel, bo je to práce k
+posrání a abys byl fakt dobrej, je to na celej život.Ale zabejval jsem se tím
+šest let a opět o některejch věcech a principech vím co asi nikdo.Ostatně
+sraní se do poč. her a jejich zlepšování je jedna z nejzábavnějších a
+nejsmysluplnějších činností, navíc tím výsledkem a patchem uděláš spoustě
+lidem radost.Není nad to, když ze shitu bez inteligence uděláš fotbal, kde
+lidi dostávaj na prdel a poč je chytřejší než voni, hehe.
+Počů jsem sestavil a vyladil mraky, ale to není moc umění, tím je spíš na nich
+rozběhnout všechno, i starý věci, na což jsou potřeba občas vtipné postupy, o
+kterých tzv. servisní technici vědí kulový, protože pro ně ani není rentabilní
+se tím zabývat a snažit se někomu pomoct, dělaj jenom jako normíci většinou
+stejnou práci dokola a co je nad rámec, s tím lidi vyfakujou, nebo si za to
+řeknou takovou cifru, že to není smysluplný.
+Fajn sranda bylo třeba řešit vedle sebe dvě různý zvukovky nebo spešl
+kartičku, aby šly dva ovladače pod pětkama se všema čudlama...když bys s tím
+šel do servisu, řekli by ti, že to nejde a nebude fachat...-vyzkoušeno.Sice to
+bylo sraní, ale nakonec to šlo.
+Taky rozbíhání netu v začátcích premium od ČRa a prosekávání se džunglí jejich
+bordelu, byla sranda...ostatně dobrodružství s nima a jejich většinou
+neschopných techniků trvá dodnes a různě se ještě lidi ozývaj.
+Takže o spoustě věcí vím určitě hovno, protože jsem je nikdy neřešil a
+nepotřeboval, ale o jinejch věcech vím zas tolik, co nikdo a to zpravidla o
+těch praktickejch a potřebnejch.
+Baví mě spíš lidem pomáhat a řešit problémy, se kterejma je v servisech
+poslali do prdele-mám rád tyhle výzvy.Jasně, na začátku třeba tápeš, ale
+prostě něco víš, něco si zjistíš, něco se naučíš a nakonec rozjedeš, co je
+potřeba.
+A co se týče mého současného problému.
+Hele, řeknu to asi takhle.Dlouholetá praxe mě naučila volit nejdříve ten
+nejjednodušší postup a neřešit zbytečně píčoviny.Lidi jako ty řešej všechno
+možný, ale často zapomenou zapojit nějakej kabel..
+Takže moje první kroky budou jednoznačně ve výměně po trase grafika-paměť-
+procesor.
+V dnešní době není problém se v bazáči domluvit a obratem to vrátit.A tu paměť
+si asi koupím z annonce tak jako tak jako vždy.
+Na záruku ti seru, s tou si kupujou jenom blbci a platěj dvakrát tolik za to
+samý, přičemž v polovině případů jim záruku neuznaj a ke všemu hodně firem tě
+nechá bez dané komponenty a nedá ti na dobu reklamace náhradní, což je krásné
+svinstvo a zvláště u hadrů s daty či systémem to potěší.
+Za sebe můžu říct, že mi všechny vojetý komponenty zpravidla držej doteď a ty,
+co jsem omylem koupil nový se už zesraly nebo zeserou..Hádej, jakej byl ten
+zdroj:) A na to, abych se s nějakým de
+ _a_l_i_e_n_-_n_e_p_ř_í_t_e_l_ _s_t_á_t_u [Muž] [Kategorie]
+08.12.2006 10:48:52
+Jéééžiš! Tady je nějak moc chytrejch!!!
+
+Hálóóó, jsem tu správně na Zpovědnici?!?!
+[Smajlík]          [Muž]30 [Kategorie]
+ _V_í_ř_i_v_ý_ _A_d_v_e_n_t_i_s_t_a
+08.12.2006 10:40:04
+hh: vzhledem k tomu ze aliho hlavnim pozadavkem je aby bezela zpovednice a cas
+od casu si mohl pustit nejakej honak mi to pc prijde vyvazeny. k tomu ziveni
+se pocitacem - nemyslim ze admini za jeho prispevky zde plati.
+jinac aliene myslel jsem ze pocitacum rozumis vic. zkusim ti to vysvetlit.
+odejde li zdroj za nejakych pohnutych okolnosti. projede ti kompostem
+elektrickej impuls kterej kurvi vse co mu stoji v ceste - tedy ve vetsine
+pripadu zakladni deska ktera je primo na zdroji a disky ktery jsou taky primo
+napajeny ze zdroje. dodatecne komponenty jako procesor pameti graf. karty
+apod. byvaji casto usetreny. takze mel li bych si tipnout tipl bych si ze mas
+v haji bud zakladni desku nebo disk ale spis tu desku. Koneckoncu chipset VIA
+je shit a odchazi to tak nejak samo.
+pokud chci mit jistotu udelal bych nasledujici:
+1. odpojil disky a zksil je na jinym pocitaci projet chkdsk s kontrolou
+povrchu. jestli neco najde vis kde je problem
+2.stahnou live linuxovou distribuci ubuntu a zkusit ji spustit z cd mechaniky.
+slape li dobre ubuntu z cd neni nejspis problem se zakadni deskou
+3. prohlidl desku jestli na ni neni vybouleny vrsek kondenzatoru nebo jestli
+kondaky nejsou nejak extra nakrivo - to by znamenalo ze bouchl kondenzator a
+pak je deska na vyhazov.
+4. je li v pohode deska pameti a disk muze jit o procesor. snizil bych takt
+procesoru na co nejnizsi ( treba 4x66) a zkusil jestli se to nezlepsi.
+pripadne bych pucil novej procesor
+5. veskery zkouseni bych delal jen kdyz je v pc minimu soucastek.
+6. hodil bych cely pc do popelnice a za pak korun koupil novy nekolikanasobne
+vykonnejsi spolehlivejsi a se zarukou.
+[Smajlík]     [Muž]26 [Kategorie]
+ _o_d_ _R_e_z_-_n_i_-_k_a
+08.12.2006 10:40:04
+Sakryš, to to tady někdo nezažil?:)
+hh: No jasně, taky mi poč vždy šlapal a šlape dlouhá léta jako hodinky
+narozdíl od většiny "značkových" sestav, nic se mi neseká ani netuhne a
+potřeba příp. reinstalace mého systému je v řádu let a ne týdnů nebo měsíců
+jako u hodně lidí.Tohle se ale prostě jednou za čas přihodí a zpravidla se na
+takových problémech něco nového naučím, což je jenom dobře.
+Dokud jsem měl starýho dobrýho celera, tak mi všechno fachalo pět let v
+kuse.Já pro svou osobní potřebu nepotřebuju žádnej zázrak, naopak spíš z
+jistejch důvodů potřebuju starší komponenty, aby mi na tom jely korektně
+některý starý věci a některý šly zasunout, heh.Nahoru jsem šel čistě jen kvůli
+videu, aby se netrhalo...ale ty nový hd se svině už zas trhaj, je otázka,
+jestli pomůžou nějaký kodeky nebo ne..ale díky K-lite kodekům jsem konečně
+zprovoznil naprosto vše, co jsem chtěl a hrabat do toho nemíním.
+Ono obecně u novějších komponent platí, že jsou sice výkonnější, ale o dost
+poruchovější a nestabilnější, ať už z toho či onoho důvodu.Takovej hadr
+cirkulárka wd 850 si řval v pohodě dlouhé roky...nový osmdesátky odcházej
+rychlejc než ženská od impotenta či zkrachovalého podnikatele.
+A když chci, aby mi něco staršího šlo dlouhodobě korektně, mám pro to starej
+dos nebo extra vosekaný vokna 95, co se instalujou pět minut a zaberou šesedát
+mega.V novejch systémech to prostě nikdy plně korektně nepůjde.
+To, že někomu sestavuješ a ladíš poče, zdaleka neznamená, že víš všechno,
+pořád se učíš a na to, aby ses tím živil, vpodstatě moc extra umět nemusíš.Co
+si budeme povídat, většina servisních techniků...no nic.Jsou schopný si říct
+tři kila za zandání zvukovky a pro mě je tohle všemožný ladění spíš koníček a
+všem kámošům a známým jsem to dělal stejně zadara.Ono se ti v servisu nikdo
+nebude srát s tím, aby ti třeba šla stará hra, nebo s tím, aby ti šla zvukovka
+pod čistým dosem, nebo aby ti ladil nový komponenty se starejma do jednoho
+poče, prostě tě pošle do prdele a to i když budeš chtít zaplatit.Pro mě taky
+není problém zajet někomu pomoct ve tři ráno apod., mám projíždky noční Prahou
+rád..jen nemusím končit omylem na Ruzyni jako onehdá, hehe.
+Je fakt, že čím jsem starší, tím už mě baví sraní tohohle typu míň a radši
+dělám něco smysluplnějšího.
+řezník: Nestraš, deska by byla kromě procesoru nejhorší...musel bych buď na
+pár minut déle lézt pod stůl, nebo poč vyndat a zničit pavoukům dynastii:)..o
+shánění desky pro PIII s isou nemluvě, eh.
+Je fakt blbý, že ten debilní zdroj neodešel pořádně s celou krávou.Ale podle
+mě to, co se zkurvilo, se zkurvilo hned napoprvé, protože to blblo okamžitě a
+ne až na základě delšího nekorektního provozu.
+alien
+ _a_l_i_e_n_-_n_e_p_ř_í_t_e_l_ _s_t_á_t_u [Muž] [Kategorie]
+08.12.2006 10:29:55
+Přiznám se bez mučení - tomu vůůůbeeec ale vůůůbeeec nerozumím, tak ti snad
+pomůže někdo jiný
+ _Z_m_r_z_l_i_n_a [Žena]22 [Kategorie]
+08.12.2006 10:13:22
+nepsal si někde, že se počítačema živíš? v tom případě celkem tragická
+sestava.
+Moje rada, kterou ti nezištně věnuji, zní: zkus si vyběhat víc soc. dávek a
+pořiď si lepší komp.
+[Smajlík]    [Muž] [Kategorie]
+ _H_y_n_e_k_ _H_u_t_n_y
+08.12.2006 10:06:54
+kup si novej pocitac. Me starej zlobil tak jsem se plac pres kapsu a pan Core2
+Duo slape jak hodinky.
+P.S. odesel li zdroj pocital bych s tim ze udelala papa zakladni deska resp.
+nektery z kondenzatoru na ni - nasleduji vykyvy v napajeni a rada "podivnych"
+problemu.
+Doporucuju ti pretrit se na hnedo a skocit na socialku s tim ze chces vetsi
+davky jinak je to dyskrymynace... Pak budes mit na poradny pc.
+[Smajlík]     [Muž]26 [Kategorie]
+ _o_d_ _R_e_z_-_n_i_-_k_a
+08.12.2006 09:49:30
+PS
+Mam ve firme nejaka stara CPU, Celerony 400-1000MHz, nejaka Pentia II a Pentia
+III. lezi tady a pada na ne prach a nikdo je uz nikdy nepouzije takze pokud by
+jsi mel zajem a jsi z Prahy tak se ozvi a neni problem Ti nejake dodat
+(gratis, samozrejme) ;-).
+
+Ale jak rikam .... CPU bych zkousel fakt jako posledni.
+ _3_D_F_X_4_e_v_a [Muž]46 [Kategorie]
+08.12.2006 09:39:36
+Procesor nech na konec. Behem 16ti let praxe se servisovanim PC jsem videl 1
+(slovy jeden) vadny procesor ktery se choval "divne" - jinak vzdy CPU bud slo
+OK a nebo neslo vubec.
+
+Tvoje zakladni deska ma cipovou sadu VIA 694X coz je cipova sada ktera
+podporuje procesory Pentium II/III nebo Celeron az po jadro Coppermine. A
+nejrychlejsi Copperminy se vyrabely s frekvenci 1.1GHz. Vsechny rychlejsi
+Pentia III nebo Celerony (od 1133MHz vyse) pouzivaly jadro Tualatin, malicko
+se lisily uz podle vzhledu (na CPU je kovovy rozptylovac tepla, stejny jako
+maji soucasna CPU) a hlavne maji jinak krokovane napajeni takze pokud Gigabyte
+nelze nebo nema chybu ve specifikaci tak do Tvoji desky Tualatina nedas.
+Cipove sady ktere podporovaly novejsi Tualatiny byly VIA 694XT a Intel 815EPT.
+
+
+Posral jsi to tim jak jsi nechal bezet PC s vadnym zdrojem. Pri vymene
+soucastek zacni s tim ze:
+
+0. pro sichr zkontroluj ze Ti sedi spravne chladice na CPU, grafice a cipove
+sade
+
+1. vymen zdroj za novy
+2. z PC vytahej VSECHEN HW ktery neni potreba - nech desku, RAM, CPU, grafiku
+a pripadne disk s OS
+3. jumperem na zakladni desce resetuj BIOS do vychoziho nastaveni
+4. pust PC a vlez do BIOSu
+5. nahraj "optimal settings" nebo "fail safe settings" a povypinej vsechen
+integrovany HW ktery na desce mas a ktery neni nezbytne nutny pro provoz PC
+(modem, sitovku, zvukovku, porty apod.)
+6. v nastaveni cipsetu nastav RAM na nejpomalejsi casovani a synchronni mod
+(tj. frekvence RAM = frekvence FSB)
+
+Pokud se to bude srat dal tak zacni postupne zkouset:
+1. RAM (coz uz jsi udelam pokud spravne chapu)
+2. grafickou kartu
+3. jiny disk s kompletni preinstalaci OS
+4. CPU
+
+pokud nic z toho nepomuze tak rekni papa desce :-(
+ _3_D_F_X_4_e_v_a [Muž]46 [Kategorie]
+08.12.2006 09:37:47
+Chlazení/teplota CPU/grafiky? Nevím. Mě jen napadlo, zda třeba nemůže být
+problém s tímto (ale to by se spíš jenom vypínalo...) Hodně štěstí:
+_h_t_t_p_:_/_/_w_w_w_._c_d_r_._c_z_/_a_/_7_2_1_6
+[Smajlík]
+ okoloidúci
+08.12.2006 09:03:07
+votrapa: No, budu to jednoznačně buď kupovat na dohodu, že to příp. hned
+vrátím nebo z annonce přímo, že to doma vyzkouším.
+A vzhledem k tomu, že stačí s tou 256 pamětí dát něco nahrávat do uschovny a
+za pár sekund jsou všude čtverečky, tak se to bude zkoušet poměrně
+jednoduše..aspoň to.
+No, už mi to dělá čtverečky i teď z toho, co píšu, hehe.Takže nahrávání dat do
+uschovny je nejrychlejší způsob, jak to zjistit, protože z toho to jde hned do
+hajzlu.
+alien
+ _a_l_i_e_n_-_n_e_p_ř_í_t_e_l_ _s_t_á_t_u [Muž] [Kategorie]
+08.12.2006 08:46:05
+Alien: Nechci ti radit, ale doporučuji nakoupit komponenty přes net a vše
+řádně vyzkoušet. Zjistíš-li, že to danou komponentou není - pak máš nárok ji
+do 14 dnů bez udání důvodu zase obchodníkovi vrátit. Nic tím neztratíš a
+alespoň přijdeš na to, čím to může být.
+ _V_o_t_r_a_p_a [Muž] [Kategorie]
+08.12.2006 08:34:53
+Votrapa: Jasně, to s tou grafikou mě taky napadlo.
+Ale první jsem se rozhodl, že půjdu koupit další paměť, protože tím nemůžu nic
+ztratit:)
+Můj skromný odhad zatím je, že v tomhle by to mohlo bejt.
+Ale s tou grafárnou to je taky relevantní vzhledem k tomu, že se kousaj ty
+hry.No, to by mě nasralo, protože mi na ní jeden můj hokejík v nestandartním
+nízkém rozlišení(512x384..myslím), ve kterém ho většina ostatních karet
+nezobrazí, eh.
+No, problém je, že ta paměť se klidně vůbec nijak nezahltí a jede to i dva tři
+dny v kuse, když nepodnikám žádné náročnější věci.
+Do servisu to neponesu, vždycky když jsem to udělal, tak jsem těm čurákům
+ještě musel vysvětlovat, co by měli zkusit a nakonec na to nepřišli,vrátili mi
+to a já si to pak spravil stejně sám-tak asi takhle.Nevím proč, ale vždycky
+mám nějakou vychytávku, se kterou si nikdo neví rady, eh.A navíc ti tam
+naúčtujou i starý ponožky, to nepodporuju už z principu.
+Co myslíš, má smysl zkusit teda jak to jede pod win 95?Ty tam mám nahozený za
+pět minut.Sice tam nejedou korektně disky, ale to je fuck.Problém ale podle mě
+zase je, že to je o dost méně náročnější na paměť, takže když to tam pojede,
+hovno to může znamenat ohledně příp. nekorektnosti win 98.
+Ty vosmičky bych se podělal, kdybych to měl všechno přeinstalovávat.
+Ke všemu s tou 32 pamětí teď blbne zvuk u přehrávaného videa resp. jde, ale
+zkresleně.
+Ale zase jsem teď hodinu psal ve wordu a žádnej problém..s tou 256 pamětí to
+padá v jednom kuse a vyvádí šílenosti s písmem apod. načež se to zhroutí.
+Asi nejrozumnější krok je koupit tu paměť, tím nic neztratím, jen získám.Pokud
+nic, tak vyměním grafiku, tu mám druhou a když pak nic, půjdu pro celera.No a
+když pak nic, tak buď systém nebo deska..ale deska snad ne, doufám, mám ji rád
+a má posranou isu, kterou bohužel nutně potřebuju, tu desku jsem bral jen
+proto a jiný ji už v týhle třídě nemaj.
+Pak to při pár restartech psalo při bootu voken něco o cache a další
+neidentifikovatelný pyndy.Což by bylo něco s procesorem nebo pamětí.
+Logicky bych to seřadil paměť-procesor-grafika.S těma hrama je to relativní,
+padá to i u pixelový...jen to vydrží o pár minut dýl než u tý s polygonama.
+Jenže když padá a sere se word, tam by neměla hrát grafika moc roli, ale
+hlavně procesor..pak někde snad paměť.
+Stejně tak když nahrávám data do uschovny, tak to by mělo bejt jenom o paměti,
+která se sesype, protože nestačí a nastanou popsané jevy, tedy jiné písmo a
+místo některých písmen čtverečky apod.
+A hlavně je nepravděpodobný problém v systému, když se to všechno spustilo tím
+haprujícím zdrojem.Ale samozřejmě je bohužel možné naprosto všechno, což je na
+tom celém, to nejhorší.
+Každopádně do servisu se půjdu aspoň chytře zeptat na ty jevy, kdyby tam byl
+omylem někdo chytřejší a příp. tam koupím, co je třeba, za zkoušku to stojí.
+Já o některých oblastech vím víc než technici a v jinejch zase nic moc, jak v
+čem no.Vpodstatě do toho dělám, ale žádnej extra machr zase určitě nejsem a
+pokud tady nevíš př
+ _a_l_i_e_n_-_n_e_p_ř_í_t_e_l_ _s_t_á_t_u [Muž] [Kategorie]
+08.12.2006 08:09:59
+špuntík: No tak mně právě ne.Poč si vždycky dokonale vyladím a všechno mi
+pracuje dlouhodobě zcela korektně.Jen tak jednou za dva roky přijde podobná
+sranda, se kterou si zpravidla nikdo neví rady, protože obvykle s počem všem
+kolem sebe radím já, heh.
+Ale vypadá to, že neuškodí koupit další 256 paměť, aspoň budu mít jistotu,
+protože ta výměnná z jinýho poče má jen 32 a to nemusí na korektní provoz s
+tímhle procesorem stačit.
+Kéž by to bylo pamětí..
+A tobě to říkám, protože tu nikdo jinej není, tak nepanikař, hehe:)
+alien
+ _a_l_i_e_n_-_n_e_p_ř_í_t_e_l_ _s_t_á_t_u [Muž] [Kategorie]
+08.12.2006 08:07:20
+Jestliže máš problémy se zobrazováním obecně, pak je zajisté první na řadě
+grafika. Možná se spálila paměť na grafice a systém je nucen využívat RAM,
+která se ihned přehltí (sice blbost, ale kdoví který spoj se ti spálil).
+Zjištěním co je pokaženo - no na tvém místě bych to odnesl do servisu -
+protože v domácích podmínkách si různě popůjčovávat jednotlivé komponenty a
+zkoušet, kdy se to spraví nebo ne ... Raději bych do toho zainvestoval peníze
+(pouze do diagnostiky - ne do opravy).
+
+P.S. Předpokládám, že jsi softwarovou závadu vyloučil? Protože v důsledku
+přepětí se mohlo stát, že se klidně i pokazilo něco v datech na HDD.
+Nemusíš hned reinstalovat, ale třeba stáhnout nějakou live distribuci Linuxu
+(bez nutnosti instalace) a zkusit pracovat chvilku s ním - pokud budou
+problémy dále trvat je jasné, že se jedná o hardwarovou příčinu. Pokud
+problémy zmizí, pak jde o chybu tvého OS a je nutný reinstal.
+
+P.P.S. Ovšem ber mé rady s rezervou - jsem prostý BFU ;-)
+[Smajlík] [Muž] [Kategorie]
+ _V_o_t_r_a_p_a
+08.12.2006 06:36:08
+aspoň to máš veselejší :-)
+jeslti tě to potěší, tak mě to ale taky furt zlobí :-)
+[Smajlík]  [Žena]29 [Kategorie]
+ _Š_p_u_n_t_i_d_l_o
+08.12.2006 06:27:17
+Hmm..teď mám u každé kategorie zpovědnice na hlavní stránce dva čtverečky,
+eh.Neprozřetelně jsem chtěl něco nahrát přes uschovna.cz
+alien
+ _a_l_i_e_n_-_n_e_p_ř_í_t_e_l_ _s_t_á_t_u [Muž] [Kategorie]
+08.12.2006 06:14:42
+Hmm, tak asi nic no :-)
+na tyhle problémy mám starého :-)
+Tak hodně štěstí, ať it to pak jede :-)
+[Smajlík]  [Žena]29 [Kategorie]
+ _Š_p_u_n_t_i_d_l_o
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+
