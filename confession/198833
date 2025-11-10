@@ -1,0 +1,155 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+Diskuze č.198833, vloženo 10.03.2007 12: _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+15:23                                    _s_t_r_á_n_k_a_]
+matematika
+cus resim priklad z matiky, a neco delam blbe a potreboval bych radu.
+priklad zni, mame hranol ktery ma uhlopricku podstavy 42 cm a vysku 8 cm. a
+chceme najit jehlan s nejmensim obsahem do ktereho se tento hranol vejde
+
+takze sem zacal takto, rovnice u ktere chceme najit maximum je
+
+V=(pi*polomer^2*vyska)/3
+
+a podminku kterou zname (pri 2D nakresu problematiky dostaneme podobne
+trojuhelniky) je vyska jehlanu:polomer jehlanu=8/(polomer - 42/2)
+tedy po zjednoduseni (vyska jehlanu)=8(polomer jehlanu)/(polomer jehlanu -21)
+
+to dosadime do puvodni rovnice a dostaneme
+V= (pi*3)*(8polomer jehlanu^3)/(polomer jehlanu - 21)
+
+zderivujeme a zjednodusime a dostaneme
+
+V'=(pi/3)((24*polomer^2)(p olomer -21)- (1)(8*polomer^3))/(polomer -21)
+zjednodusime
+
+V'=24*polomer^3-504*polomer^2-8*pol omer^3
+V'=16*polomer ^3 - 504*polomer^2
+
+maxima a minima zjistime tak ze celou rovnici dame =0, tedy
+
+0=16*polomer ^3 - 504*polomer^2
+
+504*polomer^2=16*polome r^3
+
+no a kdyz toto vyresime tak vyjde 63/2 neboli 31.5
+jenze spravny vysledek je (63/2)*odmocnina2 neboli 31.5*odmocnina(2)
+
+nevi nekdo co delam blbe
+ matematik [Muž]18  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+10.03.2007 18:13:10
+Nesnášim matematiku, fuj. :D
+ _i_n_T_H_E_d_a_r_k [Žena]29 [Kategorie]
+10.03.2007 16:36:30
+Super, takže pokud ten nejmenší obsah kužele znamená nejmenší objem, tak už
+chápu zadání. Sice to není úplně dobře zderivované, ale to nevadí: (f/g)'=
+(f'g-fg')/g^2 . Co ale vidím jako problematické, aniž bych to počítal, je
+způsob umístění toho kvádru v tom jehlanu. Vy jste evidentně uvažoval jen
+šoupnout ho tam "na šířku", ale zkuste ho do toho jehlanu šoupnout na výšku.
+Spočítejte stejným postupem a uvidíme, co vyleze. Těch způsobů, jak ho tam dát
+je více, takže by to chtělo k tomu vždy dopočítat i ten objem toho kužele. Já
+se omlouvám, ale to jsou středoškolské počty, takže se mi do toho moc nechce a
+navíc nemám čas.
+ _d_o_l_e_p_9_a_m [Muž]27 [Kategorie]
+10.03.2007 15:35:41
+jj ctvercova podstava
+ yosei42
+10.03.2007 15:23:52
+Jestli to je v angličtině, tak by možná stálo za to, to sem skopírovat,
+protože takhle se nedohodneme. Krychle to sice být nemůže, ale alespoň
+čtvercová podstava, nebyla by?
+ _d_o_l_e_p_9_a_m [Muž]27 [Kategorie]
+10.03.2007 15:20:47
+znam uhlopricku a vysku kvardu (8 cm)
+ yosei42
+10.03.2007 15:17:50
+A není to náhodou krychle? Pokud je to totiž kvádr, tak mi údaj o délce jedné
+uhlopříčky nestačí. To by pak bylo řešení parametrické závislé na dvou
+parametrech.
+ _d_o_l_e_p_9_a_m [Muž]27 [Kategorie]
+10.03.2007 15:07:04
+jo a hranol neni hranol ale kvadr :-), jak sem rekl nemam nazvoslovi v cestine
+a tohle se mi trochu plete
+ yosei42
+10.03.2007 15:04:21
+To není problém spočítat za předpokladu, že bude jasně dané zadání, což není.
+Jednak to, co počítáte není jehlan, ale evidentně kužel a jednak potřebuji
+vědět jak přesně je dán ten hranol. Jakou má podstavu, je-li komolý, kosý,
+apod. Hranolů je pochopitelně spousta a zadání tím pádem není jednoznačné a
+obecné řešení v tomto případě neexistuje.
+ _d_o_l_e_p_9_a_m [Muž]27 [Kategorie]
+10.03.2007 14:51:39
+pocitam rotacni kuzel. sorry ze sem si spletl nazvy, nemam nazvoslovi v
+cestine
+ yosei42
+10.03.2007 14:37:54
+specifikuj zadání, popiš jak má vypadat přesně ten hranol-jakou má podstavu,
+zda je komolý a kosý. vedle mě stojí matematik a může ti říct jak se to
+spočítá, ovšem potřebuje přesné zadání. to, co počítáš je prý kužel.
+ _a_n_i_č_k_a_1_1_1 [Žena] [Kategorie]
+10.03.2007 13:46:24
+Zvláštní, ale vyšel mi stejný výsledek. Po šíleném upravování a derivování
+jsem došel k výrazu: r = 504 / 16
+
+Výsledek mám tedy stejný jako ty: r = 31,5
+A pokud jsem dobře počítal, měla by výška kužele být: v = (8 * 21) / (r - 21)
++ 8, což vychází přesně 24.
+[Smajlík] [Muž] [Kategorie]
+ _P_i_N_í_t_k_o
+10.03.2007 13:19:37
+co je to matematika????:-DD nesnášim , takže mizim radši
+[Smajlík] [Žena] [Kategorie]
+ _R_u_z_e_n_k_a
+10.03.2007 13:07:32
+Já teda nevím, jestli jsem tě správně pochopila, ale nepleteš si kužel a
+jehlan?
+[Smajlík] [Žena]54 [Kategorie]
+ _a_r_j
+10.03.2007 13:05:05
+Pro začátek bys mohl ujasnit, co chces vlastně počítat. V zadání zmiňuješ
+jehlan, ale ve vzorcích využíváš PI a poloměr, což používá jedině kužel.
+Prostorová tělesa navíc nemají obsah, ale pouze povrch a objem :-)
+[Smajlík] [Muž] [Kategorie]
+ _P_i_N_í_t_k_o
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+
