@@ -1,0 +1,1774 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+Zpověď č.118756, vloženo 13.05.2006 20: _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+09:17                                   _s_t_r_á_n_k_a_]
+Rekord 2
+Tak sem si řekl že udělám rekord v nejdelší zpovědi. Tak jdeme na to!
+
+FreeBSD Handbook
+The FreeBSD Documentation Project
+
+Copyright © 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005,
+2006 The FreeBSD Documentation Project
+
+Welcome to FreeBSD! This handbook covers the installation and day to day use
+of FreeBSD 5.4-RELEASE and FreeBSD 6.1-RELEASE. This manual is a work in
+progress and is the work of many individuals. Many sections do not yet exist
+and some of those that do exist need to be updated. If you are interested in
+helping with this project, send email to the FreeBSD documentation project
+mailing list. The latest version of this document is always available from the
+FreeBSD web site (previous versions of this handbook can be obtained from
+http://docs.FreeBSD.org/doc/). It may also be downloaded in a variety of
+formats and compression options from the FreeBSD FTP server or one of the
+numerous mirror sites. If you would prefer to have a hard copy of the
+handbook, you can purchase one at the FreeBSD Mall. You may also want to
+search the handbook.
+
+Redistribution and use in source (SGML DocBook) and 'compiled' forms (SGML,
+HTML, PDF, PostScript, RTF and so forth) with or without modification, are
+permitted provided that the following conditions are met:
+
+1.
+
+Redistributions of source code (SGML DocBook) must retain the above copyright
+notice, this list of conditions and the following disclaimer as the first
+lines of this file unmodified.
+2.
+
+Redistributions in compiled form (transformed to other DTDs, converted to PDF,
+PostScript, RTF and other formats) must reproduce the above copyright notice,
+this list of conditions and the following disclaimer in the documentation and/
+or other materials provided with the distribution.
+
+Important: THIS DOCUMENTATION IS PROVIDED BY THE FREEBSD DOCUMENTATION PROJECT
+"AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO,
+THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE
+ARE DISCLAIMED. IN NO EVENT SHALL THE FREEBSD DOCUMENTATION PROJECT BE LIABLE
+FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
+DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
+SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
+CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
+OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
+OF THIS DOCUMENTATION, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+FreeBSD is a registered trademark of the FreeBSD Foundation.
+
+3Com and HomeConnect are registered trademarks of 3Com Corporation.
+
+3ware and Escalade are registered trademarks of 3ware Inc.
+
+ARM is a registered trademark of ARM Limited.
+
+Adaptec is a registered trademark of Adaptec, Inc.
+
+Adobe, Acrobat, Acrobat Reader, and PostScript are either registered
+trademarks or trademarks of Adobe Systems Incorporated in the United States
+and/or other countries.
+
+Apple, FireWire, Mac, Macintosh, Mac OS, Quicktime, and TrueType are
+trademarks of Apple Computer, Inc., registered in the United States and other
+countries.
+
+Corel and WordPerfect are trademarks or registered trademarks of Corel
+Corporation and/or its subsidiaries in Canada, the United States and/or other
+countries.
+
+Sound Blaster is a trademark of Creative Technology Ltd. in the United States
+and/or other countries.
+
+CVSup is a registered trademark of John D. Polstra.
+
+Heidelberg, Helvetica, Palatino, and Times Roman are either registered
+trademarks or trademarks of Heidelberger Druckmaschinen AG in the U.S. and
+other countries.
+
+IBM, AIX, EtherJet, Netfinity, OS/2, PowerPC, PS/2, S/390, and ThinkPad are
+trademarks of International Business Machines Corporation in the United
+States, other countries, or both.
+
+IEEE, POSIX, and 802 are registered trademarks of Institute of Electrical and
+Electronics Engineers, Inc. in the United States.
+
+Intel, Celeron, EtherExpress, i386, i486, Itanium, Pentium, and Xeon are
+trademarks or registered trademarks of Intel Corporation or its subsidiaries
+in the United States and other countries.
+
+Intuit and Quicken are registered trademarks and/or registered service marks
+of Intuit Inc., or one of its subsidiaries, in the United States and other
+countries.
+
+Linux is a registered trademark of Linus Torvalds.
+
+LSI Logic, AcceleRAID, eXtremeRAID, MegaRAID and Mylex are trademarks or
+registered trademarks of LSI Logic Corp.
+
+M-Systems and DiskOnChip are trademarks or registered trademarks of M-Systems
+Flash Disk Pioneers, Ltd.
+
+Macromedia, Flash, and Shockwave are trademarks or registered trademarks of
+Macromedia, Inc. in the United States and/or other countries.
+
+Microsoft, IntelliMouse, MS-DOS, Outlook, Windows, Windows Media and Windows
+NT are either registered trademarks or trademarks of Microsoft Corporation in
+the United States and/or other countries.
+
+Netscape and the Netscape Navigator are registered trademarks of Netscape
+Communications Corporation in the U.S. and other countries.
+
+GateD and NextHop are registered and unregistered trademarks of NextHop in the
+U.S. and other countries.
+
+Motif, OSF/1, and UNIX are registered trademarks and IT DialTone and The Open
+Group are trademarks of The Open Group in the United States and other
+countries.
+
+Oracle is a registered trademark of Oracle Corporation.
+
+PowerQuest and PartitionMagic are registered trademarks of PowerQuest
+Corporation in the United States and/or other countries.
+
+RealNetworks, RealPlayer, and RealAudio are the registered trademarks of
+RealNetworks, Inc.
+
+Red Hat, RPM, are trademarks or registered trademarks of Red Hat, Inc. in the
+United States and other countries.
+
+SAP, R/3, and mySAP are trademarks or registered trademarks of SAP AG in
+Germany and in several other countries all over the world.
+
+Sun, Sun Microsystems, Java, Java Virtual Machine, JavaServer Pages, JDK, JSP,
+JVM, Netra, Solaris, StarOffice, Sun Blade, Sun Enterprise, Sun Fire, SunOS,
+and Ultra are trademarks or registered trademarks of Sun Microsystems, Inc. in
+the United States and other countries.
+
+Symantec and Ghost are registered trademarks of Symantec Corporation in the
+United States and other countries.
+
+MATLAB is a registered trademark of The MathWorks, Inc.
+
+SpeedTouch is a trademark of Thomson
+
+U.S. Robotics and Sportster are registered trademarks of U.S. Robotics
+Corporation.
+
+VMware is a trademark of VMware, Inc.
+
+Waterloo Maple and Maple are trademarks or registered trademarks of Waterloo
+Maple Inc.
+
+Mathematica is a registered trademark of Wolfram Research, Inc.
+
+XFree86 is a trademark of The XFree86 Project, Inc.
+
+Ogg Vorbis and Xiph.Org are trademarks of Xiph.Org.
+
+Many of the designations used by manufacturers and sellers to distinguish
+their products are claimed as trademarks. Where those designations appear in
+this document, and the FreeBSD Project was aware of the trademark claim, the
+designations have been followed by the “™” or the “®” symbol.
+[ Split HTML / Single HTML ]
+
+Table of Contents
+Preface
+I. Getting Started
+
+1 Introduction
+
+1.1 Synopsis
+1.2 Welcome to FreeBSD!
+1.3 About the FreeBSD Project
+
+2 Installing FreeBSD
+
+2.1 Synopsis
+2.2 Pre-installation Tasks
+2.3 Starting the Installation
+2.4 Introducing Sysinstall
+2.5 Allocating Disk Space
+2.6 Choosing What to Install
+2.7 Choosing Your Installation Media
+2.8 Committing to the Installation
+2.9 Post-installation
+2.10 Supported Hardware
+2.11 Troubleshooting
+2.12 Advanced Installation Guide
+2.13 Preparing Your Own Installation Media
+
+3 UNIX Basics
+
+3.1 Synopsis
+3.2 Virtual Consoles and Terminals
+3.3 Permissions
+3.4 Directory Structure
+3.5 Disk Organization
+3.6 Mounting and Unmounting File Systems
+3.7 Processes
+3.8 Daemons, Signals, and Killing Processes
+3.9 Shells
+3.10 Text Editors
+3.11 Devices and Device Nodes
+3.12 Binary Formats
+3.13 For More Information
+
+4 Installing Applications: Packages and Ports
+
+4.1 Synopsis
+4.2 Overview of Software Installation
+4.3 Finding Your Application
+4.4 Using the Packages System
+4.5 Using the Ports Collection
+4.6 Post-installation Activities
+4.7 Dealing with Broken Ports
+
+5 The X Window System
+
+5.1 Synopsis
+5.2 Understanding X
+5.3 Installing X11
+5.4 X11 Configuration
+5.5 Using Fonts in X11
+5.6 The X Display Manager
+5.7 Desktop Environments
+
+II. Common Tasks
+
+6 Desktop Applications
+
+6.1 Synopsis
+6.2 Browsers
+6.3 Productivity
+6.4 Document Viewers
+6.5 Finance
+6.6 Summary
+
+7 Multimedia
+
+7.1 Synopsis
+7.2 Setting Up the Sound Card
+7.3 MP3 Audio
+7.4 Video Playback
+7.5 Setting Up TV Cards
+7.6 Image Scanners
+
+8 Configuring the FreeBSD Kernel
+
+8.1 Synopsis
+8.2 Why Build a Custom Kernel?
+8.3 Building and Installing a Custom Kernel
+8.4 The Configuration File
+8.5 Making Device Nodes
+8.6 If Something Goes Wrong
+
+9 Printing
+
+9.1 Synopsis
+9.2 Introduction
+9.3 Basic Setup
+9.4 Advanced Printer Setup
+9.5 Using Printers
+9.6 Alternatives to the Standard Spooler
+9.7 Troubleshooting
+
+10 Linux Binary Compatibility
+
+10.1 Synopsis
+10.2 Installation
+10.3 Installing Mathematica®
+10.4 Installing Maple™
+10.5 Installing MATLAB®
+10.6 Installing Oracle®
+10.7 Installing SAP® R/3®
+10.8 Advanced Topics
+
+III. System Administration
+
+11 Configuration and Tuning
+
+11.1 Synopsis
+11.2 Initial Configuration
+11.3 Core Configuration
+11.4 Application Configuration
+11.5 Starting Services
+11.6 Configuring the cron Utility
+11.7 Using rc under FreeBSD 5.X and newer
+11.8 Setting Up Network Interface Cards
+11.9 Virtual Hosts
+11.10 Configuration Files
+11.11 Tuning with sysctl
+11.12 Tuning Disks
+11.13 Tuning Kernel Limits
+11.14 Adding Swap Space
+11.15 Power and Resource Management
+11.16 Using and Debugging FreeBSD ACPI
+
+12 The FreeBSD Booting Process
+
+12.1 Synopsis
+12.2 The Booting Problem
+12.3 The Boot Manager and Boot Stages
+12.4 Kernel Interaction During Boot
+12.5 Device Hints
+12.6 Init: Process Control Initialization
+12.7 Shutdown Sequence
+
+13 Users and Basic Account Management
+
+13.1 Synopsis
+13.2 Introduction
+13.3 The Superuser Account
+13.4 System Accounts
+13.5 User Accounts
+13.6 Modifying Accounts
+13.7 Limiting Users
+13.8 Groups
+
+14 Security
+
+14.1 Synopsis
+14.2 Introduction
+14.3 Securing FreeBSD
+14.4 DES, MD5, and Crypt
+14.5 One-time Passwords
+14.6 TCP Wrappers
+14.7 KerberosIV
+14.8 Kerberos5
+14.9 OpenSSL
+14.10 VPN over IPsec
+14.11 OpenSSH
+14.12 File System Access Control Lists
+14.13 Monitoring Third Party Security Issues
+14.14 FreeBSD Security Advisories
+14.15 Process Accounting
+
+15 Mandatory Access Control
+
+15.1 Synopsis
+15.2 Key Terms in this Chapter
+15.3 Explanation of MAC
+15.4 Understanding MAC Labels
+15.5 Planning the Security Configuration
+15.6 Module Configuration
+15.7 The MAC bsdextended Module
+15.8 The MAC ifoff Module
+15.9 The MAC portacl Module
+15.10 The MAC partition Module
+15.11 The MAC Multi-Level Security Module
+15.12 The MAC Biba Module
+15.13 The MAC LOMAC Module
+15.14 Nagios in a MAC Jail
+15.15 User Lock Down
+15.16 Troubleshooting the MAC Framework
+
+16 Security Event Auditing
+
+16.1 Synopsis
+16.2 Key Terms - Words to Know
+16.3 Installing Audit Support
+16.4 Audit Configuration
+16.5 Event Audit Administration
+
+17 Storage
+
+17.1 Synopsis
+17.2 Device Names
+17.3 Adding Disks
+17.4 RAID
+17.5 USB Storage Devices
+17.6 Creating and Using Optical Media (CDs)
+17.7 Creating and Using Optical Media (DVDs)
+17.8 Creating and Using Floppy Disks
+17.9 Creating and Using Data Tapes
+17.10 Backups to Floppies
+17.11 Backup Strategies
+17.12 Backup Basics
+17.13 Network, Memory, and File-Backed File Systems
+17.14 File System Snapshots
+17.15 File System Quotas
+17.16 Encrypting Disk Partitions
+17.17 Encrypting Swap Space
+
+18 GEOM: Modular Disk Transformation Framework
+
+18.1 Synopsis
+18.2 GEOM Introduction
+18.3 RAID0 - Striping
+18.4 RAID1 - Mirroring
+
+19 The Vinum Volume Manager
+
+19.1 Synopsis
+19.2 Disks Are Too Small
+19.3 Access Bottlenecks
+19.4 Data Integrity
+19.5 Vinum Objects
+19.6 Some Examples
+19.7 Object Naming
+19.8 Configuring Vinum
+19.9 Using Vinum for the Root Filesystem
+
+20 Localization - I18N/L10N Usage and Setup
+
+20.1 Synopsis
+20.2 The Basics
+20.3 Using Localization
+20.4 Compiling I18N Programs
+20.5 Localizing FreeBSD to Specific Languages
+
+21 The Cutting Edge
+
+21.1 Synopsis
+21.2 FreeBSD-CURRENT vs. FreeBSD-STABLE
+21.3 Synchronizing Your Source
+21.4 Rebuilding “world”
+21.5 Tracking for Multiple Machines
+
+22 NanoBSD
+
+22.1 Introduction to NanoBSD
+22.2 NanoBSD Howto
+
+IV. Network Communication
+
+23 Serial Communications
+
+23.1 Synopsis
+23.2 Introduction
+23.3 Terminals
+23.4 Dial-in Service
+23.5 Dial-out Service
+23.6 Setting Up the Serial Console
+
+24 PPP and SLIP
+
+24.1 Synopsis
+24.2 Using User PPP
+24.3 Using Kernel PPP
+24.4 Troubleshooting PPP Connections
+24.5 Using PPP over Ethernet (PPPoE)
+24.6 Using PPP over ATM (PPPoA)
+24.7 Using SLIP
+
+25 Electronic Mail
+
+25.1 Synopsis
+25.2 Using Electronic Mail
+25.3 sendmail Configuration
+25.4 Changing Your Mail Transfer Agent
+25.5 Troubleshooting
+25.6 Advanced Topics
+25.7 SMTP with UUCP
+25.8 Setting Up to Send Only
+25.9 Using Mail with a Dialup Connection
+25.10 SMTP Authentication
+25.11 Mail User Agents
+25.12 Using fetchmail
+25.13 Using procmail
+
+26 Network Servers
+
+26.1 Synopsis
+26.2 The inetd “Super-Server”
+26.3 Network File System (NFS)
+26.4 Network Information System (NIS/YP)
+26.5 Automatic Network Configuration (DHCP)
+26.6 Domain Name System (DNS)
+26.7 BIND9 and FreeBSD
+26.8 Apache HTTP Server
+26.9 File Transfer Protocol (FTP)
+26.10 File and Print Services for Microsoft® Windows clients (Samba)
+26.11 Clock Synchronization with NTP
+
+27 Firewalls
+
+27.1 Introduction
+27.2 Firewall Concepts
+27.3 Firewall Packages
+27.4 The OpenBSD Packet Filter (PF) and ALTQ
+27.5 The IPFILTER (IPF) Firewall
+27.6 IPFW
+
+28 Advanced Networking
+
+28.1 Synopsis
+28.2 Gateways and Routes
+28.3 Wireless Networking
+28.4 Bluetooth
+28.5 Bridging
+28.6 Diskless Operation
+28.7 ISDN
+28.8 Network Address Translation
+28.9 Parallel Line IP (PLIP)
+28.10 IPv6
+28.11 Asynchronous Transfer Mode (ATM)
+
+V. Appendices
+
+A. Obtaining FreeBSD
+
+A.1 CDROM and DVD Publishers
+A.2 FTP Sites
+A.3 Anonymous CVS
+A.4 Using CTM
+A.5 Using CVSup
+A.6 Using Portsnap
+A.7 CVS Tags
+A.8 AFS Sites
+A.9 rsync Sites
+
+B. Bibliography
+
+B.1 Books & Magazines Specific to FreeBSD
+B.2 Users' Guides
+B.3 Administrators' Guides
+B.4 Programmers' Guides
+B.5 Operating System Internals
+B.6 Security Reference
+B.7 Hardware Reference
+B.8 UNIX History
+B.9 Magazines and Journals
+
+C. Resources on the Internet
+
+C.1 Mailing Lists
+C.2 Usenet Newsgroups
+C.3 World Wide Web Servers
+C.4 Email Addresses
+C.5 Shell Accounts
+
+D. PGP Keys
+
+D.1 Officers
+D.2 Core Team Members
+D.3 Developers
+
+FreeBSD Glossary
+Index
+Colophon
+
+List of Tables
+2-1. Sample Device Inventory
+2-2. Partition Layout for First Disk
+2-3. Partition Layout for Subsequent Disks
+2-4. Possible Security Profiles
+2-5. FreeBSD 4.X ISO Image Names and Meanings
+2-6. FreeBSD 5.X ISO Image Names and Meanings
+3-1. Disk Device Codes
+17-1. Physical Disk Naming Conventions
+19-1. Vinum Plex Organizations
+23-1. DB-25 to DB-25 Null-Modem Cable
+23-2. DB-9 to DB-9 Null-Modem Cable
+23-3. DB-9 to DB-25 Null-Modem Cable
+23-4. Signal Names
+28-1. Wiring a Parallel Cable for Networking
+28-2. Reserved IPv6 addresses
+
+List of Figures
+2-1. Kernel Configuration Menu
+2-2. The Kernel Device Configuration Visual Interface
+2-3. Expanded Driver List
+2-4. Driver Configuration With No Conflicts
+2-5. Sysinstall Main Menu
+2-6. Typical Device Probe Results
+2-7. Select Sysinstall Exit
+2-8. Selecting Usage from Sysinstall Main Menu
+2-9. Selecting Documentation Menu
+2-10. Sysinstall Documentation Menu
+2-11. Sysinstall Main Menu
+2-12. Sysinstall Keymap Menu
+2-13. Sysinstall Main Menu
+2-14. Sysinstall Options
+2-15. Begin Standard Installation
+2-16. Select Drive for FDisk
+2-17. Typical Fdisk Partitions before Editing
+2-18. Fdisk Partition Using Entire Disk
+2-19. Sysinstall Boot Manager Menu
+2-20. Exit Select Drive
+2-21. Sysinstall Disklabel Editor
+2-22. Sysinstall Disklabel Editor with Auto Defaults
+2-23. Free Space for Root Partition
+2-24. Edit Root Partition Size
+2-25. Choose the Root Partition Type
+2-26. Choose the Root Mount Point
+2-27. Sysinstall Disklabel Editor
+2-28. Choose Distributions
+2-29. Confirm Distributions
+2-30. Choose Installation Media
+2-31. Selecting an Ethernet Device
+2-32. Set Network Configuration for ed0
+2-33. Editing inetd.conf
+2-34. Default Anonymous FTP Configuration
+2-35. Edit the FTP Welcome Message
+2-36. Editing exports
+2-37. Security Profile Options
+2-38. System Console Configuration Options
+2-39. Screen Saver Options
+2-40. Screen Saver Timeout
+2-41. System Console Configuration Exit
+2-42. Select Your Region
+2-43. Select Your Country
+2-44. Select Your Time Zone
+2-45. Select Mouse Protocol Type
+2-46. Set Mouse Protocol
+2-47. Configure Mouse Port
+2-48. Setting the Mouse Port
+2-49. Enable the Mouse Daemon
+2-50. Test the Mouse Daemon
+2-51. Network Configuration Upper-level
+2-52. Select a default MTA
+2-53. Ntpdate Configuration
+2-54. Network Configuration Lower-level
+2-55. Select Configuration Method Menu
+2-56. Select Default Desktop
+2-57. Select Package Category
+2-58. Select Packages
+2-59. Install Packages
+2-60. Confirm Package Installation
+2-61. Select User
+2-62. Add User Information
+2-63. Exit User and Group Management
+2-64. Exit Install
+19-1. Concatenated Organization
+19-2. Striped Organization
+19-3. RAID-5 Organization
+19-4. A Simple Vinum Volume
+19-5. A Mirrored Vinum Volume
+19-6. A Striped Vinum Volume
+19-7. A Mirrored, Striped Vinum Volume
+
+List of Examples
+2-1. Using an Existing Partition Unchanged
+2-2. Shrinking an Existing Partition
+3-1. Sample Disk, Slice, and Partition Names
+3-2. Conceptual Model of a Disk
+4-1. Downloading a Package Manually and Installing It Locally
+11-1. Creating a Swapfile on FreeBSD 4.X
+11-2. Creating a Swapfile on FreeBSD 5.X
+12-1. boot0 Screenshot
+12-2. boot2 Screenshot
+12-3. An Insecure Console in /etc/ttys
+13-1. Configuring adduser and adding a user on FreeBSD 4.X
+13-2. Adding a user on FreeBSD 5.X
+13-3. rmuser Interactive Account Removal
+13-4. Interactive chpass by Superuser
+13-5. Interactive chpass by Normal User
+13-6. Changing Your Password
+13-7. Changing Another User's Password as the Superuser
+13-8. Adding a Group Using pw(8)
+13-9. Adding Somebody to a Group Using pw(8)
+13-10. Using id(1) to Determine Group Membership
+14-1. Using SSH to Create a Secure Tunnel for SMTP
+17-1. Using dump over ssh
+17-2. Using dump over ssh with RSH set
+17-3. A Script for Creating a Bootable Floppy
+17-4. Using vnconfig to Mount an Existing File System Image under FreeBSD 4.X
+17-5. Creating a New File-Backed Disk with vnconfig
+17-6. Using mdconfig to Mount an Existing File System Image
+17-7. Creating a New File-Backed Disk with mdconfig
+17-8. Configure and Mount a File-Backed Disk with mdmfs
+17-9. md Memory Disk under FreeBSD 4.X
+17-10. Creating a New Memory-Based Disk with mdconfig
+17-11. Creating a New Memory-Based Disk with mdmfs
+22-1. Making persistent changes to /etc/resolv.conf
+23-1. Adding Terminal Entries to /etc/ttys
+25-1. Configuring the sendmail Access Database
+25-2. Mail Aliases
+25-3. Example Virtual Domain Mail Map
+26-1. Reloading the inetd configuration file
+26-2. Mounting an Export with amd
+28-1. Branch Office or Home Network
+28-2. Head Office or Other LAN
+A-1. Checking Out Something from -CURRENT (ls(1)):
+A-2. Using SSH to check out the src/ tree:
+A-3. Checking Out the Version of ls(1) in the 6-STABLE Branch:
+A-4. Creating a List of Changes (as Unified Diffs) to ls(1)
+A-5. Finding Out What Other Module Names Can Be Used:
+
+Preface
+Intended Audience
+
+The FreeBSD newcomer will find that the first section of this book guides the
+user through the FreeBSD installation process and gently introduces the
+concepts and conventions that underpin UNIX®. Working through this section
+requires little more than the desire to explore, and the ability to take on
+board new concepts as they are introduced.
+
+Once you have traveled this far, the second, far larger, section of the
+Handbook is a comprehensive reference to all manner of topics of interest to
+FreeBSD system administrators. Some of these chapters may recommend that you
+do some prior reading, and this is noted in the synopsis at the beginning of
+each chapter.
+
+For a list of additional sources of information, please see Appendix B.
+Changes from the Second Edition
+
+This third edition is the culmination of over two years of work by the
+dedicated members of the FreeBSD Documentation Project. The following are the
+major changes in this new edition:
+
+*
+
+Chapter 11, Configuration and Tuning, has been expanded with new information
+about the ACPI power and resource management, the cron system utility, and
+more kernel tuning options.
+*
+
+Chapter 14, Security, has been expanded with new information about virtual
+private networks (VPNs), file system access control lists (ACLs), and security
+advisories.
+*
+
+Chapter 15, Mandatory Access Control (MAC), is a new chapter with this
+edition. It explains what MAC is and how this mechanism can be used to secure
+a FreeBSD system.
+*
+
+Chapter 17, Storage, has been expanded with new information about USB storage
+devices, file system snapshots, file system quotas, file and network backed
+filesystems, and encrypted disk partitions.
+*
+
+Chapter 19, Vinum, is a new chapter with this edition. It describes how to use
+Vinum, a logical volume manager which provides device-independent logical
+disks, and software RAID-0, RAID-1 and RAID-5.
+*
+
+Chapter 22, NanoBSD, is a new chapter with this edition. It describes how to
+use NanoBSD, a tool that can create system images of FreeBSD, suitable for use
+in embedded systems, Compact Flash media, etc.
+*
+
+A troubleshooting section has been added to Chapter 24, PPP and SLIP.
+*
+
+Chapter 25, Electronic Mail, has been expanded with new information about
+using alternative transport agents, SMTP authentication, UUCP, fetchmail,
+procmail, and other advanced topics.
+*
+
+Chapter 26, Network Servers, is all new with this edition. This chapter
+includes information about setting up the Apache HTTP Server, FTPd, and
+setting up a server for Microsoft Windows clients with Samba. Some sections
+from Chapter 28, Advanced Networking, were moved here to improve the
+presentation.
+*
+
+Chapter 28, Advanced Networking, has been expanded with new information about
+using Bluetooth devices with FreeBSD, setting up wireless networks, and
+Asynchronous Transfer Mode (ATM) networking.
+*
+
+A glossary has been added to provide a central location for the definitions of
+technical terms used throughout the book.
+*
+
+A number of aesthetic improvements have been made to the tables and figures
+throughout the book.
+
+Changes from the First Edition
+
+The second edition was the culmination of over two years of work by the
+dedicated members of the FreeBSD Documentation Project. The following were the
+major changes in this edition:
+
+*
+
+A complete Index has been added.
+*
+
+All ASCII figures have been replaced by graphical diagrams.
+*
+
+A standard synopsis has been added to each chapter to give a quick summary of
+what information the chapter contains, and what the reader is expected to
+know.
+*
+
+The content has been logically reorganized into three parts: “Getting
+Started”, “System Administration”, and “Appendices”.
+*
+
+Chapter 2 (“Installing FreeBSD”) was completely rewritten with many
+screenshots to make it much easier for new users to grasp the text.
+*
+
+Chapter 3 (“UNIX Basics”) has been expanded to contain additional information
+about processes, daemons, and signals.
+*
+
+Chapter 4 (“Installing Applications”) has been expanded to contain additional
+information about binary package management.
+*
+
+Chapter 5 (“The X Window System”) has been completely rewritten with an
+emphasis on using modern desktop technologies such as KDE and GNOME on
+XFree86™ 4.X.
+*
+
+Chapter 12 (“The FreeBSD Booting Process”) has been expanded.
+*
+
+Chapter 17 (“Storage”) has been written from what used to be two separate
+chapters on “Disks” and “Backups”. We feel that the topics are easier to
+comprehend when presented as a single chapter. A section on RAID (both
+hardware and software) has also been added.
+*
+
+Chapter 23 (“Serial Communications”) has been completely reorganized and
+updated for FreeBSD 4.X/5.X.
+*
+
+Chapter 24 (“PPP and SLIP”) has been substantially updated.
+*
+
+Many new sections have been added to Chapter 28 (“Advanced Networking”).
+*
+
+Chapter 25 (“Electronic Mail”) has been expanded to include more information
+about configuring sendmail.
+*
+
+Chapter 10 (“Linux® Compatibility”) has been expanded to include information
+about installing Oracle® and SAP® R/3®.
+*
+
+The following new topics are covered in this second edition:
+o
+
+Configuration and Tuning (Chapter 11).
+o
+
+Multimedia (Chapter 7)
+
+Organization of This Book
+
+This book is split into five logically distinct sections. The first section,
+Getting Started, covers the installation and basic usage of FreeBSD. It is
+expected that the reader will follow these chapters in sequence, possibly
+skipping chapters covering familiar topics. The second section, Common Tasks,
+covers some frequently used features of FreeBSD. This section, and all
+subsequent sections, can be read out of order. Each chapter begins with a
+succinct synopsis that describes what the chapter covers and what the reader
+is expected to already know. This is meant to allow the casual reader to skip
+around to find chapters of interest. The third section, System Administration,
+covers administration topics. The fourth section, Network Communication,
+covers networking and server topics. The fifth section contains appendices of
+reference information.
+
+Chapter 1, Introduction
+
+Introduces FreeBSD to a new user. It describes the history of the FreeBSD
+Project, its goals and development model.
+Chapter 2, Installation
+
+Walks a user through the entire installation process. Some advanced
+installation topics, such as installing through a serial console, are also
+covered.
+Chapter 3, UNIX Basics
+
+Covers the basic commands and functionality of the FreeBSD operating system.
+If you are familiar with Linux or another flavor of UNIX then you can probably
+skip this chapter.
+Chapter 4, Installing Applications
+
+Covers the installation of third-party software with both FreeBSD's innovative
+“Ports Collection” and standard binary packages.
+Chapter 5, The X Window System
+
+Describes the X Window System in general and using X11 on FreeBSD in
+particular. Also describes common desktop environments such as KDE and GNOME.
+Chapter 6, Desktop Applications
+
+Lists some common desktop applications, such as web browsers and productivity
+suites, and describes how to install them on FreeBSD.
+Chapter 7, Multimedia
+
+Shows how to set up sound and video playback support for your system. Also
+describes some sample audio and video applications.
+Chapter 8, Configuring the FreeBSD Kernel
+
+Explains why you might need to configure a new kernel and provides detailed
+instructions for configuring, building, and installing a custom kernel.
+Chapter 9, Printing
+
+Describes managing printers on FreeBSD, including information about banner
+pages, printer accounting, and initial setup.
+Chapter 10, Linux Binary Compatibility
+
+Describes the Linux compatibility features of FreeBSD. Also provides detailed
+installation instructions for many popular Linux applications such as Oracle,
+SAP R/3, and Mathematica®.
+Chapter 11, Configuration and Tuning
+
+Describes the parameters available for system administrators to tune a FreeBSD
+system for optimum performance. Also describes the various configuration files
+used in FreeBSD and where to find them.
+Chapter 12, Booting Process
+
+Describes the FreeBSD boot process and explains how to control this process
+with configuration options.
+Chapter 13, Users and Basic Account Management
+
+Describes the creation and manipulation of user accounts. Also discusses
+resource limitations that can be set on users and other account management
+tasks.
+Chapter 14, Security
+
+Describes many different tools available to help keep your FreeBSD system
+secure, including Kerberos, IPsec and OpenSSH.
+Chapter 15, Mandatory Access Control
+
+Explains what Mandatory Access Control (MAC) is and how this mechanism can be
+used to secure a FreeBSD system.
+Chapter 17, Storage
+
+Describes how to manage storage media and filesystems with FreeBSD. This
+includes physical disks, RAID arrays, optical and tape media, memory-backed
+disks, and network filesystems.
+Chapter 18, GEOM
+
+Describes what the GEOM framework in FreeBSD is and how to configure various
+supported RAID levels.
+Chapter 19, Vinum
+
+Describes how to use Vinum, a logical volume manager which provides device-
+independent logical disks, and software RAID-0, RAID-1 and RAID-5.
+Chapter 20, Localization
+
+Describes how to use FreeBSD in languages other than English. Covers both
+system and application level localization.
+Chapter 21, The Cutting Edge
+
+Explains the differences between FreeBSD-STABLE, FreeBSD-CURRENT, and FreeBSD
+releases. Describes which users would benefit from tracking a development
+system and outlines that process.
+Chapter 22, NanoBSD
+
+Introduces the NanoBSD tool, which can be used to prepare FreeBSD system
+images for embedded applications, suitable for use in Compact Flash cards or
+other storage medium.
+Chapter 23, Serial Communications
+
+Explains how to connect terminals and modems to your FreeBSD system for both
+dial in and dial out connections.
+Chapter 24, PPP and SLIP
+
+Describes how to use PPP, SLIP, or PPP over Ethernet to connect to remote
+systems with FreeBSD.
+Chapter 25, Electronic Mail
+
+Explains the different components of an email server and dives into simple
+configuration topics for the most popular mail server software: sendmail.
+Chapter 26, Network Servers
+
+Provides detailed instructions and example configuration files to set up your
+FreeBSD machine as a network filesystem server, domain name server, network
+information system server, or time synchronization server.
+Chapter 27, Firewalls
+
+Explains the philosophy behind software-based firewalls and provides detailed
+information about the configuration of the different firewalls available for
+FreeBSD.
+Chapter 28, Advanced Networking
+
+Describes many networking topics, including sharing an Internet connection
+with other computers on your LAN, advanced routing topics, wireless
+networking, bluetooth, ATM, IPv6, and much more.
+Appendix A, Obtaining FreeBSD
+
+Lists different sources for obtaining FreeBSD media on CDROM or DVD as well as
+different sites on the Internet that allow you to download and install
+FreeBSD.
+Appendix B, Bibliography
+
+This book touches on many different subjects that may leave you hungry for a
+more detailed explanation. The bibliography lists many excellent books that
+are referenced in the text.
+Appendix C, Resources on the Internet
+
+Describes the many forums available for FreeBSD users to post questions and
+engage in technical conversations about FreeBSD.
+Appendix D, PGP Keys
+
+Lists the PGP fingerprints of several FreeBSD Developers.
+
+Conventions used in this book
+
+To provide a consistent and easy to read text, several conventions are
+followed throughout the book.
+Typographic Conventions
+
+Italic
+
+An italic font is used for filenames, URLs, emphasized text, and the first
+usage of technical terms.
+Monospace
+
+A monospaced font is used for error messages, commands, environment variables,
+names of ports, hostnames, user names, group names, device names, variables,
+and code fragments.
+Bold
+
+A bold font is used for applications, commands, and keys.
+
+User Input
+
+Keys are shown in bold to stand out from other text. Key combinations that are
+meant to be typed simultaneously are shown with `+' between the keys, such as:
+
+Ctrl+Alt+Del
+
+Meaning the user should type the Ctrl, Alt, and Del keys at the same time.
+
+Keys that are meant to be typed in sequence will be separated with commas, for
+example:
+
+Ctrl+X, Ctrl+S
+
+Would mean that the user is expected to type the Ctrl and X keys
+simultaneously and then to type the Ctrl and S keys simultaneously.
+Examples
+
+Examples starting with E:> indicate a MS-DOS® command. Unless otherwise noted,
+these commands may be executed from a “Command Prompt” window in a modern
+Microsoft® Windows® environment.
+
+E:> toolsfdimage floppieskern.flp A:
+
+Examples starting with # indicate a command that must be invoked as the
+superuser in FreeBSD. You can login as root to type the command, or login as
+your normal account and use su(1) to gain superuser privileges.
+
+# dd if=kern.flp of=/dev/fd0
+
+Examples starting with % indicate a command that should be invoked from a
+normal user account. Unless otherwise noted, C-shell syntax is used for
+setting environment variables and other shell commands.
+
+% top
+
+Acknowledgments
+
+The book you are holding represents the efforts of many hundreds of people
+around the world. Whether they sent in fixes for typos, or submitted complete
+chapters, all the contributions have been useful.
+
+Several companies have supported the development of this document by paying
+authors to work on it full-time, paying for publication, etc. In particular,
+BSDi (subsequently acquired by Wind River Systems) paid members of the FreeBSD
+Documentation Project to work on improving this book full time leading up to
+the publication of the first printed edition in March 2000 (ISBN 1-57176-241-
+8). Wind River Systems then paid several additional authors to make a number
+of improvements to the print-output infrastructure and to add additional
+chapters to the text. This work culminated in the publication of the second
+printed edition in November 2001 (ISBN 1-57176-303-1). In 2003-2004, FreeBSD
+Mall, Inc, paid several contributors to improve the Handbook in preparation
+for the third printed edition.
+I. Getting Started
+
+This part of the FreeBSD Handbook is for users and administrators who are new
+to FreeBSD. These chapters:
+
+*
+
+Introduce you to FreeBSD.
+*
+
+Guide you through the installation process.
+*
+
+Teach you UNIX basics and fundamentals.
+*
+
+Show you how to install the wealth of third party applications available for
+FreeBSD.
+*
+
+Introduce you to X, the UNIX windowing system, and detail how to configure a
+desktop environment that makes you more productive.
+
+We have tried to keep the number of forward references in the text to a
+minimum so that you can read this section of the Handbook from front to back
+with the minimum page flipping required.
+
+Table of Contents
+1 Introduction
+2 Installing FreeBSD
+3 UNIX Basics
+4 Installing Applications: Packages and Ports
+5 The X Window System
+
+Chapter 1 Introduction
+Restructured, reorganized, and parts rewritten by Jim Mock.
+1.1 Synopsis
+
+Thank you for your interest in FreeBSD! The following chapter covers various
+aspects of the FreeBSD Project, such as its history, goals, development model,
+and so on.
+
+After reading this chapter, you will know:
+
+*
+
+How FreeBSD relates to other computer operating systems.
+*
+
+The history of the FreeBSD Project.
+*
+
+The goals of the FreeBSD Project.
+*
+
+The basics of the FreeBSD open-source development model.
+*
+
+And of course: where the name “FreeBSD” comes from.
+
+1.2 Welcome to FreeBSD!
+
+FreeBSD is a 4.4BSD-Lite based operating system for Intel (x86 and Itanium®),
+AMD64, Alpha™, Sun UltraSPARC® computers. Ports to other architectures are
+also underway. You can also read about the history of FreeBSD, or the current
+release. If you are interested in contributing something to the Project (code,
+hardware, unmarked bills), see the Contributing to FreeBSD article.
+1.2.1 What Can FreeBSD Do?
+
+FreeBSD has many noteworthy features. Some of these are:
+
+*
+
+Preemptive multitasking with dynamic priority adjustment to ensure smooth and
+fair sharing of the computer between applications and users, even under the
+heaviest of loads.
+*
+
+Multi-user facilities which allow many people to use a FreeBSD system
+simultaneously for a variety of things. This means, for example, that system
+peripherals such as printers and tape drives are properly shared between all
+users on the system or the network and that individual resource limits can be
+placed on users or groups of users, protecting critical system resources from
+over-use.
+*
+
+Strong TCP/IP networking with support for industry standards such as SLIP,
+PPP, NFS, DHCP, and NIS. This means that your FreeBSD machine can interoperate
+easily with other systems as well as act as an enterprise server, providing
+vital functions such as NFS (remote file access) and email services or putting
+your organization on the Internet with WWW, FTP, routing and firewall
+(security) services.
+*
+
+Memory protection ensures that applications (or users) cannot interfere with
+each other. One application crashing will not affect others in any way.
+*
+
+FreeBSD is a 32-bit operating system (64-bit on the Alpha, Itanium, AMD64, and
+UltraSPARC) and was designed as such from the ground up.
+*
+
+The industry standard X Window System (X11R6) provides a graphical user
+interface (GUI) for the cost of a common VGA card and monitor and comes with
+full sources.
+*
+
+Binary compatibility with many programs built for Linux, SCO, SVR4, BSDI and
+NetBSD.
+*
+
+Thousands of ready-to-run applications are available from the FreeBSD ports
+and packages collection. Why search the net when you can find it all right
+here?
+*
+
+Thousands of additional and easy-to-port applications are available on the
+Internet. FreeBSD is source code compatible with most popular commercial UNIX
+systems and thus most applications require few, if any, changes to compile.
+*
+
+Demand paged virtual memory and “merged VM/buffer cache” design efficiently
+satisfies applications with large appetites for memory while still maintaining
+interactive response to other users.
+*
+
+SMP support for machines with multiple CPUs.
+*
+
+A full complement of C, C++, and Fortran development tools. Many additional
+languages for advanced research and development are also available in the
+ports and packages collection.
+*
+
+Source code for the entire system means you have the greatest degree of
+control over your environment. Why be locked into a proprietary solution at
+the mercy of your vendor when you can have a truly open system?
+*
+
+Extensive online documentation.
+*
+
+And many more!
+
+FreeBSD is based on the 4.4BSD-Lite release from Computer Systems Research
+Group (CSRG) at the University of California at Berkeley, and carries on the
+distinguished tradition of BSD systems development. In addition to the fine
+work provided by CSRG, the FreeBSD Project has put in many thousands of hours
+in fine tuning the system for maximum performance and reliability in real-life
+load situations. As many of the commercial giants struggle to field PC
+operating systems with such features, performance and reliability, FreeBSD can
+offer them now!
+
+The applications to which FreeBSD can be put are truly limited only by your
+own imagination. From software development to factory automation, inventory
+control to azimuth correction of remote satellite antennae; if it can be done
+with a commercial UNIX product then it is more than likely that you can do it
+with FreeBSD too! FreeBSD also benefits significantly from literally thousands
+of high quality applications developed by research centers and universities
+around the world, often available at little to no cost. Commercial
+applications are also available and appearing in greater numbers every day.
+
+Because the source code for FreeBSD itself is generally available, the system
+can also be customized to an almost unheard of degree for special applications
+or projects, and in ways not generally possible with operating systems from
+most major commercial vendors. Here is just a sampling of some of the
+applications in which people are currently using FreeBSD:
+
+*
+
+Internet Services: The robust TCP/IP networking built into FreeBSD makes it an
+ideal platform for a variety of Internet services such as:
+o
+
+FTP servers
+o
+
+World Wide Web servers (standard or secure [SSL])
+o
+
+Firewalls and NAT (“IP masquerading”) gateways
+o
+
+Electronic Mail servers
+o
+
+USENET News or Bulletin Board Systems
+o
+
+And more...
+
+With FreeBSD, you can easily start out small with an inexpensive 386 class PC
+and upgrade all the way up to a quad-processor Xeon with RAID storage as your
+enterprise grows.
+*
+
+Education: Are you a student of computer science or a related engineering
+field? There is no better way of learning about operating systems, computer
+architecture and networking than the hands on, under the hood experience that
+FreeBSD can provide. A number of freely available CAD, mathematical and
+graphic design packages also make it highly useful to those whose primary
+interest in a computer is to get other work done!
+*
+
+Research: With source code for the entire system available, FreeBSD is an
+excellent platform for research in operating systems as well as other branches
+of computer science. FreeBSD's freely available nature also makes it possible
+for remote groups to collaborate on ideas or shared development without having
+to worry about special licensing agreements or limitations on what may be
+discussed in open forums.
+*
+
+Networking: Need a new router? A name server (DNS)? A firewall to keep people
+out of your internal network? FreeBSD can easily turn that unused 386 or 486
+PC sitting in the corner into an advanced router with sophisticated packet-
+filtering capabilities.
+*
+
+X Window workstation: FreeBSD is a fine choice for an inexpensive X terminal
+solution, either using the freely available X11 server or one of the excellent
+commercial servers provided by Xi Graphics. Unlike an X terminal, FreeBSD
+allows many applications to be run locally if desired, thus relieving the
+burden on a central server. FreeBSD can even boot “diskless”, making
+individual workstations even cheaper and easier to administer.
+*
+
+Software Development: The basic FreeBSD system comes with a full complement of
+development tools including the renowned GNU C/C++ compiler and debugger.
+
+FreeBSD is available in both source and binary form on CDROM, DVD, and via
+anonymous FTP. Please see Appendix A for more information about obtaining
+FreeBSD.
+1.2.2 Who Uses FreeBSD?
+
+FreeBSD is used to power some of the biggest sites on the Internet, including:
+
+*
+
+Yahoo!
+*
+
+Apache
+*
+
+Blue Mountain Arts
+*
+
+Pair Networks
+*
+
+Sony Japan
+*
+
+Netcraft
+*
+
+Weathernews
+*
+
+Supervalu
+*
+
+TELEHOUSE America
+*
+
+Sophos Anti-Virus
+*
+
+JMA Wired
+
+and many more.
+1.3 About the FreeBSD Project
+
+The following section provides some background information on the project,
+including a brief history, project goals, and the development model of the
+project.
+1.3.1 A Brief History of FreeBSD
+Contributed by Jordan Hubbard.
+
+The FreeBSD project had its genesis in the early part of 1993, partially as an
+outgrowth of the “Unofficial 386BSD Patchkit” by the patchkit's last 3
+coordinators: Nate Williams, Rod Grimes and myself.
+
+Our original goal was to produce an intermediate snapshot of 386BSD in order
+to fix a number of problems with it that the patchkit mechanism just was not
+capable of solving. Some of you may remember the early working title for the
+project being “386BSD 0.5” or “386BSD Interim” in reference to that fact.
+
+386BSD was Bill Jolitz's operating system, which had been up to that point
+suffering rather severely from almost a year's worth of neglect. As the
+patchkit swelled ever more uncomfortably with each passing day, we were in
+unanimous agreement that something had to be done and decided to assist Bill
+by providing this interim “cleanup” snapshot. Those plans came to a rude halt
+when Bill Jolitz suddenly decided to withdraw his sanction from the project
+without any clear indication of what would be done instead.
+
+It did not take us long to decide that the goal remained worthwhile, even
+without Bill's support, and so we adopted the name “FreeBSD”, coined by David
+Greenman. Our initial objectives were set after consulting with the system's
+current users and, once it became clear that the project was on the road to
+perhaps even becoming a reality, I contacted Walnut Creek CDROM with an eye
+toward improving FreeBSD's distribution channels for those many unfortunates
+without easy access to the Internet. Walnut Creek CDROM not only supported the
+idea of distributing FreeBSD on CD but also went so far as to provide the
+project with a machine to work on and a fast Internet connection. Without
+Walnut Creek CDROM's almost unprecedented degree of faith in what was, at the
+time, a completely unknown project, it is quite unlikely that FreeBSD would
+have gotten as far, as fast, as it has today.
+
+The first CDROM (and general net-wide) distribution was FreeBSD 1.0, released
+in December of 1993. This was based on the 4.3BSD-Lite (“Net/2”) tape from
+U.C. Berkeley, with many components also provided by 386BSD and the Free
+Software Foundation. It was a fairly reasonable success for a first offering,
+and we followed it with the highly successful FreeBSD 1.1 release in May of
+1994.
+
+Around this time, some rather unexpected storm clouds formed on the horizon as
+Novell and U.C. Berkeley settled their long-running lawsuit over the legal
+status of the Berkeley Net/2 tape. A condition of that settlement was U.C.
+Berkeley's concession that large parts of Net/2 were “encumbered” code and the
+property of Novell, who had in turn acquired it from AT&T some time
+previously. What Berkeley got in return was Novell's “blessing” that the
+4.4BSD-Lite release, when it was finally released, would be declared
+unencumbered and all existing Net/2 users would be strongly encouraged to
+switch. This included FreeBSD, and the project was given until the end of July
+1994 to stop shipping its own Net/2 based product. Under the terms of that
+agreement, the project was allowed one last release before the deadline, that
+release being FreeBSD 1.1.5.1.
+
+FreeBSD then set about the arduous task of literally re-inventing itself from
+a completely new and rather incomplete set of 4.4BSD-Lite bits. The “Lite”
+releases were light in part because Berkeley's CSRG had removed large chunks
+of code required for actually constructing a bootable running system (due to
+various legal requirements) and the fact that the Intel port of 4.4 was highly
+incomplete. It took the project until November of 1994 to make this
+transition, at which point it released FreeBSD 2.0 to the net and on CDROM (in
+late December). Despite being still more than a little rough around the edges,
+the release was a significant success and was followed by the more robust and
+easier to install FreeBSD 2.0.5 release in June of 1995.
+
+We released FreeBSD 2.1.5 in August of 1996, and it appeared to be popular
+enough among the ISP and commercial communities that another release along the
+2.1-STABLE branch was merited. This was FreeBSD 2.1.7.1, released in February
+1997 and capping the end of mainstream development on 2.1-STABLE. Now in
+maintenance mode, only security enhancements and other critical bug fixes will
+be done on this branch (RELENG_2_1_0).
+
+FreeBSD 2.2 was branched from the development mainline (“-CURRENT”) in
+November 1996 as the RELENG_2_2 branch, and the first full release (2.2.1) was
+released in April 1997. Further releases along the 2.2 branch were done in the
+summer and fall of '97, the last of which (2.2.8) appeared in November 1998.
+The first official 3.0 release appeared in October 1998 and spelled the
+beginning of the end for the 2.2 branch.
+
+The tree branched again on Jan 20, 1999, leading to the 4.0-CURRENT and 3.X-
+STABLE branches. From 3.X-STABLE, 3.1 was released on February 15, 1999, 3.2
+on May 15, 1999, 3.3 on September 16, 1999, 3.4 on December 20, 1999, and 3.5
+on June 24, 2000, which was followed a few days later by a minor point release
+update to 3.5.1, to incorporate some last-minute security fixes to Kerberos.
+This will be the final release in the 3.X branch.
+
+There was another branch on March 13, 2000, which saw the emergence of the
+4.X-STABLE branch. There have been several releases from it so far: 4.0-
+RELEASE was introduced in March 2000, and the last 4.11-RELEASE came out in
+January 2005.
+
+The long-awaited 5.0-RELEASE was announced on January 19, 2003. The
+culmination of nearly three years of work, this release started FreeBSD on the
+path of advanced multiprocessor and application thread support and introduced
+support for the UltraSPARC and ia64 platforms. This release was followed by
+5.1 in June of 2003. The last 5.X release from -CURRENT branch was 5.2.1-
+RELEASE, introduced in February 2004.
+
+RELENG_5 branch created in August 2004, followed by 5.3-RELEASE, that marks
+beginning of the 5-STABLE branch releases. The most recent 5.4-RELEASE came
+out in May 2005. There will be additional releases from the RELENG_5 branch.
+
+Tree was branched in July 2005, for RELENG_6. 6.0-RELEASE, the first release
+of the 6.X branch was released in November 2005. The most recent 6.1-RELEASE
+came out in May 2006. There will be additional releases from the RELENG_6
+branch.
+
+For now, long-term development projects continue to take place in the 7.X-
+CURRENT (trunk) branch, and SNAPshot releases of 7.X on CDROM (and, of course,
+on the net) are continually made available from the snapshot server as work
+progresses.
+1.3.2 FreeBSD Project Goals
+Contributed by Jordan Hubbard.
+
+The goals of the FreeBSD Project are to provide software that may be used for
+any purpose and without strings attached. Many of us have a significant
+investment in the code (and project) and would certainly not mind a little
+financial compensation now and then, but we are definitely not prepared to
+insist on it. We believe that our first and foremost “mission” is to provide
+code to any and all comers, and for whatever purpose, so that the code gets
+the widest possible use and provides the widest possible benefit. This is, I
+believe, one of the most fundamental goals of Free Software and one that we
+enthusiastically support.
+
+That code in our source tree which falls under the GNU General Public License
+(GPL) or Library General Public License (LGPL) comes with slightly more
+strings attached, though at least on the side of enforced access rather than
+the usual opposite. Due to the additional complexities that can evolve in the
+commercial use of GPL software we do, however, prefer software submitted under
+the more relaxed BSD copyright when it is a reasonable option to do so.
+1.3.3 The FreeBSD Development Model
+Contributed by Satoshi Asami.
+
+The development of FreeBSD is a very open and flexible process, being
+literally built from the contributions of hundreds of people around the world,
+as can be seen from our list of contributors. FreeBSD's development
+infrastructure allow these hundreds of developers to collaborate over the
+Internet. We are constantly on the lookout for new developers and ideas, and
+those interested in becoming more closely involved with the project need
+simply contact us at the FreeBSD technical discussions mailing list. The
+FreeBSD announcements mailing list is also available to those wishing to make
+other FreeBSD users aware of major areas of work.
+
+Useful things to know about the FreeBSD project and its development process,
+whether working independently or in close cooperation:
+
+The CVS repository
+
+The central source tree for FreeBSD is maintained by CVS (Concurrent Versions
+System), a freely available source code control tool that comes bundled with
+FreeBSD. The primary CVS repository resides on a machine in Santa Clara CA,
+USA from where it is replicated to numerous mirror machines throughout the
+world. The CVS tree, which contains the -CURRENT and -STABLE trees, can all be
+easily replicated to your own machine as well. Please refer to the
+Synchronizing your source tree section for more information on doing this.
+The committers list
+
+The committers are the people who have write access to the CVS tree, and are
+authorized to make modifications to the FreeBSD source (the term “committer”
+comes from the cvs(1) commit command, which is used to bring new changes into
+the CVS repository). The best way of making submissions for review by the
+committers list is to use the send-pr(1) command. If something appears to be
+jammed in the system, then you may also reach them by sending mail to the
+FreeBSD committer's mailing list.
+The FreeBSD core team
+
+The FreeBSD core team would be equivalent to the board of directors if the
+FreeBSD Project were a company. The primary task of the core team is to make
+sure the project, as a whole, is in good shape and is heading in the right
+directions. Inviting dedicated and responsible developers to join our group of
+committers is one of the functions of the core team, as is the recruitment of
+new core team members as others move on. The current core team was elected
+from a pool of committer candidates in July 2004. Elections are held every 2
+years.
+
+Some core team members also have specific areas of responsibility, meaning
+that they are committed to ensuring that some large portion of the system
+works as advertised. For a complete list of FreeBSD developers and their areas
+of responsibility, please see the Contributors List
+
+Note: Most members of the core team are volunteers when it comes to FreeBSD
+development and do not benefit from the project financially, so “commitment”
+should also not be misconstrued as meaning “guaranteed support.” The “board of
+directors” analogy above is not very accurate, and it may be more suitable to
+say that these are the people who gave up their lives in favor of FreeBSD
+against their better judgment!
+
+Outside contributors
+
+Last, but definitely not least, the largest group of developers are the users
+themselves who provide feedback and bug fixes to us on an almost constant
+basis. The primary way of keeping in touch with FreeBSD's more non-centralized
+development is to subscribe to the FreeBSD technical discussions mailing list
+where such things are discussed. See Appendix C for more information about the
+various FreeBSD mailing lists.
+
+The FreeBSD Contributors List is a long and growing one, so why not join it by
+contributing something back to FreeBSD today?
+
+Providing code is not the only way of contributing to the project; for a more
+complete list of things that need doing, please refer to the FreeBSD Project
+web site.
+
+In summary, our development model is organized as a loose set of concentric
+circles. The centralized model is designed for the convenience of the users of
+FreeBSD, who are provided with an easy way of tracking one central code base,
+not to keep potential contributors out! Our desire is to present a stable
+operating system with a large set of coherent application programs that the
+users can easily install and use -- this model works very well in
+accomplishing that.
+
+All we ask of those who would join us as FreeBSD developers is some of the
+same dedication its current people have to its continued success!
+1.3.4 The Current FreeBSD Release
+
+FreeBSD is a freely available, full source 4.4BSD-Lite based release for Intel
+i386™, i486™, Pentium®, Pentium Pro, Celeron®, Pentium II, Pentium III,
+Pentium 4 (or compatible), Xeon™, DEC Alpha and Sun UltraSPARC based computer
+systems. It is based primarily on software from U.C. Berkeley's CSRG group,
+with some enhancements from NetBSD, OpenBSD, 386BSD, and the Free Software
+Foundation.
+
+Since our release of FreeBSD 2.0 in late 94, the performance, feature set, and
+stability of FreeBSD has improved dramatically. The largest change is a
+revamped virtual memory system with a merged VM/file buffer cache that not
+only increases performance, but also reduces FreeBSD's memory footprint,
+making a 5 MB configuration a more acceptable minimum. Other enhancements
+include full NIS client and server support, transaction TCP support, dial-on-
+demand PPP, integrated DHCP support, an improved SCSI subsystem, ISDN support,
+support for ATM, FDDI, Fast and Gigabit Ethernet (1000 Mbit) adapters,
+improved support for the latest Adaptec controllers, and many thousands of bug
+fixes.
+
+In addition to the base distributions, FreeBSD offers a ported software
+collection with thousands of commonly sought-after programs. At the time of
+this printing, there were over 13,300 ports! The list of ports ranges from
+http (WWW) servers, to games, languages, editors, and almost everything in
+between. The entire Ports Collection requires approximately 440 MB of storage,
+all ports being expressed as “deltas” to their original sources. This makes it
+much easier for us to update ports, and greatly reduces the disk space demands
+made by the older 1.0 Ports Collection. To compile a port, you simply change
+to the directory of the program you wish to install, type make install, and
+let the system do the rest. The full original distribution for each port you
+build is retrieved dynamically off the CDROM or a local FTP site, so you need
+only enough disk space to build the ports you want. Almost every port is also
+provided as a pre-compiled “package”, which can be installed with a simple
+command (pkg_add) by those who do not wish to compile their own ports from
+source. More information on packages and ports can be found in Chapter 4.
+
+A number of additional documents which you may find very helpful in the
+process of installing and using FreeBSD may now also be found in the /usr/
+share/doc directory on any recent FreeBSD machine. You may view the locally
+installed manuals with any HTML capable browser using the following URLs:
+
+The FreeBSD Handbook
+
+/usr/share/doc/handbook/index.html
+The FreeBSD FAQ
+
+/usr/share/doc/faq/index.html
+
+You can also view the master (and most frequently updated) copies at http://
+www.FreeBSD.org/.
+Chapter 2 Installing FreeBSD
+Restructured, reorganized, and parts rewritten by Jim Mock. The sysinstall
+walkthrough, screenshots, and general copy by Randy Pratt.
+2.1 Synopsis
+
+FreeBSD is provided with a text-based, easy to use installation program called
+sysinstall. This is the default installation program for FreeBSD, although
+vendors are free to provide their own installation suite if they wish. This
+chapter describes how to use sysinstall to install FreeBSD.
+
+After reading this chapter, you will know:
+
+*
+
+How to create the FreeBSD installation disks.
+*
+
+How FreeBSD refers to, and subdivides, your hard disks.
+*
+
+How to start sysinstall.
+*
+
+The questions sysinstall will ask you, what they mean, and how to answer them.
+
+Before reading this chapter, you should:
+
+*
+
+Read the supported hardware list that shipped with the version of FreeBSD you
+are installing, and verify that your hardware is supported.
+
+Note: In general, these installation instructions are written for i386 (“PC
+compatible”) architecture computers. Where applicable, instructions specific
+to other platforms (for example, Alpha) will be listed. Although this guide is
+kept as up to date as possible, you may find minor differences between the
+installer and what is shown here. It is suggested that you use this chapter as
+a general guide rather than a literal installation manual.
+
+2.2 Pre-installation Tasks
+2.2.1 Inventory Your Computer
+
+Before installing FreeBSD you should attempt to inventory the components in
+your computer. The FreeBSD installation routines will show you the components
+(hard disks, network cards, CDROM drives, and so forth) with their model
+number and manufacturer. FreeBSD will also attempt to determine the correct
+configuration for these devices, which includes information about IRQ and IO
+port usage. Due to the vagaries of PC hardware this process is not always
+completely successful, and you may need to correct FreeBSD's determination of
+your configuration.
+
+If you already have another operating system installed, such as Windows or
+Linux, it is a good idea to use the facilities provided by those operating
+systems to see how your hardware is already configured. If you are not sure
+what settings an expansion card is using, you may find it printed on the card
+itself. Popular IRQ numbers are 3, 5, and 7, and IO port addresses are
+normally written as hexadecimal numbers, such as 0x330.
+
+We recommend you print or write down this information before installing
+FreeBSD. It may help to use a table, like this:
+
+Table 2-1. Sample Device Inventory
+Device Name IRQ IO port(s) Notes
+First hard disk N/A N/A 40 GB, made by Seagate, first IDE master
+CDROM N/A N/A First IDE slave
+Second hard disk N/A N/A 20 GB, made by IBM, second IDE master
+First IDE controller 14 0x1f0
+Network card N/A N/A Intel® 10/100
+Modem N/A N/A 3Com® 56K faxmodem, on COM1
+...
+2.2.2 Backup Your Data
+
+If the computer you will be installing FreeBSD on contains valuable data, then
+ensure you have it backed up, and that you have tested the backups before
+installing FreeBSD. The FreeBSD installation routine will prompt you before
+writing any data to your disk, but once that process has started it cannot be
+undone.
+2.2.3 Decide Where to Install FreeBSD
+
+If you want FreeBSD to use your entire hard disk, then there is nothing more
+to concern yourself with at this point -- you can skip this section.
+
+However, if you need FreeB
+ PoutnikXCV [Muž]  _V_Y_M_A_Z_A_T
+Tato zpověď byla vyřazena z hlavní stránky!
+
+  Pro hlasovali: Unrealik, Memphis *je vůl*, Dalek, godyna, BlackLemon
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+13.05.2006 23:11:36
+Tak to mě mrzí, tak se jí prostě svěř nebo se jdi oběsit...
+ _G_l_o_a_t [Žena]16 [Kategorie]
+13.05.2006 21:56:57
+Jo Zdenda má pravdu :-)
+[Smajlík]  [Žena]29 [Kategorie]
+ _Š_p_u_n_t_i_d_l_o
+13.05.2006 21:54:07
+Kdyby to mělo nějaký smysl,tak prosim..ale takhle máš bod.
+[Smajlík]   [Žena]17 [Kategorie]
+ _B_l_a_c_k_L_e_m_o_n
+13.05.2006 21:22:09
+myslim,že Alien už tě v dřívějšku určitě předběhl...
+ _g_o_d_y_n_a [Žena]19 [Kategorie]
+13.05.2006 21:07:58
+Zajímavé!to jsem se zase jednou dozvedel vecí!
+[Smajlík]  [Muž]15 [Kategorie]
+ _R_a_z_D_v_a_T_r_i
+13.05.2006 20:52:03
+Vám všem tohle stojí za reakci?
+ Bennie
+13.05.2006 20:28:18
+Ty jsi ale debil, fakt.
+[Smajlík] [Muž]18 [Kategorie]
+ _T_h_e_ _W_i_l_d
+13.05.2006 20:28:16
+Jo, moc zajímavý.. každopádně i myslim, že by sis měl najít holku a tohle ze
+sebe ostat jinak :)
+[Smajlík] [Muž]27 [Kategorie]
+ _x_Z_d_e_n_i_s_h
+13.05.2006 20:17:06
+Jeste si mel dodat a tady je preklad:o))))
+[Smajlík]           [Žena]21 [Kategorie]
+ _D_o_r_o_t_k_a_ _z_e_ _z_e_m_e_ _O_z
+13.05.2006 20:13:36
+Cele som to cital...bozzzzzeeeeeeeeeee nema to zmysel...A TERAZ BUDE MOJA TO
+UVIDIS!!!!!!!!!!!!!
+ _w_a_x_e_r_s [Muž]23 [Kategorie]
+13.05.2006 20:11:00
+Kua to se nuložilo fšechno!
+[Smajlík]
+ PoutnikXCV
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+
