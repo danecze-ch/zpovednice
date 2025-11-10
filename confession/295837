@@ -1,0 +1,268 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+Diskuze č.295837, vloženo 29.03.2008 14: _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+00:44                                    _s_t_r_á_n_k_a_]
+Žádné viry žádný spam vše maká
+Mám to nainstalované a právě z tohoto systému jsem se připojil je to zázrak a
+zadarmo lepší než všechny jiné operační systémy
+Zde to lze stáhnout
+http://releases.ubuntu.com/rel eases/8.04/
+
+Ano žádné viry žádný spam vše maká jak má
+
+Nápady a myšlenky pro Ubuntu 8.04 Hardy Heron
+
+Ubuntu Gutsy Gibbon se ještě nestihlo na počítačích ani ohřát a už se hovoří o
+jeho nástupci. Ten sice vyjde až v dubnu 2008, ale vývojáři už sedí nad
+podrobnými plány a rýsují se první novinky, které by nás mohly v budoucnu
+potkat. Podíváme se na některé z nich a nahlédneme tak do pomyslné kuchyně.
+Reklama
+Více k tématu článku (nálepky a slovníček)
+Nálepky
+
+1. Ubuntu
+
+Ačkoliv máme k dispozici čerstvé Ubuntu Gutsy Gibbon a z pohledu uživatele by
+se mohlo zdát, že je hotovo, opak je pravdou. Vývoj samozřejmě pokračuje
+nezměněným tempem a už se připravuje nová verze, která opět vyjde za půl roku –
+tedy v dubnu 2008. Vývojáři nyní dávají dohromady plány a už je k dispozici 130
+nových nápadů a věcí, které by bylo dobré do příštího vydání udělat.
+
+Protože Ubuntu je v současné době zřejmě nejpoužívanější distribucí vůbec,
+udává tempo ostatním desktopovým distribucím. Je proto dobré vědět, co se ve
+vývojářské kuchyni právě vaří. Nahlédneme tak nejen po pomyslnou pokličku, ale
+také možná do nejbližší budoucnosti linuxového desktopu.
+
+Článek vychází z anglického originálu In-Depth Roadmap Analysis For Ubuntu
+Hardy Heron 8.04.
+
+Všechny novinky je možno rozdělit do čtyřech samostatných kategorií:
+
+* uživatelské prostředí
+* sítě
+* bezpečnost
+* podpora
+
+Také my se podíváme na to nejzajímavější a rozdělíme si plány do těchto čtyř
+kategorií.
+Uživatelské prostředí
+Nové grafické téma
+
+Ubuntu používá velmi podobně laděné rozhraní vlastně už od první verze Warty
+Warthog. Po třech letech by tedy mělo dojít k velké změně. A změna to bude prý
+skutečně radikální. Postihne instalátor, bootovací obrazovku, pozatí,
+startovací obrazovky aplikací, efekty prostředí, kurzory a dokonce podobu Wine.
+Zdroje třetích stran
+
+Přidávání dalších repositářů pro instalace není pro některé uživatele zrovna
+snadné. Vývojáři proto chystají zjednodušení celé věci. Chtějí navrhnout nový
+formát souboru, jehož otevřením dojde k automatickému přidání příslušného
+repositáře a instalaci balíčků. Na web o aplikaci tak bude stačit přidat onen
+soubor s odkazem a každý, kdo bude mít zájem, si jedním klikem program
+nainstaluje.
+
+To není obecně samozřejmě žádná novinka a v podobě .ymp souborů tuto funkci
+nabízí například také distribuce OpenSUSE. Snaha o zjednodušení je nicméně
+chvályhodná.
+X.Org 7.3
+
+Nový grafický systém, který se měl objevit už v Gutsy Gibbon, ale ještě nebyl
+dokončen. Jeho vývojáři tak mají dalších několik měsíců pro ladění a přípravu
+na finální vydání. Přinést by měl automatickou konfiguraci grafického rozhraní,
+automatický start i při problémech s ovladači a další příjemné vlastnosti.
+Podpora více monitorů
+
+Souvisí s předchozím bodem. Díky nové verzi X serveru bude velmi snadné
+připojit další monitor či třeba dataprojektor a jedním kliknutím vybrat, zda se
+má tvářit jako rozšíření pracovní plochy, nebo zda se má obraz duplikovat.
+Hladký start
+
+Vývojáři se také domnívají, že start Ubuntu není tak příjemný, jak by mohl být.
+Obvykle se přepíná několik grafických režimů, přechází se z textového do
+grafického (FB), pak znovu do jiného grafického (X) a podobně. Totéž se děje
+během vypínání počítače.
+
+Nová verze by měla zpříjemnit dojem ze startu a systém tak bude vypadat
+konzistentněji a profesionálně. Implementace ještě není přesně jasná, ale
+výsledkem by mělo být jedno rozlišení od startu až po úplné vypnutí.
+Instalace bez přepisování /home
+
+Pokud provádíte novou instalaci distribuce, musíte zálohovat svůj domovský
+adresář, aby náhodou nedošlo k jeho poškození. Nové Ubuntu bude s touto
+variantou počítat a automaticky použije /home, který nalezne na disku, aniž by
+jej poškodilo. Případná výměna distribuce by proto měla být mnohem jednodušší.
+Provoz na plných discích
+
+Obecným problémem linuxových distribucí je nemožnost plného provozu se
+zaplněnými disky. Mnoho systémů odmítne nastartovat nebo se vám nepodaří
+přihlásit. Implementace je ve velmi raném stádiu, ale ve výsledku byste měli
+být informováni o tom, že je disk plný a mělo by vám být navrženo snadné řešení
+v podobě automatického průvodce.
+Rychlejší start systému i aplikací
+
+V rámci Google Summer of Code je připravován projekt, který má za úkol sledovat
+start jednotlivých aplikací a při dalších pouštěných jim dopředu načítat a
+předávat potřebné soubory. Ve výsledku by se tak měl urychlit start aplikací,
+ale i samostatného systému.
+Vylepšení správce balíčků
+
+Pro začátečníky je určena tato novinka, která nabídne nového správce balíčků.
+Ten bude ukazovat například screenshoty, podrobné popisy aplikací, hodnocení
+uživatelů, nejnovější aplikace v repositářích a podobně. Výsledkem bude
+podstatně snazší orientace začátečníků v hromadách rozličných aplikací.
+Jednoduchá integrace Samby
+
+V plánu je také podstatné zjednodušení sdílení souborů. Pokud zvolíte, že
+hodláte sdílet některý adresář, systém se vás sám zeptá, jestli nechcete
+nainstalovat i Sambu. Pokud instalaci odsouhlasíte, přibude ve vlastnostech
+adresáře možnost sdílení skrze Sambu, kterou tak zapnete jedním zaškrtnutím
+políčka.
+Síť
+Modulární konfigurace sítě
+
+Vývojáři hodlají rozdělit soubor /etc/network/interfaces do samostatných
+konfiguračních souborů podle jednotlivých rozhraní. To sice nabídne jednodušší
+správu z grafických aplikací, ale pokud budete síť nastavovat z řádky, tak se
+upíšete. Vývojáři ale spíše předpokládají klikajícího než editujícího
+uživatele.
+Podpora vytáčeného spojení
+
+Ačkoliv dial-up už léta umírá, stále jsou tu uživatelé, kteří jej používají. V
+Network Manageru přibude nová možnost nastavit a spravovat vytáčená spojení a
+ADSL. Klik klik a jste online.
+Bezpečnost
+Podpora pro šifrované souborové systémy
+
+Už nyní je možno instalovat systém na šifrovaný disk. Zatím je ale potřeba
+použít alternativní postup, který není příliš triviální. V budoucnu by mělo být
+možno prostě během instalace zaškrtnout, že chceme disk šifrovat a instalátor
+provede všechny potřebné akce za nás.
+Instalace ze sítě přímo na CD
+
+Instalační CD bude obsahovat vlastní netboot server, který umožní instalovat
+přímo po síti z tenkých klientů nebo jiných strojů. Do jednoho počítače
+založíte médium, nastartujete a ostatní už budou instalovat po síti.
+Konec provozu aplikací pod rootem
+
+Pokud chcete nyní provozovat nějakou administrační aplikaci, systém se zeptá na
+heslo a spustí ji s příslušnými právy. Nově by se měl systém ptát až ve chvíli,
+kdy bude třeba zapsat konfigurační soubor, a pak práva zase odebere. Sníží se
+tak riziko zneužití některé bezpečnostní chyby v grafické utilitě.
+Podpora
+Zasílání informací o instalaci
+
+Tohle se zřejmě nebude všem uživatelům líbit, ale vývojáři chtějí mít přehled o
+tom, kdo má nainstalováno Ubuntu. Systém tak bude zasílat informace o tom, že
+se podařilo stáhnout, nainstalovat a spustit novou instalaci Ubuntu. Informace
+budou anonymní a čísla budou k dispozici veřejnosti. Tedy pokud se to bude
+uživatelům líbit a nebudou to považovat za „špehování“ Velkým Bratrem.
+Informace o místních skupinách uživatelů
+
+V rámci podpory komunity by mohla být přidána tato zajímavá funkce. Jakmile při
+instalaci zvolíte časové pásmo, automaticky vám bude nabídnut seznam organizací
+a sdružení uživatelů, které se Ubuntu zabývají. Můžete se tak hned přidat.
+Vylepšené balíčkovací fórum
+
+Aktuální fórum zabývající se balíčky je nedostatečně propagované a mnoho
+uživatelů o něm neví. Je proto potřeba jej dostat do povědomí a nabídnout jeho
+služby širšímu okruhu lidí.
+Video návody po ruce
+
+Myšlenka je jednoduchá: Nevíte si rady? Klikněte v menu a my vám naservírujeme
+pěkné video s návodem, podle kterého se naučíte svůj problém vyřešit. Velmi
+užitečný nápad. Pokud se navíc do přípravy videoklipů pustí ve velkém i
+uživatelé...
+Sledování informací na fórech
+
+Některé informace na fórech Ubuntu jsou zastaralé nebo nefunkční. Nový tým
+správců by se měl tímto problémem zabývat a měl by vyhodnotit, které informace
+jsou již neplatné, a upravit je dle aktuální situace.
+Automatické odesílání hlášení chyb
+
+Pro odstraňování chyb je jistě dobré, aby byly vývojáři informováni o co
+největším počtu problémů, které se u uživatelů objeví. Pokud bude odesílání
+probíhat automaticky a na pozadí, pak nejsem proti. Ale další vyskakovací okno
+typu „Aplikace havarovala, odešlete report!“ už opravdu ne.
+Instalace Ubuntu z MS Windows
+
+Uživatelé nemají příliš rádi stahování ISO souborů, jejich vypalování,
+přerozdělování disků a podobné akce, které jsou běžně potřeba pro instalaci
+(nejen) Ubuntu. V budoucnu postačí stáhnout malý soubor ubuntu-setup.exe, který
+provede instalaci Ubuntu jako jakékoliv běžné aplikace.
+
+Při bootu pak bude možno zvolit, který systém chce uživatel natáhnout.
+Přerozdělování disku nebude nutné, protože Ubuntu se nainstaluje mezi stávající
+aplikace do Windows. Stejně tak odinstalace bude probíhat jako u jakékoliv
+běžné aplikace.
+Závěrem
+
+Nápadů je skutečně hodně a některé z nich jsou opravdu zajímavé. To ovšem
+neznamená, že se všechny dostanou do nového Ubuntu nebo že se jimi vůbec bude
+někdo zabývat.
+
+Co vy na to? Líbí se vám ony potenciální novinky? Nebo byste chtěli něco úplně
+jiného?
+ Hardy Heron E-MAIL: _k_o_u_b_a_v_i_t_@_s_e_z_n_a_m_._c_z  [Muž]54  _V_Y_M_A_Z_A_T
+Tato zpověď byla vyřazena z hlavní stránky!
+
+  Pro hlasovali: Rainbow Star, Dalek, Odpočinek, nEhE, Gramatický démon
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+29.03.2008 14:27:01
+od kdy si e-mailový spam vybírá podle OS ???
+[Smajlík]
+ balvane mlc
+29.03.2008 14:08:25
+Ja nemam zadny spam ani viry. Vsechno bezi, jak ma. Jsem spokojeny uzivatel
+Windows XP Pro.
+[Smajlík] [Muž] [Kategorie]
+ _n_E_h_E
+29.03.2008 14:03:43
+_h_t_t_p_:_/_/_w_i_n_d_o_w_s_-_l_i_n_u_x_-_u_n_i_x_._b_l_o_g_s_p_o_t_._c_o_m_/_2_ 008/03/ubuntu-804.html
+Zde je místo odkud jsem to stáhnul je to můj blog
+[Smajlík] [Muž]61 [Kategorie]
+ _b_h_a_g_a_v_a_n
+29.03.2008 14:01:49
+Bhagave!
+[Smajlík]      [Muž] [Kategorie]
+ _T_v_ů_j_ _n_e_p_ř_í_t_e_l
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+
