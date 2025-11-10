@@ -1,0 +1,244 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+Diskuze č.363744, vloženo 04.02.2009 17: _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+36:38                                    _s_t_r_á_n_k_a_]
+anonymní zpovědnice? HTTPS
+Ahoj,
+
+Premyslim nad tim, proc neni zpovednice dostupna taky pres https - bez https
+prece neni zadna anonymita... Napr. muj ISP takhle vi o me uplne vsechno - vi
+jak vypadam, i co sem kdy tady napsal.. Jelikoz zpovednice bezi pouze pres
+http, tak si to kazdej muze precist (kazdej kdo je mezi mnou a zpovednici)..
+Celkem me to naplnuje obavami, precejen tady clovek pise sva tajemstvi, ktere
+by mnohdy nechtel, aby nekdo vedel, ze to psal on...
+
+Jsem tu jediny, koho to znepokojuje ? Nebo jsem jen blbej a je tu nejaka jina
+moznost jak byt anonymni (rozumej sifrovany prenos)
+
+Diky a mejte se
+ _n_o_r_m_á_l_n_ě_ _n_e_n_o_r_m_á_l_n_í [Muž]24 [Kategorie]  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+05.02.2009 23:33:12
+No a co kdyz vyprsi jeho platnost, nebo ho bude potreba vymenit - jak pak
+poznas ze je potreba vymenit a ne ze je podvrzenej ? Podle me by ti to nc moc
+na tomhle serveru neprineslo.
+
+Jinak muzem dale polemizovat o tom, co by se stalo kdyby ti utocnik spoofnul
+certifikat hned pri prvnim prihlaseni atd atd.
+
+Jinak vim jak certifikaty fungujou a vim i co to prinasi ale naopak kde
+nastavaj problemy (jo takova vyprsena platnost u certifikatu to je vec, nekde
+se certifikat nasasdi a pak se zapomene ze tam je a pak se snifuje,
+ssldumpuje, wiresharkuje a nakonec v potu tvare se udela novej certifikat).
+Kdysi sem i PKI skolil a na ldaps nebo https servery se staram prakticky
+neustale. Abych parafrazoval cimmrana - coz o to napad jiste dobry ale
+vysledky ne vzdy jsou dobre a nemyslim si ze zrovna serveru jako je zpovednice
+to neco prinese. Pravda ciste pro testovaci ucely by se to zapnout mohlo.
+ _V_e_l_d_r_a_n_e [Muž]34 [Kategorie]
+05.02.2009 12:12:33
+viz 3DFX4eva - napadlo mě okamžitě to samé. Že tě kontroluje bezmála systém
+Velkého bratra, to ti nevadí, ale znervózňuje tě Zpovědnice:-)
+ _k_r_i_s_t_u_s_e_k [Muž]37 [Kategorie]
+04.02.2009 23:25:11
+normálně nenormální: a k čemu ti to bude šifrovaný, když si to tady (a to je
+účel (!) ) přečte půlka republiky?
+[Smajlík] [Muž]36 [Kategorie]
+ _c_m_o_s
+04.02.2009 21:17:26
+Veldrane: jeste dodatek ohledne toho self-signed certifikatu:
+Kdyby to zpovednice nasadila, a ja bych sem prisel na https://, hned bych si
+ten certifikat importnul. A ted kdyby muj provider chtel sledovat moji
+komunikaci, musel by pouzit MITM attack (podvrhnout falesny certifikat). Ale
+jelikoz ja bych mel ten pravej importnutej, tak bych to poznal. Takze imho
+troufam si tvrdit, ze verohodnost serveru bych mel 100% a navic i sifrovani -
+citil bych se krasne anonymne - sveril bych sve problemy beze strachu .-).
+Jinak jeste bych dodal, ze self-signed certifikaty se pouzivaji v masovem
+meritku (miliony nejruznejsich serveru).. a zrovna pro zpovednici bych videl
+to prave vyuziti - vzdyt tvuj provider je tvuj nejblizsi clanek se svetem -
+muze to byt tvuj soused.
+ _n_o_r_m_á_l_n_ě_ _n_e_n_o_r_m_á_l_n_í [Muž]24 [Kategorie]
+04.02.2009 21:05:37
+amoniak: kdybych byl tvuj provider internetu, tak bych to mohl zjistit lehce.
+A k tomu si jeste cist tve zpovedi (at je napises pod jakymkoliv nickem)
+ _n_o_r_m_á_l_n_ě_ _n_e_n_o_r_m_á_l_n_í [Muž]24 [Kategorie]
+04.02.2009 21:03:50
+Veldrane: ze na strane zpovednice vi kazdy vsechno mi vubec nevadi, ale prave
+na strane providera (coz je nejblizsi clanek zpovednika) by se to dalo formou
+https ochranit - samozrejme ne uplne, ale aspon si to ten provider nemuze cist
+jen tak "z nudy".. Jinak souhlasim, ze clovek toho na sebe za par let praskne
+spoustu.. Ale aspon to nevi ten nejblizsi clanek - "soused Franta"
+
+Visco, ja nechci zadnej podepsanej certifikat od verisignu atp., jen prosté
+sifrovani, ktere nestoji prakticky nic (self-signed cert), cimz se radove
+zvysi anonymita (coz bych uvital, jelikoz jsem paranoidni)
+ _n_o_r_m_á_l_n_ě_ _n_e_n_o_r_m_á_l_n_í [Muž]24 [Kategorie]
+04.02.2009 20:56:35
+jak poznaj jak vypadám?:-O
+ _a_m_o_n_i_a_k [Žena]26 [Kategorie]
+04.02.2009 19:44:25
+Ehm a k cemu to jako ma byt ? Nota bene se self singed ceritifikatem - to je
+nahovno - nepoznas ze zpovednice je opravdu zpovednici. A co se tyce anonymity
+- https ti zadnou anonymitu nezaruci. Ok kanal muze bejt kryptovanej ale to je
+tak asi vsechno. Na strane zpovedky stejne vi kazdej vsechno, na strane
+providera vi stejne kazdej vsechno, v googlu by jednotlivy zpovedi byly
+vyhledatelny. Pokud Ti to vadi - udelej si treba ssh proxy. A dalsi vec -
+pokud pod jednim nickem pises rok ci dva tak stejne casem na sebe par veci
+prasknes (poznas tu novy lidi, rozhodis icq, maily atd) a ani tady nmeni https
+reseni. HTTPS se póuziva u opravdu citlivejch dat a tam kde ma smysl overovat
+verohodnost serveru, klienta a sifrovat. A to si pri vsi ucte myslim ze
+zpovednice neni.
+ _V_e_l_d_r_a_n_e [Muž]34 [Kategorie]
+04.02.2009 18:08:37
+Marek-lib: ja bych urcite prispel na ty provozni naklady, ikdyz neverim, ze by
+to byl nejaky markantni rozdil...
+
+3DFX4eva: smiril jsem se s kazdou tou veci, co jsi napsal. Ale opravdu bych
+nerad, aby mi nekdo videl i do hlavy..
+
+Velký Mayús: jdu napsat pajkovi
+[Smajlík]            [Muž]24 [Kategorie]
+ _n_o_r_m_á_l_n_ě_ _n_e_n_o_r_m_á_l_n_í
+04.02.2009 18:01:19
+normálně nenormální: tak to neříkej nám, ale řekni to pajkovi, pak nám napiš
+jestli ses dočkal aspoň zamítavé odpovědi :D
+[Smajlík]    [Muž] [Kategorie]
+ _V_e_l_k_ý_ _M_a_y_ú_s
+04.02.2009 17:57:00
+Velký Mayús: vsak ja bych nechtel zrusit http. Ja bych chtel jen \'navic\'
+moznost pristupovat pres https (klidne se self-signed certifikatem)
+ _n_o_r_m_á_l_n_ě_ _n_e_n_o_r_m_á_l_n_í [Muž]24 [Kategorie]
+04.02.2009 17:54:48
+xZdenish: no vidisto, ja ale treba nechci, aby nekdo vedel kdo jsem. Na to je
+to zpovednice, ne? Ani ten farar na toho cloveka nevidi (je tam clona). Jinak
+smlouvu jsi podepsat musel, ne? Takze fyzicky kontakt tam byl, coz jsem chtel
+rict tou vetou "tvuj ISP te zna"
+Jinak souhlasim se vsemi budoucimi komentari, ze jsem paranoidni..
+ _n_o_r_m_á_l_n_ě_ _n_e_n_o_r_m_á_l_n_í [Muž]24 [Kategorie]
+04.02.2009 17:54:35
+normálně nenormální:
+"...To nikomu neva, jo?..."
+
+To vis ze jo. Jediny co Tvyho providera zajima jsou tajnosti ktery pises na
+ZP. Hned jak se pripojis na ZP tak maji nastavenej alarm, vsichni se slezou,
+pusti si to projektorem na zed a smejou se Ti. Mobil mas? A nevadi Ti ze Tvuj
+operator vi kde se nachazis, posloucha si Tvoje hovory a cte Tvoje SMS?
+Platebni kartu mas? A nevadi Ti ze lide v bance vedi kdy a kde a za co
+utracis? Kamery na ulicich Ti nevadi? Nic ve zlem ale umim si predstavit
+mnohem, mnohem horsi naruseni soukromi nez je ZP na HTTP...
+ _3_D_F_X_4_e_v_a [Muž]46 [Kategorie]
+04.02.2009 17:53:52
+normálně nenormální: ty bys měl lepší pocit, ale většina lidí by vyděšeně
+čuměla na červený hlášky a na odkaz pokračovat na tento web (nedoporučeno).
+[Smajlík]    [Muž] [Kategorie]
+ _V_e_l_k_ý_ _M_a_y_ú_s
+04.02.2009 17:53:19
+Marek-lib: dik, už mi to došlo z příspěvků.
+
+Nicméně by mě teda ani nenapadlo, že by provider zkoumal, co píšu na
+zpovědnici.
+ _m_o_v_c [Muž]27 [Kategorie]
+04.02.2009 17:50:19
+movc: Internet Service Provider (ten, komu platíš za připojení k netu)
+Velký Mayús: Ano, zbytečné peníze, cpát je takhle Microsoftu :-). Pak je ještě
+další aspekt - šifrované spojení je trochu náročnější na čas zpracování,
+provedení a přenášená data (aspoň myslím) a to by se opět odrazilo ve finanční
+stránce provozu serveru.
+ _M_a_r_e_k_-_l_i_b [Muž]35 [Kategorie]
+04.02.2009 17:49:57
+Velký Mayús: Pokud se do neschopnosti počítá i zdechlost, tak ano, jsem
+neschopný.
+ _m_o_v_c [Muž]27 [Kategorie]
+04.02.2009 17:49:37
+Velký Mayús: ja bych se spokojil se self-signed certifikatem... Zkratka
+sifrovana komunikace.. Samozrejme, ze to neni vselek (MITM atacky atd.), ale
+urcite bych mel o 99% lepsi pocit, nez takhle vedet, ze to jde po internetu v
+plain textu
+[Smajlík]            [Muž]24 [Kategorie]
+ _n_o_r_m_á_l_n_ě_ _n_e_n_o_r_m_á_l_n_í
+04.02.2009 17:48:10
+movc: to nevím, každopádně jsi neschopnej to napsat do googlu.
+[Smajlík]    [Muž] [Kategorie]
+ _V_e_l_k_ý_ _M_a_y_ú_s
+04.02.2009 17:47:32
+A jaks přišel na to, že mě zná? A že ho zajímaj zrovna moje zpovědi? :)
+Pochybuju, že doma zrovna UPC ví jak vypadam a zajímam je, a že na koleji
+zajímá UK nějakej já :) Ale ty maj mojí fotku, to je pravda. :)
+
+No, mně to ael neva, já vám klidně řeknu, že se jmenuju Zdeněk Smrček, bydlim
+do Zátiší 6, Cheb, 350 02, ořechodné bydliště Kolej Švehlova, Slavíkova 22,
+Praha 3, 130 00.
+
+Zájemcům můžu říct i svoje telefoní číslo :)
+
+Takže asi tolik k mojí anonymitě, já se za sebe nestydím, jsem jaký jsem a to,
+že bych držel v tajnosti, na tom nic nezmění ;)
+[Smajlík] [Muž]27 [Kategorie]
+ _x_Z_d_e_n_i_s_h
+04.02.2009 17:47:07
+Jsem jediný, kdo neví, co je ISP?
+ _m_o_v_c [Muž]27 [Kategorie]
+04.02.2009 17:46:16
+normálně nenormální: pokud není tvůj provider franta z vedlejšího baráku, tak
+u normálního providera určitě nikdo nemá nic lepšího na práci než číst si co
+píšeš na internet. Kromě toho certifikát, který bude důvěryhodný, aby IE
+neřval červenýma hláškama je pěkně mastnej.
+[Smajlík]    [Muž] [Kategorie]
+ _V_e_l_k_ý_ _M_a_y_ú_s
+04.02.2009 17:43:16
+Prijde mi to jako vyrobit nejrychlejsi auto na svete, ale bez predniho skla :)
+ _n_o_r_m_á_l_n_ě_ _n_e_n_o_r_m_á_l_n_í [Muž]24 [Kategorie]
+04.02.2009 17:42:19
+xZdenish: tvuj ISP te zna (vi jak vypadas, kde bydlis atd.) a cte si tve
+zpovedi (diky http). To nikomu neva, jo?
+ _n_o_r_m_á_l_n_ě_ _n_e_n_o_r_m_á_l_n_í [Muž]24 [Kategorie]
+04.02.2009 17:40:22
+Jestli nedůvěřuješ providerovi, najdi si jiného. Jinak si najdi doktora :-)
+[Smajlík]  [Muž]35 [Kategorie]
+ _M_a_r_e_k_-_l_i_b
+04.02.2009 17:38:46
+Ono se dá z http zjistit jak vypadam? A dá se z toho taky zjistit, jak velkýho
+mam pinďoura? Sakra, tak to abych tu přestal lhát o svých nadbělošských
+rozměrech, protože bude pěkná ostuda, až se provalí skutečnost.. :X
+[Smajlík] [Muž]27 [Kategorie]
+ _x_Z_d_e_n_i_s_h
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+

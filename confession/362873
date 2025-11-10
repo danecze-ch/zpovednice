@@ -1,0 +1,270 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+Diskuze č.362873, vloženo 31.01.2009 23: _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+18:50                                    _s_t_r_á_n_k_a_]
+C++,C... ? Dotaz
+Chci se jen tak zeptat, učím se teď PéHáPko a databáze, zkouším dělat vlastní
+webovky. A ted se chci zeptat...
+Co je vlatně to C ?
+Prý je to podobné PHP ?
+Co se v tom programuje ?
+Jaký je rozdíl mezi C++, C, C# ?
+Co potřebuju k tomu abych se to naučila ?
+Jaké jsou ještě další programovací jazyky ?
+ _A_n_d_y_ _=_D [Žena]15 [Kategorie]  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+01.02.2009 16:55:42
+2ZakMcCracken: slysel a pouzivani jednoho programu se vsema funkcema ktery sou
+uz automaticky nainstalovany je lepsi nez stahovat x pluginu do ruznych
+programu je
+
+si nekdy slysel? :)
+ _S_o_s_a_r_i_a_n [Muž] [Kategorie]
+01.02.2009 16:52:32
+Add Web Service v Javě: o Axis a jws jsi ještě neslyšel ? Zdrojový kód webové
+služby (normální funkce s libovolnými parametry a libovolnou návratovou
+hodnotou) se umístí s příponou .jws do webové aplikace Axis, která zcela
+transparentně vytvoří servlet se skeletonem při prvním webovém dotazu.
+ _Z_a_k_M_c_C_r_a_c_k_e_n [Muž]40 [Kategorie]
+01.02.2009 13:12:30
+realista: Hmm, čekal jsem kdy se nějakej chytrolín ozve ;-)
+ _V_e_r_t_h_a_n_d_i [Muž]36 [Kategorie]
+01.02.2009 12:32:42
+2ZakMcCracken:
+ja za to nemuzu ze microsoft ma proste neco lepsi a nejsem idiot abych slepe
+rikal ze cokoliv od microsoftu je blbost, jak to dela dav...
+
+- o to tu ale vubec nejde, garbage collector je lip napsanej, winforms sou
+samozrejme nekolikanasobne rychlejsi
+
+- nerikam ze ne, a co?
+
+- to si doufam delas srandu, jak dlouho ti trva nez v jave udelas web servicu
+nebo nez tam namapujes neco prez hibernate? v VS jsou oboje +- 3 kliky...
+a co je to prosimte .NET API, takovy spojeni slysim poprve
+
+mimochodem kdyz si me tu zacal napadat jak me microsoft plati, tak tyhle
+informace mas z nejake skoly co? :)
+ _S_o_s_a_r_i_a_n [Muž] [Kategorie]
+01.02.2009 09:57:31
+Sosarian: kolik ti Microsoft platí za tvoje reklamní žvásty ?
+- java je stejně rychlá jako .net, protože obojí se kompiluje do strojového
+kódu
+- pokud chci rychlý a paměťově nenáročný program, napíšu ho v C a ne v Garbage
+Keeperu
+- C# má dobrou syntaxi, ale stejně je většina aplikací rychleji hotová v C
+nebo Java, protože debilní .NET API a VS
+
+Realista: na Linux i Windows je Mono
+ _Z_a_k_M_c_C_r_a_c_k_e_n [Muž]40 [Kategorie]
+01.02.2009 03:10:32
+2realista:
+ano mezi netbeans A eclipse moc rozdil neni, ale je velkej rozdil mezi
+netbeans, eclipse A visual studiem a zvlast kdyz pises v C, C++ nebo C#
+
+
+a to po me jako chces abych te presvedcoval proc ma nekdo programovat v
+linuxech a ne ve win, i prez to ze si s linuxama zacal ty? me je to jedno at
+si dela v cem chce, ja jen psal ze cokoliv co se da prelozit do IL, tzn C#,
+Visual Basic, F#, J# (java od microsoftu), a plno dalsich se da pustit i na
+linuxu na Mono
+ _S_o_s_a_r_i_a_n [Muž] [Kategorie]
+01.02.2009 03:07:20
+Sosarian: řek bych že jestli děláš v Eclipse, Idea nebo NetBeans je spíš o
+zvyku... codeblock používám jen na C a C++
+
+
+ale teda nechápu na co je linuxákovy možnost dělat ve VB
+ realista
+01.02.2009 03:04:12
+2realista: spravna otazka je co z toho neumi codeblocks a odpoved je prakticky
+vsechno
+popisoval sem ide takze nevim jak mam srovnavat visual studio a javu, ale
+netbeans nebo eclipse z toho taky dost veci nemaji
+
+a .NET (tzn aji C# a VB) pod linuxem samozrejme bezi taky...
+
+v eclipsech je aji plugin na psani v C# takze si muzes vyvijet zadamo taky (i
+kdyz visual studio express je volne ke stazeni...)
+ _S_o_s_a_r_i_a_n [Muž] [Kategorie]
+01.02.2009 02:58:12
+Sosarian: a co z toho co jsi vyjmenoval java neumí?
+s tou pomalostí bych to taky nepřeháněl když máš na serverové straně 4-
+jádrovej procák :)
+
+ale hlavní výhodou je že java běží pod LINUXEM a vyvíjet můžeš zadara
+ realista
+01.02.2009 02:44:45
+2realista: budoucnost je v aspx, ne v pomale jave, kdyz tu tak narazis na tu
+rychlost :)
+
+
+a jestli mas nejakych 256 ram tak to je tvuj problem, na normalnim, dnesnim,
+beznym pc to bezi naprosto normalne
+a ty vyhody ktery to ma by predcily i to kdyby to bezelo pomalu. veci jako
+skutecne intelisence, immediate window, skakani ve vlaknech, posouvani se v
+kodu za behu programu, prepisovani kodu za behu programu,velmi kvalitni
+podpora debugovani managed/unmaneged kodu, v pripade prace s webem nebo ui je
+tam plno designeru, integrovana podpora ruznych orm jako linq2sql nebo ado.net
+entities, a myslim ze bych mohl pokracovat ne nekolik dalsich stranek...
+ _S_o_s_a_r_i_a_n [Muž] [Kategorie]
+01.02.2009 02:38:20
+Sosarian: visual studio je pomalá microsoftská sračka, existujou mnohem lepší
+vývovojový nastroje pro C/C++ (např ten codeblock)
+
+po php je ještě poptávka ale kdo ví jak dlouho tu ještě bude :)
+Rozhodně doporučuju Javu protože v té je budoucnost!
+
+Nějaký C,C++ a podobný pičovinky tě možná naučí myslet ale do praxe je ti to k
+hovnu pokud neděláš drivery a podobný pičovinky
+ realista
+01.02.2009 02:33:09
+2realista: neni zadny lepsi ide nez visual studio
+ _S_o_s_a_r_i_a_n [Muž] [Kategorie]
+01.02.2009 02:31:42
+lol visual studio??? kterej dmnt to radí?
+Code::Blocks rulezz :)
+jinak google a RTFM!
+stejně ti nevěřím že se začneš učit, pro holku je to moc velký sousto
+[Smajlík]
+ realista
+01.02.2009 02:31:30
+na webovy stranky je rozhodne lepsi pouzivat C# a ASPX nez php
+
+
+jak tu nekdo psal s visual basicem tak c# je prakticky to stejny akorat s
+jinou syntaxi takze je jedno co z toho si vyberes
+
+
+2Marek-lib: abych rekl pravdu nedokazu si predstavit jak psat webovy stranky
+bez objektu, bez ORM mapovani
+
+2Gramatický démon: program v c# se prvne zkompiluje do IL kodu a pak se z nej
+prelozi do ASM pred spustenim programu, to ja jen tak ze to znelo trochu
+zmatene... :)
+ _S_o_s_a_r_i_a_n [Muž] [Kategorie]
+01.02.2009 01:41:23
+Co je vlatně to C? Cečko je nízkoúrovňový jazyk, který slouží především pro
+programování OS, překladačů, interpreterů apod. Rozhodně nedoporučuju na něj
+navazovat hned po PHP.
+Prý je to podobné PHP? PHP je syntakticky odvozeno z C++, takže podobné to do
+jisté míry je. Ale algoritmická náročnost aplikací, na které se C využívá, je
+mnohonásobně vyšší než náročnost PHP aplikací.
+Co se v tom programuje? Viz odpověď na první otázku. Rozhodně obyč céčko se
+nepoužívá na aplikace, ke kterým ti bude stačit pouze znalost programování.
+Jaký je rozdíl mezi C++, C, C#? C je nejstarší, C++ je jeho nadmnožinou. Pro
+začátečníka v nich v podstatě není rozdílu. Z rodiny C ti jako začátečníkovi
+doporučím rozhodně C#, který je určený převážně pro okenní aplikace a má velmi
+slušnou podporu OOP.
+Co potřebuju k tomu abych se to naučila? Knížku, MS Visual C# nebo rovnou MS
+Visual Studio (jiné IDE nemá cenu) a dost odhodlání a pochopení.
+Jaké jsou ještě další programovací jazyky? Zmíním jenom jeden a to je Visual
+Basic. V současný době je to asi nejvhodnější jazyk pro začátečníka na
+kompilované platformě ze syntaktické rodiny visualu.
+ _V_e_r_t_h_a_n_d_i [Muž]36 [Kategorie]
+31.01.2009 23:33:56
+No v první řadě se potřebuješ naučit k podobným účelům používat google,
+popřípadě nějaké jiné fórum a ne zpovědnici :-)
+
+Ale jaký je mezi tím rozdíl a k čemu céčko je, zde bylo řečeno, pokud jsi na
+něco nedostala odpověď, použij zmíněný google.
+
+Ale dost ti fandím, jen tak dál :-) Já jsem taky začínala u webovek.
+[Smajlík]   [Žena]28 [Kategorie]
+ _s_m_a_r_t_ _g_i_r_l
+31.01.2009 23:30:02
+Svůj příspěvek jsi vložil(a) do nespravné kategorie. Bylo provedeno přesunutí.
+V případě opakování hrozí blokování vstupu na portál. Prosím zvol příště
+správnou kategorii. Děkujeme za pochopení.
+[Smajlík]      [Muž] [Kategorie]
+ _A_d_m_i_n_i_s_t_r_á_t_o_r
+31.01.2009 23:28:51
+// EDIT: Ještě potřebuješ vývojový prostředí (Code:: Blocks) a kompilátor
+(překladač) - MinGW
+[Smajlík]         [Muž] [Kategorie]
+ _G_r_a_m_a_t_i_c_k_ý_ _d_é_m_o_n
+31.01.2009 23:27:51
+Ach jo, to se dá zjistit i mimo Zpovědnici. Ale dobrá - "céčko" v různých
+variantách je velice robusní programovací jazyk, který se dá použít k lecčemu.
+Převážně k profesionálním aplikacím... Jestli jsi slyšela o jazyku Java, tak
+ten pracuje na podobném principu. Jde o jazyky takzvaně kompilované (napsaný
+zdrojový kód se převede do formy, ve které ji přechroustá procesor). Narozdíl
+od toho php je jazyk interpretovaný (převod do jedniček a nul se řeší, až když
+se narazí na potřebu to udělat). Z toho vyplývají nějaké výhody a nevýhody...
+No každopádně - jestli zkoušíš dělat webovky, jsi na dobré cestě. Třeba Tě to
+chytne. U webovek je problém, že nemáš důvod používat objekty (na které je
+třeba céčko orientováno). A zároveň se k tomu učíš asi použití CSS,
+JavaScriptu (což není jazyk Java). Jen se uč, poznání není na škodu :-)
+ _M_a_r_e_k_-_l_i_b [Muž]35 [Kategorie]
+31.01.2009 23:26:58
+C je nízkoúrovňovej programovací jazyk, C++ je jeho objektově orientovaný
+rozšíření, C# je ještě víc objektově orientovanej interpretovanej jazyk
+(nekompiluje se, překládá se za běhu programu), PHP je serverovej skriptovací
+jazyk na generování WWW stránek.
+
+V C/C++ aplikace zaměřený na výkon - hry, operační systémy, a velká většina
+dalších běžných aplikací, prohlížeče, editory fotek atd.
+Dalších jazyků jsou stovky - Prolog, Lisp, ada, assembly language.. víc na
+wiki - heslo "list of programming languages".
+
+
+Potřebuješ k tomu knížku, zájem o věc, (motivaci), a HODNĚ trpělivosti.
+[Smajlík]         [Muž] [Kategorie]
+ _G_r_a_m_a_t_i_c_k_ý_ _d_é_m_o_n
+31.01.2009 23:26:11
+PHP je odvozené (tak jako mnoho jiných jazyků) právě z C. Céčko je vlastně
+takový základ programátora, podle mě má ze všech jazyků asi nejblíž k
+Assembleru. V C se programují hlavně konzolové aplikace, v C++ již s grafickým
+rozhraním. Rozdíl C a Cpp je v podpoře objektově orientovaného programování.
+ _f_r_u_i_t_y_-_l_o_o_p_s [Muž]29 [Kategorie]
+31.01.2009 23:25:36
+Je spousta stránek zaměřených na IT kde se tomu věnují..je zvláštní že se na
+to ptáš na stránce kde se hlavně řeší kdo je a není těhotný.
+ _A_o_l_o_r_n [Muž]27 [Kategorie]
+31.01.2009 23:24:02
+A google znáš?
+
+PS: kdepak je hyperaktivní 3DFX, aby to přesunul?
+[Smajlík]    [Muž] [Kategorie]
+ _V_e_l_k_ý_ _M_a_y_ú_s
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+

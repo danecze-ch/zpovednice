@@ -1,0 +1,199 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+Diskuze č.370516, vloženo 07.03.2009 13: _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+31:16                                    _s_t_r_á_n_k_a_]
+PROBLEM V PC
+potrebujem zistit v com je problem
+
+ked spustim nejaku hru alebo niekedy mi ide program v pohode a po case ked idem
+spustit tak mi vypise: Microsoft Visual C++ Runtime Error.... R6002 ci ako to
+je - not loaded.
+V com je chyba? Som stahoval aj nove C++ a nepomohlo to.
+
+A dalsi problem: Casto mi seka PC. Lista nereaguje na nic a vsetko ide
+spomalene. Je na vine RAMka alebo virusy?? virusy asi nie lebo som testoval PC
+a nenaslo nic.
+dakujem za rady
+ fsdkopghk [Muž]17  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+09.03.2009 17:35:08
+Podla mna bude problem v tom,ze mas PC zavirovany. Avast je napicu a vobec
+nepomaha... Ja som tiez mas asi pred polrokom PC tak,ze ESET ,ani Nod32 ,ani
+MBAM nevedeli najst viry a spyware. PC bolo strasne spomalene a CPU sla na
+100-90 percent a pritom nic nebolo zapnute. Ziden disk cez tento pocitac sam
+mi nedal spustit a MBAM mi neslo aktualizovat. Potom som cez hijackthis par
+veci fixol uz sa to dala CPU do normalu isla na 0-5% ked som nic nemal
+zapnute. Potom som napisal na viry.cz a tam mi typek pomohol s CF a cleanermi
+a teraz mi slape comp jak hodinky. Vies co napis mi tu log z hijackthis a ja
+sa nan pozrem.
+[Smajlík]
+ rasto
+07.03.2009 21:17:43
+Ahoj! Suhlas s Ramenom !
+Ked Ti uz blbne USB-cko tak to je na reinstalaciu. Ale radsej by som na tvojom
+mieste preformatoval - lebo ja tomu mazaniu pri reinsale a repair nejak
+neverim. Ani nemas ten antivir. A ktovie ci nemas vypnuty aj Win Firewall.
+Nemas urcite ani antispyware... tak to budes mat pekne zavsivene ... Takze ta
+caka format a preinstalovanie vsetkeho co tam mas. Ale urcite si potom zapni
+ochrany a daj si tam aspon Avast. Hlavne ked prasis hry a instalujes kadeco z
+intraku. No a ked vela instalujes a odinstalovavas tak by nebolo zle tie
+registre obcas precistit a obcas upratat Defragom (ten odstrani aj prekrizene
+cross subory). Ten C-regcleaner co tu niekto spomenul je OK. Ale to staci
+naozaj len obcas. A postahuj si aktualizacie a zaplaty! V niektorych moze byt
+aj riesenie na ten Tvoj problem.
+To by si mohol vyskusat este pred formatom - ci tam nie je na to zaplata.
+Inak som sa s tym uz stretol - neskor ked NEbudes formatovat - budes mat
+problem pri otvarani adresarov a s Explorerom (zap/vyp DID-ochrana)...
+Myslim ze ten problem nastal kvoli nejakemu programu na ktory je Tvoje PC-cko
+alergicke. Nejaka utilitka co si stiahol (najcastejsie hodinky alebo
+kalendar). Velmi casto to robi Kerio (odkedy je predane Sunbeltu neposkytuju
+poriadne upgraty)...
+No ale ked to nemozes formatovat alebo reinst. tak mozes este vyskusat nejaky
+diagnostak - napr. Sandra (?)... Ale najprv si zapni tie ochrany a daj
+prescanovat antivirom...
+Prajem skore uzdravenie ! a mozno vypni PC a uc sa !
+ _V_e_ľ_k_ý_ _H_r_i_e_š_n_i_k [Muž] [Kategorie]
+07.03.2009 19:55:52
+A tie hry tiež niečo vypisuju ? A to že ti program niečo vypisuje može byť aj
+chyba programu.
+A to zasekávanie a spomalovanie, hmm.. môžeš najprv skúsiť nejaký čistiaci
+program a poriadne si prečistit a odstraniť všetko nepotrebne a opraviť
+registre, poradím program CCleaner. Vela krát dokáže pomoct, odstráni všetky
+nepotrebné veci ktoré su v niekde v cache, uvolni aj miesto na disku, dokáže
+opraviť chyby v registroch... Ale myslím, že ty máš ovela viac problémov a asi
+sa nič nezmení.. Ja si myslím, že Windows ti pomaličky, ale isto umiera,
+potrebuje resuscitáciu..teda vlastne reinštaláciu :) šak to neni moc roboty,
+pusti sa do toho, akurat potom treba drivere všetky nainštalovať nanovo, ale
+pofičí jak hodinky.
+[Smajlík]
+ pepek
+07.03.2009 17:06:41
+Znie to na poriadne rozhasený Windows. Akože, problémom pri Windows je to, že
+programy rady prepisujú rôzne DLL a vo všeobecnosti narábajú s adresárom
+SYSTEM32 ako šimpanz s kokosovým orechom... V mojej dlhoročnej praxi som sa
+stretol s mnohými problémami spôsobenými častým inštalovaním programov, keď
+bol Windows napokon natoľko dototo, že pomohla iba reinštalácia. Napríklad
+jeden notebook. Celkom OK konfigurácia, mal by stíhať všetko, lenže pri
+prehrávaní obyčajného DVD zvuk totálne sekal a boli v ňom polsekundové diery
+husto za sebou a ešte aj škrčalo. Šaškoval som s drivermi a rôznymi opravami
+pol dňa a napokon som nariadil reinštaláciu, ktorá magicky všetky problémy
+doriešila. Obávam sa, že to isté bude i v Tvojom prípade. Neviem, čo myslíš
+pod tým, že si si stiahol nové C++, lebo takto mi to vyznieva na samotný
+programovací jazyk, ale redistribuovateľné libraries sú úplne iná vec a
+väčšinou programy majú pri sebe svoje vlastné. Reinštalácia programu by mala v
+prevažnej väčšine prípadov problémy s libraries doriešiť a ak nie, máš možno
+konflikt rôznych verzií od iných programov. Niektorý nainštaloval takú verziu,
+ktorá nie je kompatibilná s programom, čo vypisuje chybu. Doporučil by som Ti
+taký pokus, že na inú partíciu disku, alebo na iný disk nainštalovať nový
+Windows a či toto dorieši problém so sekaním stroja. Som si na 90% istý, že
+hej. Inak, medzi nami technikmi panoval názor, že Windows ak sú intenzívne
+používané vyžadujú aspoň raz ročne reinštal. Prosto ako sa používa, stále viac
+a viac sa dorantáva, až sa prehupne cez znesiteľnú hranicu a nemá ďalej význam
+sa pokúšať ho fixovať a napokon aj tak musieť preinštalovať...
+Inak, ak máš disketovú mechaniku, stiahni si memtest alebo goldmemory a
+otestuj RAM na chyby. Keby si však mal chybnú RAM, stroj by Ti aj miestami
+vytuhol, poprípade hodil modrú obrazovku.
+Viem, moc som asi nepomohol, ale diagnostika nie je jednoduchá vec, hlavne
+takto na diaľku. ;)
+[Smajlík] [Muž]96 [Kategorie]
+ _r_a_m_e_n
+07.03.2009 16:09:41
+Ahoj! -Ahoj
+Aky mas PC? Novy? Stary? (Moze byt chyba na disku, moze byt chyba v pripojeni
+disku, ...) -Stary je 3 roky,ale je celkom dobry
+Ake mas parametre PC? Viacjadrovy? -nie je viacjadrovy, RAM 512 MB, AMD
+Sempron 3000+, 1,80 GHZ, Grafika ATI Radeon X550 128 MB
+Ako dlho ti to robi? Od kedy? -Asi 4 mesiace
+Neinstaloval si nejake nove programy? Alebo zariadenia? Kedy? -Service Pack 3
+na XP,ale to mi robilo aj pred tym. Instalujem vela programov...ci uz do hier
+alebo len take ako konvertovat mp3...
+XP? Vista? - XP
+Nemas firewall Kerio? - nie
+
+s RAMkou som nerobil nic a akurat z nicoho nic zacal blbnut aj USB port...ked
+tam dam USB a chcem bezpecne z listy odstranit tak vypise chybu. Vzdy musim
+surovo odpojit USB. ALe nic sa potom nestalo. A este ked davam CTRL ALT DEL
+tak mi napise System zakazal spravcu uloh.....
+
+
+Aktualizujes pravidelne system aj antivirus, prip antispyware, ... ine
+ochrany? - nie
+Aky mas antivir? Nemenil si ho v poslednom case? (posl. cas: 4 mesiace) - uz
+nemam antivir,dost mi to spomalovalo,bol na nic,mal som Avast,ale testoval som
+minule cez jeden rychlo program ale ziadne virusy nemam
+Kontroloval si v systeme HW - pripojenia? Je tam vsetko OK? - TAK TO NEVIEM
+AKO SKONTROLUJEM
+Pustal si na to nejaku diagnostiku? (Aspon kontrolu disku s moznostou opravy?)
+-ano
+
+A s RAMkou som nerobil nic.
+ fsdkopghk
+07.03.2009 15:13:49
+Ahoj!
+Doplnok:
+Moze byt aj chyba v RAM-ke... Nemenil alebo nerozsiroval si Ram-ku?
+A USB-cka, CD, DVD - mechaniky Ti funguju vsetky bez problemov?
+Skôr si myslim ze mas nejake pohadane bud zariadenia alebo programy.
+Uvidime...
+ _V_e_ľ_k_ý_ _H_r_i_e_š_n_i_k [Muž] [Kategorie]
+07.03.2009 15:09:19
+Ahoj!
+Aky mas PC? Novy? Stary? (Moze byt chyba na disku, moze byt chyba v pripojeni
+disku, ...)
+Ake mas parametre PC? Viacjadrovy?
+Ako dlho ti to robi? Od kedy?
+Neinstaloval si nejake nove programy? Alebo zariadenia? Kedy?
+XP? Vista?
+Nemas firewall Kerio?
+Aktualizujes pravidelne system aj antivirus, prip antispyware, ... ine
+ochrany?
+Aky mas antivir? Nemenil si ho v poslednom case? (posl. cas: 4 mesiace)
+Kontroloval si v systeme HW - pripojenia? Je tam vsetko OK?
+Pustal si na to nejaku diagnostiku? (Aspon kontrolu disku s moznostou opravy?)
+ _V_e_ľ_k_ý_ _H_r_i_e_š_n_i_k [Muž] [Kategorie]
+07.03.2009 15:01:55
+aky mas antivirus?
+ale euroovecka je na to vacsi odbornik, len dlho som ho tu nevidel:(
+[Smajlík]          [Muž]17 [Kategorie]
+ _n_e_v_i_e_m_ _c_i_ _p_o_r_a_d_i_m
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+

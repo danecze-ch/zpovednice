@@ -1,0 +1,202 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+Diskuze č.361098, vloženo 25.01.2009 12: _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+34:08                                    _s_t_r_á_n_k_a_]
+ICQ - nabourání hesla!!!
+Teď jsem přišel na naprostou dokonalou a báječnou věc! Vím, jak se bránit proti
+pirátům a pitomých hackerům. Icq tu klidně zveřejňovat můžete, ale spíš by jste
+se měli vždycky automaticky odhlašovat a nemít v icq uložené heslo, když to tak
+budete dělat pořád, nemusíte se vůbec bát a můžete ho zveřejňovat pořád. :-)
+Jinak opravdu nechápu co si chtějí ti jedinci dokazovat, když někomu nabourají
+heslo v icq. Víte, oni si o sobě myslí, jak jsou dobří, ale nejsou. To vy jste
+jim tak trochu pomohli uložením hesla.
+Co si myslíte o těchto lidech, kteří to dělají? Je na to program brute force
+nebo nějaká kravina.
+ Kween [Muž]20  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+12.06.2011 17:20:04
+Pro Českou republiku je SMS systém následující:
+SMS ve tvaru TWINSTAR 176342 a tento text zaslat na telefonní číslo 9002099!
+Obratem vám přijde zpráva kam na kterou odpovíte tak, že napíšete email který
+chcete zjistit a heslo vám obratem přijde. Snad nejjednodušší způsob!
+[Smajlík]
+ Spirit
+17.12.2009 22:27:58
+dobry den.muj syn se zaplet do špatny party..večne sedi na počitači,a mam
+strach ze skonči špatne,a ja mu ani nemohu pomoct.potrebovala bych se nabourat
+do jeho emailu,alespon budu vedet jak mu mohu pomoct,nebo treba zjistim v cwm
+je problem.
+[Smajlík]
+ mamka
+26.01.2009 08:29:24
+Tímto jsem si poslal mail z "tvého mailu" na "můj mail" jen prostřednictvím
+SMTP serveru, ke kterému mám přístup (a těch je v internetu dost). Neporušil
+jsem přitom žádný zákon (pokud je mi známo :-) )
+------------------
+
+V tom případě je problém v zákonech. Možná, že zákony ohledně internetu jsou v
+ČR ještě hodně děravé. Když v první polovině 90 let v ČR někdo vytuneloval
+vlastní firmu a připravil státní banku o stamilióny, které mu poskytla jako
+úvěr tak mnohdy taky neporušil žádný zákon ... Teď by ho už ale naštěstí
+zavřeli (respektive by ani nedostal stamilionový úvěr když by ručil třeba
+rodinným domem, nebo nějakým jiným majetkem nesrovnatelně nižší hodnoty než
+byl ten úvěr - státní banky i v takových případech úvěry poskytovaly (protože
+byly státní a na státních penězích nikomu nezáleží tak jako na vlastních) a
+pak se ředitelé divili, že ,,podnikatelé´´ i s penězi zmizeli). V západní
+Evropě, v Japonsku, v USA a v dalších vyspělých částech světa s vyspělým
+právním řádem je to taky legální? … Myslím tohle:
+
+No on je třeba zrovna u tohohle problém v tom, že člověk, co pošle mail tvým
+jménem, nepáchá žádnou trestnou činnost.
+ _W_o_l_f_i_ _L_i_p_p_e_r_t [Muž]34 [Kategorie]
+25.01.2009 19:29:10
+Wolfi Lippert: No on je třeba zrovna u tohohle problém v tom, že člověk, co
+pošle mail tvým jménem, nepáchá žádnou trestnou činnost. Protokol SMTP tohle
+normálně standardně umožňuje a na této vrstvě je navržen tak, že neumožňuje
+žádné zabezpečení. K tomu, abych odeslal mail tvým jménem mi naprosto stačí
+přístup k jakémukoliv SMTP serveru. To odeslání pak ve velmi zjednodušený
+podobě probíhá asi takto:
+
+connect SMTP server (s případnou autorizací na server)
+220 alfik.ms.mff.cuni.cz ESMTP sendmail ...
+HELO bluehills
+250 alfik Hello bluehills, pleased to meet you
+MAIL FROM: <tvujmail@seznam.cz>
+250 sender ok
+RCPT TO: <mujmail@seznam.cz>
+250 recipient ok
+DATA
+354 go ahead
+text mailu
+.
+250 ok h98G9FxT accepted for delivery
+QUIT
+221 alfik closing connection
+
+Tímto jsem si poslal mail z "tvého mailu" na "můj mail" jen prostřednictvím
+SMTP serveru, ke kterému mám přístup (a těch je v internetu dost). Neporušil
+jsem přitom žádný zákon (pokud je mi známo :-) ) ani jsem se nikomu nenaboural
+do schránky.
+[Smajlík]  [Muž]36 [Kategorie]
+ _V_e_r_t_h_a_n_d_i
+25.01.2009 18:46:41
+Verthandi - no jak říkám, policie by se měla víc zaměřit na tuto oblast.
+ _W_o_l_f_i_ _L_i_p_p_e_r_t [Muž]34 [Kategorie]
+25.01.2009 17:46:45
+Wolfi Lippert: Na poslání mailu z tvojí schránky mi stačí telnet :-)
+[Smajlík]  [Muž]36 [Kategorie]
+ _V_e_r_t_h_a_n_d_i
+25.01.2009 16:47:26
+Ale to by jsi měl vědět když jsi takový génius s IQ 130! :-))))))))
+MirrA88
+----------------------
+
+Mám IQ 116 ... genialita začíná na IQ 140 ... o počítače se moc nezajímám.
+ _W_o_l_f_i_ _L_i_p_p_e_r_t [Muž]34 [Kategorie]
+25.01.2009 15:46:27
+Wolfi Lippert:
+
+víš to se ti ani nikdo nemusí nabourat do emailu aby posílal emaily z tvé
+vlastní adresy :-) Spamovací roboti využívají běžně téhle strategie a nikomu
+se nemusí dostávat složitě do schránky.
+
+
+Ale to by jsi měl vědět když jsi takový génius s IQ 130! :-))))))))
+[Smajlík] [Muž]22 [Kategorie]
+ _M_i_r_r_A_8_8
+25.01.2009 15:35:37
+Hackeři to je problém. Nedávno se dokonce dostali i na účet francouzského
+prezidenta. Policie by proti nim měla víc bojovat, ale asi tam taky budou
+chybět kvalifikovaní experti přes počítače. Ti nebudou dělat u policie ale
+někde kde to bude pro ně mnohem výnosnější. I mně se stalo, že mi někdo
+naboural email a ještě navíc z něho pak šířil nějaké přílohy asi s virama.
+Zjistil jsem to tak, že mi chodily maily z mé vlastní schránky - dostával jsem
+maily sám od sebe a když jsem na to odepsal, tak to přišlo mě. Už ani rači moc
+nevyužívam internetové bankovnictví.
+[Smajlík]      [Muž]34 [Kategorie]
+ _W_o_l_f_i_ _L_i_p_p_e_r_t
+25.01.2009 14:10:44
+Když o tom nevíš zhola nic, tak tu nemel nesmysly...
+ _M_i_r_r_A_8_8 [Muž]22 [Kategorie]
+25.01.2009 14:00:32
+Nechápu kterej amatér by měl zájem zrovna o tvoje heslo. Já bych ti ho dokázal
+vytáhnout z počítače snáz kdyby jsi ho pokaždý zadával před přihlášením, teda
+kdyby se mi chtělo s tebou ztrácet čas.
+ _S_a_n_y [Muž]30 [Kategorie]
+25.01.2009 13:41:21
+Ups, sry za zkažení nicku...
+[Smajlík]  [Muž]36 [Kategorie]
+ _V_e_r_t_h_a_n_d_i
+25.01.2009 13:40:51
+Viz Mauýs... 351158586 :-D
+[Smajlík]  [Muž]36 [Kategorie]
+ _V_e_r_t_h_a_n_d_i
+25.01.2009 13:27:19
+Kween: čím to, že přesně takovou odpověď jsem čekal
+[Smajlík]    [Muž] [Kategorie]
+ _V_e_l_k_ý_ _M_a_y_ú_s
+25.01.2009 13:24:36
+Velký Mayús: Nemám náladu na kraviny....
+[Smajlík]
+ Kween
+25.01.2009 13:23:13
+ICQ heslo mám uložené - rač se mi tam nabourat: 432134297
+[Smajlík]    [Muž] [Kategorie]
+ _V_e_l_k_ý_ _M_a_y_ú_s
+25.01.2009 13:10:44
+
+[Smajlík] [Muž]27 [Kategorie]
+ _x_Z_d_e_n_i_s_h
+25.01.2009 13:03:38
+Spíš si myslím, že jsou blbý (spíš nevědí) ti lidé, kteří si heslo ukládají.
+ dfghjk
+25.01.2009 12:46:56
+icq suxxx
+ _S_C_u_D [Muž]29 [Kategorie]
+25.01.2009 12:38:59
+Icq údajně není zrovna nejbezpečnější program. Bohužel vlastní zkušenost.
+ _m_i_s_i_c_k_a_-_m_i_s_u_l_i_n_e_k_k_k [Žena]24 [Kategorie]
+25.01.2009 12:36:31
+Když o něčem nic nevíš, tak tady neplácej kraviny.
+ _V_e_l_k_ý_ _M_a_y_ú_s [Muž] [Kategorie]
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+

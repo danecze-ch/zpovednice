@@ -1,0 +1,415 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+Diskuze č.365310, vloženo 10.02.2009 22: _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+49:11                                    _s_t_r_á_n_k_a_]
+programování, tvorba stránek - začátky
+cus.. studuju OA(3. ročník)v informatice bereme akorát word a excel - obojí
+stejně umim.. Počítače mi baví a zajímají.Chtěl bych se naučit
+programovat,tvořit stránky.Ale nevim u čeho začít.Mají tyhle 2 věci něco
+společnýho? S čim je lepší začít? Nějaký html kódy znam, něco jsem už
+stvořil,ale vesměs to nebylo nic moc.S programováním nemam vůbec žádnou
+zkušenost.Někde píšou, že je lepší začít v C někde, že v něčem jiným.Může mi
+někdo, kdo s tim má nějakou zkušenost říct co je nejlepší pro ÚPLNÉHO
+začátečníka?Doporučit nějakou učebnici nebo tak?Po střední bych chtěl nejradši
+na VŠE na fakultu informatika a statistika, obor ještě nevim, ale asi
+aplikovaná informatika.Ale myslim,že je to jen sen, bohužel:(((
+ pc looser [Muž]18  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+11.02.2009 14:45:40
+mimochodem v delphi, ktery ma podobnou syntax jako pascal se da taky pouzivat
+.NET :)
+ _S_o_s_a_r_i_a_n [Muž] [Kategorie]
+11.02.2009 14:06:25
+Verthandi: to se určitě nepředpokládá. Je tam spousta lidí, co vidělo
+programování prvně.
+
+Na začátku jsme se sami rozřazovali, kdo chce do pokročilých, kdo do
+začátečníků. U těch pokročilých se ano předpokládalo, že umí ty cykly, ale
+začátečníci jeli všechno jako by to viděli poprvé, protože to mnozí viděli
+poprvé. :)
+
+sem holt "céčkař" a Pascal mě nijak nepřesvědčil, že by byl tak jednodušší
+oproti něčemu jinému, že by bylo výhodné s tím začít.
+
+Pak je tu ale ještě "programovací" jazyk Karel, který může být dobrý na
+naučení se základních věcí, navíc celkem zábavnou formou.
+ _H_o_u_p_1_8 [Muž]99 [Kategorie]
+11.02.2009 10:19:28
+Hmm, tak si přidám taky svojí trochu do mlýna.
+Je třeba rozlišovat různé druhy jazyků a proto různé úrovně "programování".
+Stránky se dají vytvořit i v HTML, čemuž někdo říká programování, ale
+programování to není. Skutečně programované stránky se dělají například v PHP,
+nicméně stále je třeba brát na vědomí, že PHP je interpretovaný jazyk. Pokud
+se chceš učit php a pak přecházet ke kompilovaným jazykům typu C, tak je to ta
+největší chyba, kterou můžeš udělat. Z toho pak totiž vznikají ti "rádoby"
+programátoři, kteří sice něco napíšou, ale vůbec nevědí, jak to funguje a
+proč. Nehledě na to, že věci jako časová a paměťová optimalizace jim nic
+neříkají. A potkat takovýhoto programátora, to je pak v tomto oboru tragédie
+non plus ultra.
+A teď k tomu sporu pascal x C x VB... Pascal je náhodou pro začátečníka
+bezkonkurenčně nejlepší jazyk. Proč? Protože na něm lze v nejjednodušší formě
+aplikovat všechny základní principy programování a naučit se je na něm. To, že
+je to mrtvý jazyk, je pravda, ale pro začátečníka je to naprosto nepodstatný
+argument, protože stejně nemůžeš počítat s tím, že se po půl roce programování
+pustíš do něčeho, na co by ti pascal nestačil ;-) Pokud nemáš rád modrou barvu
+(ti, co dělali v pascalu, ví o čem mluvím :-) ), tak můžeš začít s Visual
+Basicem, který je z rodiny visual studia začátečníkům nejpřístupnější. Učit se
+jako první jazyk C je zhovadilost pokud nejsi génius s IQ 150+. Za a) budeš se
+v něm ztrácet, za b) protože ti nebude jasné úplně vše, snadno sklouzneš k
+vlastním chybným interpretacím (a opět se stane ten programátor "tragikomik"),
+c) stejně se nejdřív musíš naučit základní věci jako jsou podmínky, cykly,
+členění kódu na funkce apod. a pak se teprv můžeš začít zajímat o OOP.
+
+Houp18: Na ČVUT zavedli Javu, protože se předpokládá znalost programování na
+úrovni podmínek, cyklů atd. Zajímavý je, že na MFF na oboru programování se
+stále vyučuje v prvním semestru pascal. Na tom asi tak něco bude ;-)
+ _V_e_r_t_h_a_n_d_i [Muž]36 [Kategorie]
+11.02.2009 06:44:32
+Sosarian: Tomu klukovi jsem poradila, co je nejlepší pro začátek, ale vy se
+kvůli tomu hádáte :-)
+[Smajlík]   [Žena]28 [Kategorie]
+ _s_m_a_r_t_ _g_i_r_l
+11.02.2009 00:57:15
+na celý stránky si můžeš vystačit s obyčejným html, malováním, případně něčim
+na úpravu fotek;)
+ _M_e_m_p_h_i_s_ _*_j_e_ _v_ů_l_* [Muž]23 [Kategorie]
+11.02.2009 00:44:01
+Sosarian : tak jinak, na felu(ČVUT) se dříve též učilo v pascalu, ale přešlo
+se na Javu. Nějaký důvod to mít muselo.
+
+Ono asi nejde zatratit žádný programovací jazyk. Ono ty základy jsou všude
+stejné podobné. Osobně jsem začínal s čistým C, pak na střední jsem se musel
+učit Pascal, trochu Delphi, pak(i během Pascalu) jsem přešel na C++ a teď jsem
+se na ČVUTu naučil základy Javy.
+
+A dle mě z těch jazyků, co mám já zkušenost, je nejhorší volba právě Pascal.
+(ale tedy uznávám, že pak v Delphi, které je založené na Pascalu, jdou některé
+druhy aplikací dělat poměrně rychle a jednoduše)
+
+Mezi C, C++, Javou nejsou ty přechody pak tak radikální. Navíc i PHP vychází z
+C, to lze brát také jako plus.
+ _H_o_u_p_1_8 [Muž]99 [Kategorie]
+11.02.2009 00:35:24
+2Houp18: na masarykove univerzite na fakulte informatiky se uci programovani v
+pascalu
+ _S_o_s_a_r_i_a_n [Muž] [Kategorie]
+11.02.2009 00:31:40
+Nejdřív si musíš ujasnit, jestli se chceš naučit programovat, nebo dělat
+stránky, alespoň z počátku(než se vrhneš na PHP) to prakticky nemá nic
+společného..
+
+v případě programování si pročti asi tuhle diskuzi _h_t_t_p_:_/_/_w_w_w_._c_e_s_k_e_-_h_r_y_._c_z_/
+_f_o_r_u_m_/_v_i_e_w_t_o_p_i_c_ php?t=1082&start=0
+
+každý ti opravdu tady poradí jiný jazyk.. s Pascalem bych určitě nezačínal,
+protože to je mrtvý jazyk, na vysokých školách se začíná učit programování
+pomocí Javy. Tak možná vědí, proč začínat s tímhle.
+
+A osobně mám raději učení se s knížek(alespoň základy) než z webu(z něho beru
+už různý vychytávky), jediný co poradím, nekupovat knížku s názvem Naučte se
+za 24 hodin/dnů apod. To většinou nebývají dobré knížky. Jinak je to vcelku
+"jedno".
+ _H_o_u_p_1_8 [Muž]99 [Kategorie]
+11.02.2009 00:10:58
+2smart girl: no jen pockej az reknes o programovani neco ty :)
+ _S_o_s_a_r_i_a_n [Muž] [Kategorie]
+11.02.2009 00:08:04
+Poperte se, kluci :-)
+[Smajlík]   [Žena]28 [Kategorie]
+ _s_m_a_r_t_ _g_i_r_l
+10.02.2009 23:52:34
+jinak kdyz se tu bavime o basicu tak na nauceni se programovani je dobra vec
+Small Basic :) je to teda urceny pro maly deti ale je to fakt pekny :)
+
+
+
+2Gramatický démon: tak za c povazuju aji c++ nebo object c.
+
+meni neco snad tohle na faktu ze je visual basic prehlednejsi nez c? ikdyz
+bych pouzival jen konstrukce c a ne c++ i kdyz fakt nevim proc, porad to neni
+tak elegantni a ciste
+ _S_o_s_a_r_i_a_n [Muž] [Kategorie]
+10.02.2009 23:49:31
+Sosarian: C má třídy?
+[Smajlík]         [Muž] [Kategorie]
+ _G_r_a_m_a_t_i_c_k_ý_ _d_é_m_o_n
+10.02.2009 23:48:12
+2Gramatický démon: to nebyla odpoved na to, psal sem proc je VB lepsi nez
+Céčko
+-> je pristup clenum tridy, a v dynamickametoda je ulozenej ukazatel na adresu
+nejake metody
+
+nevim sice proc mam dokazovat ze je VB lepsi nez C# kdyz tu furt tvrdim ze je
+to to stejny ale napriklad optional parameters a named parameters je jen ve VB
+ _S_o_s_a_r_i_a_n [Muž] [Kategorie]
+10.02.2009 23:46:08
+Sosarian: co je zač ta první prasárna?( (void*(c->dynamickametoda ))() )
+jediný použití té šipky v C který znám je pro přístup k prvkům struktury. Nic
+o tom že by struktura mohla obsahovat funkce nevím. A v CS se, pokud vím
+používá ono c.dynamickametoda(). Ptal jsem se v čem je lepčí VB než CS, na tos
+mi neodpověděl.
+
+omfg: o VBS jsem slyšel jen v souvislosti s virama, a interníma skriptama MS
+ve win, nevím o tom že by se nějak výrazně používal pro client side scripting.
+
+
+O podobnosti PHP s VB si dovolím silně pochybovat, přestože znám jen if a for
+(skoro stejný jako v C.
+
+nic, končím a jdu spát, nebo dostanu na prdel ještě víc :D
+ _G_r_a_m_a_t_i_c_k_ý_ _d_é_m_o_n [Muž] [Kategorie]
+10.02.2009 23:45:05
+2omfg: asi sem zapomel zminit ze VBScript a ASP stranky (ne ASP.NET) sou
+"mrtvy" a uz se nikdy pouzivat nebudou .)
+
+ale jak sem psal Visual Basic neni mrtvy protoze je to dneska jazyk na urovni
+C# nebo Javy. je to prakticky to stjeny jako c# ale jina syntaxe
+ _S_o_s_a_r_i_a_n [Muž] [Kategorie]
+10.02.2009 23:42:55
+Sosarian: vida, zase jsem chytřejší, díky ti :-) Slyšíš to démone? No?
+[Smajlík] [Muž]28 [Kategorie]
+ _o_m_f_g
+10.02.2009 23:40:18
+2omfg: vbscript se da pouzit jak na server side tak na client side, jen
+upozornuju na to ze je to stejna syntaxe takze to je stejna obtiznost pro
+tvoreni ASP stranek
+
+ale GD stejne nerikal ASP ale ASP.NET coz je rozdil jako mezi VB a VB.NET
+(prakticky je to ten stejnej rozdil :))
+ _S_o_s_a_r_i_a_n [Muž] [Kategorie]
+10.02.2009 23:37:21
+Sosarian: doufám, že nematu názvem, ale nabeton existuje cosi jako VBskript na
+straně uživatele, podobně jako JS. Já už jsem pár let naprosto mimo realitu
+tohodle oboru, takže je se mnou špatná diskuze :-) Ale fakt něco takovýho je a
+až doteď jsem si myslel, že se to jmenuje VBScript.
+ _o_m_f_g [Muž]28 [Kategorie]
+10.02.2009 23:35:07
+2omfg: ve VBScriptu se pisou ASP stranky... microsoft pouziva na dynamicky
+veci na strane klienta javascript
+ _S_o_s_a_r_i_a_n [Muž] [Kategorie]
+10.02.2009 23:33:11
+Gramatický démon: Ježiši, ten kluk možná ani neumí vytvořit sémantický xml
+dokument a ty mu tady cpeš ASP. Vůbec se nehádám, jestli je VB lepí než C,
+natož ve kterém z nich je budoucnost. Jen jsem tě poopravil, že basic zdaleka
+není mrtvý a nyní tě poopravím v tom, že existuje VBscript vyvinutý MS,
+podporovaný všemi majoritními prohlížeči. A upřímně řečeno, PHP je mnohem víc
+podobné mixu JavaScript a VB než C, ze kterého vychází.
+[Smajlík] [Muž]28 [Kategorie]
+ _o_m_f_g
+10.02.2009 23:29:56
+2Gramatický démon: VB je .NET takze se v nem da delat aji ASPX stranky :)
+ _S_o_s_a_r_i_a_n [Muž] [Kategorie]
+10.02.2009 23:29:27
+omfg: zaprvé napsal "programovat,tvořit stránky", což se dá vyložit jako
+obojí.
+Zadruhé pokud bude chtít dynamicky generovaný stránky tak ASP.NET nebo
+zmiňovaný PHPko, nikdy jsem neslyšel že by se stránky dělaly ve VB.
+[Smajlík]         [Muž] [Kategorie]
+ _G_r_a_m_a_t_i_c_k_ý_ _d_é_m_o_n
+10.02.2009 23:28:07
+2Gramatický démon: jaky slovickareni, psal si ze v .netu je budoucnost VB je
+.net
+
+visual basic ma par konstrukci ktery c# 3.5 jeste neumi
+
+jinak co je jednoduzsi
+(void*(c->dynamickametoda ))()
+nebo
+c.dynamickametoda()
+(rozdil mezi c#, vb a c)
+ _S_o_s_a_r_i_a_n [Muž] [Kategorie]
+10.02.2009 23:26:55
+Gramatický démon: asi ti uniká, že se tu bavíme o tvorbě webových stránek.
+[Smajlík] [Muž]28 [Kategorie]
+ _o_m_f_g
+10.02.2009 23:25:23
+Heleď v první řadě se nauč HTML a CSS, není to nijak těžký a tohle je základ
+webu, nastuduj jpw.cz . A jak budeš umět tyhle dva jazyky tak nastuduj třeba
+PéHáPko, myslím že se v něm daj dělat vcelku funkční stránky ;). Každopádně
+začni HTML a CSSkem...
+[Smajlík] [Žena]20 [Kategorie]
+ _A_n_d_y_ _=_D
+10.02.2009 23:24:40
+omfg: A jakej je sakra rozdíl mezi "If událost then akce end if" a
+if (vyraz)
+prikaz;
+else
+prikaz;
+? Co je tak těžkýho na faktu že za každým příkazem následuje středník? :D
+sosarian ad1: nemám náladu na slovíčkaření a hádání o hovně
+ad2: A v čem je VB lepší než CS?
+[Smajlík]         [Muž] [Kategorie]
+ _G_r_a_m_a_t_i_c_k_ý_ _d_é_m_o_n
+10.02.2009 23:17:59
+Gramatický démon: nevím, jak klasický Basic, ale ve VB6 nejsou ani středníky
+na konci řádku. V podstatě je to takovej robot Karel v angličtině. If událost
+then akce end if. Žádný závorky nic. Půlka práce se dá odklikat myší. A mrtvej
+teda není. Já byl v létě na brigádě u ajťáků v jedný dost moderní fabrice, kde
+jsme ve VB progamovali výstupy průmyslovýho hardwaru. Dost jsem na to čučel.
+ _o_m_f_g [Muž]28 [Kategorie]
+10.02.2009 23:17:49
+2Gramatický démon: Visual Basic je jeden z nejpokrocilejsich jazyku. visual
+basic je .net
+ _S_o_s_a_r_i_a_n [Muž] [Kategorie]
+10.02.2009 23:16:12
+Manas25: Java je zajímavá. Ale moc daleko jsem se nedostala, možná až bude
+někdy čas.
+ _s_m_a_r_t_ _g_i_r_l [Žena]28 [Kategorie]
+10.02.2009 23:15:40
+delani webovych stranek = programovani
+
+kdyz budes delat jakoukoliv komplexnejsi stranku tak proste uz programujes
+(dalo by se nekdy mozna rict ze scriptujes kdyz budes delat v primitivnim
+jazyku jako php)
+
+pokud nemas zaklady Céčka tak je mozna lepsi delat v php.
+ale jinak je nejlepsi C# (nebo Visual Basic, coz je prakticky to sami) a delat
+ASPX stránky
+
+2Gramatický démon:
+"Tak WWW stránky s programováním nic společnýho nemají, HTML je jen značkovací
+jazyk. "
+www stránky != html, html by se dalo maximalne tak oznacit za podmnozinu
+ _S_o_s_a_r_i_a_n [Muž] [Kategorie]
+10.02.2009 23:14:12
+omfg má pravdu. Pro člověk, který nikdy nic nenapsal není céčko dobrej start.
+Od toho se odráží blbě. Visual Basic, pascal nebo PHP jsou mnohem lepší pro
+začátek.
+
+V .NET je budoucnost, to má GD pravdu, ale není to dobrý pro začátek.
+[Smajlík]   [Žena]28 [Kategorie]
+ _s_m_a_r_t_ _g_i_r_l
+10.02.2009 23:13:14
+omfg: teď jsem se podíval na syntaxi basicu a že by byla výrazně jednodušší se
+fakt říct nedá. A céčko NENÍ demotivující, pokud si nevybereš demotivující
+učebnici :)
+Další věc je že když se naučí basic tak bude umět prd(v podstatě mrtvej a
+zbytečnej jazyk), když céčko, může začít psát reálný aplikace. Ale jak libo.
+[Smajlík]         [Muž] [Kategorie]
+ _G_r_a_m_a_t_i_c_k_ý_ _d_é_m_o_n
+10.02.2009 23:12:31
+Manas25: joo, java je fajná, tu na zču děláme a já jako absolutní začátečník
+jí celkem pobírám
+[Smajlík]       [Muž]23 [Kategorie]
+ _R_O_C_K_e_r_ _F_o_r_e_v_e_r
+10.02.2009 23:09:15
+Nauč se HTML, CSS. Nejlíp ještě k tomu PHP a pokud bude třeba i MySQL. Projed
+si pár CSS galerii jak by měla stránka vypadat. Zapni PSPad nebo i klidně
+poznámkový blok a můžeš tvořit, do toh onáký grafický editor a do toho... Ale
+i tak chce to čas, stránky nebudeš tvořit ze dn na den. Můžeš si koupit náké
+knížky kterí sou na to zaměřený ;), ale to ti musí poradit někdo další já se
+tohle všechno učitla z netu a z praxe ;). S chutí do toho.
+[Smajlík] [Žena]20 [Kategorie]
+ _A_n_d_y_ _=_D
+10.02.2009 23:08:05
+Zalezi jestli ti jde o web, nebo o programovani ....
+
+pokud o programovani, tak doporucuju \"javu\&q uot; ....
+
+stokrat lepsi nez Pascal nebo VisualBasic ..... a jednodussi nez C
+
+A kdyz se to naucis opravdu dobre, tak se tim muzes i v budoucnu zivit;) po
+Java programatorech je neustala poptavka a jsou velmi dobre placeny;)
+ Manas25
+10.02.2009 23:03:35
+GD: pán chce dělat do stránek, ne do programování. Člověk, který o
+programování nemá opravdový zájem se Céčkem prokousá těžko. Basic je super
+start pro začátečníka, jelikož s jeho primitivní syntaxí ho pochopí i dítě.
+Pokud dotyčného bude programování bavit, není problém přejít třeba na C++.
+Céčko na úplný začátek je dost velký demotivátor.
+[Smajlík] [Muž]28 [Kategorie]
+ _o_m_f_g
+10.02.2009 23:02:52
+když budeš chtít, proč bys tam nemohl jít...já se učim programovat až na
+vejšce a zatim se držim...a takovej kámoš sem šel z hotelovky a dává to
+programování dost nadprůměrně..
+ _R_O_C_K_e_r_ _F_o_r_e_v_e_r [Muž]23 [Kategorie]
+10.02.2009 22:58:41
+omfg: co je na tom jako blbost? naučíš se C a můžeš používat win api. Doučíš
+se třídy a objekty můžeš používat .net ve kterým je budoucnost..
+[Smajlík]         [Muž] [Kategorie]
+ _G_r_a_m_a_t_i_c_k_ý_ _d_é_m_o_n
+10.02.2009 22:56:25
+Jn, to souhlas se smart girl, Céčko je blbost. Hlasuju pro VB, taky jsem na
+tom začínal :-)
+ _o_m_f_g [Muž]28 [Kategorie]
+10.02.2009 22:54:46
+Na tvorbu stránek je nejlepší _w_w_w_._j_a_k_p_s_a_t_w_e_b_._c_z_ 
+Programování a tvorba stránek něco společného má. Programováním stránek se
+tvoří dynamické stránky (ankety, diskuze a jakékoliv jiné aplikace).
+Pokud se chceš odrazit od těch stránek, zkus po HTML JavaScript nebo PHP.
+
+No a jestli chceš programovat i v něčem jiném, tak nevím, jestli je dobré
+začínat Céčkem. Můžeš zkusit třeba Pascal nebo Visual Basic.
+[Smajlík]   [Žena]28 [Kategorie]
+ _s_m_a_r_t_ _g_i_r_l
+10.02.2009 22:54:26
+Dělal jsem PHPčko, ale pak jsem se zasekl v tom, a přestala mě bavit. Tak
+dělám jen Photoshop, grafiku, xhtml a css, a trochu ajax.
+[Smajlík]    [Muž]25 [Kategorie]
+ _R_y_c_h_l_o_n_o_ž_k_a
+10.02.2009 22:53:20
+Tak WWW stránky s programováním nic společnýho nemají, HTML je jen značkovací
+jazyk. (programuje se potom Javascript nebo PHP, každý za jiným účelem, ale to
+je vyšší dívčí).
+
+Nauč se céčko, není to těžký a spousta jazyků z něj vychází. I když někdo ti
+bude doporučovat Pascal, ale ten se praktickou použitelností propadá někam
+zcela do (_._).
+Knížku zkus Učebnice jazyka C - Herout.
+[Smajlík]         [Muž] [Kategorie]
+ _G_r_a_m_a_t_i_c_k_ý_ _d_é_m_o_n
+10.02.2009 22:52:49
+Na VŠE? Tak z autorů Jiří Kosek. Jeho knihy jsou sice předpotopní, ale je to
+základ a sám na VŠE vyučuje. Český CSS guru se zase jmenuje Petr Staníček.
+Taky dobrý zdroj.
+ _o_m_f_g [Muž]28 [Kategorie]
+10.02.2009 22:50:58
+_w_w_w_._i_n_t_e_r_v_a_l_._c_z_ 
+
+Nebo nějaké knížky z vltava.cz
+ _R_y_c_h_l_o_n_o_ž_k_a [Muž]25 [Kategorie]
+10.02.2009 22:50:16
+_w_w_w_._j_a_k_p_s_a_t_w_e_b_._c_z
+ _P_y_t_r_i_s_e_k [Muž]26 [Kategorie]
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+

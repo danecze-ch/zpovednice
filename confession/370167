@@ -1,0 +1,185 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+   Otázky - Vzkazy č.370167, vloženo _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+   05.03.2009 18:42:14               _s_t_r_á_n_k_a_]
+   Algoritmus
+   Ahoj, chtěl bych Vás poprosit, jestli byste mi neporadili, jak funguje
+   algoritmus na vyřešení této a jí podobných úloh.
+
+   7x mod 160 = 1
+
+   Z této rovnice potřebuji vypočítat x.
+    _T_o_m_a_s_5_4_5 [Muž]20 [Kategorie]  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+07.03.2009 17:51:30
+muzes se prijit podivat na budovu E na karlove namesti 13 kazdy ctvrtek od 9:
+15 na proseminar predmetu Bezpecnost prenosu a zpracovani dat, ktery se timto
+zaobira
+ lonewolf
+06.03.2009 20:05:34
+to pex: Z jaké VŠ je ta přednáška? clever.potheat@seznam.cz
+ _T_o_m_a_s_5_4_5 [Muž]20 [Kategorie]
+06.03.2009 19:36:44
+Dej sem mail a pošlu ti přednášku o RSA a skipta diskrétní matematiky, kde je
+probraná modulární aritmetika.
+ pex
+06.03.2009 19:10:13
+to pex: Krása, konečně jsem se díky tobě hnul z místa, dělám RSA šifrování a
+nikde jsem nemohl najít žádný podrobnější postup k tomuhle. Tak to dopadá,
+když si někdo vymyslí maturitní práci sám. Děkuji moc.
+ _T_o_m_a_s_5_4_5 [Muž]20 [Kategorie]
+06.03.2009 18:47:49
+jinak končí, když máš ve sloupci q(2) nulu, pak už není co počítat, nulou se
+dělit nedá a hodno u a v spočítáš o jeden řádek dál ještě a to co ti vyjde ve
+sloupci v je výsledek, v případě, že je to záporné, musíš to převést nahoru,
+aby to náleželo do modula
+ pex
+06.03.2009 18:43:35
+Pro výpočet samotné inverze není podstaný, ale vypovídá o tom, jak vlastně
+rošířený eukleidův algoritmus funguje. A to jsou substituce na bázi lineárních
+kombinací.
+
+15x mod 1144 = 1
+když hodnoty ze sloupce u a vynásobíš je 1144 a hodnoty ze sloupce v vynásobíš
+15, tak dostaneš lineární kombinace q
+q 1144*u 15*v
+1144 = 1144*1 + 15*0
+15 = 1144*0 + 15*1
+z tadyma je hned vidět, proč jsou první hodnoty u a v takové jaké jsou
+4 = 1144*1 + 15*(-76)
+3 = 1144*(-3) + 15*229
+1 = 1144*4 + 15*(-305)
+ pex
+06.03.2009 17:06:46
+to pex: Vypadá to moc dobře, jen bych potřeboval ještě vysvětlit dvě věci. K
+čemu je tam ten sloupec u(0)? Připadá mi tam uplně zbytečný. A kdy ten
+algoritmus končí? Možná to bude souviset. Díky.
+ _T_o_m_a_s_5_4_5 [Muž]20 [Kategorie]
+06.03.2009 15:28:28
+_h_t_t_p_:_/_/_i_m_g_4_0_1_._i_m_a_g_e_s_h_a_c_k_._u_s_/_m_y_._p_h_p_?_i_m_a_g_e_ =extendedeukleides.gif
+
+Jinak existuje google.
+ pex
+06.03.2009 05:46:38
+to pex: Nj, ale jak? Nejsem vysokoškolák, neukázal by si mi to na tomhle
+příkladě pls?
+16x mod 1144 = 1
+
+to Natrium: Máš pravdu, co ti mám na to říct? Až jednou budeš potřebovat
+poradit, tak to taky poznáš...
+
+to Gramatický démon: V tomto případě to funguje, ale třeba tady to nejde:
+16x mod 1144 = 1
+
+Jinak díky všem, tolik odpovědí jsem vážně nečekal.
+ _T_o_m_a_s_5_4_5 [Muž]20 [Kategorie]
+06.03.2009 04:31:25
+7x mod 160 = 1
+
+úplně jako každá jiná rovnice, obecně:
+7x mod 160 = 1
+dělíme sedmi, což znamená, že násobíme multiplikativní inverzí sedmi v modulu
+160, což se rovná 23
+23*7x mod 160 = 23*1
+x mod 160 = 23
+
+multiplikativní inverzi spočítáš rozšířeným eukleidovým algoritmem
+ pex
+05.03.2009 21:52:15
+Blackshield: pšššt, někdo se tu učí algoritmy
+ _t_r_o_t_r_o [Žena] [Kategorie]
+05.03.2009 21:51:40
+:-D ne, já jen zkopírovala první finskou konverzaci, kterou sem vygooglila
+ _t_r_o_t_r_o [Žena] [Kategorie]
+05.03.2009 21:50:49
+trotro: bože, a já si říkal že z toho google translate leze děsná sračka
+[Smajlík]         [Muž] [Kategorie]
+ _G_r_a_m_a_t_i_c_k_ý_ _d_é_m_o_n
+05.03.2009 21:50:02
+jinak netuším co sem ti napsala, ale snad to nebylo nic perverzního :-D
+ _t_r_o_t_r_o [Žena] [Kategorie]
+05.03.2009 21:48:46
+alw jinak dík za vysvětlení, po prvotním wtf už to asi chápu.
+
+takže třeba 541562742426583278528527875378658327 mod 1 = 0. s tím budu
+machrovat
+[Smajlík] [Žena] [Kategorie]
+ _t_r_o_t_r_o
+05.03.2009 21:39:22
+trotro: já nejsem pilot
+[Smajlík]         [Muž] [Kategorie]
+ _G_r_a_m_a_t_i_c_k_ý_ _d_é_m_o_n
+05.03.2009 21:33:11
+Gramatický démon: Minä en kyllä ikinä antaisi Hornetille käskyä nousta tai
+laskeutua soratieltä, ja ohjaaja käskyä tuskin noudattaisikaan.
+[Smajlík] [Žena] [Kategorie]
+ _t_r_o_t_r_o
+05.03.2009 21:27:14
+trotro: operace modulo je definována jako zbytek po celočíselném dělení
+9 mod 4 = 1
+[Smajlík]         [Muž] [Kategorie]
+ _G_r_a_m_a_t_i_c_k_ý_ _d_é_m_o_n
+05.03.2009 21:22:20
+co je zas toto za prasárnu?
+[Smajlík] [Žena] [Kategorie]
+ _t_r_o_t_r_o
+05.03.2009 20:19:20
+teda 161/7
+ _G_r_a_m_a_t_i_c_k_ý_ _d_é_m_o_n [Muž] [Kategorie]
+05.03.2009 20:09:46
+X = (160n + 1) / 7; n > 0
+ Zaskar
+05.03.2009 18:45:18
+Zajímalo by mě jestli ti tohle přijdeti spíš jako matematický web, kde se
+neustále řeší zapeklité příklady, nebo jako web, kde si lidé navzájem řeší
+domácí úkoly..?
+ _N_a_t_r_i_u_m [Žena]18 [Kategorie]
+05.03.2009 18:44:48
+7x = 161
+161 mod 160 = 1
+
+
+x= 167/7
+x=23 tuším
+ _G_r_a_m_a_t_i_c_k_ý_ _d_é_m_o_n [Muž] [Kategorie]
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+
