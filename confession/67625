@@ -1,0 +1,566 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+Neprofesionální umělecká Tvorba č.67625, _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+vloženo 21.07.2005 11:56:40              _s_t_r_á_n_k_a_]
+Programátorský vtípek
+Žena pošle svého manžela, programátora, na nákup se slovy:
+"Kup jeden chleba, a kdyby ještě měli rohlíky, tak jich vem deset."
+
+Programátor odešel do obchodu, a protože ještě rohlíky měli, koupil
+deset chlebů.
+
+Přesně podle zadání ...
+
+a wo tom to je!!!!!!!
+
+
+
+
+
+ _G_e_o_d_e_t_k_a [Žena]25 [Kategorie]  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+21.07.2005 22:58:11
+Jo jo, ženský nevěděj, co chtěj, natož aby to uměli pořádně a srozumitelně
+říct...
+A proto se taky může stát, že někdo nejmenovaný přinese domů hrozinky místo
+hroznů:))
+alien
+ _a_l_i_e_n_-_n_e_p_ř_í_t_e_l_ _s_t_á_t_u [Muž] [Kategorie]
+21.07.2005 21:37:19
+To ani nemusí bejt prográmator, stačí obyčejnej matematik ;)
+[Smajlík] [Muž]27 [Kategorie]
+ _x_Z_d_e_n_i_s_h
+21.07.2005 19:46:41
+#pragma CODE_SEG CodeForcedToPage42
+
+a máte to ..
+ _m_e_l_a_n_c_h_o_l_i_k [Muž]23 [Kategorie]
+21.07.2005 18:16:30
+A tak to prostě chodí...
+ _m_e_s_s_i_a_s_e_k [Muž]20 [Kategorie]
+21.07.2005 17:12:13
+good :-)
+[Smajlík] [Žena] [Kategorie]
+ _P_o_l_e_m_i_k_a
+21.07.2005 17:12:08
+melancholik: jsi mi neco pripomnel
+
+je to delsi tak davam radsi odkaz
+
+_h_t_t_p_:_/_/_w_w_w_._a_r_i_e_l_._c_o_m_._a_u_/_j_o_k_e_s_/_T_ he_Evolution_of_a_Programmer.html
+[Smajlík] [Muž] [Kategorie]
+ _L_o_n_e_r_2_0
+21.07.2005 16:26:40
+< ?php
+//pokud uživatel nevybere ani na jedno město, zobrazí se hodnoty těchto
+proměnných
+$city = "Žádné";
+$info = "none";
+
+//tímto zabráníme zobrazování hlášení o nenadefinované proměnné
+if (isset($_POST["pixel_x"]) && isset($_POST["pixel_y"])) {
+
+//aby vše fungovalo při register_globals=off
+$pixel_x = $_POST["pixel_x"];
+$pixel_y = $_POST["pixel_y"];
+
+//nyní vyhodnotíme, zda pixel, který uživatel vybral, odpovídá těmto podmínkám
+
+if ($pixel_x > 100 && $pixel_x < 157 &&
+$pixel_y > 171 && $pixel_y < 191) {
+$city = "Plzeň";
+$info = _h_t_t_p_:_/_/_i_n_f_o_._p_l_z_e_n_-_c_i_t_y_._c_z_"_ 
+}
+
+if ($pixel_x > 180 && $pixel_x < 241 &&
+$pixel_y > 134 && $pixel_y < 152) {
+$city = "Praha";
+$info = _h_t_t_p_:_/_/_w_w_w_._p_r_a_h_a_._c_z_"_ 
+}
+
+if ($pixel_x > 364 && $pixel_x < 415 &&
+$pixel_y > 240 && $pixel_y < 261) {
+$city = "Brno";
+$info = _h_t_t_p_:_/_/_w_w_w_._b_r_n_o_._c_z_"_ 
+}
+
+if ($pixel_x > 437 && $pixel_x < 506 &&
+$pixel_y > 169 && $pixel_y < 192) {
+$city = "Ostrava";
+$info = _h_t_t_p_:_/_/_w_w_w_._o_s_t_r_a_v_a_._c_z_"_ 
+}
+}
+//pokud odpovídá, do proměnných uložíme příslušné hodnoty
+? >
+ _M_a_r_t_i_n_e_k_-_0_1 [Muž]19 [Kategorie]
+21.07.2005 15:10:52
+:o) pěkné
+ _u_b_z_e_d [Muž]49 [Kategorie]
+21.07.2005 14:05:36
+ŽABAŘI PHPkový ... naučte se pořádnej progranmovací jazyk :o)
+
+:- op(40,xfx,).
+:- op(50,xfx,^).
+
+solve_equation(A*B=0,X,Solution) :-
+!,
+factorize(A*B,X,Factors[]),
+remove_d uplicates(Factors,Factors1),
+solve_fac tors(Factors1,X,Solution).
+
+solve_equation(Equation,X,Solution) :-
+single_occurrence(X,Equation),
+!,
+position(X,Equation,[Side|Position]),
+maneuver_sides(Side,Equation,Equation1),
+isolate(Position,Equation1,Solution).
+
+solve_equation(Lhs=Rhs,X,Solution) :-
+polynomial(Lhs,X),
+polynomial(Rhs,X),
+!,
+polynomial_normal_form(Lhs-Rhs,X, PolyForm),
+solve_polynomial_equation(PolyForm,X,Sol ution).
+
+solve_equation(Equation,X,Solution) :-
+offenders(Equation,X,Offenders),
+multi ple(Offenders),
+homogenize(Equation,X,Equation1,X1),
+solve_equation(Equation1,X1,Solution1),
+solve_equation(Solution1,X,Solution).
+
+/* The factorization method
+
+factorize(Expression,Subterm,Factors) :-
+Factors is a difference-list consisting of the factors of
+the multiplicative term Expression that contains the Subterm.
+*/
+factorize(A*B,X,FactorsRest) :-
+!, factorize(A,X,FactorsFactors1), factorize(B,X,Factors1Rest).
+factorize(C,X,[C|Factors]Factors) :-
+subterm(X,C), !.
+factorize(C,X,FactorsFactors).
+
+/* solve_factors(Factors,Unknown,Solution) :-
+Solution is a solution of the equation Factor=0 in
+the Unknown for some Factor in the list of Factors.
+*/
+solve_factors([Factor|Factors],X,Solutio n) :-
+solve_equation(Factor=0,X,Solution) .
+solve_factors([Factor|Factors],X,Solutio n) :-
+solve_factors(Factors,X,Solution).
+
+/* The isolation method */
+
+maneuver_sides(1,Lhs = Rhs,Lhs = Rhs) :- !.
+maneuver_sides(2,Lhs = Rhs,Rhs = Lhs) :- !.
+
+isolate([N|Position],Equation,IsolatedEq uation) :-
+isolax(N,Equation,Equation1),
+isolate(Position,Equation1,IsolatedEq uation).
+isolate([],Equation,Equation).
+
+/* Axioms for Isolation */
+
+isolax(1,-Lhs = Rhs,Lhs = -Rhs). % Unary minus
+
+isolax(1,Term1+Term2 = Rhs,Term1 = Rhs-Term2). % Addition
+isolax(2,Term1+Term2 = Rhs,Term2 = Rhs-Term1). % Addition
+
+isolax(1,Term1-Term2 = Rhs,Term1 = Rhs+Term2). % Subtraction
+isolax(2,Term1-Term2 = Rhs,Term2 = Term1-Rhs). % Subtraction
+
+isolax(1,Term1*Term2 = Rhs,Term1 = Rhs/Term2) :- % Multiplication
+Term2 == 0.
+isolax(2,Term1*Term2 = Rhs,Term2 = Rhs/Term1) :- % Multiplication
+Term1 == 0.
+
+isolax(1,Term1/Term2 = Rhs,Term1 = Rhs*Term2) :- % Division
+Term2 == 0.
+isolax(2,Term1/Term2 = Rhs,Term2 = Term1/Rhs) :- % Division
+Rhs == 0.
+
+isolax(1,Term1^Term2 = Rhs,Term1 = Rhs^(1/Term2)). % Exponentiation $$$ ^
+isolax(2,Term1^Term2 = Rhs,Term2 = log(base(Term1),Rhs)). % Exponentiation
+
+isolax(1,sin(U) = V,U = arcsin(V)). % Sine
+isolax(1,sin(U) = V,U = 180 - arcsin(V)). % Sine
+isolax(1,cos(U) = V,U = arccos(V)).
+ _m_e_l_a_n_c_h_o_l_i_k [Muž]23 [Kategorie]
+21.07.2005 13:07:20
+create table produkty (
+id int auto_increment not null,
+jmeno varchar(50),
+popis varchar(250),
+cena decimal(4,2),
+primary key(itemId)
+);
+
+
+create table kosik (
+id int auto_increment not null,
+cookieid varchar(50),
+produktid int,
+pocet int,
+primary key(cartId)
+);
+
+insert into produkty values(0, 'Kuchařka', 'Jedinečné recepty které vás
+zakulatí!', 199.90);
+insert into produkty values(0, 'Fyzika', 'Učebnice fyziky pro základní
+školu.',79.90);
+insert into produkty values(0, 'Pán prstenů', 'Fantasy příběh ze Středozemě!',
+159.90);
+
+< ?php
+$server = "localhost";
+$user = "admin";
+$pass = "password";
+$name = "cart";
+
+$db = mysql_connect($server, $user, $pass);
+mysql_select_db($name, $db);
+
+function KosikId()
+{
+if(isset($_COOKIE["Ko sikId"]))
+{
+return $_COOKIE["KosikId"];
+}
+else
+{
+session_start();
+setcookie("Ko sikId", session_id(), time() + ((3600 * 24) * 30));
+return session_id();
+}
+}
+? >
+
+< ?php
+include("db.php");
+
+$r esult = mysql_query("select * from produkty order by jmeno asc");
+? >
+
+< tr>
+< td width="30%">
+< ?php echo $row["jmeno"]; ?>
+< /td>
+< td width="10%">
+< ?php echo $row["cena"]; ?> Kč
+< /td>
+< td width="50%">
+< ?php echo $row["popis"]; ?>
+< /td>
+< td width="10%">
+< a href="kosik.php?action=add&id=& lt; ?php echo $row["id"];
+?>&pocet=1">Přidat</a& gt;
+< /td>
+< /tr>
+[Smajlík]    [Muž]19 [Kategorie]
+ _M_a_r_t_i_n_e_k_-_0_1
+21.07.2005 13:00:04
+HTTP Error codes
+
+400 Bad Request - Aspon dones kytku, kdyz uz neco chces
+401 Unauthorized - vdana...
+402 Payment Required - Vecere pri svickach
+403 Forbidden - Das tu ruku pryc!
+404 Not Found - Sla jsem ven s kamoskama
+405 Method Not Allowed - Ne, zezadu ne!
+406 Method Not Acceptable - Mel by byt tvrdsi...
+407 Proxy Auth. Required - Musim se zeptat mamy.
+408 Request Timeout - Kruci, vis, jak dlouho uz jsi nezavolal?
+409 Conflict - A co je tohle za zenskou
+410 Document Removed - Tak to bude rozvod.
+411 Lenght Required - TOTO ma byt ta velka vec?
+412 Precondition Failed - Eh, ty nemas kondom?
+413 Request Entity Too Large - Tak TOHLE se tam nevejde...
+415 Unsupported Media Type - Ve ctyrech? Nemam zajem.
+500 Internal Server Error - Mam sve dny...
+501 Not Implemented - Tak tohle jsem jeste nikdy nedelala...
+502 Bad Gateway - Kruci, je to nejake slane...
+503 Service Unavailable - Boli mne hlava.
+504 Gateway Timeout - A to jako melo byt vsechno?
+[Smajlík] [Muž] [Kategorie]
+ _L_o_n_e_r_2_0
+21.07.2005 12:59:24
+Počítačový slovník
+
+KB (kilobyte) - 1024 bitů. Název je odvozen od řeckého "kilo", což znamená
+1000, protože nikdo nevěděl, jak se řecky řekne 1024.
+
+Hardware - rozdíl mezi hardware (zařízení) a software (programy) je tento:
+když hardware začne pracovat, funguje skvěle a teprve časem se zhoršuje. Když
+začne pracovat software, nefunguje vůbec a teprve časem se zlepšuje.
+
+Komunikace - myšlenka, že lidé spolu mohou komunikovat přes telefon pomocí
+počítače a vyměňovat si názory na věci, které je zajímají, tj. komunikace.
+
+Menu - seznam funkcí poskytovaných programem. Je to stejné jako v restauraci,
+tj. všechno má matoucí názvy a nikdy nemají to, na co máte chuť.
+
+Modem - zařízení, které vašemu počítači umožní napojit se do telefonní sítě a
+zvyšovat tím váš účet za telefon, který vy pak můžete pohodlně zaplatit, aniž
+by jste se hnuli křesla.
+
+REM - označení řádky v programu, která obsahuje komentář a která je tudíž pro
+počítač nesrozumitelná stejně jako pro programátory, jimž je určena.
+
+Upgrade - nová verze programu, v níž jsou staré chyby nahrazeny novými.
+
+Nekonečná smyčka: viz Smyčka nekonečná
+Smyčka nekonečná: viz Nekonečná smyčka
+
+Hardware - Ty části počítače, do kterých můžete kopnout.
+
+Software - Ty části počítače, které nefungují.
+
+Pevný disk - Ta část počítače, která "zatuhne v tu nejméně vhodnou chvíli.
+
+Přídavná zařízení - Díly nekompatibilní s vaším počítačem.
+
+Tiskárna - Součást výbavy počítače, která se ucpe, jakmile se nedíváte.
+
+Šňůra - Ta součást počítače, která je příliš krátká.
+
+Myš - Viz nadávky.
+
+Zálohování - Operace, kterou nikdy nestihnete včas.
+
+Restore - Postup, který funguje bezvadně, dokud ho nepotřebujete.
+
+Paměť - Ta část počítače, které není nikdy dost.
+
+Chybové hlášení - Žádost o potvrzení likvidace vašich dat.
+
+Soubor - Ona složka, kterou v počítači nikdy nemůžete najít.
+
+Procesor - Ta část počítače, která je vždycky zastaralá.
+
+Manuál - Ta součást počítače, která je naprosto nesrozumitelná.
+
+Thompsnova teorie velikosti disku - I sebevětší disk je příliš malý.
+
+Hitchův internetový zákon - Při natahování internetové stránky poběží Váš
+požadavek tou nejnemožnější oklikou.
+
+Petzenův internetový zákon - Nejpromyšlenější zadání dotazu do vyhledávacího
+programu obvykle přináší nulový výsledek.
+
+Reasnerův zákon internetu - Pravděpodobnost, že se vám zasekne "browser", je
+přímo úměrná tomu, jak blízko jste se dostali k hledané informaci.
+
+Mc Mahonovo pravidlo - Ať hledáte, co hledáte, určitě při tom narazíte aspoň
+na jednu pornostránku.
+
+Shaafův zákon internetových informací - Jakýkoliv citát vyskytující se na
+internetu dvakrát má buď různé znění, nebo různé určení autora, anebo obojí.
+
+Montgomeryho zákon 401. chyby - Čím naléhavěji potřebujete určitou
+internetovou stránku, tím pravděpodobněji už na serveru není.
+
+Metcalfův zákon - Význam internetové sítě stoupá kvadraticky s počtem
+účastníků.
+
+Lízin zákon - Po hodinách usilovné snahy přihl
+[Smajlík] [Muž] [Kategorie]
+ _L_o_n_e_r_2_0
+21.07.2005 12:57:27
+Revoluce v informačních technologiích
+
+Rádi bychom vám představili zařízení Komplexní Nezávislý Informační
+Heterogenní Akvizitor, známé jako KNIHA.
+
+Tento nástroj znamená opravdový průlom v informačních technologiích: žádné
+dráty, žádné elektrické obvody, žádné baterie, nemusí být k ničemu připojen a
+nemusí se zapínat. Použití je tak prosté, že to zvládne i malé děcko - stačí
+prostě otevřít desky. Je malý a snadno přenosný, lze jej používat prostě
+kdekoli - třeba i v křesle u krbu - a přitom je schopen nést obrovské množství
+informací, objemem srovnatelné s kapacitou CD-ROMu.
+
+Princip je vpravdě důmyslný: každá KNIHA je zkonstruována ze sady listů papíru
+(recyklovatelného), kde každému listu je přiřazen unikátní numerický index;
+takový list je schopen nést tisíce bitů informací. Tyto listy jsou tzv.
+double-density, to jest informace lze zapisovat na obě strany listu (tzv.
+stránky), tím je ještě zdvojnásobena kapacita. Všechny listy jsou speciální
+technologií spojeny do souvislé řady dle indexu tak, že tvoří jeden celek, ale
+přesto s nimi lze manipulovat (otáčet je) dle potřeby.
+
+Každá stránka je opticky snímána a informace jsou registrovány přímo ve vašem
+mozku. Pohyb obsahem KNIHY je řízen pouhým pohybem ruky, držící list. Funkce
+"Prohlížení" umožňuje dosáhnout okamžitě jakékoli stránky, ať už směrem
+dopředu či dozadu, bez nutnosti sekvenčního načítání. Největší výhodou je
+primární index - tzv. "Obsah", který umožňuje instantně vyhledat libovolnou
+informaci, která je zahrnuta do indexu. Díky unikátní technologii
+"Kapitolování" lze dokonce hledat skupiny informací podle přibližného popisu,
+aniž by příslušné listy musely být nutně všechny zahrnuty do primárního
+indexu.
+
+Volitelné příslušenství "Záložka" dovoluje navíc přesně označit místo, kde
+jste skončili při minulém použití, aniž by došlo k jakékoli modifikaci KNIHY!
+A pozor - "Záložka" funguje, i když je KNIHA zavřená! Přijaté standardy
+dovolují téměř neomezenou portabilitu Záložek, takže drtivou většinu z nich
+lze bez obav použít do jakékoli KNIHY bez ohladu na to, kdo KNIHU vyrobil.
+
+Přenosná, trvanlivá a komfortní, to je KNIHA - revoluční vlna nové generace
+zábavy i poučení. Ve výrobě je řada nových titulů mimo jiné díky vynikající
+vývojové podpoře - speciálním nástrojem zvaným Translinguální Uhlíkový
+Širokopásmový Kompaktní Anotátor, slangově TUŠKA, lze vyvíjet jakoukoli KNIHU
+bez ohledu na typ informací, jaké má obsahovat. Hleďme vpřed - lidstvu přibyl
+nový společník, KNIHA.
+[Smajlík] [Muž] [Kategorie]
+ _L_o_n_e_r_2_0
+21.07.2005 12:54:43
+Co znamenají verze číslo ...
+
+1.0: Také známá jako 'jedna tečka nula' nebo 'těsně po betaverzi'. Museli jsme
+ji vypustit, protože chlapci z vývoje byli už na pokraji vyčerpání a hoši z
+marketingového už vyhrožovali násilím. Modlíme se, aby vám připadala
+funkčnější, než, řekněme, počítačový virus, a doufáme, že její fungování bude
+alespoň trochu připomínat údaje z marketingu.
+
+1.1: Opravili jsme všechny padací chyby.
+1.2: Ech, při opravování padacích chyb jsme udělali pár nových a ty jsme
+museli opravit taky.
+2.0: Udělali jsme produkt, se kterým jsme chtěli začít. Víte, není to přesně
+to, co zákazník chce, ale pracujeme na tom.
+2.1: Není překvapivé, že při těch velkých změnách jsme pár věcí pokazili. Ale
+tentokrát už jsme se věnovali důkladnému testování, takže snad opravením
+starých chyb nevznikly žádné nové.
+2.2: Pardon, jedna se přeci jen objevila. Pitomej překlep a nevěřili byste,
+kolik problémů to udělá.
+2.3: Nějaký štoura našel chybku, která byla už ve verzi 1.0, a nedal pokoj,
+dokud jsme ji neopravili.
+3.0: Tak, konečně máme pocit, že to je to pravé! Většina zákazníků je s tímhle
+doopravdy spokojená.
+3.1: Samozřejmě, pár věcí jsme zase zvrtali.
+4.0: Více funkcí. Jo, taky je to dvakrát větší a budete potřebovat víc paměti
+a rychlejší procesor.
+4.1: Už jen jedna nebo dvě chybky, opravdu!
+5.0: Potřebujeme se zaměřit na nový produkt, ale máme základnu uživatelů,
+kterou musíme krátit. Po tomhle snižujeme stavy na projektu.
+6.0: Museli jsme opravit pár drobností, které byly v 5.0 špatně. Nebylo jich
+moc, ale protože jsme na to už dlouho nešáhli, můžeme tomu říkat velký
+upgrade. Abychom obhájili změnu hlavního čísla verze, přidali jsme taky pár
+zbrusu nových funkcí.
+6.1: Protože odcházím od firmy a jsem poslední, kdo tady na tom ještě dělá,
+chtěl jsem, aby všechny věci, které ještě předělám, byly v praxi, než odejdu.
+Přidal jsem taky pár pěkných demíček, protože se poslední dobou v tomhle svém
+temném koutě pěkně nudím (stěžoval jsem si na osvětlení, ale marně). Říkají
+něco o zbytečném vývoji, ale hodlají to prodávat, dokud se na tom dá ještě
+něco trhnout. Nechávám kód v nejlepší možné podobě, kdyby s ním náhodou musel
+ještě někdo něco dělat, ale myslím, že se v tom stejně nikdo nevyzná.
+[Smajlík] [Muž] [Kategorie]
+ _L_o_n_e_r_2_0
+21.07.2005 12:52:10
+Nebo zkuste si neco vyhledat na google. :-)))
+
+_h_t_t_p_:_/_/_e_l_g_o_o_g_._r_b_-_h_o_s_t_i_n_g_._d_e
+[Smajlík] [Muž] [Kategorie]
+ _L_o_n_e_r_2_0
+21.07.2005 12:47:17
+ANY KEY?
+
+_h_t_t_p_:_/_/_w_e_b_1_4_._c_o_m_p_a_q_._c_o_m_/_f_a_l_c_o_/_d_e_ tail.asp?FAQnum=FAQ2859
+[Smajlík] [Muž] [Kategorie]
+ _L_o_n_e_r_2_0
+21.07.2005 12:45:23
+a znate tohle?
+
+zkutecna oprava do windows XP ktera se vam stahla z windows update
+
+_h_t_t_p_:_/_/_w_w_w_._m_i_c_r_o_s_o_f_t_._c_o_m_/_d_o_w_n_l_ oads/details.aspx?FamilyID=905b4d10-9cde -4d32-
+b576-c942d1375ceb&displaylang= cs
+
+(pozor na mezery v odkazu urcite jich tam zpovednice nekolik naseka)
+[Smajlík] [Muž] [Kategorie]
+ _L_o_n_e_r_2_0
+21.07.2005 12:42:24
+< ?php
+if ($koupit==10) {
+echo "10 rohlíku si kupte...Koupeno!!!";
+}
+endif;
+? >
+ _M_a_r_t_i_n_e_k_-_0_1 [Muž]19 [Kategorie]
+21.07.2005 12:36:51
+jj to je straej dobrej programatorskej vtip. nemusis ho hned vysvetlovat. ;-)
+
+gi666: neni vul, je to programator a splnil zadanou podminku. ja bych taky
+pritahl 10 chlebu ;-))))
+
+jinak spoustu zabijackych programatorskych vtipu co rozsekaj fakt kazdeho
+najdete na na zpovedi 64400. :-)))
+
+a ze jste deti byli hodne tak vam jeste reknu pohadku o zlem drakovi, princi a
+princezne: :-)))
+
+
+COsoba princ,princezna;
+CPotvora drak;
+CObjekt kralovstvi;
+
+void pohadka()
+{
+if (princ.sila >= drak.sila)
+{
+delete drak;
+princ += princezna + kralovstvi/2;
+}
+else
+{
+princ -= hlava;
+}
+return;
+}
+[Smajlík] [Muž] [Kategorie]
+ _L_o_n_e_r_2_0
+21.07.2005 12:22:49
+hehe
+[Smajlík]    [Muž] [Kategorie]
+ _H_y_n_e_k_ _H_u_t_n_y
+21.07.2005 12:04:17
+:))))))) to je vůl :)
+ _g_i_6_6_6 [Žena]35 [Kategorie]
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+
