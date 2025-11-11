@@ -1,0 +1,260 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+    Otázky - Vzkazy č.41977, vloženo _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+    02.01.2005 10:45:22              _s_t_r_á_n_k_a_]
+    Moc prosim o pomoc!
+    Ahoj, techniky znaly lide!
+    Moc prosim o pomoc, protoze tohle je vec, ktera me ted opravdu trapi.
+
+    Zacalo to tak, ze mi vcera moc nesel internet. Presneji receno, prvni,
+    domaci stranka se nacetla, ale kdyz jsem chtela jit kamkoli jinam,
+    nejak se to zaseklo. Proto jsem pocitac restartovala.
+    A potom uz to vzdycky bylo v haji!
+    Zkratka kdyz to zapnu, tak se spusti Scan Disk, coz je normalni pri
+    predchozim restartu. Pak to najde nejakou chybu a... ja s tim nemuzu
+    nic delat!!!
+    Zkratka at mackam na klavesnici cokoli, Scan Disk vubec nereaguje a ja
+    se dal proste zaboha nedostanu. Stale mi to hlasi tu chybu a konec,
+    nezbyva nez to vypnout. Jeste upozornim, ze klavesnice jinak funguje,
+    protoze jeste nez se spusti Scan Disk, muzu zmacknout Delete a jsem v
+    Setupu.
+    Moc vas prosim, jestli vite alespon trosinku, co by to mohlo byt a co s
+    tim mam delat, odpovezte!!! Ted pisu z ciziho pocitace, ale v tom svem
+    mam spoustu veci do skoly, ke kterym bych se rada dostala no a vubec,
+    je to takove pitome si ani nenastartovat vlastni pocitac :-)))
+
+    Predem vam strasne moc dekuju, treba i jen za nazor, jestli je to
+    banalita nebo neco vaznejsiho. Do te doby totiz zadne problemy nebyly.
+    DIKY!!!
+
+    (a taky bych byla rada, kdybyste tuhle zpoved nemazali, nerikam, ze je
+    klasicka, ale trapi me to hodne :-)
+     Daria [Žena]19  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+02.01.2005 16:05:40
+Mtn to řekl přesně. Nebo dát nouzový start woken - a pak přímo přes msconfig
+to upravit... ale to dosovské řešení je jednodušší.
+ _S_h_a_d_o_w_D_a_n_c_e_r [Muž]26 [Kategorie]
+02.01.2005 15:53:05
+Já bych spíš řekl, že ti zdechnul disk.
+No každopádně se vsadím, že od této příhody budeš už navždycky pravidelně
+zálohovat.
+[Smajlík] [Muž] [Kategorie]
+ _s_h_o_d_a_n
+02.01.2005 15:37:05
+Mě to přijde jednoduchý. :) Jde o to změnit jednu hodnotu v jednom souboru. To
+jenom, že jsem to důkladně rozepsal, tak to vypadá složitě.
+ _m_t_n [Muž]28 [Kategorie]
+02.01.2005 14:33:43
+mtn: Ty vole, tak to je hustý.
+[Smajlík] [Muž]26 [Kategorie]
+ _p_e_j_s_e_k
+02.01.2005 13:18:39
+Pokud nikdo zkušenější není a cítíš se odvážně, tak tady je návod...
+
+Takže, nejprve se musíš dostat do startovního menu. To se obvykle dělá přes
+F8, ale pokud ti to nejde, tak normálka restartuj a hned jak se na obrazovce
+objeví nějakej text, tak zmáčkni a drž zmáčknutej CTRL dokud se ti neobjeví
+startovací menu. V tom startovacím menu vyber možnost Nouzový režim se
+systémem MS-DOS (nebo tak něco, je to ta poslední možnost) a potvrď.
+
+Počítač bude chvilku něco dělat a nakonec se ti objeví příkazový řádek do
+kterého můžeš psát. Napiš tam (samozřejmě bez uvozovek) "CD" a potvrď to
+Enterem. (Pokud by ti nešlo napsat obrácené lomítko, protože máš českou
+klávesnici, tak na anglickou se přepneš současným stiskem kláves CTRL+ALT+F1).
+
+
+Teď musíš najít soubor MSDOS.SYS a abys ho mohla upravit, nejprve odstranit
+všecky jeho atributy. To uděláš tak, že napíšeš (zase bez uvozovek) "ATTRIB
+MSDOS.SYS -S -H -R".
+
+Pak si ho otevřeš v textovým editoru příkazem "EDIT MSDOS.SYS" a uvidíš něco
+jako
+
+[Paths]
+WinDir=C:Windows
+Win BootDir=C:Windows
+HostWinBooTDrv=C
+
+[Options]
+BootMulti=1
+BootGUI=1
+Doub leBuffer=1
+AutoScan=0
+WinVer=4.10.2222
+
+atd atd...
+
+Tebe zajímá ta sekce Options, konkrétně řádek AutoScan. Aby se scandisk po
+každém resetu nespouštěl musí tam být hodnota 0. Takže pokud uvidíš, že tam je
+AutoScan=1 tak to přepiš na AutoScan=0. Pokud tam tahle řádka nebude, tak jí
+tam dopiš.
+
+Potom ten soubor ulož (tuším, že v anglické verzi editu je to přes Alt + F
+(File) a pak Alt + S (Save) v českém je to asi jinak, ale to už uvidíš v
+menu.)
+
+Pak ukonči editor (myslím Alt + X (eXit)) . Ocitneš se zpátky v příkazové
+řádce. Nastav zpět attributy u souboru MSDOS.SYS a to příkazem "ATTRIB
+MSDOS.SYS +S +H +R".
+
+Pak restartuj a Scandisk už by se neměl spustit.
+ _m_t_n [Muž]28 [Kategorie]
+02.01.2005 13:02:53
+mozna to pujde vyresit i bez toho. jaka je verze tveho eindows, po jake
+udalsoti ti to zacalo delat a kam nejdal se dostanes zamrzne to v nejakem
+bode?
+[Smajlík] [Muž]28 [Kategorie]
+ _o_m_f_g
+02.01.2005 13:01:47
+potentonocoval se ti windows, chce to reinstall, sama se do toho nepoustej,
+zavolej nekoho zkusenejsiho
+[Smajlík] [Muž]28 [Kategorie]
+ _o_m_f_g
+02.01.2005 12:56:51
+Zkus ještě hned jak naběhne Scandisk mačkat mezerník.
+
+Jinak pro tebe nejjednodušší by asi bylo sehnat nějakého ochotného kamaráda,
+přinést k němu tvůj disk, přehrát z něj všechna důležitá data a pak teprve ho
+zkusit opravit pomocí Scandisku z Windows.
+ _m_t_n [Muž]28 [Kategorie]
+02.01.2005 11:41:57
+vis ono neco nejde delat pres net ,ta velikost je dulezita ze ten co ktobe
+pride musi
+mit vetsi disk nez ty nebo tolik mista aby ti tve data prenes na ten svuj a
+jinak nektere typy disku odchazi po urcitem case samy :( ale beztoho abys to
+nekam zanesla nebo nekdo prisel to nejde Bohuzel
+ tom59
+02.01.2005 11:41:52
+Tak to je vážné...
+[Smajlík] [Muž]26 [Kategorie]
+ _p_e_j_s_e_k
+02.01.2005 11:34:59
+co takhle kdybyc k ni skocil i bez fotky :) to by neslo ja mam jen 30min volna
+pak musim leda ze by byla nekde v Ostrave :)
+ tom59
+02.01.2005 11:34:54
+klusfiosur - diky, taky nazor. Az na to, ze se do niceho neseru.
+
+Velikost disku vam reknu akorat, pokud se to da zjistit jeste pred
+nastartovanim Scandisku. Jinak nevim.
+
+Hele, ja na to asi kaslu. Evidentne nikdo nevi, co s tim, a i kdyby vedel, tak
+dneska tady sama s tim stejne nic nenadelam.
+Takze ted jdu pryc.
+
+Presto, kdyby se tu objevil nejaky genius, kteremu se to treba taky stalo a vi
+presne, co s tim nebo cim je to zpusobene, budu rada, kdyz napise.
+
+Diky aspon za snahu, ahoj.
+ Daria
+02.01.2005 11:32:25
+posli fotku a ja ti to treba pridu opravit ;p
+ Smutnejkluk
+02.01.2005 11:31:32
+kde bydlis ? a ta velikost disku?
+ tom59
+02.01.2005 11:29:52
+jak mas velkej disk?
+ Smutnejkluk
+02.01.2005 11:29:47
+máš to blbé krávo, když tomu nerozumíš tak se do toho neser
+[Smajlík]
+ klusfiosur
+02.01.2005 11:28:03
+Asi chapete, ze pocitacum vubec nerozumim :-) Ale myslim, ze tu disketu nemam.
+
+
+Mimochodem to mackani F5 a F8 zkousel uz vcera nekolikrat muj bracha, ale NIC.
+
+Reaguje to akorat na Delete, to me to hodi do Setupu.
+
+Ach, jsem tak zoufala :( Na jinym serveru mi radi kazdej neco jinyho, navic
+tomu vubec nerozumim... :)
+ Daria
+02.01.2005 11:27:09
+hmhm to by asi bylo lepsi videt... ale asi bych nabootoval z diskety a pak
+smazal naky ty problemovy veci a nebo nejlepe zbavit se w98 a dat tam w2000
+ Smutnejkluk
+02.01.2005 11:24:41
+skus drzet po restartu F5 nebo F8 jednu znich tet tonevim ktera toj vyzkousej
+melo by to nabehnout do rezimu p ptat se te co chces pak zkus nouzovy rezim
+nemas disketu MS-DOS proste stary system?
+ tom59
+02.01.2005 11:16:16
+Mam Windows 98.
+Prave, ze ten Scan Disk preskocit nemuzu. Hned jak to zacne, tak uz to vubec
+nereaguje ani na K - Konec. Samozrejme jsem to zkousela.
+
+Maximalne jestli byste mi poradili, jak zaridit, aby se vubec nespustil? Ale
+on ten pocitac startuje tak rychle, ze po par tech hlaskach na cernym podklade
+:-) tam naskoci. :((
+ Daria
+02.01.2005 11:06:53
+a co mas za Windows co kdyz ten scandisk preskocis? nebo nouzovej rezim
+ Smutnejkluk
+02.01.2005 11:04:28
+skouselas hned na zacatku zrusit scandisk a nornalne pokracovat dal potvrdis
+ze nechces aby neco opravoval //jede to dal // mnel sem =pripad ze takto to
+delali
+pres pul roku a normalne PC jel se vsim vsudy pouze pri startu si musela
+zrusit ten scandisk
+ tom59
+02.01.2005 11:00:01
+Smutnejkluk: Pise to uplne normalni chybu, jako Scan Disk nachazi. Ze je
+udavana spatna velikost souboru (neco s icq). Vetsinou mi to neco takoveho
+naslo, ale dala jsem opravit a slo to dal. Ted proste nereaguje.
+
+tom59: diky za navrh, budu si to teda muset dat prelozit nejakym odbornikem,
+ale treba je to ono :-)))
+ Daria
+02.01.2005 10:49:34
+nejlepsi je dat tvuj Harddisk do jineho PC skopirovat vsechno a pak
+sformatovat a nahrat uplne znova zrejme se vyskytla chyby v botovaci casti je
+to i nejbezpecnejsi
+ tom59
+02.01.2005 10:47:59
+a co to pise? nemuzes to vyfotit digitalem nebo tak? bylo by dobry vedet co to
+pise
+ Smutnejkluk
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+

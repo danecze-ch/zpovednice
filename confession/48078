@@ -1,0 +1,260 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+Diskuze č.48078, vloženo 26.02.2005 16: _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+56:11                                   _s_t_r_á_n_k_a_]
+zakázaná stránka
+Nemůže mi někdo poradit, jak se dá obejít otevření intern. stránky, když
+přístup z Česka je odepřen? Má se změnit IP adresa, ale nevím jak. Prý to jde
+obejít, že si zjistím Ip adresu toho serveru, na který se chci dostat, v
+možnostech internetu přepíšu svou ip adresu na tu jinou a pak se tam dostanu.
+Jenže nevím, kde přesně to je a jestli je to vůbec možný. Jak se to dá obejít?
+Je to normální stránka, akorát se tam nejde dostat z Česka. Moc dík za každou
+radu.
+ luminka [Žena]21  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+28.02.2005 03:59:37
+jinak Udělejt to tak jak píšou
+HHm, a Lachta
+ _P_o_r_a_d_n_a [Muž] [Kategorie]
+28.02.2005 03:57:15
+Takže za
+a) Chtěl bych vás vyvést z omylu co tady plácáte za píčoviny ;-)
+b) Pokud máš providera a máš skrytou IP adresu za jejich proxy serverem tak se
+Ti zobrazí IP toho serveru Providera a ne tvoje pevná která je nastavena na
+Síťové kartě !! ( Bezpečnost Uživatelů )
+c) Udělat to jde ... Vím to, kamarád ( té doby nejhorší tapetář na xchatu.cz )
+si to takhle dělal aby mu nemohli bloknout IP adresu počítače !!
+
+d) Prostě nastavíte si v IE ( debilní prohlížeč ) Pouze proxynu přes kterou se
+lze připojovat ! Proxyny najdete na Nějakejch ProxyListech, Je jich hodně,
+Kamarád mi doporučil, nejlepší sou Egyptský, atd...=> takže pak spojení bude
+vypadat asi takhle :
+
+Váš Počítač => Proxy Providera => Proxy Zahraniční => Server
+( _w_w_w_._h_u_s_t_l_e_r_l_i_v_e_._c_o_m_ třeba)
+
+PS: A pokud To uděláte ( Nastavit to jde ;) ... Schválně, sem zde nenapsal kde
+to hledat, jelikož by ste si to mohly najít sami když se to týká PŘIPOJENÍ !!!
+) A váš provider na to příjde, může Vám odpojit internet, že se připojujete k
+Síti Internet i přes jiné Proxy Servery než je ten jejich !!!!
+PS2: Tohle mi řek ten kamarád jelikož já se v tom moc nevyznám :-D Proto mám
+jako technika Jeho :-D
+Poznámka:
+PS3: A i kdyby měl VEŘEJNOU IP, tak stejně by se tam nedostal, jelikož Proxy
+Server, providerovo by dal stejně znamení, že IP je z Tý a Tý lokace !
+ _P_o_r_a_d_n_a [Muž] [Kategorie]
+27.02.2005 11:44:26
+Zkus se tam pripojit pres tohle:
+_h_t_t_p_:_/_/_p_r_o_x_y_._g_u_a_r_d_s_t_e_r_._c_o_m_/
+[Smajlík]
+ Matej
+27.02.2005 00:04:12
+p.s. a nebyla to americká porno tv! :)
+ lachta
+26.02.2005 23:57:46
+takhle nemusejí být zabezpečeny jen porno stránky, viděl jsem to už i u
+stránek nějaké americké televize...
+
+trik v přístupu na tyhle stránky je v použití proxy serveru.
+návod pro Internet Explodér:
+Otevři si prohlížeč. Jdi do menu "Nástroje-Možnosti Internetu" a klepni na
+záložku "Připojení". V její dolní části je sekce "Nastavení místní sítě LAN" a
+tlačítko "Nastavení místní sítě". Klepni na to tlačítko. V sekci "Server
+proxy" zaškrtni "Použít pro síť lan server proxy..." a do prvního (delšího)
+políčka s označením "adresa" zadej třeba "66.208.198.115" (i s tečkami, bez
+uvozovek) a do druhého s označením "port" zadej "444" (zase bez uvozovek).
+Vše potvrď a zkus se dostat na své vysněné stránky. ;)
+
+p.s.
+- pokud už v nastavení prohlížeče nějakou proxy máš, tak máš smůlu. ;) jedině
+snad nějaký anonymizér.
+- pokud ta ip nebude fungovat, zkus jinou americkou proxy (zadej do google
+"anonymous proxy")
+- vydávání se za holku ti zrovna na zpovednici asi moc nepomůže, protože imho
+je tu víc holek než kluků ;)
+
+lachta
+[Smajlík]
+ lachta
+26.02.2005 23:47:16
+zkousel(a) si to s proxy?
+ _o_m_f_g [Muž]28 [Kategorie]
+26.02.2005 22:06:19
+proste na google vyhledat "anonym proxy" tam sehnat nakou tzv IP adresu, to je
+cislo ve formatu xxx.xxx.xxx.xxx nekde se udava i port a to je cislo max 5
+mistny tohle(tyhle) cislo(cisla) vlozite do internet
+explorer>nastroje>moznosti internetu>pripojeni>nastaveni mistni site>
+"zaskrtnete pouzit pro sit lan server proxy" vlozite ip adresu a port a date
+ok , je to pomalejsi nez kdyz to tam nemate, nekdy az mnohasekundovy
+intervaly...vypnete to tak ze vyskrtnete "pouzit pro sit lan server proxy"...
+ _H_H_m [Muž] [Kategorie]
+26.02.2005 19:08:07
+Ok kdo chtěl, ma to na mejlu. Dejte vědět jestli vam to došlo, a zda jse se
+tam dostali. Ja tedy ano
+[Smajlík] [Muž] [Kategorie]
+ _K_e_x_x
+26.02.2005 18:51:14
+Boze co tu este nenajdem.... Ja na tvojom mieste by som to nerobil....
+[Smajlík] [Muž]58 [Kategorie]
+ _B_O_H
+26.02.2005 18:38:27
+Pytrisek : Nee sem to psat rozhodne nebudu, protoze tohle je zpovednice. cz a
+ne forum "jak obchazet zabezpečeni porno sajtu" +spousta nezletilcu, kdo umi
+ten si to najde,kdo neumi ma smulu. max ti to muzu poslat mejlem...
+
+P.S I kdyz sou to placeny stranky- tak ke koukani tam preci i neco je :-))))
+Videochaty z Praglu, a mozna neco z Brna... A fura čechu co neumi žbleptnout
+ani anglicky (divny coo? halvně že to blokujou)
+[Smajlík] [Muž] [Kategorie]
+ _K_e_x_x
+26.02.2005 17:52:20
+Ježišikriste, proč se tady pohoršujete nad tím, co tam je? Co asi, lidi, co
+dělají erot. show za peníze. Je to normální chat s videem a když obětuješ 6
+dolarů za minutu, ta holka-kluk-pár se svlíkne, udělá vecho, co si platící
+user bude přát. Já nemám prachy na to, abych se tam přihlásila, jenom
+potřebuju jít zrovna sem. Těhle chatů je milion i s přístupem z Česka a já
+chci jen radu, jak se tam dostat, ne moralizovat, že tam je porno...
+ luminka
+26.02.2005 17:47:00
+Tak normální stránka s erotickým chatem, jo? :-))) A také video chatem :-)))
+Nepůsobí tam nějaká Jessica? Jakou práci tam asi dělají?
+ _H_o_p_e [Žena]39 [Kategorie]
+26.02.2005 17:38:18
+Kexx: nenapsal bys ho sem? rad bych si to poslech :))
+[Smajlík] [Muž]26 [Kategorie]
+ _P_y_t_r_i_s_e_k
+26.02.2005 17:30:21
+Luminka- slečna 21 je FOUSATEJ CHLAP!!!! Nebo hoodne nadrženej teenager :-)))
+Poněvač proč byjinak chtěla na porn stranky??(zvlaštěpak když jsou z čr
+blokovany- proč asi? Protože sou tam je český holky - tedy možná kdokoliv z
+okruhu vašich známích:-)))
+
+P.S Klíčový slovo je připojení přes proxy server - (kdo nevi- ten si to
+nezaslouži) jinak se tam nedostaneš , a stejně je to na houby , protože
+stranky sou placeny a zadarmo jako preview tam toho na koukani moc nebude.
+Abych tady nepohoršoval... pošli mě mejl pošlu ti navod ...
+[Smajlík] [Muž] [Kategorie]
+ _K_e_x_x
+26.02.2005 17:24:33
+kdyby to bylo tak snadny delal by to kazdej :) tenhle rok z toho maturuju tak
+snad se nepletu :o)
+[Smajlík] [Muž]26 [Kategorie]
+ _P_y_t_r_i_s_e_k
+26.02.2005 17:22:32
+no ja nevim co to bylo za "technika" ale kdyz zmenis ip adresu nebo svoji
+proxynu tak se nejen nedostanes na tu stranku ale ani na internet jako takovy
+:)
+[Smajlík] [Muž]26 [Kategorie]
+ _P_y_t_r_i_s_e_k
+26.02.2005 17:22:17
+To je divný, z ČR se tam dá lehce dostat, když se změní to nastavení. To není
+možný, že by to bylo tak složitý.
+ Lumika
+26.02.2005 17:20:57
+¨Je to normální stránka s erot. chatem, nic zakázaného, jen tam pracuje dost
+holek z ČR a Slovenska, tak tam tyhle státy nemají přístup. To je běžné. Já se
+tam musím dostat, když zadám adresu, napíše mi to, že jsem mimo geografický
+dosah těchto stránek. Je to hlavně pro USA. Mluvila jsem s jedním technikem,
+který mi řekl, že se tam dá lehce dostat odevšud, stačí změnit ip adresa nebo
+proxy nebo co, já tomu moc nerozumím...
+ Luminka
+26.02.2005 17:19:51
+Porno, viď? Hm, s tim ti neporadim.
+ _I_s_c_h_e_m_i_e [Žena] [Kategorie]
+26.02.2005 17:19:49
+bastien: ta brana by ale mela mit pevny ipcko ne? :)
+[Smajlík] [Muž]26 [Kategorie]
+ _P_y_t_r_i_s_e_k
+26.02.2005 17:17:56
+luminka: dobry s tim sem se jeste nesetkal :))) no vypada to ze je to primo na
+ty strance, proste ban vsech ip adres z cesky rep. Jestli si na kabelu, nic s
+tim neudelas. Slo by to s vytacenim pripojenim, ze by ses pripojila treba pres
+nemecko... ale to chce spouuustu penez na internet :o) jinak myslim ze s
+timhle se hnout neda :(
+[Smajlík] [Muž]26 [Kategorie]
+ _P_y_t_r_i_s_e_k
+26.02.2005 17:16:41
+Hmm, mně to taky nejde, mám router, ještě bránu a navíc nemám pevnou IP.
+[Smajlík] [Muž]41 [Kategorie]
+ _b_a_s_t_i_e_n
+26.02.2005 17:15:10
+ale vzdyt je i dost ceskych erotickych stranek :)
+ _P_a_l_a_d_i_n_n_o [Muž]18 [Kategorie]
+26.02.2005 17:12:49
+PYTRRISKU, potřebuju se dostat na stránku _w_w_w_._h_u_s_t_l_e_r_l_i_v_e_._c_o_m_ nebo
+_w_w_w_._f_l_i_r_t_4_f_r_e_e_._c_o_m_ to je jedno. Mám tam zakázaný přístup z ČR. Mohl bys mi,
+prosím poradit víc? Net mám připojený přes kabel. Víc nevím :-)
+ luminka
+26.02.2005 17:10:53
+To nechápu, proč z česka to nejde. Mám dojem, že až se tam dostaneš od jinud,
+tak budeš mile přivítaná nějakým spywarem - dokážu si předsatvit, co to asi
+bude za stránky. Ale logiku to nemá, že to nejde od nás - spíš máš špatné
+info. Případně je obsah stránky (služby) v CZ kvalifikovaný jako trestná
+činnost.
+[Smajlík] [Muž]41 [Kategorie]
+ _b_a_s_t_i_e_n
+26.02.2005 17:09:44
+Za prve, pokud si v siti ktera pristup do internetu jen poskytuje tak zmenou
+ip adresi zmenis jen ip adresu v te vnitrni siti. Ip adresa pres kterou lezes
+do internetu se nezmeni protoze to je ip adresa od providera a je napevno
+natlucena na proxy server.
+Za druhe, pokud mas prime pripojeni, tedy verejnou ip adresu tak tu taky
+nemen. Jak ji zmenis nepujde ti internet :). Mas ji napevno zase od providera
+a ten te nepusti na internet s jinou Ip adresou. Takze je to blbost :) Napis
+mi konkretne o jakou stranku dystak de a jak nebo proc je to zakazany...
+takhle se tezko radi.
+[Smajlík] [Muž]26 [Kategorie]
+ _P_y_t_r_i_s_e_k
+26.02.2005 17:09:14
+Jejda,těmhle věcem já vůbec nerozumím,takže doufám,že se tu najde někdo,kdo
+ano a poradí ti.
+[Smajlík] [Žena]20 [Kategorie]
+ _n_o_r_f_y
+26.02.2005 17:04:07
+A přes nějaký anonymizér?
+ Vlora
+26.02.2005 17:00:06
+To se mi ještě nestalo...
+[Smajlík]  [Muž]28 [Kategorie]
+ _l_a_t_r_o_d_e_c_t
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+
