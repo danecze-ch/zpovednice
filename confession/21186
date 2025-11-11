@@ -1,0 +1,165 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+ Zpověď č.21186, vloženo 26.04.2004 12: _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+ 54:05                                  _s_t_r_á_n_k_a_]
+ jak na to?
+ Potrebuju vyrobit procesor s teoretickym paralelnim vykonem 2^64 flops a
+ pameti 2^64 nibbles. Poradte jak na to please!
+  _x_i_c_h_t [Muž]14 [Kategorie]  _V_Y_M_A_Z_A_T
+ Tato zpověď byla vyřazena z hlavní stránky!
+
+ Pro hlasovali: Eury, quiz, Emilie Weberová, kachnitruksi, Arrow, discoverer
+ Proti hlasovali: Pan Kac
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+28.04.2004 18:40:26
+teta beta: jasne, ze propojovat paralelne procesory je dobrej napad - a taky
+se to tak v superpocitacich dela...
+ _x_i_c_h_t [Muž]14 [Kategorie]
+27.04.2004 20:55:42
+Dej se raději na výrobu perpeta mobile, jistě tě bude čekat brzčí úspěch.
+Propojovat paralelně procesory je fakt dobrej nápad. Vidím to tak, že
+procesory sami sebe zahltí činností v rámci vzájemné komunikace natolik, že
+jim toho asi moc nezbude na ostatní (užitečnějčí) činnost. Práci čest a rukám
+klid :-)))
+[Smajlík]  [Žena]44 [Kategorie]
+ _t_e_t_a_ _b_e_t_a
+27.04.2004 01:34:15
+Kdybys náhodou na to, přišel, dej vědět,dáme se dohromady, budem to vyrábět a
+zbohatnem.
+[Smajlík] [Muž]48 [Kategorie]
+ _B_r_t_n_í_k
+26.04.2004 20:26:37
+To je prave ten problem, treba existuje lepsi algoritmus ale chce to uplne
+zmenit pohled na vec... Ale v simulaci mozku to holt jinak nepujde. Jinak
+internet je na to rychlej dost, superpocitace v ruznejch institucich a skolach
+jsou vzdycky na dostatecne rychly lince, zalezi teda na slozitosti propojeni,
+ale ani v lidskym mozku neni propojenej kazdej neuron s kazdym. Nevim teda o
+co ti presne jde, ale predpokladam ze o ten mozek, pak pocitej s tim ze mozek
+neprichazi do sveta uplne cistej, ale uz nejaky principy "nauceny" ma. A to
+vsechno bys ty neuronovy siti musel dat taky, a neni toho malo...
+ _P_a_n_ _K_a_c [Muž]26 [Kategorie]
+26.04.2004 19:54:24
+Pan Kac: Simulovat min neuronu uz sem samozrejme zkousel - zvladne to v
+realnym case simulovat 2^20 neuronu. To je ale hrozne malo a slozitost roste
+kvadraticky. Mozna by to chtelo lepsi algoritmus, ale myslim, ze snad ani
+neexistuje.
+
+A s tim internetovym cervem to nevidim moc ruzove. Internet je totiz pomalej a
+pokud by se kvuli vypoctu jednoho neuronu muselo cakat, az prijde stav jinyho
+treba z druhyho konce sveta, tak by to asi moc nefungovalo.
+ _x_i_c_h_t [Muž]14 [Kategorie]
+26.04.2004 19:09:51
+Tak na to je idealni aplikace na sdileni vykonu vice pocitacu po siti, ne? (:
+A jakej model neuronovy site chces pouzit? Dle myho je Hebbovo uceni
+zkombinovany s fuzzy logikou asi nejbliz realite, ale nejak jsem to ted dlouho
+nesledoval, takze mozna uz jsou trendy nekde uplne jinde. Ono mozna ani neni
+dobry snazit se presne simulovat chovani skutecne nervove soustavy.
+Jinak doporucuju nejdriv si zkusit vytvorit nejakou jednodussi, treba "jen"
+1000 neuronu, na to tvuj srot staci, at vis do ceho jdes (:
+ _P_a_n_ _K_a_c [Muž]26 [Kategorie]
+26.04.2004 15:55:53
+Pan Kac: Potrebuju simulovat jednu neuronovou sit.
+ _x_i_c_h_t [Muž]14 [Kategorie]
+26.04.2004 14:51:53
+co to je????
+[Smajlík] [Žena]27 [Kategorie]
+ _D_a_n_a
+26.04.2004 14:03:57
+no na kolene si asi nic takovyho nevyrobis, to si nevyrobis ani ten srot co
+mas na stole, ale udelat cerva kterej vsem na netu natahne soft pro sdileni
+vykonu by slo a kdyz se protahne i na ruzny superpocitace tak bys toho vykonu
+dosahnout mohl... Tak se do toho pust.
+A na co to vlastne potrebujes?
+ _P_a_n_ _K_a_c [Muž]26 [Kategorie]
+26.04.2004 13:57:44
+To je slabý.
+ _W_e_b_s_u_r_f_e_r [Muž]21 [Kategorie]
+26.04.2004 13:35:15
+Pro pro pro proč tu mluvíte cizím jazykem? Aha, počítače? To sem nepatří, máš
+ode mně bodíka.
+ _E_m_i_l_i_e_ _W_e_b_e_r_o_v_á [Žena]30 [Kategorie]
+26.04.2004 13:25:18
+To musíš vykomprimovat nějaký jiný flopp-procesor,sformátovat jeho části na
+piko-parametry,zadat v paralérním systémovém sběrači parametry,odinstalovat
+současnou paměťovou kartu.Ale taky podle toho,jestli chceš DIMM,RIMM?nebo
+starší SIMM?Pak taky musíš najít ve své hlavě otázku - microprocesor CISC nebo
+RISC
+
+
+...myslím,že by bylo lepší zeptat se někde v specializovanějších místech :) :
+) :)
+[Smajlík] [Žena]21 [Kategorie]
+ _L_a_s_s
+26.04.2004 13:24:34
+Procesor je ta vec, ktera v pocitaci provadi vypocty Ja potrebuju provest za
+sekundu asi 18 446 744 073 709 551 616 elementarnich vypoctu. A uz me to vazne
+stve. Pocitac, kterej mam na stole jich provede asi 3 000 000 000. Takze bych
+jich musel spojit 6 148 914 691 dokupy, ale ja potrebuju, aby to bylo velky
+tak maximalne 1 dm^3. Je to nanic a zacinam z toho mit silny deprese... Co mam
+jako s takovym srotem delat? S tim se neda nic, asi si pudu skocit pod vlak.
+ _x_i_c_h_t [Muž]14 [Kategorie]
+26.04.2004 13:24:13
+Jestli to spichnes ze starych dobrych 'bobo' 8080-tek, tak smekam. Ale to vy
+mladi, uz neznate. Inu, to je pokrok.
+ _B_l_A [Muž]42 [Kategorie]
+26.04.2004 13:23:23
+zaujimave hobby na zakladnej skole :-)))))
+[Smajlík]
+ Uk5h9rt7
+26.04.2004 13:21:22
+to se dá vyrobit doma??
+ _j_a_v [Žena]30 [Kategorie]
+26.04.2004 12:58:05
+Na tohle jsou určitě specializované stránky, ne?
+
+Jinak procesor je ta věc, co vypadá jak model zoologické zahrady??
+ _E_u_r_y [Žena]26 [Kategorie]
+26.04.2004 12:56:50
+Ehh...prosim????
+[Smajlík] [Žena]21 [Kategorie]
+ _K_i_r_b_e_n
+26.04.2004 12:55:53
+Čeho??? Já si vyprošuju, aby se mi tady škaredě nadávalo :-))))))))))
+[Smajlík] [Žena]39 [Kategorie]
+ _r_a_j_s_k_a
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+
