@@ -1,0 +1,281 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+ Zpověď č.72117, vloženo 20.08.2005 00: _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+ 34:44                                  _s_t_r_á_n_k_a_]
+ Nejde Internet v autobuse
+ Ahojte,
+ mam problém. Jsem už rok autobusákem a mám v autobusu internet, to víte, jsem
+ moderní, tak musím přizpůsobit i okolí sobě. Tak jsem si řekl, že budu mít v
+ autobuse Internet. Chci se zeptat, proč mi najednou přestal fungovat internet
+ v autobuse? PS Každý cestující má jeden notebook, v autobuse je 42 míst k
+ sezení. Na stropě jsou lišty a v nich kabely na internet. Asi 2 měsíce mi to
+ jelo a teď si cestující stěžují, že se nemohou připojit na internet.... Jsem
+ elektrikář sice, ale tuhle závadu jsem neodstranil.
+ Konfigurace je taková: 42 notebooků zapojených do centrálních 2 switchů,
+ které jsou propojené a připojené na router s NATem. Autobus má jednu
+ neveřejnou IP adresu, ale na notebookech je taky neveřejná, a na routeru
+ probíhá NAT.
+ Připojeno je to přes Eurotelí CDMA.
+ Poraďte prosím
+  7603 [Muž]22  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+20.08.2005 21:34:09
+taky bych to tak chtela mit :o)...odkud jsi?
+[Smajlík] [Žena] [Kategorie]
+ _T_o_p_a_z
+20.08.2005 18:20:12
+Nejspíš odešel Modem.
+Postupuj následovně
+Připoj dva počítače a zjisti zda vidí síť, zda se vidí navzájem, zda vidí na
+net
+A to z různých připojovacích bodů.
+Pak reset switch hubu,
+kontrola zda do hubu jde signál
+Zda je signál na routeru
+a zda je signál na přímači.
+
+Když máš signál, Vyměň kabel.
+Když nemáš signál, vyměň modem.
+Když výměna kabelů nepomůže zavolej si někoho, kdo dělá sítě, protože je
+problém v nastavení....
+[Smajlík]  [Muž]49 [Kategorie]
+ _p_r_o_t_o_z_o_i_d
+20.08.2005 14:40:28
+promin nefiim
+[Smajlík] [Muž]15 [Kategorie]
+ _W_a_p_s_t_e_r
+20.08.2005 13:29:44
+to sou dneska služby teda...
+ _B_e_a_t_c_h [Žena]29 [Kategorie]
+20.08.2005 12:56:54
+V prvni rade muze byt problem v tom CDMA, nemam to teda prostudovane, ale vim,
+ze to je dost omezovane a musis davat bacha, jak to spravne vyuzivat, aby to
+fungovalo, jak ma...
+Problem muze byt v tom NATu - docela bych si vsadil na to, ze ET pozna, ze se
+jedna o distribuci internetu pres NAT a blokujou to. doporucil bych ti tam
+zapojit jedno PC jako firewall s proxy, kde to nastavis a poskytovatel nic
+nepozna, navic ti to da moznost vyuzivat vlastni proxy cache, takze pokud ty
+lidi budou hledat jednu stranku vickrat za den nebo tak, tak se to urychli,
+pac se bude nacitat prevazne z cache a ne vzdy znovu...
+Prober s nekym, koho mas poruce lepsi nastaveni/vyuziti pripojeni pres CDMA,
+chce to hodne promyslet a tady neni misto na to, abych ti dal dobrou radu
+[Smajlík] [Muž]25 [Kategorie]
+ _Š_e_b_r_l_e
+20.08.2005 12:38:12
+Příspěvek porušoval zákony ČR nebo pravidla Zpovědnice - byl odstraněn.
+20.08.2005 12:35:40
+Moznosti je nekolik. V prvni rade CDMA neni prizpusobena na takovou zatez...
+je dost pomala i co se tyce jednoho otevreneho internet exploreru :/ Pokud se
+najednou pripoji vice lidi je znacne pravdepodobne, ze net nepujde - resp.
+pujde ale tak pomalu, ze se ani nenactou stranky. Za druhe jak jiste vis...
+CDMA je mobilni technologie a jako takova je znacne zavisla na signalu a
+pokryti, ktere - priznejme si to - neni v nasi zemi yzrovna idealni.
+Hardwarove problemy neresim... to bych musel videt, kazdopadne problem muze
+byt i tam.
+ Iham
+20.08.2005 12:21:39
+kde jezdíš???
+[Smajlík]  [Muž]18 [Kategorie]
+ _B_o_U_c_H_y_i_i_i
+20.08.2005 11:49:04
+tak to netušim.
+[Smajlík]       [Muž]23 [Kategorie]
+ _R_O_C_K_e_r_ _F_o_r_e_v_e_r
+20.08.2005 11:05:38
+:-))) To je vtip dne ? Jakou rychlost má internet u jednoho koncového
+uživatele s notebookem ... :-))) třeba 0,025 kB/sec ?
+[Smajlík] [Muž]43 [Kategorie]
+ _S_e_m_t_e_x
+20.08.2005 11:05:01
+ty vole tomu bejt good autobus takovej kdyby me vozil do skoly :P
+ _T_o_t_a_l_n_i_D_e_b_i_l [Muž]16 [Kategorie]
+20.08.2005 10:45:48
+OT:
+
+Turntable: BFU = Bloody F**ing User, ne Bastard ;-)
+[Smajlík] [Muž] [Kategorie]
+ _L_o_n_e_r_2_0
+20.08.2005 10:16:03
+to uz tady bylo...
+[Smajlík]  [Muž]23 [Kategorie]
+ _h_o_n_z_a_G_o_o_d
+20.08.2005 09:14:44
+_h_t_t_p_:_/_/_w_w_w_._z_i_v_e_._c_z_/_p_o_r_a_d_n_a_/_S_u_b_C_h_i_l_d_._a_s_p_ Qst=244634
+[Smajlík]
+ Miroslav Bajger
+20.08.2005 02:42:42
+Heh, aha :). A jinak ono záleží na místě. Když je dobré místo, peníze se jen
+hrnou. Ale osobně bych asi hernu neotvíral, on je to celkem risk a náklady
+jsou velké.
+ _U_n_r_e_a_l_i_k [Muž]40 [Kategorie]
+20.08.2005 02:34:04
+Unrealik: vim, že se budou muset prodloužit, ale to už nebude moje starost ...
+na přelomu listopad a prosince kafku prodam a budu mít čas na bakalářku :)
+
+ono už stejnak nejsou takový kšefty jako dříf a ať si někdo užije to lítání
+okolo taky někdo jiný :)
+
+jenom si asi holt bude muset sehnat jiný programy na sí´t, pač na ty co mam,
+tak mam "licenci" jenom já
+ satan
+20.08.2005 02:14:40
+Tezko rict :) Bych musel vedet vetsi podrobnosti :)
+
+
+
+
+--------------------------------------
+Laska je az na prvnim miste...
+ _e_F_k_o [Muž]23 [Kategorie]
+20.08.2005 02:09:42
+Satane, ty licence bude potřeba jednou prodloužit :). A navíc je teď nově
+možno licencovat další hry. Mrkni na _h_t_t_p_:_/_/_w_w_w_._a_l_l_s_t_a_r_g_a_m_e_._c_z_/_c_z_/_ (případnou
+mezeru v odkazu umaž).
+
+Ne, ne, foto je z Váslavského náměstí - u Muzea.
+ _U_n_r_e_a_l_i_k [Muž]40 [Kategorie]
+20.08.2005 02:02:47
+jo tak to ti neřeknu teďka jak se ten prográmek menuje v originále ( mam dovču
+a sem doma u přítelkyně - jiný město než je netovka :)
+
+licencování nepotřebuju, tam to mam fšechno ošéfovaný :) ale teďka přemejšlim,
+že rozjedu ještě linux, ale až bude čas, ať se v tom ty děti trápí :)
+
+btw. ta tvoje fotka profilu: nejni v praze u florence před tim softwarehausem
+? momentálně si nevzpomenu jak se menuje, ale kámoš tam dělá projektovýho
+ředitele :)
+ satan
+20.08.2005 02:01:02
+42 počítačů na 1 Eurotel? Hmmm... jistě... a ve kterém kresleném vtipu jezdíš?
+:o))
+Vzhledem k tomu, že sám používám stejný způsob připojení, tak bych to chtěl
+vidět v pohybu....
+[Smajlík]     [Muž]26 [Kategorie]
+ _S_h_a_d_o_w_D_a_n_c_e_r
+20.08.2005 01:53:33
+Satane, tak to máš fajn. My nabízíme SmartLaunch, což je hodně propracovaný
+program, ale je u něj vyšší cena.
+A jaký máš, prosím, email? Když tak, tak mi jej napiš do profilu. Pošlu Ti
+info o licencování Half-Life 1/2 + hrách od CD Projektu o:).
+[Smajlík] [Muž]40 [Kategorie]
+ _U_n_r_e_a_l_i_k
+20.08.2005 01:32:39
+Unrealik: pár jich mam a hlavně mam prográmky od Keria ( resp. sou to stejný
+programy, se stejnými zdrojáky, akorát sou mi poskytnutý jako domácí produkt
+toho programátora ), jelikož s programátorem, co má nastarosti síťové ochrany
+je jeden z mojich nejlepších kámošů a hlavně největší bedna na ně u nás v
+republice ... :)
+
+ale prostě pod woknama se člověk nabourá do fšeho, když je trošku šikovnej :)
+ satan
+20.08.2005 01:26:38
+jeeej, tak jetsli za jizdy pouzivas internet, tak opotěš... už nejezdim ani
+autobusem :D
+[Smajlík] [Žena]24 [Kategorie]
+ _l_a_m_i_s_i_l
+20.08.2005 01:04:05
+Satane, existují programy na správu herny. Když tak, tak se mi ozvi do profilu
+o:).
+[Smajlík] [Muž]40 [Kategorie]
+ _U_n_r_e_a_l_i_k
+20.08.2005 01:01:22
+Takovej bus bych chtěl vidět teda :)
+[Smajlík] [Muž]38 [Kategorie]
+ _F_í_l_a
+20.08.2005 00:59:27
+jj,už to tu bolo.....sorryyy
+ _k_e_f_i_c_k_a [Žena]34 [Kategorie]
+20.08.2005 00:58:37
+Turntable: jinak já sem schopne změnit IPčka u fšech kompu, který jedou u nás
+ve škole ( takže změnim i IP u lidí na koleji, v tom nevidim žádnej problém
+mimo času ) přes basic router ...
+ satan
+20.08.2005 00:58:12
+WOW chci s tebou jezdit dalkove
+[Smajlík]    [Žena]26 [Kategorie]
+ _K_a_t_a_l_i_n_a_ _K_N
+20.08.2005 00:56:59
+Na řízení autobusu praxe být nemusí, někteří dopravci, jí ale vyžadují,
+někteří ne. Není to dané zákonem, že praxe musí být.
+
+Díky za prozatímní podněty, čím by to mohlo být.
+ 7603
+20.08.2005 00:54:42
+Autobusák = řidič autobusu? Já myslel, že na řízení autobusu musí být praxe?!
+A taky mám pocit, že stejný dotaz tu už před x měsíci byl...
+[Smajlík] [Muž]40 [Kategorie]
+ _U_n_r_e_a_l_i_k
+20.08.2005 00:53:31
+Turntable: ono nejni moc velkej problém si s tim pohrát :)
+
+ve zkurvenejch woknech jde fšechno velice rychle :(
+ale jinak CDMA má celkem velký pokrytí, jelikož jede na starý 450MHz síti pro
+mobilní telefony :)
+ satan
+20.08.2005 00:49:20
+Příspěvek porušoval zákony ČR nebo pravidla Zpovědnice - byl odstraněn.
+20.08.2005 00:45:37
+no ono mít CDMA je mazec, my ho máme na provátě taky a kvalita služeb je
+mizivá ...
+
+je tu několik možností:
+1) zkusit jestli ti jde síť ... pokud ne, tak bude chybka v zasíťování kompů
+2) zkusit estli ti funguje CDMA ( na jednom kompu ), sám sem jej 3x
+reklamoval, a sou s tim problémy pořád
+3) koukni estli si ti v tom někdo nepohrál, mam netovou kavárnu a vim co lidi
+rádi dělaj :) ... strašně rádi ti mění IP a u toho CDMA je to hodně znát,
+pokud změníš IP, tak ti to z 99% nepude ...
+
+4) jinak nefim
+ satan
+20.08.2005 00:44:50
+Příspěvek porušoval zákony ČR nebo pravidla Zpovědnice - byl odstraněn.
+20.08.2005 00:40:14
+Jezdí v Ostravě
+ 7603
+20.08.2005 00:39:38
+Příspěvek porušoval zákony ČR nebo pravidla Zpovědnice - byl odstraněn.
+20.08.2005 00:38:24
+rofl, tak takovej bus bych chtel videt, kde jezdi?? napis do profilu pls
+ _č_e_r_t_ _a_n_á_l_n_í_k [Muž]18 [Kategorie]
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+

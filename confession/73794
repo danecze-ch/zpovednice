@@ -1,0 +1,226 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+Diskuze č.73794, vloženo 31.08.2005 00: _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+27:45                                   _s_t_r_á_n_k_a_]
+kody na zpovednici - analyza
+Tak mi to dnes nedalo a znovu jsem ozkousel jak moc ochrani kody zpovednici
+pred spamem...
+Tento prispevek je analyzou toho jak moc jsou kody u reakci spolehlivou
+ochranou
+
+Pro ty, co se v tom proc jsou treba na ochranu kody moc neorientuji:
+Kody maji mit tu vlastnost ze zabrani automatickemu vkladani zpovedi, reakci a
+podobne. Jak vsichni vedi, vyskytli se tu ruzni madari a podobni, kteri
+mohutne prispivali pod zpovedi ruznymi blaboly... Madar neni clovek co sedi
+pred pocitacem a dost drsne a rychle vklada pomoci CRTL+C a CTRL+V texty a
+odesila reakce.... takovy clovek je neskodny .. vetsinou ho to prestane po pul
+hodine bavit .. a za tu pulhodinu odesle tak maximalne stovku nesmyslu ...
+Madar je nejaky zkusenejsi uzivatel pocitace, ktery si naprogramuje programek
+( skript) ktery necha bezet na svem nebo jinem pocitaci a ten dela vse sam
+( obrazne receno - kllka na ty prave odkazy generuje nesmyslne texty z
+madarskych clanku a odesila to ... )
+Takovy madar je horsi, protoze ho to neprestane za pul hodiny bavit, muze
+bezet hodiny a dny a za minutu stihne vlozit slusne mnozstvi reakci :) ...
+Ochrana proti madarum pak muze spocivat na zaklade zakazani ip adres ( coz se
+rychle udela ... ale neni problem to obejit a krome toho to muze schytat i
+nejaky nevinny clovek :) ) dalsi moznosti je pak zavedeni na stranek neceho,
+co se da spatne nebo vubec strojove zpracovavat... a jsme u tech kodu - clovek
+koukne vidi a opise.... ale madar potrebuje nastroj ktery obrazek zanalyzuje a
+vrati mu text z obrazku .. je-li obrazek chytre udelany, muze to byt celkem
+problem :) No a jsme u jadra veci:
+
+Hned po zavedeni kodu v reakcich jsem zkousel nejakym nastrojem rozpoznat
+jejich prvni verzi - ta byla prakticky k nicemu, na obrazek jsem pustil muj
+amatersky rozpoznavac textu .. a s temer 100 procetntni jistotou mi vzdy k
+danemu obrazku priradil text... totez asi udelal madar ( pokud tedy neni ve
+zpovednici jina dira jak vkladat prispevky - ja to nezkoumal :) ) ... prihodil
+par radek do sveho skriptu a vesele madaroval dal.. :)
+Nyni kdyz se objevila druha verze, ktera vypadala podstatne lepe jsem si rekl
+ze to zkouknu :) Muj rozpoznavac uz tu byl k nicemu - prece jenom jsem salat :
+) Koukl jsem se tedy na svoji masinu a hle ... programek gocr se na to celkem
+hodil .. s programkem jsem nikdy nepracoval - precteni man pages, pochopeni
+funkce a tak mi zabralo hodinku, dalsi pulhodinku jsem se venoval tomu naucit
+gocr rozpoznavat zpovednicove obrazky .. a pak jsem sel testovat.
+
+Na testovani jsem si stahl 256 ( takove kulate cislo ze? :o) ) kodu ze
+zpovednice a pustil na to gocr se svym nastavenim ... byl jsem mile prekvapen
+:) z 256 jich 180 rozpoznal dobre .. to znamena 70ti procentni uspesnost - to
+je zhruba jak ja pri opisovani :) Podotykam ze jsem gocr nijak specialne
+nenastavoval co se tyce prostredi rozpoznavani, pokud bych si s timto pohral
+asi by byla uspesnost jeste o 5-10% vyssi... taky naucit gocr na zdejsi
+obrazky by slo pecliveji :)
+
+VYSLEDKY TESTU NAJDETE TU:
+http://www.halamex.cz/vasek/kody
+
+
+ZAVER:
+pokud bych byl madar, zastavili by kody tak 25% mych prispevku .. coz je dost
+malo. Nastesti pro nas madar nejsem .. Otazkou je zda to madara nebo nekoho
+podobneho bude bavit a bude hledat jak to obejit, pokud ano - kody jsou porad
+nedostatecne.
+Co madare ... des do toho ??? :) nebo ty Pajku zlepsis kody? :)
+ dev-null [Muž]23  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+01.09.2005 16:05:41
+Gubby- madar protože kopíruje madarsky texty, kterym tady moc lidi nerozumi...
+ _A_n_u_l_o_v_a_n_a [Žena] [Kategorie]
+31.08.2005 12:32:09
+undra:
+
+pokud ten clovek je schopen napsat vlastni slozitejsi skript, tak si nedelej
+iluze ze nevi co je to gocr :) nebo ze neumi neco podobneho vygooglit
+je-li to ovsem debil, ktery akorat nekde sehnal nejaky spamovaci plugin do
+prohlizece, tak at si to stahne - je mu to uuuuplne k nicemu
+ dev-null
+31.08.2005 11:44:56
+Bohužel zastaví snadno člověka, protože kolikrát zmizí půlka písmenka, což by
+ale tak nevadilo, ale vadí že nula a písmenko "O" vypadají stejně. Což oto,
+stojí to čas, ale dá se to opravit, ale co když je tam těch nul a "O" v kódu
+víc, ono to celkem dlouho trvá než člověk najde kombinaci a to už si pak
+připadá jako zloděj u trezoru. Ochrana je jako obvykle nedomyšlená, ostatně
+jako všechno tu.
+[Smajlík]
+ omfg*
+31.08.2005 09:08:24
+klid,
+zaprve
+kod ke smazani zpovedi jsem si nenapsal
+
+zadruhe
+moje blaboly jsou pro inteligentniho cloveka co chce pachat skodu, a vi jak,
+zbytecne a s nicim mu nepomuzou. Pro toho, kdo to nevi tak mu toto taktez
+vubec nepomuze ...
+
+jsem presvedcen ze tento prispevek nemuze nicim uskodit. FAKT!
+jen jsem chtel verejne prezentovat bezpecnost kodu ... myslim, ze je lepe vi-
+li se o tom
+ dev-null
+31.08.2005 08:04:35
+Zajímavé - věřím, že totéž si myslí i pan maďar.
+[Smajlík] [Muž]17 [Kategorie]
+ _8_u_m_p_3_r
+31.08.2005 01:47:32
+To je ale dlouhý.
+[Smajlík] [Muž]18 [Kategorie]
+ _J_o_3
+31.08.2005 01:37:23
+lamisil
+Nedelej si starosti. To, ze vi cim, jeste neznamena, ze vi jak...
+ _M_a_d_a_m_ _Z_i_r_a_f [Muž]20 [Kategorie]
+31.08.2005 01:20:43
+a tak maďare, do toho :D
+
+díky, žes mu to fakt vyslepičil :P
+ _l_a_m_i_s_i_l [Žena]24 [Kategorie]
+31.08.2005 01:14:17
+Jsem taky pro smazani. Ale nemam domecek, hlasovat nemuzu.
+ _M_a_d_a_m_ _Z_i_r_a_f [Muž]20 [Kategorie]
+31.08.2005 01:11:44
+Vole, pokud na to doted madar neprisel sam, tak jsi mu prave poskytnul navod
+jak zatim fungujici ochranu obejit. Smaz tuhle diskuzi sam a posli to soukrome
+adminum.
+Pochopitelne neni problem vygenerovat kod, s kterym si ocr bez funkce
+adaptivniho uceni neporadi. Jenze pak si s tim neporadi ani 30 procent lidi,
+castecne kvuli zrakovym vadam ve vnimani barev nebo prostorovych objektu.
+ shodan.
+31.08.2005 01:02:49
+dev-null
+Vim, ze je to bezpecnostni riziko - premyslet o tom spamerovi, jako o "spise
+pubertakovi". Protoze pak by mohl prekvapit v nestrezeny moment.
+
+Ale me prijde, ze takhle by se zkuseny uzivatel, ktery ma nejake plany se
+zabezpecenim zpovednice, urcite nechoval. Noapak by spis tise nakrapl server a
+stahl si databazi uzivatelu, napr.
+Tudiz taky muzu predpokladat, ze pokud neexistuje integrovany program na spam
+s OCR (jsou napriklad bruteforce/slovnikove skeny s ocr, ale to je jina
+kapitola) a opravi se ta chyba s mistem, kdy se generuje kod. Tak tu "madar"
+skoncil.
+
+Jenze je chyba takhle premyslet, protoze prijde dalsi, zkusenejsi a bezp.
+opatreni se budou opet sit horkou jehlou. A to neni nikdy dobry.
+
+70 procent je hodne spatne skore. Cekal jsem lepsi vysledky :-/
+ _M_a_d_a_m_ _Z_i_r_a_f [Muž]20 [Kategorie]
+31.08.2005 00:50:57
+Madam Ziraf:
+mas pravdu v tomhle to nejspis bude .. taky se priklanim k tomu ze madar bude
+nejakej pokrocilejsi uzivatel wordu - jinak to s tim generovanim cisel ja si
+toho nevsiml ani nevsimal :).. ale asi to fakt bylo timto - to jsem nevedel
+... :) ted uz se to ale tusim generuje korektne pred kazdou reakci
+
+xZdenish
+mezi genialnim clovekem schopnym vsechny kody prekonat a normalnim clovekem je
+dost jemnejsich variant ktery zastavi patricna obtiznost kodu .. staci li na
+vsechny madary i jine budouci cizince opatreni jake je ted, neni treba ho
+menit .. ja chtel jen ukazat ze kody jsou stale snadno rozpoznatelne ocrkem se
+kterym muze zachazet temer :) kazdy
+ dev-null
+31.08.2005 00:49:45
+A proč zrovna madar???
+[Smajlík] [Žena]17 [Kategorie]
+ _G_u_b_b_y
+31.08.2005 00:41:39
+Muj nazor je. ze ten "madar" je prd zkusenejsi clovek. Spise nekde narazil na
+nejaky programek/skript urceni ke spamu.
+
+Jinak dira v zabezpeceni tady je. (Vzhledem k tomu, ze Pajkovi bylo vse
+oznameno, tak by nemel byt problem chybu zverejnit. Mozna je uz napraveno,
+nevim.)
+Chyba spociva v tom, ze bezp. kod se generuje pri otevreni zpovedi. Nikoli po
+odeslani rozhreseni. Takze spamer si muze at uz virtualne, nebo fyzicky
+otevrit XXX zpovedi a muze vesele spamovat pod jednim bezp. kodem, ktery zada
+rucne. - A ktery se do otevreni dalsi zpovedi nezmeni) (Kdo vi, jestli toto
+nebyl zpusob, jak to obesel predtim)
+
+Kazdopadne se tu zatim neukazal. Bohuzel do zabezpeceni Zp. nevidim, takze
+nevim jestli proste uz nemuze, nebo treba nechce....
+ _M_a_d_a_m_ _Z_i_r_a_f [Muž]20 [Kategorie]
+31.08.2005 00:32:10
+No, to mi přijde, žes neodhalil nic novýho.. Pokud to dělá nějakej debil, tak
+ho to přestane bavit ať již s kódama nebo ne.. A pokud je to nějakej debil, co
+to chce dělat za každou cenu, tak ho kódy nezastaví (na druhou stranu to
+zastaví aspoň spoustu jinejch, který za svym cílem nejdou tak brutálně)..
+[Smajlík] [Muž]27 [Kategorie]
+ _x_Z_d_e_n_i_s_h
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+

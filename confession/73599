@@ -1,0 +1,237 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+Diskuze č.73599, vloženo 29.08.2005 17: _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+36:30                                   _s_t_r_á_n_k_a_]
+Rozřezaná krychle potřetí
+Nejprve správný (oficiální) výsledek první krychle (72929) pro ty,
+co se ke správnému výsledku nedopočítali:
+0 stěn ..... 8 krychliček (uvnitř je schovaná krychlička 2x2x2)
+1 stěnu ... 24 (na každé stěně jsou uprostřed 4, takže 4x6)
+2 stěny ... 24 (na každé hraně jsou 2, takže 2x12)
+3 stěny .... 8 (rohové)
+
+- - - - - - - - - -
+
+A teď (zřejmě vlivem úpalu ze sluníčka) tu mám něco podobného jako byla
+Undrova krychle (72971), ale těžší:
+
+Máme krychli o hraně 3 cm, barvou natřeme všech 6 stěn, rozřežeme na
+krychličky o hraně 1 cm, rozházíme po stole, zavážeme si oči (pozn: barvu po
+hmatu nepoznáme).
+
+1) Jaká pravděpodobnost, že z nich poslepu zpátky složíme krychli, která bude
+celá nabarvená?
+2) Jaká je ppst, že složíme krychli, která bude celá nenabarvená?
+3) Obměna 1) pro případ, že krychle byla nabarvená jako rubikova kostka 6
+barvama.
+
+P.S. Undro, nemáš nějakou zajímavou hádanku o koulích? Nadpis by zněl:
+"Undrovy koule" :o)))))
+ _L_u_c_y_*_H_a_w_k E-MAIL:_[_g_r_a_f_i_k_a_/_m_r_e_f_h_i_._g_i_f_]   [Žena]35 [Kategorie]  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+01.09.2005 18:41:20
+2 Undra:
+Tak jsem si nezávisle na tom tvém textu udělala ten kvádříček 2x2x3 a vyšlo mi
+to stejně, v podstatě stejný postup, akorát v bodě 3 jsem to nedělala
+vzorcema, ale přímo výčtama, třeba u 2: 6*(6+6+4*4)=168 (6 možných poloh těch
+2 uprostřed, a pak jsou buďto ty další 2 spolu nakraji (6) nebo na druhém
+kraji (6) nebo jedna tam a jedna tam (4*4), což by asi u složitějších těles
+nešlo).
+
+Takže postup je jasný, ale u krychle 3x3x3 by to bylo móóóc složité.
+
+Ale udělala jsem si jednoduchý příkládek na krychličku 2x2x2, tam je to
+krááásně jednoduché, a vlastně je tam stejná ppst, jestli sestavíme bílou nebo
+barevnou :-)
+(3/24)^8 = (1/8)^8 = 0,000000059604644775390625 = 5,96e-8 ... takže ani
+takovouhle malou krychličku by zřejmě nikdo za odpoledne nezvládnul... při
+průměrné rychlosti jedno pootočení za vteřinu by to musel zkoušet 4660
+hodin... a kdyby kroutil 12 hodin denně, tak to složí za rok :-)
+
+Už se těším na hádanku "Undrovy vejce". Budeme je taky rozřezávat na kousíčky?
+:o)))
+ _L_u_c_y_*_H_a_w_k [Žena]36 [Kategorie]
+30.08.2005 17:08:48
+2 humusdacan --- Ta tvoje pravděpodobnost se mi zdá nějak moc velká a tomu
+popsanému řešení moc nerozumím, je to nějak moc zjednodušené...
+ Lucy*Hawk.
+30.08.2005 17:06:39
+No, vlastně to možná není MOC malé číslo, když uvážíme, že VŠECH možných
+situací je
+27! * 24^27 = 2,0076e+65
+(permutace 27 krychliček a každá může být natočená 24 způsoby)
+ Lucy*Hawk.
+30.08.2005 16:59:49
+2 Undra --- 2x2x3 --- Na to se kouknu večer, teď řeším něco do práce...
+Přemýšlela jsem taky o nějakém aprox. řešení té 2 (také u čištění zubů, u
+vaření, na z.), uvidíme... Jo a jak jsem psala s tím dalším násobením u 1),
+tak máš pravdu, je to blbost, takhle je to dobře, protože se násobí 1/27! tím
+8!*12!*6!
+
+Takže odsouhlasíme prozatím toto?
+
+1.
+( 8! * 12! * 6! / 27! ) * (3/24)^8 * (2/24)^12 * (4/24)^6 = 1,8298e-37
+
+3.
+24/27! * (1/24)^8 * (1/24)^12 * (4/24)^6 = 1,1752e-59
+
+Ale nejsou ty absolutní čísla nějak MOC malý? Řádově 10 na -37 a na -59 ?
+ Lucy*Hawk.
+30.08.2005 04:37:34
+ad 1/
+všechny možnosti..... 6*4*27!...........2613328668100404518584 32000000
+
+
+centrální...6............6
+středová...1*4*6!........2880
+hranová ...2*12!..........958003200
+vrcholová.. .3*8!.........120960
+
+příznivé........ .........2002407559004160000
+
+
+P = 1 : 130.509.328.950
+ _h_u_m_u_s_d_a_c_a_n [Muž]38 [Kategorie]
+30.08.2005 01:15:39
+Kruci, teď tam zase ale nezohledňuju to, že rohové můžu přeházet... takže krát
+8! ?
+A hranové taky a stěnové taky... takže zase to celé vynásobit (8!*12!*6!) ???
+ACH JO, JDU SPÁT !!!
+ _L_u_c_y_*_H_a_w_k [Žena]36 [Kategorie]
+30.08.2005 01:07:07
+Ad 1) No jasně, dyť sem blbá... 27! / ( 8! * 12! * 6! ) ... Tohle je počet
+všech na pohled různých sestavení, já jsem si to spletla s počtem, jakým lze
+zpermutovat to úspěšné sestavení (záměna rohových atd.). V tom případě ale
+musím upravit můj vzorec pro 1) tak, že ten první zlomek obrátím, protože
+jenom jedno z nich je úspěšné, čili udělám 1 lomeno tamtím, čili můj nový
+vzorec pro 1) je:
+
+( 8! * 12! * 6! / 27! ) * (3/24)^8 * (2/24)^12 * (4/24)^6
+
+A jak to ověřit? Jedině "hrubou silou", napsat si nějaký prográmek, který
+projede všechny možnosti, všechny rotace a zhodnotí jejich úspěšnost. Jenže
+tady je další úskalí, KDO ověří správnost toho programu, he?
+ _L_u_c_y_*_H_a_w_k [Žena]36 [Kategorie]
+30.08.2005 00:06:47
+Jééé to mě mrzí že mi tohle uniklo. Snad mě omlouvá že jsem dnes byl na
+zkoušce a pozítří jdu na další a tak Zpovědnici trošku zanedbávám :)
+
+A teď už to nevyřešim, protože jsem totálně na hadry v důsledku oslav úspěšné
+ZK :-)
+ _N_U_V_O_L_4_R_i [Muž]21 [Kategorie]
+29.08.2005 23:33:02
+A ještě k té 3) ... Nemělo by se tam ještě uvažovat s tím, že ta velká může
+být natočená libovolnou barvou, čili to celé ještě vynásobit 24? Ale to už asi
+v těch ohromných číslech nehraje roli. Jenom když si představím, že těch 27
+pozic je očíslovaných (pro ty úspěšné permutace), tak nikde není řečeno, že
+navrchu musí být červená, vepředu modrá a tak, ne? Takže úspěšné není jenom
+jedno sestavení z 27! ale 24 z 27! čili místo 1/27! by asi mělo být 24/27!
+Takže znovu celý výsledek 3):
+
+24/27! * (1/24)^8 * (1/24)^12 * (4/24)^6
+
+Nebo to je blbost? Kruci, už si nejsem jistá vůbec ničím. Ale když si
+představím opravdu všechny permutace kostiček očíslovaných 1 až 27 v pevně
+daných taky očíslovaných přihrádkách... Jó, takové malé šuplíčky a jedna tajná
+schránka uprostřed :o) Tak vlastně otočením té velké kostky o 180 stupňů
+propermutuje jedna hrana na základně ze šuplíčků 1-2-3 do 7-8-9, hi hi, úplně
+živě si představuju ty šuplíčky :o)))
+ _L_u_c_y_*_H_a_w_k [Žena]36 [Kategorie]
+29.08.2005 23:19:54
+To je moc otázek najednou... A logika mi nikdy nešla...
+[Smajlík] [Žena]17 [Kategorie]
+ _G_u_b_b_y
+29.08.2005 23:06:27
+2 Undra -- Nad tou 2) jsem ještě ani nepřemýšlela.
+
+Ale ta 3) by měla být spíš takhle, ne?
+
+1/27! * (1/24)^8 * (1/24)^12 * (4/24)^6
+
+... Úspěšné je jenom jedno z 27! sestavení
+... 8 rohových nemá možnost rotace, čili z 24 možností rotace je správně 1,
+čili (1/24)^8
+... 12 hranových je na tom podobně, čili (1/24)^12
+... 6 stěnových může rotovat 4 způsoby, takže (4/24)^6
+Nebo tam něco blbě násobim/dělim/mocnim?
+
+A u té 1) to taky máme oba blbě, ne? Myslím ten začátek s tím 27! atd.
+Nemá se to celé ještě dělit (27!) ?
+27! / ( 8! * 12! * 6! ) ... tohle je počet úspěšných sestavení, ale je potřeba
+to vydělit počtem všech, ne? Takže celkový výsledek:
+
+27! / ( 8! * 12! * 6! ) / 27! * (3/24)^8 * (2/24)^12 * (4/24)^6
+
+Ale mohu se mýlit.
+A ty rotace, jak píšeš... Já myslím, že takhle je to dobře, nebo není?
+Rohová krychlička má 3 úspěšné pozice z 24, čili 3/24 a je jich 8, takže se to
+musí umocnit na 8, ne? Aby všechny současně byly správně. Ale už je to tak
+složité a je dost pozdě, že ruku do ohně za to nedám...
+ _L_u_c_y_*_H_a_w_k [Žena]36 [Kategorie]
+29.08.2005 18:46:54
+2 ymo: Pohádka o tom, jak princ Ymo při náruživém přirážení vyrazil princezně
+Polynce všechny zuby, a potom na nátlak krále Hulibrka obětoval svoje zlatá
+vejce, aby z nich princezně zubař udělal nový zářivý chrup :o)))
+[Smajlík]  [Žena]36 [Kategorie]
+ _L_u_c_y_*_H_a_w_k
+29.08.2005 18:41:29
+Vyšlo mi to ňák hrozně málo:
+27! / ( 8! * 12! * 6! ) * (3/24)^8 * (2/24)^12 * (4/24)^6 = 1,122e-13
+
+Je tu nějakej šílenec, kterej se to taky pokusí spočítat?
+(postup pak můžeme konzultovat)
+[Smajlík]  [Žena]36 [Kategorie]
+ _L_u_c_y_*_H_a_w_k
+29.08.2005 18:16:14
+Lucy*Hawk: ale to bychom se uz dostali spise k pohadkam jako "O ymovych
+zlatych vajcach"
+[Smajlík] [Muž]33 [Kategorie]
+ _y_m_o
+29.08.2005 18:09:53
+2 ymo: Tak vymysli hádanku... "ymovy vejce" :o)))
+ _L_u_c_y_*_H_a_w_k [Žena]36 [Kategorie]
+29.08.2005 17:43:37
+heh, a co treba hadanka o vejcich?
+ _y_m_o [Muž]33 [Kategorie]
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+

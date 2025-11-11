@@ -1,0 +1,1336 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+Diskuze č.72920, vloženo 24.08.2005 23: _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+52:36                                   _s_t_r_á_n_k_a_]
+eeeeee takova mala statisticka hadanka
+Je soutez, kde vyherce ve finale stoji pred tremi dvermi, za jednema dverma je
+auto. Vyherce si musi vybrat ktere otevre... Vyherce prijde k jednem dverim, a
+chytne se kliky. Moderator aby udelal soutez dramatictejsi nyni prijde k
+jednem jinym dverim a otevre je aby ukazal ze za temito dvermi nic neni...
+Otazka nyni je: je pro souteziciho ted lepsi prejit k druhym neotevrenym
+dverim, je pro nej lepsi zustat tam kde je, nebo je to jedno ??? A proc?
+ dev-null [Muž]23  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+05.11.2011 18:34:29
+Tento příklad vám stoprocentně neurčí, kde auto je. Ale když si vyberete např.
+dveře číslo 1 máte 33% pravděpodobnost, že auto tam bude. Pokud moderátor
+otevře dveře číslo 3 za kterými auto není, soutěžící se rozhodné, že si
+následně vybere dveře číslo 2 má větší pravděpodobnost, že auto získa, protože
+musíme brát v úvahu proměnnou a také to, že se šance u dveří číslo 2 zvýšili o
+těch 33%, které náleželi dveřím číslo 3. Nehledejte v tom nic těžkého, říkám
+není to vždy 100%, že si dobře vyberete.
+ Nikolka
+27.01.2006 03:32:37
+Prvotní instinkt se většinou neplete.U mě to v životě bylo tak 90%.
+alien
+ _a_l_i_e_n_-_n_e_p_ř_í_t_e_l_ _s_t_á_t_u [Muž] [Kategorie]
+26.08.2005 11:06:54
+Ještě jednou a naposled:
+Dev-nullovo vysvětlení obsahuje stále jen půl pravdy, protože špatně hodnotí
+pravděpodobnost výhry u 1. strategie (trvat na původní volbě).
+
+Rozeberme si úlohu po krocích:
+1. Soutěžící volí jedny dveře - s pravděpodobností 1/3 je za nimi auto.
+2. Moderátor otevírá dveře, za kterými auto není. Tím pro oboje dosud zavřené
+dveře zvyšuje pravděpodobnost úspěchu na 1/2. V případě 1. strategie už
+soutěžící nevyužije možnost pravděpodobnost zvýšit, a proto zůstává na 1/2.
+3. Soutěžící může využít možnost přesunu k druhým zavřeným dveřím. Pokud auto
+nebylo u dveří, které zvolil původně, vybere přesunem určitě správně, protože
+ví, že za otevřenými dveřmi auto není. Využívá tak dodatečnou informaci,
+kterou 1. strategie nevyužívá, a získává za to dodatečnou (pravděpodobnostní)
+prémii. To je obecný efekt známý z teorie her a dá se využít v praxi.
+Pravděpodobnost úspěchu této strategie je 2/3.
+
+Přesto ale pravděpodobnost, že za druhými zavřenými dveřmi je auto je pouze 1/
+2.
+Důkaz je zřejmý. Otevřením dveří bez auta moderátor převádí úlohu na výběr
+mezi dvěma zavřenými dveřmi, za nimiž je jedno auto (odpovídá 1. strategii).
+Přechodem k druhým dveřím soutěžící zvyšuje pravděpodobnost svého úspěchu na
+2/3, ale nemůže zvýšit pravděpodobnost, že za nimi stojí auto (ta je 1/2).
+
+Jde o různé (nekomplementární) jevy. Uvedené simulace popisují rozdělení
+pravděpodobnosti úspěchu a neúspěchu pro 2. strategii, proto vedou k mylným
+domněnkám o 1. strategii. Pro ni by se musela udělat jiná simulace (výběr ze
+dvou dveří, kde za jedněmi auto je a za druhými není).
+ _K_l_o_k [Muž]44 [Kategorie]
+26.08.2005 10:16:37
+Asi nejpreciznější vysvětlení + důkaz:
+_h_t_t_p_:_/_/_e_n_._w_i_k_i_p_e_d_i_a_._o_r_g_/_w_i_k_i_/_M_o_n_ ty_Hall_problem
+ _S_q_u_a_k_o_s_h [Muž]30 [Kategorie]
+26.08.2005 10:08:41
+Ač velmi nerad, musím přiznat, že jsem se mýlil.
+Strategie "přejít" je úspěšnější než strategie "zůstat". (66/33)
+Jde o tzv. Monty Hall Problem.
+
+Pekne dukazy jsou na:
+_h_t_t_p_:_/_/_m_a_t_h_._u_c_s_d_._e_d_u_/_~_c_r_y_p_t_o_/_M_o_n_t_y_/_ montybg.html
+_h_t_t_p_:_/_/_w_w_w_._r_e_m_o_t_e_._o_r_g_/_f_r_e_d_ erik/projects/ziege/loesung.html
+ _S_q_u_a_k_o_s_h [Muž]30 [Kategorie]
+25.08.2005 23:48:33
+je to úplně jedno :D
+ _l_a_m_i_s_i_l [Žena]24 [Kategorie]
+25.08.2005 22:11:22
+2 ShadowDancer --- NEOPISUJ !!! --- To stejné jsem psala 25.08.2005 03:22:03,
+eště jsem kvůli tomu extra zapínala počítač!
+[Smajlík]  [Žena]36 [Kategorie]
+ _L_u_c_y_*_H_a_w_k
+25.08.2005 20:38:03
+Jen tak pro představu -
+Zkuste si to představit jinak.
+1) Soutěžící si vybere jedny dveře.
+2) Moderátor přijde k těm dvěma druhým a zeptá se ho, jestli si chce nechat
+svou pravděpodobnost (33%), nebo jestli raději přejde k němu - kde je 66%.
+3) Moderátor až potom otevře přázdné dveře.... (Bod 2 a 3 je záměnný)
+
+Z tohoto hlediska se to vyplatí.
+ _S_h_a_d_o_w_D_a_n_c_e_r [Muž]26 [Kategorie]
+25.08.2005 16:21:14
+squakosh:
+
+muze se ti to nelibit , muzes s tim nesouhlasit ale to je vse co s tim udelas
+:)
+proste je to tak :)
+ dev-null
+25.08.2005 16:17:22
+Dev-null
+
+Jo, vidim to uz taky. Zjednodusil sem to prilis.
+Coz neznamena, ze ti davam za pravdu, jen to bude slozitejsi.
+ _S_q_u_a_k_o_s_h [Muž]30 [Kategorie]
+25.08.2005 16:15:00
+>>Squakosh ses velmi blizko :) PROSIM PRECTI SI POZORNE MOJE POZNAMKY
+I. Strategie
+Vítězí, když prvním výběrem trefí dveře s autem. Dále nedělá nic.
+Pst výhry - jedny ze tří - 33,33pct
+>>presne tak
+
+II. Strategie
+Vítězí, když prvním výběrem trefí dveře bez auta. A pak přechodem trefí dveře
+s autem.
+Pst - výhry
+první krok - trefí bez auta - dvě ze tří - 66,66pct
+druhý krok - trefí z autem - jedny ze dvou - 50pct
+>> prvni krok ok
+>> druhy krok OMYL !!! trefi-li prvnim krokem dvere bez auta ( v 66,66% trefi
+) druhym krokem MUSI 100% trefit dvere s autem ( druhe dvere bez auta ma
+moderator )
+celkem - součinem - 33,33pct
+>> celkem - soucinem - 66.66 pct
+ dev-null
+25.08.2005 16:02:36
+Zkusil sem to ještě jinak.
+
+Jaké má soutěžící možné strategie?
+I. Strategie - Vybere si (náhodně) jedny dveře a u těch zůstane bez ohledu na
+moderátora
+II. Strategie - Vybere si (náhodně) jedny dveře, nechá moderátora otevřít
+jedny prázdné a pak přejde k neobsazeným
+
+Za jakých podmínek strategie vítězí a příslušn psti.
+
+I. Strategie
+Vítězí, když prvním výběrem trefí dveře s autem. Dále nedělá nic.
+Pst výhry - jedny ze tří - 33,33pct
+
+II. Strategie
+Vítězí, když prvním výběrem trefí dveře bez auta. A pak přechodem trefí dveře
+s autem.
+Pst - výhry
+první krok - trefí bez auta - dvě ze tří - 66,66pct
+druhý krok - trefí z autem - jedny ze dvou - 50pct
+celkem - součinem - 33,33pct
+
+Tedy I. i II. strategie mají šanci na úspěch stejnou, a to 33,33pct.
+ _S_q_u_a_k_o_s_h [Muž]30 [Kategorie]
+25.08.2005 15:37:27
+Teda já nevim jak Vy, ale já se právě přesunuju ke dveřím od lednice, kde na
+mě s ppstí 100 procent čeká pořádná porce guláše. A na to auto už prcam :-)
+ _N_U_V_O_L_4_R_i [Muž]21 [Kategorie]
+25.08.2005 15:31:12
+Squakosh:
+Tak se vraťme k vysvětlení "soutěžící" z 25.08.2005 12:47:45. Ty jí vytýkáš,
+že její druhý případ (soutěžící stojí před autem) jsou vlastně 2 (moderátor
+vpravo nebo vlevo). To není pravda, moderátor vybere jedny dveře a soutěžící
+má (při strategii přechodu) jedinou možnost, přejít k těm druhým zavřeným.
+Proto strategie přechodu k druhým dveřím selže jen v jednom ze tří možných
+počátečních postavení auta.
+ _K_l_o_k [Muž]44 [Kategorie]
+25.08.2005 15:05:11
+To: dev-null
+
+Jsem přesvědčený, že psti mnou uváděných variant jsou stejné. Výpočet (přes
+podmíněné pravděpodobnosti?) se mi nechce dělat. Možná večer.
+
+To: Klok
+
+Nerozumím ti, promiň. Pokud něco zadání vylučuje, je to vyloučeno. Možnost, že
+moderátor otevře dveře s autem neexistuje.
+ _S_q_u_a_k_o_s_h [Muž]30 [Kategorie]
+25.08.2005 14:56:38
+Squakosh:
+Zadání říká, že moderátor otevře dveře, kde auto není. Pokud auto stojí před
+dveřmi, které si soutěžící nevybral, má moderátor jedinou volbu, ale příslušná
+druhá možnost reálně existuje.
+Promiň, ale jinak už to říci neumím.
+ _K_l_o_k [Muž]44 [Kategorie]
+25.08.2005 14:42:50
+To Klok:
+
+Zadání říka, že moderátor jedny otevře. To, že píšu "stojí před" znamená, že
+je otevře (moje formální nepřesnost). Možnost, že otevře V (u měty označena
+jako "stojí před" V) je nepřípustná.
+ _S_q_u_a_k_o_s_h [Muž]30 [Kategorie]
+25.08.2005 14:33:59
+Squakosh:
+Nemáš pravdu.
+Pokud si soutěžící vybral jedny dveře a moderátor stojí před druhými, může
+auto stát před moderátorem, ale ten je nesmí otevřít, naopak musí zvolit ty
+třetí. Ale ta možnost počátečního postavení reálně existuje a soutěžící by se
+ošidil, kdyby ji ignoroval.
+ _K_l_o_k [Muž]44 [Kategorie]
+25.08.2005 14:26:02
+To Klok:
+Varianty P1 V P2 a P2 V P1 vylučuje přímo zadání. nelze s nimi počítat.
+ _S_q_u_a_k_o_s_h [Muž]30 [Kategorie]
+25.08.2005 14:17:54
+Squakosh nemá pravdu.
+Před volbou moderátora může nastat celkem 6 variant postavení soutěžícího a
+moderátora vzhledem k výhře (v pořadí soutěžící, moderátor, volné):
+V P1 P2
+V P2 P1
+P1 P2 V
+P2 P1 V
+P1 V P2
+P2 V P1.
+Moderátor může zvolit jen z prvních 4, to ale neznamená, že zbylé lze z úvahy
+vyloučit. Soutěžící tedy ví, že z 6 možných původních variant jsou před
+finální volbou reálné jen 4 a může toho využít, pokud přestoupí k druhým
+zavřeným dveřím.
+ _K_l_o_k [Muž]44 [Kategorie]
+25.08.2005 14:16:52
+2 NUVOL4Ri --- ohledně toho házení kostkou --- Měla jsem na mysli ppst 1/6 u
+každého jednotlivého "nezávislého" hodu, čili BEZ ohledu na to, co padalo
+předtím.
+... A pojmy jako "normální" a "gaussovo" rozdělení pochopitelně znám...
+ _L_u_c_y_*_H_a_w_k [Žena]36 [Kategorie]
+25.08.2005 14:08:31
+kod simulace:
+simulaci si muzete pustit zde :
+_h_t_t_p_:_/_/_w_w_w_._h_a_l_a_m_e_x_._c_z_/_p_r_o_b_l_e_m_/_p_r_o_b_l_e_m_ .php
+kod simulace
+_h_t_t_p_:_/_/_w_w_w_._h_a_l_a_m_e_x_._c_z_/_p_r_o_b_l_e_m_/_ problem.txt
+ dev-null
+25.08.2005 14:04:38
+2 Squakosh -- Tvoje vysvětlení se mi nejdřív moc líbilo, ale mám námitku:
+první dvě varianty bych sloučila do jedné, protože moderátor NEMÁ na výběr,
+protože mu to jistě někdo řekne (počítač, režisér atd.), kam má v jakém
+případě jít, třeba první volné zprava apod. Anebo MÁ na výběr, ale pak je to
+závislý pokus? Kruci, už se v tom motám.
+Takže z těch tvých 4 variant
+V P1 P2
+V P2 P1
+P1 P2 V
+P2 P1 V
+bych udělala
+V Px Px
+P1 P2 V
+P2 P1 V
+A tudíž pravděpodobnost pro "přejít" je 67%
+Ale zatím (pro mě osobně) je nejpřijatelnější moje vysvětlení z 03:22
+(a to jsem nejdřív byla jednoznačně zastáncem 50:50! :-))
+ _L_u_c_y_*_H_a_w_k [Žena]36 [Kategorie]
+25.08.2005 14:03:28
+soutěžící: ale si ma prinutila pohnut mozgom...
+[Smajlík] [Žena]28 [Kategorie]
+ _e_l_e_l_e_l
+25.08.2005 13:54:50
+Squakosh: máš pravdu, pardon
+ soutěžící
+25.08.2005 13:53:05
+Ne to je blbost....
+ soutěžící
+25.08.2005 13:48:07
+Squakosh: si super!
+Tiez sa da postupovat uplne intuitivne, nematurovat nad tym: pred prvym
+rozhodnutim to bolo 1:3, ale ked uz pozname 1 dvere, kde nie auto nie je, tak
+je jedno, pred ktorymi dverami stojime, trebars aj v inej miestnosti, proste
+je nova situacia, v ktorej ostavaju dvoje dvere a za jednymi je auto - cize 1:
+1, ktore zvolime.
+ _e_l_e_l_e_l [Žena]28 [Kategorie]
+25.08.2005 13:46:55
+Squakosh - uvažovala jsem, jestli tam mám ten čtvrtý případ zařadit, ale po
+nakreslení mi došlo, že na tom už přece moc nesejde.
+
+Jednou moderátor otevře první dveře a pak ty třetí dveře... ani v jednom
+případě přece soutěžící nemá přejít, no ne? To by znamenalo ve třech ze čtyř
+případů by soutěžící neměl přejít.
+ soutěžící
+25.08.2005 13:44:41
+Squakosh:
+Problem tveho reseni je, ze vsechny varianty nejsou stejne pravdepodobne:
+
+Před finální volbou mohou nastat celkem 4 varianty postavení soutěžícího a
+moderátora:
+(v pořadí soutěžící, moderátor, volné)
+V P1 P2 -
+V P2 P1 -
+P1 P2 V - tato moznost ma dvojnasobnou pst oproti prvnim dvema ( moderator
+nema sanci volby dveri )
+P2 P1 V - to same
+ dev-null
+25.08.2005 13:41:06
+Jo, toco říká SQUAKOSH je dobrá námitka (vs. "soutěžící").
+
+No já se z toho poseru. Celej den jen hledam auta a počítam krychličky......
+ _N_U_V_O_L_4_R_i [Muž]21 [Kategorie]
+25.08.2005 13:38:36
+Napadá mě další protiargument - vždyť to co tu popisují zastánci "non-50:50"
+řešení jako výchozí situaci (Soutěžící stojí u jedněch atd atd) je také
+situce, která nastane s jistou PPSTí. tedy celý ten děj, kterej popisujou je
+podmíněnej touto ppstí, ovšem do svých výpočtůji nezahrnují. COž je samozřejmě
+chyba.
+
+Tak já už fakt nevim.
+ _N_U_V_O_L_4_R_i [Muž]21 [Kategorie]
+25.08.2005 13:32:41
+Ad neznalec:
+
+Zadání říká, že moderátor otevře dveře za kterými nic není. Tedy nesmí otevřít
+dveře V. Proto jsou nepřípustné.
+
+
+Ad řešení "soutěžící"
+
+Domaluj to do konce.
+„V druhém případě si soutěžící stoupne doprostřed. Tady moderátor může otevřít
+jakékoliv zbývající dveře.“
+Souhlasí. Tedy první nebo třetí. Je potřeba namalovat obě varianty. S
+moderátorem vpravo i vlevo. V obou případech by NEměl přejít.
+Takže ze čtyř obrázků jsou dva pro přejít a dva pro zůstat.
+ _S_q_u_a_k_o_s_h [Muž]30 [Kategorie]
+25.08.2005 13:27:00
+Squakosh: varianty P1 V P2 a P2 V P1 jsou nepřípustné
+
+ptam se, proc to tak je? fakt to nechapu
+ neznalec
+25.08.2005 13:16:26
+Lifty Atd.> hod sem kod
+ _H_H_m [Muž] [Kategorie]
+25.08.2005 13:07:52
+NUVOL4Ri díky :)
+ soutěžící
+25.08.2005 13:02:43
+LIFTY: Pošli mi pls tu simulaci.... Já se o ni taky pokoušel ale neják sem se
+zasek.
+ _N_U_V_O_L_4_R_i [Muž]21 [Kategorie]
+25.08.2005 13:01:26
+OK. Tak ještě z jiného pohledu.
+
+Označme dveře V (výherní), P1 (nevýherní) a P2 (nevýherní)
+
+Pravidla soutěže jsou – výběr soutěžícího, výběr moderátora, rozhodnutí
+soutěžícího zda přejít nebo zůstat.
+
+Před finální volbou mohou nastat celkem 4 varianty postavení soutěžícího a
+moderátora:
+(v pořadí soutěžící, moderátor, volné)
+
+V P1 P2
+V P2 P1
+P1 P2 V
+P2 P1 V
+(varianty P1 V P2 a P2 V P1 jsou nepřípustné)
+
+Pravděpodobnost uvedených rozestavení je stejná. Máme tedy dvě varianty kdy
+přejít je lepší a dvě kdy je lepší zůstat. Pořád je to 50/50.
+((Pro úplnost: Moderátor může svou metodou výběru dveří ovlivnit rozdělení
+pstí mezi první dvě varianty (např. v dané situaci vždy vybere P1) ale součet
+pstí těchto dvou variant neovlivní.))
+ _S_q_u_a_k_o_s_h [Muž]30 [Kategorie]
+25.08.2005 13:01:15
+tak sem to taky zkusil nasimulovat na PC a fakt vyslo, ze jestli je nezmeni
+tak v 33.3...% ze vsech kdy to nezmenil ma auto. V pripade, ze to zmenil, tak
+ma auto v 66.6...% pripadu ze vech kdy to zmenil.
+Takze, kdyby vzdy soutezici zmenili dvere, tak opravdu budou mit
+pravdepodobnost 66.6...%, ze to auto ziskaji (vsichni).....opet nasimulovano
+
+asi to bude tim, ze k 33.3 % z predchoziho pripadu (1/3) jim zvedne sance to
+ze jedny prazdne dvere zmizi (ted 1/2) a oni si znova vyberou....
+
+Ku*a to je ale bordel :(
+[Smajlík]
+ Lifty Atd.
+25.08.2005 12:59:08
+Tak, jak to popsal nick "soutěžící" mi to přijde nejpřesvědčivější a
+nejsrozumitelnější.
+ _N_U_V_O_L_4_R_i [Muž]21 [Kategorie]
+25.08.2005 12:48:52
+Stejně je tzo kravina :)
+[Smajlík] [Muž]27 [Kategorie]
+ _x_Z_d_e_n_i_s_h
+25.08.2005 12:47:45
+nakreslí se tři možné případy... v každém z nich budou dveře a za jedněmi z
+nich auto... dejme tomu, že auto je VŽDY UPROSTŘED.
+
+- v prvním případě si soutěžící stoupne k prvním dveřím, kde auto není.
+Moderátor tedy musí jít ke třetím, aby otevřel ty, v nichž auto taky není.
+- soutěžící by měl přejít
+
+- v druhém případě si soutěžící stoupne doprostřed, kde se nachází auto. Tady
+moderátor může otevřít jakékoliv zbývající dveře a vždy otevře ty špatné.
+- soutěžící by NEměl přejít
+
+- a nakonec ve třetím případě si soutěžící stoupne ke třetím dveřím. Auto za
+nimi samozřejmě není. Moderátor musí otevřít první dveře, aby neotevřel ty s
+autem.
+- soutěžící by měl přejít
+
+Ve dvou ze tří případů by měl tedy soutěžící přejít k těm dalším dveřím. Čili
+bych se přikláněla k dev-null, že je pro soutěžícího určitě výhodnější aby
+přešel.
+Ať se to nakreslí jakkoliv, vždy bude STEJNÝ výsledek.
+
+Ale co když soutěžící zrovna bude mít smůlu a nastane ten 33% případ...? Jo to
+už je pech.
+
+pozn.: upozorňuju, že ve škole budu mít pravděpodobnost a statistiku až tento
+rok, takže neuvažuju z jiného pohledu než z toho selského.
+ soutěžící
+25.08.2005 12:46:41
+NUVOL4Ri :
+Ano, to je ten rozdíl, o který tu běží. Pravděpodobnost toho, že soutěžící se
+při jisté strategii postaví ke správným dveřím je něco jiného než
+pravděpodobnost, že za nimi je auto.
+
+HHm a Squakosh, ale i dev-null:
+Zadání předpokládá, že za třetími (otevřenými) dveřmi auto není.
+Proto přechod k druhým zavřeným dveřím znamená vlastně prozkoumání 2 dveří
+jedním pokusem (s pomocí moderátora), a tím zvýšení pravděpodobnosti úspěchu
+na 2/3.
+Pravděpodobnost úspěchu, pokud zůstane u zvolených dveří, není 1/3, ale 1/2,
+protože díky moderátorovi lze otevřené vyloučit.
+ _K_l_o_k [Muž]44 [Kategorie]
+25.08.2005 12:31:46
+Oukej, jsem pro experiment. Jsem ochoten k němu poskytnout auto, i tři garáže.
+Ovšem tyto jsou od sebe vzdáleny cca 5 km :-D A mám podmínku: Kdo to moje auto
+najde, nevyhrává ho, ale platí mi plnou. Jdete do toho?
+ _N_U_V_O_L_4_R_i [Muž]21 [Kategorie]
+25.08.2005 12:27:52
+Možná začínam chápat KLOKovu námitku.
+
+Neklade si otázkou s jakou pravděpodobností je za dveřmí výhra, ale jaká je
+ppst že soutěžící stojí u správných.
+
+Na druhou stranu: Ať už stojí soutěžící u jakýchkoliv dveří, moderátor vždy
+otevře jedny nesprávné. Nezávisle na tom, zda si je mohl vybrat ze dvou anebo
+mu "zbývaly" jediné.
+
+Asi si taky naprogramuju simulaci :-)
+ _N_U_V_O_L_4_R_i [Muž]21 [Kategorie]
+25.08.2005 12:26:49
+Squakosh :
+pletes se v Ad D) ...mozna odpovidas na jinou otazku ... zadani ulohy se
+nemeni precti si ho na zacatku
+
+Klok:
+uvazujeme-li pravdepodobnostui obou dveri z nichz za jednemi je auto, soucet
+pravdepodobnosti JE 1 ... aneb kdyz otevru oboje dvere stoprocentne najdu auto
+.. je to jev jisty
+ale asi se bavime kazdej o necem jinym .. mozna ti nerozumim
+
+TO ALL:
+MOJE RESENI JE JEDINE SPRAVNE, mozna neni uplne dokonale formulovane ale je
+spravne
+Pro souteziciho JE vyhodnejsi prejit ke druhym dverim .. na 67% tam najde
+auto, zustane-li je to pouze 33%
+vychazim ze zadani napsaneho v uvodu .. myslim ze je naprosto jednoznacne
+
+Kdo to porad nechape?
+prosim prectete si trikrat moje posledni vysvetleni ...
+
+anebo navrhuji udelat pokus :) sejdeme se za jedny dvere dame auto ...
+jeden clovek bude zustavat tam kde je ... ze 1000 pokusu zhruba pouza ve 333
+vyhraje auto
+dalsi clovek to bude ciste stridat .. mel by to najit v 500 pripadech
+ja budu prechazet ke druhym dverim a auto vyhraju 667 krat :)
+ dev-null
+25.08.2005 12:20:11
+ja to tu zopakuju uz po nekolikaty :-)
+proc porad zapocitavate ty treti otevreny dvere do pravdepodobnosti prechodu?
+dyt ty treti otevreny byly chybny takze jakejch 66, jen 33 ze vyhraje auto,
+stejne jako 33 u tech co stoji a 33 u tech co si nemuze vybrat protoze uz sou
+otevreny :O
+ _H_H_m [Muž] [Kategorie]
+25.08.2005 12:16:27
+Alex: samozřejmě, že to soutěžící vidí
+ _V_i_n_c_0_0_9 [Muž] [Kategorie]
+25.08.2005 12:14:32
+To: Klok
+
+Pokud akceptuješ pravidla soutěže, jak je uvádím, jde o jeden pokus. Pokud ne,
+jde o dva nezávislé pokusy.
+
+Pohled přes výherní strategie je pěkný, ale v tomto případě asi nikam
+nepovede. Obecně nemám problém s tím, že by součet pstí úspěchu strategií
+nebyl 100.
+
+V tomto případě si ovšem dovolím určité zjednodušení.
+Strategie zůstat je úspěšná, když stojím u výherních dveří.
+Strategie přejít je úspěšná, když stojím u nevýherních dveří (a přejdu v
+výherním).
+
+To, že stojím u výherních dveří znamená, že je auto za nimi.
+To, že stojím u nevýherních dveří znamená, že je auto nimi není.
+Z pravidel vím, že auto je určitě právě za jedněmi dveřmi. Tedy součet pstí
+strategií musí být v tomto případě 100. Takže 50 a 66 nefunguje.
+
+Dovedu si představit situaci, kdy dveře A budou mít 50pct a dveře B 66 pct,
+ale ne za situace, kdy je auto právě za jedněmi z nich.
+ _S_q_u_a_k_o_s_h [Muž]30 [Kategorie]
+25.08.2005 12:13:45
+NUVOL4Ri a ostatní:
+Tady nejde pouze o pravděpodobnost, s jakou je za kterými dveřmi výhra (ta je
+samozřejmě za oběma zavřenými dveřmi 1/2), ale o to jestli strategie přechodu
+k druhým zavřeným dveřím dává vyšší pravděpodobnost úspěchu, a to je jiný
+problém.
+Jinými slovy není to úloha čistě pravděpodobnostní, ale jde o problém
+porovnání dvou strategií.
+
+Humusdacan má samozřejmě pravdu, ale přečtěte si originální řešení dev-nulla,
+přijde mi nejsrozumitelnější.
+Stručně řečeno, strategie přejít k druhým neotevřeným dveřím selže pouze v
+případě, že si soutěžící původně vybral správně, t.j. 1/3. V opačném případě
+(s pravděpodobností 2/3) při této strategii zvolí správně.
+Mně to přijde dostatečně přesvědčivé.
+
+V případě, že zůstane u zvolených dveří, pravděpodobnost úspěchu je 1/2 (s tím
+snad souhlasí všichni).
+ _K_l_o_k [Muž]44 [Kategorie]
+25.08.2005 12:12:13
+I když jsme se asi ukvapil. Kdyby to neviděl tak zkrátka vybírá ze tří variant
+o nichž ví o všech stejný kulový.
+
+Takže tu pochalu beru zpět :)
+ _N_U_V_O_L_4_R_i [Muž]21 [Kategorie]
+25.08.2005 12:10:58
+ALEX: HODNĚ dobrá připomínka!
+ _N_U_V_O_L_4_R_i [Muž]21 [Kategorie]
+25.08.2005 12:08:38
+Pořád tady nikdo neobjasnil, jestli ten soutěžící VIDÍ taky, jestli auto je
+nebo není za dveřma, co otevřel moderátor...
+ Alex
+25.08.2005 11:58:01
+KLOK: Jde o tentýž pokus! Prostě řeší se zde ppst s jakou je za kterými dveřmi
+výhra. Takže součet nutně MUSÍ být 100pro.
+
+Jinak modrátor nezávisle na prvotní volbě soutěžícího vyřadí NIKOLIV NÁHODNĚ
+jednu variantu tak, aby zbývaly dvě, z nichž jedna je správná a jedna
+nesprávná. To NIKOLIV NÁHODNĚ je zde určující! Je jedno z kolika možností
+takhle mohl vybírat(tedy zda soutěžící stál u správných či nesprávných dveří),
+protože výsledek jeho konání bude vždy stejný: Jedna možnost správná, jedna
+nesprávná. A vyber si.
+ _N_U_V_O_L_4_R_i [Muž]21 [Kategorie]
+25.08.2005 11:55:44
+Klok>ja nevim, me se zda ze porad pri prechazeni mezi dverma (tvoje 2/3 1/3)
+pocitas s tim ze si muze vybrat porad ty treti otevreny dvere, no to by byl
+dobrej debil :O
+spis to 2/3 je pravdepodobnost na ty dvere zavreny a tudiz kazdy dvere maj
+pravdepodobnost 1/3 (pricemz ty treti vybrat nemuzes jestli nejsi retard takze
+se to omezuje na 1/2 = 50:50)
+ _H_H_m [Muž] [Kategorie]
+25.08.2005 11:51:17
+2 Squakosh:
+Ve vysvětlení jsem napsal, že jde o 2 různé pokusy, a tedy nekomplementární
+jevy.
+Proto není důvod, aby součet pravděpodobností byl 100 procent.
+Komplementární jevy jsou v tomto případě např. výhra : prohra v případě, že
+zvolím konkrétní strategii. Přejdu-li k druhým neotevřeným dveřím (s
+pravděpodobností 2/3 : 1/3) nebo zůstanu stát (1/2 : 1/2).
+ _K_l_o_k [Muž]44 [Kategorie]
+25.08.2005 11:35:30
+POZOR! Mě docvaklo kde je chyba v té mé analogii / argumentaci. Aneb - "už vím
+kudy cesta nevede, ale nevím ještě, kudy vede". Zatím stále tvrdím že je to
+50/50.
+ _N_U_V_O_L_4_R_i [Muž]21 [Kategorie]
+25.08.2005 11:34:03
+Tak jsem to všechno přelouskala až teď a musím pochválit Humusdacanovo
+vysvětlení, protože až po něm mi to cvaklo. Já jsem to pořád brala tak, že
+moderátor taky neví, kde je auto a vybírá dveře náhodně. Ovšem za předpokladu,
+že ví, kde auto je, je to logický.
+[Smajlík]  [Žena]33 [Kategorie]
+ _A_c_n_e_l_k_a_-_L
+25.08.2005 11:32:25
+ja si teda precetl vase vysvetleni, chapu jak to myslite ale kdyz ctu tu
+otazku co byla v zadani porad rikam ze je to jedno a ze ma sanci 50:50,
+protoze v obou 2 pripadech skonci situace s 1 otevrenejma prazdnejma dverma, 2
+zavrenejma pricemz soutezici stoji pred jednima z nich....a ta situace bude
+pro souteziciho vypadat uplne stejne at uz si vybere spravny dvere nebo
+nevybere takze ma porad 50:50
+ _H_H_m [Muž] [Kategorie]
+25.08.2005 11:27:29
+Ba jo, už mi to docvaklo, že já si to hned nenakreslila.
+
+Humusdacan to pěkně vysvětlil a
+
+NUVOL4Ri musí sníst fusekle!!!!!!!!! :)
+ nick-ita
+25.08.2005 11:24:58
+Nedá mi to.
+
+Přejít nebo zůstat je jedno. Pst je 50/50.
+
+Nejdříve bych definoval pravidla soutěže – a to tak, abych je v průběhu
+neměnil.
+
+Tedy:
+A)Soutěžící má 3 dveře (z toho jedny výherní).
+B)Jedny si vybere..
+C)Moderátor vybere nevýherní dveře, neobsazené soutěžícím.
+D)Soutěžící může svoji volbu změnit.
+
+Ad B) Zde je pravděpodobnost výběru výherních dveří skutečně 33pct.
+Ad C) Zde je jedno, jestli moderátor vybírá náhodně, nebo podle předem daného
+algoritmu (např. vybere zprava první nevýherní neobsazené dveře). U této volby
+je tedy irelevantní počítat pravděpodobnosti.
+Ad D) Soutěžící znovu vybírá dveře (přejít/zůstat = vybrat jedny/druhé).
+Přitom cokoliv této volbě předcházelo je opět irelevantní. Tedy nově volí ze
+dvou dveří z nichž jedny jsou výherní. 50/50.
+
+Časté chyby v argumentaci
+A) Změna pravidel soutěže a tím pravděpodobností (tj přechod z 33 na 50 nebo
+naopak)
+B) Operace s pravděpodobností u volby moderátora.
+
+Ad humusdacan a jeho ilustrace s barvami:
+Varianty m,č,z a z,č,m nemohou (nesmí) nastat. Jejich pst je tedy 0 (a ne
+16,6, které by šly někam přičítat). Takže zbývají 4 možnosti, každá s pstí 25.
+Tedy výhra/prohra je 50/50.
+
+Ad Klok
+Tedy zůstat dává na výhru 50 a přejít 66pct? Neměl by alespoň součet pstí
+komplementárních jevů být 100pct?
+
+K zamyšlení:
+Pokud by v soutěži byly 4 dveře a moderátor by odstranil 2 nevýherní byla by
+pst na výhru při přejití 75 a ne 66?
+A při 5, 6, 7 … dveřích?
+ _S_q_u_a_k_o_s_h [Muž]30 [Kategorie]
+25.08.2005 10:39:56
+Čtu to až teď a mám jeden malý dodatek.
+Pokusy jsou samozřejmě závislé, protože moderátor neotevírá náhodné dveře, ale
+ty, které si soutěžící nevybral a kde auto není. To už je poměrně dost velká
+informace navíc.
+Strategie přejít k druhým neotevřeným dveřím je samozřejmě správná, protože
+zvyšuje pravděpodobnost úspěchu z 1/2 na 2/3. Ale zdá se mi, že dev-nullovo
+vysvětlení je přece jen trochu zavádějící (pokud jsem správně pochopil, že
+pravděpodobnost úspěchu při otevření původně vybraných dveří považuje za 1/3).
+
+Pokud zůstane soutěžící u dveří, které si vybral, má pravděpodobnost úspěchu
+1/2. Jde totiž o jiný pokus než pravděpodobnost neúspěchu při přechodu ke
+druhým neotevřeným dveřím (1/3).
+Z matematického pohledu jde o rozšíření pohledu na porovnání pravděpodobnosti
+úspěchu jednotlivých strategií.
+ _K_l_o_k [Muž]44 [Kategorie]
+25.08.2005 10:13:07
+Nuvol4i
+
+super :)
+ja to taky furt nechapal az .. CVAK :)
+ dev-null
+25.08.2005 10:11:03
+DEV-NULL: Jojo už mi to docvaklo :-)
+ _N_U_V_O_L_4_R_i [Muž]21 [Kategorie]
+25.08.2005 10:04:23
+NUVOL4i
+
+Analogie s milionarem koncim tam, ze soutezici nemuze vybrat jednu odpoved a
+teprve pak si nechat dve jine odpovedi odebrat ... V TOM JE ROZDIL! .. pokud
+by to melo byt analogicke, musel by si vybrat jednu odpoved pak nechat
+moderatora ( nebo pocitac ) dve odpovedi odebrat a nyni by mel 75% sanci
+( pokud vybiral opravdu nahodne ) ze pokud zmeni sve rozhodnuti, tak je
+odpoved spravna .. pokud porad nechapes zkus si to precist 3 krat
+
+Pokud samozrejme hned na zacatku vyradi moderator jedny nahodne nespravne
+dvere ze hry pradvepodobnost je pak pade na pade .. a je to jako milionar
+ANO v uloze je rozhodujici, ze soutezici stoji pred jednema dverma a tim
+omezuje moderatorovu volbu dalsich!
+ dev-null
+25.08.2005 10:03:07
+NUVOL4Ri: milionáře na to nemůžeš použít, jedině v případě, že by jsi nejdřív
+označil otázku a pak by jsi dal 50 na 50 a vyhodilo by to špatné možnosti - a
+pak by jsi mohl vybírat znova. Pokud dáš nejdřív 50 na 50, tak máš zase 50ti
+procentní šanci, že si vybereš správně ze dvou možností.
+ _V_i_n_c_0_0_9 [Muž] [Kategorie]
+25.08.2005 09:57:13
+I když i dev-nullovo vysvětlení chápu, ale ani na svém nevidím chybu. Najde ji
+někdo?
+
+Prostě tu máme dvě správná řešení. Ovšem to se mi povedlo už u zápočtu z
+matematické analýzy - matematicky dokázat nepravdu :-D A ani vyučující na to
+nepřišel kde je zakopanej pes tak jsem to uhádal na plichtu - dostal jsem za
+ten příklad polovinu bodů :-)
+ _N_U_V_O_L_4_R_i [Muž]21 [Kategorie]
+25.08.2005 09:54:48
+Tak mi ještě PLS někdo vysvětlete v čem je chybná moje analogie s Milionářem
+(popsaná mnou v 1:07 resp 0:29) (ideálně by se toho mohla ujmout LUCY*HAWK -
+ta vypadá přemejšlivě :-) )
+
+Jinak - stále trvam na tom že to tak, jak je zde uváděno není. Protože
+moderátor otevírá ty dveře, kde auto není na jistotu - dle zadání ví které
+otevít, aby za nimi výhra nebyla - jinými slovy zde nejde o náhodný jev.
+
+Ještě mě napadá něco. Předpokládejme že soutěžící si žádné dveře nevybral a
+moderátor stejně jedny nesprávné vyřadí ze hry. Bude potom v jedněch dveřích
+větší ppst výhry? V kterých? Proč? Ovlivnilo by rozložení ppsti mezi dveře i
+kdyby ty vybrané soutěžící neoznačil tím, že před nimi stojí, ale vybral je
+jen v duchu (moderátor by pak stejně otevřel dveře za nimiž výhra není, neboť
+tyto jsou mu dle zadání označeny - a po jeho akci vždy zlůstanou soutěžícímu
+na výběr jedny s výhrou a jedny bez výhry)?
+ _N_U_V_O_L_4_R_i [Muž]21 [Kategorie]
+25.08.2005 09:50:00
+no tak tomu řikám hustotka!
+[Smajlík]          [Muž]30 [Kategorie]
+ _V_í_ř_i_v_ý_ _A_d_v_e_n_t_i_s_t_a
+25.08.2005 09:45:21
+takze gratuluji vsem co na to prisli :) doufam ze ste se u toho pobavili ... :
+)
+Me se na tom libi ze je to uplne jasne a zrejme ... jen se clovek musi
+odpoutata od spatneho pohledu .. ted nechapu co jsem na tom nechapal :)
+
+Vysvetleni tady uz padlo... nicmene jeste moje verze ( to stejne jinymi slovy
+)
+v soutezi mohou nastat dve rozdilne situace:
+1) soutezici si vybere spravne dvere ... moderator pak vybere nahodne jedny
+spatne .. soutezici je nyni samozrejme pred spravnyma dverma
+.. tato situace nastane ve 33% procentech pripadu
+.. pokud by tady soutezici presel - auto prohraje
+2) soutezici si vybere spatne dvere .. moderator je pak nucen otevrit jedine
+zbyvajici spatne dvere a tim zbydou pouze jedny spravne
+.. tato situace nastane v 66% pripadu ( 2 ze 3 dveri jsou spatne )
+.. pokud soutezici prejde, auto je jeho :)
+
+Jak snadne :)
+/dev/null
+ dev-null
+25.08.2005 09:33:08
+LUCY: Je to opakovaný pokus => platí zde ROZDĚLENÍ PPSTI (V tomto případě
+rozdělení normální - to je název, dybys to náhodou nevědela...;-) ). Protože v
+Tebou opsaném případě popisuješ ppst, že 10 šestek z deseti hodů, ne jedna
+šestka z jednoho! (což by pak byla ta 1/6). Je sice pravda, že to rozdělení
+(resp. znalosti o jeho rozložení ppstí) vzniklo nejspíš nějakou statistickou
+metodou (jak taky jinak...), ale pořád určuje PPST.
+ _N_U_V_O_L_4_R_i [Muž]21 [Kategorie]
+25.08.2005 09:21:55
+humusdacan v tom umí chodit :), má samozřejmě pravdu. Jinak když jsem měl
+podobný příklad ve škole v předmětu Pravděpodobnost a statistika, tak bych
+taky vsadil všechno na to, že to musí být 50 na 50, ale bylo to takhle. Z
+logického hlediska to vypadá jako nesmysl, ale z hlediska pravděpodobnosti to
+tak je, humusdacan to vysvětlil dobře.
+[Smajlík] [Muž] [Kategorie]
+ _V_i_n_c_0_0_9
+25.08.2005 08:27:39
+humusdacan - když to je takhle rozepsané, tak to vidím. Ale v životě bych na
+to sama nepřišla, nenapadlo by mě, že by mohlo jít o závislý jev :o))
+ Vlora.
+25.08.2005 04:07:28
+no to sem z toho fakt jelen :D
+ _č_e_r_t_ _a_n_á_l_n_í_k [Muž]18 [Kategorie]
+25.08.2005 03:22:03
+Už jsem měla vypnutej počítač a při čištění zubů mi to došlóóó !!!
+
+Totiž ta situace, kdy moderátor otevře jedny dveře a nabídne hráči možnost si
+přejít,
+je EKVIVALENTNÍ této situaci:
+
+Hráč si nejdřív vybere jedny dveře a moderátorovi jakoby "zůstanou" dvoje
+dveře, a bez toho, aby nějaké otvíral, tak hráči nabídne, jestli si to s ním
+nechce vyměnit, že přece dvoje dveře (zatím zavřené) jsou větší šance na výhru
+než jedny dveře. Tak si to "vymění", což je ekvivalentní tomu, že hráč
+"přejde". Všem je jasné, že minimálně jedny z těch jeho dvou dveří jsou
+prázdné, ať už je moderátor otevře či nikoli, takže na tom nezáleží, je to
+jenom matoucí OPTICKÝ KLAM. Z toho plyne, že je úplně jedno, kam si hráč na
+začátku stoupne, protože pak stejně někam přejde. Takže by si na začátku měl
+stoupnout k něm nejméně "sympatickým" dveřím (z hlediska nějaké intuice, pokud
+by něco takového měl), protože už by vlastně dopředu věděl, že půjde jinak.
+Jenže aby to pak třeba nepřekombinoval, jako se to stává u kámen-nůžky-papír,
+když u toho oba moc přemýšlejí a snaží se odhadnout strategii toho druhého.
+
+Takže výsledek? Zdá se, že je to OPRAVDU ČISTÁ PRAVDĚPODOBNOST 67% !!!
+Doufám, že až si to po sobě ráno přečtu, tak že nezjistím, že jsem tu psala
+nějaké bláboly.
+
+Pravděpodobnosti ZDAR.
+NAZDAR.
+[Smajlík]  [Žena]36 [Kategorie]
+ _L_u_c_y_*_H_a_w_k
+25.08.2005 02:11:06
+Anebo takhle: Stěna je rozdělena na 2 nestejné části, jedna část obsahuje
+jedny dveře, druhá část dvoje dveře. Kterou část by si hráč na začátku vybral?
+No samozřejmě tu s těma 2 dveřma, protože je tam ppst 2/3. A kdyby mu poté
+moderátor otevřel jedny z těch 2 jeho dveří? Přešel by k těm třetím, nebo ne,
+ha?
+A kdyby tam byla tlupa lidí, nejdřív by se všichni zřejmě nahrnuli k těm 2
+dveřím, ale pak by někteří asi přešli a někteří ne...
+ _L_u_c_y_*_H_a_w_k [Žena]36 [Kategorie]
+25.08.2005 02:08:06
+Hm, humusdacan: na tom tvym něco bude, ale přečtu si to až po spánku, co budu
+fit :)
+ _S_i_l_k [Žena]31 [Kategorie]
+25.08.2005 02:01:54
+Já kdybych byl ten soutěžící tak bych šel do těch dveří co sem si už vybral.
+Kdybych teda předtim nevěděl, že ten moderátor otevíra dveře aby to udělal
+dramatičtější. Za prvé kdyby výhra byla v těch co sem si vybral jako první a
+nešel do nich, tak by mě to mrzelo. A za druhé ten moderátor y mě chtěl jen
+zviklat.
+ _M_i_l_k_3_r [Muž]17 [Kategorie]
+25.08.2005 02:01:06
+PS:doufám, že to je pochopitelné
+takže já souhlasím s dev-null, že je to 66,7%
+a opakuju, problém je určení závislý/nezávislý jev
+ _h_u_m_u_s_d_a_c_a_n [Muž]38 [Kategorie]
+25.08.2005 01:56:44
+NUVOL4Ri --- pletou se tu pojmy!!! Ano, platěj pro ten hod jiný Statistický
+pravidla, ale Pravděpodobnost je u každého jednotlivého hodu 1/6 !!!
+ _L_u_c_y_*_H_a_w_k [Žena]36 [Kategorie]
+25.08.2005 01:56:05
+musí se hlavně posoudit, jestli jsou to závislé nebo nezávislé jevy
+
+ale každopádně moderátorův výběr ZÁVISÍ na výběru soutěžícího protože, pokud
+soutěžící sahá na dveře, kde není auto, moderátor už nemá možnost výběru
+
+
+
+vysvětlení:
+
+dveře ať jsou barevné
+
+červená-za nimi je auto
+modrá-nic
+zelená-nic
+
+nejprve se někam postaví soutěžící, pak moderátor a nakonec zbývají volné
+dveře, jde o pořadí a je zde šest rovnocenných variant:
+
+č,m,z - nepřecházet
+č,z,m - nepřecházet
+m,z,č - nutno přejít
+m,č,z - ale tu nesmí moderátor použít, tedy místo ní použije m,z,č a je nutno
+PŘEJÍT!!!
+z,m,č - nutno přejít
+z,č,m - ale tu nesmí moderátor použít, tedy místo ní použije m,z,č a je nutno
+PŘEJÍT!!!
+
+takže 4 možnosti ze 6 ukazuje pro přejít to je pravděpodobnost 2/3 neboli
+66,7%
+ _h_u_m_u_s_d_a_c_a_n [Muž]38 [Kategorie]
+25.08.2005 01:53:33
+Nuvolari: Vždyť říkám... Jakej je rozdíl, mezi prvníma a druhejma dveřma, a
+kde vůbec Leoš stojí? :o)
+ _S_h_a_d_o_w_D_a_n_c_e_r [Muž]26 [Kategorie]
+25.08.2005 01:49:18
+LUCY: No s touppstí že Ti padne 6 10* za sebou je to taky sporný, protože pro
+opakovanej pokus platí jiný pravidla než pro jedinej.
+ _N_U_V_O_L_4_R_i [Muž]21 [Kategorie]
+25.08.2005 01:47:21
+MARKET: Špatná úvaha! Protože u moderátora, který ty dveře skutečně otevřel,
+jsme ověřili jak to dopadlo - totiž že tam auto nebylo. Tedy tu máme novou
+situaci s jedním člověkem a dvouma dveřma. Z nichž v jedněch auto je, v jedněh
+ne. Jak zdůvodníš že za jednima je spíš než za druhýma...?
+
+Sčítáš a odečítáš co nemůžeš - totiž doměnky a fakta, čísla předpokládáná a
+jistá...
+ _N_U_V_O_L_4_R_i [Muž]21 [Kategorie]
+25.08.2005 01:46:40
+No nevím no, ale když moderátor otevře jedny dveře, za kterýma se auto
+nenachází, tak je logické, že tyto dveře se už nepočítají. (Prostě jakoby
+vůbec ze začátku nebyly)
+Takže tím pádem je šance 50%, že soutěžící otevře ty správné dveře.
+
+Na to žádný vysvětlení neexistuje, protože, jak ty píšeš, tak by podle tebe u
+těch druhých dveří (než stojí) měl šanci kolem 66%. Ale jak můžeš vědět, že za
+těmi dveřmi co stojí, to auto skutečně není? To mi teda vysvětli, to jsi asi
+jasnovědec, že?
+[Smajlík] [Muž]18 [Kategorie]
+ _J_o_3
+25.08.2005 01:43:07
+- člověk přistupující k 1. dveřím má šanci 33% moderátor přistupující k 2.
+dveřím úplně stejnou nicméně netrefí se(ať tak, či onak)-potenciální člověk
+přistupující k 3. dveřím(nebo náš člověk co si to rozmyslel) rázem získává
+šanci 67%! a šlusec:)
+ Market
+25.08.2005 01:41:29
+Ale znovu opakuji, že je to STATISTIKA, né PRAVDĚPODOBNOST, protože jako když
+házím kostkou, tak pravděpodobnost, že mi padne šestka, je vždycky 1/6, i
+kdyby mi předtím padla už desetkrát, což je statistická úchylka...
+ _L_u_c_y_*_H_a_w_k [Žena]36 [Kategorie]
+25.08.2005 01:40:48
+XZDENISH: Otázka jepoložena co je pro soutěžícího lepší. Nikoliv statisticky
+lepší, jak tvrdíš. A lepší je pro něj volit tu možnost, u které je větší ppst
+že je správně. Tedy otázka je to z oboru pravděpodobnosti, nikoliv statistiky.
+ _N_U_V_O_L_4_R_i [Muž]21 [Kategorie]
+25.08.2005 01:40:32
+sice je už pozdě ale 1/2 je stále lepší šance než 1/3 proto je lepší přejít.
+Ale tahle hádanka je docela známá.
+
+já bych sem hodil tu einsteinovu, ale možná že by se na to každej vysral...
+zkus to.
+ _R_i_m_m_r_á_k [Muž]20 [Kategorie]
+25.08.2005 01:36:25
+SD: I kdyby se optevřely náhodné dveře - tak to nic nemění. Protože po jejich
+otevření nastává nová situace, která se řeší bez ohledu na to jak vznikla.
+
+Dokonce, bráno striktně matematicky, ať už za těmi náhodně moderátorem
+otevřenými dveřmi auto je anebo ne, tak v obou těch situacích vždy pak zbývá v
+obou zbývajících dveřích stejná ppst že za nimi auto je (jednou je to 50 / 50
+a jestliže v moderátorovo dveřích auto bylo tak 0 / 0).
+ _N_U_V_O_L_4_R_i [Muž]21 [Kategorie]
+25.08.2005 01:35:03
+Já už vííím !!!
+
+Řekněme, že mezi sebou soutěží člověk Č a moderátor M.
+Č si vybere jedny dveře, čili má ppst 1/3 a moderátor si vybere zbytek, čili
+má ppst 2/3.
+Kdyby v tu chvíli vyzvali diváky "Ke komu se připojíte, k Č nebo k M?", tak by
+si diváci pravděpodobně zvolili M, protože tam mají větší pravděpodobnost. A
+nic na tom nezmění ani otevření jedněch dveří od M !!! Jupííí !!!
+[Smajlík]  [Žena]36 [Kategorie]
+ _L_u_c_y_*_H_a_w_k
+25.08.2005 01:28:41
+Shadow: Právě podělávka je v tom, že se tě neptá na pravděpodobnost, ale na
+to, co je statisticky lepší.. Pravděpodobnost je 50:50, ale statisticky jsou
+lepší ty dveře, u kterejch nestojí ;)
+[Smajlík] [Muž]27 [Kategorie]
+ _x_Z_d_e_n_i_s_h
+25.08.2005 01:26:35
+I když si stále myslím, že je to blbost a ten problém v % dělá to, že se
+neotevřou náhodné dveře, ale ty, kde nic není.
+
+Případně - taková otázka... Co když stojí u druhých dveří a přejde k prvním? :
+o)
+
+Prostě jen taková matematická vychytávka.
+
+Takže je to 50 na 50 :oP
+A končím.
+ _S_h_a_d_o_w_D_a_n_c_e_r [Muž]26 [Kategorie]
+25.08.2005 01:22:38
+a jestli se s tim co sem napsal nepocita tak bych proste dal 50:50 , zadny
+zaludnosti v tom nevidim proste cerna a bila ;)
+ _H_H_m [Muž] [Kategorie]
+25.08.2005 01:18:05
+no nevim jak statisticky ale logicky to ciste zalezi na tom jak moderator
+odhadl inteligenci cloveka, jestli treba tusi ze to ukazal aby znervoznel nebo
+hledal jiny duvod proc to udelal - krom dramaticnosti, v jeho zajmu je prece
+neodevzdat auto...
+
+
+na tvoji otazku " je pro souteziciho ted lepsi prejit k druhym neotevrenym
+dverim, je pro nej lepsi zustat tam kde je, nebo je to jedno ??? A proc?" ti
+asi neodpovim jak chces slyset
+
+soutezici totiz chte vyhrat auto a ja nevim za jakejma dverma to auto je,
+proto ti nereknu co je pro souteziciho lepsi, jen jednu vec vim...jedno to
+urcite neni ;)
+kazdopadne by me zajimalo jak merili tuhle statistiku, zalezi to totiz na
+psychice a u kolika vzorku se to sledovalo a z jakejch lidi skladalo...v jaky
+narodni mentalite.. :-)
+ _H_H_m [Muž] [Kategorie]
+25.08.2005 01:11:52
+Ty vole,to je hustý...já jdu spát,než budu mít depky že sem uplně
+pitomá...furt řikám 50:50
+[Smajlík] [Žena]21 [Kategorie]
+ _J_u_i_c_y
+25.08.2005 01:08:28
+Aha...
+1) Člověk si vybere dveře, za kterýma auto je.
+1a) V prvním případě má pravděpodobnost 33% že si tipl správně.
+1b) Po otevření, má pravděpodobnost 50% že si tipl správně.
+
+2) Člověk si vybere špatné dveře
+2a) V prvním případě má opět pravděpodobnost 33%
+2b) Po otevření třetích dveří je 100% pravděpodobnost, že v těch, které si
+vybral a v těch otevřených auto není - takže přejde k druhým kde je.
+
+Sakra... :o) Teď vážně nevím jak to vysvětlit....
+
+Je to tím, že přestože oba mají teoreticky stejnou možnost vybrat si místo,
+kde stojí auto, tak díky tomu, že je to 50:50 k tomu, jestli stojí u dveří,
+kde to auto je, nebo není, tak se to propočte do celkové statistiky.... :o)
+ _S_h_a_d_o_w_D_a_n_c_e_r [Muž]26 [Kategorie]
+25.08.2005 01:07:45
+DEV-NULL: JE to obdobná situace jako s milionářem a 50/50! Prostě výchozí
+situace zní:
+
+Máš n možností a z nich máš vybrat jednu konkrétní.
+Je odebrán jistý počet (u milionáře 2, v Tvém příkladě 1) nesprávných možností
+tak, že zbývá jedna správná a jedna nesprávná.
+A Ty tvrdíš že v takovém případě není ppst 50/50.
+
+Takže ještě jinak: Předpokládejme situaci, kdy máš odpočátku dvěmožnosti, z
+nichž jedna je správná a jedna nesprávná. Tady myslím bez odmlouvání uznáš že
+ppst náhodného výběru té správné je 50 pro.
+
+A teď mi řekni v čem je rozdíl, resp. popiš mechanismus, kterým ten rozdíl
+ovlivňuje tu ppst.
+ _N_U_V_O_L_4_R_i [Muž]21 [Kategorie]
+25.08.2005 01:05:25
+/dev/null --- No jestli nechápeš rozdíl mezi pravděpodobností a statistikou,
+tak to je blbý. Pokud nám chceš něco dokazovat na "dostatečně velké množině
+vzorků", tak je to statistika a s pravděpodobností to nemá nic společného! No
+uvidíme zítra.
+ _L_u_c_y_*_H_a_w_k [Žena]36 [Kategorie]
+25.08.2005 01:05:06
+moderátor otevírá dveře aniž by věděl zda za nima auto je, či ne!na to se v
+tom nehraje !
+Odeberu sklenici aniž bych věděla zda v ní jed je, nechám tě vybrat, poté se
+napiju a ejhle-žádnej jed.. chceš i dál tvrdit, že je to"50:50"?
+ Market
+25.08.2005 01:04:19
+Ale dev-null píše, že je to LOGICKÝ. Copak je statistika logická disciplína?
+ nick-ita
+25.08.2005 01:04:11
+Pač pravděpodobnost se vždycky počítá jako počet kladných řešení děleno počtem
+všech možných řešení.. A to je 1:2 ;)
+[Smajlík] [Muž]27 [Kategorie]
+ _x_Z_d_e_n_i_s_h
+25.08.2005 01:01:51
+Ale na pravděpodobnost tohle vliv nemá, ta je furt 1:2 ;)
+[Smajlík] [Muž]27 [Kategorie]
+ _x_Z_d_e_n_i_s_h
+25.08.2005 01:01:25
+2 Market -- Jenže ten moderátor nevybírá "náhodně", on vybere dveře, kde auto
+"není". Kdežto u tvého příkladu s jedem píšeš "náhodně odebraná"...
+ _L_u_c_y_*_H_a_w_k [Žena]36 [Kategorie]
+25.08.2005 01:01:20
+No jo, už to taky chápu :) Je tzo statistika, ale úplná kravina :D
+[Smajlík] [Muž]27 [Kategorie]
+ _x_Z_d_e_n_i_s_h
+25.08.2005 01:00:55
+jeste lucy:
+
+ne je to klidne i pravdepodobnost .. to spolu souvisi ne?
+ale jak rikam nejsu moc ucenej takze rozdil mezi statistikou a
+pravdepodobnosti de mozna mimo me
+
+moje reseni a dukaz bude zalozen na pravdepodobnosti
+toto reseni bylo statisticky podlozeno na dostatecne velke mnozine vzorku :o)
+
+uz fakt dobrou
+ dev-null
+25.08.2005 01:00:30
+Tak já se zkusim jít odpoutávat, jsem zvědavá co se stane :)
+ _S_i_l_k [Žena]31 [Kategorie]
+25.08.2005 00:59:00
+Dev nulle, je to blbost: Když máš dvoje dveřew a za jedněma je auto,
+pravděpodobnost je prostě 1:2.. Jinak to nejde.. Jenom, když se na to díváš z
+nějakýho zhulenýho pokusu jako jsem psal před před tim :)
+[Smajlík] [Muž]27 [Kategorie]
+ _x_Z_d_e_n_i_s_h
+25.08.2005 00:58:39
+Market: Ale my víme, že za otevřenými dveřmi auto není, protože moderátor by
+byl debil a my bysme mohli jít klidně spát. Pak i ty musíš pro podobnost
+příkladu odebrat sklenici bez jedu když už.
+ _S_i_l_k [Žena]31 [Kategorie]
+25.08.2005 00:57:53
+xzdenish: to s tim myslenkovym pochodem bylo na tebe :o)
+
+takjo, du spinkat
+pro ty co to ctou a chcou se bavit resenim...
+vezte ze je to tak jak jsem psal - a je to opravdu jednoduchy a logicky .. jen
+se odpoutat od toho spatnyho pohledu :) ...
+za timto resenim si stojim a jsem ochoten se o cokoliv vsadit nebo janevimco
+protoze je to pro mne jasna vyhra
+doufam ze na to zitra do obeda nekdo prijde, jinak to objasnim a dokazu
+
+a nejsem bidny matfyzak :) jsem informatik :)
+dobrou noc :)
+
+a nehledejte za tim zadny slovickareni a kdovico
+ dev-null
+25.08.2005 00:57:26
+Hmmm... nějakej matematickej chyták - asi jako je někde na ftipky.cz dokázáno,
+že 1=2 .
+ _S_h_a_d_o_w_D_a_n_c_e_r [Muž]26 [Kategorie]
+25.08.2005 00:56:29
+/dev/null --- No jo, jenže to je STATISTIKA a né PRAVDĚPODOBNOST !!!
+V tom je ten zásadní rozdíl! Ale ono je to vlastně v titulku diskuze, to mě
+mohlo trknout!!!
+ _L_u_c_y_*_H_a_w_k [Žena]36 [Kategorie]
+25.08.2005 00:54:31
+pro juicy lucy*hawk atd..
+vysvětlení na uplně jiným příkladu proč to nemúže být "50:50" :Máte 3 sklenice
+a dejme tomu v jedné je jed(je to jen příklad:) v tuto chvíli je
+pravděpodobnost, že si vyberete tu špatnou 33,33atd% po !náhodném! odebrání
+jedné sklenice je přeci logické, že se vám při výběru ze zbývajících dvou
+nemůže změnit na"50:50" !jen k té mýlce tak peace
+ Market
+25.08.2005 00:52:18
+NUVOL4Ri: Tak jak to vysvětlila Lucy to samozřejmě chápu taky, ale mám
+zkušenost s bídnejma matfyzákama, že dokážou na jalový krávě vymámit tele,
+proto mě zajímá to blbý řešení, o kterym dev-null tvrdí, že je správný.
+ _S_i_l_k [Žena]31 [Kategorie]
+25.08.2005 00:48:42
+Hm.......teda kluci,fakt sem vás moc nepobrala....asi sem blbá,snad mi to
+časem dojde,ale stále bych se přikláněla k názoru 50:50
+ _J_u_i_c_y [Žena]21 [Kategorie]
+25.08.2005 00:44:58
+eeeeeeeeee tvuj myslenkovy pochod jsem nepochopil :)
+ dev-null
+25.08.2005 00:43:59
+Fila:
+nene zitra .. vazne
+zaprve se budu citit strasne dulezitej
+a zadruhe ja z toho mel desnou radost kdyz jsem na to prisel a moc me to
+bavilo to vymyslet tak pokud existuje nekdo takovej tak mu nebudu kazit zabavu
+:)
+ dev-null
+25.08.2005 00:43:44
+dev null: No, tak v tom případě je tam další odstavec týkající se šance 1:3 a
+1:2 ;)
+Jenže když pak přejdeš k těm druehjm, můžeš zase zpátky k těm prvnim, pač to
+už jsou šance zase vynulovaný a obě maj 1:2 ;)
+[Smajlík] [Muž]27 [Kategorie]
+ _x_Z_d_e_n_i_s_h
+25.08.2005 00:42:13
+xZdenish: nene za otevrenyma dverma samozrejme auto samozrejme neni ... :)
+
+NUVOL4i: do toho du! Placnem si?
+ dev-null
+25.08.2005 00:41:09
+dev-null: Tak už to vysvětli, už názory stačili PLS...
+ _F_í_l_a [Muž]38 [Kategorie]
+25.08.2005 00:40:13
+Lucy-Hawk:
+NAPROSTO SERIOZNE: neni to blbost je to tak jak jsem psal .. taky se na to
+nedobre divas :)
+jojo kamarad mi rikal ze to nejak rozdelilo ucitelsky sbor u nich na gymplu :
+)
+
+Ale opravdu je to tak .... simuloval jsem-li 10000 takovych situaci pak clovek
+co si vyboral dvere u kterych stal ziskal auto zhruba v 33000 pripadech
+Zatimco clovek co presel ke druhym v 67000
+
+A JE TO NAPROSTO LOGICKY :)
+ dev-null
+25.08.2005 00:39:41
+Záleží na tom, jak se to vezme..
+Pokud je za těma otevřenýma dveřma auto, je to už fuk..
+Pokud se na to nahlíží tak, že u prvních dveří měl šanci 1:3, že tam bude
+auto, tak u těch druhejch už má šanci 1:2.. Takže by se mu to vyplatilo..
+Ale jinak je to úplně jedno ;)
+[Smajlík] [Muž]27 [Kategorie]
+ _x_Z_d_e_n_i_s_h
+25.08.2005 00:37:05
+SILK: LUCY to vysvětlila. A podle mě pravdivě. Esli DEV-NULL prokáže že má
+pravdu on a ne LUCY, tak snim svoje fusekle....
+ _N_U_V_O_L_4_R_i [Muž]21 [Kategorie]
+25.08.2005 00:37:01
+dev-null: hm, tos nám toho napověděl, to je nějaké podezdřelé manimulování s
+procenty :))
+
+Je jasné, že na začátku má pravděpodobnost 33,3%, že si vybere správné dveře.
+Po otevření jedněch dveří se pravděpodobnost zvyšuje na 50%.
+Ale z tvého výkladu vyplývá, že se těch 33 přičte k jiným dveřím. Dejme tomu,
+že tvá hypotéza je správná, ale potom nechápu, jak ví, že těch 67% je u dveří,
+u kterých nestojí.
+
+Jinak viz NUVOL4Ri
+ nick-ita
+25.08.2005 00:36:26
+>DEV-NULL: V tom případě ovšem tvrdíš, že samotnej fakt, že soutěžící stojí u
+jedněch dveří, ovlivňuje ppst že za nima auto je....
+nedobre se na to divas :) tak jak to formulujes to zni samozrejme jako nesmysl
+ale podivas li se na to ze spravneho uhlu .. ano je to pravda - soutezici
+stoji pred dvermi a z to urcuje pravdepodobnost ze za nimi je auto 33,3%
+
+>A navíc, kdyby se tahle tvoje doměnka aplikovala třema na nápovědu 50/50 v
+Milionáři, chceš tvrdit, že by po vyřazení dvou jistě nesprávných odpovědí
+bylo možno určit, která ze zbývajících dvou je správná s větší
+pravděpodobností?! V případě že je tato analogie nesprávná, dokaž to.
+Ne na milionare to aplikovat nejde .. to je zcela jiny pripad :)
+Dokazu .. zitra .. treba ta hadanka jeste nekoho pobavi tak jak to pobavilo me
+ dev-null
+25.08.2005 00:35:51
+Dev-nulle, to není fér, já si na tom nechci vypotit mozek, holky jsou na
+matiku slabšejší... Tak já si počkám, až to někdo vysvětlí, takhle bych si
+zlomila hlavu...
+ _S_i_l_k [Žena]31 [Kategorie]
+25.08.2005 00:33:55
+2 dev-null: Pokud se to vezme tak, že na začátku mají všechny dveře
+pravděpodobnost 1/3, tak když člověk stojí u jedněch dveří, tak má tedy
+pravděpodobnost 1/3, že je tam auto. A pravděpodobnost, že je auto v některých
+z těch 2 dalších dveří je 2/3 a tím, že moderátor jedny dveře otevře, tak u
+nich spadne pravděpodobnost na nulu, takže jakoby skočí na ty třetí dveře,
+které tím pádem získají pravděpodobnost 2/3, ale TO JE BLBOST! Tím, že
+moderátor některé dveře otevře, tak nastává NOVÝ POKUS a pravděpodobnost se
+musí vyhodnotit ZNOVU! A je to 50:50!
+ _L_u_c_y_*_H_a_w_k [Žena]36 [Kategorie]
+25.08.2005 00:29:21
+DEV-NULL: V tom případě ovšem tvrdíš, že samotnej fakt, že soutěžící stojí u
+jedněch dveří, ovlivňuje ppst že za nima auto je....
+
+A navíc, kdyby se tahle tvoje doměnka aplikovala třema na nápovědu 50/50 v
+Milionáři, chceš tvrdit, že by po vyřazení dvou jistě nesprávných odpovědí
+bylo možno určit, která ze zbývajících dvou je správná s větší
+pravděpodobností?! V případě že je tato analogie nesprávná, dokaž to.
+ _N_U_V_O_L_4_R_i [Muž]21 [Kategorie]
+25.08.2005 00:27:22
+Cožeeee ?
+ _C_o_l_l_i_d_e [Žena]16 [Kategorie]
+25.08.2005 00:25:05
+zustal bych tam kde jsem protoze proste proto!
+[Smajlík]
+ aplikator
+25.08.2005 00:22:38
+Je to jedno..
+Když ten soutěžící nejsem já,tak si může třeba..no víš co:)
+[Smajlík] [Žena]24 [Kategorie]
+ _J_i_l_l_y
+25.08.2005 00:22:22
+Taaaaaaaaaakze asi to neni tak moc lehky kdyz na to zatim nikdo neprisel
+Tuto "hadanku" mi rikal kamarad a ja se s nim do krve hadal ze to je jedno ...
+musi to byt jedno kdyt je to pade na pade ... ale on si stal za svym ...
+dokonce se mi to snazil i vysvetlit.. jelikoz je ale moc inteligentni a ja
+trosku blbej, tak jsem jeho vyklad nepochopil ... nicmene rekl jsem si ze tuto
+situaci nasimuluju na pocitaci
+vecer jsem to zkusil a uz pri psani programu jsem problem POCHOPIL ,.. clovek
+se na to diva uplne blbe a je to tak jednoduchy!!! Takze abych vas nenapinal
+.. pro souteziciho je vyhodnejsi, prejde-li ke druhym dverim.. za druhymi
+dvermi je na 67% auto .. za temi u kterych stoji pouze na 33% ... :) overeno
+pocitacovou simulaci ... :)
+
+A proc? Je to naprosto jasne logicky oduvodnitelne .. jen se clovek musi
+odpoutat od toho spatneho pohledu na vec :) ... zkuste na to nekdo prijit :)
+
+Dobrou noc
+ dev-null
+25.08.2005 00:16:10
+hej, jestli to měl být jen blbý vtip, abys nás tu napínal, tak si mě nepřej
+ _n_a_a_t_a_s_a [Žena]43 [Kategorie]
+25.08.2005 00:15:17
+je to jedno
+ nick-ita
+25.08.2005 00:14:13
+Ty nás napínáš :o) mno, já jdu spát, doufám, že tu ráno bude řešení :o)
+ _V_l_o_r_a [Žena]3 [Kategorie]
+25.08.2005 00:13:44
+no, tak co se týká ušetření fyzických sil, rozhodně je lepší pro něj zůstat na
+místě, než pžecházet k jiným dveřím, co se týká úspěšnosti, mělo by to být 50:
+50
+ _n_a_a_t_a_s_a [Žena]43 [Kategorie]
+25.08.2005 00:13:18
+Tak jinak: Mě to čistě matematicky je 100pro fuk.....;-)
+
+Jinak - říká se že napodobování je projevem obdivu a uznání. Děkuji.
+ _N_U_V_O_L_4_R_i [Muž]21 [Kategorie]
+25.08.2005 00:13:15
+jejda sorry podepsal jsem se jako NUVOL4i
+takze
+
+NUVOL4i, silk a dalsi:
+Ciste matematicky to jedno neni !
+ dev-null
+25.08.2005 00:11:54
+Je to jedno!
+ _S_i_l_k [Žena]31 [Kategorie]
+25.08.2005 00:11:48
+ciste matematicky to prave fuk neni :)
+ NUVOL4i
+25.08.2005 00:11:46
+ja to auto nevyhraju,takze je mi to fuk
+ _N_e_w_S_t_a_r_t [Žena]23 [Kategorie]
+25.08.2005 00:10:26
+o tak čistě matematicky je to samozřejmě fuk...!
+ _N_U_V_O_L_4_R_i [Muž]21 [Kategorie]
+25.08.2005 00:06:38
+fila: zadnou psychologii v tom nehledej .. dejme tomu ze hra ma specifikovana
+pravidla tak, ze moderator MUSI otevrit dvere a souterz zdramatizovat ..
+moderator nevi za kterymi dvermi neco je nebo neni .. dvere mu oznaci pocitac
+trebas kterej to vi :)
+
+NUVOL4Ri:
+ale kvuli takove blbosti nespat? :)
+ dev-null
+25.08.2005 00:04:05
+Hele ale moc nezdržuj, nebo dnes neusnu :-)
+ _N_U_V_O_L_4_R_i [Muž]21 [Kategorie]
+25.08.2005 00:03:58
+Je jasné, že moderátor otevřel dveře ve chvíli, kdy soutěžící stojí před
+správnýma dveřma, aby ho tak zmátl. Tím pádem, bych byl pro, otevřít dveře,
+před kterýma stojí.
+ _F_í_l_a [Muž]38 [Kategorie]
+25.08.2005 00:03:39
+zatim ale nikdo neuhodl :)
+
+NUVOL4Ri - moderator samozrejme otevre dvere za kterymi auto neni ... zadny
+slovickareni v tom nehledej
+ dev-null
+25.08.2005 00:01:55
+no jeste nechame par tipujicich prihodit .. :)
+jasne je to uplne logicky .. zadna statistika ktomu neni vlastne potreba
+.. jen to svadi k tomu aby se na to clovek dival z nespravneho uhlu :)
+ dev-null
+25.08.2005 00:01:29
+IMHO je to jedno. To otevření dveří moderátorem akorát zvýšilo
+pravděpodobnost, že za dveřmi je auto z 1/3 na 1/2 - ale u obou zbývajících
+dveří je stejná.
+ _V_l_o_r_a [Žena]3 [Kategorie]
+24.08.2005 23:59:45
+..ovšem samo za předpokladu že moderátor neotevřel dveře za kterýma je auto...
+ _N_U_V_O_L_4_R_i [Muž]21 [Kategorie]
+24.08.2005 23:58:25
+Je to jedno. Jestli se nepletu, tak na začátku má 1:3, že strefí a po otevření
+jedněch dveří 1:2. Nebo ne?
+Ale je to prostá ženská logika, statistiku jsem měla děsně dávno...
+[Smajlík] [Žena]27 [Kategorie]
+ _v_e_n_d_u_l_i_e
+24.08.2005 23:58:16
+At jde treba do riti
+[Smajlík] [Muž]33 [Kategorie]
+ _y_m_o
+24.08.2005 23:56:54
+Přijde na to co je za těma dveřma, za kterýma nejni auto....;-)
+Jinak pokud to teda není nějaká finta tak je co se ppsti týče fuk co otevře,
+né?
+ _N_U_V_O_L_4_R_i [Muž]21 [Kategorie]
+
+                                   _[_3_ _z_a_ _2_]
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+
