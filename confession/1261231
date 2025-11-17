@@ -71,6 +71,54 @@ zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky.
 jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
 zaregistruj si ji _Z_D_E !
  
+17.11.2025 19:47:14
+function Life() {
+let stav = "sam";
+let penize = 0;
+let deti = [];
+
+
+console.log("Start: kluk je " + stav);
+
+
+stav = "ve_vztahu";
+console.log("Nalezena holka. Stav = " + stav);
+
+
+deti.push({ id: 1 }, { id: 2 });
+console.log("Spuštěna funkce rozmnoz(); pocetDeti = " + deti.length);
+
+
+console.warn("Hádky.detect(): zvýšené CPU usage, latentní konflikty");
+
+
+stav = "rozvedeny";
+penize -= 2500000;
+console.error("RozvodError: stav = " + stav + ", penize = " + penize);
+
+
+deti.forEach(d => {
+console.log("Dite#" + d.id + ": respond(kluk) -> null");
+});
+
+
+stav = "sam_minus_miliony";
+console.log("Final: " + stav);
+
+return { stav, penize, deti };
+}
+
+Life();
+ silicon kills woman
+17.11.2025 19:41:06
+No a? A není to jedno?
+[Smajlík]
+ holka není Bůh blbče
+17.11.2025 19:35:57
+"Já jsem byl holkám vždycky odpornej."
+
+Uklidni te, kdyz ti napiseme, ze jsi odporny i nam?
+ Kvetak
 17.11.2025 14:37:44
 Je to paradox, ale dost podobny stav vlastnych frustracii, tu opisuje
 "Východniarka Ivanová", vo svojej zpovedi, hned vedla teba...
