@@ -38,6 +38,50 @@ zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky.
 jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
 zaregistruj si ji _Z_D_E !
  
+18.11.2025 10:12:14
+Já klidně napíšu pár dílů zdarma...
+...
+Jak už Mango zmínil, když necháme letící kámen svému osudu a nebudeme do něj
+nijak zasahovat, tak jeho "pohybový stav" se zachovává. Jenže co je to ten
+"pohybový stav" přesně?
+Mando tu naznačuje, že se zachovává jeho rychlost. Což je určitě pravda, a
+pokud by šlo o jediné těleso, krásně by nám to stačilo.
+...
+Ale když pokročíme o kus dále, a představíme si, že ty kameny máme dva, nebo 3
+nebo třeba 50 či 10 000, není to už tak jednoduché. Pokud povolíme, aby se
+mohly navzájem srážet, zjistíme, že jejich rychlosti se při srážkách
+nezachovávají. Ani nic jako "celková rychlost" se nezachovává.
+...
+Ale chytří lidé přišli na to, že existují i jiné věci, než jen rychlost.
+Například když vynásobíme rychlost hmotností tělesa, získáme nějakou novou
+veličinu. Sice nikdo neví, co to vlastně je, ale je nesmírně užitečná.
+Natolik, že dostala i svůj název - totiž HYBNOST, a označení "p".
+Takže p = m.v
+A když sečteme hybnosti všech našich těles (jen pozor, musíme zohlednit i
+směry, nejen velikosti), získáme něco jako "celkovou hybnost", a tahleta
+celková hybnost se nám už zachovává. Vždycky. Je jedno, jestli se kameny budou
+srážet nebo né, dokonce i když budou dělat nějaké vysoce sofistikované věci,
+celková hybnost se bude vždycky zachovávat.
+...
+Další taková věc co se může zachovávat je energie. O té určitě každý slyšel, i
+když jen málokdo ví, co to vlastně je. No a pro letící kámen spočítáme jeho
+energii jako E=1/2 m v^2. Tedy druhá mocnina rychlosti, krát hmotnost. A ta 1/
+2 není zas až tak důležitá, je tam jen proto, aby to odpovídalo mechanické
+práci. Ale na zachování energie to nemá žádný vliv.
+Narozdíl od hybnosti, tahle energie nemá svůj směr. Díky tomu, že je tam druhá
+mocnina rychlosti, tak se ten směr ztratí. Protože "druhá mocnina směru
+rychlosti" je prostě 1.
+Ta drobnost má dalekosáhlé důsledky. Energie se nám zachovává stejně jako
+hybnost, jenomže díky tomu, že nemá směr, dokáže se nám v našich srážkách
+schovat.
+Pokud například nebudeme analyzovat létající kameny, ale plastelínové koule,
+může se nám stát, že po srážce bude celková energie menší než před srážkou. To
+u hybnosti nastat nemůže. Ale u energie ano.
+Protože část energie se nám schovala do pohybu jednotlivých atomů a molekul,
+co tvoří ty plastelínové koule. Navenek to pozorujeme jako jejich teplotu.
+Ale kdybychom koukali na srážky atomů či přímo elementárních částic, bude se
+energie zachovávat úplně stejně jako hybnost.
+ _M_i_c_h_a_l_-_2_2_2 [Muž]44 [Kategorie]
 18.11.2025 06:30:01
 Tohle kdybych měla na základce nemusela bych u testů podvádět! Těším se na
 druhý díl!
