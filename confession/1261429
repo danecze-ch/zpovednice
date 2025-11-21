@@ -29,6 +29,48 @@ zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky.
 jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
 zaregistruj si ji _Z_D_E !
  
+21.11.2025 16:22:45
+Zajímavé také je, že se v určité době (ale nevím kdy, a teď se mi to nechce
+hledat) začaly používat písmenka namísto čísel. Určitě to bylo dlouho po
+vynálezu nuly a záporných čísel - ale jakmile se to rozšířili, tak by to k
+představě těchto věcí (nuly a záporných čísel) nutně vedlo taky. Protože
+jednoduchý výraz typu:
+a - b + b = ...
+Většina lidí bez přemýšlení uhádne, že je to prostě "a". Jenže to platí, jen
+pokud je b < a. Takže třeba 10-2+2 = 10. To je jasné. Ale když vezmeme 2-
+10+10, a tu první část, 2-10 neumíme spočítat, tak nemůžeme tvrdit, že se to
+rovná 2. No a písmenka nás k zavedení záporných čísel úplně donutí. Jednoduchý
+výraz typu a-a můžeme rovnou využít jako definici "nuly" i když vůbec netušíme
+co to ta nula je, a co by mohla představovat ve skutečném světě. No a když už
+máme nulu, můžeme ji zase hned využít k definici záporných čísel, dle vztahu:
+a+b="nula"
+Tím je definováno b s vlastností že to je "záporné a", případně "opačné vůči
+a".
+...
+Jasně, většina lidí to pochopí i bez písmenek a takovýchto složitostí, ale
+jakmile se k tomu dostanou matematici, udělají to přesně takto.
+...
+A přestože tedy nula i záporná čísla byla známá dávno před zavedením písmenek,
+tak písmenka určitě vedla k objevu imaginárních čísel. Stačí zase napsat
+jednoduchou rovnici:
+a*a=-1
+a "imaginární jednotka" je takové číslo, které tuto rovnici splňuje. V rámci
+matematiky nepotřebujeme víc, nedokážeme si představit, co takové číslo
+představuje ve skutečném světě a většina lidí tohle už nikdy moc nepochopí,
+ale to je jedno. Pořád platí, že "imaginární jednotka" * "imaginární jednotka"
+= (-1), a můžeme s tím počítat jako s každým "normálním" číslem. A kupodivu to
+docela dobře funguje. A i když v reálném světě je nám to celkem k ničemu, jako
+mezivýsledky se to náramně hodí.
+ _M_i_c_h_a_l_-_2_2_2 [Muž]44 [Kategorie]
+21.11.2025 16:12:07
+"A to zkus představit, jaké další možnosti v abstraktním chápání světa se
+ještě můžou objevit, a my o nich nic netušíme"
+...
+No já nechci být zbytečný hnidopich, ale ono už teď je známo spousta věcí
+stran abstraktního chápání světa (=matematika) o kterých převážná většina lidí
+nemá tušení, a nejspíš by je ani nikdy nepochopila.
+Ale lze očekávat, že tento trend bude pokračovat, to je určitě pravda.
+ _M_i_c_h_a_l_-_2_2_2 [Muž]44 [Kategorie]
 21.11.2025 15:06:10
 A to zkus představit, jaké další možnosti v abstraktním chápání světa se ještě
 můžou objevit, a my o nich nic netušíme, stejně jako starověcí počtáři si
