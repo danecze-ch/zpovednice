@@ -31,6 +31,58 @@ zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky.
 jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
 zaregistruj si ji _Z_D_E !
  
+02.12.2025 00:10:02
+Video jsem prolítl, nezazněl v něm žádný nový argument, který bych už neznal.
+
+Řeknu ti svůj názor jako člověk, co studuje AI a sám natrénoval pár modelů
+(okolo 300M parametrů).
+
+Pro laika může vývoj za posledních 5 let působit děsivě. Je logické ptát se,
+co bude za dalších 5 let a zda se tempo udrží. Zkusím vysvětlit, proč si
+myslím, že pokrok bude v následujících letech mnohem menší, než většina lidí
+čeká.
+
+První opravdu funkční neuronové sítě vznikaly už v 70. letech (hlavně pro
+klasifikaci), ale na generování textu tehdy nestačily a statistické modely je
+porážely. Od roku 2000 se začaly více používat rekurentní sítě (RNN). Ty už
+uměly pracovat s kontextem, ale trpěly problémem s paralelizací - výpočet pro
+každé slovo musel čekat na výpočet slova předchozího.
+U textu o délce X slov musela síť provést X sériových kroků, což je pro dnešní
+dlouhé kontexty extrémně neefektivní (v dnešní době máme klidně kontext delší
+jak 250 tisíc slov).
+
+Evoluci přinesl rok 2017 kdy byl vydán článek Attention is all you need, který
+představil architekturu transformerů.
+Ta odstranila nutnost sériových kroků a umožnila trénovat vše paralelně. Díky
+tomu můžeme pro trénování efektivně využít grafické karty, reálně to znamenalo
+zrychlení 100x někdy i více oproti starému postupu, což umožnilo nástup LLMs.
+
+Důležité ale je, že se nezměnil princip učení. Sítě stále jen hledají vzory v
+datech. Jediná opravdová změna byla v rychlosti tréninku.
+Jelikož se nezměnil způsob učení, jedinou možností, jak dosáhnout lepší a
+přesnější AI, je exponenciální škálování.
+Například počet parametrů pro modely od OpenAI vypadají takto:
+
+GPT-2 2019 1.5 miliardy
+GPT-3 2020 175 miliard
+GPT-4 2023 1.5 bilionu
+
+Pro gpt5 nejsou parametry známý, ale je dost možné, že to může být něco okolo
+10-20 bilionů.
+Takový vývoj není udržitelný. Brzy se narazí na limity, ať už finanční,
+elektrické nebo hardwarové.
+Ano algoritmy pro trénování se zrychlili, ale to je možná při nejlěpším
+zrychlení dvojnásobné.
+
+Proto si myslím, že pokrok v dalších 5 letech zpomalí a AGI v dohledné době
+nevznikne.
+Pro její vznik bychom museli změnit jak vůbec přistupujeme k trénování
+neuronových sítí, můj nejlepší odhad je, že bychom museli zapojit
+zpětnovazební učení, protože ten současný používáme v jádru už od 70. let
+ _N_e_s_m_í_r [Muž]24 [Kategorie]
+02.12.2025 00:02:06
+No, to jsou ovšem krásné vyhlídky :D
+ _J_e_d_n_a_ _f_r_a_j_e_r_k_a [Žena]24 [Kategorie]
 01.12.2025 22:38:42
 Presne tak jsem to pochopil, nevadi mi to a ano, stihl jsem to video zpracovat
 opravdu za tu chvili. Mam k tomu urcite duvody a klidne bych je s tebou
