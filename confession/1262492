@@ -41,6 +41,86 @@ zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky.
 jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
 zaregistruj si ji _Z_D_E !
  
+19.12.2025 04:41:10
+curl -sSfkLI _h_t_t_p_s_:_/_/_r_t_._c_o_m_ 
+HTTP/2 301
+server: ddos-guard
+set-cookie: __ddg8_=J334IUs6AkYFvZRH; Domain=.rt.com; Path=/; Expires=Fri, 19-
+Dec-2025 03:56:58 GMT
+set-cookie: __ddg10_=1766115418; Domain=.rt.com; Path=/; Expires=Fri, 19-Dec-
+2025 03:56:58 GMT
+set-cookie: __ddg9_=46.135.93.197; Domain=.rt.com; Path=/; Expires=Fri, 19-
+Dec-2025 03:56:58 GMT
+content-security-policy: upgrade-insecure-requests;
+set-cookie: __ddg1_=NNGB7Z571ssEIPqvXdbS; Domain=.rt.com; HttpOnly; Path=/;
+Expires=Sat, 19-Dec-2026 03:36:58 GMT
+date: Fri, 19 Dec 2025 03:36:58 GMT
+content-type: text/html
+location: _h_t_t_p_s_:_/_/_w_w_w_._r_t_._c_o_m_/_ 
+strict-transport-security: max-age=31536000; includeSubDomains; preload
+x-content-type-options: nosniff
+x-xss-protection: 1; mode=block
+content-security-policy: upgrade-insecure-requests
+
+HTTP/2 200
+server: ddos-guard
+set-cookie: __ddg8_=d7Lv3ri196sNFG8a; Domain=.rt.com; Path=/; Expires=Fri, 19-
+Dec-2025 03:56:59 GMT
+set-cookie: __ddg10_=1766115419; Domain=.rt.com; Path=/; Expires=Fri, 19-Dec-
+2025 03:56:59 GMT
+set-cookie: __ddg9_=46.135.93.197; Domain=.rt.com; Path=/; Expires=Fri, 19-
+Dec-2025 03:56:59 GMT
+content-security-policy: upgrade-insecure-requests;
+set-cookie: __ddg1_=JmxIGGsd1EfR0oC2VipR; Domain=.rt.com; HttpOnly; Path=/;
+Expires=Sat, 19-Dec-2026 03:36:59 GMT
+date: Fri, 19 Dec 2025 03:36:59 GMT
+content-type: text/html; charset=UTF-8
+x-4fna: 3brfna
+x-4vcta: H310R
+strict-transport-security: max-age=31536000; includeSubDomains; preload
+x-content-type-options: nosniff
+x-xss-protection: 1; mode=block
+content-security-policy: upgrade-insecure-requests
+
+---
+rt.com works via curl but fails in browsers due to ISP-level DNS blocking in
+the Czech Republic.
+This stems from EU sanctions against Russian state media like RT, enforced
+through DNS resolution by local providers.&#8203;
+Your curl command bypasses this by directly resolving the domain and following
+redirects to _w_w_w_._r_t_._c_o_m_,_ which DDOS-Guard protects.&#8203;
+
+Why the Discrepancy
+Curl uses system DNS but skips browser-specific checks like secure DNS (DoH/
+DoT) or geoblocking.&#8203;
+Chrome detects NXDOMAIN because Czech ISPs return "non-existent domain" for
+rt.com to comply with blocks, unlike curl's raw HTTP handling.&#8203;
+EU-wide bans since 2022 persist, with uneven enforcement; Czech providers like
+those tested block 17+ RT domains.&#8203;
+
+Quick Fixes
+Change DNS servers: Switch to Google (8.8.8.8, 8.8.4.4) or Cloudflare
+(1.1.1.1) in Windows Network Settings > Adapter Properties > IPv4 > Use the
+following DNS. Flush DNS with ipconfig /flushdns.&#8203;
+
+Use VPN or Tor: Connect via non-EU server (e.g., US) or Tor Browser to bypass
+ISP blocks entirely. RT officially recommends this.&#8203;
+
+Try direct IP: Resolve rt.com IP via nslookup rt.com 8.8.8.8 (e.g., via
+external DNS), then curl/browser to that IP, though DDOS-Guard may still
+challenge.&#8203;
+
+Long-term Access
+RT remains globally operational
+ lol
+19.12.2025 04:11:24
+koukal jsem tam přes tor a je to normální news web.
+
+Žádná craězy propaganda, ale normální web s normálníma zprávama. Žádné Rusko
+good, EU bad, ale prostě normální zprávy. Nechápu, proč to EU blokuje a proč
+to nesmíme vidět.
+[Smajlík] [Muž]36 [Kategorie]
+ _w_u_t
 19.12.2025 03:35:11
 A jaký přesně asi čekáš, že si uděláš názor z RT? Rusko je skvělý, kolektivní
 Západ je zlý, na Ukrajině jsou nacisti, nechceme válku a hodíme na vás
