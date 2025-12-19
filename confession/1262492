@@ -42,6 +42,29 @@ zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky.
 jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
 zaregistruj si ji _Z_D_E !
  
+19.12.2025 06:46:52
+Je to zmrdstvo.
+ lol
+19.12.2025 06:34:03
+lol
+
+1)
+používal jsem dnsku od O2
+ale ani google či cloudflare mi nejede - na ipconfig /flushdns jsem
+nezapomněl.
+
+2)
+Když zkusim přímo IP, tak mi to vrací 503 Service Unavailable, maj tam DDOS
+guard
+Name: rt.com
+Address: 91.215.41.4
+
+3)
+curl mi vrátí 301, Requested content has been permanently moved.
+
+4) přes TOR se samozřejmě dostanu...
+[Smajlík] [Muž]36 [Kategorie]
+ _w_u_t
 19.12.2025 04:41:10
 curl -sSfkLI _h_t_t_p_s_:_/_/_r_t_._c_o_m_ 
 HTTP/2 301
