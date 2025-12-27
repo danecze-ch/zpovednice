@@ -47,6 +47,32 @@ zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky.
 jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
 zaregistruj si ji _Z_D_E !
  
+27.12.2025 22:21:41
+Nevim presne cemu rikas vibe coding ty, nicmene co funguje mne:
+
+- kdyz pisu nejakej pattern (typicky builder, state machine etc), casto staci
+napsat 2-3 radky a zbytek mi doplni dle datoveho typu a vetsinou je to cajk.
+Na slozitejsi veci je dobrej chatgpt jako konzultant ale ne jako dev ;)
+
+- nechavam si vygenerovar jednoduchej template readme.md, nicmene pak se
+stejne musi upravit (uz jen vykosteni tech blbejch ikonek)
+
+- kdyz prototypuju a potrebuju rychle mrte podobnyho kodu. Onehda sem psal
+parser na syscally, kostru sem si napsal nicmene nechal sem ho vygenerovat asi
+50 parseru dle verejnejch man pages syscallu co me zajimaly a ktery sem chtel
+analyzovat. Jasne je to ve finalnim produktu k nicemu protoze bys mel mit
+architekturu ktera tohle pojme ale pro nakej PoC je to pecka
+
+- samozrejme si necham generovat nektery unit testy
+
+- co je pecka je nechat si vygenerovat a vysvetlit nejakej minimalni PoC a a
+tim si hrat. Nedavno sem treba takhle resil vlastni async runtime v rustu ;)
+
+Obecne nedelam "vibe coding" v tom smyslu ze nevim co a jak chci napsat, spis
+ai za me dela spoustu otravne prace. Ja ale delam pomerne speficky tooly
+vetsinou se zamerenim na infra/sit/devops. Pouzivam combo copilot + chatgpt+ a
+pisu hlavne v rustu, sem tam go.
+ Psoug
 27.12.2025 19:10:55
 Alda
 
