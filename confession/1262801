@@ -47,6 +47,43 @@ zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky.
 jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
 zaregistruj si ji _Z_D_E !
  
+27.12.2025 19:10:55
+Alda
+
+Optimalizace je zrovna jedna z věcí, kde se naopak vůbec neptám AI, protože
+vim přesně kde jsou slabý místa a jak je chci naladit.
+
+Navíc AI ani nezná možnosti jak zrychlit spoustu věcí a končí s optimalizací
+tam, kde já začínám.
+
+Nikdy mi třeba AI nedoporučila Intrinsics a když už, tak třeba v generickejch
+knihovnách, který jsou pomalejší, než když si totéž napíšu sám. (třeba třídu
+Tensor v .NET)
+
+Ještě umí pomoct s naprostýma pitominama, když máš třeba hrubé chyby v
+nastavení EF, ale jinak je to v dnešní době nepoužitelné.
+
+Taky neni schopná napsat dispatcher a odlejvání práce do jiných vláken. Tam
+dělá taky neustále školácké chyby.
+
+...
+
+Vztahový psycholog
+
+Zkoušim dneska opravdu vibecodit jako "profík" a zatim nic moc. Udělal jsem si
+prompty jak udělat scaffolding modulu, pak jak psát implementace a ještě jsem
+udělal prompt na consistency check, aby AI kontrolovala sebe samu a musim
+říct, že iniciace knihoven je docela dobrá, ale teď bojuju s nějakým hlubším
+porozumění mezi modulama, aplikacema a celkově orchestrací a tam už začíná AI
+narážet.
+
+Taky se snažim AI donutit k prasečinám a evidentně moc neví jak - konkrétně se
+snažim udělat WebRTC bez webu v machine-to-machine komunikaci.
+
+Uvidíme, jak to půjde dál. Vrtám se v tom od štědrýho dne a na "profi" úrovni
+až dneska.
+[Smajlík] [Muž]36 [Kategorie]
+ _w_u_t
 27.12.2025 17:20:30
 Používám ho docela hodně, ale až když si uvědomíš jeho hranice a chyby tak
 můžeš říct, že tomu trochu rozumíš.
