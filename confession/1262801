@@ -47,6 +47,23 @@ zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky.
 jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
 zaregistruj si ji _Z_D_E !
  
+28.12.2025 17:37:26
+wut:
+
+jasne pokud mas modularni architekturu, plus minus mas jeden architektonicky
+pattern tak to asi muze davat smysl. U me je problem casto v tom ze pisu:
+
+- ruzny tooly z ruznejch oblasti
+- casto sem dost v pressu
+- priznavam bez muceni, ze nejsem buhvi nakej programator a Rust se defacto
+porad ucim
+- spoustu tech veci o kterych pises mi resi vlastne architektura aplikace,
+makra, skripty nebo playbooky/role, pripadne samotnej framework kterej uz mam
+poohejbanej tak aby backend (pokud je to nejaky rest api) umel oidc, otel
+tracing, vystaveny metriky, mtls, napojeni na messaging, db, healthchecky
+apod. Nova ficura/api je defacto jen pridani noveho typu, instrumentace makry
+a pozapinani spravnejch middlewaru a tot vse.
+ Psoug
 28.12.2025 12:34:32
 Psoug
 
