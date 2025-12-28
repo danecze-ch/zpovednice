@@ -47,6 +47,49 @@ zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky.
 jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
 zaregistruj si ji _Z_D_E !
  
+28.12.2025 12:34:32
+Psoug
+
+Díky za tip, tohle co popisuješ používám už dlouho.
+
+Já považuju za vibecoding, když napíšeš prompt a LLMko za tebe ve formě agenta
+udělá mrtě práce. Prostě na 1 prompt a <5 minut exekuce za tebe udělá práci,
+co bys třeba dělal hodinu, nebo celý dopoledne.
+
+Autofill on steroids za mě vibecode uplně není, byť jsem to za vibe dlouho
+považoval, protože ti to kolikrát nabízí celou implementaci metod a tříd.
+
+Teď pracuju tak, že:
+
+mám napsané v projektu 5 souborů
+* README.md - 150 řádek, kde vysvětluju celej projekt a architekturu
+* copilot-instructions.md - 30 řádek, kde vysvětluju styl, konvence a chování
+LLMka
+
+pak mam prompty cca 50 řádek každý na:
+* scaffolding modulu, co vytvoří adresáře, abstrakci a kontrakty + handlery
+mediátoru, registraci modulu
+* implementaci modulu, to vytváří přímo třídy odvozené z abstrakce
+* sanity check, kdy si AI zkontroluje, jestli je vše provedeno správně a na
+nic se nezapomnělo
+
+...
+
+Příklad: mam modul DeviceAgent.Media a jen na základě těch 3 promptů jsem
+schopen zcela automaticky vytvořit modul, kterej se napíchne do kamery a
+mikrofonu a začne přes SignalR streamovat data na server.
+
+Nebo jsem udělal modul AppCommon.Messaging, co funguje jako inbox/outbox
+pattern, včetně idempotence, permanent store a všech vyprcávek kolem jako
+correlationId, causationId, tenantId, deviceId ...
+
+...
+
+teď se snažim vymyslet prompt na orchestraci modulů a orchestraci machine-to-
+machine komunikace. Abych mohl nejdřív naprcat jednotlivé moduly a pak dávat
+jen big picture úkoly, co budou pomocí těch modulů odbavovány a orchestrovány.
+[Smajlík] [Muž]36 [Kategorie]
+ _w_u_t
 27.12.2025 22:21:41
 Nevim presne cemu rikas vibe coding ty, nicmene co funguje mne:
 
