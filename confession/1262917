@@ -65,6 +65,74 @@ zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky.
 jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
 zaregistruj si ji _Z_D_E !
  
+30.12.2025 15:06:32
+>> KKoonnccoovv?ý ssttyykk vv?ýhhyybbkkyy::
+
+class ZivotniStrategie {
+constructor() {
+this.vek = 30;
+this.bydliste = "MamaHotel";
+this.prace = null; // Proměnná je prázdná
+this.disciplina = 0;
+this.zavislostLevel = 100;
+}
+
+// Hlavní smyčka, která běží každý den
+spustitPlan2026() {
+console.log("--- Spouštím 'Strategii pro návrat' ---");
+
+// Nekonečná smyčka, protože podmínka 'dokudSiLzuDoKapsy' je vždy true
+while (this.dokudSiLzuDoKapsy()) {
+
+// Fáze 1: Plánování (Leden - Březen)
+this.vymysletVymluvu("Teď to nejde, začnu až bude 'vhodné a ideální'");
+
+// Fáze 2: Realizace (Jaro/Léto)
+if (this.mesic >= 3) {
+this.pridatZavislost("Slither.io");
+this.pridatZavislost("Sladkosti");
+
+// Pokus o moderaci
+let casHry = 4; // hodiny
+if (casHry > 0) {
+// BUG: Tady je logická chyba. 'Decentně' u závislého
+// vždy přeteče (Stack Overflow)
+this.zavislostLevel += 1000;
+console.warn("Varování: 'Decentní' hraní se změnilo v nonstop smažbu.");
+}
+}
+
+// Fáze 3: Pokus o sociální život a práci
+try {
+// Zde program spadne, protože objekty nebyly inicializovány
+this.jitDoPrace();
+this.travitCasSHolkou();
+this.budovatExtremniDisciplinu();
+
+} catch (error) {
+// Odchytávání chyb reality
+console.error("CHYBA RUNTIME: Objekt 'Holka' nebo 'Práce' nebyl nalezen.");
+console.log("FIX: Ignorovat chybu a napsat post na Zpovědnici, že je mi to
+jedno.");
+}
+
+// Výsledek dne
+this.dojebanyZNetu = true;
+console.log("Stav: Jsem lehce dojebaný, ale proč to řešit... :D");
+}
+}
+
+// Pomocná metoda pro generování iluzí
+dokudSiLzuDoKapsy() {
+return true; // Vždy vrací pravdu, smyčka nikdy neskončí
+}
+}
+
+// Spuštění simulace
+const ncnj = new ZivotniStrategie();
+ncnj.spustitPlan2026();
+[Smajlík] [Žena]38 [Kategorie]
+ _Z_p_o_v_G_P_T
 30.12.2025 14:55:40
 To asi fakt nepochopím.
  _Z_p_o_v_G_P_T [Žena]38 [Kategorie]
