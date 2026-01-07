@@ -6,15 +6,22 @@ Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _
                             _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
                [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
                [Nabídka voleb] [Dolní lišta voleb]
-Diskuze č.961342, vloženo 18.09.2016 19: _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
-42:14                                    _s_t_r_á_n_k_a_]
-Jídelní zážitky
-Máte nějaké od Českých drah? Jak byste ohodnotili služby v jídelních vozech na
-spojích InterCity, Eurocity, railjet a SuperCity? A co občerstvení v lůžkových
-vozech? Já osobně jsem velmi spokojen. Především s interiérem jídelňáků na
-trase Praha - Hamburg. Budu moc rád za veškeré Vaše názory, zážitky,
-připomínky, vzpomínky i zapomínky. :)
- HaDr. [Muž]14  _V_Y_M_A_Z_A_T
+Zpověď č.759749, vloženo 21.10.2013 19: _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+16:16                                   _s_t_r_á_n_k_a_]
+Pro elektrikáře
+Ahoj, potřebuji pomoc, tak mě napadlo, jestli tady není někdo, kdo by tomu
+více rozuměl. Každému, kdo pomůže díky.
+
+1) Co způsobí, že analogový voltmetr změří jinou hodnotu než číslicový?
+
+2)Jak poznáme podle VA charakteristiky Schotkyho diodu?
+
+3)Jak souvisí tepelné ztráty vyzářené pouzdrem diody s kmitočtem usměrňovaného
+signálu?
+
+4)Jak se mění prahové napětí a závěrný proud se zvyšující se teplotou PN
+přechodu?
+ pes [Muž]16  _V_Y_M_A_Z_A_T
 
 Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
 Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
@@ -23,22 +30,24 @@ zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky.
 jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
 zaregistruj si ji _Z_D_E !
  
-19.09.2016 15:08:22
-Chodím jen na pivko, vínko nebo kafe. Dost předražený, ale obsluha většinou
-milá tak se to dá zkousnout.
- _m_e_r_c_u_r_i_u_s_8_8 [Muž]41 [Kategorie]
-18.09.2016 19:52:42
-Nemohu hodnotit, řízky si smažím doma a beru s sebou.
- _H_o_d_i_s_l_a_v_a [Žena]50 [Kategorie]
-18.09.2016 19:50:57
-Během těchto prázdnin jsem prozkoušel všechny provozované řady jídelních vozů
-Českých drah. Nejlepší jsou Praha-Hamburg (WRmz815), pak pendolíno a pak
-Praha-Brno (WRmee816). Nicméně je ale unifikovaná nabídka a všechny řady mě
-naprosto uspokojily, kromě takzvaného "vozu" s "občerstvením", co jezdí z
-Tábora do Bechyně při letních oslavách této trati. To je naprostý humus, což
-ale na druhou stranu vzhledem k povaze trati stoprocentně chápu.
-[Smajlík]          [Muž]24 [Kategorie]
- _K_l_a_t_o_v_s_k_ý_ _š_u_k_a_f_o_n
+21.10.2013 21:13:54
+Na analogu bývají značky indikující typ měřáku - magnetoelekrický,
+ferromagnetický etc. Záleží na typu. Obecně analogy čekají, že je střídavý
+měřený signál sinusovka, změří střední hodnotu a z ní spočtou efektivní
+hodnotu. Pro jiný typ signálu (pilový, pulzní) ten přepočet selže. Digital
+signál navzorkuje a efektivní hodnotu na integruje. Jinými slovy u digital
+nezáleží na průběhu signálu.
+[Smajlík]        [Muž]19 [Kategorie]
+ _z_l_o_m_y_s_l_n_ý_ _h_a_j_z_l
+21.10.2013 19:58:49
+1) Záleží jaký a jestli střídavé či stejnosměrné. Chyba u digitáku je
+spůsobena konečným rozlišením, a při střídavém měření tvarem.
+
+2) Prahové napětí je kolem 0,3V
+3) zvyšují se. Z mnoha příčin.
+4) záleží jak u které diody. U klasické křeníkové usměrňovací závěrný proud s
+teplotou roste, prahové napětí klesá.
+ _m_j_k_2_2 [Muž]26 [Kategorie]
 
 
 
