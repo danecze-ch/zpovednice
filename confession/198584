@@ -1,0 +1,232 @@
+Cookie Consent by _F_r_e_e_ _P_r_i_v_a_c_y_ _P_o_l_i_c_y_ _w_e_b_s_i_t_e
+[Navigační _R_E_G_I_S_T_R_A_C_E [Navigační _T_A_B_L_O [Navigační _S_T_A_T_I_S_T_I_K_A [Navigační _SS_OO_UU_TT_?Ě_?Ž_EE [Navigační _P_O_M_O_Z_T_E [Navigační _R_E_K_L_A_M_A [Navigační _K_O_N_T_A_K_T [Navigační
+    lišta]            lišta]           lišta]                lišta]             lišta]             lišta]             lišta]             lišta]
+[Navigační lišta]
+                            [Horní lišta bez menu]
+                            _[_L_o_g_o_ _Z_p_o_v_ě_d_n_i_c_e_]
+               [Dolní lišta]   [Dolní lišta]       [Dolní lišta]
+               [Nabídka voleb] [Dolní lišta voleb]
+   Otázky - Vzkazy č.198584, vloženo _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í
+   09.03.2007 09:21:08               _s_t_r_á_n_k_a_]
+   Procesory
+   Potřebovala bych radu od těch, kteří tomu rozumí. Chystám si pořídit
+   nový procesor a vůbec nerozumím tomu "názvosloví". U AMD je např.
+   označení 3200+, znamená to, že je frekvence 3,2GHz nebo se to liší?
+   A jaký je rozdíl mezi normálním a dvoujádrovým procesorem ve výkonu?
+   Našla jsem třeba tenhle Core 2 Duo T5600 1,83GHz 2MB 667MHz Merom, ta
+   frekvence je nějaká malá oproti těm normálním a tenhle stojí přes 5
+   tisíc. Opravdu tomu nerozumím a nemám se koho zeptat. Jaký procesor za
+   rozumnou cenu byste mi doporučili vy?
+   Díky všem, kdo poradí.
+
+   P.S. Na počítačových fórech bych se odpovědi dočkala za nevímjakdlouho.
+    aiwa [Žena]23  _V_Y_M_A_Z_A_T
+
+Zaslaná rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+Chceš dnes udělat dobrý skutek ? Pomoz výše uvedenému hříšníkovi tím, že mu
+dáš nějaké rozhřešení! Můžeš mu ho poslat na e-mailovou adresu, kterou uvedl u
+zpovědi, nebo napsat veřejně vyplněním formuláře na konci této stránky. A
+jestliže nechceš, aby pod tvou přezdívkou mohl vystupovat ještě někdo jiný,
+zaregistruj si ji _Z_D_E !
+ 
+11.03.2007 10:47:33
+Hlavně nemá smysl kupovat si dvoujádrovej pokud nemáš 64bitovej operační
+systém a RAM větší než 2GB.
+ Kammy
+09.03.2007 23:18:13
+kupsi pintynům intel insáj v nojtbuku s eleftéčkem.. a ten procák jak má tu
+nízkou frekvenci tak vlastně pohltí ty jiný vysoký frekvence a tím to máš
+vyvážený a i to duo Core (micubiši je core1 - hard... a nojtbuk core 2 -
+soft... a do něj napojíš akušroubovák - ware...) a zouvej se jinak budeš mít
+problémy s butováním.
+ _L_a_n_c_e_l_o_t [Muž]25 [Kategorie]
+09.03.2007 14:16:16
+Díky moc všem za rady.
+[Smajlík]
+ aiwa
+09.03.2007 11:41:46
+Typ procesoru dosti zalezi na zakladni desce - prvni vec co musis vedet je
+jestli AMD nebo Intel - hlave teda druh socketu (proste takovyho okynka na
+desce do kteryho se procesor usadi) protoze jich existuje nekolik ruznejch a
+pro kazdej jsou jiny zakladni desky. Pokud budes mit desku a procesor s
+ruznymi sockety tak to do sebe nepujde.
+
+Znaceni AMD treba 3200+ znamena ze by mel vykonostne odpovidat Intel
+procesorum s frekvenci 3,2Ghz, skutecna frekvence je pak nizsi, jak uz tu opet
+bylo receno.
+
+Co se tyce dvoujadrovych procesoru - jejich hlavni vyhoda je rozdelovani
+procesu mezi obe jadra (=affinita). Nicmene pro klasickeho uzivatele je to
+imho dosti nevhodne - pokud affinitu rucne nenastavis stejne to vsechno pobezi
+na jednom jadru. Mnohem zajimavejsi me prijde spis investovat do 64ti bitoveho
+procesoru.
+
+Jeste par vlastnich poznamek k Votrapove sestave :
+osobne bych radsi nez do Celeronu sel do nejakeho AMD (Athlon 64) a podle toho
+prizpusobit desku, u disku bych radsi za stejnou cenu sahnul po Seagatu
+(stejne parametry i cena), pameti vypadaji dobre ale ATI grafiku bych po
+zkusenostech uz nekoupil (v tehle cenove relaci GainWard 7600GT 256MB DDR3)
+ale pokud jde o PC jenom na praci a ne na hrani her tak klidne staci i nejaka
+obycejnejsi
+k tomu vsemu samozrejme zdroj aspon 300 ale spis 350W
+
+Tak doufam ze sem ti v tom nenadelal jeste vetsi gulas :)
+[Smajlík] [Muž]21 [Kategorie]
+ _T_r_e_y
+09.03.2007 11:36:10
+V pripade ze chces hrat hry tak dvoujadro ANO. Je jen otazkou cca roku kdy
+vetsina narocnejsich her bude vic jader vyuzivat treba pro vypocty fyziky nebo
+AI.
+
+Ovsem pocitej s tim ze hry stoji a padaji na graficke karte (takze do noveho
+PC na hry minimalne 5000,- jen grafika) a zerou RAM (takze do noveho PC urcite
+2GB RAM), procesor na hry tak dulezity neni, cimz se dostavas totalne mimo
+rozsah 12 000,-.
+
+S rozpoctem 12000,- bud pockat a nasetrit vic penez a nebo PC nebude na hry. V
+kazdem pripade se vyhni hypermarketovym "uzasne levnym" sestavam skladanych z
+toho co zustalo neprodejne ve skladu a radeji si to nech postavit z kvalitnich
+dilu.
+
+Konkretne treba...
+
+Deska Intel Lemont Bulk, LGA775, iP965
+CPU Celeron D360, 3,4GHz
+RAM 1GB Kingstone DDRII 667
+grafika Leadtek 7600GT
+disk Seagate Barracuda 160GB
+DVDRW NEC
+zdroj Fortron 400W
+bez skrine
+
+Vychazi celkem na cca 14 000,- s DPH a je to minimum o cem se da mluvit jako o
+PC na hry.
+ _3_D_F_X_4_e_v_a [Muž]46 [Kategorie]
+09.03.2007 11:25:22
+Core2Duo je velmi dobrý procesor, který se Intelu po delší době povedl. U AMD
+je zvykem v označení uvádět číslo, které značí ekvivalentní frekvenci u
+Intelu. V tuhle chvíli, ale velmi často se to mění, má nejvýhodnější poměr
+cena výkon AMD 64 3500+. Procesor Core2Duo T5600 je primárně určen do
+notebooků. Do stolních PC pak mají označení E4300, E6300, E6400, E6600 atd.
+ _C_h_a_r_l_e_s [Muž]49 [Kategorie]
+09.03.2007 10:21:48
+aiwa: V levnějších sestavách je lepší zvolit jednojádrový procesor, protože i
+když dvoujádro je příslibem do budoucna rozhodně to není premiant ve třídě
+cena/výkon. V této cenové relaci bych osobně koupil:
+
+Intel Celeron D360 3,46GHz 533MHz BOX 775pin
+Gigabyte GA-8I945GZME-RH - Intel 945GZ
+Geil DIMM 1024MB DDR II 533MHz
+Samsung HD321KJ - 320GB 16MB SATA II
+Sapphire Atlantis ATI Radeon X1650 Pro Ultimate 256MB, PCI-E
+
+Cena cca 10.500,- vč. DPH. Předpokládám, že bednu máš (jestli je nějaká stará
+uvaž i zda-li koupit nový zdroj - Fortron, Seasonic - žádné Eurocase atp.)
+
+Paměti mají hliníkový chladič a grafika je taktéž pasivně chlazená. Proto je
+dobré udělat ve skříňi trošku průvan (dva 120 mm větráky - jeden v přední
+části táhne vzduch dovnitř a druhý v zadní části vyfukuje vzduch ven). CPU je
+jako jeden z mála Celeronů vyráběno novou tehcnologií 65 nm (starší typy 90 nm
+nebrat) a má navíc i 512 KB L2 Cache (oproti poloviční u starších typů).
+
+Celkově by mělo být PC nadprůměrné tiché (jestli ti to ovšem nezmrší nějaký
+hlasitý zdroj) a k tichu by mělo přispět i to, že bys případně vyměnila BOX
+chladič na CPU za nějaký lepší.
+[Smajlík] [Muž] [Kategorie]
+ _V_o_t_r_a_p_a
+09.03.2007 09:59:08
+Monitor ani systém nepotřebuju, konkrétní typ/značku procesory nehledám, jen
+mě zajímalo to číslování a jestli se do budoucna vyplatí dvoujádrovej
+procesor, jestli se to dá vůbec využít. Na sestavu dám max. 12 tis.
+ aiwa
+09.03.2007 09:55:50
+A kolik máš peněz na celou sestavu (včetně monitoru a systému).
+ _V_o_t_r_a_p_a [Muž] [Kategorie]
+09.03.2007 09:44:33
+Samozřejmě nebudu nový procesor cpát do starého počítače, ale nechám si
+poskládat nový, jen jsem se chtěla dozvědět o těch procesorech. Počítač mám
+mj. i na hraní her s poměrně velkými HW nároky, tak proto. A díky těm, co mi
+poradili.
+ aiwa
+09.03.2007 09:39:27
+AMD:
+Znaceni 3200+ znamena ze je tenhle procesor vykonem umerny cca 3,2GHz Pentium
+4 od Intelu. Skutecna frekvence je pak nizsi.
+
+Jadra:
+Dvoujadrovy procesor jsou vlastne dva stejne procesory v jedne "krabicce".
+Pokud pouzivas aplikace ktere jsou schopne vyuzit vice procesoru nebo vic
+narocnych aplikaci soucasne tak mas teoreticky s dvoujadrovym CPU dvojnasobny
+vykon. Pokud pouzivas aplikace ktere nejsou schopny vyuzit vice CPU tak se
+bude druhe jadro flakat a cely CPU se bude chovat jako jednojadrovy. Aplikaci
+s podporou vice CPU pomalu pribyva takze pokud kupujes PC na nekolik let tak
+dvoujadro stoji za uvahu.
+
+Frekvence:
+Procesory Core 2 Duo jsou uplne jina architektura nez byly starsi Pentium 4 a
+Celeron D od Intelu. I s nizsi frekvenci jsou o dost vykonnejsi (za stejny cas
+udelaji vic prace). 1,83GHz Core 2 Duo je v realu stejne vykonne nebo i
+vykonnejsi nez 3GHz Pentium 4 a k tomu ma vyrazne mensi spotrebu a min topi
+(staci mensi a mene hlucny chladic).
+
+Vyber CPU:
+Napis na jake pouziti vlastne pocitac kupujes jinak nema smysl cokoliv radit
+;-).
+ _3_D_F_X_4_e_v_a [Muž]46 [Kategorie]
+09.03.2007 09:38:11
+Záleží kolk má peněz. Ten procesor se osadí na základní desku a tím je
+většinou dán výrobce procesoru. Nejde obvykle zaměnit AMD a Intel. U AMD 3200+
+je jakésy označení , které ale nemá co dělat se skutečnou frekvencí. AMD je
+cenově lacinější, vyžaduje velmi kvalitný chlazení, protože hodně topí.
+Dvoujárový procesor je moderní, zvládá více než jednojádrový. Já osobně bych
+bych koupil ten dvoujádrový. Čím vyšší frekvence, ať jde o značení AMD nebo
+CORE, tím lépe - není ale možné srovnávat jejich rychlost velikostí číslice.
+Nejde ale procesor kupovat bez znalosti, co potřebuje základní deska. Dále je
+důležité mít alespoň 1 GB RM (oparační paměti) Lépe je 2GB. Tedy tvůj dotaz,
+jaký procesor nemá smysl......
+ _n_i_v_e_a [Žena]36 [Kategorie]
+09.03.2007 09:32:40
+Nedobře se na to díváš. Řekni co na tom počítači chceš dělat a kolik na to máš
+peněz a řeknu ti, který je vhodný.
+
+P.S. Jestliže chceš kupovat pouze nový procesor, tak musíš mít i kompatibilní
+desku.
+
+P.P.S. A samozřejmě mažu.
+[Smajlík] [Muž] [Kategorie]
+ _V_o_t_r_a_p_a
+09.03.2007 09:30:15
+vyhledávač?
+[Smajlík]  [Muž]37 [Kategorie]
+ _k_r_i_s_t_u_s_e_k
+09.03.2007 09:27:57
+Si to vygůgluj. Je o tom všude hafo informací.
+ _F_i_l_d_a_s_e_k [Muž]33 [Kategorie]
+
+
+
+ Přidání rozhřešení _[_S_t_a_r_š_í_ _z_p_o_v_ě_ď_]_[_N_o_v_ě_j_š_í_ _z_p_o_v_ě_ď_]_[_H_l_a_v_n_í_ _s_t_r_á_n_k_a_]
+ TVÁ PŘEZDÍVKA:
+ [jmenko              ]       _TT_ee_nn_tt_oo_ _ii_nn_zz_ee_rr_aa_tt_ _kk_oo_uu_pp_?í_tt_ee_ _oo_nn_--_ll_ii_nn_ee_ _oo_dd_ _11_00_00_ _KK_?č_..
+ OPIŠ BEZPEČNOSTNÍ KOD:       _P_ř_i_d_e_j_ _i_n_z_e_r_á_t_ _o_n_-_l_i_n_e_ _o_d_ _1_0_0_ _K_č
+ [Captcha]
+ [code                ]
+
+ PŘILOŽ SMAILÍKA:
+ _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l    _[_S_m_a_i_l   _[_S_m_a_i_l  _[_S_m_a_i_l   _[_S_m_a_i_l _[_S_m_a_i_l
+ _P_a_l_e_c   _H_r_o_z_í_c_í_] _D_r_ž_í   _N_e_n_í_ _t_o   _D_o_s_t_a_n_e_š _S_m_u_t_n_ý_] _C_o_ž_e_?_?_]  _S_a_f_r_a_] _P_u_s_i_n_k_a_]
+ _n_a_h_o_r_u_]          _p_a_l_e_c_] _d_ů_l_e_ž_i_t_é_] _d_o_ _h_u_b_y_]
+ ojupííí otak     održím oto je    otumáááš oach jo ono nééé osafra ommmuc
+         bacha    palec  fuk                        ?!
+ (#žádný )
+
+ [Odeslat rozh???e???en???]
+
+ NNeejjlleepp?š?í cchhoorr?álloovv?á sskkuuppiinnaa ssvv?ěttaa...... _GG_RR_EE_GG_OO_RR_II_AA_NN_ _22_00_22_00 ......2200tthh AANNNNIIVVEERRSSAARRYY WWOORRLLDD
+                                    TTOOUURR..
+
+ REKLAMA
+ Copyright 2003 www.zpovednice.cz + www.spovednica.sk
+
+
+
